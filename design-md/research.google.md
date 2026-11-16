@@ -1,26 +1,26 @@
 # How research.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/research.google-design)
+[Open the live Fudge conversation](https://fudge.design/share/research.google-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![People page hero with oversized display heading, research photography collage, and filterable researcher grid below](https://pin.fontofweb.com/9575?format=jpg)](https://design.withfudge.com/share/pin-9575)
+[![People page hero with oversized display heading, research photography collage, and filterable researcher grid below](https://pin.fontofweb.com/9575?format=jpg)](https://fudge.design/share/pin-9575)
 
-[People page hero with oversized display heading, research photography collage, and filterable researcher grid below](https://design.withfudge.com/share/pin-9575)
+[People page hero with oversized display heading, research photography collage, and filterable researcher grid below](https://fudge.design/share/pin-9575)
 
-[![Dense researcher directory with sidebar filter checklist, search bar, and three-column portrait cards](https://pin.fontofweb.com/9576?format=jpg)](https://design.withfudge.com/share/pin-9576)
+[![Dense researcher directory with sidebar filter checklist, search bar, and three-column portrait cards](https://pin.fontofweb.com/9576?format=jpg)](https://fudge.design/share/pin-9576)
 
-[Dense researcher directory with sidebar filter checklist, search bar, and three-column portrait cards](https://design.withfudge.com/share/pin-9576)
+[Dense researcher directory with sidebar filter checklist, search bar, and three-column portrait cards](https://fudge.design/share/pin-9576)
 
-[![Join us recruitment section with dark pill button and overlapping editorial photography with decorative green dot](https://pin.fontofweb.com/9578?format=jpg)](https://design.withfudge.com/share/pin-9578)
+[![Join us recruitment section with dark pill button and overlapping editorial photography with decorative green dot](https://pin.fontofweb.com/9578?format=jpg)](https://fudge.design/share/pin-9578)
 
-[Join us recruitment section with dark pill button and overlapping editorial photography with decorative green dot](https://design.withfudge.com/share/pin-9578)
+[Join us recruitment section with dark pill button and overlapping editorial photography with decorative green dot](https://fudge.design/share/pin-9578)
 
-[![Pagination controls and researcher cards with square portrait thumbnails and research area tags](https://pin.fontofweb.com/9577?format=jpg)](https://design.withfudge.com/share/pin-9577)
+[![Pagination controls and researcher cards with square portrait thumbnails and research area tags](https://pin.fontofweb.com/9577?format=jpg)](https://fudge.design/share/pin-9577)
 
-[Pagination controls and researcher cards with square portrait thumbnails and research area tags](https://design.withfudge.com/share/pin-9577)
+[Pagination controls and researcher cards with square portrait thumbnails and research area tags](https://fudge.design/share/pin-9577)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The design should adapt gracefully below the captured desktop viewport. The thre
 ## Scope note
 
 This guide covers the People directory and related landing surfaces of Google Research. It does not include the Resources section, blog templates, conference pages, or mobile-specific layouts. Motion behavior, hover states, and loading skeletons are not documented from the captured still images. Measurements reflect the exact values present in the supplied interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

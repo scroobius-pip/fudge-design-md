@@ -1,26 +1,26 @@
 # How salesforce.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/salesforce.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/salesforce.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Salesforce cloud logo, social icons, and multi-column link groups against a white background with a green landscape illustration above.](https://pin.fontofweb.com/2429?format=jpg)](https://design.withfudge.com/share/pin-2429)
+[![Footer section with Salesforce cloud logo, social icons, and multi-column link groups against a white background with a green landscape illustration above.](https://pin.fontofweb.com/2429?format=jpg)](https://fudge.design/share/pin-2429)
 
-[Footer section with Salesforce cloud logo, social icons, and multi-column link groups against a white background with a green landscape illustration above.](https://design.withfudge.com/share/pin-2429)
+[Footer section with Salesforce cloud logo, social icons, and multi-column link groups against a white background with a green landscape illustration above.](https://fudge.design/share/pin-2429)
 
-[![Customer proof section with three blue gradient stat cards showing 50%, 80%, and 20x metrics with white typography and underlined story links below.](https://pin.fontofweb.com/2428?format=jpg)](https://design.withfudge.com/share/pin-2428)
+[![Customer proof section with three blue gradient stat cards showing 50%, 80%, and 20x metrics with white typography and underlined story links below.](https://pin.fontofweb.com/2428?format=jpg)](https://fudge.design/share/pin-2428)
 
-[Customer proof section with three blue gradient stat cards showing 50%, 80%, and 20x metrics with white typography and underlined story links below.](https://design.withfudge.com/share/pin-2428)
+[Customer proof section with three blue gradient stat cards showing 50%, 80%, and 20x metrics with white typography and underlined story links below.](https://fudge.design/share/pin-2428)
 
-[![Learning resources section with two large cards featuring Trailhead bear mascot and event imagery, each with outlined action buttons.](https://pin.fontofweb.com/2427?format=jpg)](https://design.withfudge.com/share/pin-2427)
+[![Learning resources section with two large cards featuring Trailhead bear mascot and event imagery, each with outlined action buttons.](https://pin.fontofweb.com/2427?format=jpg)](https://fudge.design/share/pin-2427)
 
-[Learning resources section with two large cards featuring Trailhead bear mascot and event imagery, each with outlined action buttons.](https://design.withfudge.com/share/pin-2427)
+[Learning resources section with two large cards featuring Trailhead bear mascot and event imagery, each with outlined action buttons.](https://fudge.design/share/pin-2427)
 
-[![Support section with three pale yellow benefit cards and Astro character illustration in a landscape scene at the bottom.](https://pin.fontofweb.com/2426?format=jpg)](https://design.withfudge.com/share/pin-2426)
+[![Support section with three pale yellow benefit cards and Astro character illustration in a landscape scene at the bottom.](https://pin.fontofweb.com/2426?format=jpg)](https://fudge.design/share/pin-2426)
 
-[Support section with three pale yellow benefit cards and Astro character illustration in a landscape scene at the bottom.](https://design.withfudge.com/share/pin-2426)
+[Support section with three pale yellow benefit cards and Astro character illustration in a landscape scene at the bottom.](https://fudge.design/share/pin-2426)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Touch targets for buttons and footer links should maintain minimum 44px height o
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images, including the CTA footer, customer proof statistics, learning resources, and support sections. Navigation, header, hero area, and additional page surfaces are not represented. Motion, hover states, form interactions, and mobile-specific layouts are not covered. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

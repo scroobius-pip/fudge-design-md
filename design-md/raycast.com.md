@@ -1,26 +1,26 @@
 # How raycast.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/raycast.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/raycast.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with diagonal red light streaks, centered headline, and dual download buttons on pure black canvas](https://pin.fontofweb.com/7307?format=jpg)](https://design.withfudge.com/share/pin-7307)
+[![Homepage hero with diagonal red light streaks, centered headline, and dual download buttons on pure black canvas](https://pin.fontofweb.com/7307?format=jpg)](https://fudge.design/share/pin-7307)
 
-[Homepage hero with diagonal red light streaks, centered headline, and dual download buttons on pure black canvas](https://design.withfudge.com/share/pin-7307)
+[Homepage hero with diagonal red light streaks, centered headline, and dual download buttons on pure black canvas](https://fudge.design/share/pin-7307)
 
-[![Pricing table bottom rows showing subscription tiers with pill-shaped action buttons and subtle grid lines](https://pin.fontofweb.com/4918?format=jpg)](https://design.withfudge.com/share/pin-4918)
+[![Pricing table bottom rows showing subscription tiers with pill-shaped action buttons and subtle grid lines](https://pin.fontofweb.com/4918?format=jpg)](https://fudge.design/share/pin-4918)
 
-[Pricing table bottom rows showing subscription tiers with pill-shaped action buttons and subtle grid lines](https://design.withfudge.com/share/pin-4918)
+[Pricing table bottom rows showing subscription tiers with pill-shaped action buttons and subtle grid lines](https://fudge.design/share/pin-4918)
 
-[![Feature comparison matrix with five plan columns, checkmarks, and muted unavailable indicators](https://pin.fontofweb.com/4917?format=jpg)](https://design.withfudge.com/share/pin-4917)
+[![Feature comparison matrix with five plan columns, checkmarks, and muted unavailable indicators](https://pin.fontofweb.com/4917?format=jpg)](https://fudge.design/share/pin-4917)
 
-[Feature comparison matrix with five plan columns, checkmarks, and muted unavailable indicators](https://design.withfudge.com/share/pin-4917)
+[Feature comparison matrix with five plan columns, checkmarks, and muted unavailable indicators](https://fudge.design/share/pin-4917)
 
-[![Three pricing cards with tiered surfaces, large dollar figures, and detailed feature checklists](https://pin.fontofweb.com/4916?format=jpg)](https://design.withfudge.com/share/pin-4916)
+[![Three pricing cards with tiered surfaces, large dollar figures, and detailed feature checklists](https://pin.fontofweb.com/4916?format=jpg)](https://fudge.design/share/pin-4916)
 
-[Three pricing cards with tiered surfaces, large dollar figures, and detailed feature checklists](https://design.withfudge.com/share/pin-4916)
+[Three pricing cards with tiered surfaces, large dollar figures, and detailed feature checklists](https://fudge.design/share/pin-4916)
 
 ## Overview
 
@@ -153,3 +153,18 @@ Typography scales down proportionally: hero-display should reduce to approximate
 ## Scope note
 
 This guide covers the homepage and pricing surfaces of raycast.com. Mobile layouts, interactive states including hover and focus, animation specifications, and documentation or blog templates are not represented in the supplied materials. The Store, Pro, AI, iOS, Windows, Teams, Developers, and Blog sections referenced in navigation are not documented here. Measurements derive from retained interface values where available and from visual interpretation of supplied images for structural components.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

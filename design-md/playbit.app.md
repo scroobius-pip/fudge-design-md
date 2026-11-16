@@ -1,26 +1,26 @@
 # How playbit.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/playbit.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/playbit.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Runtime section with four-column feature grid describing capabilities, sandboxes, fault boundaries, and ABI on dark gradient background](https://pin.fontofweb.com/8286?format=jpg)](https://design.withfudge.com/share/pin-8286)
+[![Runtime section with four-column feature grid describing capabilities, sandboxes, fault boundaries, and ABI on dark gradient background](https://pin.fontofweb.com/8286?format=jpg)](https://fudge.design/share/pin-8286)
 
-[Runtime section with four-column feature grid describing capabilities, sandboxes, fault boundaries, and ABI on dark gradient background](https://design.withfudge.com/share/pin-8286)
+[Runtime section with four-column feature grid describing capabilities, sandboxes, fault boundaries, and ABI on dark gradient background](https://fudge.design/share/pin-8286)
 
-[![Code example block with syntax-highlighted C code alongside Things to try instructions and four-column explanatory grid](https://pin.fontofweb.com/8285?format=jpg)](https://design.withfudge.com/share/pin-8285)
+[![Code example block with syntax-highlighted C code alongside Things to try instructions and four-column explanatory grid](https://pin.fontofweb.com/8285?format=jpg)](https://fudge.design/share/pin-8285)
 
-[Code example block with syntax-highlighted C code alongside Things to try instructions and four-column explanatory grid](https://design.withfudge.com/share/pin-8285)
+[Code example block with syntax-highlighted C code alongside Things to try instructions and four-column explanatory grid](https://fudge.design/share/pin-8285)
 
-[![Hero area with Playbit for macOS download card showing green app icon on gray panel, plus introductory text and code example](https://pin.fontofweb.com/8284?format=jpg)](https://design.withfudge.com/share/pin-8284)
+[![Hero area with Playbit for macOS download card showing green app icon on gray panel, plus introductory text and code example](https://pin.fontofweb.com/8284?format=jpg)](https://fudge.design/share/pin-8284)
 
-[Hero area with Playbit for macOS download card showing green app icon on gray panel, plus introductory text and code example](https://design.withfudge.com/share/pin-8284)
+[Hero area with Playbit for macOS download card showing green app icon on gray panel, plus introductory text and code example](https://fudge.design/share/pin-8284)
 
-[![Top hero with large Playbit logo, green download button, system architecture diagram with layered boxes, and circular icon set](https://pin.fontofweb.com/8283?format=jpg)](https://design.withfudge.com/share/pin-8283)
+[![Top hero with large Playbit logo, green download button, system architecture diagram with layered boxes, and circular icon set](https://pin.fontofweb.com/8283?format=jpg)](https://fudge.design/share/pin-8283)
 
-[Top hero with large Playbit logo, green download button, system architecture diagram with layered boxes, and circular icon set](https://design.withfudge.com/share/pin-8283)
+[Top hero with large Playbit logo, green download button, system architecture diagram with layered boxes, and circular icon set](https://fudge.design/share/pin-8283)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Horizontal padding of 129.68px should reduce proportionally, targeting approxima
 ## Scope note
 
 This guide covers the Playbit marketing and documentation page surface as captured. Mobile breakpoints, motion design, form components, and additional interior pages are not represented in the supplied material. The system is currently documented for desktop viewport widths.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

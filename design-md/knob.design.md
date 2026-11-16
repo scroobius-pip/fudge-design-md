@@ -1,26 +1,26 @@
 # How knob.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/knob.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/knob.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with low-profile keyboard on black background, featuring large editorial headline, lime green CTA button, and email signup in top right](https://pin.fontofweb.com/6656?format=jpg)](https://design.withfudge.com/share/pin-6656)
+[![Hero section with low-profile keyboard on black background, featuring large editorial headline, lime green CTA button, and email signup in top right](https://pin.fontofweb.com/6656?format=jpg)](https://fudge.design/share/pin-6656)
 
-[Hero section with low-profile keyboard on black background, featuring large editorial headline, lime green CTA button, and email signup in top right](https://design.withfudge.com/share/pin-6656)
+[Hero section with low-profile keyboard on black background, featuring large editorial headline, lime green CTA button, and email signup in top right](https://fudge.design/share/pin-6656)
 
-[![Keyboard detail close-up transitioning to bold orange pill-shaped footer banner with oversized serif typography and email capture form](https://pin.fontofweb.com/6655?format=jpg)](https://design.withfudge.com/share/pin-6655)
+[![Keyboard detail close-up transitioning to bold orange pill-shaped footer banner with oversized serif typography and email capture form](https://pin.fontofweb.com/6655?format=jpg)](https://fudge.design/share/pin-6655)
 
-[Keyboard detail close-up transitioning to bold orange pill-shaped footer banner with oversized serif typography and email capture form](https://design.withfudge.com/share/pin-6655)
+[Keyboard detail close-up transitioning to bold orange pill-shaped footer banner with oversized serif typography and email capture form](https://fudge.design/share/pin-6655)
 
-[![Numpad product page with white background, editorial headline, four product module images, and two-column specification tables](https://pin.fontofweb.com/6654?format=jpg)](https://design.withfudge.com/share/pin-6654)
+[![Numpad product page with white background, editorial headline, four product module images, and two-column specification tables](https://pin.fontofweb.com/6654?format=jpg)](https://fudge.design/share/pin-6654)
 
-[Numpad product page with white background, editorial headline, four product module images, and two-column specification tables](https://design.withfudge.com/share/pin-6654)
+[Numpad product page with white background, editorial headline, four product module images, and two-column specification tables](https://fudge.design/share/pin-6654)
 
-[![Numpad page top section showing status pill navigation and large editorial description text with product photography grid below](https://pin.fontofweb.com/6653?format=jpg)](https://design.withfudge.com/share/pin-6653)
+[![Numpad page top section showing status pill navigation and large editorial description text with product photography grid below](https://pin.fontofweb.com/6653?format=jpg)](https://fudge.design/share/pin-6653)
 
-[Numpad page top section showing status pill navigation and large editorial description text with product photography grid below](https://design.withfudge.com/share/pin-6653)
+[Numpad page top section showing status pill navigation and large editorial description text with product photography grid below](https://fudge.design/share/pin-6653)
 
 ## Overview
 
@@ -201,3 +201,18 @@ Navigation should collapse to a compact menu on small screens, preserving the em
 ## Scope note
 
 This guide covers the desktop product page experience for KNOB's keyboard and numpad offerings. Mobile breakpoints, checkout flows, animation behavior, and the lightswitch product page are not represented in the supplied material. The keyset and dark-variant pages share the established typographic and component system but may introduce additional color treatments not documented here.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Product detail](/share/designs-with-page.commerce.product_detail)
+- [Consumer products](/share/designs-with-industry.consumer_products)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How bsky.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bsky.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/bsky.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Bluesky landing page with centered butterfly logo, dark navy canvas, blue action button, and muted secondary sign-in button above footer links](https://pin.fontofweb.com/2864?format=jpg)](https://design.withfudge.com/share/pin-2864)
+[![Bluesky landing page with centered butterfly logo, dark navy canvas, blue action button, and muted secondary sign-in button above footer links](https://pin.fontofweb.com/2864?format=jpg)](https://fudge.design/share/pin-2864)
 
-[Bluesky landing page with centered butterfly logo, dark navy canvas, blue action button, and muted secondary sign-in button above footer links](https://design.withfudge.com/share/pin-2864)
+[Bluesky landing page with centered butterfly logo, dark navy canvas, blue action button, and muted secondary sign-in button above footer links](https://fudge.design/share/pin-2864)
 
-[![Bluesky Discover feed with left sidebar CTA, post cards containing media thumbnails, interaction icons, and verified badges in blue](https://pin.fontofweb.com/1961?format=jpg)](https://design.withfudge.com/share/pin-1961)
+[![Bluesky Discover feed with left sidebar CTA, post cards containing media thumbnails, interaction icons, and verified badges in blue](https://pin.fontofweb.com/1961?format=jpg)](https://fudge.design/share/pin-1961)
 
-[Bluesky Discover feed with left sidebar CTA, post cards containing media thumbnails, interaction icons, and verified badges in blue](https://design.withfudge.com/share/pin-1961)
+[Bluesky Discover feed with left sidebar CTA, post cards containing media thumbnails, interaction icons, and verified badges in blue](https://fudge.design/share/pin-1961)
 
 ## Overview
 
@@ -178,3 +178,18 @@ When implementing responsive behavior, the sidebar should become a slide-out dra
 ## Scope note
 
 This guide covers the unauthenticated landing page and Discover feed visible in the supplied images. Measurements are practical adaptation targets. Items not covered include authenticated user flows, profile pages, search interfaces, notification systems, settings panels, composer interfaces, direct messaging, mobile-native layouts, dark-to-light mode switching, loading and empty states, error pages, and any motion or animation behavior. The exact spacing, radius, and font-size values were not retained in the source material and have been reconstructed from visual inspection against the 4px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

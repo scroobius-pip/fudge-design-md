@@ -1,26 +1,26 @@
 # How vellum.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vellum.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/vellum.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with dark aurora background, white headline, prompt input card, and category pill filters over a product-led social proof bar.](https://pin.fontofweb.com/5553?format=jpg)](https://design.withfudge.com/share/pin-5553)
+[![Homepage hero with dark aurora background, white headline, prompt input card, and category pill filters over a product-led social proof bar.](https://pin.fontofweb.com/5553?format=jpg)](https://fudge.design/share/pin-5553)
 
-[Homepage hero with dark aurora background, white headline, prompt input card, and category pill filters over a product-led social proof bar.](https://design.withfudge.com/share/pin-5553)
+[Homepage hero with dark aurora background, white headline, prompt input card, and category pill filters over a product-led social proof bar.](https://fudge.design/share/pin-5553)
 
-[![Workflows product page with light lavender canvas, serif headline, node-based UI screenshot, and purple primary action button.](https://pin.fontofweb.com/1427?format=jpg)](https://design.withfudge.com/share/pin-1427)
+[![Workflows product page with light lavender canvas, serif headline, node-based UI screenshot, and purple primary action button.](https://pin.fontofweb.com/1427?format=jpg)](https://fudge.design/share/pin-1427)
 
-[Workflows product page with light lavender canvas, serif headline, node-based UI screenshot, and purple primary action button.](https://design.withfudge.com/share/pin-1427)
+[Workflows product page with light lavender canvas, serif headline, node-based UI screenshot, and purple primary action button.](https://fudge.design/share/pin-1427)
 
-[![Deep navy footer with multi-column link grid, compliance badges, and muted lavender column labels on a dark surface.](https://pin.fontofweb.com/1426?format=jpg)](https://design.withfudge.com/share/pin-1426)
+[![Deep navy footer with multi-column link grid, compliance badges, and muted lavender column labels on a dark surface.](https://pin.fontofweb.com/1426?format=jpg)](https://fudge.design/share/pin-1426)
 
-[Deep navy footer with multi-column link grid, compliance badges, and muted lavender column labels on a dark surface.](https://design.withfudge.com/share/pin-1426)
+[Deep navy footer with multi-column link grid, compliance badges, and muted lavender column labels on a dark surface.](https://fudge.design/share/pin-1426)
 
-[![Pricing feature comparison table with alternating white and subtle gray row bands, purple checkmarks, and segmented plan toggle.](https://pin.fontofweb.com/1425?format=jpg)](https://design.withfudge.com/share/pin-1425)
+[![Pricing feature comparison table with alternating white and subtle gray row bands, purple checkmarks, and segmented plan toggle.](https://pin.fontofweb.com/1425?format=jpg)](https://fudge.design/share/pin-1425)
 
-[Pricing feature comparison table with alternating white and subtle gray row bands, purple checkmarks, and segmented plan toggle.](https://design.withfudge.com/share/pin-1425)
+[Pricing feature comparison table with alternating white and subtle gray row bands, purple checkmarks, and segmented plan toggle.](https://fudge.design/share/pin-1425)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Category filter pills should wrap naturally or convert to a horizontal scroll co
 ## Scope note
 
 This guide covers the homepage hero experience, product workflow pages, pricing comparison surfaces, and site footer as visible in the supplied captures. Mobile layouts, animation specifications, form validation states, and dashboard interfaces beyond the marketing site are not represented. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How gamma.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gamma.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/gamma.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark support section with gradient pill containing team avatars, 'We're here to help' headline, and partner logos including Phantom and Rarible](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/share/pin-8485)
+[![Dark support section with gradient pill containing team avatars, 'We're here to help' headline, and partner logos including Phantom and Rarible](https://pin.fontofweb.com/8485?format=jpg)](https://fudge.design/share/pin-8485)
 
-[Dark support section with gradient pill containing team avatars, 'We're here to help' headline, and partner logos including Phantom and Rarible](https://design.withfudge.com/share/pin-8485)
+[Dark support section with gradient pill containing team avatars, 'We're here to help' headline, and partner logos including Phantom and Rarible](https://fudge.design/share/pin-8485)
 
-[![Full-bleed NFT gallery grid showcasing colorful digital artwork with 'Visible Violets Volume 2' featured drop overlay and mint statistics](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/share/pin-8484)
+[![Full-bleed NFT gallery grid showcasing colorful digital artwork with 'Visible Violets Volume 2' featured drop overlay and mint statistics](https://pin.fontofweb.com/8484?format=jpg)](https://fudge.design/share/pin-8484)
 
-[Full-bleed NFT gallery grid showcasing colorful digital artwork with 'Visible Violets Volume 2' featured drop overlay and mint statistics](https://design.withfudge.com/share/pin-8484)
+[Full-bleed NFT gallery grid showcasing colorful digital artwork with 'Visible Violets Volume 2' featured drop overlay and mint statistics](https://fudge.design/share/pin-8484)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Typography scales down modestly: hero-display should reduce to section-display s
 ## Scope note
 
 This guide covers the Gamma homepage including the NFT gallery grid, featured drop presentation, partner section, and support area. Interior marketplace pages, wallet connection flows, transaction states, and mobile-specific layouts are not represented in the supplied material. The spacing values reflect the extracted interface measurements directly.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Marketplace](/share/designs-with-offering.marketplace)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

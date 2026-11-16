@@ -1,26 +1,26 @@
 # How arc.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/arc.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/arc.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with electric-blue textured background, large white display quote, and paired download buttons for Mac and Windows](https://pin.fontofweb.com/4907?format=jpg)](https://design.withfudge.com/share/pin-4907)
+[![Hero section with electric-blue textured background, large white display quote, and paired download buttons for Mac and Windows](https://pin.fontofweb.com/4907?format=jpg)](https://fudge.design/share/pin-4907)
 
-[Hero section with electric-blue textured background, large white display quote, and paired download buttons for Mac and Windows](https://design.withfudge.com/share/pin-4907)
+[Hero section with electric-blue textured background, large white display quote, and paired download buttons for Mac and Windows](https://fudge.design/share/pin-4907)
 
-[![Testimonial grid on cream background with electric-blue quotes, followed by a solid blue CTA band and textured footer](https://pin.fontofweb.com/4909?format=jpg)](https://design.withfudge.com/share/pin-4909)
+[![Testimonial grid on cream background with electric-blue quotes, followed by a solid blue CTA band and textured footer](https://pin.fontofweb.com/4909?format=jpg)](https://fudge.design/share/pin-4909)
 
-[Testimonial grid on cream background with electric-blue quotes, followed by a solid blue CTA band and textured footer](https://design.withfudge.com/share/pin-4909)
+[Testimonial grid on cream background with electric-blue quotes, followed by a solid blue CTA band and textured footer](https://fudge.design/share/pin-4909)
 
-[![Browser window mockup showing Arc's sidebar with Spaces and Profiles, featuring a purple-tinted architecture website](https://pin.fontofweb.com/4908?format=jpg)](https://design.withfudge.com/share/pin-4908)
+[![Browser window mockup showing Arc's sidebar with Spaces and Profiles, featuring a purple-tinted architecture website](https://pin.fontofweb.com/4908?format=jpg)](https://fudge.design/share/pin-4908)
 
-[Browser window mockup showing Arc's sidebar with Spaces and Profiles, featuring a purple-tinted architecture website](https://design.withfudge.com/share/pin-4908)
+[Browser window mockup showing Arc's sidebar with Spaces and Profiles, featuring a purple-tinted architecture website](https://fudge.design/share/pin-4908)
 
-[![Developers page with dark slate background, white testimonial quote, and browser screenshot showing code editor and map](https://pin.fontofweb.com/4910?format=jpg)](https://design.withfudge.com/share/pin-4910)
+[![Developers page with dark slate background, white testimonial quote, and browser screenshot showing code editor and map](https://pin.fontofweb.com/4910?format=jpg)](https://fudge.design/share/pin-4910)
 
-[Developers page with dark slate background, white testimonial quote, and browser screenshot showing code editor and map](https://design.withfudge.com/share/pin-4910)
+[Developers page with dark slate background, white testimonial quote, and browser screenshot showing code editor and map](https://fudge.design/share/pin-4910)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The textured backgrounds should maintain their grain quality across densities; c
 ## Scope note
 
 This guide covers the Arc marketing homepage and developers landing page as visible in desktop screenshots. Mobile layouts, additional product pages, and interactive states such as hover, focus, and loading are not represented. Motion design, video backgrounds, and the browser application interface itself are outside this scope. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

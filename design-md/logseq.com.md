@@ -1,26 +1,26 @@
 # How logseq.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/logseq.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/logseq.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with teal rounded panel containing headline, subhead, and two action buttons against dark background with floating particles](https://pin.fontofweb.com/4099?format=jpg)](https://design.withfudge.com/share/pin-4099)
+[![Hero section with teal rounded panel containing headline, subhead, and two action buttons against dark background with floating particles](https://pin.fontofweb.com/4099?format=jpg)](https://fudge.design/share/pin-4099)
 
-[Hero section with teal rounded panel containing headline, subhead, and two action buttons against dark background with floating particles](https://design.withfudge.com/share/pin-4099)
+[Hero section with teal rounded panel containing headline, subhead, and two action buttons against dark background with floating particles](https://fudge.design/share/pin-4099)
 
-[![Feature grid with eight dark teal cards showing icons and white labels for open source, privacy, mobile apps, markdown, community, localization, plugins, and themes](https://pin.fontofweb.com/4098?format=jpg)](https://design.withfudge.com/share/pin-4098)
+[![Feature grid with eight dark teal cards showing icons and white labels for open source, privacy, mobile apps, markdown, community, localization, plugins, and themes](https://pin.fontofweb.com/4098?format=jpg)](https://fudge.design/share/pin-4098)
 
-[Feature grid with eight dark teal cards showing icons and white labels for open source, privacy, mobile apps, markdown, community, localization, plugins, and themes](https://design.withfudge.com/share/pin-4098)
+[Feature grid with eight dark teal cards showing icons and white labels for open source, privacy, mobile apps, markdown, community, localization, plugins, and themes](https://fudge.design/share/pin-4098)
 
-[![Dramatic dark scene with scattered note-taking objects, phone, PDF, and sticky notes surrounding centered white headline about losing thoughts](https://pin.fontofweb.com/4097?format=jpg)](https://design.withfudge.com/share/pin-4097)
+[![Dramatic dark scene with scattered note-taking objects, phone, PDF, and sticky notes surrounding centered white headline about losing thoughts](https://pin.fontofweb.com/4097?format=jpg)](https://fudge.design/share/pin-4097)
 
-[Dramatic dark scene with scattered note-taking objects, phone, PDF, and sticky notes surrounding centered white headline about losing thoughts](https://design.withfudge.com/share/pin-4097)
+[Dramatic dark scene with scattered note-taking objects, phone, PDF, and sticky notes surrounding centered white headline about losing thoughts](https://fudge.design/share/pin-4097)
 
-[![Product showcase with teal tip card, app interface screenshot, community section, and Discord/forum action buttons with online user count](https://pin.fontofweb.com/4096?format=jpg)](https://design.withfudge.com/share/pin-4096)
+[![Product showcase with teal tip card, app interface screenshot, community section, and Discord/forum action buttons with online user count](https://pin.fontofweb.com/4096?format=jpg)](https://fudge.design/share/pin-4096)
 
-[Product showcase with teal tip card, app interface screenshot, community section, and Discord/forum action buttons with online user count](https://design.withfudge.com/share/pin-4096)
+[Product showcase with teal tip card, app interface screenshot, community section, and Discord/forum action buttons with online user count](https://fudge.design/share/pin-4096)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The particle background effect should reduce in density or simplify on lower-pow
 ## Scope note
 
 This guide covers the Logseq landing page hero, feature grid, product showcase, and community sections as visible in desktop viewport captures. Mobile layouts, additional interior pages, animation specifications, and interactive states beyond static presentation are not included. Measurements are practical adaptation targets derived from visible proportions in the supplied imagery.
+
+## Related design patterns
+
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

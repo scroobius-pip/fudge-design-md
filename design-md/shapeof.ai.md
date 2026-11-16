@@ -1,18 +1,18 @@
 # How shapeof.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shapeof.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/shapeof.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Grid of nine UX pattern cards with lavender-tinted thumbnails showing AI interface examples like example galleries, follow-up prompts, nudges, and templates in a two-column layout](https://pin.fontofweb.com/5115?format=jpg)](https://design.withfudge.com/share/pin-5115)
+[![Grid of nine UX pattern cards with lavender-tinted thumbnails showing AI interface examples like example galleries, follow-up prompts, nudges, and templates in a two-column layout](https://pin.fontofweb.com/5115?format=jpg)](https://fudge.design/share/pin-5115)
 
-[Grid of nine UX pattern cards with lavender-tinted thumbnails showing AI interface examples like example galleries, follow-up prompts, nudges, and templates in a two-column layout](https://design.withfudge.com/share/pin-5115)
+[Grid of nine UX pattern cards with lavender-tinted thumbnails showing AI interface examples like example galleries, follow-up prompts, nudges, and templates in a two-column layout](https://fudge.design/share/pin-5115)
 
-[![Hero section with large serif headline about UX evolution with AI, centered body text, and top navigation with Patterns, UI Library, and About links above a Wayfinders category](https://pin.fontofweb.com/5114?format=jpg)](https://design.withfudge.com/share/pin-5114)
+[![Hero section with large serif headline about UX evolution with AI, centered body text, and top navigation with Patterns, UI Library, and About links above a Wayfinders category](https://pin.fontofweb.com/5114?format=jpg)](https://fudge.design/share/pin-5114)
 
-[Hero section with large serif headline about UX evolution with AI, centered body text, and top navigation with Patterns, UI Library, and About links above a Wayfinders category](https://design.withfudge.com/share/pin-5114)
+[Hero section with large serif headline about UX evolution with AI, centered body text, and top navigation with Patterns, UI Library, and About links above a Wayfinders category](https://fudge.design/share/pin-5114)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The layout appears optimized for desktop viewing with a fixed sidebar and multi-
 ## Scope note
 
 This guide covers the homepage and pattern browsing interface of shapeof.ai as visible in the supplied material. The UI Library, About page, and individual pattern detail pages are not represented. Motion, hover states, mobile breakpoints, and dark mode are not covered. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

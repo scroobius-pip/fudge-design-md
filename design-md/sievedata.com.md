@@ -1,26 +1,26 @@
 # How sievedata.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sievedata.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sievedata.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with Mission, Our Team, and Investors sections showing serif headings and investor card grid on light background](https://pin.fontofweb.com/2009?format=jpg)](https://design.withfudge.com/share/pin-2009)
+[![About page with Mission, Our Team, and Investors sections showing serif headings and investor card grid on light background](https://pin.fontofweb.com/2009?format=jpg)](https://fudge.design/share/pin-2009)
 
-[About page with Mission, Our Team, and Investors sections showing serif headings and investor card grid on light background](https://design.withfudge.com/share/pin-2009)
+[About page with Mission, Our Team, and Investors sections showing serif headings and investor card grid on light background](https://fudge.design/share/pin-2009)
 
-[![Homepage hero with black-and-white video thumbnail strips, centered serif tagline, dark and light pill buttons, and careers CTA section](https://pin.fontofweb.com/2008?format=jpg)](https://design.withfudge.com/share/pin-2008)
+[![Homepage hero with black-and-white video thumbnail strips, centered serif tagline, dark and light pill buttons, and careers CTA section](https://pin.fontofweb.com/2008?format=jpg)](https://fudge.design/share/pin-2008)
 
-[Homepage hero with black-and-white video thumbnail strips, centered serif tagline, dark and light pill buttons, and careers CTA section](https://design.withfudge.com/share/pin-2008)
+[Homepage hero with black-and-white video thumbnail strips, centered serif tagline, dark and light pill buttons, and careers CTA section](https://fudge.design/share/pin-2008)
 
-[![Features grid with Scalable API, Secure, Compliant, and Dedicated partnership cards with SOC 2 badge illustration](https://pin.fontofweb.com/2007?format=jpg)](https://design.withfudge.com/share/pin-2007)
+[![Features grid with Scalable API, Secure, Compliant, and Dedicated partnership cards with SOC 2 badge illustration](https://pin.fontofweb.com/2007?format=jpg)](https://fudge.design/share/pin-2007)
 
-[Features grid with Scalable API, Secure, Compliant, and Dedicated partnership cards with SOC 2 badge illustration](https://design.withfudge.com/share/pin-2007)
+[Features grid with Scalable API, Secure, Compliant, and Dedicated partnership cards with SOC 2 badge illustration](https://fudge.design/share/pin-2007)
 
-[![Working with us section showing numbered process steps with pill buttons and 3D mechanical arm imagery on white background](https://pin.fontofweb.com/2006?format=jpg)](https://design.withfudge.com/share/pin-2006)
+[![Working with us section showing numbered process steps with pill buttons and 3D mechanical arm imagery on white background](https://pin.fontofweb.com/2006?format=jpg)](https://fudge.design/share/pin-2006)
 
-[Working with us section showing numbered process steps with pill buttons and 3D mechanical arm imagery on white background](https://design.withfudge.com/share/pin-2006)
+[Working with us section showing numbered process steps with pill buttons and 3D mechanical arm imagery on white background](https://fudge.design/share/pin-2006)
 
 ## Overview
 
@@ -186,3 +186,18 @@ The numbered process steps should maintain their left-aligned numeral layout but
 ## Scope note
 
 This guide covers the homepage and About page surfaces visible in the supplied images, including hero sections, feature grids, process flows, investor listings, and footer. Navigation header, mobile layouts, form interactions, motion behavior, and additional product or documentation pages are not represented. Measurements are practical adaptation targets derived from visual inspection of the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

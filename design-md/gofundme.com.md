@@ -1,26 +1,26 @@
 # How gofundme.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gofundme.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/gofundme.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Browse fundraisers by category page with dark green pill button and grid of outlined category icons on white background](https://pin.fontofweb.com/4784?format=jpg)](https://design.withfudge.com/share/pin-4784)
+[![Browse fundraisers by category page with dark green pill button and grid of outlined category icons on white background](https://pin.fontofweb.com/4784?format=jpg)](https://fudge.design/share/pin-4784)
 
-[Browse fundraisers by category page with dark green pill button and grid of outlined category icons on white background](https://design.withfudge.com/share/pin-4784)
+[Browse fundraisers by category page with dark green pill button and grid of outlined category icons on white background](https://fudge.design/share/pin-4784)
 
-[![Fundraiser creation flow with split-panel layout, gray sidebar with green logo, and white form area with category chip buttons](https://pin.fontofweb.com/4783?format=jpg)](https://design.withfudge.com/share/pin-4783)
+[![Fundraiser creation flow with split-panel layout, gray sidebar with green logo, and white form area with category chip buttons](https://pin.fontofweb.com/4783?format=jpg)](https://fudge.design/share/pin-4783)
 
-[Fundraiser creation flow with split-panel layout, gray sidebar with green logo, and white form area with category chip buttons](https://design.withfudge.com/share/pin-4783)
+[Fundraiser creation flow with split-panel layout, gray sidebar with green logo, and white form area with category chip buttons](https://fudge.design/share/pin-4783)
 
-[![Sign-in modal with centered white card, green GoFundMe wordmark, social login buttons, and dark green primary Continue button](https://pin.fontofweb.com/4782?format=jpg)](https://design.withfudge.com/share/pin-4782)
+[![Sign-in modal with centered white card, green GoFundMe wordmark, social login buttons, and dark green primary Continue button](https://pin.fontofweb.com/4782?format=jpg)](https://fudge.design/share/pin-4782)
 
-[Sign-in modal with centered white card, green GoFundMe wordmark, social login buttons, and dark green primary Continue button](https://design.withfudge.com/share/pin-4782)
+[Sign-in modal with centered white card, green GoFundMe wordmark, social login buttons, and dark green primary Continue button](https://fudge.design/share/pin-4782)
 
-[![Top crowdfunding tips section with three warm cream-colored cards containing circular yellow icons and arrow links](https://pin.fontofweb.com/4781?format=jpg)](https://design.withfudge.com/share/pin-4781)
+[![Top crowdfunding tips section with three warm cream-colored cards containing circular yellow icons and arrow links](https://pin.fontofweb.com/4781?format=jpg)](https://fudge.design/share/pin-4781)
 
-[Top crowdfunding tips section with three warm cream-colored cards containing circular yellow icons and arrow links](https://design.withfudge.com/share/pin-4781)
+[Top crowdfunding tips section with three warm cream-colored cards containing circular yellow icons and arrow links](https://fudge.design/share/pin-4781)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Typography scales down modestly: hero-display may reduce to 2rem on smaller scre
 ## Scope note
 
 This guide covers the marketing homepage, category discovery, fundraiser creation flow, and authentication modal surfaces visible in the supplied images. Mobile breakpoints, animation, loading states, error handling, and the complete fundraising detail page are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

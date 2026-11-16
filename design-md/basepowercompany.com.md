@@ -1,26 +1,26 @@
 # How basepowercompany.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/basepowercompany.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/basepowercompany.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark green footer with large BASE wordmark, email subscription form, and multi-column navigation links on deep forest background](https://pin.fontofweb.com/4797?format=jpg)](https://design.withfudge.com/share/pin-4797)
+[![Dark green footer with large BASE wordmark, email subscription form, and multi-column navigation links on deep forest background](https://pin.fontofweb.com/4797?format=jpg)](https://fudge.design/share/pin-4797)
 
-[Dark green footer with large BASE wordmark, email subscription form, and multi-column navigation links on deep forest background](https://design.withfudge.com/share/pin-4797)
+[Dark green footer with large BASE wordmark, email subscription form, and multi-column navigation links on deep forest background](https://fudge.design/share/pin-4797)
 
-[![Social proof section with customer photography collage, 4.9 star rating, and lime green Get started button on warm off-white background](https://pin.fontofweb.com/4796?format=jpg)](https://design.withfudge.com/share/pin-4796)
+[![Social proof section with customer photography collage, 4.9 star rating, and lime green Get started button on warm off-white background](https://pin.fontofweb.com/4796?format=jpg)](https://fudge.design/share/pin-4796)
 
-[Social proof section with customer photography collage, 4.9 star rating, and lime green Get started button on warm off-white background](https://design.withfudge.com/share/pin-4796)
+[Social proof section with customer photography collage, 4.9 star rating, and lime green Get started button on warm off-white background](https://fudge.design/share/pin-4796)
 
-[![FAQ accordion section with expanded answer revealing body text, chevron indicators, and View all FAQs outline button](https://pin.fontofweb.com/4795?format=jpg)](https://design.withfudge.com/share/pin-4795)
+[![FAQ accordion section with expanded answer revealing body text, chevron indicators, and View all FAQs outline button](https://pin.fontofweb.com/4795?format=jpg)](https://fudge.design/share/pin-4795)
 
-[FAQ accordion section with expanded answer revealing body text, chevron indicators, and View all FAQs outline button](https://design.withfudge.com/share/pin-4795)
+[FAQ accordion section with expanded answer revealing body text, chevron indicators, and View all FAQs outline button](https://fudge.design/share/pin-4795)
 
-[![Three-step onboarding panel with numbered expandable cards, lime green active state, and suburban home photography on warm off-white](https://pin.fontofweb.com/4794?format=jpg)](https://design.withfudge.com/share/pin-4794)
+[![Three-step onboarding panel with numbered expandable cards, lime green active state, and suburban home photography on warm off-white](https://pin.fontofweb.com/4794?format=jpg)](https://fudge.design/share/pin-4794)
 
-[Three-step onboarding panel with numbered expandable cards, lime green active state, and suburban home photography on warm off-white](https://design.withfudge.com/share/pin-4794)
+[Three-step onboarding panel with numbered expandable cards, lime green active state, and suburban home photography on warm off-white](https://fudge.design/share/pin-4794)
 
 ## Overview
 
@@ -162,3 +162,18 @@ The two-column step-card layout should stack vertically on narrower viewports, w
 ## Scope note
 
 This guide covers the homepage and its primary sections: hero, social proof, FAQ, onboarding steps, and footer. Interior pages, mobile navigation patterns, form validation states, and motion behaviors are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions in the provided images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Other industry](/share/designs-with-industry.other)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

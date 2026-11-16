@@ -1,18 +1,18 @@
 # How igerman.cc is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/igerman.cc-design)
+[Open the live Fudge conversation](https://fudge.design/share/igerman.cc-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Light theme blog post page showing orange-accented header with dotted underline on title, cyan definition box, and monospace body text on white background](https://pin.fontofweb.com/9529?format=jpg)](https://design.withfudge.com/share/pin-9529)
+[![Light theme blog post page showing orange-accented header with dotted underline on title, cyan definition box, and monospace body text on white background](https://pin.fontofweb.com/9529?format=jpg)](https://fudge.design/share/pin-9529)
 
-[Light theme blog post page showing orange-accented header with dotted underline on title, cyan definition box, and monospace body text on white background](https://design.withfudge.com/share/pin-9529)
+[Light theme blog post page showing orange-accented header with dotted underline on title, cyan definition box, and monospace body text on white background](https://fudge.design/share/pin-9529)
 
-[![Dark theme blog post page with deep navy background, periwinkle accent links, cyan definition box, and matching monospace typography structure](https://pin.fontofweb.com/9528?format=jpg)](https://design.withfudge.com/share/pin-9528)
+[![Dark theme blog post page with deep navy background, periwinkle accent links, cyan definition box, and matching monospace typography structure](https://pin.fontofweb.com/9528?format=jpg)](https://fudge.design/share/pin-9528)
 
-[Dark theme blog post page with deep navy background, periwinkle accent links, cyan definition box, and matching monospace typography structure](https://design.withfudge.com/share/pin-9528)
+[Dark theme blog post page with deep navy background, periwinkle accent links, cyan definition box, and matching monospace typography structure](https://fudge.design/share/pin-9528)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The monospace typeface remains legible at standard sizes across devices. No font
 ## Scope note
 
 This guide covers the blog post page surface as represented in the supplied images. The homepage, project listings, guestbook, and other site sections are not documented here. Measurements reflect the exact values retained from the interface. Motion, hover states, focus styling beyond basic link underlines, and mobile-specific layouts are not included in this reference. Applesystem and Times appear in the retained data as system fallbacks but are not actively used in the visible interface. Verify licensing for Fira Code before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Article page](/share/designs-with-page.content.article)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

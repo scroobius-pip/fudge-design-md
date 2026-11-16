@@ -1,18 +1,18 @@
 # How pulsemcp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pulsemcp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pulsemcp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full page view showing the dark hero banner with wireframe globe, navigation bar, and featured client cards in a three-column grid layout](https://pin.fontofweb.com/6605?format=jpg)](https://design.withfudge.com/share/pin-6605)
+[![Full page view showing the dark hero banner with wireframe globe, navigation bar, and featured client cards in a three-column grid layout](https://pin.fontofweb.com/6605?format=jpg)](https://fudge.design/share/pin-6605)
 
-[Full page view showing the dark hero banner with wireframe globe, navigation bar, and featured client cards in a three-column grid layout](https://design.withfudge.com/share/pin-6605)
+[Full page view showing the dark hero banner with wireframe globe, navigation bar, and featured client cards in a three-column grid layout](https://fudge.design/share/pin-6605)
 
-[![Close-up of the client card grid showing bordered cards with app icons, titles, descriptions, star counts, and dates in a clean white background](https://pin.fontofweb.com/6606?format=jpg)](https://design.withfudge.com/share/pin-6606)
+[![Close-up of the client card grid showing bordered cards with app icons, titles, descriptions, star counts, and dates in a clean white background](https://pin.fontofweb.com/6606?format=jpg)](https://fudge.design/share/pin-6606)
 
-[Close-up of the client card grid showing bordered cards with app icons, titles, descriptions, star counts, and dates in a clean white background](https://design.withfudge.com/share/pin-6606)
+[Close-up of the client card grid showing bordered cards with app icons, titles, descriptions, star counts, and dates in a clean white background](https://fudge.design/share/pin-6606)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Card descriptions vary significantly in length; on narrow screens, the vertical 
 ## Scope note
 
 This guide covers the MCP Clients directory page including the hero banner, navigation, featured section, and client card grid. The announcement bar, newsletter signup flow, individual client detail pages, and any filtering or search interfaces are not represented in the supplied material. Motion, hover states, and mobile adaptations are not documented and should be designed to maintain the established visual restraint.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

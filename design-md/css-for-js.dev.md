@@ -1,26 +1,26 @@
 # How css-for-js.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/css-for-js.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/css-for-js.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark gradient wave, Josh Comeau logo in pink, and link columns on near-black background](https://pin.fontofweb.com/1382?format=jpg)](https://design.withfudge.com/share/pin-1382)
+[![Footer section with dark gradient wave, Josh Comeau logo in pink, and link columns on near-black background](https://pin.fontofweb.com/1382?format=jpg)](https://fudge.design/share/pin-1382)
 
-[Footer section with dark gradient wave, Josh Comeau logo in pink, and link columns on near-black background](https://design.withfudge.com/share/pin-1382)
+[Footer section with dark gradient wave, Josh Comeau logo in pink, and link columns on near-black background](https://fudge.design/share/pin-1382)
 
-[![Testimonials grid with white cards, Twitter avatars, and star ratings on dark background](https://pin.fontofweb.com/1381?format=jpg)](https://design.withfudge.com/share/pin-1381)
+[![Testimonials grid with white cards, Twitter avatars, and star ratings on dark background](https://pin.fontofweb.com/1381?format=jpg)](https://fudge.design/share/pin-1381)
 
-[Testimonials grid with white cards, Twitter avatars, and star ratings on dark background](https://design.withfudge.com/share/pin-1381)
+[Testimonials grid with white cards, Twitter avatars, and star ratings on dark background](https://fudge.design/share/pin-1381)
 
-[![FAQ accordion section with three-column layout, expanded yellow-highlighted question, and dark theme](https://pin.fontofweb.com/1380?format=jpg)](https://design.withfudge.com/share/pin-1380)
+[![FAQ accordion section with three-column layout, expanded yellow-highlighted question, and dark theme](https://pin.fontofweb.com/1380?format=jpg)](https://fudge.design/share/pin-1380)
 
-[FAQ accordion section with three-column layout, expanded yellow-highlighted question, and dark theme](https://design.withfudge.com/share/pin-1380)
+[FAQ accordion section with three-column layout, expanded yellow-highlighted question, and dark theme](https://fudge.design/share/pin-1380)
 
-[![Bonus features section with gradient heading, 3D illustrations, and alternating image-text layout](https://pin.fontofweb.com/1379?format=jpg)](https://design.withfudge.com/share/pin-1379)
+[![Bonus features section with gradient heading, 3D illustrations, and alternating image-text layout](https://pin.fontofweb.com/1379?format=jpg)](https://fudge.design/share/pin-1379)
 
-[Bonus features section with gradient heading, 3D illustrations, and alternating image-text layout](https://design.withfudge.com/share/pin-1379)
+[Bonus features section with gradient heading, 3D illustrations, and alternating image-text layout](https://fudge.design/share/pin-1379)
 
 ## Overview
 
@@ -156,3 +156,18 @@ Navigation and footer link columns should consolidate into simplified arrangemen
 ## Scope note
 
 This guide covers the landing page surface for CSS for JavaScript Developers, including the hero, testimonials, FAQ, bonus features, and footer sections. Pricing tables, course curriculum details, checkout flows, and mobile navigation patterns are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection. Verify licensing for Wotfard before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

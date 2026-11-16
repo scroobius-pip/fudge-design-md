@@ -1,18 +1,18 @@
 # How openship.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openship.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/openship.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with animated typing effect, light canvas, dotted background texture, and product suite card carousel](https://pin.fontofweb.com/5540?format=jpg)](https://design.withfudge.com/share/pin-5540)
+[![Homepage hero with animated typing effect, light canvas, dotted background texture, and product suite card carousel](https://pin.fontofweb.com/5540?format=jpg)](https://fudge.design/share/pin-5540)
 
-[Homepage hero with animated typing effect, light canvas, dotted background texture, and product suite card carousel](https://design.withfudge.com/share/pin-5540)
+[Homepage hero with animated typing effect, light canvas, dotted background texture, and product suite card carousel](https://fudge.design/share/pin-5540)
 
-[![Marketplace page with dark textured background, centered serif title, and pill-shaped action bar](https://pin.fontofweb.com/5539?format=jpg)](https://design.withfudge.com/share/pin-5539)
+[![Marketplace page with dark textured background, centered serif title, and pill-shaped action bar](https://pin.fontofweb.com/5539?format=jpg)](https://fudge.design/share/pin-5539)
 
-[Marketplace page with dark textured background, centered serif title, and pill-shaped action bar](https://design.withfudge.com/share/pin-5539)
+[Marketplace page with dark textured background, centered serif title, and pill-shaped action bar](https://fudge.design/share/pin-5539)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The dotted texture background should scale or tile without visible seams. On hig
 ## Scope note
 
 This guide covers the homepage hero and marketplace landing page surfaces visible in the supplied images. Interior pages, dashboard interfaces, mobile breakpoints, form interactions, and motion specifications beyond the typing animation are not represented. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Marketplace](/share/designs-with-offering.marketplace)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

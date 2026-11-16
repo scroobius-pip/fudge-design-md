@@ -1,26 +1,26 @@
 # How atlantide-festival.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/atlantide-festival.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/atlantide-festival.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Author grid page showing portrait cards with staggered masonry layout and edition filter dropdown](https://pin.fontofweb.com/916?format=jpg)](https://design.withfudge.com/share/pin-916)
+[![Author grid page showing portrait cards with staggered masonry layout and edition filter dropdown](https://pin.fontofweb.com/916?format=jpg)](https://fudge.design/share/pin-916)
 
-[Author grid page showing portrait cards with staggered masonry layout and edition filter dropdown](https://design.withfudge.com/share/pin-916)
+[Author grid page showing portrait cards with staggered masonry layout and edition filter dropdown](https://fudge.design/share/pin-916)
 
-[![Footer section with split red and yellow promotional panels, navigation links, and partner logos](https://pin.fontofweb.com/915?format=jpg)](https://design.withfudge.com/share/pin-915)
+[![Footer section with split red and yellow promotional panels, navigation links, and partner logos](https://pin.fontofweb.com/915?format=jpg)](https://fudge.design/share/pin-915)
 
-[Footer section with split red and yellow promotional panels, navigation links, and partner logos](https://design.withfudge.com/share/pin-915)
+[Footer section with split red and yellow promotional panels, navigation links, and partner logos](https://fudge.design/share/pin-915)
 
-[![Cabinet de curiosités display featuring product photography with handwritten note on light gray background](https://pin.fontofweb.com/914?format=jpg)](https://design.withfudge.com/share/pin-914)
+[![Cabinet de curiosités display featuring product photography with handwritten note on light gray background](https://pin.fontofweb.com/914?format=jpg)](https://fudge.design/share/pin-914)
 
-[Cabinet de curiosités display featuring product photography with handwritten note on light gray background](https://design.withfudge.com/share/pin-914)
+[Cabinet de curiosités display featuring product photography with handwritten note on light gray background](https://fudge.design/share/pin-914)
 
-[![Author events section with large italic display typography and program call-to-action buttons](https://pin.fontofweb.com/913?format=jpg)](https://design.withfudge.com/share/pin-913)
+[![Author events section with large italic display typography and program call-to-action buttons](https://pin.fontofweb.com/913?format=jpg)](https://fudge.design/share/pin-913)
 
-[Author events section with large italic display typography and program call-to-action buttons](https://design.withfudge.com/share/pin-913)
+[Author events section with large italic display typography and program call-to-action buttons](https://fudge.design/share/pin-913)
 
 ## Overview
 
@@ -163,3 +163,18 @@ Touch targets for social buttons and filter controls should maintain minimum 44p
 ## Scope note
 
 This guide covers the author directory, individual author profiles, and homepage promotional sections visible in the supplied images. Program schedule pages, event detail templates, mobile navigation patterns, and checkout or ticketing flows are not represented. Measurements are practical adaptation targets derived from visual inspection of desktop layouts.
+
+## Related design patterns
+
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

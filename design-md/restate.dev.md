@@ -1,22 +1,22 @@
 # How restate.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/restate.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/restate.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with gradient sky background, large display headline, announcement pill, and interactive pixel-art landscape with trees and helicopter.](https://pin.fontofweb.com/7558?format=jpg)](https://design.withfudge.com/share/pin-7558)
+[![Hero section with gradient sky background, large display headline, announcement pill, and interactive pixel-art landscape with trees and helicopter.](https://pin.fontofweb.com/7558?format=jpg)](https://fudge.design/share/pin-7558)
 
-[Hero section with gradient sky background, large display headline, announcement pill, and interactive pixel-art landscape with trees and helicopter.](https://design.withfudge.com/share/pin-7558)
+[Hero section with gradient sky background, large display headline, announcement pill, and interactive pixel-art landscape with trees and helicopter.](https://fudge.design/share/pin-7558)
 
-[![Feature section with dark headline, muted body text, and large UI screenshot showing workflow tracing with error states and timeline visualization.](https://pin.fontofweb.com/7559?format=jpg)](https://design.withfudge.com/share/pin-7559)
+[![Feature section with dark headline, muted body text, and large UI screenshot showing workflow tracing with error states and timeline visualization.](https://pin.fontofweb.com/7559?format=jpg)](https://fudge.design/share/pin-7559)
 
-[Feature section with dark headline, muted body text, and large UI screenshot showing workflow tracing with error states and timeline visualization.](https://design.withfudge.com/share/pin-7559)
+[Feature section with dark headline, muted body text, and large UI screenshot showing workflow tracing with error states and timeline visualization.](https://fudge.design/share/pin-7559)
 
-[![Full homepage view including navigation bar, hero with dual CTA buttons, pixel-art scene, and scrolling logo marquee of enterprise customers.](https://pin.fontofweb.com/7557?format=jpg)](https://design.withfudge.com/share/pin-7557)
+[![Full homepage view including navigation bar, hero with dual CTA buttons, pixel-art scene, and scrolling logo marquee of enterprise customers.](https://pin.fontofweb.com/7557?format=jpg)](https://fudge.design/share/pin-7557)
 
-[Full homepage view including navigation bar, hero with dual CTA buttons, pixel-art scene, and scrolling logo marquee of enterprise customers.](https://design.withfudge.com/share/pin-7557)
+[Full homepage view including navigation bar, hero with dual CTA buttons, pixel-art scene, and scrolling logo marquee of enterprise customers.](https://fudge.design/share/pin-7557)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Announcement pill text truncates with ellipsis on narrow screens. Screenshot pan
 ## Scope note
 
 This guide covers the Restate homepage marketing surface including hero, feature sections with product screenshots, navigation, and customer logo marquee. Interior documentation pages, interactive playground functionality, mobile navigation patterns, and dark mode variants are not represented in the supplied material. The pixel-art game interaction and any motion behavior beyond static presentation are outside current scope.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

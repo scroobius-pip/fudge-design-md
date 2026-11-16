@@ -1,26 +1,26 @@
 # How rollups.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rollups.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/rollups.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with dark green background, section heading 'Roll Up Vehicle Pricing', and two-tier pricing card layout with pale green text and outlined buttons](https://pin.fontofweb.com/5928?format=jpg)](https://design.withfudge.com/share/pin-5928)
+[![Pricing page with dark green background, section heading 'Roll Up Vehicle Pricing', and two-tier pricing card layout with pale green text and outlined buttons](https://pin.fontofweb.com/5928?format=jpg)](https://fudge.design/share/pin-5928)
 
-[Pricing page with dark green background, section heading 'Roll Up Vehicle Pricing', and two-tier pricing card layout with pale green text and outlined buttons](https://design.withfudge.com/share/pin-5928)
+[Pricing page with dark green background, section heading 'Roll Up Vehicle Pricing', and two-tier pricing card layout with pale green text and outlined buttons](https://fudge.design/share/pin-5928)
 
-[![Social proof section with dark green background, large display heading, and grid of twelve company logos in bordered cells with pale green text](https://pin.fontofweb.com/5927?format=jpg)](https://design.withfudge.com/share/pin-5927)
+[![Social proof section with dark green background, large display heading, and grid of twelve company logos in bordered cells with pale green text](https://pin.fontofweb.com/5927?format=jpg)](https://fudge.design/share/pin-5927)
 
-[Social proof section with dark green background, large display heading, and grid of twelve company logos in bordered cells with pale green text](https://design.withfudge.com/share/pin-5927)
+[Social proof section with dark green background, large display heading, and grid of twelve company logos in bordered cells with pale green text](https://fudge.design/share/pin-5927)
 
-[![Capabilities section with dark green background, 'Capabilities' display heading, and eight numbered feature cards in a two-column grid with pale green labels](https://pin.fontofweb.com/5926?format=jpg)](https://design.withfudge.com/share/pin-5926)
+[![Capabilities section with dark green background, 'Capabilities' display heading, and eight numbered feature cards in a two-column grid with pale green labels](https://pin.fontofweb.com/5926?format=jpg)](https://fudge.design/share/pin-5926)
 
-[Capabilities section with dark green background, 'Capabilities' display heading, and eight numbered feature cards in a two-column grid with pale green labels](https://design.withfudge.com/share/pin-5926)
+[Capabilities section with dark green background, 'Capabilities' display heading, and eight numbered feature cards in a two-column grid with pale green labels](https://fudge.design/share/pin-5926)
 
-[![How it works timeline with dark green background, left navigation with use cases, center process steps with day markers, and right case study panel with statistic](https://pin.fontofweb.com/5925?format=jpg)](https://design.withfudge.com/share/pin-5925)
+[![How it works timeline with dark green background, left navigation with use cases, center process steps with day markers, and right case study panel with statistic](https://pin.fontofweb.com/5925?format=jpg)](https://fudge.design/share/pin-5925)
 
-[How it works timeline with dark green background, left navigation with use cases, center process steps with day markers, and right case study panel with statistic](https://design.withfudge.com/share/pin-5925)
+[How it works timeline with dark green background, left navigation with use cases, center process steps with day markers, and right case study panel with statistic](https://fudge.design/share/pin-5925)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Navigation behavior cannot be determined from still images. A horizontal header 
 ## Scope note
 
 This guide covers the visible desktop landing and interior pages for Rollups, including the RUV product page and homepage sections. Mobile layouts, breakpoint behavior, form interactions, animation, and hover states are not represented in the source material. Footer content beyond basic link styling is partially visible but not fully documented. Measurements are derived from the supplied exact values where available and adapted to the 0.25rem base unit where spacing and radius lists were empty.
+
+## Related design patterns
+
+- [Green hue](/share/designs-with-color.hue.green)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

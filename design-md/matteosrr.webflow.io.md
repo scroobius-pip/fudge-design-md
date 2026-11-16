@@ -1,18 +1,18 @@
 # How matteosrr.webflow.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/matteosrr.webflow.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/matteosrr.webflow.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark section heading with large light-gray 'Recent Projects' display typography on near-black background](https://pin.fontofweb.com/5771?format=jpg)](https://design.withfudge.com/share/pin-5771)
+[![Dark section heading with large light-gray 'Recent Projects' display typography on near-black background](https://pin.fontofweb.com/5771?format=jpg)](https://fudge.design/share/pin-5771)
 
-[Dark section heading with large light-gray 'Recent Projects' display typography on near-black background](https://design.withfudge.com/share/pin-5771)
+[Dark section heading with large light-gray 'Recent Projects' display typography on near-black background](https://fudge.design/share/pin-5771)
 
-[![Light background with large black body text stating the designer's value proposition in two lines](https://pin.fontofweb.com/5770?format=jpg)](https://design.withfudge.com/share/pin-5770)
+[![Light background with large black body text stating the designer's value proposition in two lines](https://pin.fontofweb.com/5770?format=jpg)](https://fudge.design/share/pin-5770)
 
-[Light background with large black body text stating the designer's value proposition in two lines](https://design.withfudge.com/share/pin-5770)
+[Light background with large black body text stating the designer's value proposition in two lines](https://fudge.design/share/pin-5770)
 
 ## Overview
 
@@ -134,3 +134,18 @@ The single-column layout requires no structural breakpoint changes; the primary 
 ## Scope note
 
 This guide covers the visible homepage surface including the hero introduction and section heading patterns. Footer content, project detail pages, contact forms, and any interactive case-study presentations are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Unknown corners](/share/designs-with-visual.corner.unknown)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

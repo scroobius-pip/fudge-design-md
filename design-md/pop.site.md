@@ -1,26 +1,26 @@
 # How pop.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pop.site-design)
+[Open the live Fudge conversation](https://fudge.design/share/pop.site-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with three-tier card layout showing Personal, Personal Pro, and Business plans with blue claim button and large display typography.](https://pin.fontofweb.com/7732?format=jpg)](https://design.withfudge.com/share/pin-7732)
+[![Pricing page with three-tier card layout showing Personal, Personal Pro, and Business plans with blue claim button and large display typography.](https://pin.fontofweb.com/7732?format=jpg)](https://fudge.design/share/pin-7732)
 
-[Pricing page with three-tier card layout showing Personal, Personal Pro, and Business plans with blue claim button and large display typography.](https://design.withfudge.com/share/pin-7732)
+[Pricing page with three-tier card layout showing Personal, Personal Pro, and Business plans with blue claim button and large display typography.](https://fudge.design/share/pin-7732)
 
-[![Homepage hero with phone mockups showing personal sites, domain claim input, and minimal footer with multi-column links.](https://pin.fontofweb.com/7731?format=jpg)](https://design.withfudge.com/share/pin-7731)
+[![Homepage hero with phone mockups showing personal sites, domain claim input, and minimal footer with multi-column links.](https://pin.fontofweb.com/7731?format=jpg)](https://fudge.design/share/pin-7731)
 
-[Homepage hero with phone mockups showing personal sites, domain claim input, and minimal footer with multi-column links.](https://design.withfudge.com/share/pin-7731)
+[Homepage hero with phone mockups showing personal sites, domain claim input, and minimal footer with multi-column links.](https://fudge.design/share/pin-7731)
 
-[![Membership feature section with phone mockups and animated themes promotional area with repeated claim input pattern.](https://pin.fontofweb.com/7730?format=jpg)](https://design.withfudge.com/share/pin-7730)
+[![Membership feature section with phone mockups and animated themes promotional area with repeated claim input pattern.](https://pin.fontofweb.com/7730?format=jpg)](https://fudge.design/share/pin-7730)
 
-[Membership feature section with phone mockups and animated themes promotional area with repeated claim input pattern.](https://design.withfudge.com/share/pin-7730)
+[Membership feature section with phone mockups and animated themes promotional area with repeated claim input pattern.](https://fudge.design/share/pin-7730)
 
-[![Dark testimonial section with radial orange gradient, phone mockups, and italic display quote with avatar attribution.](https://pin.fontofweb.com/7729?format=jpg)](https://design.withfudge.com/share/pin-7729)
+[![Dark testimonial section with radial orange gradient, phone mockups, and italic display quote with avatar attribution.](https://pin.fontofweb.com/7729?format=jpg)](https://fudge.design/share/pin-7729)
 
-[Dark testimonial section with radial orange gradient, phone mockups, and italic display quote with avatar attribution.](https://design.withfudge.com/share/pin-7729)
+[Dark testimonial section with radial orange gradient, phone mockups, and italic display quote with avatar attribution.](https://fudge.design/share/pin-7729)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Navigation should collapse to a hamburger menu or simplified list on mobile, tho
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces visible in the supplied images. Mobile layouts, component hover states, form validation, account dashboards, and the actual site builder interface are not represented. The 7.95px spacing value appears in gradient text treatments with negative margin compensation and should be treated as a precise implementation detail rather than a scalable token.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How mio.gg is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mio.gg-design)
+[Open the live Fudge conversation](https://fudge.design/share/mio.gg-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large italic serif headline "Never make a phone call again" on near-black background with App Store badge and navigation](https://pin.fontofweb.com/7626?format=jpg)](https://design.withfudge.com/share/pin-7626)
+[![Hero section with large italic serif headline "Never make a phone call again" on near-black background with App Store badge and navigation](https://pin.fontofweb.com/7626?format=jpg)](https://fudge.design/share/pin-7626)
 
-[Hero section with large italic serif headline "Never make a phone call again" on near-black background with App Store badge and navigation](https://design.withfudge.com/share/pin-7626)
+[Hero section with large italic serif headline "Never make a phone call again" on near-black background with App Store badge and navigation](https://fudge.design/share/pin-7626)
 
-[![Chat interface showing AI phone assistant conversation with message bubbles, status indicators, and rounded dark panels](https://pin.fontofweb.com/7627?format=jpg)](https://design.withfudge.com/share/pin-7627)
+[![Chat interface showing AI phone assistant conversation with message bubbles, status indicators, and rounded dark panels](https://pin.fontofweb.com/7627?format=jpg)](https://fudge.design/share/pin-7627)
 
-[Chat interface showing AI phone assistant conversation with message bubbles, status indicators, and rounded dark panels](https://design.withfudge.com/share/pin-7627)
+[Chat interface showing AI phone assistant conversation with message bubbles, status indicators, and rounded dark panels](https://fudge.design/share/pin-7627)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Navigation should collapse to a simplified form on mobile, potentially hiding th
 ## Scope note
 
 This guide covers the landing page hero and chat interface demonstration visible in the supplied material. Footer content, additional marketing sections, pricing, documentation pages, and mobile-specific layouts are not represented. Form states, error handling, loading sequences, and the full conversational thread history are not documented. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

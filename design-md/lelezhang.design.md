@@ -1,26 +1,26 @@
 # How lelezhang.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lelezhang.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/lelezhang.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Chat explorations article page with sticky table of contents, expressive handwritten headings, and a dense photo grid illustrating interface concepts.](https://pin.fontofweb.com/6396?format=jpg)](https://design.withfudge.com/share/pin-6396)
+[![Chat explorations article page with sticky table of contents, expressive handwritten headings, and a dense photo grid illustrating interface concepts.](https://pin.fontofweb.com/6396?format=jpg)](https://fudge.design/share/pin-6396)
 
-[Chat explorations article page with sticky table of contents, expressive handwritten headings, and a dense photo grid illustrating interface concepts.](https://design.withfudge.com/share/pin-6396)
+[Chat explorations article page with sticky table of contents, expressive handwritten headings, and a dense photo grid illustrating interface concepts.](https://fudge.design/share/pin-6396)
 
-[![Minimal footer featuring an oversized calligraphic signature in slate grey with monospace social links and visitor counter.](https://pin.fontofweb.com/5815?format=jpg)](https://design.withfudge.com/share/pin-5815)
+[![Minimal footer featuring an oversized calligraphic signature in slate grey with monospace social links and visitor counter.](https://pin.fontofweb.com/5815?format=jpg)](https://fudge.design/share/pin-5815)
 
-[Minimal footer featuring an oversized calligraphic signature in slate grey with monospace social links and visitor counter.](https://design.withfudge.com/share/pin-5815)
+[Minimal footer featuring an oversized calligraphic signature in slate grey with monospace social links and visitor counter.](https://fudge.design/share/pin-5815)
 
-[![Playful homepage hero with scattered polaroid-style project cards, a chat widget, and soft gradient background transitioning from white to periwinkle.](https://pin.fontofweb.com/5814?format=jpg)](https://design.withfudge.com/share/pin-5814)
+[![Playful homepage hero with scattered polaroid-style project cards, a chat widget, and soft gradient background transitioning from white to periwinkle.](https://pin.fontofweb.com/5814?format=jpg)](https://fudge.design/share/pin-5814)
 
-[Playful homepage hero with scattered polaroid-style project cards, a chat widget, and soft gradient background transitioning from white to periwinkle.](https://design.withfudge.com/share/pin-5814)
+[Playful homepage hero with scattered polaroid-style project cards, a chat widget, and soft gradient background transitioning from white to periwinkle.](https://fudge.design/share/pin-5814)
 
-[![Clean footer variant with large Miss Fajardose script lettering and right-aligned monospace contact links on near-white background.](https://pin.fontofweb.com/4822?format=jpg)](https://design.withfudge.com/share/pin-4822)
+[![Clean footer variant with large Miss Fajardose script lettering and right-aligned monospace contact links on near-white background.](https://pin.fontofweb.com/4822?format=jpg)](https://fudge.design/share/pin-4822)
 
-[Clean footer variant with large Miss Fajardose script lettering and right-aligned monospace contact links on near-white background.](https://design.withfudge.com/share/pin-4822)
+[Clean footer variant with large Miss Fajardose script lettering and right-aligned monospace contact links on near-white background.](https://fudge.design/share/pin-4822)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The gradient background on the homepage should remain full-height but shift to a
 ## Scope note
 
 This guide covers the homepage, article pages, and footer surfaces visible in the supplied images. Mobile breakpoints, animation, hover states, form validation, and additional project detail pages are not represented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

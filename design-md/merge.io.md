@@ -1,18 +1,18 @@
 # How merge.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/merge.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/merge.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article body with team roster, horizontal rule dividers, and a dark Join us button with right arrow icon](https://pin.fontofweb.com/10682?format=jpg)](https://design.withfudge.com/share/pin-10682)
+[![Blog article body with team roster, horizontal rule dividers, and a dark Join us button with right arrow icon](https://pin.fontofweb.com/10682?format=jpg)](https://fudge.design/share/pin-10682)
 
-[Blog article body with team roster, horizontal rule dividers, and a dark Join us button with right arrow icon](https://design.withfudge.com/share/pin-10682)
+[Blog article body with team roster, horizontal rule dividers, and a dark Join us button with right arrow icon](https://fudge.design/share/pin-10682)
 
-[![Blog hero section with large serif display heading, metadata line, and introductory paragraph on white canvas](https://pin.fontofweb.com/10681?format=jpg)](https://design.withfudge.com/share/pin-10681)
+[![Blog hero section with large serif display heading, metadata line, and introductory paragraph on white canvas](https://pin.fontofweb.com/10681?format=jpg)](https://fudge.design/share/pin-10681)
 
-[Blog hero section with large serif display heading, metadata line, and introductory paragraph on white canvas](https://design.withfudge.com/share/pin-10681)
+[Blog hero section with large serif display heading, metadata line, and introductory paragraph on white canvas](https://fudge.design/share/pin-10681)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Body text and paragraph spacing should remain consistent across breakpoints, as 
 ## Scope note
 
 This guide covers the blog article page surface visible in the supplied captures. Footer components beyond the minimal closure, form inputs, loading states, error handling, and responsive navigation patterns are not represented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Paired type system](/share/designs-with-typography.system_size.paired)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

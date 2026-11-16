@@ -1,26 +1,26 @@
 # How tella.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tella.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tella.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with purple Pro card and dark Premium card showing yearly toggle switches and feature lists](https://pin.fontofweb.com/6354?format=jpg)](https://design.withfudge.com/share/pin-6354)
+[![Pricing page with purple Pro card and dark Premium card showing yearly toggle switches and feature lists](https://pin.fontofweb.com/6354?format=jpg)](https://fudge.design/share/pin-6354)
 
-[Pricing page with purple Pro card and dark Premium card showing yearly toggle switches and feature lists](https://design.withfudge.com/share/pin-6354)
+[Pricing page with purple Pro card and dark Premium card showing yearly toggle switches and feature lists](https://fudge.design/share/pin-6354)
 
-[![Features grid on purple gradient background with app icons for Auto Layouts, Auto Cut, Studio Voice, and platform downloads](https://pin.fontofweb.com/6353?format=jpg)](https://design.withfudge.com/share/pin-6353)
+[![Features grid on purple gradient background with app icons for Auto Layouts, Auto Cut, Studio Voice, and platform downloads](https://pin.fontofweb.com/6353?format=jpg)](https://fudge.design/share/pin-6353)
 
-[Features grid on purple gradient background with app icons for Auto Layouts, Auto Cut, Studio Voice, and platform downloads](https://design.withfudge.com/share/pin-6353)
+[Features grid on purple gradient background with app icons for Auto Layouts, Auto Cut, Studio Voice, and platform downloads](https://fudge.design/share/pin-6353)
 
-[![Hero section with large display type reading Record incredible videos on vibrant purple gradient with video preview below](https://pin.fontofweb.com/6352?format=jpg)](https://design.withfudge.com/share/pin-6352)
+[![Hero section with large display type reading Record incredible videos on vibrant purple gradient with video preview below](https://pin.fontofweb.com/6352?format=jpg)](https://fudge.design/share/pin-6352)
 
-[Hero section with large display type reading Record incredible videos on vibrant purple gradient with video preview below](https://design.withfudge.com/share/pin-6352)
+[Hero section with large display type reading Record incredible videos on vibrant purple gradient with video preview below](https://fudge.design/share/pin-6352)
 
-[![Footer CTA with sky photography background, purple action button, and dark footer with multi-column link navigation](https://pin.fontofweb.com/6351?format=jpg)](https://design.withfudge.com/share/pin-6351)
+[![Footer CTA with sky photography background, purple action button, and dark footer with multi-column link navigation](https://pin.fontofweb.com/6351?format=jpg)](https://fudge.design/share/pin-6351)
 
-[Footer CTA with sky photography background, purple action button, and dark footer with multi-column link navigation](https://design.withfudge.com/share/pin-6351)
+[Footer CTA with sky photography background, purple action button, and dark footer with multi-column link navigation](https://fudge.design/share/pin-6351)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, interactive states beyond static hover, loading skeletons, error pages, and the authenticated application interface are not represented. The design system documentation for component variants, motion specifications, and form patterns would require additional exploration.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

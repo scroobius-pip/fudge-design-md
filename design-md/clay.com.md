@@ -1,18 +1,18 @@
 # How clay.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/clay.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/clay.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Customer testimonial carousel with magenta, green, and blue quote cards featuring OpenAI, Vanta, and other company logos](https://pin.fontofweb.com/5490?format=jpg)](https://design.withfudge.com/share/pin-5490)
+[![Customer testimonial carousel with magenta, green, and blue quote cards featuring OpenAI, Vanta, and other company logos](https://pin.fontofweb.com/5490?format=jpg)](https://fudge.design/share/pin-5490)
 
-[Customer testimonial carousel with magenta, green, and blue quote cards featuring OpenAI, Vanta, and other company logos](https://design.withfudge.com/share/pin-5490)
+[Customer testimonial carousel with magenta, green, and blue quote cards featuring OpenAI, Vanta, and other company logos](https://fudge.design/share/pin-5490)
 
-[![Hero section with 3D claymation landscape, navigation bar, and multi-column footer on off-white background](https://pin.fontofweb.com/5489?format=jpg)](https://design.withfudge.com/share/pin-5489)
+[![Hero section with 3D claymation landscape, navigation bar, and multi-column footer on off-white background](https://pin.fontofweb.com/5489?format=jpg)](https://fudge.design/share/pin-5489)
 
-[Hero section with 3D claymation landscape, navigation bar, and multi-column footer on off-white background](https://design.withfudge.com/share/pin-5489)
+[Hero section with 3D claymation landscape, navigation bar, and multi-column footer on off-white background](https://fudge.design/share/pin-5489)
 
 ## Overview
 
@@ -150,3 +150,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the pricing page surface including hero, testimonial carousel, and footer regions. Navigation dropdown contents, mobile breakpoint specifics, form interactions, and animation behavior are not represented in the supplied material. Measurements are practical adaptation targets derived from visible composition analysis.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

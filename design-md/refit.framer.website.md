@@ -1,22 +1,22 @@
 # How refit.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/refit.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/refit.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About us section with dark pill label, large stacked display heading, and body paragraph on white background](https://pin.fontofweb.com/5556?format=jpg)](https://design.withfudge.com/share/pin-5556)
+[![About us section with dark pill label, large stacked display heading, and body paragraph on white background](https://pin.fontofweb.com/5556?format=jpg)](https://fudge.design/share/pin-5556)
 
-[About us section with dark pill label, large stacked display heading, and body paragraph on white background](https://design.withfudge.com/share/pin-5556)
+[About us section with dark pill label, large stacked display heading, and body paragraph on white background](https://fudge.design/share/pin-5556)
 
-[![Overlapping text fragments and interior photography showing warm wood ceiling and neutral wall surfaces](https://pin.fontofweb.com/5555?format=jpg)](https://design.withfudge.com/share/pin-5555)
+[![Overlapping text fragments and interior photography showing warm wood ceiling and neutral wall surfaces](https://pin.fontofweb.com/5555?format=jpg)](https://fudge.design/share/pin-5555)
 
-[Overlapping text fragments and interior photography showing warm wood ceiling and neutral wall surfaces](https://design.withfudge.com/share/pin-5555)
+[Overlapping text fragments and interior photography showing warm wood ceiling and neutral wall surfaces](https://fudge.design/share/pin-5555)
 
-[![Cropped display typography with warm-toned interior photography showing ceiling texture and wall finishes](https://pin.fontofweb.com/5554?format=jpg)](https://design.withfudge.com/share/pin-5554)
+[![Cropped display typography with warm-toned interior photography showing ceiling texture and wall finishes](https://pin.fontofweb.com/5554?format=jpg)](https://fudge.design/share/pin-5554)
 
-[Cropped display typography with warm-toned interior photography showing ceiling texture and wall finishes](https://design.withfudge.com/share/pin-5554)
+[Cropped display typography with warm-toned interior photography showing ceiling texture and wall finishes](https://fudge.design/share/pin-5554)
 
 ## Overview
 
@@ -134,3 +134,18 @@ The two-column text layout should stack vertically on narrow viewports, with the
 ## Scope note
 
 This guide covers the homepage hero and about section surfaces visible in the supplied images. Footer, navigation, service listings, contact forms, and project detail pages are not represented. Motion, hover states, and mobile breakpoints are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Real estate and construction](/share/designs-with-industry.real_estate_construction)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

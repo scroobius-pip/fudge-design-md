@@ -1,26 +1,26 @@
 # How theverge.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/theverge.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/theverge.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login modal with white card centered over a collage of colorful tech photography, featuring purple primary action buttons and social sign-in options](https://pin.fontofweb.com/9402?format=jpg)](https://design.withfudge.com/share/pin-9402)
+[![Login modal with white card centered over a collage of colorful tech photography, featuring purple primary action buttons and social sign-in options](https://pin.fontofweb.com/9402?format=jpg)](https://fudge.design/share/pin-9402)
 
-[Login modal with white card centered over a collage of colorful tech photography, featuring purple primary action buttons and social sign-in options](https://design.withfudge.com/share/pin-9402)
+[Login modal with white card centered over a collage of colorful tech photography, featuring purple primary action buttons and social sign-in options](https://fudge.design/share/pin-9402)
 
-[![Article page with light purple-tinted comment card, purple navigation overlay, and bold headline typography in the main content area](https://pin.fontofweb.com/9401?format=jpg)](https://design.withfudge.com/share/pin-9401)
+[![Article page with light purple-tinted comment card, purple navigation overlay, and bold headline typography in the main content area](https://pin.fontofweb.com/9401?format=jpg)](https://fudge.design/share/pin-9401)
 
-[Article page with light purple-tinted comment card, purple navigation overlay, and bold headline typography in the main content area](https://design.withfudge.com/share/pin-9401)
+[Article page with light purple-tinted comment card, purple navigation overlay, and bold headline typography in the main content area](https://fudge.design/share/pin-9401)
 
-[![Dark footer with white The Verge wordmark, social media icons in teal circles, and organized link rows on near-black background](https://pin.fontofweb.com/9400?format=jpg)](https://design.withfudge.com/share/pin-9400)
+[![Dark footer with white The Verge wordmark, social media icons in teal circles, and organized link rows on near-black background](https://pin.fontofweb.com/9400?format=jpg)](https://fudge.design/share/pin-9400)
 
-[Dark footer with white The Verge wordmark, social media icons in teal circles, and organized link rows on near-black background](https://design.withfudge.com/share/pin-9400)
+[Dark footer with white The Verge wordmark, social media icons in teal circles, and organized link rows on near-black background](https://fudge.design/share/pin-9400)
 
-[![Streaming section with bright mint-green background, three-column card grid with bold headlines, and right sidebar with timestamped story list](https://pin.fontofweb.com/9399?format=jpg)](https://design.withfudge.com/share/pin-9399)
+[![Streaming section with bright mint-green background, three-column card grid with bold headlines, and right sidebar with timestamped story list](https://pin.fontofweb.com/9399?format=jpg)](https://fudge.design/share/pin-9399)
 
-[Streaming section with bright mint-green background, three-column card grid with bold headlines, and right sidebar with timestamped story list](https://design.withfudge.com/share/pin-9399)
+[Streaming section with bright mint-green background, three-column card grid with bold headlines, and right sidebar with timestamped story list](https://fudge.design/share/pin-9399)
 
 ## Overview
 
@@ -203,3 +203,18 @@ Typography remains largely consistent, with only the hero display and button-lar
 ## Scope note
 
 This guide covers the homepage, article page, login modal, and footer as visible in the supplied images. Mobile-specific layouts, hover and focus states beyond the visible defaults, loading skeletons, video player components, and the full search experience are not represented. The comment system threading and user badges are partially visible but not fully documented. Measurements are derived from the desktop interface at standard resolution. Applesystem and System-Uisansserif appear in the detected font stack as system fallbacks but are not used as primary design voices in the visible components.
+
+## Related design patterns
+
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How hometechco.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hometechco.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hometechco.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with warm amber gradient background, logo, navigation links, legal disclaimer, and social icons on dark canvas](https://pin.fontofweb.com/3345?format=jpg)](https://design.withfudge.com/share/pin-3345)
+[![Footer section with warm amber gradient background, logo, navigation links, legal disclaimer, and social icons on dark canvas](https://pin.fontofweb.com/3345?format=jpg)](https://fudge.design/share/pin-3345)
 
-[Footer section with warm amber gradient background, logo, navigation links, legal disclaimer, and social icons on dark canvas](https://design.withfudge.com/share/pin-3345)
+[Footer section with warm amber gradient background, logo, navigation links, legal disclaimer, and social icons on dark canvas](https://fudge.design/share/pin-3345)
 
-[![FAQ accordion with dark background, white question text, muted answer text, and amber open-state indicator icon](https://pin.fontofweb.com/3344?format=jpg)](https://design.withfudge.com/share/pin-3344)
+[![FAQ accordion with dark background, white question text, muted answer text, and amber open-state indicator icon](https://pin.fontofweb.com/3344?format=jpg)](https://fudge.design/share/pin-3344)
 
-[FAQ accordion with dark background, white question text, muted answer text, and amber open-state indicator icon](https://design.withfudge.com/share/pin-3344)
+[FAQ accordion with dark background, white question text, muted answer text, and amber open-state indicator icon](https://fudge.design/share/pin-3344)
 
-[![Specs grid with four dark gray cards showing Display, Speaker, Webcam, and Connectivity categories with white headings](https://pin.fontofweb.com/3343?format=jpg)](https://design.withfudge.com/share/pin-3343)
+[![Specs grid with four dark gray cards showing Display, Speaker, Webcam, and Connectivity categories with white headings](https://pin.fontofweb.com/3343?format=jpg)](https://fudge.design/share/pin-3343)
 
-[Specs grid with four dark gray cards showing Display, Speaker, Webcam, and Connectivity categories with white headings](https://design.withfudge.com/share/pin-3343)
+[Specs grid with four dark gray cards showing Display, Speaker, Webcam, and Connectivity categories with white headings](https://fudge.design/share/pin-3343)
 
-[![Hero banner with warm interior photography, large centered white headline, and amber pill-shaped sign-up button](https://pin.fontofweb.com/3342?format=jpg)](https://design.withfudge.com/share/pin-3342)
+[![Hero banner with warm interior photography, large centered white headline, and amber pill-shaped sign-up button](https://pin.fontofweb.com/3342?format=jpg)](https://fudge.design/share/pin-3342)
 
-[Hero banner with warm interior photography, large centered white headline, and amber pill-shaped sign-up button](https://design.withfudge.com/share/pin-3342)
+[Hero banner with warm interior photography, large centered white headline, and amber pill-shaped sign-up button](https://fudge.design/share/pin-3342)
 
 ## Overview
 
@@ -161,3 +161,18 @@ No breakpoint values are visible in the material; standard ranges (768px for tab
 ## Scope note
 
 This guide covers the landing page experience for the Home Display product, including hero, specifications, FAQ, and footer sections. Mobile layouts, additional pages, checkout flows, motion design, and form validation states are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

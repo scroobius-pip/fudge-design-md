@@ -1,22 +1,22 @@
 # How belfasttelegraph.co.uk is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/belfasttelegraph.co.uk-design)
+[Open the live Fudge conversation](https://fudge.design/share/belfasttelegraph.co.uk-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section showing the Belfast Telegraph masthead, multi-column category navigation grid with News, Opinion, Business, Sport, Life, Entertainment, Sunday Life, Events, More,](https://pin.fontofweb.com/4849?format=jpg)](https://design.withfudge.com/share/pin-4849)
+[![Footer section showing the Belfast Telegraph masthead, multi-column category navigation grid with News, Opinion, Business, Sport, Life, Entertainment, Sunday Life, Events, More,](https://pin.fontofweb.com/4849?format=jpg)](https://fudge.design/share/pin-4849)
 
-[Footer section showing the Belfast Telegraph masthead, multi-column category navigation grid with News, Opinion, Business, Sport, Life, Entertainment, Sunday Life, Events, More,](https://design.withfudge.com/share/pin-4849)
+[Footer section showing the Belfast Telegraph masthead, multi-column category navigation grid with News, Opinion, Business, Sport, Life, Entertainment, Sunday Life, Events, More,](https://fudge.design/share/pin-4849)
 
-[![Sunday Life section page with a deep teal header background, white italic masthead logo, horizontal navigation bar, large monochrome featured image with red EXCLUSIVE label, and](https://pin.fontofweb.com/4848?format=jpg)](https://design.withfudge.com/share/pin-4848)
+[![Sunday Life section page with a deep teal header background, white italic masthead logo, horizontal navigation bar, large monochrome featured image with red EXCLUSIVE label, and](https://pin.fontofweb.com/4848?format=jpg)](https://fudge.design/share/pin-4848)
 
-[Sunday Life section page with a deep teal header background, white italic masthead logo, horizontal navigation bar, large monochrome featured image with red EXCLUSIVE label, and](https://design.withfudge.com/share/pin-4848)
+[Sunday Life section page with a deep teal header background, white italic masthead logo, horizontal navigation bar, large monochrome featured image with red EXCLUSIVE label, and](https://fudge.design/share/pin-4848)
 
-[![Top navigation bar showing date, utility links, Subscribe button with teal background, Log In button, Belfast Telegraph serif masthead, primary category navigation with News](https://pin.fontofweb.com/4847?format=jpg)](https://design.withfudge.com/share/pin-4847)
+[![Top navigation bar showing date, utility links, Subscribe button with teal background, Log In button, Belfast Telegraph serif masthead, primary category navigation with News](https://pin.fontofweb.com/4847?format=jpg)](https://fudge.design/share/pin-4847)
 
-[Top navigation bar showing date, utility links, Subscribe button with teal background, Log In button, Belfast Telegraph serif masthead, primary category navigation with News](https://design.withfudge.com/share/pin-4847)
+[Top navigation bar showing date, utility links, Subscribe button with teal background, Log In button, Belfast Telegraph serif masthead, primary category navigation with News](https://fudge.design/share/pin-4847)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The Sunday Life section's teal header should remain full-bleed at all widths, wi
 ## Scope note
 
 This guide covers the Belfast Telegraph homepage, Sunday Life section page, and footer surfaces visible in the supplied images. Article detail pages, video players, interactive graphics, advertising integrations, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Content index](/share/designs-with-page.content.index)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

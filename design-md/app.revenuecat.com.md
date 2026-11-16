@@ -1,18 +1,18 @@
 # How app.revenuecat.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.revenuecat.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.revenuecat.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![SDK installation page with split-panel layout showing framework selector, API key field, code snippet with syntax highlighting, and action buttons on dark background](https://pin.fontofweb.com/4612?format=jpg)](https://design.withfudge.com/share/pin-4612)
+[![SDK installation page with split-panel layout showing framework selector, API key field, code snippet with syntax highlighting, and action buttons on dark background](https://pin.fontofweb.com/4612?format=jpg)](https://fudge.design/share/pin-4612)
 
-[SDK installation page with split-panel layout showing framework selector, API key field, code snippet with syntax highlighting, and action buttons on dark background](https://design.withfudge.com/share/pin-4612)
+[SDK installation page with split-panel layout showing framework selector, API key field, code snippet with syntax highlighting, and action buttons on dark background](https://fudge.design/share/pin-4612)
 
-[![Project survey form with stacked text inputs and dropdowns, section heading, descriptive text, and submit button on dark background](https://pin.fontofweb.com/4611?format=jpg)](https://design.withfudge.com/share/pin-4611)
+[![Project survey form with stacked text inputs and dropdowns, section heading, descriptive text, and submit button on dark background](https://pin.fontofweb.com/4611?format=jpg)](https://fudge.design/share/pin-4611)
 
-[Project survey form with stacked text inputs and dropdowns, section heading, descriptive text, and submit button on dark background](https://design.withfudge.com/share/pin-4611)
+[Project survey form with stacked text inputs and dropdowns, section heading, descriptive text, and submit button on dark background](https://fudge.design/share/pin-4611)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The tab navigation within code blocks may wrap to multiple lines or collapse to 
 ## Scope note
 
 This guide covers the SDK installation workflow and project survey surfaces visible in the supplied images. Navigation patterns beyond the tab bar, data visualization, notification systems, and mobile-specific adaptations are not represented. Measurements are practical adaptation targets derived from the visible interface proportions.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

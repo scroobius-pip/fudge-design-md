@@ -1,22 +1,22 @@
 # How frameplate.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/frameplate.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/frameplate.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Frameplate logo, yellow support button, social icons, and multi-column navigation links on black background](https://pin.fontofweb.com/3965?format=jpg)](https://design.withfudge.com/share/pin-3965)
+[![Footer section with Frameplate logo, yellow support button, social icons, and multi-column navigation links on black background](https://pin.fontofweb.com/3965?format=jpg)](https://fudge.design/share/pin-3965)
 
-[Footer section with Frameplate logo, yellow support button, social icons, and multi-column navigation links on black background](https://design.withfudge.com/share/pin-3965)
+[Footer section with Frameplate logo, yellow support button, social icons, and multi-column navigation links on black background](https://fudge.design/share/pin-3965)
 
-[![Newsletter signup section with heading, email input field, white subscribe button, and geometric logo mark on black background](https://pin.fontofweb.com/3964?format=jpg)](https://design.withfudge.com/share/pin-3964)
+[![Newsletter signup section with heading, email input field, white subscribe button, and geometric logo mark on black background](https://pin.fontofweb.com/3964?format=jpg)](https://fudge.design/share/pin-3964)
 
-[Newsletter signup section with heading, email input field, white subscribe button, and geometric logo mark on black background](https://design.withfudge.com/share/pin-3964)
+[Newsletter signup section with heading, email input field, white subscribe button, and geometric logo mark on black background](https://fudge.design/share/pin-3964)
 
-[![Sponsor pricing page with purple announcement banner, breadcrumb navigation, three-tier pricing cards with purple CTAs and wireframe previews](https://pin.fontofweb.com/3963?format=jpg)](https://design.withfudge.com/share/pin-3963)
+[![Sponsor pricing page with purple announcement banner, breadcrumb navigation, three-tier pricing cards with purple CTAs and wireframe previews](https://pin.fontofweb.com/3963?format=jpg)](https://fudge.design/share/pin-3963)
 
-[Sponsor pricing page with purple announcement banner, breadcrumb navigation, three-tier pricing cards with purple CTAs and wireframe previews](https://design.withfudge.com/share/pin-3963)
+[Sponsor pricing page with purple announcement banner, breadcrumb navigation, three-tier pricing cards with purple CTAs and wireframe previews](https://fudge.design/share/pin-3963)
 
 ## Overview
 
@@ -191,3 +191,18 @@ Typography should scale down modestly on smaller screens: hero-display reducing 
 ## Scope note
 
 This guide covers the sponsor and advertise page surface of Frameplate, including the pricing tier presentation, newsletter signup, announcement banner, and footer navigation. Global header navigation, template listing pages, checkout flows, and mobile-specific layouts are not represented in the supplied images. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

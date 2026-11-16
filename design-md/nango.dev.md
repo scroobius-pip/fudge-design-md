@@ -1,26 +1,26 @@
 # How nango.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nango.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/nango.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with code-first integrations headline and syntax-highlighted code editor panel showing Nango SDK usage](https://pin.fontofweb.com/5443?format=jpg)](https://design.withfudge.com/share/pin-5443)
+[![Dark hero section with code-first integrations headline and syntax-highlighted code editor panel showing Nango SDK usage](https://pin.fontofweb.com/5443?format=jpg)](https://fudge.design/share/pin-5443)
 
-[Dark hero section with code-first integrations headline and syntax-highlighted code editor panel showing Nango SDK usage](https://design.withfudge.com/share/pin-5443)
+[Dark hero section with code-first integrations headline and syntax-highlighted code editor panel showing Nango SDK usage](https://fudge.design/share/pin-5443)
 
-[![Light-themed feature grid titled Built for scale with three cards and soft gradient geometric illustrations](https://pin.fontofweb.com/5442?format=jpg)](https://design.withfudge.com/share/pin-5442)
+[![Light-themed feature grid titled Built for scale with three cards and soft gradient geometric illustrations](https://pin.fontofweb.com/5442?format=jpg)](https://fudge.design/share/pin-5442)
 
-[Light-themed feature grid titled Built for scale with three cards and soft gradient geometric illustrations](https://design.withfudge.com/share/pin-5442)
+[Light-themed feature grid titled Built for scale with three cards and soft gradient geometric illustrations](https://fudge.design/share/pin-5442)
 
-[![Dark capabilities section with four feature cards showcasing API auth, syncs, webhooks, and LLM tool calling with line-art icons](https://pin.fontofweb.com/5441?format=jpg)](https://design.withfudge.com/share/pin-5441)
+[![Dark capabilities section with four feature cards showcasing API auth, syncs, webhooks, and LLM tool calling with line-art icons](https://pin.fontofweb.com/5441?format=jpg)](https://fudge.design/share/pin-5441)
 
-[Dark capabilities section with four feature cards showcasing API auth, syncs, webhooks, and LLM tool calling with line-art icons](https://design.withfudge.com/share/pin-5441)
+[Dark capabilities section with four feature cards showcasing API auth, syncs, webhooks, and LLM tool calling with line-art icons](https://fudge.design/share/pin-5441)
 
-[![Light social proof section with company logo tabs and customer testimonial cards with avatar photos and quotes](https://pin.fontofweb.com/5440?format=jpg)](https://design.withfudge.com/share/pin-5440)
+[![Light social proof section with company logo tabs and customer testimonial cards with avatar photos and quotes](https://pin.fontofweb.com/5440?format=jpg)](https://fudge.design/share/pin-5440)
 
-[Light social proof section with company logo tabs and customer testimonial cards with avatar photos and quotes](https://design.withfudge.com/share/pin-5440)
+[Light social proof section with company logo tabs and customer testimonial cards with avatar photos and quotes](https://fudge.design/share/pin-5440)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Dark sections maintain their immersive quality across breakpoints but may reduce
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images, including hero, feature grids, capabilities, and testimonial sections. Navigation, footer, form states, mobile layouts, and animation behavior are not represented in the available material. Open Sans is present in the font inventory but not visibly used in the captured interface. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

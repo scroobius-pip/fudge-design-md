@@ -1,26 +1,26 @@
 # How skill-shrek.vercel.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/skill-shrek.vercel.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/skill-shrek.vercel.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with bold typographic headline, pink feature card, and colorful character avatars on black background](https://pin.fontofweb.com/6625?format=jpg)](https://design.withfudge.com/share/pin-6625)
+[![Hero section with bold typographic headline, pink feature card, and colorful character avatars on black background](https://pin.fontofweb.com/6625?format=jpg)](https://fudge.design/share/pin-6625)
 
-[Hero section with bold typographic headline, pink feature card, and colorful character avatars on black background](https://design.withfudge.com/share/pin-6625)
+[Hero section with bold typographic headline, pink feature card, and colorful character avatars on black background](https://fudge.design/share/pin-6625)
 
-[![Animated marquee banners with diagonal blue and pink strips displaying repeated words in condensed display type](https://pin.fontofweb.com/6622?format=jpg)](https://design.withfudge.com/share/pin-6622)
+[![Animated marquee banners with diagonal blue and pink strips displaying repeated words in condensed display type](https://pin.fontofweb.com/6622?format=jpg)](https://fudge.design/share/pin-6622)
 
-[Animated marquee banners with diagonal blue and pink strips displaying repeated words in condensed display type](https://design.withfudge.com/share/pin-6622)
+[Animated marquee banners with diagonal blue and pink strips displaying repeated words in condensed display type](https://fudge.design/share/pin-6622)
 
-[![Massive stacked headline with gradient purple text, floating cartoon character cards, and pill navigation on dark canvas](https://pin.fontofweb.com/6621?format=jpg)](https://design.withfudge.com/share/pin-6621)
+[![Massive stacked headline with gradient purple text, floating cartoon character cards, and pill navigation on dark canvas](https://pin.fontofweb.com/6621?format=jpg)](https://fudge.design/share/pin-6621)
 
-[Massive stacked headline with gradient purple text, floating cartoon character cards, and pill navigation on dark canvas](https://design.withfudge.com/share/pin-6621)
+[Massive stacked headline with gradient purple text, floating cartoon character cards, and pill navigation on dark canvas](https://fudge.design/share/pin-6621)
 
-[![Founding member pricing panel with dark card, purple pill badges, feature list, and handwritten annotation arrows](https://pin.fontofweb.com/6620?format=jpg)](https://design.withfudge.com/share/pin-6620)
+[![Founding member pricing panel with dark card, purple pill badges, feature list, and handwritten annotation arrows](https://pin.fontofweb.com/6620?format=jpg)](https://fudge.design/share/pin-6620)
 
-[Founding member pricing panel with dark card, purple pill badges, feature list, and handwritten annotation arrows](https://design.withfudge.com/share/pin-6620)
+[Founding member pricing panel with dark card, purple pill badges, feature list, and handwritten annotation arrows](https://fudge.design/share/pin-6620)
 
 ## Overview
 
@@ -132,3 +132,18 @@ The design is built desktop-first with extreme display sizes that require carefu
 ## Scope note
 
 This guide covers the landing page surface including hero, feature cards, marquee banners, and founding member pricing panel. Mobile layouts, form validation states, checkout flows, and interior course pages are not represented in the supplied material. The character illustration system and motion behavior for marquee strips are described as visible in static compositions; full animation specifications would require additional review.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

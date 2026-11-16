@@ -1,26 +1,26 @@
 # How daylight-health.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/daylight-health.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/daylight-health.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with newsletter subscription, navigation columns, and oversized serif wordmark on warm yellow gradient background](https://pin.fontofweb.com/5657?format=jpg)](https://design.withfudge.com/share/pin-5657)
+[![Footer with newsletter subscription, navigation columns, and oversized serif wordmark on warm yellow gradient background](https://pin.fontofweb.com/5657?format=jpg)](https://fudge.design/share/pin-5657)
 
-[Footer with newsletter subscription, navigation columns, and oversized serif wordmark on warm yellow gradient background](https://design.withfudge.com/share/pin-5657)
+[Footer with newsletter subscription, navigation columns, and oversized serif wordmark on warm yellow gradient background](https://fudge.design/share/pin-5657)
 
-[![Hero section with botanical line illustration, cream headline, and pill button on deep plum background](https://pin.fontofweb.com/5656?format=jpg)](https://design.withfudge.com/share/pin-5656)
+[![Hero section with botanical line illustration, cream headline, and pill button on deep plum background](https://pin.fontofweb.com/5656?format=jpg)](https://fudge.design/share/pin-5656)
 
-[Hero section with botanical line illustration, cream headline, and pill button on deep plum background](https://design.withfudge.com/share/pin-5656)
+[Hero section with botanical line illustration, cream headline, and pill button on deep plum background](https://fudge.design/share/pin-5656)
 
-[![Testimonials section with staggered cream cards, client quotes, and circular avatars on peach-to-yellow gradient](https://pin.fontofweb.com/5655?format=jpg)](https://design.withfudge.com/share/pin-5655)
+[![Testimonials section with staggered cream cards, client quotes, and circular avatars on peach-to-yellow gradient](https://pin.fontofweb.com/5655?format=jpg)](https://fudge.design/share/pin-5655)
 
-[Testimonials section with staggered cream cards, client quotes, and circular avatars on peach-to-yellow gradient](https://design.withfudge.com/share/pin-5655)
+[Testimonials section with staggered cream cards, client quotes, and circular avatars on peach-to-yellow gradient](https://fudge.design/share/pin-5655)
 
-[![Statistics section with three overlapping cream metric cards and delicate line illustrations on warm peach background](https://pin.fontofweb.com/5654?format=jpg)](https://design.withfudge.com/share/pin-5654)
+[![Statistics section with three overlapping cream metric cards and delicate line illustrations on warm peach background](https://pin.fontofweb.com/5654?format=jpg)](https://fudge.design/share/pin-5654)
 
-[Statistics section with three overlapping cream metric cards and delicate line illustrations on warm peach background](https://design.withfudge.com/share/pin-5654)
+[Statistics section with three overlapping cream metric cards and delicate line illustrations on warm peach background](https://fudge.design/share/pin-5654)
 
 ## Overview
 
@@ -157,3 +157,18 @@ Navigation columns in the footer should reorganize from horizontal distribution 
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images, including the hero, statistics, testimonials, and footer sections. Navigation header, interior pages, form validation states, mobile menu behavior, and motion design are not represented in the available material. Measurements are practical adaptation targets. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Light mode](/share/designs-with-color.mode.light)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

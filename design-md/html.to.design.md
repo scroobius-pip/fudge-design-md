@@ -1,26 +1,26 @@
 # How html.to.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/html.to.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/html.to.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark brand panel, social icons, and bright cyan legal bar with Terms & Conditions link](https://pin.fontofweb.com/4228?format=jpg)](https://design.withfudge.com/share/pin-4228)
+[![Footer section with dark brand panel, social icons, and bright cyan legal bar with Terms & Conditions link](https://pin.fontofweb.com/4228?format=jpg)](https://fudge.design/share/pin-4228)
 
-[Footer section with dark brand panel, social icons, and bright cyan legal bar with Terms & Conditions link](https://design.withfudge.com/share/pin-4228)
+[Footer section with dark brand panel, social icons, and bright cyan legal bar with Terms & Conditions link](https://fudge.design/share/pin-4228)
 
-[![Testimonials section with four white cards on black grid lines and cyan accent block, featuring user avatars and quotes](https://pin.fontofweb.com/4227?format=jpg)](https://design.withfudge.com/share/pin-4227)
+[![Testimonials section with four white cards on black grid lines and cyan accent block, featuring user avatars and quotes](https://pin.fontofweb.com/4227?format=jpg)](https://fudge.design/share/pin-4227)
 
-[Testimonials section with four white cards on black grid lines and cyan accent block, featuring user avatars and quotes](https://design.withfudge.com/share/pin-4227)
+[Testimonials section with four white cards on black grid lines and cyan accent block, featuring user avatars and quotes](https://fudge.design/share/pin-4227)
 
-[![Feature grid with six colorful panels in orange, yellow, green, cyan, purple, and black showcasing Capture, Edit code, Redesign, Connect to AI, Auto layout, Prototype,](https://pin.fontofweb.com/4226?format=jpg)](https://design.withfudge.com/share/pin-4226)
+[![Feature grid with six colorful panels in orange, yellow, green, cyan, purple, and black showcasing Capture, Edit code, Redesign, Connect to AI, Auto layout, Prototype,](https://pin.fontofweb.com/4226?format=jpg)](https://fudge.design/share/pin-4226)
 
-[Feature grid with six colorful panels in orange, yellow, green, cyan, purple, and black showcasing Capture, Edit code, Redesign, Connect to AI, Auto layout, Prototype,](https://design.withfudge.com/share/pin-4226)
+[Feature grid with six colorful panels in orange, yellow, green, cyan, purple, and black showcasing Capture, Edit code, Redesign, Connect to AI, Auto layout, Prototype,](https://fudge.design/share/pin-4226)
 
-[![Pricing section with three white cards on green background showing Free, Pro, and Pro for teams tiers with black action buttons](https://pin.fontofweb.com/4225?format=jpg)](https://design.withfudge.com/share/pin-4225)
+[![Pricing section with three white cards on green background showing Free, Pro, and Pro for teams tiers with black action buttons](https://pin.fontofweb.com/4225?format=jpg)](https://fudge.design/share/pin-4225)
 
-[Pricing section with three white cards on green background showing Free, Pro, and Pro for teams tiers with black action buttons](https://design.withfudge.com/share/pin-4225)
+[Pricing section with three white cards on green background showing Free, Pro, and Pro for teams tiers with black action buttons](https://fudge.design/share/pin-4225)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The persistent black grid lines are essential to the identity and should not be 
 ## Scope note
 
 This guide covers the html.to.design homepage visible in the supplied images, including the feature grid, testimonials, pricing, and footer sections. Navigation behavior, mobile layouts, hover states, form interactions, and any pages beyond the homepage are not represented. Measurements are practical adaptation targets based on visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How moda.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/moda.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/moda.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Version History modal overlay with search, filter tabs, and version list with current-state green badge on white panel with right-side preview pane.](https://pin.fontofweb.com/8322?format=jpg)](https://design.withfudge.com/share/pin-8322)
+[![Version History modal overlay with search, filter tabs, and version list with current-state green badge on white panel with right-side preview pane.](https://pin.fontofweb.com/8322?format=jpg)](https://fudge.design/share/pin-8322)
 
-[Version History modal overlay with search, filter tabs, and version list with current-state green badge on white panel with right-side preview pane.](https://design.withfudge.com/share/pin-8322)
+[Version History modal overlay with search, filter tabs, and version list with current-state green badge on white panel with right-side preview pane.](https://fudge.design/share/pin-8322)
 
-[![SaaS analytics dashboard canvas with sidebar navigation, four metric cards, line chart, recent signups table, and right-side AI chat panel with gradient accent button.](https://pin.fontofweb.com/8321?format=jpg)](https://design.withfudge.com/share/pin-8321)
+[![SaaS analytics dashboard canvas with sidebar navigation, four metric cards, line chart, recent signups table, and right-side AI chat panel with gradient accent button.](https://pin.fontofweb.com/8321?format=jpg)](https://fudge.design/share/pin-8321)
 
-[SaaS analytics dashboard canvas with sidebar navigation, four metric cards, line chart, recent signups table, and right-side AI chat panel with gradient accent button.](https://design.withfudge.com/share/pin-8321)
+[SaaS analytics dashboard canvas with sidebar navigation, four metric cards, line chart, recent signups table, and right-side AI chat panel with gradient accent button.](https://fudge.design/share/pin-8321)
 
-[![Workspace General settings page with left sidebar navigation, invite credits banner with cyan gradient, and member management card.](https://pin.fontofweb.com/8320?format=jpg)](https://design.withfudge.com/share/pin-8320)
+[![Workspace General settings page with left sidebar navigation, invite credits banner with cyan gradient, and member management card.](https://pin.fontofweb.com/8320?format=jpg)](https://fudge.design/share/pin-8320)
 
-[Workspace General settings page with left sidebar navigation, invite credits banner with cyan gradient, and member management card.](https://design.withfudge.com/share/pin-8320)
+[Workspace General settings page with left sidebar navigation, invite credits banner with cyan gradient, and member management card.](https://fudge.design/share/pin-8320)
 
-[![Custom Fonts settings page with dashed upload dropzone, empty state illustration, and sidebar navigation with selected state.](https://pin.fontofweb.com/8319?format=jpg)](https://design.withfudge.com/share/pin-8319)
+[![Custom Fonts settings page with dashed upload dropzone, empty state illustration, and sidebar navigation with selected state.](https://pin.fontofweb.com/8319?format=jpg)](https://fudge.design/share/pin-8319)
 
-[Custom Fonts settings page with dashed upload dropzone, empty state illustration, and sidebar navigation with selected state.](https://design.withfudge.com/share/pin-8319)
+[Custom Fonts settings page with dashed upload dropzone, empty state illustration, and sidebar navigation with selected state.](https://fudge.design/share/pin-8319)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The interface appears optimized for desktop use with the full three-panel layout
 This guide covers the Moda application interface including dashboard canvas, workspace settings, version history, and AI chat panels as visible in the supplied materials. Marketing pages, mobile layouts, animation specifications, and dark mode implementations are not included. The design system assumes a desktop-first context with responsive adaptations recommended rather than specified. Measurements derive from the documented pixel values converted to the base-2 relative unit system.
 
 Verify licensing for Season Mix, Season Sans, Geist Mono, Dm Sans, and System-Uimonospace before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

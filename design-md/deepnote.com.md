@@ -1,26 +1,26 @@
 # How deepnote.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/deepnote.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/deepnote.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up page with centered authentication form, social login buttons, and enterprise trust logos on a clean white canvas.](https://pin.fontofweb.com/1403?format=jpg)](https://design.withfudge.com/share/pin-1403)
+[![Sign-up page with centered authentication form, social login buttons, and enterprise trust logos on a clean white canvas.](https://pin.fontofweb.com/1403?format=jpg)](https://fudge.design/share/pin-1403)
 
-[Sign-up page with centered authentication form, social login buttons, and enterprise trust logos on a clean white canvas.](https://design.withfudge.com/share/pin-1403)
+[Sign-up page with centered authentication form, social login buttons, and enterprise trust logos on a clean white canvas.](https://fudge.design/share/pin-1403)
 
-[![Close-up of the sign-up form showing the blue primary action button, outlined secondary buttons, and email input field with clear typographic hierarchy.](https://pin.fontofweb.com/1402?format=jpg)](https://design.withfudge.com/share/pin-1402)
+[![Close-up of the sign-up form showing the blue primary action button, outlined secondary buttons, and email input field with clear typographic hierarchy.](https://pin.fontofweb.com/1402?format=jpg)](https://fudge.design/share/pin-1402)
 
-[Close-up of the sign-up form showing the blue primary action button, outlined secondary buttons, and email input field with clear typographic hierarchy.](https://design.withfudge.com/share/pin-1402)
+[Close-up of the sign-up form showing the blue primary action button, outlined secondary buttons, and email input field with clear typographic hierarchy.](https://fudge.design/share/pin-1402)
 
-[![Comparison page with a two-column grid of platform cards featuring the Deepnote brand mark, competitor logos, and action buttons with rounded corners.](https://pin.fontofweb.com/1401?format=jpg)](https://design.withfudge.com/share/pin-1401)
+[![Comparison page with a two-column grid of platform cards featuring the Deepnote brand mark, competitor logos, and action buttons with rounded corners.](https://pin.fontofweb.com/1401?format=jpg)](https://fudge.design/share/pin-1401)
 
-[Comparison page with a two-column grid of platform cards featuring the Deepnote brand mark, competitor logos, and action buttons with rounded corners.](https://design.withfudge.com/share/pin-1401)
+[Comparison page with a two-column grid of platform cards featuring the Deepnote brand mark, competitor logos, and action buttons with rounded corners.](https://fudge.design/share/pin-1401)
 
-[![Blog index with large dark navy article thumbnails, white card titles, and a Latest releases section with horizontal list layout.](https://pin.fontofweb.com/1400?format=jpg)](https://design.withfudge.com/share/pin-1400)
+[![Blog index with large dark navy article thumbnails, white card titles, and a Latest releases section with horizontal list layout.](https://pin.fontofweb.com/1400?format=jpg)](https://fudge.design/share/pin-1400)
 
-[Blog index with large dark navy article thumbnails, white card titles, and a Latest releases section with horizontal list layout.](https://design.withfudge.com/share/pin-1400)
+[Blog index with large dark navy article thumbnails, white card titles, and a Latest releases section with horizontal list layout.](https://fudge.design/share/pin-1400)
 
 ## Overview
 
@@ -147,3 +147,18 @@ Typography should scale down modestly: hero-display may reduce to 2.5rem, sectio
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: sign-up authentication, platform comparison, and blog index pages. The product workspace interface, mobile navigation patterns, interactive states, and animation are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

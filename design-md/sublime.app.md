@@ -1,26 +1,26 @@
 # How sublime.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sublime.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/sublime.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Following feed empty state with centered Sublime branding, search pill, lime-green active tab, and instructional body copy with underlined action links](https://pin.fontofweb.com/4967?format=jpg)](https://design.withfudge.com/share/pin-4967)
+[![Following feed empty state with centered Sublime branding, search pill, lime-green active tab, and instructional body copy with underlined action links](https://pin.fontofweb.com/4967?format=jpg)](https://fudge.design/share/pin-4967)
 
-[Following feed empty state with centered Sublime branding, search pill, lime-green active tab, and instructional body copy with underlined action links](https://design.withfudge.com/share/pin-4967)
+[Following feed empty state with centered Sublime branding, search pill, lime-green active tab, and instructional body copy with underlined action links](https://fudge.design/share/pin-4967)
 
-[![Staff picks feed showing media cards with thumbnail images, card corner radius, action icons, and numeric badges in top-right corners](https://pin.fontofweb.com/4966?format=jpg)](https://design.withfudge.com/share/pin-4966)
+[![Staff picks feed showing media cards with thumbnail images, card corner radius, action icons, and numeric badges in top-right corners](https://pin.fontofweb.com/4966?format=jpg)](https://fudge.design/share/pin-4966)
 
-[Staff picks feed showing media cards with thumbnail images, card corner radius, action icons, and numeric badges in top-right corners](https://design.withfudge.com/share/pin-4966)
+[Staff picks feed showing media cards with thumbnail images, card corner radius, action icons, and numeric badges in top-right corners](https://fudge.design/share/pin-4966)
 
-[![Individual card detail view with centered media, attribution line, lime-green Related tab, green insight callout bubble, and related card below](https://pin.fontofweb.com/4965?format=jpg)](https://design.withfudge.com/share/pin-4965)
+[![Individual card detail view with centered media, attribution line, lime-green Related tab, green insight callout bubble, and related card below](https://pin.fontofweb.com/4965?format=jpg)](https://fudge.design/share/pin-4965)
 
-[Individual card detail view with centered media, attribution line, lime-green Related tab, green insight callout bubble, and related card below](https://design.withfudge.com/share/pin-4965)
+[Individual card detail view with centered media, attribution line, lime-green Related tab, green insight callout bubble, and related card below](https://fudge.design/share/pin-4965)
 
-[![Finish setup checklist modal with circular checkboxes, chevron indicators, and blue underlined premium upgrade link](https://pin.fontofweb.com/4964?format=jpg)](https://design.withfudge.com/share/pin-4964)
+[![Finish setup checklist modal with circular checkboxes, chevron indicators, and blue underlined premium upgrade link](https://pin.fontofweb.com/4964?format=jpg)](https://fudge.design/share/pin-4964)
 
-[Finish setup checklist modal with circular checkboxes, chevron indicators, and blue underlined premium upgrade link](https://design.withfudge.com/share/pin-4964)
+[Finish setup checklist modal with circular checkboxes, chevron indicators, and blue underlined premium upgrade link](https://fudge.design/share/pin-4964)
 
 ## Overview
 
@@ -143,3 +143,18 @@ Touch targets for pill-shaped tabs and card action icons should remain at least 
 ## Scope note
 
 This guide covers the visible feed, card detail, empty state, and onboarding checklist surfaces. It does not include the browser extension page, sign-up flow, premium pricing, or library management views. Measurements are practical adaptation targets derived from the supplied imagery. Mobile breakpoints, dark mode, loading states, and motion behavior are not addressed.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

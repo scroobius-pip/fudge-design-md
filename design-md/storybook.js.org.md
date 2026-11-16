@@ -1,22 +1,22 @@
 # How storybook.js.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/storybook.js.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/storybook.js.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Testing features section with yellow UI mockup and dark feature cards showing spot test, visual test, interaction test, accessibility, coverage, and snapshot options](https://pin.fontofweb.com/8026?format=jpg)](https://design.withfudge.com/share/pin-8026)
+[![Testing features section with yellow UI mockup and dark feature cards showing spot test, visual test, interaction test, accessibility, coverage, and snapshot options](https://pin.fontofweb.com/8026?format=jpg)](https://fudge.design/share/pin-8026)
 
-[Testing features section with yellow UI mockup and dark feature cards showing spot test, visual test, interaction test, accessibility, coverage, and snapshot options](https://design.withfudge.com/share/pin-8026)
+[Testing features section with yellow UI mockup and dark feature cards showing spot test, visual test, interaction test, accessibility, coverage, and snapshot options](https://fudge.design/share/pin-8026)
 
-[![Hero section with company logos, headline about durable user interfaces, and Storybook application screenshot with code editor](https://pin.fontofweb.com/8025?format=jpg)](https://design.withfudge.com/share/pin-8025)
+[![Hero section with company logos, headline about durable user interfaces, and Storybook application screenshot with code editor](https://pin.fontofweb.com/8025?format=jpg)](https://fudge.design/share/pin-8025)
 
-[Hero section with company logos, headline about durable user interfaces, and Storybook application screenshot with code editor](https://design.withfudge.com/share/pin-8025)
+[Hero section with company logos, headline about durable user interfaces, and Storybook application screenshot with code editor](https://fudge.design/share/pin-8025)
 
-[![Homepage hero with pink-to-blue gradient background, navigation bar, Get Started button, npm command, and Storybook component preview with Controls panel](https://pin.fontofweb.com/8024?format=jpg)](https://design.withfudge.com/share/pin-8024)
+[![Homepage hero with pink-to-blue gradient background, navigation bar, Get Started button, npm command, and Storybook component preview with Controls panel](https://pin.fontofweb.com/8024?format=jpg)](https://fudge.design/share/pin-8024)
 
-[Homepage hero with pink-to-blue gradient background, navigation bar, Get Started button, npm command, and Storybook component preview with Controls panel](https://design.withfudge.com/share/pin-8024)
+[Homepage hero with pink-to-blue gradient background, navigation bar, Get Started button, npm command, and Storybook component preview with Controls panel](https://fudge.design/share/pin-8024)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The gradient hero background remains full-width at all sizes, with content paddi
 ## Scope note
 
 This guide covers the Storybook homepage marketing surface, including the hero gradient, feature sections, and product screenshot presentations. Interior documentation pages, addon directory, and the actual Storybook application interface are not represented. Mobile-specific layouts, animation specifications, and dark/light mode switching behavior are not included. Measurements are derived from the supplied desktop images.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

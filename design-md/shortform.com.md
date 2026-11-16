@@ -1,22 +1,22 @@
 # How shortform.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shortform.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/shortform.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Onboarding step with testimonial card featuring Sahil Bloom quote, green circular illustration, and yellow Continue button](https://pin.fontofweb.com/9189?format=jpg)](https://design.withfudge.com/share/pin-9189)
+[![Onboarding step with testimonial card featuring Sahil Bloom quote, green circular illustration, and yellow Continue button](https://pin.fontofweb.com/9189?format=jpg)](https://fudge.design/share/pin-9189)
 
-[Onboarding step with testimonial card featuring Sahil Bloom quote, green circular illustration, and yellow Continue button](https://design.withfudge.com/share/pin-9189)
+[Onboarding step with testimonial card featuring Sahil Bloom quote, green circular illustration, and yellow Continue button](https://fudge.design/share/pin-9189)
 
-[![Onboarding step showing book stack illustration with Upgrade Your Career heading and green accent text](https://pin.fontofweb.com/9188?format=jpg)](https://design.withfudge.com/share/pin-9188)
+[![Onboarding step showing book stack illustration with Upgrade Your Career heading and green accent text](https://pin.fontofweb.com/9188?format=jpg)](https://fudge.design/share/pin-9188)
 
-[Onboarding step showing book stack illustration with Upgrade Your Career heading and green accent text](https://design.withfudge.com/share/pin-9188)
+[Onboarding step showing book stack illustration with Upgrade Your Career heading and green accent text](https://fudge.design/share/pin-9188)
 
-[![Onboarding introduction with animated book character on green book pile and yellow Continue button](https://pin.fontofweb.com/9187?format=jpg)](https://design.withfudge.com/share/pin-9187)
+[![Onboarding introduction with animated book character on green book pile and yellow Continue button](https://pin.fontofweb.com/9187?format=jpg)](https://fudge.design/share/pin-9187)
 
-[Onboarding introduction with animated book character on green book pile and yellow Continue button](https://design.withfudge.com/share/pin-9187)
+[Onboarding introduction with animated book character on green book pile and yellow Continue button](https://fudge.design/share/pin-9187)
 
 ## Overview
 
@@ -178,3 +178,18 @@ For implementation, consider maintaining the generous vertical spacing on taller
 ## Scope note
 
 This guide covers the Shortform onboarding flow at shortform.com/app/onboarding. It documents the visual system as seen in the step-by-step introduction, career upgrade, and social proof testimonial views. Navigation patterns beyond the Continue button, form inputs, selection controls, and post-onboarding application interfaces are not represented in the supplied material. Motion, animation timing, and additional breakpoint behaviors should be verified during implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Onboarding](/share/designs-with-page.account.onboarding)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

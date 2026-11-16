@@ -1,26 +1,26 @@
 # How kosmik.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kosmik.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/kosmik.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog listing page with warm cream background, orange accent headlines in card thumbnails, and dark text hierarchy](https://pin.fontofweb.com/1794?format=jpg)](https://design.withfudge.com/share/pin-1794)
+[![Blog listing page with warm cream background, orange accent headlines in card thumbnails, and dark text hierarchy](https://pin.fontofweb.com/1794?format=jpg)](https://fudge.design/share/pin-1794)
 
-[Blog listing page with warm cream background, orange accent headlines in card thumbnails, and dark text hierarchy](https://design.withfudge.com/share/pin-1794)
+[Blog listing page with warm cream background, orange accent headlines in card thumbnails, and dark text hierarchy](https://fudge.design/share/pin-1794)
 
-[![Footer area with three-column link groups, whimsical space illustration with Saturn and astronauts on pale background](https://pin.fontofweb.com/1793?format=jpg)](https://design.withfudge.com/share/pin-1793)
+[![Footer area with three-column link groups, whimsical space illustration with Saturn and astronauts on pale background](https://pin.fontofweb.com/1793?format=jpg)](https://fudge.design/share/pin-1793)
 
-[Footer area with three-column link groups, whimsical space illustration with Saturn and astronauts on pale background](https://design.withfudge.com/share/pin-1793)
+[Footer area with three-column link groups, whimsical space illustration with Saturn and astronauts on pale background](https://fudge.design/share/pin-1793)
 
-[![Kosmik web clipper feature section with orange pill button and product screenshot on cream card](https://pin.fontofweb.com/1792?format=jpg)](https://design.withfudge.com/share/pin-1792)
+[![Kosmik web clipper feature section with orange pill button and product screenshot on cream card](https://pin.fontofweb.com/1792?format=jpg)](https://fudge.design/share/pin-1792)
 
-[Kosmik web clipper feature section with orange pill button and product screenshot on cream card](https://design.withfudge.com/share/pin-1792)
+[Kosmik web clipper feature section with orange pill button and product screenshot on cream card](https://fudge.design/share/pin-1792)
 
-[![Download section with two white platform cards, orange primary buttons and outlined secondary buttons](https://pin.fontofweb.com/1791?format=jpg)](https://design.withfudge.com/share/pin-1791)
+[![Download section with two white platform cards, orange primary buttons and outlined secondary buttons](https://pin.fontofweb.com/1791?format=jpg)](https://fudge.design/share/pin-1791)
 
-[Download section with two white platform cards, orange primary buttons and outlined secondary buttons](https://design.withfudge.com/share/pin-1791)
+[Download section with two white platform cards, orange primary buttons and outlined secondary buttons](https://fudge.design/share/pin-1791)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Button touch targets should maintain minimum 44px height on all viewports. The c
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage feature sections, platform downloads, blog listing, and footer. Product interface, pricing pages, authentication flows, and mobile-specific layouts are not represented. Motion, hover states, and loading behavior are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

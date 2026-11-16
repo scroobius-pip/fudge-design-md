@@ -1,26 +1,26 @@
 # How haupcar.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/haupcar.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/haupcar.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with HAUP logo, company description, navigation links, and social media icons including LinkedIn, Facebook, Instagram, TikTok, WhatsApp, and LINE on white background](https://pin.fontofweb.com/404?format=jpg)](https://design.withfudge.com/share/pin-404)
+[![Footer with HAUP logo, company description, navigation links, and social media icons including LinkedIn, Facebook, Instagram, TikTok, WhatsApp, and LINE on white background](https://pin.fontofweb.com/404?format=jpg)](https://fudge.design/share/pin-404)
 
-[Footer with HAUP logo, company description, navigation links, and social media icons including LinkedIn, Facebook, Instagram, TikTok, WhatsApp, and LINE on white background](https://design.withfudge.com/share/pin-404)
+[Footer with HAUP logo, company description, navigation links, and social media icons including LinkedIn, Facebook, Instagram, TikTok, WhatsApp, and LINE on white background](https://fudge.design/share/pin-404)
 
-[![Partner recruitment section with Thai headline, photo collage with blue and teal duotone overlays, and Facebook community link with information icon](https://pin.fontofweb.com/403?format=jpg)](https://design.withfudge.com/share/pin-403)
+[![Partner recruitment section with Thai headline, photo collage with blue and teal duotone overlays, and Facebook community link with information icon](https://pin.fontofweb.com/403?format=jpg)](https://fudge.design/share/pin-403)
 
-[Partner recruitment section with Thai headline, photo collage with blue and teal duotone overlays, and Facebook community link with information icon](https://design.withfudge.com/share/pin-403)
+[Partner recruitment section with Thai headline, photo collage with blue and teal duotone overlays, and Facebook community link with information icon](https://fudge.design/share/pin-403)
 
-[![FAQs section with blue heading, search icon, category tabs including Fuel selected, and expandable question about Power/Fuel Conditions](https://pin.fontofweb.com/402?format=jpg)](https://design.withfudge.com/share/pin-402)
+[![FAQs section with blue heading, search icon, category tabs including Fuel selected, and expandable question about Power/Fuel Conditions](https://pin.fontofweb.com/402?format=jpg)](https://fudge.design/share/pin-402)
 
-[FAQs section with blue heading, search icon, category tabs including Fuel selected, and expandable question about Power/Fuel Conditions](https://design.withfudge.com/share/pin-402)
+[FAQs section with blue heading, search icon, category tabs including Fuel selected, and expandable question about Power/Fuel Conditions](https://fudge.design/share/pin-402)
 
-[![Expanded footer with four-column layout showing Locations, Services, Enquiries with WhatsApp and WeChat contacts, and app store download badges](https://pin.fontofweb.com/401?format=jpg)](https://design.withfudge.com/share/pin-401)
+[![Expanded footer with four-column layout showing Locations, Services, Enquiries with WhatsApp and WeChat contacts, and app store download badges](https://pin.fontofweb.com/401?format=jpg)](https://fudge.design/share/pin-401)
 
-[Expanded footer with four-column layout showing Locations, Services, Enquiries with WhatsApp and WeChat contacts, and app store download badges](https://design.withfudge.com/share/pin-401)
+[Expanded footer with four-column layout showing Locations, Services, Enquiries with WhatsApp and WeChat contacts, and app store download badges](https://fudge.design/share/pin-401)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Typography should maintain readability across scripts: Thai script at body-small
 ## Scope note
 
 This guide covers the homepage and footer surfaces visible in the supplied captures, including FAQ interactions, partner recruitment presentation, and comprehensive contact footer. Mobile layouts, navigation header behavior, form interactions, booking flows, and motion or hover states are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

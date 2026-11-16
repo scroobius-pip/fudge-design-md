@@ -1,26 +1,26 @@
 # How tldraw.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tldraw.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/tldraw.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with three-tier card layout showing trial, startup, and business plans with blue and black action buttons on a white background with subtle dot pattern.](https://pin.fontofweb.com/2510?format=jpg)](https://design.withfudge.com/share/pin-2510)
+[![Pricing page with three-tier card layout showing trial, startup, and business plans with blue and black action buttons on a white background with subtle dot pattern.](https://pin.fontofweb.com/2510?format=jpg)](https://fudge.design/share/pin-2510)
 
-[Pricing page with three-tier card layout showing trial, startup, and business plans with blue and black action buttons on a white background with subtle dot pattern.](https://design.withfudge.com/share/pin-2510)
+[Pricing page with three-tier card layout showing trial, startup, and business plans with blue and black action buttons on a white background with subtle dot pattern.](https://fudge.design/share/pin-2510)
 
-[![Homepage hero section with bold '$5M canvas' headline, code-style CTA button, and dark footer with multi-column navigation links and social icons.](https://pin.fontofweb.com/2509?format=jpg)](https://design.withfudge.com/share/pin-2509)
+[![Homepage hero section with bold '$5M canvas' headline, code-style CTA button, and dark footer with multi-column navigation links and social icons.](https://pin.fontofweb.com/2509?format=jpg)](https://fudge.design/share/pin-2509)
 
-[Homepage hero section with bold '$5M canvas' headline, code-style CTA button, and dark footer with multi-column navigation links and social icons.](https://design.withfudge.com/share/pin-2509)
+[Homepage hero section with bold '$5M canvas' headline, code-style CTA button, and dark footer with multi-column navigation links and social icons.](https://fudge.design/share/pin-2509)
 
-[![Case studies section with three stacked cards featuring ClickUp, Padlet, and Mobbin logos with bordered thumbnails and arrow links.](https://pin.fontofweb.com/2508?format=jpg)](https://design.withfudge.com/share/pin-2508)
+[![Case studies section with three stacked cards featuring ClickUp, Padlet, and Mobbin logos with bordered thumbnails and arrow links.](https://pin.fontofweb.com/2508?format=jpg)](https://fudge.design/share/pin-2508)
 
-[Case studies section with three stacked cards featuring ClickUp, Padlet, and Mobbin logos with bordered thumbnails and arrow links.](https://design.withfudge.com/share/pin-2508)
+[Case studies section with three stacked cards featuring ClickUp, Padlet, and Mobbin logos with bordered thumbnails and arrow links.](https://fudge.design/share/pin-2508)
 
-[![Starter kits section with multiplayer demo showing colorful cursor labels and collaborative drawing interface with descriptive text panel.](https://pin.fontofweb.com/2507?format=jpg)](https://design.withfudge.com/share/pin-2507)
+[![Starter kits section with multiplayer demo showing colorful cursor labels and collaborative drawing interface with descriptive text panel.](https://pin.fontofweb.com/2507?format=jpg)](https://fudge.design/share/pin-2507)
 
-[Starter kits section with multiplayer demo showing colorful cursor labels and collaborative drawing interface with descriptive text panel.](https://design.withfudge.com/share/pin-2507)
+[Starter kits section with multiplayer demo showing colorful cursor labels and collaborative drawing interface with descriptive text panel.](https://fudge.design/share/pin-2507)
 
 ## Overview
 
@@ -200,3 +200,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the tldraw.dev homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, interactive states, documentation pages, and the actual tldraw canvas editor interface are not represented. Measurements are practical adaptation targets derived from visual inspection. The product's native color palette within demo contexts is documented for accurate reproduction but should not be confused with the site's interface tokens.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

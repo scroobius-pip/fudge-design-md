@@ -1,26 +1,26 @@
 # How leel.in is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/leel.in-design)
+[Open the live Fudge conversation](https://fudge.design/share/leel.in-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with deep forest green background, contact details in light sage, and Gujarati script brand mark](https://pin.fontofweb.com/2694?format=jpg)](https://design.withfudge.com/share/pin-2694)
+[![Footer section with deep forest green background, contact details in light sage, and Gujarati script brand mark](https://pin.fontofweb.com/2694?format=jpg)](https://fudge.design/share/pin-2694)
 
-[Footer section with deep forest green background, contact details in light sage, and Gujarati script brand mark](https://design.withfudge.com/share/pin-2694)
+[Footer section with deep forest green background, contact details in light sage, and Gujarati script brand mark](https://fudge.design/share/pin-2694)
 
-[![Split-layout contact page with light cream background, large serif heading, and muted sage form fields](https://pin.fontofweb.com/2693?format=jpg)](https://design.withfudge.com/share/pin-2693)
+[![Split-layout contact page with light cream background, large serif heading, and muted sage form fields](https://pin.fontofweb.com/2693?format=jpg)](https://fudge.design/share/pin-2693)
 
-[Split-layout contact page with light cream background, large serif heading, and muted sage form fields](https://design.withfudge.com/share/pin-2693)
+[Split-layout contact page with light cream background, large serif heading, and muted sage form fields](https://fudge.design/share/pin-2693)
 
-[![Collection landing with full-bleed textile photography, thin serif headlines, and minimal navigation](https://pin.fontofweb.com/2692?format=jpg)](https://design.withfudge.com/share/pin-2692)
+[![Collection landing with full-bleed textile photography, thin serif headlines, and minimal navigation](https://pin.fontofweb.com/2692?format=jpg)](https://fudge.design/share/pin-2692)
 
-[Collection landing with full-bleed textile photography, thin serif headlines, and minimal navigation](https://design.withfudge.com/share/pin-2692)
+[Collection landing with full-bleed textile photography, thin serif headlines, and minimal navigation](https://fudge.design/share/pin-2692)
 
-[![About page hero with architectural textile photography, editorial typography, and sparse navigation](https://pin.fontofweb.com/2691?format=jpg)](https://design.withfudge.com/share/pin-2691)
+[![About page hero with architectural textile photography, editorial typography, and sparse navigation](https://pin.fontofweb.com/2691?format=jpg)](https://fudge.design/share/pin-2691)
 
-[About page hero with architectural textile photography, editorial typography, and sparse navigation](https://design.withfudge.com/share/pin-2691)
+[About page hero with architectural textile photography, editorial typography, and sparse navigation](https://fudge.design/share/pin-2691)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The split-panel layout should stack vertically on narrower viewports, with the i
 ## Scope note
 
 This guide covers the homepage, about, collection landing, and contact surfaces visible in the supplied images. Product detail pages, checkout flows, mobile navigation patterns, and motion behavior are not represented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Muted chroma](/share/designs-with-color.chroma.muted)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

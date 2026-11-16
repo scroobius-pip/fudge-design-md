@@ -1,22 +1,22 @@
 # How giuliaboggio.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/giuliaboggio.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/giuliaboggio.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized 'Giulia B' display type, sparse navigation, and biographical text in the upper left corner](https://pin.fontofweb.com/5369?format=jpg)](https://design.withfudge.com/share/pin-5369)
+[![Homepage hero with oversized 'Giulia B' display type, sparse navigation, and biographical text in the upper left corner](https://pin.fontofweb.com/5369?format=jpg)](https://fudge.design/share/pin-5369)
 
-[Homepage hero with oversized 'Giulia B' display type, sparse navigation, and biographical text in the upper left corner](https://design.withfudge.com/share/pin-5369)
+[Homepage hero with oversized 'Giulia B' display type, sparse navigation, and biographical text in the upper left corner](https://fudge.design/share/pin-5369)
 
-[![Project index as a minimal table with project names, categories, and years separated by thin horizontal rules](https://pin.fontofweb.com/5370?format=jpg)](https://design.withfudge.com/share/pin-5370)
+[![Project index as a minimal table with project names, categories, and years separated by thin horizontal rules](https://pin.fontofweb.com/5370?format=jpg)](https://fudge.design/share/pin-5370)
 
-[Project index as a minimal table with project names, categories, and years separated by thin horizontal rules](https://design.withfudge.com/share/pin-5370)
+[Project index as a minimal table with project names, categories, and years separated by thin horizontal rules](https://fudge.design/share/pin-5370)
 
-[![Portfolio case study page showing editorial magazine spread with brown background and cyan outline typography](https://pin.fontofweb.com/5371?format=jpg)](https://design.withfudge.com/share/pin-5371)
+[![Portfolio case study page showing editorial magazine spread with brown background and cyan outline typography](https://pin.fontofweb.com/5371?format=jpg)](https://fudge.design/share/pin-5371)
 
-[Portfolio case study page showing editorial magazine spread with brown background and cyan outline typography](https://design.withfudge.com/share/pin-5371)
+[Portfolio case study page showing editorial magazine spread with brown background and cyan outline typography](https://fudge.design/share/pin-5371)
 
 ## Overview
 
@@ -144,3 +144,18 @@ The fluid, viewport-relative sizing of the hero mark suggests that some scaling 
 ## Scope note
 
 This guide covers the homepage, project index, and case study presentation surfaces visible in the supplied images. Mobile layouts, hover and focus states, loading sequences, form elements, and additional interior pages are not represented. Measurements are practical adaptation targets. The single supplied font source, Ufficio-300, may require additional weights or fallback strategies for production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

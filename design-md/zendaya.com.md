@@ -1,26 +1,26 @@
 # How zendaya.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/zendaya.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/zendaya.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Email signup form with rounded input field and dark submit button on warm beige background with footer copyright bar](https://pin.fontofweb.com/3208?format=jpg)](https://design.withfudge.com/share/pin-3208)
+[![Email signup form with rounded input field and dark submit button on warm beige background with footer copyright bar](https://pin.fontofweb.com/3208?format=jpg)](https://fudge.design/share/pin-3208)
 
-[Email signup form with rounded input field and dark submit button on warm beige background with footer copyright bar](https://design.withfudge.com/share/pin-3208)
+[Email signup form with rounded input field and dark submit button on warm beige background with footer copyright bar](https://fudge.design/share/pin-3208)
 
-[![Massive condensed display typography spelling ZENDAYA with navigation and three-column biography text below](https://pin.fontofweb.com/3207?format=jpg)](https://design.withfudge.com/share/pin-3207)
+[![Massive condensed display typography spelling ZENDAYA with navigation and three-column biography text below](https://pin.fontofweb.com/3207?format=jpg)](https://fudge.design/share/pin-3207)
 
-[Massive condensed display typography spelling ZENDAYA with navigation and three-column biography text below](https://design.withfudge.com/share/pin-3207)
+[Massive condensed display typography spelling ZENDAYA with navigation and three-column biography text below](https://fudge.design/share/pin-3207)
 
-[![Press page with large condensed heading and full-width editorial photograph with rounded corners against coral background](https://pin.fontofweb.com/3206?format=jpg)](https://design.withfudge.com/share/pin-3206)
+[![Press page with large condensed heading and full-width editorial photograph with rounded corners against coral background](https://pin.fontofweb.com/3206?format=jpg)](https://fudge.design/share/pin-3206)
 
-[Press page with large condensed heading and full-width editorial photograph with rounded corners against coral background](https://design.withfudge.com/share/pin-3206)
+[Press page with large condensed heading and full-width editorial photograph with rounded corners against coral background](https://fudge.design/share/pin-3206)
 
-[![Film and television credits list with bold uppercase titles separated by thin horizontal rules on beige background](https://pin.fontofweb.com/3205?format=jpg)](https://design.withfudge.com/share/pin-3205)
+[![Film and television credits list with bold uppercase titles separated by thin horizontal rules on beige background](https://pin.fontofweb.com/3205?format=jpg)](https://fudge.design/share/pin-3205)
 
-[Film and television credits list with bold uppercase titles separated by thin horizontal rules on beige background](https://design.withfudge.com/share/pin-3205)
+[Film and television credits list with bold uppercase titles separated by thin horizontal rules on beige background](https://fudge.design/share/pin-3205)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Film and television credits, currently a single full-width list, may remain stru
 ## Scope note
 
 This guide covers the landing page, about page, press page, and film and television credits page as visible in the supplied images. Mobile layouts, hover states, focus styles, loading behavior, animation, and additional interior pages are not represented. Measurements are practical adaptation targets. Verify licensing for all type families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How tweek.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tweek.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/tweek.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with Tweek mascot, bold headline, dual CTA buttons, and iPhone mockups showing calendar and task views on warm cream background](https://pin.fontofweb.com/6395?format=jpg)](https://design.withfudge.com/share/pin-6395)
+[![Homepage hero with Tweek mascot, bold headline, dual CTA buttons, and iPhone mockups showing calendar and task views on warm cream background](https://pin.fontofweb.com/6395?format=jpg)](https://fudge.design/share/pin-6395)
 
-[Homepage hero with Tweek mascot, bold headline, dual CTA buttons, and iPhone mockups showing calendar and task views on warm cream background](https://design.withfudge.com/share/pin-6395)
+[Homepage hero with Tweek mascot, bold headline, dual CTA buttons, and iPhone mockups showing calendar and task views on warm cream background](https://fudge.design/share/pin-6395)
 
-[![Black Friday promotional modal with rounded pill tags, bold white text on black background, and large rounded CTA button](https://pin.fontofweb.com/5127?format=jpg)](https://design.withfudge.com/share/pin-5127)
+[![Black Friday promotional modal with rounded pill tags, bold white text on black background, and large rounded CTA button](https://pin.fontofweb.com/5127?format=jpg)](https://fudge.design/share/pin-5127)
 
-[Black Friday promotional modal with rounded pill tags, bold white text on black background, and large rounded CTA button](https://design.withfudge.com/share/pin-5127)
+[Black Friday promotional modal with rounded pill tags, bold white text on black background, and large rounded CTA button](https://fudge.design/share/pin-5127)
 
-[![Mac or iPad feature section with iPad mockup displaying weekly calendar grid with color-coded tasks and full-width black CTA button](https://pin.fontofweb.com/3558?format=jpg)](https://design.withfudge.com/share/pin-3558)
+[![Mac or iPad feature section with iPad mockup displaying weekly calendar grid with color-coded tasks and full-width black CTA button](https://pin.fontofweb.com/3558?format=jpg)](https://fudge.design/share/pin-3558)
 
-[Mac or iPad feature section with iPad mockup displaying weekly calendar grid with color-coded tasks and full-width black CTA button](https://design.withfudge.com/share/pin-3558)
+[Mac or iPad feature section with iPad mockup displaying weekly calendar grid with color-coded tasks and full-width black CTA button](https://fudge.design/share/pin-3558)
 
-[![Features page with large display headline, section dividers, and paired iPhone mockups showing month and day calendar views](https://pin.fontofweb.com/3557?format=jpg)](https://design.withfudge.com/share/pin-3557)
+[![Features page with large display headline, section dividers, and paired iPhone mockups showing month and day calendar views](https://pin.fontofweb.com/3557?format=jpg)](https://fudge.design/share/pin-3557)
 
-[Features page with large display headline, section dividers, and paired iPhone mockups showing month and day calendar views](https://design.withfudge.com/share/pin-3557)
+[Features page with large display headline, section dividers, and paired iPhone mockups showing month and day calendar views](https://fudge.design/share/pin-3557)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The cream canvas and black action elements maintain their roles across all break
 ## Scope note
 
 This guide covers the marketing and promotional surfaces of Tweek including the homepage, features page, and pricing page. The in-app calendar interface shown within device mockups is not fully specified here. Mobile-specific layouts, animation behavior, form interactions, and the complete icon set are not covered. The exactValues data references Arial and Font (labeled "Font-Copyright C 2016 Swiss Typefaces Sàrl All Rights Reserved") as detected families alongside Suisse Intl and Flowicons; these appear in limited contexts within the interface. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

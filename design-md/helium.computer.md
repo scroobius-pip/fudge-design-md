@@ -1,26 +1,26 @@
 # How helium.computer is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/helium.computer-design)
+[Open the live Fudge conversation](https://fudge.design/share/helium.computer-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full landing page showing split-view browser screenshots, feature grid, !bangs search demo, centered love message, and footer with download CTA](https://pin.fontofweb.com/6939?format=jpg)](https://design.withfudge.com/share/pin-6939)
+[![Full landing page showing split-view browser screenshots, feature grid, !bangs search demo, centered love message, and footer with download CTA](https://pin.fontofweb.com/6939?format=jpg)](https://fudge.design/share/pin-6939)
 
-[Full landing page showing split-view browser screenshots, feature grid, !bangs search demo, centered love message, and footer with download CTA](https://design.withfudge.com/share/pin-6939)
+[Full landing page showing split-view browser screenshots, feature grid, !bangs search demo, centered love message, and footer with download CTA](https://fudge.design/share/pin-6939)
 
-[![Hero section with centered starburst logo, headline, and browser mockup showing Kagi search results page](https://pin.fontofweb.com/6938?format=jpg)](https://design.withfudge.com/share/pin-6938)
+[![Hero section with centered starburst logo, headline, and browser mockup showing Kagi search results page](https://pin.fontofweb.com/6938?format=jpg)](https://fudge.design/share/pin-6938)
 
-[Hero section with centered starburst logo, headline, and browser mockup showing Kagi search results page](https://design.withfudge.com/share/pin-6938)
+[Hero section with centered starburst logo, headline, and browser mockup showing Kagi search results page](https://fudge.design/share/pin-6938)
 
-[![Tight crop of hero area with navigation bar, starburst mark, headline, subhead, and primary download button on deep blue gradient](https://pin.fontofweb.com/6937?format=jpg)](https://design.withfudge.com/share/pin-6937)
+[![Tight crop of hero area with navigation bar, starburst mark, headline, subhead, and primary download button on deep blue gradient](https://pin.fontofweb.com/6937?format=jpg)](https://fudge.design/share/pin-6937)
 
-[Tight crop of hero area with navigation bar, starburst mark, headline, subhead, and primary download button on deep blue gradient](https://design.withfudge.com/share/pin-6937)
+[Tight crop of hero area with navigation bar, starburst mark, headline, subhead, and primary download button on deep blue gradient](https://fudge.design/share/pin-6937)
 
-[![Feature section with floating browser UI mockups demonstrating !bangs search shortcuts alongside descriptive text](https://pin.fontofweb.com/3806?format=jpg)](https://design.withfudge.com/share/pin-3806)
+[![Feature section with floating browser UI mockups demonstrating !bangs search shortcuts alongside descriptive text](https://pin.fontofweb.com/3806?format=jpg)](https://fudge.design/share/pin-3806)
 
-[Feature section with floating browser UI mockups demonstrating !bangs search shortcuts alongside descriptive text](https://design.withfudge.com/share/pin-3806)
+[Feature section with floating browser UI mockups demonstrating !bangs search shortcuts alongside descriptive text](https://fudge.design/share/pin-3806)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Browser mockups, being full-width images, will scale proportionally. Their fine 
 ## Scope note
 
 This guide covers the Helium landing page as a single-page marketing surface. It does not include documentation for additional pages such as the bangs directory, download flows, or settings interfaces. Motion, hover states, and mobile-specific navigation patterns are not represented in the supplied material. Measurements are exact where retained in the source data.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

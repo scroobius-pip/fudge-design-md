@@ -1,26 +1,26 @@
 # How tentree.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tentree.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tentree.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark green promotional panels, certification badges, email signup form, and social links on light background](https://pin.fontofweb.com/1957?format=jpg)](https://design.withfudge.com/share/pin-1957)
+[![Footer section with dark green promotional panels, certification badges, email signup form, and social links on light background](https://pin.fontofweb.com/1957?format=jpg)](https://fudge.design/share/pin-1957)
 
-[Footer section with dark green promotional panels, certification badges, email signup form, and social links on light background](https://design.withfudge.com/share/pin-1957)
+[Footer section with dark green promotional panels, certification badges, email signup form, and social links on light background](https://fudge.design/share/pin-1957)
 
-[![Bestsellers product carousel with category tabs, product cards with color swatches, pricing, and star ratings](https://pin.fontofweb.com/1956?format=jpg)](https://design.withfudge.com/share/pin-1956)
+[![Bestsellers product carousel with category tabs, product cards with color swatches, pricing, and star ratings](https://pin.fontofweb.com/1956?format=jpg)](https://fudge.design/share/pin-1956)
 
-[Bestsellers product carousel with category tabs, product cards with color swatches, pricing, and star ratings](https://design.withfudge.com/share/pin-1956)
+[Bestsellers product carousel with category tabs, product cards with color swatches, pricing, and star ratings](https://fudge.design/share/pin-1956)
 
-[![Hero mission statement with overlapping nature photography collage and two dark green CTA buttons](https://pin.fontofweb.com/1955?format=jpg)](https://design.withfudge.com/share/pin-1955)
+[![Hero mission statement with overlapping nature photography collage and two dark green CTA buttons](https://pin.fontofweb.com/1955?format=jpg)](https://fudge.design/share/pin-1955)
 
-[Hero mission statement with overlapping nature photography collage and two dark green CTA buttons](https://design.withfudge.com/share/pin-1955)
+[Hero mission statement with overlapping nature photography collage and two dark green CTA buttons](https://fudge.design/share/pin-1955)
 
-[![Category carousel with outdoor lifestyle photography and scrolling tree-planting counter banner](https://pin.fontofweb.com/1954?format=jpg)](https://design.withfudge.com/share/pin-1954)
+[![Category carousel with outdoor lifestyle photography and scrolling tree-planting counter banner](https://pin.fontofweb.com/1954?format=jpg)](https://fudge.design/share/pin-1954)
 
-[Category carousel with outdoor lifestyle photography and scrolling tree-planting counter banner](https://design.withfudge.com/share/pin-1954)
+[Category carousel with outdoor lifestyle photography and scrolling tree-planting counter banner](https://fudge.design/share/pin-1954)
 
 ## Overview
 
@@ -180,3 +180,18 @@ No mobile-specific navigation pattern is visible in supplied images. Implementat
 ## Scope note
 
 This guide covers the tentree.com homepage visible in supplied images: hero mission section, product and category carousels, footer with promotional panels, email capture, and impact counter. Product detail pages, checkout flow, account interfaces, and mobile navigation are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How lit.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lit.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/lit.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with Lit logo, npm install command, and three-column feature grid with code snippet preview](https://pin.fontofweb.com/7865?format=jpg)](https://design.withfudge.com/share/pin-7865)
+[![Homepage hero with Lit logo, npm install command, and three-column feature grid with code snippet preview](https://pin.fontofweb.com/7865?format=jpg)](https://fudge.design/share/pin-7865)
 
-[Homepage hero with Lit logo, npm install command, and three-column feature grid with code snippet preview](https://design.withfudge.com/share/pin-7865)
+[Homepage hero with Lit logo, npm install command, and three-column feature grid with code snippet preview](https://fudge.design/share/pin-7865)
 
-[![Vibrant blue brand band showcasing Adobe, Google, Microsoft, and other company logos in a grid](https://pin.fontofweb.com/7864?format=jpg)](https://design.withfudge.com/share/pin-7864)
+[![Vibrant blue brand band showcasing Adobe, Google, Microsoft, and other company logos in a grid](https://pin.fontofweb.com/7864?format=jpg)](https://fudge.design/share/pin-7864)
 
-[Vibrant blue brand band showcasing Adobe, Google, Microsoft, and other company logos in a grid](https://design.withfudge.com/share/pin-7864)
+[Vibrant blue brand band showcasing Adobe, Google, Microsoft, and other company logos in a grid](https://fudge.design/share/pin-7864)
 
-[![Dark-themed documentation page with left navigation sidebar, article content, and right table of contents](https://pin.fontofweb.com/1679?format=jpg)](https://design.withfudge.com/share/pin-1679)
+[![Dark-themed documentation page with left navigation sidebar, article content, and right table of contents](https://pin.fontofweb.com/1679?format=jpg)](https://fudge.design/share/pin-1679)
 
-[Dark-themed documentation page with left navigation sidebar, article content, and right table of contents](https://design.withfudge.com/share/pin-1679)
+[Dark-themed documentation page with left navigation sidebar, article content, and right table of contents](https://fudge.design/share/pin-1679)
 
-[![Dark footer with centered Lit logo mark, social media icons, and copyright licensing text](https://pin.fontofweb.com/1678?format=jpg)](https://design.withfudge.com/share/pin-1678)
+[![Dark footer with centered Lit logo mark, social media icons, and copyright licensing text](https://pin.fontofweb.com/1678?format=jpg)](https://fudge.design/share/pin-1678)
 
-[Dark footer with centered Lit logo mark, social media icons, and copyright licensing text](https://design.withfudge.com/share/pin-1678)
+[Dark footer with centered Lit logo mark, social media icons, and copyright licensing text](https://fudge.design/share/pin-1678)
 
 ## Overview
 
@@ -184,3 +184,18 @@ The three-column feature grid should collapse to single column on viewports belo
 ## Scope note
 
 This guide covers the homepage and documentation page surfaces visible in the supplied images. The Playground, Blog, and Learn sections are not represented. Mobile layouts, animation behavior, hover states beyond basic color shifts, and form validation states are not documented. The spacing and type scales derive from exact pixel measurements in the source interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

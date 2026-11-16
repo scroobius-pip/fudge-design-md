@@ -1,26 +1,26 @@
 # How bybitglobal.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bybitglobal.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/bybitglobal.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Referral modal with dark surface, orange gradient card, social share buttons, and QR code on black background](https://pin.fontofweb.com/3461?format=jpg)](https://design.withfudge.com/share/pin-3461)
+[![Referral modal with dark surface, orange gradient card, social share buttons, and QR code on black background](https://pin.fontofweb.com/3461?format=jpg)](https://fudge.design/share/pin-3461)
 
-[Referral modal with dark surface, orange gradient card, social share buttons, and QR code on black background](https://design.withfudge.com/share/pin-3461)
+[Referral modal with dark surface, orange gradient card, social share buttons, and QR code on black background](https://fudge.design/share/pin-3461)
 
-[![Hero section with orange gradient glow, centered white display text, and rounded orange CTA button on black](https://pin.fontofweb.com/3460?format=jpg)](https://design.withfudge.com/share/pin-3460)
+[![Hero section with orange gradient glow, centered white display text, and rounded orange CTA button on black](https://pin.fontofweb.com/3460?format=jpg)](https://fudge.design/share/pin-3460)
 
-[Hero section with orange gradient glow, centered white display text, and rounded orange CTA button on black](https://design.withfudge.com/share/pin-3460)
+[Hero section with orange gradient glow, centered white display text, and rounded orange CTA button on black](https://fudge.design/share/pin-3460)
 
-[![Feature card showing Bybit Card product photography with pill tags, orange text link, and 3D metallic ring decoration](https://pin.fontofweb.com/3459?format=jpg)](https://design.withfudge.com/share/pin-3459)
+[![Feature card showing Bybit Card product photography with pill tags, orange text link, and 3D metallic ring decoration](https://pin.fontofweb.com/3459?format=jpg)](https://fudge.design/share/pin-3459)
 
-[Feature card showing Bybit Card product photography with pill tags, orange text link, and 3D metallic ring decoration](https://design.withfudge.com/share/pin-3459)
+[Feature card showing Bybit Card product photography with pill tags, orange text link, and 3D metallic ring decoration](https://fudge.design/share/pin-3459)
 
-[![Trading fee table with tiered VIP rows, orange accent links, and dark card surface with subtle borders](https://pin.fontofweb.com/3458?format=jpg)](https://design.withfudge.com/share/pin-3458)
+[![Trading fee table with tiered VIP rows, orange accent links, and dark card surface with subtle borders](https://pin.fontofweb.com/3458?format=jpg)](https://fudge.design/share/pin-3458)
 
-[Trading fee table with tiered VIP rows, orange accent links, and dark card surface with subtle borders](https://design.withfudge.com/share/pin-3458)
+[Trading fee table with tiered VIP rows, orange accent links, and dark card surface with subtle borders](https://fudge.design/share/pin-3458)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Typography scales down proportionally: hero-display may reduce to 2rem on tablet
 ## Scope note
 
 This guide covers the Mantle token landing page visible in the supplied images, including hero, feature sections, data table, and referral modal. Navigation header, footer beyond the visible strip, other site pages, mobile breakpoints, and interactive states such as form validation or loading are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How resend.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/resend.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/resend.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login page with centered auth form, dark canvas, and abstract grayscale fabric photography framing the composition](https://pin.fontofweb.com/9321?format=jpg)](https://design.withfudge.com/share/pin-9321)
+[![Login page with centered auth form, dark canvas, and abstract grayscale fabric photography framing the composition](https://pin.fontofweb.com/9321?format=jpg)](https://fudge.design/share/pin-9321)
 
-[Login page with centered auth form, dark canvas, and abstract grayscale fabric photography framing the composition](https://design.withfudge.com/share/pin-9321)
+[Login page with centered auth form, dark canvas, and abstract grayscale fabric photography framing the composition](https://fudge.design/share/pin-9321)
 
-[![Audience contacts dashboard with left sidebar navigation, tabbed sub-navigation, and empty-state card with centered call-to-action](https://pin.fontofweb.com/6941?format=jpg)](https://design.withfudge.com/share/pin-6941)
+[![Audience contacts dashboard with left sidebar navigation, tabbed sub-navigation, and empty-state card with centered call-to-action](https://pin.fontofweb.com/6941?format=jpg)](https://fudge.design/share/pin-6941)
 
-[Audience contacts dashboard with left sidebar navigation, tabbed sub-navigation, and empty-state card with centered call-to-action](https://design.withfudge.com/share/pin-6941)
+[Audience contacts dashboard with left sidebar navigation, tabbed sub-navigation, and empty-state card with centered call-to-action](https://fudge.design/share/pin-6941)
 
-[![Domains management table with verified status badge, region flag indicator, and filter controls in a dark interface](https://pin.fontofweb.com/6940?format=jpg)](https://design.withfudge.com/share/pin-6940)
+[![Domains management table with verified status badge, region flag indicator, and filter controls in a dark interface](https://pin.fontofweb.com/6940?format=jpg)](https://fudge.design/share/pin-6940)
 
-[Domains management table with verified status badge, region flag indicator, and filter controls in a dark interface](https://design.withfudge.com/share/pin-6940)
+[Domains management table with verified status badge, region flag indicator, and filter controls in a dark interface](https://fudge.design/share/pin-6940)
 
-[![Pricing page with four-tier card layout, interactive slider, and green checkmark feature comparison on dark background](https://pin.fontofweb.com/5164?format=jpg)](https://design.withfudge.com/share/pin-5164)
+[![Pricing page with four-tier card layout, interactive slider, and green checkmark feature comparison on dark background](https://pin.fontofweb.com/5164?format=jpg)](https://fudge.design/share/pin-5164)
 
-[Pricing page with four-tier card layout, interactive slider, and green checkmark feature comparison on dark background](https://design.withfudge.com/share/pin-5164)
+[Pricing page with four-tier card layout, interactive slider, and green checkmark feature comparison on dark background](https://fudge.design/share/pin-5164)
 
 ## Overview
 
@@ -256,3 +256,18 @@ Typography scales down modestly: section-display may reduce to 1.5rem on small s
 ## Scope note
 
 This guide covers the authenticated dashboard (Audience, Domains), authentication flow, and marketing pricing surfaces. Mobile layouts, animation specifications, hover and focus state details, toast notifications, and email template rendering are not represented in the supplied materials. The empty font-size lists for Commit Mono, Domaine Display Narrow, and By Johannes Breyer Fabian Harb Erkin Karamemet indicate those faces were not captured in measurable text contexts; implementers should verify optical sizing against the design intent.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

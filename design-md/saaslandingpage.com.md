@@ -1,22 +1,22 @@
 # How saaslandingpage.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/saaslandingpage.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/saaslandingpage.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Claude hero headline with serif type on warm off-white background showing editorial typography style](https://pin.fontofweb.com/8832?format=jpg)](https://design.withfudge.com/share/pin-8832)
+[![Claude hero headline with serif type on warm off-white background showing editorial typography style](https://pin.fontofweb.com/8832?format=jpg)](https://fudge.design/share/pin-8832)
 
-[Claude hero headline with serif type on warm off-white background showing editorial typography style](https://design.withfudge.com/share/pin-8832)
+[Claude hero headline with serif type on warm off-white background showing editorial typography style](https://fudge.design/share/pin-8832)
 
-[![Claude page cropped hero text demonstrating the bold serif display treatment and generous line spacing](https://pin.fontofweb.com/8831?format=jpg)](https://design.withfudge.com/share/pin-8831)
+[![Claude page cropped hero text demonstrating the bold serif display treatment and generous line spacing](https://pin.fontofweb.com/8831?format=jpg)](https://fudge.design/share/pin-8831)
 
-[Claude page cropped hero text demonstrating the bold serif display treatment and generous line spacing](https://design.withfudge.com/share/pin-8831)
+[Claude page cropped hero text demonstrating the bold serif display treatment and generous line spacing](https://fudge.design/share/pin-8831)
 
-[![Resources page with navigation, hero section, book cards in three-column grid, and article cards with varied imagery](https://pin.fontofweb.com/7309?format=jpg)](https://design.withfudge.com/share/pin-7309)
+[![Resources page with navigation, hero section, book cards in three-column grid, and article cards with varied imagery](https://pin.fontofweb.com/7309?format=jpg)](https://fudge.design/share/pin-7309)
 
-[Resources page with navigation, hero section, book cards in three-column grid, and article cards with varied imagery](https://design.withfudge.com/share/pin-7309)
+[Resources page with navigation, hero section, book cards in three-column grid, and article cards with varied imagery](https://fudge.design/share/pin-7309)
 
 ## Overview
 
@@ -151,3 +151,18 @@ The three-column resource grid should collapse to two columns on medium viewport
 ## Scope note
 
 This guide covers the resources listing page and Claude product page hero as visible in the supplied images. Footer, mobile navigation patterns, form interactions, and hover states are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

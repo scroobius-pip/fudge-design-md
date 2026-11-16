@@ -1,26 +1,26 @@
 # How warp.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/warp.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/warp.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature section with dark background showing agentic development environment capabilities and terminal interface screenshot](https://pin.fontofweb.com/6774?format=jpg)](https://design.withfudge.com/share/pin-6774)
+[![Feature section with dark background showing agentic development environment capabilities and terminal interface screenshot](https://pin.fontofweb.com/6774?format=jpg)](https://fudge.design/share/pin-6774)
 
-[Feature section with dark background showing agentic development environment capabilities and terminal interface screenshot](https://design.withfudge.com/share/pin-6774)
+[Feature section with dark background showing agentic development environment capabilities and terminal interface screenshot](https://fudge.design/share/pin-6774)
 
-[![Pricing page showing Business and Enterprise tier cards with dark surfaces and muted text](https://pin.fontofweb.com/6773?format=jpg)](https://design.withfudge.com/share/pin-6773)
+[![Pricing page showing Business and Enterprise tier cards with dark surfaces and muted text](https://pin.fontofweb.com/6773?format=jpg)](https://fudge.design/share/pin-6773)
 
-[Pricing page showing Business and Enterprise tier cards with dark surfaces and muted text](https://design.withfudge.com/share/pin-6773)
+[Pricing page showing Business and Enterprise tier cards with dark surfaces and muted text](https://fudge.design/share/pin-6773)
 
-[![Full pricing page with three-column plan comparison including Free, Build, and Max tiers with toggle switch](https://pin.fontofweb.com/6772?format=jpg)](https://design.withfudge.com/share/pin-6772)
+[![Full pricing page with three-column plan comparison including Free, Build, and Max tiers with toggle switch](https://pin.fontofweb.com/6772?format=jpg)](https://fudge.design/share/pin-6772)
 
-[Full pricing page with three-column plan comparison including Free, Build, and Max tiers with toggle switch](https://design.withfudge.com/share/pin-6772)
+[Full pricing page with three-column plan comparison including Free, Build, and Max tiers with toggle switch](https://fudge.design/share/pin-6772)
 
-[![Footer and downloads section with platform cards for Mac, Linux, and Windows on dark background](https://pin.fontofweb.com/6771?format=jpg)](https://design.withfudge.com/share/pin-6771)
+[![Footer and downloads section with platform cards for Mac, Linux, and Windows on dark background](https://pin.fontofweb.com/6771?format=jpg)](https://fudge.design/share/pin-6771)
 
-[Footer and downloads section with platform cards for Mac, Linux, and Windows on dark background](https://design.withfudge.com/share/pin-6771)
+[Footer and downloads section with platform cards for Mac, Linux, and Windows on dark background](https://fudge.design/share/pin-6771)
 
 ## Overview
 
@@ -197,3 +197,18 @@ Images and terminal screenshots maintain aspect ratio, scaling to full container
 ## Scope note
 
 This guide covers the Warp marketing site homepage and pricing page as visible in desktop view. Mobile breakpoints, interactive states beyond static view, motion design, and the in-product terminal interface are not represented. The command palette, settings panels, and authenticated user flows fall outside the current scope.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

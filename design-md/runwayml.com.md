@@ -1,26 +1,26 @@
 # How runwayml.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/runwayml.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/runwayml.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with cinematic medieval knight imagery, white headline 'Building AI to Simulate the World', and horizontal partner logo bar on light background](https://pin.fontofweb.com/7635?format=jpg)](https://design.withfudge.com/share/pin-7635)
+[![Hero section with cinematic medieval knight imagery, white headline 'Building AI to Simulate the World', and horizontal partner logo bar on light background](https://pin.fontofweb.com/7635?format=jpg)](https://fudge.design/share/pin-7635)
 
-[Hero section with cinematic medieval knight imagery, white headline 'Building AI to Simulate the World', and horizontal partner logo bar on light background](https://design.withfudge.com/share/pin-7635)
+[Hero section with cinematic medieval knight imagery, white headline 'Building AI to Simulate the World', and horizontal partner logo bar on light background](https://fudge.design/share/pin-7635)
 
-[![Dark footer with five-column link grid, white text on near-black background, and small legal copy with Runway logo](https://pin.fontofweb.com/7634?format=jpg)](https://design.withfudge.com/share/pin-7634)
+[![Dark footer with five-column link grid, white text on near-black background, and small legal copy with Runway logo](https://pin.fontofweb.com/7634?format=jpg)](https://fudge.design/share/pin-7634)
 
-[Dark footer with five-column link grid, white text on near-black background, and small legal copy with Runway logo](https://design.withfudge.com/share/pin-7634)
+[Dark footer with five-column link grid, white text on near-black background, and small legal copy with Runway logo](https://fudge.design/share/pin-7634)
 
-[![Light research section with alternating image-text rows for GWM-1 and Gen-4.5 products, dark text on white background](https://pin.fontofweb.com/7633?format=jpg)](https://design.withfudge.com/share/pin-7633)
+[![Light research section with alternating image-text rows for GWM-1 and Gen-4.5 products, dark text on white background](https://pin.fontofweb.com/7633?format=jpg)](https://fudge.design/share/pin-7633)
 
-[Light research section with alternating image-text rows for GWM-1 and Gen-4.5 products, dark text on white background](https://design.withfudge.com/share/pin-7633)
+[Light research section with alternating image-text rows for GWM-1 and Gen-4.5 products, dark text on white background](https://fudge.design/share/pin-7633)
 
-[![Atmospheric research panel with blurred gradient background, white text, and three linked research items with arrow icons](https://pin.fontofweb.com/7632?format=jpg)](https://design.withfudge.com/share/pin-7632)
+[![Atmospheric research panel with blurred gradient background, white text, and three linked research items with arrow icons](https://pin.fontofweb.com/7632?format=jpg)](https://fudge.design/share/pin-7632)
 
-[Atmospheric research panel with blurred gradient background, white text, and three linked research items with arrow icons](https://design.withfudge.com/share/pin-7632)
+[Atmospheric research panel with blurred gradient background, white text, and three linked research items with arrow icons](https://fudge.design/share/pin-7632)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Footer columns should reflow to two columns on tablet and single column on mobil
 ## Scope note
 
 This guide covers the Runway homepage including hero, product research, partner, and footer surfaces. Interior pages, mobile breakpoints, loading states, and motion behavior are not represented in the supplied material. The spacing and radius values reflect exact measurements from the desktop interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

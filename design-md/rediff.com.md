@@ -1,18 +1,18 @@
 # How rediff.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rediff.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/rediff.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Video news grid with play-button overlays, category navigation bar, and Rediff logo header with service links](https://pin.fontofweb.com/8993?format=jpg)](https://design.withfudge.com/share/pin-8993)
+[![Video news grid with play-button overlays, category navigation bar, and Rediff logo header with service links](https://pin.fontofweb.com/8993?format=jpg)](https://fudge.design/share/pin-8993)
 
-[Video news grid with play-button overlays, category navigation bar, and Rediff logo header with service links](https://design.withfudge.com/share/pin-8993)
+[Video news grid with play-button overlays, category navigation bar, and Rediff logo header with service links](https://fudge.design/share/pin-8993)
 
-[![Live news ticker with timestamped headlines, editorial sidebar, and social follow section with YouTube embed](https://pin.fontofweb.com/8992?format=jpg)](https://design.withfudge.com/share/pin-8992)
+[![Live news ticker with timestamped headlines, editorial sidebar, and social follow section with YouTube embed](https://pin.fontofweb.com/8992?format=jpg)](https://fudge.design/share/pin-8992)
 
-[Live news ticker with timestamped headlines, editorial sidebar, and social follow section with YouTube embed](https://design.withfudge.com/share/pin-8992)
+[Live news ticker with timestamped headlines, editorial sidebar, and social follow section with YouTube embed](https://fudge.design/share/pin-8992)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Typography scales down minimally—the base sizes are already compact. The 18px 
 ## Scope note
 
 This guide covers the Rediff.com homepage and its primary content modules as visible in the supplied captures: video grids, live tickers, editorial sidebars, and navigation systems. Interior article pages, search interfaces, user account flows, and advertising placements are not represented. Motion behavior, hover states, and mobile-specific layouts must be verified against live implementation. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Media publication](/share/designs-with-offering.media_publication)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

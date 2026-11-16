@@ -1,26 +1,26 @@
 # How realtime.cloudflare.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/realtime.cloudflare.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/realtime.cloudflare.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with orange headline, Get Started pill button, and scattered UI wireframe illustrations on dotted canvas](https://pin.fontofweb.com/5438?format=jpg)](https://design.withfudge.com/share/pin-5438)
+[![Hero section with orange headline, Get Started pill button, and scattered UI wireframe illustrations on dotted canvas](https://pin.fontofweb.com/5438?format=jpg)](https://fudge.design/share/pin-5438)
 
-[Hero section with orange headline, Get Started pill button, and scattered UI wireframe illustrations on dotted canvas](https://design.withfudge.com/share/pin-5438)
+[Hero section with orange headline, Get Started pill button, and scattered UI wireframe illustrations on dotted canvas](https://fudge.design/share/pin-5438)
 
-[![Use cases grid with Voice Agents, AI meeting assistant, Proctoring, and Virtual learning cards with orange line art](https://pin.fontofweb.com/5437?format=jpg)](https://design.withfudge.com/share/pin-5437)
+[![Use cases grid with Voice Agents, AI meeting assistant, Proctoring, and Virtual learning cards with orange line art](https://pin.fontofweb.com/5437?format=jpg)](https://fudge.design/share/pin-5437)
 
-[Use cases grid with Voice Agents, AI meeting assistant, Proctoring, and Virtual learning cards with orange line art](https://design.withfudge.com/share/pin-5437)
+[Use cases grid with Voice Agents, AI meeting assistant, Proctoring, and Virtual learning cards with orange line art](https://fudge.design/share/pin-5437)
 
-[![Scale and reliability statistics section with large numerals and dotted world map visualization](https://pin.fontofweb.com/5436?format=jpg)](https://design.withfudge.com/share/pin-5436)
+[![Scale and reliability statistics section with large numerals and dotted world map visualization](https://pin.fontofweb.com/5436?format=jpg)](https://fudge.design/share/pin-5436)
 
-[Scale and reliability statistics section with large numerals and dotted world map visualization](https://design.withfudge.com/share/pin-5436)
+[Scale and reliability statistics section with large numerals and dotted world map visualization](https://fudge.design/share/pin-5436)
 
-[![Product suite integration steps with numbered workflow and branching node diagram](https://pin.fontofweb.com/5435?format=jpg)](https://design.withfudge.com/share/pin-5435)
+[![Product suite integration steps with numbered workflow and branching node diagram](https://pin.fontofweb.com/5435?format=jpg)](https://fudge.design/share/pin-5435)
 
-[Product suite integration steps with numbered workflow and branching node diagram](https://design.withfudge.com/share/pin-5435)
+[Product suite integration steps with numbered workflow and branching node diagram](https://fudge.design/share/pin-5435)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The dotted background texture and line-art illustrations should remain visible b
 ## Scope note
 
 This guide covers the Cloudflare RealtimeKit marketing page's visual system as visible in the supplied desktop screenshots. Mobile breakpoints, interactive states, form components, and documentation pages are not represented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

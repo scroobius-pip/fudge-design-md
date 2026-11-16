@@ -1,26 +1,26 @@
 # How flickr.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/flickr.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/flickr.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://pin.fontofweb.com/8227?format=jpg)](https://design.withfudge.com/share/pin-8227)
+[![Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://pin.fontofweb.com/8227?format=jpg)](https://fudge.design/share/pin-8227)
 
-[Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://design.withfudge.com/share/pin-8227)
+[Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://fudge.design/share/pin-8227)
 
-[![Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://pin.fontofweb.com/8228?format=jpg)](https://design.withfudge.com/share/pin-8228)
+[![Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://pin.fontofweb.com/8228?format=jpg)](https://fudge.design/share/pin-8228)
 
-[Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://design.withfudge.com/share/pin-8228)
+[Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://fudge.design/share/pin-8228)
 
-[![About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://pin.fontofweb.com/8229?format=jpg)](https://design.withfudge.com/share/pin-8229)
+[![About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://pin.fontofweb.com/8229?format=jpg)](https://fudge.design/share/pin-8229)
 
-[About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://design.withfudge.com/share/pin-8229)
+[About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://fudge.design/share/pin-8229)
 
-[![Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://pin.fontofweb.com/8230?format=jpg)](https://design.withfudge.com/share/pin-8230)
+[![Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://pin.fontofweb.com/8230?format=jpg)](https://fudge.design/share/pin-8230)
 
-[Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://design.withfudge.com/share/pin-8230)
+[Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://fudge.design/share/pin-8230)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Touch targets for buttons and links should maintain minimum `2.75rem` height. Th
 ## Scope note
 
 This guide covers Flickr's marketing and feature pages as represented in the supplied images: the homepage, Features page, Flickr Pro landing page, and About page. The photography-focused canvas, editorial typography, and promotional components are documented. Items not covered include mobile layouts, authenticated user dashboards, photo upload flows, search results, community group pages, and any motion or animation behavior. Measurements reflect the desktop viewport widths captured in the source material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

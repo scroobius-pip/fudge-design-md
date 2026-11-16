@@ -1,18 +1,18 @@
 # How technicshistory.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/technicshistory.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/technicshistory.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog post entry featuring a large historical railway viaduct illustration with serif headline, italic metadata, and body text excerpt with continue-reading link](https://pin.fontofweb.com/4672?format=jpg)](https://design.withfudge.com/share/pin-4672)
+[![Blog post entry featuring a large historical railway viaduct illustration with serif headline, italic metadata, and body text excerpt with continue-reading link](https://pin.fontofweb.com/4672?format=jpg)](https://fudge.design/share/pin-4672)
 
-[Blog post entry featuring a large historical railway viaduct illustration with serif headline, italic metadata, and body text excerpt with continue-reading link](https://design.withfudge.com/share/pin-4672)
+[Blog post entry featuring a large historical railway viaduct illustration with serif headline, italic metadata, and body text excerpt with continue-reading link](https://fudge.design/share/pin-4672)
 
-[![Sidebar with search field and archives list showing dotted hairline separators between month-year entries in a clean vertical stack](https://pin.fontofweb.com/4671?format=jpg)](https://design.withfudge.com/share/pin-4671)
+[![Sidebar with search field and archives list showing dotted hairline separators between month-year entries in a clean vertical stack](https://pin.fontofweb.com/4671?format=jpg)](https://fudge.design/share/pin-4671)
 
-[Sidebar with search field and archives list showing dotted hairline separators between month-year entries in a clean vertical stack](https://design.withfudge.com/share/pin-4671)
+[Sidebar with search field and archives list showing dotted hairline separators between month-year entries in a clean vertical stack](https://fudge.design/share/pin-4671)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The two-column layout likely collapses to a single column on narrower viewports,
 ## Scope note
 
 This guide covers the blog index page with post listings and sidebar utilities. The about page, individual post pages, search results, and any navigation header or footer areas are not represented in the supplied material. Measurements are practical adaptation targets. No motion, interaction states, or mobile-specific layouts are documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

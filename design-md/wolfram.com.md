@@ -1,26 +1,26 @@
 # How wolfram.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wolfram.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wolfram.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed homepage section with instant resource cards, expert chat panel, and developer resources in a navy-blue gradient layout](https://pin.fontofweb.com/7109?format=jpg)](https://design.withfudge.com/share/pin-7109)
+[![Dark-themed homepage section with instant resource cards, expert chat panel, and developer resources in a navy-blue gradient layout](https://pin.fontofweb.com/7109?format=jpg)](https://fudge.design/share/pin-7109)
 
-[Dark-themed homepage section with instant resource cards, expert chat panel, and developer resources in a navy-blue gradient layout](https://design.withfudge.com/share/pin-7109)
+[Dark-themed homepage section with instant resource cards, expert chat panel, and developer resources in a navy-blue gradient layout](https://fudge.design/share/pin-7109)
 
-[![Products grid showing Wolfram offerings with red starburst icons, orange action links, and enterprise solutions section](https://pin.fontofweb.com/7111?format=jpg)](https://design.withfudge.com/share/pin-7111)
+[![Products grid showing Wolfram offerings with red starburst icons, orange action links, and enterprise solutions section](https://pin.fontofweb.com/7111?format=jpg)](https://fudge.design/share/pin-7111)
 
-[Products grid showing Wolfram offerings with red starburst icons, orange action links, and enterprise solutions section](https://design.withfudge.com/share/pin-7111)
+[Products grid showing Wolfram offerings with red starburst icons, orange action links, and enterprise solutions section](https://fudge.design/share/pin-7111)
 
-[![Repositories and connectors grid with colorful category icons, teal links, and three-column card layout](https://pin.fontofweb.com/7112?format=jpg)](https://design.withfudge.com/share/pin-7112)
+[![Repositories and connectors grid with colorful category icons, teal links, and three-column card layout](https://pin.fontofweb.com/7112?format=jpg)](https://fudge.design/share/pin-7112)
 
-[Repositories and connectors grid with colorful category icons, teal links, and three-column card layout](https://design.withfudge.com/share/pin-7112)
+[Repositories and connectors grid with colorful category icons, teal links, and three-column card layout](https://fudge.design/share/pin-7112)
 
-[![Footer navigation with five-column link structure on dark charcoal background and social media icons](https://pin.fontofweb.com/7110?format=jpg)](https://design.withfudge.com/share/pin-7110)
+[![Footer navigation with five-column link structure on dark charcoal background and social media icons](https://pin.fontofweb.com/7110?format=jpg)](https://fudge.design/share/pin-7110)
 
-[Footer navigation with five-column link structure on dark charcoal background and social media icons](https://design.withfudge.com/share/pin-7110)
+[Footer navigation with five-column link structure on dark charcoal background and social media icons](https://fudge.design/share/pin-7110)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The design system appears optimized for desktop viewing with substantial content
 ## Scope note
 
 This guide covers the homepage hero sections, product directory pages, and footer navigation visible in the supplied images. Mobile breakpoints, form validation states, loading skeletons, and e-commerce checkout flows are not represented. The MCP service page and other deep interior pages share the typographic foundation but may extend the component set. Measurements reflect the desktop viewport captured in the source images.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Analytics](/share/designs-with-capability.analytics)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

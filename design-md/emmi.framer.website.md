@@ -1,22 +1,22 @@
 # How emmi.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/emmi.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/emmi.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Playground page with scattered project cards, handwritten-style icons, and a dotted canvas background showing an exploratory collage layout](https://pin.fontofweb.com/3877?format=jpg)](https://design.withfudge.com/share/pin-3877)
+[![Playground page with scattered project cards, handwritten-style icons, and a dotted canvas background showing an exploratory collage layout](https://pin.fontofweb.com/3877?format=jpg)](https://fudge.design/share/pin-3877)
 
-[Playground page with scattered project cards, handwritten-style icons, and a dotted canvas background showing an exploratory collage layout](https://design.withfudge.com/share/pin-3877)
+[Playground page with scattered project cards, handwritten-style icons, and a dotted canvas background showing an exploratory collage layout](https://fudge.design/share/pin-3877)
 
-[![About section with rotated orange card, peach text box, blue sticker, and green Chinese character label on warm off-white background](https://pin.fontofweb.com/3876?format=jpg)](https://design.withfudge.com/share/pin-3876)
+[![About section with rotated orange card, peach text box, blue sticker, and green Chinese character label on warm off-white background](https://pin.fontofweb.com/3876?format=jpg)](https://fudge.design/share/pin-3876)
 
-[About section with rotated orange card, peach text box, blue sticker, and green Chinese character label on warm off-white background](https://design.withfudge.com/share/pin-3876)
+[About section with rotated orange card, peach text box, blue sticker, and green Chinese character label on warm off-white background](https://fudge.design/share/pin-3876)
 
-[![Dark footer with italic serif quote, ASCII-art garden sprites in pink and green, and minimal navigation columns](https://pin.fontofweb.com/3875?format=jpg)](https://design.withfudge.com/share/pin-3875)
+[![Dark footer with italic serif quote, ASCII-art garden sprites in pink and green, and minimal navigation columns](https://pin.fontofweb.com/3875?format=jpg)](https://fudge.design/share/pin-3875)
 
-[Dark footer with italic serif quote, ASCII-art garden sprites in pink and green, and minimal navigation columns](https://design.withfudge.com/share/pin-3875)
+[Dark footer with italic serif quote, ASCII-art garden sprites in pink and green, and minimal navigation columns](https://fudge.design/share/pin-3875)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The dark footer quote, being the most text-heavy element in the most dramatic co
 ## Scope note
 
 This guide covers the portfolio homepage, playground, and footer surfaces visible in the supplied images. Navigation interactions, project detail pages, form behaviors, and any motion or scroll-triggered animations are not represented. Measurements are practical adaptation targets derived from visual inspection. The exact sprite positioning algorithm and any responsive breakpoint specifications are not included.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How periplus.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/periplus.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/periplus.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login modal with dark brown background, email input field, and primary amber action button for authentication flow](https://pin.fontofweb.com/2223?format=jpg)](https://design.withfudge.com/share/pin-2223)
+[![Login modal with dark brown background, email input field, and primary amber action button for authentication flow](https://pin.fontofweb.com/2223?format=jpg)](https://fudge.design/share/pin-2223)
 
-[Login modal with dark brown background, email input field, and primary amber action button for authentication flow](https://design.withfudge.com/share/pin-2223)
+[Login modal with dark brown background, email input field, and primary amber action button for authentication flow](https://fudge.design/share/pin-2223)
 
-[![Three feature cards with amber icons showing search, connections, and review capabilities on dark background](https://pin.fontofweb.com/2222?format=jpg)](https://design.withfudge.com/share/pin-2222)
+[![Three feature cards with amber icons showing search, connections, and review capabilities on dark background](https://pin.fontofweb.com/2222?format=jpg)](https://fudge.design/share/pin-2222)
 
-[Three feature cards with amber icons showing search, connections, and review capabilities on dark background](https://design.withfudge.com/share/pin-2222)
+[Three feature cards with amber icons showing search, connections, and review capabilities on dark background](https://fudge.design/share/pin-2222)
 
-[![Pricing section with Basic and Premium tier cards, amber toggle switch, and highlighted subscription button](https://pin.fontofweb.com/2221?format=jpg)](https://design.withfudge.com/share/pin-2221)
+[![Pricing section with Basic and Premium tier cards, amber toggle switch, and highlighted subscription button](https://pin.fontofweb.com/2221?format=jpg)](https://fudge.design/share/pin-2221)
 
-[Pricing section with Basic and Premium tier cards, amber toggle switch, and highlighted subscription button](https://design.withfudge.com/share/pin-2221)
+[Pricing section with Basic and Premium tier cards, amber toggle switch, and highlighted subscription button](https://fudge.design/share/pin-2221)
 
-[![Product showcase grid with four feature panels demonstrating connected exploration, courses, personal library, and knowledge retention interfaces](https://pin.fontofweb.com/2220?format=jpg)](https://design.withfudge.com/share/pin-2220)
+[![Product showcase grid with four feature panels demonstrating connected exploration, courses, personal library, and knowledge retention interfaces](https://pin.fontofweb.com/2220?format=jpg)](https://fudge.design/share/pin-2220)
 
-[Product showcase grid with four feature panels demonstrating connected exploration, courses, personal library, and knowledge retention interfaces](https://design.withfudge.com/share/pin-2220)
+[Product showcase grid with four feature panels demonstrating connected exploration, courses, personal library, and knowledge retention interfaces](https://fudge.design/share/pin-2220)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Navigation and authentication modal should remain centered with comfortable marg
 ## Scope note
 
 This guide covers the marketing page and authentication surfaces of Periplus. The in-application learning interface, document viewer, flashcard system, and mobile-specific layouts are not represented in the supplied images. Motion design, loading states, and error page treatments are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

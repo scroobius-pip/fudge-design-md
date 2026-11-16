@@ -1,26 +1,26 @@
 # How designjoy.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/designjoy.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/designjoy.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark booking page with white headline, italic script subhead, colorful smiley face cluster, and calendar widget with pink notification banner](https://pin.fontofweb.com/106?format=jpg)](https://design.withfudge.com/share/pin-106)
+[![Dark booking page with white headline, italic script subhead, colorful smiley face cluster, and calendar widget with pink notification banner](https://pin.fontofweb.com/106?format=jpg)](https://fudge.design/share/pin-106)
 
-[Dark booking page with white headline, italic script subhead, colorful smiley face cluster, and calendar widget with pink notification banner](https://design.withfudge.com/share/pin-106)
+[Dark booking page with white headline, italic script subhead, colorful smiley face cluster, and calendar widget with pink notification banner](https://fudge.design/share/pin-106)
 
-[![Vibrant orange-to-purple gradient card with 3D smiley avatar, white CTA button, and email contact option](https://pin.fontofweb.com/105?format=jpg)](https://design.withfudge.com/share/pin-105)
+[![Vibrant orange-to-purple gradient card with 3D smiley avatar, white CTA button, and email contact option](https://pin.fontofweb.com/105?format=jpg)](https://fudge.design/share/pin-105)
 
-[Vibrant orange-to-purple gradient card with 3D smiley avatar, white CTA button, and email contact option](https://design.withfudge.com/share/pin-105)
+[Vibrant orange-to-purple gradient card with 3D smiley avatar, white CTA button, and email contact option](https://fudge.design/share/pin-105)
 
-[![Light gray FAQ section with italic serif heading, accordion questions with chevron icons, and muted answer text](https://pin.fontofweb.com/104?format=jpg)](https://design.withfudge.com/share/pin-104)
+[![Light gray FAQ section with italic serif heading, accordion questions with chevron icons, and muted answer text](https://pin.fontofweb.com/104?format=jpg)](https://fudge.design/share/pin-104)
 
-[Light gray FAQ section with italic serif heading, accordion questions with chevron icons, and muted answer text](https://design.withfudge.com/share/pin-104)
+[Light gray FAQ section with italic serif heading, accordion questions with chevron icons, and muted answer text](https://fudge.design/share/pin-104)
 
-[![Pricing section with tilted colorful smiley card, black pricing panel, orange accent button, and feature grid](https://pin.fontofweb.com/103?format=jpg)](https://design.withfudge.com/share/pin-103)
+[![Pricing section with tilted colorful smiley card, black pricing panel, orange accent button, and feature grid](https://pin.fontofweb.com/103?format=jpg)](https://fudge.design/share/pin-103)
 
-[Pricing section with tilted colorful smiley card, black pricing panel, orange accent button, and feature grid](https://design.withfudge.com/share/pin-103)
+[Pricing section with tilted colorful smiley card, black pricing panel, orange accent button, and feature grid](https://fudge.design/share/pin-103)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Navigation, if present in full implementations, should collapse to a compact men
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images, including the booking flow, pricing presentation, FAQ accordion, and gradient CTA components. Navigation behavior, mobile-specific layouts, form validation states, payment flow screens, and motion design are not represented in the available materials. Measurements are practical adaptation targets derived from visual inspection of the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

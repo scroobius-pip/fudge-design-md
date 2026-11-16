@@ -1,26 +1,26 @@
 # How davincii.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/davincii.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/davincii.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero viewport with centered serif headline, rotating 3D logo ring, and dark textured circular backdrop with navigation corners](https://pin.fontofweb.com/5754?format=jpg)](https://design.withfudge.com/share/pin-5754)
+[![Hero viewport with centered serif headline, rotating 3D logo ring, and dark textured circular backdrop with navigation corners](https://pin.fontofweb.com/5754?format=jpg)](https://fudge.design/share/pin-5754)
 
-[Hero viewport with centered serif headline, rotating 3D logo ring, and dark textured circular backdrop with navigation corners](https://design.withfudge.com/share/pin-5754)
+[Hero viewport with centered serif headline, rotating 3D logo ring, and dark textured circular backdrop with navigation corners](https://fudge.design/share/pin-5754)
 
-[![Footer section with Fibonacci spiral numbering, split navigation columns, QR code whitepaper card, and dark gradient terrain silhouette](https://pin.fontofweb.com/5753?format=jpg)](https://design.withfudge.com/share/pin-5753)
+[![Footer section with Fibonacci spiral numbering, split navigation columns, QR code whitepaper card, and dark gradient terrain silhouette](https://pin.fontofweb.com/5753?format=jpg)](https://fudge.design/share/pin-5753)
 
-[Footer section with Fibonacci spiral numbering, split navigation columns, QR code whitepaper card, and dark gradient terrain silhouette](https://design.withfudge.com/share/pin-5753)
+[Footer section with Fibonacci spiral numbering, split navigation columns, QR code whitepaper card, and dark gradient terrain silhouette](https://fudge.design/share/pin-5753)
 
-[![Close-up of mixed-weight serif headline showing italic emphasis on dark textured background](https://pin.fontofweb.com/5326?format=jpg)](https://design.withfudge.com/share/pin-5326)
+[![Close-up of mixed-weight serif headline showing italic emphasis on dark textured background](https://pin.fontofweb.com/5326?format=jpg)](https://fudge.design/share/pin-5326)
 
-[Close-up of mixed-weight serif headline showing italic emphasis on dark textured background](https://design.withfudge.com/share/pin-5326)
+[Close-up of mixed-weight serif headline showing italic emphasis on dark textured background](https://fudge.design/share/pin-5326)
 
-[![Upper hero crop revealing 3D cylindrical logo reflection and gradient circular frame edge](https://pin.fontofweb.com/5325?format=jpg)](https://design.withfudge.com/share/pin-5325)
+[![Upper hero crop revealing 3D cylindrical logo reflection and gradient circular frame edge](https://pin.fontofweb.com/5325?format=jpg)](https://fudge.design/share/pin-5325)
 
-[Upper hero crop revealing 3D cylindrical logo reflection and gradient circular frame edge](https://design.withfudge.com/share/pin-5325)
+[Upper hero crop revealing 3D cylindrical logo reflection and gradient circular frame edge](https://fudge.design/share/pin-5325)
 
 ## Overview
 
@@ -157,3 +157,18 @@ Touch targets for corner navigation should expand to minimum 44 by 44 pixels on 
 ## Scope note
 
 This guide covers the homepage hero and footer surfaces visible in the supplied images. Interior pages, interactive states, motion specifications, and mobile breakpoints are not represented. Measurements are practical adaptation targets derived from visual estimation against a 4px base grid. The 3D logo animation and terrain silhouette rendering methods are not specified.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

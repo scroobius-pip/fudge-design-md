@@ -1,26 +1,26 @@
 # How morphllm.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/morphllm.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/morphllm.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dashboard API keys page with dark sidebar navigation, code block with green syntax highlighting, and amber gradient banner](https://pin.fontofweb.com/7228?format=jpg)](https://design.withfudge.com/share/pin-7228)
+[![Dashboard API keys page with dark sidebar navigation, code block with green syntax highlighting, and amber gradient banner](https://pin.fontofweb.com/7228?format=jpg)](https://fudge.design/share/pin-7228)
 
-[Dashboard API keys page with dark sidebar navigation, code block with green syntax highlighting, and amber gradient banner](https://design.withfudge.com/share/pin-7228)
+[Dashboard API keys page with dark sidebar navigation, code block with green syntax highlighting, and amber gradient banner](https://fudge.design/share/pin-7228)
 
-[![MCP landing page with centered hero headline, terminal-style install command block, and green accent checkmark](https://pin.fontofweb.com/7227?format=jpg)](https://design.withfudge.com/share/pin-7227)
+[![MCP landing page with centered hero headline, terminal-style install command block, and green accent checkmark](https://pin.fontofweb.com/7227?format=jpg)](https://fudge.design/share/pin-7227)
 
-[MCP landing page with centered hero headline, terminal-style install command block, and green accent checkmark](https://design.withfudge.com/share/pin-7227)
+[MCP landing page with centered hero headline, terminal-style install command block, and green accent checkmark](https://fudge.design/share/pin-7227)
 
-[![Subscription pricing page with three-tier card layout, green primary button, and monospace typography](https://pin.fontofweb.com/7226?format=jpg)](https://design.withfudge.com/share/pin-7226)
+[![Subscription pricing page with three-tier card layout, green primary button, and monospace typography](https://pin.fontofweb.com/7226?format=jpg)](https://fudge.design/share/pin-7226)
 
-[Subscription pricing page with three-tier card layout, green primary button, and monospace typography](https://design.withfudge.com/share/pin-7226)
+[Subscription pricing page with three-tier card layout, green primary button, and monospace typography](https://fudge.design/share/pin-7226)
 
-[![Onboarding setup page with three selectable product cards, green arrow indicator, and step progress dots](https://pin.fontofweb.com/7225?format=jpg)](https://design.withfudge.com/share/pin-7225)
+[![Onboarding setup page with three selectable product cards, green arrow indicator, and step progress dots](https://pin.fontofweb.com/7225?format=jpg)](https://fudge.design/share/pin-7225)
 
-[Onboarding setup page with three selectable product cards, green arrow indicator, and step progress dots](https://design.withfudge.com/share/pin-7225)
+[Onboarding setup page with three selectable product cards, green arrow indicator, and step progress dots](https://fudge.design/share/pin-7225)
 
 ## Overview
 
@@ -201,3 +201,18 @@ Dashboard main content transitions from three-column layouts to single column at
 ## Scope note
 
 This guide covers the marketing site and dashboard interface visible in the supplied images, including the MCP landing page, onboarding flows, pricing page, and API keys dashboard. Mobile breakpoints, animation specifications, form validation states, and dark-mode toggle behavior are not represented in the available material.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How neuralink.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/neuralink.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/neuralink.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with full-bleed lifestyle photography, white headline over dark image, and pill-shaped white button with arrow icon](https://pin.fontofweb.com/7923?format=jpg)](https://design.withfudge.com/share/pin-7923)
+[![Hero section with full-bleed lifestyle photography, white headline over dark image, and pill-shaped white button with arrow icon](https://pin.fontofweb.com/7923?format=jpg)](https://fudge.design/share/pin-7923)
 
-[Hero section with full-bleed lifestyle photography, white headline over dark image, and pill-shaped white button with arrow icon](https://design.withfudge.com/share/pin-7923)
+[Hero section with full-bleed lifestyle photography, white headline over dark image, and pill-shaped white button with arrow icon](https://fudge.design/share/pin-7923)
 
-[![Light cream background with large centered heading and two portrait cards featuring double-exposure photography with gradient overlays and outlined pill buttons](https://pin.fontofweb.com/7922?format=jpg)](https://design.withfudge.com/share/pin-7922)
+[![Light cream background with large centered heading and two portrait cards featuring double-exposure photography with gradient overlays and outlined pill buttons](https://pin.fontofweb.com/7922?format=jpg)](https://fudge.design/share/pin-7922)
 
-[Light cream background with large centered heading and two portrait cards featuring double-exposure photography with gradient overlays and outlined pill buttons](https://design.withfudge.com/share/pin-7922)
+[Light cream background with large centered heading and two portrait cards featuring double-exposure photography with gradient overlays and outlined pill buttons](https://fudge.design/share/pin-7922)
 
-[![Testimonial carousel with rounded video thumbnail, large quote typography, circular navigation arrows, and horizontal progress indicators](https://pin.fontofweb.com/7921?format=jpg)](https://design.withfudge.com/share/pin-7921)
+[![Testimonial carousel with rounded video thumbnail, large quote typography, circular navigation arrows, and horizontal progress indicators](https://pin.fontofweb.com/7921?format=jpg)](https://fudge.design/share/pin-7921)
 
-[Testimonial carousel with rounded video thumbnail, large quote typography, circular navigation arrows, and horizontal progress indicators](https://design.withfudge.com/share/pin-7921)
+[Testimonial carousel with rounded video thumbnail, large quote typography, circular navigation arrows, and horizontal progress indicators](https://fudge.design/share/pin-7921)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The design relies on large imagery and generous spacing that will require carefu
 ## Scope note
 
 This guide covers the homepage surface including hero, recruitment, and testimonial sections. Footer, interior pages, mobile navigation patterns, and motion behaviors are not represented in the supplied material. The spacing and radius values derive from the documented interface measurements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

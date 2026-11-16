@@ -1,26 +1,26 @@
 # How motion.software is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/motion.software-design)
+[Open the live Fudge conversation](https://fudge.design/share/motion.software-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Changelog page with versioned release entries, green category badges, and monospace metadata against near-black background](https://pin.fontofweb.com/7006?format=jpg)](https://design.withfudge.com/share/pin-7006)
+[![Changelog page with versioned release entries, green category badges, and monospace metadata against near-black background](https://pin.fontofweb.com/7006?format=jpg)](https://fudge.design/share/pin-7006)
 
-[Changelog page with versioned release entries, green category badges, and monospace metadata against near-black background](https://design.withfudge.com/share/pin-7006)
+[Changelog page with versioned release entries, green category badges, and monospace metadata against near-black background](https://fudge.design/share/pin-7006)
 
-[![Centered login form with social auth buttons, email input field, and light primary action on dark canvas](https://pin.fontofweb.com/7005?format=jpg)](https://design.withfudge.com/share/pin-7005)
+[![Centered login form with social auth buttons, email input field, and light primary action on dark canvas](https://pin.fontofweb.com/7005?format=jpg)](https://fudge.design/share/pin-7005)
 
-[Centered login form with social auth buttons, email input field, and light primary action on dark canvas](https://design.withfudge.com/share/pin-7005)
+[Centered login form with social auth buttons, email input field, and light primary action on dark canvas](https://fudge.design/share/pin-7005)
 
-[![Footer section with Motion logo, copyright, multi-column link groups, and muted secondary text](https://pin.fontofweb.com/7004?format=jpg)](https://design.withfudge.com/share/pin-7004)
+[![Footer section with Motion logo, copyright, multi-column link groups, and muted secondary text](https://pin.fontofweb.com/7004?format=jpg)](https://fudge.design/share/pin-7004)
 
-[Footer section with Motion logo, copyright, multi-column link groups, and muted secondary text](https://design.withfudge.com/share/pin-7004)
+[Footer section with Motion logo, copyright, multi-column link groups, and muted secondary text](https://fudge.design/share/pin-7004)
 
-[![FAQ accordion with expand/collapse items, green email link, and centered download call-to-action](https://pin.fontofweb.com/7003?format=jpg)](https://design.withfudge.com/share/pin-7003)
+[![FAQ accordion with expand/collapse items, green email link, and centered download call-to-action](https://pin.fontofweb.com/7003?format=jpg)](https://fudge.design/share/pin-7003)
 
-[FAQ accordion with expand/collapse items, green email link, and centered download call-to-action](https://design.withfudge.com/share/pin-7003)
+[FAQ accordion with expand/collapse items, green email link, and centered download call-to-action](https://fudge.design/share/pin-7003)
 
 ## Overview
 
@@ -197,3 +197,18 @@ The supplied images show desktop widths exclusively. Based on the layout pattern
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage sections, changelog, login page, and footer. Pricing pages, mobile layouts, motion behavior, hover states, and form validation feedback are not represented. The spacing and radius values derive directly from the retained interface measurements; font sizes use the exact pixel values from the type system converted to rem units.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

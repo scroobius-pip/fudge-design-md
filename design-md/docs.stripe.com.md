@@ -1,26 +1,26 @@
 # How docs.stripe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/docs.stripe.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/docs.stripe.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![API Reference landing page showing hero section with navigation, introductory content, base URL panel, and client library icons in a dark-themed developer documentation layout](https://pin.fontofweb.com/90?format=jpg)](https://design.withfudge.com/share/pin-90)
+[![API Reference landing page showing hero section with navigation, introductory content, base URL panel, and client library icons in a dark-themed developer documentation layout](https://pin.fontofweb.com/90?format=jpg)](https://fudge.design/share/pin-90)
 
-[API Reference landing page showing hero section with navigation, introductory content, base URL panel, and client library icons in a dark-themed developer documentation layout](https://design.withfudge.com/share/pin-90)
+[API Reference landing page showing hero section with navigation, introductory content, base URL panel, and client library icons in a dark-themed developer documentation layout](https://fudge.design/share/pin-90)
 
-[![HTTP status code summary table and error types section with structured data rows and monospace code labels against a dark background](https://pin.fontofweb.com/91?format=jpg)](https://design.withfudge.com/share/pin-91)
+[![HTTP status code summary table and error types section with structured data rows and monospace code labels against a dark background](https://pin.fontofweb.com/91?format=jpg)](https://fudge.design/share/pin-91)
 
-[HTTP status code summary table and error types section with structured data rows and monospace code labels against a dark background](https://design.withfudge.com/share/pin-91)
+[HTTP status code summary table and error types section with structured data rows and monospace code labels against a dark background](https://fudge.design/share/pin-91)
 
-[![Webhook Endpoints section with method-colored API endpoint list showing POST in green, GET in blue, DELETE in orange, and action buttons in the header](https://pin.fontofweb.com/92?format=jpg)](https://design.withfudge.com/share/pin-92)
+[![Webhook Endpoints section with method-colored API endpoint list showing POST in green, GET in blue, DELETE in orange, and action buttons in the header](https://pin.fontofweb.com/92?format=jpg)](https://fudge.design/share/pin-92)
 
-[Webhook Endpoints section with method-colored API endpoint list showing POST in green, GET in blue, DELETE in orange, and action buttons in the header](https://design.withfudge.com/share/pin-92)
+[Webhook Endpoints section with method-colored API endpoint list showing POST in green, GET in blue, DELETE in orange, and action buttons in the header](https://fudge.design/share/pin-92)
 
-[![Left sidebar navigation with expanded Privacy section showing Redaction Job submenu highlighted in purple with nested resource operations](https://pin.fontofweb.com/93?format=jpg)](https://design.withfudge.com/share/pin-93)
+[![Left sidebar navigation with expanded Privacy section showing Redaction Job submenu highlighted in purple with nested resource operations](https://pin.fontofweb.com/93?format=jpg)](https://fudge.design/share/pin-93)
 
-[Left sidebar navigation with expanded Privacy section showing Redaction Job submenu highlighted in purple with nested resource operations](https://design.withfudge.com/share/pin-93)
+[Left sidebar navigation with expanded Privacy section showing Redaction Job submenu highlighted in purple with nested resource operations](https://fudge.design/share/pin-93)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Typography scale should reduce by one step on mobile: hero-display becomes secti
 ## Scope note
 
 This guide covers the API Reference documentation surface visible in the supplied images, including navigation, content panels, endpoint listings, data tables, and code blocks. Mobile breakpoints, animation behavior, search functionality, and interactive code execution environments are not represented. Measurements are practical adaptation targets based on visible proportions in the supplied documentation pages.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [API platform](/share/designs-with-offering.api_platform)
+- [API reference](/share/designs-with-page.documentation.api_reference)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

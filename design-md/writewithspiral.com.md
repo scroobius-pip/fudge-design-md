@@ -1,26 +1,26 @@
 # How writewithspiral.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/writewithspiral.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/writewithspiral.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer area with Spiral logo, orange pill CTA, and minimal link columns on warm off-white background](https://pin.fontofweb.com/8452?format=jpg)](https://design.withfudge.com/share/pin-8452)
+[![Footer area with Spiral logo, orange pill CTA, and minimal link columns on warm off-white background](https://pin.fontofweb.com/8452?format=jpg)](https://fudge.design/share/pin-8452)
 
-[Footer area with Spiral logo, orange pill CTA, and minimal link columns on warm off-white background](https://design.withfudge.com/share/pin-8452)
+[Footer area with Spiral logo, orange pill CTA, and minimal link columns on warm off-white background](https://fudge.design/share/pin-8452)
 
-[![Pricing section with two-tier card layout, orange gradient buttons, and dark bundle subscription banner](https://pin.fontofweb.com/8451?format=jpg)](https://design.withfudge.com/share/pin-8451)
+[![Pricing section with two-tier card layout, orange gradient buttons, and dark bundle subscription banner](https://pin.fontofweb.com/8451?format=jpg)](https://fudge.design/share/pin-8451)
 
-[Pricing section with two-tier card layout, orange gradient buttons, and dark bundle subscription banner](https://design.withfudge.com/share/pin-8451)
+[Pricing section with two-tier card layout, orange gradient buttons, and dark bundle subscription banner](https://fudge.design/share/pin-8451)
 
-[![FAQ accordion with orange badge header, expanded answer panel, and circular toggle controls](https://pin.fontofweb.com/8450?format=jpg)](https://design.withfudge.com/share/pin-8450)
+[![FAQ accordion with orange badge header, expanded answer panel, and circular toggle controls](https://pin.fontofweb.com/8450?format=jpg)](https://fudge.design/share/pin-8450)
 
-[FAQ accordion with orange badge header, expanded answer panel, and circular toggle controls](https://design.withfudge.com/share/pin-8450)
+[FAQ accordion with orange badge header, expanded answer panel, and circular toggle controls](https://fudge.design/share/pin-8450)
 
-[![Feature grid with four large rounded cards, orange highlighted keywords, and product UI mockups](https://pin.fontofweb.com/8449?format=jpg)](https://design.withfudge.com/share/pin-8449)
+[![Feature grid with four large rounded cards, orange highlighted keywords, and product UI mockups](https://pin.fontofweb.com/8449?format=jpg)](https://fudge.design/share/pin-8449)
 
-[Feature grid with four large rounded cards, orange highlighted keywords, and product UI mockups](https://design.withfudge.com/share/pin-8449)
+[Feature grid with four large rounded cards, orange highlighted keywords, and product UI mockups](https://fudge.design/share/pin-8449)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The two-column feature grid and pricing layout should stack to single column on 
 ## Scope note
 
 This guide covers the marketing and landing page surfaces of writewithspiral.com, including hero, features, pricing, FAQ, and footer sections. In-app interface states, mobile-specific layouts, animation behavior, and form validation states are not represented in the supplied material. The dark subscription banner and chat interface illustrations suggest additional components that may extend this system for authenticated experiences.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

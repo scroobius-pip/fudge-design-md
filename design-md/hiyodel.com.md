@@ -1,26 +1,26 @@
 # How hiyodel.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hiyodel.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hiyodel.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with centered Yodel logotype, pink CTA button, and whimsical fairy illustrations on curved color fields](https://pin.fontofweb.com/5478?format=jpg)](https://design.withfudge.com/share/pin-5478)
+[![Hero banner with centered Yodel logotype, pink CTA button, and whimsical fairy illustrations on curved color fields](https://pin.fontofweb.com/5478?format=jpg)](https://fudge.design/share/pin-5478)
 
-[Hero banner with centered Yodel logotype, pink CTA button, and whimsical fairy illustrations on curved color fields](https://design.withfudge.com/share/pin-5478)
+[Hero banner with centered Yodel logotype, pink CTA button, and whimsical fairy illustrations on curved color fields](https://fudge.design/share/pin-5478)
 
-[![Personal founder message with large navy headline, body paragraphs, and illustrated avatar signature](https://pin.fontofweb.com/5477?format=jpg)](https://design.withfudge.com/share/pin-5477)
+[![Personal founder message with large navy headline, body paragraphs, and illustrated avatar signature](https://pin.fontofweb.com/5477?format=jpg)](https://fudge.design/share/pin-5477)
 
-[Personal founder message with large navy headline, body paragraphs, and illustrated avatar signature](https://design.withfudge.com/share/pin-5477)
+[Personal founder message with large navy headline, body paragraphs, and illustrated avatar signature](https://fudge.design/share/pin-5477)
 
-[![Testimonials section with three merchant review cards, star ratings, and horizontal scroll indicator](https://pin.fontofweb.com/5476?format=jpg)](https://design.withfudge.com/share/pin-5476)
+[![Testimonials section with three merchant review cards, star ratings, and horizontal scroll indicator](https://pin.fontofweb.com/5476?format=jpg)](https://fudge.design/share/pin-5476)
 
-[Testimonials section with three merchant review cards, star ratings, and horizontal scroll indicator](https://design.withfudge.com/share/pin-5476)
+[Testimonials section with three merchant review cards, star ratings, and horizontal scroll indicator](https://fudge.design/share/pin-5476)
 
-[![Full landing page with navigation, hero headline, badge, CTA button, and decorative character illustrations](https://pin.fontofweb.com/5475?format=jpg)](https://design.withfudge.com/share/pin-5475)
+[![Full landing page with navigation, hero headline, badge, CTA button, and decorative character illustrations](https://pin.fontofweb.com/5475?format=jpg)](https://fudge.design/share/pin-5475)
 
-[Full landing page with navigation, hero headline, badge, CTA button, and decorative character illustrations](https://design.withfudge.com/share/pin-5475)
+[Full landing page with navigation, hero headline, badge, CTA button, and decorative character illustrations](https://fudge.design/share/pin-5475)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Navigation links should collapse to a hamburger menu or simplified icon on mobil
 ## Scope note
 
 This guide covers the visible landing page surface including hero, founder message, testimonials, and footer sections. Pricing pages, app interface screens, mobile layouts, hover states, loading sequences, and form interactions are not represented in the supplied materials. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

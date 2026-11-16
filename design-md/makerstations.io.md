@@ -1,26 +1,26 @@
 # How makerstations.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/makerstations.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/makerstations.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero section with coral banner, navigation sidebar, featured vintage Macintosh article card, and grid of workspace thumbnails with rounded corners and read-time badges](https://pin.fontofweb.com/5465?format=jpg)](https://design.withfudge.com/share/pin-5465)
+[![Homepage hero section with coral banner, navigation sidebar, featured vintage Macintosh article card, and grid of workspace thumbnails with rounded corners and read-time badges](https://pin.fontofweb.com/5465?format=jpg)](https://fudge.design/share/pin-5465)
 
-[Homepage hero section with coral banner, navigation sidebar, featured vintage Macintosh article card, and grid of workspace thumbnails with rounded corners and read-time badges](https://design.withfudge.com/share/pin-5465)
+[Homepage hero section with coral banner, navigation sidebar, featured vintage Macintosh article card, and grid of workspace thumbnails with rounded corners and read-time badges](https://fudge.design/share/pin-5465)
 
-[![Newsletter signup modal with coral starburst logo, name and email inputs, coral primary button, and free newsletter checkbox with checkmark icon](https://pin.fontofweb.com/5468?format=jpg)](https://design.withfudge.com/share/pin-5468)
+[![Newsletter signup modal with coral starburst logo, name and email inputs, coral primary button, and free newsletter checkbox with checkmark icon](https://pin.fontofweb.com/5468?format=jpg)](https://fudge.design/share/pin-5468)
 
-[Newsletter signup modal with coral starburst logo, name and email inputs, coral primary button, and free newsletter checkbox with checkmark icon](https://design.withfudge.com/share/pin-5468)
+[Newsletter signup modal with coral starburst logo, name and email inputs, coral primary button, and free newsletter checkbox with checkmark icon](https://fudge.design/share/pin-5468)
 
-[![Article header with serif title in Perfectly Nineties, coral starburst favicon, author metadata, and pill-shaped Comments and Share buttons with light gray backgrounds](https://pin.fontofweb.com/5467?format=jpg)](https://design.withfudge.com/share/pin-5467)
+[![Article header with serif title in Perfectly Nineties, coral starburst favicon, author metadata, and pill-shaped Comments and Share buttons with light gray backgrounds](https://pin.fontofweb.com/5467?format=jpg)](https://fudge.design/share/pin-5467)
 
-[Article header with serif title in Perfectly Nineties, coral starburst favicon, author metadata, and pill-shaped Comments and Share buttons with light gray backgrounds](https://design.withfudge.com/share/pin-5467)
+[Article header with serif title in Perfectly Nineties, coral starburst favicon, author metadata, and pill-shaped Comments and Share buttons with light gray backgrounds](https://fudge.design/share/pin-5467)
 
-[![Mobile navigation drawer with hamburger trigger, Maker Stations wordmark, categorized menu links with icons, and footer links with Home pill button](https://pin.fontofweb.com/5466?format=jpg)](https://design.withfudge.com/share/pin-5466)
+[![Mobile navigation drawer with hamburger trigger, Maker Stations wordmark, categorized menu links with icons, and footer links with Home pill button](https://pin.fontofweb.com/5466?format=jpg)](https://fudge.design/share/pin-5466)
 
-[Mobile navigation drawer with hamburger trigger, Maker Stations wordmark, categorized menu links with icons, and footer links with Home pill button](https://design.withfudge.com/share/pin-5466)
+[Mobile navigation drawer with hamburger trigger, Maker Stations wordmark, categorized menu links with icons, and footer links with Home pill button](https://fudge.design/share/pin-5466)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Implementation should consider touch targets: sidebar navigation items need adeq
 ## Scope note
 
 This guide covers the homepage, article header, navigation drawer, and newsletter signup modal visible in the supplied images. Footer content, individual article body layouts, search functionality, user authentication flows, and any dark mode variant are not represented. Measurements are practical adaptation targets based on visible proportions and the 4px relative unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Red hue](/share/designs-with-color.hue.red)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How fastmail.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fastmail.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fastmail.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog index page with deep blue hero banner, white search bar, and three-column article grid with author avatars and category tags](https://pin.fontofweb.com/2861?format=jpg)](https://design.withfudge.com/share/pin-2861)
+[![Blog index page with deep blue hero banner, white search bar, and three-column article grid with author avatars and category tags](https://pin.fontofweb.com/2861?format=jpg)](https://fudge.design/share/pin-2861)
 
-[Blog index page with deep blue hero banner, white search bar, and three-column article grid with author avatars and category tags](https://design.withfudge.com/share/pin-2861)
+[Blog index page with deep blue hero banner, white search bar, and three-column article grid with author avatars and category tags](https://fudge.design/share/pin-2861)
 
-[![FAQ accordion section with bold question labels, expand/collapse chevrons, and clean horizontal dividers on white background](https://pin.fontofweb.com/2860?format=jpg)](https://design.withfudge.com/share/pin-2860)
+[![FAQ accordion section with bold question labels, expand/collapse chevrons, and clean horizontal dividers on white background](https://pin.fontofweb.com/2860?format=jpg)](https://fudge.design/share/pin-2860)
 
-[FAQ accordion section with bold question labels, expand/collapse chevrons, and clean horizontal dividers on white background](https://design.withfudge.com/share/pin-2860)
+[FAQ accordion section with bold question labels, expand/collapse chevrons, and clean horizontal dividers on white background](https://fudge.design/share/pin-2860)
 
-[![Pricing feature comparison table with blue primary action buttons, green checkmarks, and colored plan header bars](https://pin.fontofweb.com/2859?format=jpg)](https://design.withfudge.com/share/pin-2859)
+[![Pricing feature comparison table with blue primary action buttons, green checkmarks, and colored plan header bars](https://pin.fontofweb.com/2859?format=jpg)](https://fudge.design/share/pin-2859)
 
-[Pricing feature comparison table with blue primary action buttons, green checkmarks, and colored plan header bars](https://design.withfudge.com/share/pin-2859)
+[Pricing feature comparison table with blue primary action buttons, green checkmarks, and colored plan header bars](https://fudge.design/share/pin-2859)
 
-[![Full pricing page with cream hero background, tabbed plan selector, three pricing cards with per-month costs and detailed feature lists](https://pin.fontofweb.com/2858?format=jpg)](https://design.withfudge.com/share/pin-2858)
+[![Full pricing page with cream hero background, tabbed plan selector, three pricing cards with per-month costs and detailed feature lists](https://pin.fontofweb.com/2858?format=jpg)](https://fudge.design/share/pin-2858)
 
-[Full pricing page with cream hero background, tabbed plan selector, three pricing cards with per-month costs and detailed feature lists](https://design.withfudge.com/share/pin-2858)
+[Full pricing page with cream hero background, tabbed plan selector, three pricing cards with per-month costs and detailed feature lists](https://fudge.design/share/pin-2858)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Pricing table comparisons become challenging on narrow screens; consider horizon
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: the blog index, pricing page with plan comparison, and FAQ section. The account dashboard, mobile applications, email client interface, and checkout flows are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop layouts shown.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

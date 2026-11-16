@@ -1,26 +1,26 @@
 # How digitaltrends.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/digitaltrends.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/digitaltrends.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark navy footer with social icons, category links, and Digital Trends Media Group branding with address and legal text](https://pin.fontofweb.com/1007?format=jpg)](https://design.withfudge.com/share/pin-1007)
+[![Dark navy footer with social icons, category links, and Digital Trends Media Group branding with address and legal text](https://pin.fontofweb.com/1007?format=jpg)](https://fudge.design/share/pin-1007)
 
-[Dark navy footer with social icons, category links, and Digital Trends Media Group branding with address and legal text](https://design.withfudge.com/share/pin-1007)
+[Dark navy footer with social icons, category links, and Digital Trends Media Group branding with address and legal text](https://fudge.design/share/pin-1007)
 
-[![Top navigation bar with hamburger menu, logo, category links, blue Sign In button, and trending topics strip](https://pin.fontofweb.com/1006?format=jpg)](https://design.withfudge.com/share/pin-1006)
+[![Top navigation bar with hamburger menu, logo, category links, blue Sign In button, and trending topics strip](https://pin.fontofweb.com/1006?format=jpg)](https://fudge.design/share/pin-1006)
 
-[Top navigation bar with hamburger menu, logo, category links, blue Sign In button, and trending topics strip](https://design.withfudge.com/share/pin-1006)
+[Top navigation bar with hamburger menu, logo, category links, blue Sign In button, and trending topics strip](https://fudge.design/share/pin-1006)
 
-[![Newsletter signup page with large display headline, phone mockups showing email previews, and subscription form with checkboxes](https://pin.fontofweb.com/1005?format=jpg)](https://design.withfudge.com/share/pin-1005)
+[![Newsletter signup page with large display headline, phone mockups showing email previews, and subscription form with checkboxes](https://pin.fontofweb.com/1005?format=jpg)](https://fudge.design/share/pin-1005)
 
-[Newsletter signup page with large display headline, phone mockups showing email previews, and subscription form with checkboxes](https://design.withfudge.com/share/pin-1005)
+[Newsletter signup page with large display headline, phone mockups showing email previews, and subscription form with checkboxes](https://fudge.design/share/pin-1005)
 
-[![Latest Reviews sidebar with product thumbnails, star ratings, review headlines, and publication dates on light gray background](https://pin.fontofweb.com/1004?format=jpg)](https://design.withfudge.com/share/pin-1004)
+[![Latest Reviews sidebar with product thumbnails, star ratings, review headlines, and publication dates on light gray background](https://pin.fontofweb.com/1004?format=jpg)](https://fudge.design/share/pin-1004)
 
-[Latest Reviews sidebar with product thumbnails, star ratings, review headlines, and publication dates on light gray background](https://design.withfudge.com/share/pin-1004)
+[Latest Reviews sidebar with product thumbnails, star ratings, review headlines, and publication dates on light gray background](https://fudge.design/share/pin-1004)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Touch targets for navigation links and buttons should maintain minimum 44px heig
 ## Scope note
 
 This guide covers the desktop homepage, newsletter signup page, and footer surfaces visible in the supplied images. Mobile layouts, article detail pages, search functionality, video player components, and hover or focus states are not represented. Measurements are practical adaptation targets. Verify licensing for Visby Cf and By Juan Pablo De Gregorio-9693722165420093424 before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

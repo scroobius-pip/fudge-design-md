@@ -1,26 +1,26 @@
 # How vercel.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vercel.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vercel.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Project Settings form with dark card panels, input fields, and blue accent links on black canvas](https://pin.fontofweb.com/9715?format=jpg)](https://design.withfudge.com/share/pin-9715)
+[![Project Settings form with dark card panels, input fields, and blue accent links on black canvas](https://pin.fontofweb.com/9715?format=jpg)](https://fudge.design/share/pin-9715)
 
-[Project Settings form with dark card panels, input fields, and blue accent links on black canvas](https://design.withfudge.com/share/pin-9715)
+[Project Settings form with dark card panels, input fields, and blue accent links on black canvas](https://fudge.design/share/pin-9715)
 
-[![Danger zone with red-bordered Delete Project card and muted Transfer section above](https://pin.fontofweb.com/9714?format=jpg)](https://design.withfudge.com/share/pin-9714)
+[![Danger zone with red-bordered Delete Project card and muted Transfer section above](https://pin.fontofweb.com/9714?format=jpg)](https://fudge.design/share/pin-9714)
 
-[Danger zone with red-bordered Delete Project card and muted Transfer section above](https://design.withfudge.com/share/pin-9714)
+[Danger zone with red-bordered Delete Project card and muted Transfer section above](https://fudge.design/share/pin-9714)
 
-[![Project Overview dashboard with sidebar navigation, deployment preview, and analytics cards](https://pin.fontofweb.com/9713?format=jpg)](https://design.withfudge.com/share/pin-9713)
+[![Project Overview dashboard with sidebar navigation, deployment preview, and analytics cards](https://pin.fontofweb.com/9713?format=jpg)](https://fudge.design/share/pin-9713)
 
-[Project Overview dashboard with sidebar navigation, deployment preview, and analytics cards](https://design.withfudge.com/share/pin-9713)
+[Project Overview dashboard with sidebar navigation, deployment preview, and analytics cards](https://fudge.design/share/pin-9713)
 
-[![All Projects grid with usage metrics, project cards, and left navigation rail](https://pin.fontofweb.com/9712?format=jpg)](https://design.withfudge.com/share/pin-9712)
+[![All Projects grid with usage metrics, project cards, and left navigation rail](https://pin.fontofweb.com/9712?format=jpg)](https://fudge.design/share/pin-9712)
 
-[All Projects grid with usage metrics, project cards, and left navigation rail](https://design.withfudge.com/share/pin-9712)
+[All Projects grid with usage metrics, project cards, and left navigation rail](https://fudge.design/share/pin-9712)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets maintain minimum 44px height on all interactive elements. The syst
 ## Scope note
 
 This guide covers the Vercel developer dashboard interface including project management, settings, and overview surfaces. Marketing pages, the Geist font specimen pages, pricing tables, and blog content use extended typographic scales and additional layout patterns not documented here. Motion, animation, and mobile-native adaptations are not included.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

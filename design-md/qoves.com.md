@@ -1,26 +1,26 @@
 # How qoves.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/qoves.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/qoves.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with flowing teal gradient background, white headline, and centered CTA button above a structured footer and large metallic QOVES wordmark.](https://pin.fontofweb.com/9258?format=jpg)](https://design.withfudge.com/share/pin-9258)
+[![Hero banner with flowing teal gradient background, white headline, and centered CTA button above a structured footer and large metallic QOVES wordmark.](https://pin.fontofweb.com/9258?format=jpg)](https://fudge.design/share/pin-9258)
 
-[Hero banner with flowing teal gradient background, white headline, and centered CTA button above a structured footer and large metallic QOVES wordmark.](https://design.withfudge.com/share/pin-9258)
+[Hero banner with flowing teal gradient background, white headline, and centered CTA button above a structured footer and large metallic QOVES wordmark.](https://fudge.design/share/pin-9258)
 
-[![Content section with centered dark and muted teal two-tone heading, body text, and two stacked card lists with rounded borders on white background.](https://pin.fontofweb.com/9257?format=jpg)](https://design.withfudge.com/share/pin-9257)
+[![Content section with centered dark and muted teal two-tone heading, body text, and two stacked card lists with rounded borders on white background.](https://pin.fontofweb.com/9257?format=jpg)](https://fudge.design/share/pin-9257)
 
-[Content section with centered dark and muted teal two-tone heading, body text, and two stacked card lists with rounded borders on white background.](https://design.withfudge.com/share/pin-9257)
+[Content section with centered dark and muted teal two-tone heading, body text, and two stacked card lists with rounded borders on white background.](https://fudge.design/share/pin-9257)
 
-[![Numbered three-step facial analysis explainer with circular step indicators, thumbnail images, and a bottom testimonial quote card with left accent border.](https://pin.fontofweb.com/9256?format=jpg)](https://design.withfudge.com/share/pin-9256)
+[![Numbered three-step facial analysis explainer with circular step indicators, thumbnail images, and a bottom testimonial quote card with left accent border.](https://pin.fontofweb.com/9256?format=jpg)](https://fudge.design/share/pin-9256)
 
-[Numbered three-step facial analysis explainer with circular step indicators, thumbnail images, and a bottom testimonial quote card with left accent border.](https://design.withfudge.com/share/pin-9256)
+[Numbered three-step facial analysis explainer with circular step indicators, thumbnail images, and a bottom testimonial quote card with left accent border.](https://fudge.design/share/pin-9256)
 
-[![Wide muted teal transformation panel with white headline, four-step horizontal process flow with numbered circles, and right-aligned CTA button.](https://pin.fontofweb.com/9255?format=jpg)](https://design.withfudge.com/share/pin-9255)
+[![Wide muted teal transformation panel with white headline, four-step horizontal process flow with numbered circles, and right-aligned CTA button.](https://pin.fontofweb.com/9255?format=jpg)](https://fudge.design/share/pin-9255)
 
-[Wide muted teal transformation panel with white headline, four-step horizontal process flow with numbered circles, and right-aligned CTA button.](https://design.withfudge.com/share/pin-9255)
+[Wide muted teal transformation panel with white headline, four-step horizontal process flow with numbered circles, and right-aligned CTA button.](https://fudge.design/share/pin-9255)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The visible interface suggests a desktop-first approach with a constrained conte
 ## Scope note
 
 This guide covers the visible homepage and landing sections including hero, educational content, process explanation, transformation CTA, and footer. Interior pages, mobile navigation patterns, form states, loading indicators, and motion design are not represented in the supplied material. The spacing and sizing values derive from the documented relative unit scale and exact interface measurements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

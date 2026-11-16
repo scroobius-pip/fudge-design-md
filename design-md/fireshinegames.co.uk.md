@@ -1,26 +1,26 @@
 # How fireshinegames.co.uk is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fireshinegames.co.uk-design)
+[Open the live Fudge conversation](https://fudge.design/share/fireshinegames.co.uk-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Bright yellow game pitch section with bold condensed uppercase typography, halftone dot pattern, and anime character illustration for Denshattack!](https://pin.fontofweb.com/4898?format=jpg)](https://design.withfudge.com/share/pin-4898)
+[![Bright yellow game pitch section with bold condensed uppercase typography, halftone dot pattern, and anime character illustration for Denshattack!](https://pin.fontofweb.com/4898?format=jpg)](https://fudge.design/share/pin-4898)
 
-[Bright yellow game pitch section with bold condensed uppercase typography, halftone dot pattern, and anime character illustration for Denshattack!](https://design.withfudge.com/share/pin-4898)
+[Bright yellow game pitch section with bold condensed uppercase typography, halftone dot pattern, and anime character illustration for Denshattack!](https://fudge.design/share/pin-4898)
 
-[![Screenshots gallery grid on deep blue painterly background with white condensed heading and ten game image thumbnails in rounded white frames](https://pin.fontofweb.com/4897?format=jpg)](https://design.withfudge.com/share/pin-4897)
+[![Screenshots gallery grid on deep blue painterly background with white condensed heading and ten game image thumbnails in rounded white frames](https://pin.fontofweb.com/4897?format=jpg)](https://fudge.design/share/pin-4897)
 
-[Screenshots gallery grid on deep blue painterly background with white condensed heading and ten game image thumbnails in rounded white frames](https://design.withfudge.com/share/pin-4897)
+[Screenshots gallery grid on deep blue painterly background with white condensed heading and ten game image thumbnails in rounded white frames](https://fudge.design/share/pin-4897)
 
-[![Three vivid red platform wishlist buttons with white icons and condensed uppercase text on green dotted background](https://pin.fontofweb.com/4896?format=jpg)](https://design.withfudge.com/share/pin-4896)
+[![Three vivid red platform wishlist buttons with white icons and condensed uppercase text on green dotted background](https://pin.fontofweb.com/4896?format=jpg)](https://fudge.design/share/pin-4896)
 
-[Three vivid red platform wishlist buttons with white icons and condensed uppercase text on green dotted background](https://design.withfudge.com/share/pin-4896)
+[Three vivid red platform wishlist buttons with white icons and condensed uppercase text on green dotted background](https://fudge.design/share/pin-4896)
 
-[![Dark footer bar with Fireshine Games and Undercoders logos, copyright text, and red Press Kit button](https://pin.fontofweb.com/4895?format=jpg)](https://design.withfudge.com/share/pin-4895)
+[![Dark footer bar with Fireshine Games and Undercoders logos, copyright text, and red Press Kit button](https://pin.fontofweb.com/4895?format=jpg)](https://fudge.design/share/pin-4895)
 
-[Dark footer bar with Fireshine Games and Undercoders logos, copyright text, and red Press Kit button](https://design.withfudge.com/share/pin-4895)
+[Dark footer bar with Fireshine Games and Undercoders logos, copyright text, and red Press Kit button](https://fudge.design/share/pin-4895)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Touch targets for platform buttons must remain generous; the current substantial
 ## Scope note
 
 This guide covers the Denshattack! game page surface as visible in the supplied images: hero pitch, screenshots gallery, platform wishlist section, and footer. Navigation header, mobile layouts, additional pages, hover states, and motion effects are not represented. Measurements are practical adaptation targets based on visual estimation from the provided images.
+
+## Related design patterns
+
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

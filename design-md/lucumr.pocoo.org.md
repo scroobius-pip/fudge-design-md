@@ -1,18 +1,18 @@
 # How lucumr.pocoo.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lucumr.pocoo.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/lucumr.pocoo.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article page with dark navy background, decorative blue camouflage header pattern, Lora serif title "The Final Bottleneck", and Merriweather body text with inline links](https://pin.fontofweb.com/7057?format=jpg)](https://design.withfudge.com/share/pin-7057)
+[![Blog article page with dark navy background, decorative blue camouflage header pattern, Lora serif title "The Final Bottleneck", and Merriweather body text with inline links](https://pin.fontofweb.com/7057?format=jpg)](https://fudge.design/share/pin-7057)
 
-[Blog article page with dark navy background, decorative blue camouflage header pattern, Lora serif title "The Final Bottleneck", and Merriweather body text with inline links](https://design.withfudge.com/share/pin-7057)
+[Blog article page with dark navy background, decorative blue camouflage header pattern, Lora serif title "The Final Bottleneck", and Merriweather body text with inline links](https://fudge.design/share/pin-7057)
 
-[![Page footer with centered copyright text, contact links, and large blue camouflage decorative pattern on dark navy background](https://pin.fontofweb.com/7056?format=jpg)](https://design.withfudge.com/share/pin-7056)
+[![Page footer with centered copyright text, contact links, and large blue camouflage decorative pattern on dark navy background](https://pin.fontofweb.com/7056?format=jpg)](https://fudge.design/share/pin-7056)
 
-[Page footer with centered copyright text, contact links, and large blue camouflage decorative pattern on dark navy background](https://design.withfudge.com/share/pin-7056)
+[Page footer with centered copyright text, contact links, and large blue camouflage decorative pattern on dark navy background](https://fudge.design/share/pin-7056)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Line length should remain the primary responsive constraint. If viewport width d
 ## Scope note
 
 This guide covers the article page template as visible in the supplied images. The blog archive, project pages, travel section, and other site areas are not represented. Light mode and auto color scheme implementations are referenced in the footer but not documented here. No form components, buttons beyond text links, or interactive states beyond link hover are visible in the source material. Measurements are derived from the exact values supplied in the design facts.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Personal](/share/designs-with-industry.personal)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

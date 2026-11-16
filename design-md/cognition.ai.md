@@ -1,22 +1,22 @@
 # How cognition.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cognition.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/cognition.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with dark navy background, bracketed teal DEVIN title, and two angled action buttons above a light footer with legal links](https://pin.fontofweb.com/5858?format=jpg)](https://design.withfudge.com/share/pin-5858)
+[![Hero banner with dark navy background, bracketed teal DEVIN title, and two angled action buttons above a light footer with legal links](https://pin.fontofweb.com/5858?format=jpg)](https://fudge.design/share/pin-5858)
 
-[Hero banner with dark navy background, bracketed teal DEVIN title, and two angled action buttons above a light footer with legal links](https://design.withfudge.com/share/pin-5858)
+[Hero banner with dark navy background, bracketed teal DEVIN title, and two angled action buttons above a light footer with legal links](https://fudge.design/share/pin-5858)
 
-[![Careers section with light gray background, bracketed category labels, and bordered job listing rows with location and full-time metadata](https://pin.fontofweb.com/5857?format=jpg)](https://design.withfudge.com/share/pin-5857)
+[![Careers section with light gray background, bracketed category labels, and bordered job listing rows with location and full-time metadata](https://pin.fontofweb.com/5857?format=jpg)](https://fudge.design/share/pin-5857)
 
-[Careers section with light gray background, bracketed category labels, and bordered job listing rows with location and full-time metadata](https://design.withfudge.com/share/pin-5857)
+[Careers section with light gray background, bracketed category labels, and bordered job listing rows with location and full-time metadata](https://fudge.design/share/pin-5857)
 
-[![Full-bleed ASCII art hero with cross-hatch pattern, bracketed teal DEVIN title, and floating action buttons on dark textured canvas](https://pin.fontofweb.com/5856?format=jpg)](https://design.withfudge.com/share/pin-5856)
+[![Full-bleed ASCII art hero with cross-hatch pattern, bracketed teal DEVIN title, and floating action buttons on dark textured canvas](https://pin.fontofweb.com/5856?format=jpg)](https://fudge.design/share/pin-5856)
 
-[Full-bleed ASCII art hero with cross-hatch pattern, bracketed teal DEVIN title, and floating action buttons on dark textured canvas](https://design.withfudge.com/share/pin-5856)
+[Full-bleed ASCII art hero with cross-hatch pattern, bracketed teal DEVIN title, and floating action buttons on dark textured canvas](https://fudge.design/share/pin-5856)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Ensure the light text on dark ink backgrounds meets WCAG AA contrast ratios; the
 ## Scope note
 
 This guide covers the homepage and careers page surfaces visible in the supplied images. Navigation behavior, mobile layouts, form interactions, motion design, and additional product pages are not represented. The button hover, focus, and active states are not documented from still images. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. Verify licensing for IBM Plex families before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

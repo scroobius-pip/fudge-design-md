@@ -1,26 +1,26 @@
 # How dev.ochuko.space is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dev.ochuko.space-design)
+[Open the live Fudge conversation](https://fudge.design/share/dev.ochuko.space-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark contact footer with oversized split headline 'LET'S BUILD' and 'TOGETHER', email link, social links, and decorative barcode glyph cluster](https://pin.fontofweb.com/378?format=jpg)](https://design.withfudge.com/share/pin-378)
+[![Dark contact footer with oversized split headline 'LET'S BUILD' and 'TOGETHER', email link, social links, and decorative barcode glyph cluster](https://pin.fontofweb.com/378?format=jpg)](https://fudge.design/share/pin-378)
 
-[Dark contact footer with oversized split headline 'LET'S BUILD' and 'TOGETHER', email link, social links, and decorative barcode glyph cluster](https://design.withfudge.com/share/pin-378)
+[Dark contact footer with oversized split headline 'LET'S BUILD' and 'TOGETHER', email link, social links, and decorative barcode glyph cluster](https://fudge.design/share/pin-378)
 
-[![Full viewport contact section showing massive display typography, orange arrow indicator, and bottom social link row with external-link arrows](https://pin.fontofweb.com/377?format=jpg)](https://design.withfudge.com/share/pin-377)
+[![Full viewport contact section showing massive display typography, orange arrow indicator, and bottom social link row with external-link arrows](https://pin.fontofweb.com/377?format=jpg)](https://fudge.design/share/pin-377)
 
-[Full viewport contact section showing massive display typography, orange arrow indicator, and bottom social link row with external-link arrows](https://design.withfudge.com/share/pin-377)
+[Full viewport contact section showing massive display typography, orange arrow indicator, and bottom social link row with external-link arrows](https://fudge.design/share/pin-377)
 
-[![Blog listing section with 'LATEST FROM BLOG' display heading, category tags in mono, and article titles with dates aligned to edges](https://pin.fontofweb.com/376?format=jpg)](https://design.withfudge.com/share/pin-376)
+[![Blog listing section with 'LATEST FROM BLOG' display heading, category tags in mono, and article titles with dates aligned to edges](https://pin.fontofweb.com/376?format=jpg)](https://fudge.design/share/pin-376)
 
-[Blog listing section with 'LATEST FROM BLOG' display heading, category tags in mono, and article titles with dates aligned to edges](https://design.withfudge.com/share/pin-376)
+[Blog listing section with 'LATEST FROM BLOG' display heading, category tags in mono, and article titles with dates aligned to edges](https://fudge.design/share/pin-376)
 
-[![Diagonal skills marquee with orange text on white band and black text on warm gray band, showing continuous scrolling technology terms](https://pin.fontofweb.com/375?format=jpg)](https://design.withfudge.com/share/pin-375)
+[![Diagonal skills marquee with orange text on white band and black text on warm gray band, showing continuous scrolling technology terms](https://pin.fontofweb.com/375?format=jpg)](https://fudge.design/share/pin-375)
 
-[Diagonal skills marquee with orange text on white band and black text on warm gray band, showing continuous scrolling technology terms](https://design.withfudge.com/share/pin-375)
+[Diagonal skills marquee with orange text on white band and black text on warm gray band, showing continuous scrolling technology terms](https://fudge.design/share/pin-375)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Touch targets for social links and email should maintain minimum 44px height. Th
 ## Scope note
 
 This guide covers the visible desktop landing page, contact section, blog listing, and skills marquee. Mobile breakpoints, additional interior pages, form validation states, loading sequences, and detailed animation timing are not included. Measurements are practical adaptation targets derived from visual inspection of the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How limitless.framer.photos is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/limitless.framer.photos-design)
+[Open the live Fudge conversation](https://fudge.design/share/limitless.framer.photos-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing section with hero heading mixing Satoshi Medium and Instrument Serif Italic, service category pills, and dark near-black background with subtle depth layers](https://pin.fontofweb.com/9507?format=jpg)](https://design.withfudge.com/share/pin-9507)
+[![Pricing section with hero heading mixing Satoshi Medium and Instrument Serif Italic, service category pills, and dark near-black background with subtle depth layers](https://pin.fontofweb.com/9507?format=jpg)](https://fudge.design/share/pin-9507)
 
-[Pricing section with hero heading mixing Satoshi Medium and Instrument Serif Italic, service category pills, and dark near-black background with subtle depth layers](https://design.withfudge.com/share/pin-9507)
+[Pricing section with hero heading mixing Satoshi Medium and Instrument Serif Italic, service category pills, and dark near-black background with subtle depth layers](https://fudge.design/share/pin-9507)
 
-[![Solution section with mixed-type headline, descriptive body copy in muted gray, and two rows of rounded service pills with icons on dark background](https://pin.fontofweb.com/9506?format=jpg)](https://design.withfudge.com/share/pin-9506)
+[![Solution section with mixed-type headline, descriptive body copy in muted gray, and two rows of rounded service pills with icons on dark background](https://pin.fontofweb.com/9506?format=jpg)](https://fudge.design/share/pin-9506)
 
-[Solution section with mixed-type headline, descriptive body copy in muted gray, and two rows of rounded service pills with icons on dark background](https://design.withfudge.com/share/pin-9506)
+[Solution section with mixed-type headline, descriptive body copy in muted gray, and two rows of rounded service pills with icons on dark background](https://fudge.design/share/pin-9506)
 
 ## Overview
 
@@ -164,3 +164,18 @@ The mixed-type headline technique remains effective at all sizes but may require
 ## Scope note
 
 This guide covers the visible landing page surface including the Solution and Pricing sections with their headline structures, service category pills, and dark canvas system. Navigation, footer, pricing tables, form interactions, and additional page templates are not represented in the supplied images. Motion behavior, hover states, and mobile-specific layouts are not documented. The System-Sansserif family label appears in source data but resolves to standard system fonts in practice. Measurements derive from the retained exact values where available.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

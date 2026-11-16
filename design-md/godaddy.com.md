@@ -1,26 +1,26 @@
 # How godaddy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/godaddy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/godaddy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with bold question headers and expanded answer text on white background](https://pin.fontofweb.com/9215?format=jpg)](https://design.withfudge.com/share/pin-9215)
+[![FAQ accordion section with bold question headers and expanded answer text on white background](https://pin.fontofweb.com/9215?format=jpg)](https://fudge.design/share/pin-9215)
 
-[FAQ accordion section with bold question headers and expanded answer text on white background](https://design.withfudge.com/share/pin-9215)
+[FAQ accordion section with bold question headers and expanded answer text on white background](https://fudge.design/share/pin-9215)
 
-[![Video carousel with large lifestyle imagery and centered headline above FAQ section](https://pin.fontofweb.com/9214?format=jpg)](https://design.withfudge.com/share/pin-9214)
+[![Video carousel with large lifestyle imagery and centered headline above FAQ section](https://pin.fontofweb.com/9214?format=jpg)](https://fudge.design/share/pin-9214)
 
-[Video carousel with large lifestyle imagery and centered headline above FAQ section](https://design.withfudge.com/share/pin-9214)
+[Video carousel with large lifestyle imagery and centered headline above FAQ section](https://fudge.design/share/pin-9214)
 
-[![Feature card grid with rounded panels showing domain search, security, and business tools](https://pin.fontofweb.com/9213?format=jpg)](https://design.withfudge.com/share/pin-9213)
+[![Feature card grid with rounded panels showing domain search, security, and business tools](https://pin.fontofweb.com/9213?format=jpg)](https://fudge.design/share/pin-9213)
 
-[Feature card grid with rounded panels showing domain search, security, and business tools](https://design.withfudge.com/share/pin-9213)
+[Feature card grid with rounded panels showing domain search, security, and business tools](https://fudge.design/share/pin-9213)
 
-[![Airo testimonial section with split layout showing portrait photography and feature checklist](https://pin.fontofweb.com/9212?format=jpg)](https://design.withfudge.com/share/pin-9212)
+[![Airo testimonial section with split layout showing portrait photography and feature checklist](https://pin.fontofweb.com/9212?format=jpg)](https://fudge.design/share/pin-9212)
 
-[Airo testimonial section with split layout showing portrait photography and feature checklist](https://design.withfudge.com/share/pin-9212)
+[Airo testimonial section with split layout showing portrait photography and feature checklist](https://fudge.design/share/pin-9212)
 
 ## Overview
 
@@ -214,3 +214,18 @@ The video carousel should transition to a single-slide view on mobile with swipe
 ## Scope note
 
 This guide covers the marketing and product explanation surfaces visible on GoDaddy's homepage and Airo builder pages. It does not include account dashboard interfaces, checkout flows, domain search result pages, or mobile-specific navigation patterns. Motion specifications, hover states, and loading skeletons are not documented from the available material. The Gd Sherpa-Text Thin font file is the delivered source for all Gd Sherpa weights in this system. Measurements reflect the extracted interface values and should be verified against current production implementations.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

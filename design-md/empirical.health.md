@@ -1,18 +1,18 @@
 # How empirical.health is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/empirical.health-design)
+[Open the live Fudge conversation](https://fudge.design/share/empirical.health-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with warm terracotta gradient, white headline, and pill CTA over lifestyle photography of older adult with phone](https://pin.fontofweb.com/3215?format=jpg)](https://design.withfudge.com/share/pin-3215)
+[![Hero banner with warm terracotta gradient, white headline, and pill CTA over lifestyle photography of older adult with phone](https://pin.fontofweb.com/3215?format=jpg)](https://fudge.design/share/pin-3215)
 
-[Hero banner with warm terracotta gradient, white headline, and pill CTA over lifestyle photography of older adult with phone](https://design.withfudge.com/share/pin-3215)
+[Hero banner with warm terracotta gradient, white headline, and pill CTA over lifestyle photography of older adult with phone](https://fudge.design/share/pin-3215)
 
-[![Blog article page with centered black headline, terracotta accent banner, navigation bar, and blockquote with left border](https://pin.fontofweb.com/3214?format=jpg)](https://design.withfudge.com/share/pin-3214)
+[![Blog article page with centered black headline, terracotta accent banner, navigation bar, and blockquote with left border](https://pin.fontofweb.com/3214?format=jpg)](https://fudge.design/share/pin-3214)
 
-[Blog article page with centered black headline, terracotta accent banner, navigation bar, and blockquote with left border](https://design.withfudge.com/share/pin-3214)
+[Blog article page with centered black headline, terracotta accent banner, navigation bar, and blockquote with left border](https://fudge.design/share/pin-3214)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Navigation dropdowns would convert to a mobile menu pattern, though the specific
 ## Scope note
 
 This guide covers the blog article page and promotional footer visible in the supplied material. Mobile breakpoints, hover and focus states, form components, loading patterns, and the complete icon set are not represented. Measurements are practical adaptation targets derived from the visible desktop layout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

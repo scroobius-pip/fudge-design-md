@@ -1,26 +1,26 @@
 # How phrasing.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/phrasing.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/phrasing.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Language Graph feature section with isometric card illustrations and bold heading over light background](https://pin.fontofweb.com/6190?format=jpg)](https://design.withfudge.com/share/pin-6190)
+[![Language Graph feature section with isometric card illustrations and bold heading over light background](https://pin.fontofweb.com/6190?format=jpg)](https://fudge.design/share/pin-6190)
 
-[Language Graph feature section with isometric card illustrations and bold heading over light background](https://design.withfudge.com/share/pin-6190)
+[Language Graph feature section with isometric card illustrations and bold heading over light background](https://fudge.design/share/pin-6190)
 
-[![Engineered for results grid showing four feature cards with 3D app mockups and purple accent labels](https://pin.fontofweb.com/6189?format=jpg)](https://design.withfudge.com/share/pin-6189)
+[![Engineered for results grid showing four feature cards with 3D app mockups and purple accent labels](https://pin.fontofweb.com/6189?format=jpg)](https://fudge.design/share/pin-6189)
 
-[Engineered for results grid showing four feature cards with 3D app mockups and purple accent labels](https://design.withfudge.com/share/pin-6189)
+[Engineered for results grid showing four feature cards with 3D app mockups and purple accent labels](https://fudge.design/share/pin-6189)
 
-[![FAQ accordion with expanded answer revealing paragraph text and plus-minus toggle controls](https://pin.fontofweb.com/6188?format=jpg)](https://design.withfudge.com/share/pin-6188)
+[![FAQ accordion with expanded answer revealing paragraph text and plus-minus toggle controls](https://pin.fontofweb.com/6188?format=jpg)](https://fudge.design/share/pin-6188)
 
-[FAQ accordion with expanded answer revealing paragraph text and plus-minus toggle controls](https://design.withfudge.com/share/pin-6188)
+[FAQ accordion with expanded answer revealing paragraph text and plus-minus toggle controls](https://fudge.design/share/pin-6188)
 
-[![Footer with iPhone device frames showing multilingual app screens and brand mark with social links](https://pin.fontofweb.com/6187?format=jpg)](https://design.withfudge.com/share/pin-6187)
+[![Footer with iPhone device frames showing multilingual app screens and brand mark with social links](https://pin.fontofweb.com/6187?format=jpg)](https://fudge.design/share/pin-6187)
 
-[Footer with iPhone device frames showing multilingual app screens and brand mark with social links](https://design.withfudge.com/share/pin-6187)
+[Footer with iPhone device frames showing multilingual app screens and brand mark with social links](https://fudge.design/share/pin-6187)
 
 ## Overview
 
@@ -226,3 +226,18 @@ The visible desktop layout suggests a single-column stacking for narrower viewpo
 ## Scope note
 
 This guide covers the Phrasing.app marketing page surface including hero, features grid, FAQ accordion, and footer with device mockups. Pricing tables, authentication flows, in-app interfaces, mobile navigation behavior, animation specifications, and dark mode are not represented in the supplied material. Inter-Italic is available in the font set but not visibly deployed in the captured interface states.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

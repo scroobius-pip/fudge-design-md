@@ -1,26 +1,26 @@
 # How jace.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jace.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/jace.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer and final call-to-action section with dark rounded panel, FAQ accordion, and pastel gradient landscape illustration](https://pin.fontofweb.com/8614?format=jpg)](https://design.withfudge.com/share/pin-8614)
+[![Footer and final call-to-action section with dark rounded panel, FAQ accordion, and pastel gradient landscape illustration](https://pin.fontofweb.com/8614?format=jpg)](https://fudge.design/share/pin-8614)
 
-[Footer and final call-to-action section with dark rounded panel, FAQ accordion, and pastel gradient landscape illustration](https://design.withfudge.com/share/pin-8614)
+[Footer and final call-to-action section with dark rounded panel, FAQ accordion, and pastel gradient landscape illustration](https://fudge.design/share/pin-8614)
 
-[![Testimonial carousel with portrait photo on lavender background, quote in serif type, and pagination dots](https://pin.fontofweb.com/8613?format=jpg)](https://design.withfudge.com/share/pin-8613)
+[![Testimonial carousel with portrait photo on lavender background, quote in serif type, and pagination dots](https://pin.fontofweb.com/8613?format=jpg)](https://fudge.design/share/pin-8613)
 
-[Testimonial carousel with portrait photo on lavender background, quote in serif type, and pagination dots](https://design.withfudge.com/share/pin-8613)
+[Testimonial carousel with portrait photo on lavender background, quote in serif type, and pagination dots](https://fudge.design/share/pin-8613)
 
-[![AI Labels feature section with split layout, product screenshot on watercolor gradient, and dotted divider rule](https://pin.fontofweb.com/8612?format=jpg)](https://design.withfudge.com/share/pin-8612)
+[![AI Labels feature section with split layout, product screenshot on watercolor gradient, and dotted divider rule](https://pin.fontofweb.com/8612?format=jpg)](https://fudge.design/share/pin-8612)
 
-[AI Labels feature section with split layout, product screenshot on watercolor gradient, and dotted divider rule](https://design.withfudge.com/share/pin-8612)
+[AI Labels feature section with split layout, product screenshot on watercolor gradient, and dotted divider rule](https://fudge.design/share/pin-8612)
 
-[![AI Email Drafts feature section with cream panel, dark compose UI mockup on purple-yellow watercolor, and feature list with icon](https://pin.fontofweb.com/8611?format=jpg)](https://design.withfudge.com/share/pin-8611)
+[![AI Email Drafts feature section with cream panel, dark compose UI mockup on purple-yellow watercolor, and feature list with icon](https://pin.fontofweb.com/8611?format=jpg)](https://fudge.design/share/pin-8611)
 
-[AI Email Drafts feature section with cream panel, dark compose UI mockup on purple-yellow watercolor, and feature list with icon](https://design.withfudge.com/share/pin-8611)
+[AI Email Drafts feature section with cream panel, dark compose UI mockup on purple-yellow watercolor, and feature list with icon](https://fudge.design/share/pin-8611)
 
 ## Overview
 
@@ -205,3 +205,18 @@ The design is documented from desktop viewport widths. The narrow content measur
 ## Scope note
 
 This guide covers the Jace AI homepage including hero, feature sections, testimonial carousel, FAQ accordion, call-to-action panel, and footer. Pricing pages, authentication flows, and in-product interface chrome are not represented. Motion behavior for the testimonial carousel, FAQ expand/collapse transitions, and any scroll-triggered animations are not documented from still images.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Landing page](/share/designs-with-page.marketing.landing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

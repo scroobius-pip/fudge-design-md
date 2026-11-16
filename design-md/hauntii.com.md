@@ -1,18 +1,18 @@
 # How hauntii.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hauntii.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hauntii.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with hand-drawn ghost illustration, OUT NOW display text, and platform store links on black background](https://pin.fontofweb.com/10491?format=jpg)](https://design.withfudge.com/share/pin-10491)
+[![Hero section with hand-drawn ghost illustration, OUT NOW display text, and platform store links on black background](https://pin.fontofweb.com/10491?format=jpg)](https://fudge.design/share/pin-10491)
 
-[Hero section with hand-drawn ghost illustration, OUT NOW display text, and platform store links on black background](https://design.withfudge.com/share/pin-10491)
+[Hero section with hand-drawn ghost illustration, OUT NOW display text, and platform store links on black background](https://fudge.design/share/pin-10491)
 
-[![Full landing page showing Hauntii title, central spiral ghost artwork, and bottom CTA buttons with platform badges](https://pin.fontofweb.com/10490?format=jpg)](https://design.withfudge.com/share/pin-10490)
+[![Full landing page showing Hauntii title, central spiral ghost artwork, and bottom CTA buttons with platform badges](https://pin.fontofweb.com/10490?format=jpg)](https://fudge.design/share/pin-10490)
 
-[Full landing page showing Hauntii title, central spiral ghost artwork, and bottom CTA buttons with platform badges](https://design.withfudge.com/share/pin-10490)
+[Full landing page showing Hauntii title, central spiral ghost artwork, and bottom CTA buttons with platform badges](https://fudge.design/share/pin-10490)
 
 ## Overview
 
@@ -156,3 +156,18 @@ Touch targets for the pill buttons should expand to at least 44px height on poin
 ## Scope note
 
 This guide covers the single-page landing experience visible in the supplied captures. Interior pages, additional breakpoints, motion design, hover states, and form interactions are not represented. The platform badge links and their destination behaviors are assumed but not verified. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

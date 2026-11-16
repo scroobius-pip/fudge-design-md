@@ -1,26 +1,26 @@
 # How ventionteams.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ventionteams.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ventionteams.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Portfolio page showing the Industries dropdown menu expanded over project cards for ClassPass and Bevi with a coral Contact us button in the header.](https://pin.fontofweb.com/7354?format=jpg)](https://design.withfudge.com/share/pin-7354)
+[![Portfolio page showing the Industries dropdown menu expanded over project cards for ClassPass and Bevi with a coral Contact us button in the header.](https://pin.fontofweb.com/7354?format=jpg)](https://fudge.design/share/pin-7354)
 
-[Portfolio page showing the Industries dropdown menu expanded over project cards for ClassPass and Bevi with a coral Contact us button in the header.](https://design.withfudge.com/share/pin-7354)
+[Portfolio page showing the Industries dropdown menu expanded over project cards for ClassPass and Bevi with a coral Contact us button in the header.](https://fudge.design/share/pin-7354)
 
-[![Our expertise section with a left sidebar navigation and a two-column grid of underlined service links on a light gray background.](https://pin.fontofweb.com/7353?format=jpg)](https://design.withfudge.com/share/pin-7353)
+[![Our expertise section with a left sidebar navigation and a two-column grid of underlined service links on a light gray background.](https://pin.fontofweb.com/7353?format=jpg)](https://fudge.design/share/pin-7353)
 
-[Our expertise section with a left sidebar navigation and a two-column grid of underlined service links on a light gray background.](https://design.withfudge.com/share/pin-7353)
+[Our expertise section with a left sidebar navigation and a two-column grid of underlined service links on a light gray background.](https://fudge.design/share/pin-7353)
 
-[![Numbers we're proud of statistics grid with large burgundy numerals 500+, $15B+, 36, 20+, 20+, 3K+ separated by hairline borders.](https://pin.fontofweb.com/7352?format=jpg)](https://design.withfudge.com/share/pin-7352)
+[![Numbers we're proud of statistics grid with large burgundy numerals 500+, $15B+, 36, 20+, 20+, 3K+ separated by hairline borders.](https://pin.fontofweb.com/7352?format=jpg)](https://fudge.design/share/pin-7352)
 
-[Numbers we're proud of statistics grid with large burgundy numerals 500+, $15B+, 36, 20+, 20+, 3K+ separated by hairline borders.](https://design.withfudge.com/share/pin-7352)
+[Numbers we're proud of statistics grid with large burgundy numerals 500+, $15B+, 36, 20+, 20+, 3K+ separated by hairline borders.](https://fudge.design/share/pin-7352)
 
-[![Accordion feature section with a team collaboration photograph on the left and expandable items with burgundy titles and checkmark lists on the right.](https://pin.fontofweb.com/7351?format=jpg)](https://design.withfudge.com/share/pin-7351)
+[![Accordion feature section with a team collaboration photograph on the left and expandable items with burgundy titles and checkmark lists on the right.](https://pin.fontofweb.com/7351?format=jpg)](https://fudge.design/share/pin-7351)
 
-[Accordion feature section with a team collaboration photograph on the left and expandable items with burgundy titles and checkmark lists on the right.](https://design.withfudge.com/share/pin-7351)
+[Accordion feature section with a team collaboration photograph on the left and expandable items with burgundy titles and checkmark lists on the right.](https://fudge.design/share/pin-7351)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Accordion items maintain full width across breakpoints, with internal padding re
 ## Scope note
 
 This guide covers the homepage and portfolio page surfaces visible in the supplied images, including header navigation, hero sections, statistics grids, expertise directories, accordion features, and portfolio cards. Footer behavior, mobile breakpoints, form interactions, and motion design are not represented in the available material. System-Systemui appears in the source but is not used in any visible component documented here. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

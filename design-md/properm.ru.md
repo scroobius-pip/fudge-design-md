@@ -1,18 +1,18 @@
 # How properm.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/properm.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/properm.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body text showing Open Sans at 18px with 30px line height, featuring weather forecast paragraphs with bold lead sentence and regular body copy](https://pin.fontofweb.com/9166?format=jpg)](https://design.withfudge.com/share/pin-9166)
+[![Article body text showing Open Sans at 18px with 30px line height, featuring weather forecast paragraphs with bold lead sentence and regular body copy](https://pin.fontofweb.com/9166?format=jpg)](https://fudge.design/share/pin-9166)
 
-[Article body text showing Open Sans at 18px with 30px line height, featuring weather forecast paragraphs with bold lead sentence and regular body copy](https://design.withfudge.com/share/pin-9166)
+[Article body text showing Open Sans at 18px with 30px line height, featuring weather forecast paragraphs with bold lead sentence and regular body copy](https://fudge.design/share/pin-9166)
 
-[![Identical article layout demonstrating consistent typography and spacing with bold introductory paragraph followed by regular weight body text blocks](https://pin.fontofweb.com/9165?format=jpg)](https://design.withfudge.com/share/pin-9165)
+[![Identical article layout demonstrating consistent typography and spacing with bold introductory paragraph followed by regular weight body text blocks](https://pin.fontofweb.com/9165?format=jpg)](https://fudge.design/share/pin-9165)
 
-[Identical article layout demonstrating consistent typography and spacing with bold introductory paragraph followed by regular weight body text blocks](https://design.withfudge.com/share/pin-9165)
+[Identical article layout demonstrating consistent typography and spacing with bold introductory paragraph followed by regular weight body text blocks](https://fudge.design/share/pin-9165)
 
 ## Overview
 
@@ -143,3 +143,18 @@ No breakpoint-specific behavior is visible in the supplied material. Implementat
 ## Scope note
 
 This guide covers the article reading surface of Properm.ru as visible in the supplied material. Navigation headers, footers, category pages, homepage layouts, comment sections, and mobile-specific adaptations are not represented. No interactive states, form elements, or advertising integrations are documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

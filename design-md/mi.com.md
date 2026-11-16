@@ -1,26 +1,26 @@
 # How mi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Night photography showcase with fiery orange imagery and red headline text on deep black canvas with carousel indicators](https://pin.fontofweb.com/2482?format=jpg)](https://design.withfudge.com/share/pin-2482)
+[![Night photography showcase with fiery orange imagery and red headline text on deep black canvas with carousel indicators](https://pin.fontofweb.com/2482?format=jpg)](https://fudge.design/share/pin-2482)
 
-[Night photography showcase with fiery orange imagery and red headline text on deep black canvas with carousel indicators](https://design.withfudge.com/share/pin-2482)
+[Night photography showcase with fiery orange imagery and red headline text on deep black canvas with carousel indicators](https://fudge.design/share/pin-2482)
 
-[![Camera module hero with warm gradient background transitioning from peach to dark, featuring large white display typography and partnership body copy](https://pin.fontofweb.com/2481?format=jpg)](https://design.withfudge.com/share/pin-2481)
+[![Camera module hero with warm gradient background transitioning from peach to dark, featuring large white display typography and partnership body copy](https://pin.fontofweb.com/2481?format=jpg)](https://fudge.design/share/pin-2481)
 
-[Camera module hero with warm gradient background transitioning from peach to dark, featuring large white display typography and partnership body copy](https://design.withfudge.com/share/pin-2481)
+[Camera module hero with warm gradient background transitioning from peach to dark, featuring large white display typography and partnership body copy](https://fudge.design/share/pin-2481)
 
-[![Durability section with exploded phone render, coral accent headlines, and three dark specification cards with percentage statistics](https://pin.fontofweb.com/2480?format=jpg)](https://design.withfudge.com/share/pin-2480)
+[![Durability section with exploded phone render, coral accent headlines, and three dark specification cards with percentage statistics](https://pin.fontofweb.com/2480?format=jpg)](https://fudge.design/share/pin-2480)
 
-[Durability section with exploded phone render, coral accent headlines, and three dark specification cards with percentage statistics](https://design.withfudge.com/share/pin-2480)
+[Durability section with exploded phone render, coral accent headlines, and three dark specification cards with percentage statistics](https://fudge.design/share/pin-2480)
 
-[![Design details grid showing phone curves and camera deco with rounded image panels and subtle border treatments on black background](https://pin.fontofweb.com/2479?format=jpg)](https://design.withfudge.com/share/pin-2479)
+[![Design details grid showing phone curves and camera deco with rounded image panels and subtle border treatments on black background](https://pin.fontofweb.com/2479?format=jpg)](https://fudge.design/share/pin-2479)
 
-[Design details grid showing phone curves and camera deco with rounded image panels and subtle border treatments on black background](https://design.withfudge.com/share/pin-2479)
+[Design details grid showing phone curves and camera deco with rounded image panels and subtle border treatments on black background](https://fudge.design/share/pin-2479)
 
 ## Overview
 
@@ -138,3 +138,18 @@ The design is captured at desktop viewport width and assumes a landscape-oriente
 ## Scope note
 
 This guide covers the Xiaomi 15 Ultra product page as captured in desktop viewport states. Mobile layouts, navigation systems, footer content, e-commerce flows, and interactive states including hover, focus, and loading are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions. The global homepage and other product pages may extend or vary this system.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Consumer products](/share/designs-with-industry.consumer_products)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

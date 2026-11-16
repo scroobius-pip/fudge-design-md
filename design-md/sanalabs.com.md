@@ -1,26 +1,26 @@
 # How sanalabs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sanalabs.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sanalabs.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Careers page hero with employee portrait quote and lime-green principles section with navigation header](https://pin.fontofweb.com/10198?format=jpg)](https://design.withfudge.com/share/pin-10198)
+[![Careers page hero with employee portrait quote and lime-green principles section with navigation header](https://pin.fontofweb.com/10198?format=jpg)](https://fudge.design/share/pin-10198)
 
-[Careers page hero with employee portrait quote and lime-green principles section with navigation header](https://design.withfudge.com/share/pin-10198)
+[Careers page hero with employee portrait quote and lime-green principles section with navigation header](https://fudge.design/share/pin-10198)
 
-[![Company mission section with split headline and body text above large portrait video thumbnail](https://pin.fontofweb.com/10200?format=jpg)](https://design.withfudge.com/share/pin-10200)
+[![Company mission section with split headline and body text above large portrait video thumbnail](https://pin.fontofweb.com/10200?format=jpg)](https://fudge.design/share/pin-10200)
 
-[Company mission section with split headline and body text above large portrait video thumbnail](https://design.withfudge.com/share/pin-10200)
+[Company mission section with split headline and body text above large portrait video thumbnail](https://fudge.design/share/pin-10200)
 
-[![Office interior carousel showing London workspace with warm lighting and location selector thumbnails](https://pin.fontofweb.com/10199?format=jpg)](https://design.withfudge.com/share/pin-10199)
+[![Office interior carousel showing London workspace with warm lighting and location selector thumbnails](https://pin.fontofweb.com/10199?format=jpg)](https://fudge.design/share/pin-10199)
 
-[Office interior carousel showing London workspace with warm lighting and location selector thumbnails](https://design.withfudge.com/share/pin-10199)
+[Office interior carousel showing London workspace with warm lighting and location selector thumbnails](https://fudge.design/share/pin-10199)
 
-[![Dark moody office interior with Stockholm London New York location text overlay and carousel thumbnails](https://pin.fontofweb.com/10201?format=jpg)](https://design.withfudge.com/share/pin-10201)
+[![Dark moody office interior with Stockholm London New York location text overlay and carousel thumbnails](https://pin.fontofweb.com/10201?format=jpg)](https://fudge.design/share/pin-10201)
 
-[Dark moody office interior with Stockholm London New York location text overlay and carousel thumbnails](https://design.withfudge.com/share/pin-10201)
+[Dark moody office interior with Stockholm London New York location text overlay and carousel thumbnails](https://fudge.design/share/pin-10201)
 
 ## Overview
 
@@ -156,3 +156,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the careers and about page surfaces with their hero sections, location photography, principles display, and navigation patterns. Homepage-specific hero treatments, product pages, and any interactive states beyond static presentation are not represented. Motion behavior, mobile breakpoints, and form components fall outside the current scope. The 2px relative unit underlies the spacing scale; all values are production-ready implementations. Applesystem and Times appear in the source data as system-level families but do not appear in the visible interface; Sana Sans Vf is the sole active typeface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

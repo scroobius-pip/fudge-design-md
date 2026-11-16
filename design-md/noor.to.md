@@ -1,22 +1,22 @@
 # How noor.to is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/noor.to-design)
+[Open the live Fudge conversation](https://fudge.design/share/noor.to-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with multi-column link grid, Noor logo mark, and copyright notice on white background](https://pin.fontofweb.com/3?format=jpg)](https://design.withfudge.com/share/pin-3)
+[![Footer with multi-column link grid, Noor logo mark, and copyright notice on white background](https://pin.fontofweb.com/3?format=jpg)](https://fudge.design/share/pin-3)
 
-[Footer with multi-column link grid, Noor logo mark, and copyright notice on white background](https://design.withfudge.com/share/pin-3)
+[Footer with multi-column link grid, Noor logo mark, and copyright notice on white background](https://fudge.design/share/pin-3)
 
-[![Changelog timeline with date labels in muted gray and release titles in bold black text](https://pin.fontofweb.com/2?format=jpg)](https://design.withfudge.com/share/pin-2)
+[![Changelog timeline with date labels in muted gray and release titles in bold black text](https://pin.fontofweb.com/2?format=jpg)](https://fudge.design/share/pin-2)
 
-[Changelog timeline with date labels in muted gray and release titles in bold black text](https://design.withfudge.com/share/pin-2)
+[Changelog timeline with date labels in muted gray and release titles in bold black text](https://fudge.design/share/pin-2)
 
-[![Hero section with large headline, blue and black action buttons, and app screenshot on orange gradient background](https://pin.fontofweb.com/1?format=jpg)](https://design.withfudge.com/share/pin-1)
+[![Hero section with large headline, blue and black action buttons, and app screenshot on orange gradient background](https://pin.fontofweb.com/1?format=jpg)](https://fudge.design/share/pin-1)
 
-[Hero section with large headline, blue and black action buttons, and app screenshot on orange gradient background](https://design.withfudge.com/share/pin-1)
+[Hero section with large headline, blue and black action buttons, and app screenshot on orange gradient background](https://fudge.design/share/pin-1)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The hero screenshot should maintain aspect ratio while scaling down, potentially
 ## Scope note
 
 This guide covers the Noor landing page hero, changelog, and footer sections visible in the supplied materials. Mobile layouts, additional interior pages, dark mode, loading states, and motion design are not represented. The app interface shown within the screenshot has its own internal design system not documented here. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

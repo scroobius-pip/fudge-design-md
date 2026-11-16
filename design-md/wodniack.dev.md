@@ -1,26 +1,26 @@
 # How wodniack.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wodniack.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/wodniack.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with radiating red sunburst pattern, black display typography reading CODING MY WAY SINCE 1997, and small floating image fragments converging toward center](https://pin.fontofweb.com/1334?format=jpg)](https://design.withfudge.com/share/pin-1334)
+[![Hero section with radiating red sunburst pattern, black display typography reading CODING MY WAY SINCE 1997, and small floating image fragments converging toward center](https://pin.fontofweb.com/1334?format=jpg)](https://fudge.design/share/pin-1334)
 
-[Hero section with radiating red sunburst pattern, black display typography reading CODING MY WAY SINCE 1997, and small floating image fragments converging toward center](https://design.withfudge.com/share/pin-1334)
+[Hero section with radiating red sunburst pattern, black display typography reading CODING MY WAY SINCE 1997, and small floating image fragments converging toward center](https://fudge.design/share/pin-1334)
 
-[![Work showcase grid with two project thumbnails floating over repeating red WORK pattern on black, including blue recruitment site and silver faucet product page](https://pin.fontofweb.com/1333?format=jpg)](https://design.withfudge.com/share/pin-1333)
+[![Work showcase grid with two project thumbnails floating over repeating red WORK pattern on black, including blue recruitment site and silver faucet product page](https://pin.fontofweb.com/1333?format=jpg)](https://fudge.design/share/pin-1333)
 
-[Work showcase grid with two project thumbnails floating over repeating red WORK pattern on black, including blue recruitment site and silver faucet product page](https://design.withfudge.com/share/pin-1333)
+[Work showcase grid with two project thumbnails floating over repeating red WORK pattern on black, including blue recruitment site and silver faucet product page](https://fudge.design/share/pin-1333)
 
-[![Full-bleed typographic background with staggered red WORK letters on black dotted texture, with small dark project list card in lower right corner](https://pin.fontofweb.com/1332?format=jpg)](https://design.withfudge.com/share/pin-1332)
+[![Full-bleed typographic background with staggered red WORK letters on black dotted texture, with small dark project list card in lower right corner](https://pin.fontofweb.com/1332?format=jpg)](https://fudge.design/share/pin-1332)
 
-[Full-bleed typographic background with staggered red WORK letters on black dotted texture, with small dark project list card in lower right corner](https://design.withfudge.com/share/pin-1332)
+[Full-bleed typographic background with staggered red WORK letters on black dotted texture, with small dark project list card in lower right corner](https://fudge.design/share/pin-1332)
 
-[![Vertical WORK badge in rounded black pill with red lettering, centered on bright red grid background with thin structural lines](https://pin.fontofweb.com/1331?format=jpg)](https://design.withfudge.com/share/pin-1331)
+[![Vertical WORK badge in rounded black pill with red lettering, centered on bright red grid background with thin structural lines](https://pin.fontofweb.com/1331?format=jpg)](https://fudge.design/share/pin-1331)
 
-[Vertical WORK badge in rounded black pill with red lettering, centered on bright red grid background with thin structural lines](https://design.withfudge.com/share/pin-1331)
+[Vertical WORK badge in rounded black pill with red lettering, centered on bright red grid background with thin structural lines](https://fudge.design/share/pin-1331)
 
 ## Overview
 
@@ -152,3 +152,18 @@ The vertical WORK badge may rotate to horizontal or collapse to a compact pill f
 ## Scope note
 
 This guide covers the homepage and primary portfolio presentation surfaces visible in the supplied images. Interior project pages, contact forms, and motion behavior are not represented. Measurements are practical adaptation targets. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Personal](/share/designs-with-industry.personal)
+- [Display or decorative](/share/designs-with-typography.generic.display_decorative)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

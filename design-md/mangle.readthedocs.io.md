@@ -1,18 +1,18 @@
 # How mangle.readthedocs.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mangle.readthedocs.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/mangle.readthedocs.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Main content area showing Datalog code blocks with steel-blue section headers, data tables with blue column headers, and collapsible SQL translation panels with right-aligned](https://pin.fontofweb.com/6083?format=jpg)](https://design.withfudge.com/share/pin-6083)
+[![Main content area showing Datalog code blocks with steel-blue section headers, data tables with blue column headers, and collapsible SQL translation panels with right-aligned](https://pin.fontofweb.com/6083?format=jpg)](https://fudge.design/share/pin-6083)
 
-[Main content area showing Datalog code blocks with steel-blue section headers, data tables with blue column headers, and collapsible SQL translation panels with right-aligned](https://design.withfudge.com/share/pin-6083)
+[Main content area showing Datalog code blocks with steel-blue section headers, data tables with blue column headers, and collapsible SQL translation panels with right-aligned](https://fudge.design/share/pin-6083)
 
-[![Full page layout with left sidebar navigation featuring steel-blue section headers, breadcrumb trail, main article with inline code and syntax-highlighted blocks, and top](https://pin.fontofweb.com/6082?format=jpg)](https://design.withfudge.com/share/pin-6082)
+[![Full page layout with left sidebar navigation featuring steel-blue section headers, breadcrumb trail, main article with inline code and syntax-highlighted blocks, and top](https://pin.fontofweb.com/6082?format=jpg)](https://fudge.design/share/pin-6082)
 
-[Full page layout with left sidebar navigation featuring steel-blue section headers, breadcrumb trail, main article with inline code and syntax-highlighted blocks, and top](https://design.withfudge.com/share/pin-6082)
+[Full page layout with left sidebar navigation featuring steel-blue section headers, breadcrumb trail, main article with inline code and syntax-highlighted blocks, and top](https://fudge.design/share/pin-6082)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Font sizes should remain consistent across breakpoints; this documentation desig
 ## Scope note
 
 This guide covers the documentation page surface visible in the supplied images, specifically the "Getting to know Datalog" article and its surrounding navigation structure. Mobile layouts, print styles, search results pages, and dark mode are not represented. Hover states, focus styles, and active navigation indicators beyond the visible static state are not documented. The exact syntax highlighting color palette within code blocks is partially visible but not fully specified.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Documentation article](/share/designs-with-page.documentation.article)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

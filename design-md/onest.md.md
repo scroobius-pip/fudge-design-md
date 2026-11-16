@@ -1,26 +1,26 @@
 # How onest.md is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/onest.md-design)
+[Open the live Fudge conversation](https://fudge.design/share/onest.md-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Wireframe outline of the word 'onest' with construction nodes against a light background, paired with Romanian body copy about the font's voice.](https://pin.fontofweb.com/4268?format=jpg)](https://design.withfudge.com/share/pin-4268)
+[![Wireframe outline of the word 'onest' with construction nodes against a light background, paired with Romanian body copy about the font's voice.](https://pin.fontofweb.com/4268?format=jpg)](https://fudge.design/share/pin-4268)
 
-[Wireframe outline of the word 'onest' with construction nodes against a light background, paired with Romanian body copy about the font's voice.](https://design.withfudge.com/share/pin-4268)
+[Wireframe outline of the word 'onest' with construction nodes against a light background, paired with Romanian body copy about the font's voice.](https://fudge.design/share/pin-4268)
 
-[![Bold lowercase 'timp:' wordmark inside a rounded card with blue colon dots, accompanied by explanatory text about contextual adaptation.](https://pin.fontofweb.com/4267?format=jpg)](https://design.withfudge.com/share/pin-4267)
+[![Bold lowercase 'timp:' wordmark inside a rounded card with blue colon dots, accompanied by explanatory text about contextual adaptation.](https://pin.fontofweb.com/4267?format=jpg)](https://fudge.design/share/pin-4267)
 
-[Bold lowercase 'timp:' wordmark inside a rounded card with blue colon dots, accompanied by explanatory text about contextual adaptation.](https://design.withfudge.com/share/pin-4267)
+[Bold lowercase 'timp:' wordmark inside a rounded card with blue colon dots, accompanied by explanatory text about contextual adaptation.](https://fudge.design/share/pin-4267)
 
-[![Alphabet specimen showing black and blue paired letterforms demonstrating the font's intelligent contextual alternates.](https://pin.fontofweb.com/4266?format=jpg)](https://design.withfudge.com/share/pin-4266)
+[![Alphabet specimen showing black and blue paired letterforms demonstrating the font's intelligent contextual alternates.](https://pin.fontofweb.com/4266?format=jpg)](https://fudge.design/share/pin-4266)
 
-[Alphabet specimen showing black and blue paired letterforms demonstrating the font's intelligent contextual alternates.](https://design.withfudge.com/share/pin-4266)
+[Alphabet specimen showing black and blue paired letterforms demonstrating the font's intelligent contextual alternates.](https://fudge.design/share/pin-4266)
 
-[![Section header 'Mai multă comoditate' above a large white interactive demo card with two black asterisks.](https://pin.fontofweb.com/4265?format=jpg)](https://design.withfudge.com/share/pin-4265)
+[![Section header 'Mai multă comoditate' above a large white interactive demo card with two black asterisks.](https://pin.fontofweb.com/4265?format=jpg)](https://fudge.design/share/pin-4265)
 
-[Section header 'Mai multă comoditate' above a large white interactive demo card with two black asterisks.](https://design.withfudge.com/share/pin-4265)
+[Section header 'Mai multă comoditate' above a large white interactive demo card with two black asterisks.](https://fudge.design/share/pin-4265)
 
 ## Overview
 
@@ -153,3 +153,18 @@ Touch targets for any interactive demo areas should be at least 44px in height, 
 ## Scope note
 
 This guide covers the landing page presentation of the Onest typeface, including construction diagrams, feature cards, glyph specimens, and interactive demo areas. Measurements are practical adaptation targets. Unseen items—mobile breakpoints, navigation systems, footer content, form validation states, motion or animation, and dark mode—are not included and should be designed to match the established typographic and spatial principles.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Product detail](/share/designs-with-page.commerce.product_detail)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

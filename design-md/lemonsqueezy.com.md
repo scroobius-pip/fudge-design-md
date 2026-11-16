@@ -1,26 +1,26 @@
 # How lemonsqueezy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lemonsqueezy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lemonsqueezy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with bold white headline on vibrant purple background, yellow announcement banner, and star testimonials](https://pin.fontofweb.com/4947?format=jpg)](https://design.withfudge.com/share/pin-4947)
+[![Hero section with bold white headline on vibrant purple background, yellow announcement banner, and star testimonials](https://pin.fontofweb.com/4947?format=jpg)](https://fudge.design/share/pin-4947)
 
-[Hero section with bold white headline on vibrant purple background, yellow announcement banner, and star testimonials](https://design.withfudge.com/share/pin-4947)
+[Hero section with bold white headline on vibrant purple background, yellow announcement banner, and star testimonials](https://fudge.design/share/pin-4947)
 
-[![Footer with four-column link grid on purple background, white section headers and muted link text](https://pin.fontofweb.com/4946?format=jpg)](https://design.withfudge.com/share/pin-4946)
+[![Footer with four-column link grid on purple background, white section headers and muted link text](https://pin.fontofweb.com/4946?format=jpg)](https://fudge.design/share/pin-4946)
 
-[Footer with four-column link grid on purple background, white section headers and muted link text](https://design.withfudge.com/share/pin-4946)
+[Footer with four-column link grid on purple background, white section headers and muted link text](https://fudge.design/share/pin-4946)
 
-[![FAQ accordion section with light pink background, numbered questions, and magenta accent indicators](https://pin.fontofweb.com/4945?format=jpg)](https://design.withfudge.com/share/pin-4945)
+[![FAQ accordion section with light pink background, numbered questions, and magenta accent indicators](https://pin.fontofweb.com/4945?format=jpg)](https://fudge.design/share/pin-4945)
 
-[FAQ accordion section with light pink background, numbered questions, and magenta accent indicators](https://design.withfudge.com/share/pin-4945)
+[FAQ accordion section with light pink background, numbered questions, and magenta accent indicators](https://fudge.design/share/pin-4945)
 
-[![Dark custom pricing section with laptop dashboard mockup and white pill button on black background](https://pin.fontofweb.com/4944?format=jpg)](https://design.withfudge.com/share/pin-4944)
+[![Dark custom pricing section with laptop dashboard mockup and white pill button on black background](https://pin.fontofweb.com/4944?format=jpg)](https://fudge.design/share/pin-4944)
 
-[Dark custom pricing section with laptop dashboard mockup and white pill button on black background](https://design.withfudge.com/share/pin-4944)
+[Dark custom pricing section with laptop dashboard mockup and white pill button on black background](https://fudge.design/share/pin-4944)
 
 ## Overview
 
@@ -146,3 +146,18 @@ The design's bold color blocking and centered compositions suggest natural respo
 ## Scope note
 
 This guide covers the pricing page surface visible in the supplied images, including hero, FAQ, custom pricing, and footer sections. Navigation dropdown states, mobile breakpoints, form interactions, checkout flows, and animation specifications are not included. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

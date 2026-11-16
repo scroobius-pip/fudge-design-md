@@ -1,26 +1,26 @@
 # How operate.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/operate.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/operate.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with animated green canvas, scattered particles, and a blue data-path visualization with the Operate alpha badge and early-access call-to-action.](https://pin.fontofweb.com/3860?format=jpg)](https://design.withfudge.com/share/pin-3860)
+[![Hero section with animated green canvas, scattered particles, and a blue data-path visualization with the Operate alpha badge and early-access call-to-action.](https://pin.fontofweb.com/3860?format=jpg)](https://fudge.design/share/pin-3860)
 
-[Hero section with animated green canvas, scattered particles, and a blue data-path visualization with the Operate alpha badge and early-access call-to-action.](https://design.withfudge.com/share/pin-3860)
+[Hero section with animated green canvas, scattered particles, and a blue data-path visualization with the Operate alpha badge and early-access call-to-action.](https://fudge.design/share/pin-3860)
 
-[![Waitlist section with a large tilted green polygon panel, white text, and a rounded button, followed by a mint-green footer with colophon and hiring badge.](https://pin.fontofweb.com/3862?format=jpg)](https://design.withfudge.com/share/pin-3862)
+[![Waitlist section with a large tilted green polygon panel, white text, and a rounded button, followed by a mint-green footer with colophon and hiring badge.](https://pin.fontofweb.com/3862?format=jpg)](https://fudge.design/share/pin-3862)
 
-[Waitlist section with a large tilted green polygon panel, white text, and a rounded button, followed by a mint-green footer with colophon and hiring badge.](https://design.withfudge.com/share/pin-3862)
+[Waitlist section with a large tilted green polygon panel, white text, and a rounded button, followed by a mint-green footer with colophon and hiring badge.](https://fudge.design/share/pin-3862)
 
-[![Editorial body section with green text on a pale background, wireframe illustration, section label pill, and a mint-green abstract shape with a shuffle control.](https://pin.fontofweb.com/3861?format=jpg)](https://design.withfudge.com/share/pin-3861)
+[![Editorial body section with green text on a pale background, wireframe illustration, section label pill, and a mint-green abstract shape with a shuffle control.](https://pin.fontofweb.com/3861?format=jpg)](https://fudge.design/share/pin-3861)
 
-[Editorial body section with green text on a pale background, wireframe illustration, section label pill, and a mint-green abstract shape with a shuffle control.](https://design.withfudge.com/share/pin-3861)
+[Editorial body section with green text on a pale background, wireframe illustration, section label pill, and a mint-green abstract shape with a shuffle control.](https://fudge.design/share/pin-3861)
 
-[![Team section with expandable roster rows, circular portrait, green bold labels, and a right-hand table-of-contents navigation with progress indicator.](https://pin.fontofweb.com/3863?format=jpg)](https://design.withfudge.com/share/pin-3863)
+[![Team section with expandable roster rows, circular portrait, green bold labels, and a right-hand table-of-contents navigation with progress indicator.](https://pin.fontofweb.com/3863?format=jpg)](https://fudge.design/share/pin-3863)
 
-[Team section with expandable roster rows, circular portrait, green bold labels, and a right-hand table-of-contents navigation with progress indicator.](https://design.withfudge.com/share/pin-3863)
+[Team section with expandable roster rows, circular portrait, green bold labels, and a right-hand table-of-contents navigation with progress indicator.](https://fudge.design/share/pin-3863)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Touch targets for the shuffle control and team row expanders should maintain min
 ## Scope note
 
 This guide covers the Operate landing page as a single long-scroll experience, including the hero canvas, editorial content sections, team roster, waitlist form, and footer. Mobile layouts, additional pages, and application interface components are not represented in the source material. Motion specifications, hover states, and form validation styling were not retained. Measurements are practical adaptation targets derived from visible relationships in the supplied images.
+
+## Related design patterns
+
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Right rail table of contents](/share/designs-with-layout.feature.right_rail_toc)
+- [Pattern background](/share/designs-with-visual.background.pattern)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

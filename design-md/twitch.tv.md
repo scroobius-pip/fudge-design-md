@@ -1,18 +1,18 @@
 # How twitch.tv is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/twitch.tv-design)
+[Open the live Fudge conversation](https://fudge.design/share/twitch.tv-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Twitch Turbo subscription modal with purple gradient header, feature list, and primary action buttons on dark canvas](https://pin.fontofweb.com/6568?format=jpg)](https://design.withfudge.com/share/pin-6568)
+[![Twitch Turbo subscription modal with purple gradient header, feature list, and primary action buttons on dark canvas](https://pin.fontofweb.com/6568?format=jpg)](https://fudge.design/share/pin-6568)
 
-[Twitch Turbo subscription modal with purple gradient header, feature list, and primary action buttons on dark canvas](https://design.withfudge.com/share/pin-6568)
+[Twitch Turbo subscription modal with purple gradient header, feature list, and primary action buttons on dark canvas](https://fudge.design/share/pin-6568)
 
-[![Channel page header showing streamer avatar, live badge, title, category tags, and dark navigation bar](https://pin.fontofweb.com/3694?format=jpg)](https://design.withfudge.com/share/pin-3694)
+[![Channel page header showing streamer avatar, live badge, title, category tags, and dark navigation bar](https://pin.fontofweb.com/3694?format=jpg)](https://fudge.design/share/pin-3694)
 
-[Channel page header showing streamer avatar, live badge, title, category tags, and dark navigation bar](https://design.withfudge.com/share/pin-3694)
+[Channel page header showing streamer avatar, live badge, title, category tags, and dark navigation bar](https://fudge.design/share/pin-3694)
 
 ## Overview
 
@@ -160,3 +160,18 @@ Grid-based discovery surfaces should reflow from multi-column to single-column a
 ## Scope note
 
 This guide covers the channel page header, subscription modal, and global navigation chrome visible in the supplied images. It does not include chat interfaces, video player controls, creator dashboards, mobile-native layouts, animation specifications, or dark-mode toggle behavior. Measurements are drawn from retained interface records and verified against visible composition.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Pink hue](/share/designs-with-color.hue.pink)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

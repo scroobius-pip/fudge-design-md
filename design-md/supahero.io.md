@@ -1,26 +1,26 @@
 # How supahero.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/supahero.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/supahero.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large display title, email subscription form, sponsor logo row, and featured template card grid](https://pin.fontofweb.com/3210?format=jpg)](https://design.withfudge.com/share/pin-3210)
+[![Homepage hero with large display title, email subscription form, sponsor logo row, and featured template card grid](https://pin.fontofweb.com/3210?format=jpg)](https://fudge.design/share/pin-3210)
 
-[Homepage hero with large display title, email subscription form, sponsor logo row, and featured template card grid](https://design.withfudge.com/share/pin-3210)
+[Homepage hero with large display title, email subscription form, sponsor logo row, and featured template card grid](https://fudge.design/share/pin-3210)
 
-[![Dark promotional banner with laptop mockup and pill-shaped CTA above the hero sections filter row](https://pin.fontofweb.com/3211?format=jpg)](https://design.withfudge.com/share/pin-3211)
+[![Dark promotional banner with laptop mockup and pill-shaped CTA above the hero sections filter row](https://pin.fontofweb.com/3211?format=jpg)](https://fudge.design/share/pin-3211)
 
-[Dark promotional banner with laptop mockup and pill-shaped CTA above the hero sections filter row](https://design.withfudge.com/share/pin-3211)
+[Dark promotional banner with laptop mockup and pill-shaped CTA above the hero sections filter row](https://fudge.design/share/pin-3211)
 
-[![Hero sections grid showing diverse template thumbnails with category filter pills and Premium badges](https://pin.fontofweb.com/3212?format=jpg)](https://design.withfudge.com/share/pin-3212)
+[![Hero sections grid showing diverse template thumbnails with category filter pills and Premium badges](https://pin.fontofweb.com/3212?format=jpg)](https://fudge.design/share/pin-3212)
 
-[Hero sections grid showing diverse template thumbnails with category filter pills and Premium badges](https://design.withfudge.com/share/pin-3212)
+[Hero sections grid showing diverse template thumbnails with category filter pills and Premium badges](https://fudge.design/share/pin-3212)
 
-[![Dense mosaic of colorful website hero templates showcasing variety in the library collection](https://pin.fontofweb.com/3213?format=jpg)](https://design.withfudge.com/share/pin-3213)
+[![Dense mosaic of colorful website hero templates showcasing variety in the library collection](https://pin.fontofweb.com/3213?format=jpg)](https://fudge.design/share/pin-3213)
 
-[Dense mosaic of colorful website hero templates showcasing variety in the library collection](https://design.withfudge.com/share/pin-3213)
+[Dense mosaic of colorful website hero templates showcasing variety in the library collection](https://fudge.design/share/pin-3213)
 
 ## Overview
 
@@ -208,3 +208,18 @@ Navigation links may collapse into a menu on mobile, with search and submit acti
 ## Scope note
 
 This guide covers the homepage and hero section browsing experience visible in the supplied images. Pricing pages, individual template detail views, checkout flows, and mobile-specific layouts are not represented. Motion behavior, hover states, and loading skeletons were not captured and should be designed to match the established calm, confident tone. Measurements are practical adaptation targets derived from visual analysis.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

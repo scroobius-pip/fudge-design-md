@@ -1,26 +1,26 @@
 # How sweetshop.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sweetshop.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/sweetshop.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with pink background, dripping icing graphic, Sweet Shop logo, and device mockups showing comic store app interface](https://pin.fontofweb.com/3079?format=jpg)](https://design.withfudge.com/share/pin-3079)
+[![Hero section with pink background, dripping icing graphic, Sweet Shop logo, and device mockups showing comic store app interface](https://pin.fontofweb.com/3079?format=jpg)](https://fudge.design/share/pin-3079)
 
-[Hero section with pink background, dripping icing graphic, Sweet Shop logo, and device mockups showing comic store app interface](https://design.withfudge.com/share/pin-3079)
+[Hero section with pink background, dripping icing graphic, Sweet Shop logo, and device mockups showing comic store app interface](https://fudge.design/share/pin-3079)
 
-[![Publisher announcement cards with dark navy panels, pink icing drips, and IDW and Image Comics branding on light cream background](https://pin.fontofweb.com/3080?format=jpg)](https://design.withfudge.com/share/pin-3080)
+[![Publisher announcement cards with dark navy panels, pink icing drips, and IDW and Image Comics branding on light cream background](https://pin.fontofweb.com/3080?format=jpg)](https://fudge.design/share/pin-3080)
 
-[Publisher announcement cards with dark navy panels, pink icing drips, and IDW and Image Comics branding on light cream background](https://design.withfudge.com/share/pin-3080)
+[Publisher announcement cards with dark navy panels, pink icing drips, and IDW and Image Comics branding on light cream background](https://fudge.design/share/pin-3080)
 
-[![Features grid with nine white cards showing app capabilities with navy icons and text on warm cream background](https://pin.fontofweb.com/3081?format=jpg)](https://design.withfudge.com/share/pin-3081)
+[![Features grid with nine white cards showing app capabilities with navy icons and text on warm cream background](https://pin.fontofweb.com/3081?format=jpg)](https://fudge.design/share/pin-3081)
 
-[Features grid with nine white cards showing app capabilities with navy icons and text on warm cream background](https://design.withfudge.com/share/pin-3081)
+[Features grid with nine white cards showing app capabilities with navy icons and text on warm cream background](https://fudge.design/share/pin-3081)
 
-[![Newsletter signup section with email input, pink submit button, social media links in colorful pills, and footer attribution](https://pin.fontofweb.com/3082?format=jpg)](https://design.withfudge.com/share/pin-3082)
+[![Newsletter signup section with email input, pink submit button, social media links in colorful pills, and footer attribution](https://pin.fontofweb.com/3082?format=jpg)](https://fudge.design/share/pin-3082)
 
-[Newsletter signup section with email input, pink submit button, social media links in colorful pills, and footer attribution](https://design.withfudge.com/share/pin-3082)
+[Newsletter signup section with email input, pink submit button, social media links in colorful pills, and footer attribution](https://fudge.design/share/pin-3082)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The newsletter input and button should stack vertically on narrow screens, with 
 ## Scope note
 
 This guide covers the Sweet Shop marketing homepage as visible in the supplied images, including the hero announcement, publisher partnerships, features grid, and newsletter conversion sections. The actual app interface shown in device mockups, mobile-specific layouts, animation behavior, form validation states, and checkout flows are not included. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

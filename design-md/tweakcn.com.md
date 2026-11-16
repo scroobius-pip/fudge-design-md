@@ -1,22 +1,22 @@
 # How tweakcn.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tweakcn.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tweakcn.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full editor layout showing dark theme with left sidebar color controls and right preview area with dashboard cards, calendar, charts, and payment tables](https://pin.fontofweb.com/6202?format=jpg)](https://design.withfudge.com/share/pin-6202)
+[![Full editor layout showing dark theme with left sidebar color controls and right preview area with dashboard cards, calendar, charts, and payment tables](https://pin.fontofweb.com/6202?format=jpg)](https://fudge.design/share/pin-6202)
 
-[Full editor layout showing dark theme with left sidebar color controls and right preview area with dashboard cards, calendar, charts, and payment tables](https://design.withfudge.com/share/pin-6202)
+[Full editor layout showing dark theme with left sidebar color controls and right preview area with dashboard cards, calendar, charts, and payment tables](https://fudge.design/share/pin-6202)
 
-[![Theme code export modal overlay displaying CSS variables with syntax highlighting and package manager tabs against darkened preview background](https://pin.fontofweb.com/6204?format=jpg)](https://design.withfudge.com/share/pin-6204)
+[![Theme code export modal overlay displaying CSS variables with syntax highlighting and package manager tabs against darkened preview background](https://pin.fontofweb.com/6204?format=jpg)](https://fudge.design/share/pin-6204)
 
-[Theme code export modal overlay displaying CSS variables with syntax highlighting and package manager tabs against darkened preview background](https://design.withfudge.com/share/pin-6204)
+[Theme code export modal overlay displaying CSS variables with syntax highlighting and package manager tabs against darkened preview background](https://fudge.design/share/pin-6204)
 
-[![Collapsed mobile sidebar view with color category accordions, hex inputs, and Tailwind color search dropdown in vertical layout](https://pin.fontofweb.com/6203?format=jpg)](https://design.withfudge.com/share/pin-6203)
+[![Collapsed mobile sidebar view with color category accordions, hex inputs, and Tailwind color search dropdown in vertical layout](https://pin.fontofweb.com/6203?format=jpg)](https://fudge.design/share/pin-6203)
 
-[Collapsed mobile sidebar view with color category accordions, hex inputs, and Tailwind color search dropdown in vertical layout](https://design.withfudge.com/share/pin-6203)
+[Collapsed mobile sidebar view with color category accordions, hex inputs, and Tailwind color search dropdown in vertical layout](https://fudge.design/share/pin-6203)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Touch targets maintain minimum 44px height for buttons and inputs. The code expo
 ## Scope note
 
 This guide covers the theme editor interface at tweakcn.com/editor/theme, including the color customization sidebar, live preview canvas, and code export modal. Mobile responsive behavior, animation and transition specifications, form validation states, and the user authentication flow are not documented. The previewed component variants (Dashboard, Mail, Pricing, Color Palette) share the same container structure but contain distinct internal layouts not fully detailed here. Measurements are practical adaptation targets based on the extracted interface data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Editor workspace](/share/designs-with-page.application.editor_workspace)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

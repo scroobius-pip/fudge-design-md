@@ -1,18 +1,18 @@
 # How research.perplexity.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/research.perplexity.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/research.perplexity.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article hero with large serif headline, abstract dark 3D render, and warm off-white canvas background](https://pin.fontofweb.com/9495?format=jpg)](https://design.withfudge.com/share/pin-9495)
+[![Article hero with large serif headline, abstract dark 3D render, and warm off-white canvas background](https://pin.fontofweb.com/9495?format=jpg)](https://fudge.design/share/pin-9495)
 
-[Article hero with large serif headline, abstract dark 3D render, and warm off-white canvas background](https://design.withfudge.com/share/pin-9495)
+[Article hero with large serif headline, abstract dark 3D render, and warm off-white canvas background](https://fudge.design/share/pin-9495)
 
-[![Article index with paired imagery, category labels, and a pill-shaped Load More button above a careers section](https://pin.fontofweb.com/7990?format=jpg)](https://design.withfudge.com/share/pin-7990)
+[![Article index with paired imagery, category labels, and a pill-shaped Load More button above a careers section](https://pin.fontofweb.com/7990?format=jpg)](https://fudge.design/share/pin-7990)
 
-[Article index with paired imagery, category labels, and a pill-shaped Load More button above a careers section](https://design.withfudge.com/share/pin-7990)
+[Article index with paired imagery, category labels, and a pill-shaped Load More button above a careers section](https://fudge.design/share/pin-7990)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The supplied surfaces show desktop presentation only. Based on the visible struc
 ## Scope note
 
 This guide covers the article page and article index surfaces visible in the supplied images. Mobile breakpoints, hover states, form interactions, search functionality, and the complete careers application flow are not represented. The dark abstract imagery palette is described for visual context but should not be used as interface color tokens. Gt Canon Vf-L Black is named as the specific heavy weight instance in the type system.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

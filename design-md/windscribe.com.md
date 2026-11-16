@@ -1,26 +1,26 @@
 # How windscribe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/windscribe.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/windscribe.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up form with Standard/Hashed toggle, floating labels, and dark starfield background with grid floor](https://pin.fontofweb.com/10079?format=jpg)](https://design.withfudge.com/share/pin-10079)
+[![Sign-up form with Standard/Hashed toggle, floating labels, and dark starfield background with grid floor](https://pin.fontofweb.com/10079?format=jpg)](https://fudge.design/share/pin-10079)
 
-[Sign-up form with Standard/Hashed toggle, floating labels, and dark starfield background with grid floor](https://design.withfudge.com/share/pin-10079)
+[Sign-up form with Standard/Hashed toggle, floating labels, and dark starfield background with grid floor](https://fudge.design/share/pin-10079)
 
-[![Hashed sign-up variant showing account hash display with copy and regenerate actions](https://pin.fontofweb.com/10078?format=jpg)](https://design.withfudge.com/share/pin-10078)
+[![Hashed sign-up variant showing account hash display with copy and regenerate actions](https://pin.fontofweb.com/10078?format=jpg)](https://fudge.design/share/pin-10078)
 
-[Hashed sign-up variant showing account hash display with copy and regenerate actions](https://design.withfudge.com/share/pin-10078)
+[Hashed sign-up variant showing account hash display with copy and regenerate actions](https://fudge.design/share/pin-10078)
 
-[![Legacy login page with green pill button on light background and starfield header](https://pin.fontofweb.com/5006?format=jpg)](https://design.withfudge.com/share/pin-5006)
+[![Legacy login page with green pill button on light background and starfield header](https://pin.fontofweb.com/5006?format=jpg)](https://fudge.design/share/pin-5006)
 
-[Legacy login page with green pill button on light background and starfield header](https://design.withfudge.com/share/pin-5006)
+[Legacy login page with green pill button on light background and starfield header](https://fudge.design/share/pin-5006)
 
-[![Refer-a-friend rewards page with tiered cards and step-by-step process on dark background](https://pin.fontofweb.com/5005?format=jpg)](https://design.withfudge.com/share/pin-5005)
+[![Refer-a-friend rewards page with tiered cards and step-by-step process on dark background](https://pin.fontofweb.com/5005?format=jpg)](https://fudge.design/share/pin-5005)
 
-[Refer-a-friend rewards page with tiered cards and step-by-step process on dark background](https://design.withfudge.com/share/pin-5005)
+[Refer-a-friend rewards page with tiered cards and step-by-step process on dark background](https://fudge.design/share/pin-5005)
 
 ## Overview
 
@@ -208,3 +208,18 @@ For implementation, consider adding a viewport-adaptive padding scale: 40px hori
 ## Scope note
 
 This guide covers the account flow surfaces—sign-up, login, and referral pages. Marketing pages, dashboard interfaces, and mobile applications are not represented. Motion behavior, additional breakpoints, and error or loading states are not documented. The legacy login page uses a previous visual system with light backgrounds and green accents; implement the current dark system for new work. The complete font set includes Applesystem, IBM Plex Sans, IBM Plex Sans-Italic, Instrument Serif-Italic, Lato, Mona Sans, Russo One, and Times. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

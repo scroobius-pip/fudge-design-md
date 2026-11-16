@@ -1,26 +1,26 @@
 # How plus.excalidraw.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plus.excalidraw.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/plus.excalidraw.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Security page hero with hand-drawn illustration and feature cards on dark background](https://pin.fontofweb.com/8131?format=jpg)](https://design.withfudge.com/share/pin-8131)
+[![Security page hero with hand-drawn illustration and feature cards on dark background](https://pin.fontofweb.com/8131?format=jpg)](https://fudge.design/share/pin-8131)
 
-[Security page hero with hand-drawn illustration and feature cards on dark background](https://design.withfudge.com/share/pin-8131)
+[Security page hero with hand-drawn illustration and feature cards on dark background](https://fudge.design/share/pin-8131)
 
-[![Teams page showing navigation bar and collaborative workspace section with product screenshot](https://pin.fontofweb.com/8130?format=jpg)](https://design.withfudge.com/share/pin-8130)
+[![Teams page showing navigation bar and collaborative workspace section with product screenshot](https://pin.fontofweb.com/8130?format=jpg)](https://fudge.design/share/pin-8130)
 
-[Teams page showing navigation bar and collaborative workspace section with product screenshot](https://design.withfudge.com/share/pin-8130)
+[Teams page showing navigation bar and collaborative workspace section with product screenshot](https://fudge.design/share/pin-8130)
 
-[![Landing page hero with hand-drawn chart illustration and company logo marquee](https://pin.fontofweb.com/8129?format=jpg)](https://design.withfudge.com/share/pin-8129)
+[![Landing page hero with hand-drawn chart illustration and company logo marquee](https://pin.fontofweb.com/8129?format=jpg)](https://fudge.design/share/pin-8129)
 
-[Landing page hero with hand-drawn chart illustration and company logo marquee](https://design.withfudge.com/share/pin-8129)
+[Landing page hero with hand-drawn chart illustration and company logo marquee](https://fudge.design/share/pin-8129)
 
-[![Pricing comparison table with Free vs Plus columns and feature checkmarks](https://pin.fontofweb.com/8128?format=jpg)](https://design.withfudge.com/share/pin-8128)
+[![Pricing comparison table with Free vs Plus columns and feature checkmarks](https://pin.fontofweb.com/8128?format=jpg)](https://fudge.design/share/pin-8128)
 
-[Pricing comparison table with Free vs Plus columns and feature checkmarks](https://design.withfudge.com/share/pin-8128)
+[Pricing comparison table with Free vs Plus columns and feature checkmarks](https://fudge.design/share/pin-8128)
 
 ## Overview
 
@@ -223,3 +223,18 @@ Illustrations in hero sections should maintain their aspect ratio while scaling 
 ## Scope note
 
 This guide covers the marketing and informational pages of Excalidraw Plus including the landing page, teams page, pricing comparison, and security documentation. The actual whiteboard editor interface, user dashboard, and account management flows are not represented. Motion behavior, mobile-specific layouts, and interactive states beyond focus are not documented. Measurements are exact values from the retained interface analysis.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

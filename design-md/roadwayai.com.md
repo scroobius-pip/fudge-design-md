@@ -1,26 +1,26 @@
 # How roadwayai.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/roadwayai.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/roadwayai.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with orange brand mark, email capture form, and multi-column footer with compliance badges](https://pin.fontofweb.com/3704?format=jpg)](https://design.withfudge.com/share/pin-3704)
+[![Hero section with orange brand mark, email capture form, and multi-column footer with compliance badges](https://pin.fontofweb.com/3704?format=jpg)](https://fudge.design/share/pin-3704)
 
-[Hero section with orange brand mark, email capture form, and multi-column footer with compliance badges](https://design.withfudge.com/share/pin-3704)
+[Hero section with orange brand mark, email capture form, and multi-column footer with compliance badges](https://fudge.design/share/pin-3704)
 
-[![Workspace feature section with orange checkmark list, dashboard screenshot, and Mobbin testimonial block](https://pin.fontofweb.com/3703?format=jpg)](https://design.withfudge.com/share/pin-3703)
+[![Workspace feature section with orange checkmark list, dashboard screenshot, and Mobbin testimonial block](https://pin.fontofweb.com/3703?format=jpg)](https://fudge.design/share/pin-3703)
 
-[Workspace feature section with orange checkmark list, dashboard screenshot, and Mobbin testimonial block](https://design.withfudge.com/share/pin-3703)
+[Workspace feature section with orange checkmark list, dashboard screenshot, and Mobbin testimonial block](https://fudge.design/share/pin-3703)
 
-[![Attribution feature section with purple accent icons, overlapping dashboard UI mockups, and data visualization](https://pin.fontofweb.com/3702?format=jpg)](https://design.withfudge.com/share/pin-3702)
+[![Attribution feature section with purple accent icons, overlapping dashboard UI mockups, and data visualization](https://pin.fontofweb.com/3702?format=jpg)](https://fudge.design/share/pin-3702)
 
-[Attribution feature section with purple accent icons, overlapping dashboard UI mockups, and data visualization](https://design.withfudge.com/share/pin-3702)
+[Attribution feature section with purple accent icons, overlapping dashboard UI mockups, and data visualization](https://fudge.design/share/pin-3702)
 
-[![Product interface preview with sidebar navigation, summary report panel, and customer logo bar](https://pin.fontofweb.com/3701?format=jpg)](https://design.withfudge.com/share/pin-3701)
+[![Product interface preview with sidebar navigation, summary report panel, and customer logo bar](https://pin.fontofweb.com/3701?format=jpg)](https://fudge.design/share/pin-3701)
 
-[Product interface preview with sidebar navigation, summary report panel, and customer logo bar](https://design.withfudge.com/share/pin-3701)
+[Product interface preview with sidebar navigation, summary report panel, and customer logo bar](https://fudge.design/share/pin-3701)
 
 ## Overview
 
@@ -170,3 +170,18 @@ The email capture form's inline button attachment may require stacking on very n
 ## Scope note
 
 This guide covers the marketing landing page surface visible in the supplied images: hero, feature sections, testimonials, product preview, and footer. Pricing pages, documentation, authenticated application interfaces, and mobile-specific layouts are not represented. Motion, hover states, and form validation styling were not visible and should be designed to match the system's restrained character. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

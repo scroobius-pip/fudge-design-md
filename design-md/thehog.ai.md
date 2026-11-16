@@ -1,26 +1,26 @@
 # How thehog.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thehog.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/thehog.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with massive 'THE HOG' display text in white against a cyan gradient background, with contact email in small black text at top left.](https://pin.fontofweb.com/6324?format=jpg)](https://design.withfudge.com/share/pin-6324)
+[![Hero section with massive 'THE HOG' display text in white against a cyan gradient background, with contact email in small black text at top left.](https://pin.fontofweb.com/6324?format=jpg)](https://fudge.design/share/pin-6324)
 
-[Hero section with massive 'THE HOG' display text in white against a cyan gradient background, with contact email in small black text at top left.](https://design.withfudge.com/share/pin-6324)
+[Hero section with massive 'THE HOG' display text in white against a cyan gradient background, with contact email in small black text at top left.](https://fudge.design/share/pin-6324)
 
-[![Customer stories section with italic serif headline, metric cards showing 3.7x, 4.1x, 60h, 2.3x statistics, and testimonial quotes with avatar photos on light gray cards.](https://pin.fontofweb.com/6323?format=jpg)](https://design.withfudge.com/share/pin-6323)
+[![Customer stories section with italic serif headline, metric cards showing 3.7x, 4.1x, 60h, 2.3x statistics, and testimonial quotes with avatar photos on light gray cards.](https://pin.fontofweb.com/6323?format=jpg)](https://fudge.design/share/pin-6323)
 
-[Customer stories section with italic serif headline, metric cards showing 3.7x, 4.1x, 60h, 2.3x statistics, and testimonial quotes with avatar photos on light gray cards.](https://design.withfudge.com/share/pin-6323)
+[Customer stories section with italic serif headline, metric cards showing 3.7x, 4.1x, 60h, 2.3x statistics, and testimonial quotes with avatar photos on light gray cards.](https://fudge.design/share/pin-6323)
 
-[![Testimonials carousel with 'What Our Clients Say' italic serif heading, three profile cards with circular avatars, names, titles, and quote text on soft gray rounded panels.](https://pin.fontofweb.com/6322?format=jpg)](https://design.withfudge.com/share/pin-6322)
+[![Testimonials carousel with 'What Our Clients Say' italic serif heading, three profile cards with circular avatars, names, titles, and quote text on soft gray rounded panels.](https://pin.fontofweb.com/6322?format=jpg)](https://fudge.design/share/pin-6322)
 
-[Testimonials carousel with 'What Our Clients Say' italic serif heading, three profile cards with circular avatars, names, titles, and quote text on soft gray rounded panels.](https://design.withfudge.com/share/pin-6322)
+[Testimonials carousel with 'What Our Clients Say' italic serif heading, three profile cards with circular avatars, names, titles, and quote text on soft gray rounded panels.](https://fudge.design/share/pin-6322)
 
-[![Pricing section with 'Choose Your Plan' italic serif heading, monthly/yearly toggle, four-tier pricing cards from Solo to Enterprise with feature lists and dark CTA buttons.](https://pin.fontofweb.com/6321?format=jpg)](https://design.withfudge.com/share/pin-6321)
+[![Pricing section with 'Choose Your Plan' italic serif heading, monthly/yearly toggle, four-tier pricing cards from Solo to Enterprise with feature lists and dark CTA buttons.](https://pin.fontofweb.com/6321?format=jpg)](https://fudge.design/share/pin-6321)
 
-[Pricing section with 'Choose Your Plan' italic serif heading, monthly/yearly toggle, four-tier pricing cards from Solo to Enterprise with feature lists and dark CTA buttons.](https://design.withfudge.com/share/pin-6321)
+[Pricing section with 'Choose Your Plan' italic serif heading, monthly/yearly toggle, four-tier pricing cards from Solo to Enterprise with feature lists and dark CTA buttons.](https://fudge.design/share/pin-6321)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Navigation, minimal in the supplied views, would benefit from a hamburger treatm
 ## Scope note
 
 This guide covers the desktop landing page experience for The Hog's marketing site, including hero, social proof, testimonials, and pricing sections. Mobile breakpoints, form interactions, checkout flows, dashboard interfaces, and motion behavior are not represented in the supplied material. The bracketed section labels and platform watermark treatments are described from visible design but may have additional states or animations not captured in still images.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

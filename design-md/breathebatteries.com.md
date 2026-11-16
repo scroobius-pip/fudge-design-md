@@ -1,26 +1,26 @@
 # How breathebatteries.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/breathebatteries.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/breathebatteries.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Founding team member profile with large portrait photograph, academic credentials, and social links against clean white background](https://pin.fontofweb.com/1085?format=jpg)](https://design.withfudge.com/share/pin-1085)
+[![Founding team member profile with large portrait photograph, academic credentials, and social links against clean white background](https://pin.fontofweb.com/1085?format=jpg)](https://fudge.design/share/pin-1085)
 
-[Founding team member profile with large portrait photograph, academic credentials, and social links against clean white background](https://design.withfudge.com/share/pin-1085)
+[Founding team member profile with large portrait photograph, academic credentials, and social links against clean white background](https://fudge.design/share/pin-1085)
 
-[![Team section header with centered display heading above CEO profile with laboratory environment portrait](https://pin.fontofweb.com/1084?format=jpg)](https://design.withfudge.com/share/pin-1084)
+[![Team section header with centered display heading above CEO profile with laboratory environment portrait](https://pin.fontofweb.com/1084?format=jpg)](https://fudge.design/share/pin-1084)
 
-[Team section header with centered display heading above CEO profile with laboratory environment portrait](https://design.withfudge.com/share/pin-1084)
+[Team section header with centered display heading above CEO profile with laboratory environment portrait](https://fudge.design/share/pin-1084)
 
-[![Investor showcase with three-column layout, partner logos, descriptive text blocks, and outlined buttons](https://pin.fontofweb.com/1083?format=jpg)](https://design.withfudge.com/share/pin-1083)
+[![Investor showcase with three-column layout, partner logos, descriptive text blocks, and outlined buttons](https://pin.fontofweb.com/1083?format=jpg)](https://fudge.design/share/pin-1083)
 
-[Investor showcase with three-column layout, partner logos, descriptive text blocks, and outlined buttons](https://design.withfudge.com/share/pin-1083)
+[Investor showcase with three-column layout, partner logos, descriptive text blocks, and outlined buttons](https://fudge.design/share/pin-1083)
 
-[![Institutional partner logo bar with black banner header and monochrome organization marks on white](https://pin.fontofweb.com/1082?format=jpg)](https://design.withfudge.com/share/pin-1082)
+[![Institutional partner logo bar with black banner header and monochrome organization marks on white](https://pin.fontofweb.com/1082?format=jpg)](https://fudge.design/share/pin-1082)
 
-[Institutional partner logo bar with black banner header and monochrome organization marks on white](https://design.withfudge.com/share/pin-1082)
+[Institutional partner logo bar with black banner header and monochrome organization marks on white](https://fudge.design/share/pin-1082)
 
 ## Overview
 
@@ -191,3 +191,18 @@ Navigation, if present in full implementations, should collapse to a hamburger m
 ## Scope note
 
 This guide covers the team profile, investor showcase, and partner logo surfaces visible in the supplied images. The homepage hero, pricing tables, blog listing, and navigation system are not represented. Measurements are practical adaptation targets derived from visual estimation. Motion, hover states, form components, and mobile-specific layouts require additional research. The Poppins family appears in the source but its visible application in these captured surfaces is not confirmed.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

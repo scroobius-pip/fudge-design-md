@@ -1,26 +1,26 @@
 # How garriock.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/garriock.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/garriock.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing with oversized Garriock & Co. wordmark in white serif against pure black canvas, with minimal top navigation and section indicator 01/.](https://pin.fontofweb.com/7367?format=jpg)](https://design.withfudge.com/share/pin-7367)
+[![Hero landing with oversized Garriock & Co. wordmark in white serif against pure black canvas, with minimal top navigation and section indicator 01/.](https://pin.fontofweb.com/7367?format=jpg)](https://fudge.design/share/pin-7367)
 
-[Hero landing with oversized Garriock & Co. wordmark in white serif against pure black canvas, with minimal top navigation and section indicator 01/.](https://design.withfudge.com/share/pin-7367)
+[Hero landing with oversized Garriock & Co. wordmark in white serif against pure black canvas, with minimal top navigation and section indicator 01/.](https://fudge.design/share/pin-7367)
 
-[![Services section with mixed-weight centered statement and six-row capability list with hairline separators on black ground, showing section indicator 03/.](https://pin.fontofweb.com/7365?format=jpg)](https://design.withfudge.com/share/pin-7365)
+[![Services section with mixed-weight centered statement and six-row capability list with hairline separators on black ground, showing section indicator 03/.](https://pin.fontofweb.com/7365?format=jpg)](https://fudge.design/share/pin-7365)
 
-[Services section with mixed-weight centered statement and six-row capability list with hairline separators on black ground, showing section indicator 03/.](https://design.withfudge.com/share/pin-7365)
+[Services section with mixed-weight centered statement and six-row capability list with hairline separators on black ground, showing section indicator 03/.](https://fudge.design/share/pin-7365)
 
-[![Partners section with bold name highlights in centered biography text and bullet-separated client list below, section indicator 05/.](https://pin.fontofweb.com/7364?format=jpg)](https://design.withfudge.com/share/pin-7364)
+[![Partners section with bold name highlights in centered biography text and bullet-separated client list below, section indicator 05/.](https://pin.fontofweb.com/7364?format=jpg)](https://fudge.design/share/pin-7364)
 
-[Partners section with bold name highlights in centered biography text and bullet-separated client list below, section indicator 05/.](https://design.withfudge.com/share/pin-7364)
+[Partners section with bold name highlights in centered biography text and bullet-separated client list below, section indicator 05/.](https://fudge.design/share/pin-7364)
 
-[![Clean hero variant with identical wordmark composition and navigation, demonstrating consistent black-background landing treatment.](https://pin.fontofweb.com/7366?format=jpg)](https://design.withfudge.com/share/pin-7366)
+[![Clean hero variant with identical wordmark composition and navigation, demonstrating consistent black-background landing treatment.](https://pin.fontofweb.com/7366?format=jpg)](https://fudge.design/share/pin-7366)
 
-[Clean hero variant with identical wordmark composition and navigation, demonstrating consistent black-background landing treatment.](https://design.withfudge.com/share/pin-7366)
+[Clean hero variant with identical wordmark composition and navigation, demonstrating consistent black-background landing treatment.](https://fudge.design/share/pin-7366)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The client roster's flowing text will naturally rewrap; no special handling requ
 ## Scope note
 
 This guide covers the landing and primary content sections of garriock.com as visible in desktop view. Mobile layouts, breakpoint behavior, form interactions, motion design, and hover or focus states are not represented in the supplied material. The footer area and any additional pages beyond the single-scroll experience remain undocumented.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How tastecooking.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tastecooking.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tastecooking.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark charcoal footer with newsletter input field and thin cream underline, showing article list with circular avatars and dates.](https://pin.fontofweb.com/2050?format=jpg)](https://design.withfudge.com/share/pin-2050)
+[![Dark charcoal footer with newsletter input field and thin cream underline, showing article list with circular avatars and dates.](https://pin.fontofweb.com/2050?format=jpg)](https://fudge.design/share/pin-2050)
 
-[Dark charcoal footer with newsletter input field and thin cream underline, showing article list with circular avatars and dates.](https://design.withfudge.com/share/pin-2050)
+[Dark charcoal footer with newsletter input field and thin cream underline, showing article list with circular avatars and dates.](https://fudge.design/share/pin-2050)
 
-[![Three-column homepage layout with Most Recent Features, Most Recent Recipes, and From Instagram sections, circular thumbnails, and VIEW ALL links.](https://pin.fontofweb.com/2049?format=jpg)](https://design.withfudge.com/share/pin-2049)
+[![Three-column homepage layout with Most Recent Features, Most Recent Recipes, and From Instagram sections, circular thumbnails, and VIEW ALL links.](https://pin.fontofweb.com/2049?format=jpg)](https://fudge.design/share/pin-2049)
 
-[Three-column homepage layout with Most Recent Features, Most Recent Recipes, and From Instagram sections, circular thumbnails, and VIEW ALL links.](https://design.withfudge.com/share/pin-2049)
+[Three-column homepage layout with Most Recent Features, Most Recent Recipes, and From Instagram sections, circular thumbnails, and VIEW ALL links.](https://fudge.design/share/pin-2049)
 
-[![Recipe detail page with black hero bar showing servings, course, and print button, plus ingredients list and numbered directions with step circles.](https://pin.fontofweb.com/2048?format=jpg)](https://design.withfudge.com/share/pin-2048)
+[![Recipe detail page with black hero bar showing servings, course, and print button, plus ingredients list and numbered directions with step circles.](https://pin.fontofweb.com/2048?format=jpg)](https://fudge.design/share/pin-2048)
 
-[Recipe detail page with black hero bar showing servings, course, and print button, plus ingredients list and numbered directions with step circles.](https://design.withfudge.com/share/pin-2048)
+[Recipe detail page with black hero bar showing servings, course, and print button, plus ingredients list and numbered directions with step circles.](https://fudge.design/share/pin-2048)
 
-[![Recipe hero with large serif title, author byline, social share icons in gold, and full-bleed food photography on green background with black metadata bar.](https://pin.fontofweb.com/2047?format=jpg)](https://design.withfudge.com/share/pin-2047)
+[![Recipe hero with large serif title, author byline, social share icons in gold, and full-bleed food photography on green background with black metadata bar.](https://pin.fontofweb.com/2047?format=jpg)](https://fudge.design/share/pin-2047)
 
-[Recipe hero with large serif title, author byline, social share icons in gold, and full-bleed food photography on green background with black metadata bar.](https://design.withfudge.com/share/pin-2047)
+[Recipe hero with large serif title, author byline, social share icons in gold, and full-bleed food photography on green background with black metadata bar.](https://fudge.design/share/pin-2047)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Typography should scale down proportionally: hero-display may reduce to 2.5rem o
 ## Scope note
 
 This guide covers the homepage listing layout and recipe detail page surfaces visible in the supplied images. Navigation behavior, search functionality, subscription flows, and mobile-specific adaptations are not represented. Footer content beyond the newsletter input is partially visible but not fully documented. The font families Domain-200, Domain-Italic 200, Domain-Italic Regular, and Tusardeco-Italic Bold are present in sources but their specific visible applications are not confirmed in the captured surfaces. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How joodaloop.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joodaloop.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/joodaloop.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with deep navy headline, navigation bar, and structured info panel with metadata fields](https://pin.fontofweb.com/4626?format=jpg)](https://design.withfudge.com/share/pin-4626)
+[![Article page with deep navy headline, navigation bar, and structured info panel with metadata fields](https://pin.fontofweb.com/4626?format=jpg)](https://fudge.design/share/pin-4626)
 
-[Article page with deep navy headline, navigation bar, and structured info panel with metadata fields](https://design.withfudge.com/share/pin-4626)
+[Article page with deep navy headline, navigation bar, and structured info panel with metadata fields](https://fudge.design/share/pin-4626)
 
-[![STUFF section with two-column grid of bordered cards featuring navy headers and link lists](https://pin.fontofweb.com/4393?format=jpg)](https://design.withfudge.com/share/pin-4393)
+[![STUFF section with two-column grid of bordered cards featuring navy headers and link lists](https://pin.fontofweb.com/4393?format=jpg)](https://fudge.design/share/pin-4393)
 
-[STUFF section with two-column grid of bordered cards featuring navy headers and link lists](https://design.withfudge.com/share/pin-4393)
+[STUFF section with two-column grid of bordered cards featuring navy headers and link lists](https://fudge.design/share/pin-4393)
 
-[![Homepage with oversized JOODALOOP logotype, italic tagline cloud, and stacked sidebar link groups](https://pin.fontofweb.com/4392?format=jpg)](https://design.withfudge.com/share/pin-4392)
+[![Homepage with oversized JOODALOOP logotype, italic tagline cloud, and stacked sidebar link groups](https://pin.fontofweb.com/4392?format=jpg)](https://fudge.design/share/pin-4392)
 
-[Homepage with oversized JOODALOOP logotype, italic tagline cloud, and stacked sidebar link groups](https://design.withfudge.com/share/pin-4392)
+[Homepage with oversized JOODALOOP logotype, italic tagline cloud, and stacked sidebar link groups](https://fudge.design/share/pin-4392)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The hairline borders and precise spacing that define the visual character must b
 ## Scope note
 
 This guide covers the homepage and article page surfaces visible in the supplied images. The "STUFF" page with its card grid and the homepage sidebar groups are represented, but interior page states, form interactions, animation, and any dark mode variant are not included. Measurements are practical adaptation targets based on visual estimation from the provided images. Mobile breakpoints and behavior are inferred from desktop layouts and should be validated in implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Personal](/share/designs-with-industry.personal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

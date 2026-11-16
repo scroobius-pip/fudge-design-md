@@ -1,18 +1,18 @@
 # How myaccount.payoneer.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/myaccount.payoneer.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/myaccount.payoneer.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid with nine benefit cards showing line-art icons in purple and coral gradients, each with bold dark headings and muted gray body text on white background](https://pin.fontofweb.com/6718?format=jpg)](https://design.withfudge.com/share/pin-6718)
+[![Feature grid with nine benefit cards showing line-art icons in purple and coral gradients, each with bold dark headings and muted gray body text on white background](https://pin.fontofweb.com/6718?format=jpg)](https://fudge.design/share/pin-6718)
 
-[Feature grid with nine benefit cards showing line-art icons in purple and coral gradients, each with bold dark headings and muted gray body text on white background](https://design.withfudge.com/share/pin-6718)
+[Feature grid with nine benefit cards showing line-art icons in purple and coral gradients, each with bold dark headings and muted gray body text on white background](https://fudge.design/share/pin-6718)
 
-[![Account verification page with four-step horizontal progress indicator showing completed, active, and pending states with purple checkmarks and gray labels](https://pin.fontofweb.com/6717?format=jpg)](https://design.withfudge.com/share/pin-6717)
+[![Account verification page with four-step horizontal progress indicator showing completed, active, and pending states with purple checkmarks and gray labels](https://pin.fontofweb.com/6717?format=jpg)](https://fudge.design/share/pin-6717)
 
-[Account verification page with four-step horizontal progress indicator showing completed, active, and pending states with purple checkmarks and gray labels](https://design.withfudge.com/share/pin-6717)
+[Account verification page with four-step horizontal progress indicator showing completed, active, and pending states with purple checkmarks and gray labels](https://fudge.design/share/pin-6717)
 
 ## Overview
 
@@ -133,3 +133,18 @@ The three-column feature grid should reflow to two columns on medium viewports a
 ## Scope note
 
 This guide covers the account setup and verification page surfaces visible in the supplied images, including the step tracker and feature grid components. Navigation headers, footer elements, form inputs, button components, loading states, error messaging, and mobile-specific layouts are not represented in the current material. Measurements are derived from exact retained values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Onboarding](/share/designs-with-page.account.onboarding)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How flask.do is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/flask.do-design)
+[Open the live Fudge conversation](https://fudge.design/share/flask.do-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing page with video player, navigation bar, and radial gradient background featuring product branding](https://pin.fontofweb.com/4358?format=jpg)](https://design.withfudge.com/share/pin-4358)
+[![Hero landing page with video player, navigation bar, and radial gradient background featuring product branding](https://pin.fontofweb.com/4358?format=jpg)](https://fudge.design/share/pin-4358)
 
-[Hero landing page with video player, navigation bar, and radial gradient background featuring product branding](https://design.withfudge.com/share/pin-4358)
+[Hero landing page with video player, navigation bar, and radial gradient background featuring product branding](https://fudge.design/share/pin-4358)
 
-[![Login modal with Flask logo, Google sign-in button, and terms agreement on dark background](https://pin.fontofweb.com/4361?format=jpg)](https://design.withfudge.com/share/pin-4361)
+[![Login modal with Flask logo, Google sign-in button, and terms agreement on dark background](https://pin.fontofweb.com/4361?format=jpg)](https://fudge.design/share/pin-4361)
 
-[Login modal with Flask logo, Google sign-in button, and terms agreement on dark background](https://design.withfudge.com/share/pin-4361)
+[Login modal with Flask logo, Google sign-in button, and terms agreement on dark background](https://fudge.design/share/pin-4361)
 
-[![Contact section with three pill-shaped action buttons for email, community, and support channels](https://pin.fontofweb.com/4360?format=jpg)](https://design.withfudge.com/share/pin-4360)
+[![Contact section with three pill-shaped action buttons for email, community, and support channels](https://pin.fontofweb.com/4360?format=jpg)](https://fudge.design/share/pin-4360)
 
-[Contact section with three pill-shaped action buttons for email, community, and support channels](https://design.withfudge.com/share/pin-4360)
+[Contact section with three pill-shaped action buttons for email, community, and support channels](https://fudge.design/share/pin-4360)
 
-[![Founder manifesto section with handwritten-style typography and dark pill button with arrow](https://pin.fontofweb.com/4359?format=jpg)](https://design.withfudge.com/share/pin-4359)
+[![Founder manifesto section with handwritten-style typography and dark pill button with arrow](https://pin.fontofweb.com/4359?format=jpg)](https://fudge.design/share/pin-4359)
 
-[Founder manifesto section with handwritten-style typography and dark pill button with arrow](https://design.withfudge.com/share/pin-4359)
+[Founder manifesto section with handwritten-style typography and dark pill button with arrow](https://fudge.design/share/pin-4359)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the landing page, login modal, and contact sections visible in supplied captures. Measurements are practical adaptation targets. Mobile breakpoints, form validation states, loading indicators, and dashboard interfaces are not represented. Motion design, hover behaviors, and focus states require additional research beyond static imagery.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

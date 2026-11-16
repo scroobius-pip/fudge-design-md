@@ -1,18 +1,18 @@
 # How rbc.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rbc.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/rbc.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with headline about AI regulation, featuring a lead image of hands typing on a laptop with red accent, timestamp metadata, and EXCLUSIVE tag in light gray pill.](https://pin.fontofweb.com/9100?format=jpg)](https://design.withfudge.com/share/pin-9100)
+[![Article page with headline about AI regulation, featuring a lead image of hands typing on a laptop with red accent, timestamp metadata, and EXCLUSIVE tag in light gray pill.](https://pin.fontofweb.com/9100?format=jpg)](https://fudge.design/share/pin-9100)
 
-[Article page with headline about AI regulation, featuring a lead image of hands typing on a laptop with red accent, timestamp metadata, and EXCLUSIVE tag in light gray pill.](https://design.withfudge.com/share/pin-9100)
+[Article page with headline about AI regulation, featuring a lead image of hands typing on a laptop with red accent, timestamp metadata, and EXCLUSIVE tag in light gray pill.](https://fudge.design/share/pin-9100)
 
-[![Article page with headline about snowstorm compensation strategy, showing a fallen tree branch in a wet urban courtyard with playground equipment, RADIO tag in dark pill, and](https://pin.fontofweb.com/9099?format=jpg)](https://design.withfudge.com/share/pin-9099)
+[![Article page with headline about snowstorm compensation strategy, showing a fallen tree branch in a wet urban courtyard with playground equipment, RADIO tag in dark pill, and](https://pin.fontofweb.com/9099?format=jpg)](https://fudge.design/share/pin-9099)
 
-[Article page with headline about snowstorm compensation strategy, showing a fallen tree branch in a wet urban courtyard with playground equipment, RADIO tag in dark pill, and](https://design.withfudge.com/share/pin-9099)
+[Article page with headline about snowstorm compensation strategy, showing a fallen tree branch in a wet urban courtyard with playground equipment, RADIO tag in dark pill, and](https://fudge.design/share/pin-9099)
 
 ## Overview
 
@@ -153,3 +153,18 @@ Images maintain their full-column width and 12px radius across breakpoints, with
 ## Scope note
 
 This guide covers the article page surface, including headline, lead paragraph, hero image, metadata strip, and tag components. Navigation menus, footer elements, homepage layouts, comment sections, and interactive data visualizations are not represented in the supplied material. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

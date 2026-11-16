@@ -1,22 +1,22 @@
 # How sneakerland.com.au is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sneakerland.com.au-design)
+[Open the live Fudge conversation](https://fudge.design/share/sneakerland.com.au-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact section with yellow heading, navy form fields, sneaker grid photograph, and navy footer with tilted SLAND logo and social icons](https://pin.fontofweb.com/5769?format=jpg)](https://design.withfudge.com/share/pin-5769)
+[![Contact section with yellow heading, navy form fields, sneaker grid photograph, and navy footer with tilted SLAND logo and social icons](https://pin.fontofweb.com/5769?format=jpg)](https://fudge.design/share/pin-5769)
 
-[Contact section with yellow heading, navy form fields, sneaker grid photograph, and navy footer with tilted SLAND logo and social icons](https://design.withfudge.com/share/pin-5769)
+[Contact section with yellow heading, navy form fields, sneaker grid photograph, and navy footer with tilted SLAND logo and social icons](https://fudge.design/share/pin-5769)
 
-[![Hero section with navy background, large yellow collegiate headline, three yellow pill buttons, and scattered mascot illustrations](https://pin.fontofweb.com/5768?format=jpg)](https://design.withfudge.com/share/pin-5768)
+[![Hero section with navy background, large yellow collegiate headline, three yellow pill buttons, and scattered mascot illustrations](https://pin.fontofweb.com/5768?format=jpg)](https://fudge.design/share/pin-5768)
 
-[Hero section with navy background, large yellow collegiate headline, three yellow pill buttons, and scattered mascot illustrations](https://design.withfudge.com/share/pin-5768)
+[Hero section with navy background, large yellow collegiate headline, three yellow pill buttons, and scattered mascot illustrations](https://fudge.design/share/pin-5768)
 
-[![Mobile hero view showing stacked yellow headline on navy background with pill button in upper right corner](https://pin.fontofweb.com/5765?format=jpg)](https://design.withfudge.com/share/pin-5765)
+[![Mobile hero view showing stacked yellow headline on navy background with pill button in upper right corner](https://pin.fontofweb.com/5765?format=jpg)](https://fudge.design/share/pin-5765)
 
-[Mobile hero view showing stacked yellow headline on navy background with pill button in upper right corner](https://design.withfudge.com/share/pin-5765)
+[Mobile hero view showing stacked yellow headline on navy background with pill button in upper right corner](https://fudge.design/share/pin-5765)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Touch targets should maintain minimum 44px height for all interactive elements, 
 ## Scope note
 
 This guide covers the home page hero, contact section, and footer as visible in the supplied images. Navigation dropdowns, interior pages, ticket purchase flows, and mobile menu behavior are not represented. Motion, hover states, and loading sequences are not documented. Measurements are practical adaptation targets derived from visual inspection of the interface.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

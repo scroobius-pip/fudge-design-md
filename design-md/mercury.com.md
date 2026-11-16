@@ -1,26 +1,26 @@
 # How mercury.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mercury.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mercury.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with Mercury dashboard product screenshot, navigation bar, and partner logo strip on warm off-white background](https://pin.fontofweb.com/8862?format=jpg)](https://design.withfudge.com/share/pin-8862)
+[![Homepage hero with Mercury dashboard product screenshot, navigation bar, and partner logo strip on warm off-white background](https://pin.fontofweb.com/8862?format=jpg)](https://fudge.design/share/pin-8862)
 
-[Homepage hero with Mercury dashboard product screenshot, navigation bar, and partner logo strip on warm off-white background](https://design.withfudge.com/share/pin-8862)
+[Homepage hero with Mercury dashboard product screenshot, navigation bar, and partner logo strip on warm off-white background](https://fudge.design/share/pin-8862)
 
-[![Dark-themed account panel showing credit card and treasury balances with circular icons and auto-transfer rules footer](https://pin.fontofweb.com/8251?format=jpg)](https://design.withfudge.com/share/pin-8251)
+[![Dark-themed account panel showing credit card and treasury balances with circular icons and auto-transfer rules footer](https://pin.fontofweb.com/8251?format=jpg)](https://fudge.design/share/pin-8251)
 
-[Dark-themed account panel showing credit card and treasury balances with circular icons and auto-transfer rules footer](https://design.withfudge.com/share/pin-8251)
+[Dark-themed account panel showing credit card and treasury balances with circular icons and auto-transfer rules footer](https://fudge.design/share/pin-8251)
 
-[![Pricing FAQ accordion section with minimal light background and chevron disclosure icons](https://pin.fontofweb.com/7845?format=jpg)](https://design.withfudge.com/share/pin-7845)
+[![Pricing FAQ accordion section with minimal light background and chevron disclosure icons](https://pin.fontofweb.com/7845?format=jpg)](https://fudge.design/share/pin-7845)
 
-[Pricing FAQ accordion section with minimal light background and chevron disclosure icons](https://design.withfudge.com/share/pin-7845)
+[Pricing FAQ accordion section with minimal light background and chevron disclosure icons](https://fudge.design/share/pin-7845)
 
-[![Customer testimonial quote with bold lead-in and attribution on clean white background](https://pin.fontofweb.com/7844?format=jpg)](https://design.withfudge.com/share/pin-7844)
+[![Customer testimonial quote with bold lead-in and attribution on clean white background](https://pin.fontofweb.com/7844?format=jpg)](https://fudge.design/share/pin-7844)
 
-[Customer testimonial quote with bold lead-in and attribution on clean white background](https://design.withfudge.com/share/pin-7844)
+[Customer testimonial quote with bold lead-in and attribution on clean white background](https://fudge.design/share/pin-7844)
 
 ## Overview
 
@@ -205,3 +205,18 @@ The FAQ accordion remains functional at all widths, with question text wrapping 
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images, including the dashboard hero, account panel, FAQ accordion, and testimonial components. Mobile layouts, animation specifications, form states, and the full product dashboard beyond the account card are not represented. Arcadia Display-Variable is documented as a supplied family but its specific glyph set or optical sizing behavior is not visible in the extracted interface samples.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

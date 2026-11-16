@@ -1,26 +1,26 @@
 # How curated.supply is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/curated.supply-design)
+[Open the live Fudge conversation](https://fudge.design/share/curated.supply-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Minimal footer with starburst logo, email subscription pill, and affiliate disclosure on light gray background](https://pin.fontofweb.com/4066?format=jpg)](https://design.withfudge.com/share/pin-4066)
+[![Minimal footer with starburst logo, email subscription pill, and affiliate disclosure on light gray background](https://pin.fontofweb.com/4066?format=jpg)](https://fudge.design/share/pin-4066)
 
-[Minimal footer with starburst logo, email subscription pill, and affiliate disclosure on light gray background](https://design.withfudge.com/share/pin-4066)
+[Minimal footer with starburst logo, email subscription pill, and affiliate disclosure on light gray background](https://fudge.design/share/pin-4066)
 
-[![Full footer layout with starburst logo, email capture, multi-column navigation links, and copyright attribution](https://pin.fontofweb.com/4065?format=jpg)](https://design.withfudge.com/share/pin-4065)
+[![Full footer layout with starburst logo, email capture, multi-column navigation links, and copyright attribution](https://pin.fontofweb.com/4065?format=jpg)](https://fudge.design/share/pin-4065)
 
-[Full footer layout with starburst logo, email capture, multi-column navigation links, and copyright attribution](https://design.withfudge.com/share/pin-4065)
+[Full footer layout with starburst logo, email capture, multi-column navigation links, and copyright attribution](https://fudge.design/share/pin-4065)
 
-[![Homepage hero with centered headline, subscription form, category filter pills, and three-column product card grid](https://pin.fontofweb.com/4064?format=jpg)](https://design.withfudge.com/share/pin-4064)
+[![Homepage hero with centered headline, subscription form, category filter pills, and three-column product card grid](https://pin.fontofweb.com/4064?format=jpg)](https://fudge.design/share/pin-4064)
 
-[Homepage hero with centered headline, subscription form, category filter pills, and three-column product card grid](https://design.withfudge.com/share/pin-4064)
+[Homepage hero with centered headline, subscription form, category filter pills, and three-column product card grid](https://fudge.design/share/pin-4064)
 
-[![Browse categories page with tab navigation and four-column grid of category cards with product images and counts](https://pin.fontofweb.com/4063?format=jpg)](https://design.withfudge.com/share/pin-4063)
+[![Browse categories page with tab navigation and four-column grid of category cards with product images and counts](https://pin.fontofweb.com/4063?format=jpg)](https://fudge.design/share/pin-4063)
 
-[Browse categories page with tab navigation and four-column grid of category cards with product images and counts](https://design.withfudge.com/share/pin-4063)
+[Browse categories page with tab navigation and four-column grid of category cards with product images and counts](https://fudge.design/share/pin-4063)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Footer columns should stack vertically on mobile, with the brand and email captu
 ## Scope note
 
 This guide covers the homepage hero, category browse grid, and footer surfaces visible in the supplied captures. Product detail pages, search results, mobile navigation patterns, hover states, loading states, and any dark mode are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

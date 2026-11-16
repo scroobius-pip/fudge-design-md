@@ -1,22 +1,22 @@
 # How sohnne.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sohnne.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sohnne.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with cream modular sofa, marble coffee table, and Spring Into Style 40% Off Storewide promotion with Best Sellers product grid below](https://pin.fontofweb.com/8805?format=jpg)](https://design.withfudge.com/share/pin-8805)
+[![Homepage hero with cream modular sofa, marble coffee table, and Spring Into Style 40% Off Storewide promotion with Best Sellers product grid below](https://pin.fontofweb.com/8805?format=jpg)](https://fudge.design/share/pin-8805)
 
-[Homepage hero with cream modular sofa, marble coffee table, and Spring Into Style 40% Off Storewide promotion with Best Sellers product grid below](https://design.withfudge.com/share/pin-8805)
+[Homepage hero with cream modular sofa, marble coffee table, and Spring Into Style 40% Off Storewide promotion with Best Sellers product grid below](https://fudge.design/share/pin-8805)
 
-[![Product detail The Finer Dimensions tab showing technical line drawings of the Ball Chair with measurements and shipping specifications](https://pin.fontofweb.com/8804?format=jpg)](https://design.withfudge.com/share/pin-8804)
+[![Product detail The Finer Dimensions tab showing technical line drawings of the Ball Chair with measurements and shipping specifications](https://pin.fontofweb.com/8804?format=jpg)](https://fudge.design/share/pin-8804)
 
-[Product detail The Finer Dimensions tab showing technical line drawings of the Ball Chair with measurements and shipping specifications](https://design.withfudge.com/share/pin-8804)
+[Product detail The Finer Dimensions tab showing technical line drawings of the Ball Chair with measurements and shipping specifications](https://fudge.design/share/pin-8804)
 
-[![Product page for The Ball Chair with red upholstery variant, color swatches, pricing, Add to Cart button, delivery timeline, and Our Promises panel](https://pin.fontofweb.com/8803?format=jpg)](https://design.withfudge.com/share/pin-8803)
+[![Product page for The Ball Chair with red upholstery variant, color swatches, pricing, Add to Cart button, delivery timeline, and Our Promises panel](https://pin.fontofweb.com/8803?format=jpg)](https://fudge.design/share/pin-8803)
 
-[Product page for The Ball Chair with red upholstery variant, color swatches, pricing, Add to Cart button, delivery timeline, and Our Promises panel](https://design.withfudge.com/share/pin-8803)
+[Product page for The Ball Chair with red upholstery variant, color swatches, pricing, Add to Cart button, delivery timeline, and Our Promises panel](https://fudge.design/share/pin-8803)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Typography scales down modestly: the 56px hero display reduces to 40px or 32px o
 ## Scope note
 
 This guide covers the homepage and product detail page surfaces visible in the supplied images. Cart, checkout, account pages, and mobile-specific layouts are not represented. Motion design, hover states, and loading skeletons are not documented. The Affirm financing integration and live chat widget are noted as present but not fully specified. System-Sansserif and System-Systemui appear in the detected font list but are not used in core brand tokens. Measurements reflect the captured desktop viewport and should be validated across target breakpoints during implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

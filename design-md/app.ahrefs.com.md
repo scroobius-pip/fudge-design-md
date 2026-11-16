@@ -1,18 +1,18 @@
 # How app.ahrefs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.ahrefs.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.ahrefs.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Promotional banner with orange Subscribe button, sparkline icons, and pricing on dark charcoal background](https://pin.fontofweb.com/1744?format=jpg)](https://design.withfudge.com/share/pin-1744)
+[![Promotional banner with orange Subscribe button, sparkline icons, and pricing on dark charcoal background](https://pin.fontofweb.com/1744?format=jpg)](https://fudge.design/share/pin-1744)
 
-[Promotional banner with orange Subscribe button, sparkline icons, and pricing on dark charcoal background](https://design.withfudge.com/share/pin-1744)
+[Promotional banner with orange Subscribe button, sparkline icons, and pricing on dark charcoal background](https://fudge.design/share/pin-1744)
 
-[![Project import page with two-panel layout, Google Search Console branding, and step indicator on dark background](https://pin.fontofweb.com/1743?format=jpg)](https://design.withfudge.com/share/pin-1743)
+[![Project import page with two-panel layout, Google Search Console branding, and step indicator on dark background](https://pin.fontofweb.com/1743?format=jpg)](https://fudge.design/share/pin-1743)
 
-[Project import page with two-panel layout, Google Search Console branding, and step indicator on dark background](https://design.withfudge.com/share/pin-1743)
+[Project import page with two-panel layout, Google Search Console branding, and step indicator on dark background](https://fudge.design/share/pin-1743)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Touch targets for buttons should maintain minimum 44px height regardless of view
 ## Scope note
 
 This guide covers the project creation and promotional surfaces visible in the supplied images. Dashboard analytics, report views, navigation shells, and account management interfaces are not represented. Motion, loading states, form validation, and mobile-specific adaptations are not described. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

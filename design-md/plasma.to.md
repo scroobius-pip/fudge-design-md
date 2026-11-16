@@ -1,26 +1,26 @@
 # How plasma.to is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plasma.to-design)
+[Open the live Fudge conversation](https://fudge.design/share/plasma.to-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ page with wireframe cube hero, accordion questions, and category filter pills on white background](https://pin.fontofweb.com/3453?format=jpg)](https://design.withfudge.com/share/pin-3453)
+[![FAQ page with wireframe cube hero, accordion questions, and category filter pills on white background](https://pin.fontofweb.com/3453?format=jpg)](https://fudge.design/share/pin-3453)
 
-[FAQ page with wireframe cube hero, accordion questions, and category filter pills on white background](https://design.withfudge.com/share/pin-3453)
+[FAQ page with wireframe cube hero, accordion questions, and category filter pills on white background](https://fudge.design/share/pin-3453)
 
-[![Dark footer with 'Designed for stablecoins' tagline, multi-column links, and social icons on near-black surface](https://pin.fontofweb.com/3452?format=jpg)](https://design.withfudge.com/share/pin-3452)
+[![Dark footer with 'Designed for stablecoins' tagline, multi-column links, and social icons on near-black surface](https://pin.fontofweb.com/3452?format=jpg)](https://fudge.design/share/pin-3452)
 
-[Dark footer with 'Designed for stablecoins' tagline, multi-column links, and social icons on near-black surface](https://design.withfudge.com/share/pin-3452)
+[Dark footer with 'Designed for stablecoins' tagline, multi-column links, and social icons on near-black surface](https://fudge.design/share/pin-3452)
 
-[![Newsletter signup with centered headline, email input field, black subscribe button, and decorative pixel blocks](https://pin.fontofweb.com/3451?format=jpg)](https://design.withfudge.com/share/pin-3451)
+[![Newsletter signup with centered headline, email input field, black subscribe button, and decorative pixel blocks](https://pin.fontofweb.com/3451?format=jpg)](https://fudge.design/share/pin-3451)
 
-[Newsletter signup with centered headline, email input field, black subscribe button, and decorative pixel blocks](https://design.withfudge.com/share/pin-3451)
+[Newsletter signup with centered headline, email input field, black subscribe button, and decorative pixel blocks](https://fudge.design/share/pin-3451)
 
-[![Global reach section with wireframe globe, regional partner logos, and four large metric statistics on white background](https://pin.fontofweb.com/3450?format=jpg)](https://design.withfudge.com/share/pin-3450)
+[![Global reach section with wireframe globe, regional partner logos, and four large metric statistics on white background](https://pin.fontofweb.com/3450?format=jpg)](https://fudge.design/share/pin-3450)
 
-[Global reach section with wireframe globe, regional partner logos, and four large metric statistics on white background](https://design.withfudge.com/share/pin-3450)
+[Global reach section with wireframe globe, regional partner logos, and four large metric statistics on white background](https://fudge.design/share/pin-3450)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Typography scales down proportionally: hero-display at 3rem may reduce to 2rem o
 ## Scope note
 
 This guide covers the marketing homepage and FAQ page surfaces visible in the supplied images. Dashboard interfaces, mobile breakpoints, loading states, form validation, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

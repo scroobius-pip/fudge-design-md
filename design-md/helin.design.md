@@ -1,26 +1,26 @@
 # How helin.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/helin.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/helin.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with portrait avatar, social links, and four project case-study thumbnails in a two-column grid with light gray backgrounds](https://pin.fontofweb.com/5525?format=jpg)](https://design.withfudge.com/share/pin-5525)
+[![Homepage hero with portrait avatar, social links, and four project case-study thumbnails in a two-column grid with light gray backgrounds](https://pin.fontofweb.com/5525?format=jpg)](https://fudge.design/share/pin-5525)
 
-[Homepage hero with portrait avatar, social links, and four project case-study thumbnails in a two-column grid with light gray backgrounds](https://design.withfudge.com/share/pin-5525)
+[Homepage hero with portrait avatar, social links, and four project case-study thumbnails in a two-column grid with light gray backgrounds](https://fudge.design/share/pin-5525)
 
-[![About-me page with italic serif greeting, body biography text, and a 3D shelf illustration with books, clock, and decorative objects](https://pin.fontofweb.com/5526?format=jpg)](https://design.withfudge.com/share/pin-5526)
+[![About-me page with italic serif greeting, body biography text, and a 3D shelf illustration with books, clock, and decorative objects](https://pin.fontofweb.com/5526?format=jpg)](https://fudge.design/share/pin-5526)
 
-[About-me page with italic serif greeting, body biography text, and a 3D shelf illustration with books, clock, and decorative objects](https://design.withfudge.com/share/pin-5526)
+[About-me page with italic serif greeting, body biography text, and a 3D shelf illustration with books, clock, and decorative objects](https://fudge.design/share/pin-5526)
 
-[![Work experience timeline with company logos, role titles, locations, and date ranges in a vertical stacked list with muted metadata](https://pin.fontofweb.com/5527?format=jpg)](https://design.withfudge.com/share/pin-5527)
+[![Work experience timeline with company logos, role titles, locations, and date ranges in a vertical stacked list with muted metadata](https://pin.fontofweb.com/5527?format=jpg)](https://fudge.design/share/pin-5527)
 
-[Work experience timeline with company logos, role titles, locations, and date ranges in a vertical stacked list with muted metadata](https://design.withfudge.com/share/pin-5527)
+[Work experience timeline with company logos, role titles, locations, and date ranges in a vertical stacked list with muted metadata](https://fudge.design/share/pin-5527)
 
-[![Testimonials section with three columns of peer recommendations, avatar photos, names, titles, and date stamps with horizontal dividers](https://pin.fontofweb.com/5528?format=jpg)](https://design.withfudge.com/share/pin-5528)
+[![Testimonials section with three columns of peer recommendations, avatar photos, names, titles, and date stamps with horizontal dividers](https://pin.fontofweb.com/5528?format=jpg)](https://fudge.design/share/pin-5528)
 
-[Testimonials section with three columns of peer recommendations, avatar photos, names, titles, and date stamps with horizontal dividers](https://design.withfudge.com/share/pin-5528)
+[Testimonials section with three columns of peer recommendations, avatar photos, names, titles, and date stamps with horizontal dividers](https://fudge.design/share/pin-5528)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The about page's single-column flow adapts naturally, though the 3D shelf illust
 ## Scope note
 
 This guide covers the homepage and about-me page surfaces visible in the supplied images. Case-study detail pages, mobile breakpoints, hover and focus states, loading behavior, and form interactions are not represented. The contact flow, sketch gallery, and any additional project pages fall outside the current scope. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

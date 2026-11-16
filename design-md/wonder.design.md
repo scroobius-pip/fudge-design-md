@@ -1,22 +1,22 @@
 # How wonder.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wonder.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/wonder.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with 'Wonder What's Possible' headline, product screenshot of AI design canvas interface, and purple 'Start for free' CTA button on near-black background](https://pin.fontofweb.com/8836?format=jpg)](https://design.withfudge.com/share/pin-8836)
+[![Hero section with 'Wonder What's Possible' headline, product screenshot of AI design canvas interface, and purple 'Start for free' CTA button on near-black background](https://pin.fontofweb.com/8836?format=jpg)](https://fudge.design/share/pin-8836)
 
-[Hero section with 'Wonder What's Possible' headline, product screenshot of AI design canvas interface, and purple 'Start for free' CTA button on near-black background](https://design.withfudge.com/share/pin-8836)
+[Hero section with 'Wonder What's Possible' headline, product screenshot of AI design canvas interface, and purple 'Start for free' CTA button on near-black background](https://fudge.design/share/pin-8836)
 
-[![Pricing grid showing four tiers from Free to Max with white text on dark cards, followed by mission statement with gradient background and purple CTA](https://pin.fontofweb.com/8835?format=jpg)](https://design.withfudge.com/share/pin-8835)
+[![Pricing grid showing four tiers from Free to Max with white text on dark cards, followed by mission statement with gradient background and purple CTA](https://pin.fontofweb.com/8835?format=jpg)](https://fudge.design/share/pin-8835)
 
-[Pricing grid showing four tiers from Free to Max with white text on dark cards, followed by mission statement with gradient background and purple CTA](https://design.withfudge.com/share/pin-8835)
+[Pricing grid showing four tiers from Free to Max with white text on dark cards, followed by mission statement with gradient background and purple CTA](https://fudge.design/share/pin-8835)
 
-[![Feature grid titled 'Wonder Toolkit' with four capability cards showing ideation, image generation, shaders, and code export with syntax-highlighted code blocks](https://pin.fontofweb.com/8834?format=jpg)](https://design.withfudge.com/share/pin-8834)
+[![Feature grid titled 'Wonder Toolkit' with four capability cards showing ideation, image generation, shaders, and code export with syntax-highlighted code blocks](https://pin.fontofweb.com/8834?format=jpg)](https://fudge.design/share/pin-8834)
 
-[Feature grid titled 'Wonder Toolkit' with four capability cards showing ideation, image generation, shaders, and code export with syntax-highlighted code blocks](https://design.withfudge.com/share/pin-8834)
+[Feature grid titled 'Wonder Toolkit' with four capability cards showing ideation, image generation, shaders, and code export with syntax-highlighted code blocks](https://fudge.design/share/pin-8834)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The hero headline at `50px` may require reduction on mobile to maintain comforta
 ## Scope note
 
 This guide covers the marketing homepage visible in the supplied images, including hero, feature toolkit, pricing, and mission sections. Navigation dropdowns, mobile layouts, form interactions, account dashboards, and the design tool interface itself are not represented. Motion design, loading states, and error handling are not documented. Measurements are derived from the exact values in the design facts and rounded to the 2px relative unit where applicable.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

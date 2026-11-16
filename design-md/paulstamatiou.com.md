@@ -1,26 +1,26 @@
 # How paulstamatiou.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/paulstamatiou.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/paulstamatiou.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![2025 year-in-review article with dark olive background, left sidebar navigation with icon buttons, and serif body text with underlined inline links](https://pin.fontofweb.com/6704?format=jpg)](https://design.withfudge.com/share/pin-6704)
+[![2025 year-in-review article with dark olive background, left sidebar navigation with icon buttons, and serif body text with underlined inline links](https://pin.fontofweb.com/6704?format=jpg)](https://fudge.design/share/pin-6704)
 
-[2025 year-in-review article with dark olive background, left sidebar navigation with icon buttons, and serif body text with underlined inline links](https://design.withfudge.com/share/pin-6704)
+[2025 year-in-review article with dark olive background, left sidebar navigation with icon buttons, and serif body text with underlined inline links](https://fudge.design/share/pin-6704)
 
-[![Homepage hero with dark olive background, profile introduction, pill-shaped MORE button, email subscription field, and posts list panel with rounded corners](https://pin.fontofweb.com/6703?format=jpg)](https://design.withfudge.com/share/pin-6703)
+[![Homepage hero with dark olive background, profile introduction, pill-shaped MORE button, email subscription field, and posts list panel with rounded corners](https://pin.fontofweb.com/6703?format=jpg)](https://fudge.design/share/pin-6703)
 
-[Homepage hero with dark olive background, profile introduction, pill-shaped MORE button, email subscription field, and posts list panel with rounded corners](https://design.withfudge.com/share/pin-6703)
+[Homepage hero with dark olive background, profile introduction, pill-shaped MORE button, email subscription field, and posts list panel with rounded corners](https://fudge.design/share/pin-6703)
 
-[![Light cream footer section with profile avatar, email subscription input, previous and recently lists, and minimal footer navigation links](https://pin.fontofweb.com/3515?format=jpg)](https://design.withfudge.com/share/pin-3515)
+[![Light cream footer section with profile avatar, email subscription input, previous and recently lists, and minimal footer navigation links](https://pin.fontofweb.com/3515?format=jpg)](https://fudge.design/share/pin-3515)
 
-[Light cream footer section with profile avatar, email subscription input, previous and recently lists, and minimal footer navigation links](https://design.withfudge.com/share/pin-3515)
+[Light cream footer section with profile avatar, email subscription input, previous and recently lists, and minimal footer navigation links](https://fudge.design/share/pin-3515)
 
-[![Browse No More article with dark olive background, serif display heading, and body text with italicized phrases and underlined links](https://pin.fontofweb.com/3514?format=jpg)](https://design.withfudge.com/share/pin-3514)
+[![Browse No More article with dark olive background, serif display heading, and body text with italicized phrases and underlined links](https://pin.fontofweb.com/3514?format=jpg)](https://fudge.design/share/pin-3514)
 
-[Browse No More article with dark olive background, serif display heading, and body text with italicized phrases and underlined links](https://design.withfudge.com/share/pin-3514)
+[Browse No More article with dark olive background, serif display heading, and body text with italicized phrases and underlined links](https://fudge.design/share/pin-3514)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Image containers should maintain their rounded corners at all sizes, with aspect
 ## Scope note
 
 This guide covers the homepage and article page surfaces visible in the supplied images. The light cream footer from older images suggests a previous or alternate theme variant not present in current pages. Pagination behavior, search functionality, and individual post permutations beyond the shown layouts are not documented. Motion, loading states, and form validation visuals are not represented in the still images. Pp Fragment Glare Medium and Psc-Italic Regular are present in source files but not visible in the shown interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Side navigation](/share/designs-with-layout.shell.side_nav)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

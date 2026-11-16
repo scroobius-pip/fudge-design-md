@@ -1,26 +1,26 @@
 # How oxide.computer is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oxide.computer-design)
+[Open the live Fudge conversation](https://fudge.design/share/oxide.computer-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with Oxide logo, navigation bar, and large display headline on near-black background with teal accent badge](https://pin.fontofweb.com/5418?format=jpg)](https://design.withfudge.com/share/pin-5418)
+[![Hero section with Oxide logo, navigation bar, and large display headline on near-black background with teal accent badge](https://pin.fontofweb.com/5418?format=jpg)](https://fudge.design/share/pin-5418)
 
-[Hero section with Oxide logo, navigation bar, and large display headline on near-black background with teal accent badge](https://design.withfudge.com/share/pin-5418)
+[Hero section with Oxide logo, navigation bar, and large display headline on near-black background with teal accent badge](https://fudge.design/share/pin-5418)
 
-[![Split-panel diagram showing conventional rack architecture with ASCII-style illustration and explanatory text with red status indicators](https://pin.fontofweb.com/5417?format=jpg)](https://design.withfudge.com/share/pin-5417)
+[![Split-panel diagram showing conventional rack architecture with ASCII-style illustration and explanatory text with red status indicators](https://pin.fontofweb.com/5417?format=jpg)](https://fudge.design/share/pin-5417)
 
-[Split-panel diagram showing conventional rack architecture with ASCII-style illustration and explanatory text with red status indicators](https://design.withfudge.com/share/pin-5417)
+[Split-panel diagram showing conventional rack architecture with ASCII-style illustration and explanatory text with red status indicators](https://fudge.design/share/pin-5417)
 
-[![Oxide rack system diagram with teal-outlined server components and product photograph showing green-lit hardware chassis](https://pin.fontofweb.com/5416?format=jpg)](https://design.withfudge.com/share/pin-5416)
+[![Oxide rack system diagram with teal-outlined server components and product photograph showing green-lit hardware chassis](https://pin.fontofweb.com/5416?format=jpg)](https://fudge.design/share/pin-5416)
 
-[Oxide rack system diagram with teal-outlined server components and product photograph showing green-lit hardware chassis](https://design.withfudge.com/share/pin-5416)
+[Oxide rack system diagram with teal-outlined server components and product photograph showing green-lit hardware chassis](https://fudge.design/share/pin-5416)
 
-[![Feature grid with monospace terminal-style illustrations, hex code displays, and section headlines on dark background](https://pin.fontofweb.com/5415?format=jpg)](https://design.withfudge.com/share/pin-5415)
+[![Feature grid with monospace terminal-style illustrations, hex code displays, and section headlines on dark background](https://pin.fontofweb.com/5415?format=jpg)](https://fudge.design/share/pin-5415)
 
-[Feature grid with monospace terminal-style illustrations, hex code displays, and section headlines on dark background](https://design.withfudge.com/share/pin-5415)
+[Feature grid with monospace terminal-style illustrations, hex code displays, and section headlines on dark background](https://fudge.design/share/pin-5415)
 
 ## Overview
 
@@ -207,3 +207,18 @@ Diagram panels require particular attention: the ASCII art depends on fixed char
 ## Scope note
 
 This guide covers the Oxide Computer Company homepage and its characteristic dark technical aesthetic. It does not include interior product pages, documentation interfaces, or the authenticated control panel. Measurements are practical adaptation targets derived from visual inspection. Mobile breakpoints, motion design, form components, and error page treatments are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

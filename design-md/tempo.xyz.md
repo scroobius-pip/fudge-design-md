@@ -1,26 +1,26 @@
 # How tempo.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tempo.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/tempo.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with light background, dark primary button, and dense diagonal transaction log texture on the right half](https://pin.fontofweb.com/5486?format=jpg)](https://design.withfudge.com/share/pin-5486)
+[![Homepage hero with light background, dark primary button, and dense diagonal transaction log texture on the right half](https://pin.fontofweb.com/5486?format=jpg)](https://fudge.design/share/pin-5486)
 
-[Homepage hero with light background, dark primary button, and dense diagonal transaction log texture on the right half](https://design.withfudge.com/share/pin-5486)
+[Homepage hero with light background, dark primary button, and dense diagonal transaction log texture on the right half](https://fudge.design/share/pin-5486)
 
-[![Homepage hero in dark mode with inverted button colors and the same diagonal transaction texture](https://pin.fontofweb.com/5485?format=jpg)](https://design.withfudge.com/share/pin-5485)
+[![Homepage hero in dark mode with inverted button colors and the same diagonal transaction texture](https://pin.fontofweb.com/5485?format=jpg)](https://fudge.design/share/pin-5485)
 
-[Homepage hero in dark mode with inverted button colors and the same diagonal transaction texture](https://design.withfudge.com/share/pin-5485)
+[Homepage hero in dark mode with inverted button colors and the same diagonal transaction texture](https://fudge.design/share/pin-5485)
 
-[![Lower homepage section showing stablecoin messaging with angled transaction stream and dark bottom banner](https://pin.fontofweb.com/5484?format=jpg)](https://design.withfudge.com/share/pin-5484)
+[![Lower homepage section showing stablecoin messaging with angled transaction stream and dark bottom banner](https://pin.fontofweb.com/5484?format=jpg)](https://fudge.design/share/pin-5484)
 
-[Lower homepage section showing stablecoin messaging with angled transaction stream and dark bottom banner](https://design.withfudge.com/share/pin-5484)
+[Lower homepage section showing stablecoin messaging with angled transaction stream and dark bottom banner](https://fudge.design/share/pin-5484)
 
-[![Infrastructure partners page with large serif headline, partner logo grid, and light warm-gray background](https://pin.fontofweb.com/3442?format=jpg)](https://design.withfudge.com/share/pin-3442)
+[![Infrastructure partners page with large serif headline, partner logo grid, and light warm-gray background](https://pin.fontofweb.com/3442?format=jpg)](https://fudge.design/share/pin-3442)
 
-[Infrastructure partners page with large serif headline, partner logo grid, and light warm-gray background](https://design.withfudge.com/share/pin-3442)
+[Infrastructure partners page with large serif headline, partner logo grid, and light warm-gray background](https://fudge.design/share/pin-3442)
 
 ## Overview
 
@@ -170,3 +170,18 @@ The announcement bar may wrap to multiple lines on narrow screens, with the link
 ## Scope note
 
 This guide covers the homepage hero, navigation system, announcement bar, and infrastructure partners page as visible in the supplied images. Footer content, additional interior pages, form interactions, loading states, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit. Mobile breakpoint behavior and detailed component states should be verified during implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

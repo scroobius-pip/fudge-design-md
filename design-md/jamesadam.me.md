@@ -1,18 +1,18 @@
 # How jamesadam.me is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jamesadam.me-design)
+[Open the live Fudge conversation](https://fudge.design/share/jamesadam.me-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full blog post page showing amber monospace typography on near-black background with navigation header, article title, metadata, and section headings with dotted underlines](https://pin.fontofweb.com/6343?format=jpg)](https://design.withfudge.com/share/pin-6343)
+[![Full blog post page showing amber monospace typography on near-black background with navigation header, article title, metadata, and section headings with dotted underlines](https://pin.fontofweb.com/6343?format=jpg)](https://fudge.design/share/pin-6343)
 
-[Full blog post page showing amber monospace typography on near-black background with navigation header, article title, metadata, and section headings with dotted underlines](https://design.withfudge.com/share/pin-6343)
+[Full blog post page showing amber monospace typography on near-black background with navigation header, article title, metadata, and section headings with dotted underlines](https://fudge.design/share/pin-6343)
 
-[![Lower article section with data table featuring amber borders and text, section heading with dotted underline, and inline code label on dark background](https://pin.fontofweb.com/6344?format=jpg)](https://design.withfudge.com/share/pin-6344)
+[![Lower article section with data table featuring amber borders and text, section heading with dotted underline, and inline code label on dark background](https://pin.fontofweb.com/6344?format=jpg)](https://fudge.design/share/pin-6344)
 
-[Lower article section with data table featuring amber borders and text, section heading with dotted underline, and inline code label on dark background](https://design.withfudge.com/share/pin-6344)
+[Lower article section with data table featuring amber borders and text, section heading with dotted underline, and inline code label on dark background](https://fudge.design/share/pin-6344)
 
 ## Overview
 
@@ -183,3 +183,18 @@ No breakpoint-specific layout changes are visible in the material; the system's 
 ## Scope note
 
 This guide covers the article page surface of jamesadam.me as visible in the supplied material. Navigation pages, index listings, archive views, and any interactive states beyond static reading are not represented. No mobile, tablet, or wide-desktop breakpoint variations are documented. Measurements derive from the exact values provided for this page type.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Article page](/share/designs-with-page.content.article)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

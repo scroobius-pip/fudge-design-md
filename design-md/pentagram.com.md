@@ -1,26 +1,26 @@
 # How pentagram.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pentagram.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pentagram.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage footer with oversized Pentagram wordmark, news events list, and contact emails on black background](https://pin.fontofweb.com/8273?format=jpg)](https://design.withfudge.com/share/pin-8273)
+[![Homepage footer with oversized Pentagram wordmark, news events list, and contact emails on black background](https://pin.fontofweb.com/8273?format=jpg)](https://fudge.design/share/pin-8273)
 
-[Homepage footer with oversized Pentagram wordmark, news events list, and contact emails on black background](https://design.withfudge.com/share/pin-8273)
+[Homepage footer with oversized Pentagram wordmark, news events list, and contact emails on black background](https://fudge.design/share/pin-8273)
 
-[![Contact page with large serif heading and four office building photographs in a two-column grid](https://pin.fontofweb.com/8272?format=jpg)](https://design.withfudge.com/share/pin-8272)
+[![Contact page with large serif heading and four office building photographs in a two-column grid](https://pin.fontofweb.com/8272?format=jpg)](https://fudge.design/share/pin-8272)
 
-[Contact page with large serif heading and four office building photographs in a two-column grid](https://design.withfudge.com/share/pin-8272)
+[Contact page with large serif heading and four office building photographs in a two-column grid](https://fudge.design/share/pin-8272)
 
-[![News listing page with filterable categories, date-stamped events, and press article thumbnails](https://pin.fontofweb.com/8271?format=jpg)](https://design.withfudge.com/share/pin-8271)
+[![News listing page with filterable categories, date-stamped events, and press article thumbnails](https://pin.fontofweb.com/8271?format=jpg)](https://fudge.design/share/pin-8271)
 
-[News listing page with filterable categories, date-stamped events, and press article thumbnails](https://design.withfudge.com/share/pin-8271)
+[News listing page with filterable categories, date-stamped events, and press article thumbnails](https://fudge.design/share/pin-8271)
 
-[![About page partner grid with black-and-white portrait photographs and name-location captions](https://pin.fontofweb.com/8270?format=jpg)](https://design.withfudge.com/share/pin-8270)
+[![About page partner grid with black-and-white portrait photographs and name-location captions](https://pin.fontofweb.com/8270?format=jpg)](https://fudge.design/share/pin-8270)
 
-[About page partner grid with black-and-white portrait photographs and name-location captions](https://design.withfudge.com/share/pin-8270)
+[About page partner grid with black-and-white portrait photographs and name-location captions](https://fudge.design/share/pin-8270)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Navigation should collapse to a menu trigger on mobile rather than wrapping. Pag
 ## Scope note
 
 This guide covers the homepage, About, News, and Contact page surfaces visible in the supplied images. Project detail pages, search functionality, archive browsing, and mobile navigation patterns are not represented. Motion, hover states, and loading behavior are not described. Measurements are derived from the retained interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

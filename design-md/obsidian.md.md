@@ -1,26 +1,26 @@
 # How obsidian.md is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/obsidian.md-design)
+[Open the live Fudge conversation](https://fudge.design/share/obsidian.md-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with dark background, purple text links, and accordion-style questions with chevron indicators](https://pin.fontofweb.com/4106?format=jpg)](https://design.withfudge.com/share/pin-4106)
+[![FAQ section with dark background, purple text links, and accordion-style questions with chevron indicators](https://pin.fontofweb.com/4106?format=jpg)](https://fudge.design/share/pin-4106)
 
-[FAQ section with dark background, purple text links, and accordion-style questions with chevron indicators](https://design.withfudge.com/share/pin-4106)
+[FAQ section with dark background, purple text links, and accordion-style questions with chevron indicators](https://fudge.design/share/pin-4106)
 
-[![Pricing cards for Sync and Publish add-ons with purple primary buttons, gray secondary buttons, and green checkmarks](https://pin.fontofweb.com/4105?format=jpg)](https://design.withfudge.com/share/pin-4105)
+[![Pricing cards for Sync and Publish add-ons with purple primary buttons, gray secondary buttons, and green checkmarks](https://pin.fontofweb.com/4105?format=jpg)](https://fudge.design/share/pin-4105)
 
-[Pricing cards for Sync and Publish add-ons with purple primary buttons, gray secondary buttons, and green checkmarks](https://design.withfudge.com/share/pin-4105)
+[Pricing cards for Sync and Publish add-ons with purple primary buttons, gray secondary buttons, and green checkmarks](https://fudge.design/share/pin-4105)
 
-[![Hero section with large white headline featuring green underline accent, yearly billing toggle, and pricing cards](https://pin.fontofweb.com/4104?format=jpg)](https://design.withfudge.com/share/pin-4104)
+[![Hero section with large white headline featuring green underline accent, yearly billing toggle, and pricing cards](https://pin.fontofweb.com/4104?format=jpg)](https://fudge.design/share/pin-4104)
 
-[Hero section with large white headline featuring green underline accent, yearly billing toggle, and pricing cards](https://design.withfudge.com/share/pin-4104)
+[Hero section with large white headline featuring green underline accent, yearly billing toggle, and pricing cards](https://fudge.design/share/pin-4104)
 
-[![Homepage footer with community cards, Obsidian logo, and multi-column footer navigation on dark background](https://pin.fontofweb.com/4103?format=jpg)](https://design.withfudge.com/share/pin-4103)
+[![Homepage footer with community cards, Obsidian logo, and multi-column footer navigation on dark background](https://pin.fontofweb.com/4103?format=jpg)](https://fudge.design/share/pin-4103)
 
-[Homepage footer with community cards, Obsidian logo, and multi-column footer navigation on dark background](https://design.withfudge.com/share/pin-4103)
+[Homepage footer with community cards, Obsidian logo, and multi-column footer navigation on dark background](https://fudge.design/share/pin-4103)
 
 ## Overview
 
@@ -191,3 +191,18 @@ The billing toggle should remain centered and functional at all widths, with tou
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, animation specifications, form components beyond the billing toggle, and the in-application interface are not represented. Measurements are practical adaptation targets derived from the visible desktop layouts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

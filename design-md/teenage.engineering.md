@@ -1,26 +1,26 @@
 # How teenage.engineering is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/teenage.engineering-design)
+[Open the live Fudge conversation](https://fudge.design/share/teenage.engineering-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Horizontal navigation bar with custom iconography for products, store, latest, and finder sections alongside Japanese text and KO logo mark on light gray background.](https://pin.fontofweb.com/10227?format=jpg)](https://design.withfudge.com/share/pin-10227)
+[![Horizontal navigation bar with custom iconography for products, store, latest, and finder sections alongside Japanese text and KO logo mark on light gray background.](https://pin.fontofweb.com/10227?format=jpg)](https://fudge.design/share/pin-10227)
 
-[Horizontal navigation bar with custom iconography for products, store, latest, and finder sections alongside Japanese text and KO logo mark on light gray background.](https://design.withfudge.com/share/pin-10227)
+[Horizontal navigation bar with custom iconography for products, store, latest, and finder sections alongside Japanese text and KO logo mark on light gray background.](https://fudge.design/share/pin-10227)
 
-[![Editorial article header with thin sans-serif title 'catching up with INVT' and date above a full-bleed polaroid-style photograph with rounded corners.](https://pin.fontofweb.com/10226?format=jpg)](https://design.withfudge.com/share/pin-10226)
+[![Editorial article header with thin sans-serif title 'catching up with INVT' and date above a full-bleed polaroid-style photograph with rounded corners.](https://pin.fontofweb.com/10226?format=jpg)](https://fudge.design/share/pin-10226)
 
-[Editorial article header with thin sans-serif title 'catching up with INVT' and date above a full-bleed polaroid-style photograph with rounded corners.](https://design.withfudge.com/share/pin-10226)
+[Editorial article header with thin sans-serif title 'catching up with INVT' and date above a full-bleed polaroid-style photograph with rounded corners.](https://fudge.design/share/pin-10226)
 
-[![Long-form article body with light weight typography, grayscale photography, and muted caption text describing founders and accessibility philosophy.](https://pin.fontofweb.com/10225?format=jpg)](https://design.withfudge.com/share/pin-10225)
+[![Long-form article body with light weight typography, grayscale photography, and muted caption text describing founders and accessibility philosophy.](https://pin.fontofweb.com/10225?format=jpg)](https://fudge.design/share/pin-10225)
 
-[Long-form article body with light weight typography, grayscale photography, and muted caption text describing founders and accessibility philosophy.](https://design.withfudge.com/share/pin-10225)
+[Long-form article body with light weight typography, grayscale photography, and muted caption text describing founders and accessibility philosophy.](https://fudge.design/share/pin-10225)
 
-[![Article section with bold question header and dense paragraph text about record cutter engineering above a detailed product photography image with rounded corners.](https://pin.fontofweb.com/10224?format=jpg)](https://design.withfudge.com/share/pin-10224)
+[![Article section with bold question header and dense paragraph text about record cutter engineering above a detailed product photography image with rounded corners.](https://pin.fontofweb.com/10224?format=jpg)](https://fudge.design/share/pin-10224)
 
-[Article section with bold question header and dense paragraph text about record cutter engineering above a detailed product photography image with rounded corners.](https://design.withfudge.com/share/pin-10224)
+[Article section with bold question header and dense paragraph text about record cutter engineering above a detailed product photography image with rounded corners.](https://fudge.design/share/pin-10224)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The two primary modes—light editorial and dark product—maintain their palett
 ## Scope note
 
 This guide covers the editorial and product page surfaces visible in the supplied imagery, including the "now" news section and OP-1 product pages. The full e-commerce flow, checkout process, and account interfaces are not represented. Motion behavior, hover states, and mobile-specific layouts were not captured and should be designed to extend the visible static system. The type system uses the exact supplied families: Univers Te 20-Light Oct 2022, Univers Te 20-Thin Oct 2022, and Univers Te 40-Light Oct 2022.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Consumer products](/share/designs-with-industry.consumer_products)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

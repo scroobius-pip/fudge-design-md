@@ -1,26 +1,26 @@
 # How neonrated.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/neonrated.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/neonrated.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized NEON wordmark where the letter O is replaced by a rounded film still from Anora in vivid magenta and blue lighting](https://pin.fontofweb.com/2846?format=jpg)](https://design.withfudge.com/share/pin-2846)
+[![Homepage hero with oversized NEON wordmark where the letter O is replaced by a rounded film still from Anora in vivid magenta and blue lighting](https://pin.fontofweb.com/2846?format=jpg)](https://fudge.design/share/pin-2846)
 
-[Homepage hero with oversized NEON wordmark where the letter O is replaced by a rounded film still from Anora in vivid magenta and blue lighting](https://design.withfudge.com/share/pin-2846)
+[Homepage hero with oversized NEON wordmark where the letter O is replaced by a rounded film still from Anora in vivid magenta and blue lighting](https://fudge.design/share/pin-2846)
 
-[![All Films grid view showing four-column card layout with rounded poster thumbnails and a black filter bar beneath the navigation](https://pin.fontofweb.com/2848?format=jpg)](https://design.withfudge.com/share/pin-2848)
+[![All Films grid view showing four-column card layout with rounded poster thumbnails and a black filter bar beneath the navigation](https://pin.fontofweb.com/2848?format=jpg)](https://fudge.design/share/pin-2848)
 
-[All Films grid view showing four-column card layout with rounded poster thumbnails and a black filter bar beneath the navigation](https://design.withfudge.com/share/pin-2848)
+[All Films grid view showing four-column card layout with rounded poster thumbnails and a black filter bar beneath the navigation](https://fudge.design/share/pin-2848)
 
-[![All Films list view displaying film titles in bold display type with director, genre, and release date columns separated by hairline rules](https://pin.fontofweb.com/2847?format=jpg)](https://design.withfudge.com/share/pin-2847)
+[![All Films list view displaying film titles in bold display type with director, genre, and release date columns separated by hairline rules](https://pin.fontofweb.com/2847?format=jpg)](https://fudge.design/share/pin-2847)
 
-[All Films list view displaying film titles in bold display type with director, genre, and release date columns separated by hairline rules](https://design.withfudge.com/share/pin-2847)
+[All Films list view displaying film titles in bold display type with director, genre, and release date columns separated by hairline rules](https://fudge.design/share/pin-2847)
 
-[![FAQ page with massive FAQ headline, sticky category navigation, and accordion questions with plus and close icons](https://pin.fontofweb.com/2849?format=jpg)](https://design.withfudge.com/share/pin-2849)
+[![FAQ page with massive FAQ headline, sticky category navigation, and accordion questions with plus and close icons](https://pin.fontofweb.com/2849?format=jpg)](https://fudge.design/share/pin-2849)
 
-[FAQ page with massive FAQ headline, sticky category navigation, and accordion questions with plus and close icons](https://design.withfudge.com/share/pin-2849)
+[FAQ page with massive FAQ headline, sticky category navigation, and accordion questions with plus and close icons](https://fudge.design/share/pin-2849)
 
 ## Overview
 
@@ -152,3 +152,18 @@ The system should maintain its typographic character across viewports while adap
 ## Scope note
 
 This guide covers the homepage hero, film catalog grid and list views, and FAQ page surfaces visible in the supplied images. Footer content, mobile navigation patterns, search functionality, individual film detail pages, and checkout flows are not represented. Motion behavior, hover states, and loading sequences are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

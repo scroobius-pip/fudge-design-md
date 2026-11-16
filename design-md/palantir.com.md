@@ -1,26 +1,26 @@
 # How palantir.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/palantir.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/palantir.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero section with dark background, large 'AI-Powered for Every' display text, and contact form modal overlay with Alliance typography](https://pin.fontofweb.com/9369?format=jpg)](https://design.withfudge.com/share/pin-9369)
+[![Homepage hero section with dark background, large 'AI-Powered for Every' display text, and contact form modal overlay with Alliance typography](https://pin.fontofweb.com/9369?format=jpg)](https://fudge.design/share/pin-9369)
 
-[Homepage hero section with dark background, large 'AI-Powered for Every' display text, and contact form modal overlay with Alliance typography](https://design.withfudge.com/share/pin-9369)
+[Homepage hero section with dark background, large 'AI-Powered for Every' display text, and contact form modal overlay with Alliance typography](https://fudge.design/share/pin-9369)
 
-[![Dark footer with multi-column link grid, social pill buttons, and copyright text on near-black background](https://pin.fontofweb.com/9368?format=jpg)](https://design.withfudge.com/share/pin-9368)
+[![Dark footer with multi-column link grid, social pill buttons, and copyright text on near-black background](https://pin.fontofweb.com/9368?format=jpg)](https://fudge.design/share/pin-9368)
 
-[Dark footer with multi-column link grid, social pill buttons, and copyright text on near-black background](https://design.withfudge.com/share/pin-9368)
+[Dark footer with multi-column link grid, social pill buttons, and copyright text on near-black background](https://fudge.design/share/pin-9368)
 
-[![404 error page with massive '404 Error' display type, 'Page not found... yet' message, and full footer](https://pin.fontofweb.com/9367?format=jpg)](https://design.withfudge.com/share/pin-9367)
+[![404 error page with massive '404 Error' display type, 'Page not found... yet' message, and full footer](https://pin.fontofweb.com/9367?format=jpg)](https://fudge.design/share/pin-9367)
 
-[404 error page with massive '404 Error' display type, 'Page not found... yet' message, and full footer](https://design.withfudge.com/share/pin-9367)
+[404 error page with massive '404 Error' display type, 'Page not found... yet' message, and full footer](https://fudge.design/share/pin-9367)
 
-[![Homepage product section showing 'Warp' display text with industrial imagery and contact form modal](https://pin.fontofweb.com/2345?format=jpg)](https://design.withfudge.com/share/pin-2345)
+[![Homepage product section showing 'Warp' display text with industrial imagery and contact form modal](https://pin.fontofweb.com/2345?format=jpg)](https://fudge.design/share/pin-2345)
 
-[Homepage product section showing 'Warp' display text with industrial imagery and contact form modal](https://design.withfudge.com/share/pin-2345)
+[Homepage product section showing 'Warp' display text with industrial imagery and contact form modal](https://fudge.design/share/pin-2345)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The header utilities (search, menu) may consolidate into a single menu trigger o
 ## Scope note
 
 This guide covers the homepage hero, contact modal, 404 error page, and global footer as visible in the supplied images. Navigation dropdowns, interior page templates, component hover states, and mobile-specific layouts are not represented. The exact spacing values derive from desktop measurements and should be adapted for narrower viewports. Applesystem and Times appear in the source detection as fallback families but are not actively used in the visible interface.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

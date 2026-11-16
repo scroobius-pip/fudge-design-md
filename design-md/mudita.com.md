@@ -1,18 +1,18 @@
 # How mudita.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mudita.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mudita.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![MuditaOS product page hero with E Ink phone mockup, navigation tabs, and dark CTA button on light grid background](https://pin.fontofweb.com/3740?format=jpg)](https://design.withfudge.com/share/pin-3740)
+[![MuditaOS product page hero with E Ink phone mockup, navigation tabs, and dark CTA button on light grid background](https://pin.fontofweb.com/3740?format=jpg)](https://fudge.design/share/pin-3740)
 
-[MuditaOS product page hero with E Ink phone mockup, navigation tabs, and dark CTA button on light grid background](https://design.withfudge.com/share/pin-3740)
+[MuditaOS product page hero with E Ink phone mockup, navigation tabs, and dark CTA button on light grid background](https://fudge.design/share/pin-3740)
 
-[![Cookie consent banner with black primary button, white secondary button, and Mudita logo mark](https://pin.fontofweb.com/3739?format=jpg)](https://design.withfudge.com/share/pin-3739)
+[![Cookie consent banner with black primary button, white secondary button, and Mudita logo mark](https://pin.fontofweb.com/3739?format=jpg)](https://fudge.design/share/pin-3739)
 
-[Cookie consent banner with black primary button, white secondary button, and Mudita logo mark](https://design.withfudge.com/share/pin-3739)
+[Cookie consent banner with black primary button, white secondary button, and Mudita logo mark](https://fudge.design/share/pin-3739)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Section spacing should compress from 6rem to 4rem on tablet and 3rem on mobile, 
 ## Scope note
 
 This guide covers the MuditaOS product page and cookie consent banner visible in the supplied material. Other product pages, marketing landing pages, checkout flows, and account interfaces are not represented. Motion, hover states, loading indicators, and form validation patterns are not documented. Measurements are practical adaptation targets based on visible proportions in the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

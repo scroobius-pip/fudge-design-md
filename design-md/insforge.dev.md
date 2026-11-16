@@ -1,18 +1,18 @@
 # How insforge.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/insforge.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/insforge.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid showing six backend service cards with line-art icons on dark charcoal surface, including Postgres Database, Cloud Storage, Authentication, Functions, Realtime, AI](https://pin.fontofweb.com/8815?format=jpg)](https://design.withfudge.com/share/pin-8815)
+[![Feature grid showing six backend service cards with line-art icons on dark charcoal surface, including Postgres Database, Cloud Storage, Authentication, Functions, Realtime, AI](https://pin.fontofweb.com/8815?format=jpg)](https://fudge.design/share/pin-8815)
 
-[Feature grid showing six backend service cards with line-art icons on dark charcoal surface, including Postgres Database, Cloud Storage, Authentication, Functions, Realtime, AI](https://design.withfudge.com/share/pin-8815)
+[Feature grid showing six backend service cards with line-art icons on dark charcoal surface, including Postgres Database, Cloud Storage, Authentication, Functions, Realtime, AI](https://fudge.design/share/pin-8815)
 
-[![Hero section with large Manrope headline, mint-green accent text, Y Combinator badge, CLI copy command pill, and connected agent workflow diagram on dotted dark background](https://pin.fontofweb.com/8814?format=jpg)](https://design.withfudge.com/share/pin-8814)
+[![Hero section with large Manrope headline, mint-green accent text, Y Combinator badge, CLI copy command pill, and connected agent workflow diagram on dotted dark background](https://pin.fontofweb.com/8814?format=jpg)](https://fudge.design/share/pin-8814)
 
-[Hero section with large Manrope headline, mint-green accent text, Y Combinator badge, CLI copy command pill, and connected agent workflow diagram on dotted dark background](https://design.withfudge.com/share/pin-8814)
+[Hero section with large Manrope headline, mint-green accent text, Y Combinator badge, CLI copy command pill, and connected agent workflow diagram on dotted dark background](https://fudge.design/share/pin-8814)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The desktop layout shows a two-column hero with text left and diagram right, plu
 ## Scope note
 
 This guide covers the InsForge marketing homepage including hero, feature grid, navigation, and workflow diagram components. Pricing pages, documentation interfaces, authenticated dashboards, and mobile-specific layouts are not represented in the supplied material. Motion design, hover states, and form interactions beyond the visible CLI pill remain outside this specification. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

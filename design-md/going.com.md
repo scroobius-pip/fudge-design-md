@@ -1,26 +1,26 @@
 # How going.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/going.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/going.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark teal footer with four-column link grid, social icons, app store badges, and cream bottom bar with Going logo.](https://pin.fontofweb.com/2594?format=jpg)](https://design.withfudge.com/share/pin-2594)
+[![Dark teal footer with four-column link grid, social icons, app store badges, and cream bottom bar with Going logo.](https://pin.fontofweb.com/2594?format=jpg)](https://fudge.design/share/pin-2594)
 
-[Dark teal footer with four-column link grid, social icons, app store badges, and cream bottom bar with Going logo.](https://design.withfudge.com/share/pin-2594)
+[Dark teal footer with four-column link grid, social icons, app store badges, and cream bottom bar with Going logo.](https://fudge.design/share/pin-2594)
 
-[![FAQ section with split layout: mountain photography on left, accordion questions with teal text on pale cream right panel.](https://pin.fontofweb.com/2593?format=jpg)](https://design.withfudge.com/share/pin-2593)
+[![FAQ section with split layout: mountain photography on left, accordion questions with teal text on pale cream right panel.](https://pin.fontofweb.com/2593?format=jpg)](https://fudge.design/share/pin-2593)
 
-[FAQ section with split layout: mountain photography on left, accordion questions with teal text on pale cream right panel.](https://design.withfudge.com/share/pin-2593)
+[FAQ section with split layout: mountain photography on left, accordion questions with teal text on pale cream right panel.](https://fudge.design/share/pin-2593)
 
-[![Content section with large teal heading, highlighted 'great deal' text on pale blue, travel photography, and guitar-playing illustration.](https://pin.fontofweb.com/2592?format=jpg)](https://design.withfudge.com/share/pin-2592)
+[![Content section with large teal heading, highlighted 'great deal' text on pale blue, travel photography, and guitar-playing illustration.](https://pin.fontofweb.com/2592?format=jpg)](https://fudge.design/share/pin-2592)
 
-[Content section with large teal heading, highlighted 'great deal' text on pale blue, travel photography, and guitar-playing illustration.](https://design.withfudge.com/share/pin-2592)
+[Content section with large teal heading, highlighted 'great deal' text on pale blue, travel photography, and guitar-playing illustration.](https://fudge.design/share/pin-2592)
 
-[![Membership comparison table with three tiers, green checkmarks, gray X marks, and purple filled button versus outlined buttons.](https://pin.fontofweb.com/2591?format=jpg)](https://design.withfudge.com/share/pin-2591)
+[![Membership comparison table with three tiers, green checkmarks, gray X marks, and purple filled button versus outlined buttons.](https://pin.fontofweb.com/2591?format=jpg)](https://fudge.design/share/pin-2591)
 
-[Membership comparison table with three tiers, green checkmarks, gray X marks, and purple filled button versus outlined buttons.](https://design.withfudge.com/share/pin-2591)
+[Membership comparison table with three tiers, green checkmarks, gray X marks, and purple filled button versus outlined buttons.](https://fudge.design/share/pin-2591)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Typography scales down proportionally: hero-display reduces to approximately 2.5
 ## Scope note
 
 This guide covers the marketing and informational surfaces of Going.com including the homepage and How It Works page. The membership comparison table, FAQ accordion, feature content blocks, and site footer are fully represented. Not included: authenticated member dashboards, email alert interfaces, checkout flows, mobile application designs, and animation or motion specifications. Measurements are practical adaptation targets derived from visible interface elements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Teal hue](/share/designs-with-color.hue.teal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

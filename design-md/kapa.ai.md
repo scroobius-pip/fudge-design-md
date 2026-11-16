@@ -1,26 +1,26 @@
 # How kapa.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kapa.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/kapa.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed enterprise trust section with customer metrics cards, testimonial quotes, and brand logo bar showing OpenAI, Grafana, Nokia, and others.](https://pin.fontofweb.com/9502?format=jpg)](https://design.withfudge.com/share/pin-9502)
+[![Dark-themed enterprise trust section with customer metrics cards, testimonial quotes, and brand logo bar showing OpenAI, Grafana, Nokia, and others.](https://pin.fontofweb.com/9502?format=jpg)](https://fudge.design/share/pin-9502)
 
-[Dark-themed enterprise trust section with customer metrics cards, testimonial quotes, and brand logo bar showing OpenAI, Grafana, Nokia, and others.](https://design.withfudge.com/share/pin-9502)
+[Dark-themed enterprise trust section with customer metrics cards, testimonial quotes, and brand logo bar showing OpenAI, Grafana, Nokia, and others.](https://fudge.design/share/pin-9502)
 
-[![Light-themed feature showcase with product capability cards, code snippet previews, and gradient accent backgrounds in purple and blue tones.](https://pin.fontofweb.com/9501?format=jpg)](https://design.withfudge.com/share/pin-9501)
+[![Light-themed feature showcase with product capability cards, code snippet previews, and gradient accent backgrounds in purple and blue tones.](https://pin.fontofweb.com/9501?format=jpg)](https://fudge.design/share/pin-9501)
 
-[Light-themed feature showcase with product capability cards, code snippet previews, and gradient accent backgrounds in purple and blue tones.](https://design.withfudge.com/share/pin-9501)
+[Light-themed feature showcase with product capability cards, code snippet previews, and gradient accent backgrounds in purple and blue tones.](https://fudge.design/share/pin-9501)
 
-[![Dark-themed footer region with multi-column link groups, social icons, and legal navigation on near-black background.](https://pin.fontofweb.com/9500?format=jpg)](https://design.withfudge.com/share/pin-9500)
+[![Dark-themed footer region with multi-column link groups, social icons, and legal navigation on near-black background.](https://pin.fontofweb.com/9500?format=jpg)](https://fudge.design/share/pin-9500)
 
-[Dark-themed footer region with multi-column link groups, social icons, and legal navigation on near-black background.](https://design.withfudge.com/share/pin-9500)
+[Dark-themed footer region with multi-column link groups, social icons, and legal navigation on near-black background.](https://fudge.design/share/pin-9500)
 
-[![Dark-themed hero section with large display typography, primary call-to-action button, and abstract gradient visual element.](https://pin.fontofweb.com/9499?format=jpg)](https://design.withfudge.com/share/pin-9499)
+[![Dark-themed hero section with large display typography, primary call-to-action button, and abstract gradient visual element.](https://pin.fontofweb.com/9499?format=jpg)](https://fudge.design/share/pin-9499)
 
-[Dark-themed hero section with large display typography, primary call-to-action button, and abstract gradient visual element.](https://design.withfudge.com/share/pin-9499)
+[Dark-themed hero section with large display typography, primary call-to-action button, and abstract gradient visual element.](https://fudge.design/share/pin-9499)
 
 ## Overview
 
@@ -206,3 +206,18 @@ The dark canvas is maintained across all breakpoints; there is no light-mode alt
 ## Scope note
 
 This guide covers the homepage and primary landing surfaces of kapa.ai as visible in the supplied captures. Pricing tables, documentation pages, and authenticated dashboard interfaces are not represented. Motion design, micro-interactions, and mobile-specific navigation patterns are not documented. The Geist, Geist Mono, Applesystem, System, and System-Sansserif families require license verification before production deployment.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

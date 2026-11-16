@@ -1,26 +1,26 @@
 # How nicelydone.club is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nicelydone.club-design)
+[Open the live Fudge conversation](https://fudge.design/share/nicelydone.club-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with diagonal grid of UI screenshots, bold display heading, and dual CTA buttons on a clean white canvas.](https://pin.fontofweb.com/7993?format=jpg)](https://design.withfudge.com/share/pin-7993)
+[![Hero section with diagonal grid of UI screenshots, bold display heading, and dual CTA buttons on a clean white canvas.](https://pin.fontofweb.com/7993?format=jpg)](https://fudge.design/share/pin-7993)
 
-[Hero section with diagonal grid of UI screenshots, bold display heading, and dual CTA buttons on a clean white canvas.](https://design.withfudge.com/share/pin-7993)
+[Hero section with diagonal grid of UI screenshots, bold display heading, and dual CTA buttons on a clean white canvas.](https://fudge.design/share/pin-7993)
 
-[![Vibrant orange conversational banner with floating chat bubbles and centered white typography.](https://pin.fontofweb.com/7994?format=jpg)](https://design.withfudge.com/share/pin-7994)
+[![Vibrant orange conversational banner with floating chat bubbles and centered white typography.](https://pin.fontofweb.com/7994?format=jpg)](https://fudge.design/share/pin-7994)
 
-[Vibrant orange conversational banner with floating chat bubbles and centered white typography.](https://design.withfudge.com/share/pin-7994)
+[Vibrant orange conversational banner with floating chat bubbles and centered white typography.](https://fudge.design/share/pin-7994)
 
-[![Feature grid with large product screenshots, section heading, and four-column benefit cards with orange icons.](https://pin.fontofweb.com/7995?format=jpg)](https://design.withfudge.com/share/pin-7995)
+[![Feature grid with large product screenshots, section heading, and four-column benefit cards with orange icons.](https://pin.fontofweb.com/7995?format=jpg)](https://fudge.design/share/pin-7995)
 
-[Feature grid with large product screenshots, section heading, and four-column benefit cards with orange icons.](https://design.withfudge.com/share/pin-7995)
+[Feature grid with large product screenshots, section heading, and four-column benefit cards with orange icons.](https://fudge.design/share/pin-7995)
 
-[![Footer area with category navigation list, conversion headline, dark pill button, and minimal footer bar.](https://pin.fontofweb.com/7996?format=jpg)](https://design.withfudge.com/share/pin-7996)
+[![Footer area with category navigation list, conversion headline, dark pill button, and minimal footer bar.](https://pin.fontofweb.com/7996?format=jpg)](https://fudge.design/share/pin-7996)
 
-[Footer area with category navigation list, conversion headline, dark pill button, and minimal footer bar.](https://design.withfudge.com/share/pin-7996)
+[Footer area with category navigation list, conversion headline, dark pill button, and minimal footer bar.](https://fudge.design/share/pin-7996)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Typography maintains consistent line heights across breakpoints, with adjustment
 ## Scope note
 
 This guide covers the marketing homepage surface visible in the supplied captures. Interior pages, search results, authentication flows, and the actual product interface are not represented. Motion behavior, hover states, and mobile-specific layouts are inferred from static images and should be validated in implementation. Measurements are drawn from retained interface data where available.
+
+## Related design patterns
+
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How ignytlabs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ignytlabs.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ignytlabs.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Process section showing numbered steps with pill-shaped gradient diagrams and wireframe mockups on a light blue-white gradient background](https://pin.fontofweb.com/7064?format=jpg)](https://design.withfudge.com/share/pin-7064)
+[![Process section showing numbered steps with pill-shaped gradient diagrams and wireframe mockups on a light blue-white gradient background](https://pin.fontofweb.com/7064?format=jpg)](https://fudge.design/share/pin-7064)
 
-[Process section showing numbered steps with pill-shaped gradient diagrams and wireframe mockups on a light blue-white gradient background](https://design.withfudge.com/share/pin-7064)
+[Process section showing numbered steps with pill-shaped gradient diagrams and wireframe mockups on a light blue-white gradient background](https://fudge.design/share/pin-7064)
 
-[![Social proof section with centered headline, three frosted stat cards with icons, and a scrolling client logo marquee below](https://pin.fontofweb.com/7063?format=jpg)](https://design.withfudge.com/share/pin-7063)
+[![Social proof section with centered headline, three frosted stat cards with icons, and a scrolling client logo marquee below](https://pin.fontofweb.com/7063?format=jpg)](https://fudge.design/share/pin-7063)
 
-[Social proof section with centered headline, three frosted stat cards with icons, and a scrolling client logo marquee below](https://design.withfudge.com/share/pin-7063)
+[Social proof section with centered headline, three frosted stat cards with icons, and a scrolling client logo marquee below](https://fudge.design/share/pin-7063)
 
-[![Hero area with gradient mesh background, feature pills, and navigation bar with glassmorphism treatment](https://pin.fontofweb.com/7062?format=jpg)](https://design.withfudge.com/share/pin-7062)
+[![Hero area with gradient mesh background, feature pills, and navigation bar with glassmorphism treatment](https://pin.fontofweb.com/7062?format=jpg)](https://fudge.design/share/pin-7062)
 
-[Hero area with gradient mesh background, feature pills, and navigation bar with glassmorphism treatment](https://design.withfudge.com/share/pin-7062)
+[Hero area with gradient mesh background, feature pills, and navigation bar with glassmorphism treatment](https://fudge.design/share/pin-7062)
 
-[![Close-up of the social proof stat cards showing subtle pattern textures and soft shadow depth](https://pin.fontofweb.com/7061?format=jpg)](https://design.withfudge.com/share/pin-7061)
+[![Close-up of the social proof stat cards showing subtle pattern textures and soft shadow depth](https://pin.fontofweb.com/7061?format=jpg)](https://fudge.design/share/pin-7061)
 
-[Close-up of the social proof stat cards showing subtle pattern textures and soft shadow depth](https://design.withfudge.com/share/pin-7061)
+[Close-up of the social proof stat cards showing subtle pattern textures and soft shadow depth](https://fudge.design/share/pin-7061)
 
 ## Overview
 
@@ -207,3 +207,18 @@ The glassmorphism effects may need adjustment on mobile devices where backdrop-f
 ## Scope note
 
 This guide covers the IgnytLabs homepage landing experience including hero, social proof, process, and navigation components. Pricing pages, project case studies, FAQ accordions, and mobile menu states are not represented in the supplied materials. Form interactions, hover states, and loading sequences were not captured and should be designed to match the established glassmorphism and gradient language.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

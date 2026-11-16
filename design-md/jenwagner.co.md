@@ -1,26 +1,26 @@
 # How jenwagner.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jenwagner.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/jenwagner.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with warm-toned portrait photography, large white headline, and minimal navigation bar with JEN WAGNER TYPE wordmark](https://pin.fontofweb.com/8799?format=jpg)](https://design.withfudge.com/share/pin-8799)
+[![Hero section with warm-toned portrait photography, large white headline, and minimal navigation bar with JEN WAGNER TYPE wordmark](https://pin.fontofweb.com/8799?format=jpg)](https://fudge.design/share/pin-8799)
 
-[Hero section with warm-toned portrait photography, large white headline, and minimal navigation bar with JEN WAGNER TYPE wordmark](https://design.withfudge.com/share/pin-8799)
+[Hero section with warm-toned portrait photography, large white headline, and minimal navigation bar with JEN WAGNER TYPE wordmark](https://fudge.design/share/pin-8799)
 
-[![Dark grayscale portrait background with numbered feature list, thin horizontal rules, and outlined pill button reading JOIN THE CREW](https://pin.fontofweb.com/8800?format=jpg)](https://design.withfudge.com/share/pin-8800)
+[![Dark grayscale portrait background with numbered feature list, thin horizontal rules, and outlined pill button reading JOIN THE CREW](https://pin.fontofweb.com/8800?format=jpg)](https://fudge.design/share/pin-8800)
 
-[Dark grayscale portrait background with numbered feature list, thin horizontal rules, and outlined pill button reading JOIN THE CREW](https://design.withfudge.com/share/pin-8800)
+[Dark grayscale portrait background with numbered feature list, thin horizontal rules, and outlined pill button reading JOIN THE CREW](https://fudge.design/share/pin-8800)
 
-[![Warm amber and cream abstract texture background with centered white headline and circular arrow icon button](https://pin.fontofweb.com/8802?format=jpg)](https://design.withfudge.com/share/pin-8802)
+[![Warm amber and cream abstract texture background with centered white headline and circular arrow icon button](https://pin.fontofweb.com/8802?format=jpg)](https://fudge.design/share/pin-8802)
 
-[Warm amber and cream abstract texture background with centered white headline and circular arrow icon button](https://design.withfudge.com/share/pin-8802)
+[Warm amber and cream abstract texture background with centered white headline and circular arrow icon button](https://fudge.design/share/pin-8802)
 
-[![Light cream FAQ section with two-column layout, dark section headings, and muted body text with vertical divider line](https://pin.fontofweb.com/8801?format=jpg)](https://design.withfudge.com/share/pin-8801)
+[![Light cream FAQ section with two-column layout, dark section headings, and muted body text with vertical divider line](https://pin.fontofweb.com/8801?format=jpg)](https://fudge.design/share/pin-8801)
 
-[Light cream FAQ section with two-column layout, dark section headings, and muted body text with vertical divider line](https://design.withfudge.com/share/pin-8801)
+[Light cream FAQ section with two-column layout, dark section headings, and muted body text with vertical divider line](https://fudge.design/share/pin-8801)
 
 ## Overview
 
@@ -167,3 +167,18 @@ The design's centered text and single-column feature list suggest a straightforw
 ## Scope note
 
 This guide covers the affiliate landing page surface with its hero sections, feature list, FAQ, and navigation. Interior pages, mobile-specific layouts, hover and focus states, form interactions, and checkout flows are not represented in the supplied material. The spacing scale uses the 4px relative unit with semantic rem values applied throughout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Landing page](/share/designs-with-page.marketing.landing)
+- [Image background](/share/designs-with-visual.background.image)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

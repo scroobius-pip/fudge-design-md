@@ -1,22 +1,22 @@
 # How gutgutgoose.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gutgutgoose.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/gutgutgoose.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid section with six cards explaining personalized probiotic inputs, alternating cream and green surfaces with organic photography](https://pin.fontofweb.com/10511?format=jpg)](https://design.withfudge.com/share/pin-10511)
+[![Feature grid section with six cards explaining personalized probiotic inputs, alternating cream and green surfaces with organic photography](https://pin.fontofweb.com/10511?format=jpg)](https://fudge.design/share/pin-10511)
 
-[Feature grid section with six cards explaining personalized probiotic inputs, alternating cream and green surfaces with organic photography](https://design.withfudge.com/share/pin-10511)
+[Feature grid section with six cards explaining personalized probiotic inputs, alternating cream and green surfaces with organic photography](https://fudge.design/share/pin-10511)
 
-[![Product detail panel showing green probiotic bottle with subscription pricing, orange CTA button, and expandable accordion sections](https://pin.fontofweb.com/10510?format=jpg)](https://design.withfudge.com/share/pin-10510)
+[![Product detail panel showing green probiotic bottle with subscription pricing, orange CTA button, and expandable accordion sections](https://pin.fontofweb.com/10510?format=jpg)](https://fudge.design/share/pin-10510)
 
-[Product detail panel showing green probiotic bottle with subscription pricing, orange CTA button, and expandable accordion sections](https://design.withfudge.com/share/pin-10510)
+[Product detail panel showing green probiotic bottle with subscription pricing, orange CTA button, and expandable accordion sections](https://fudge.design/share/pin-10510)
 
-[![Press coverage section with three article cards featuring photography, category pills, and dark brown read buttons on cream backgrounds](https://pin.fontofweb.com/10509?format=jpg)](https://design.withfudge.com/share/pin-10509)
+[![Press coverage section with three article cards featuring photography, category pills, and dark brown read buttons on cream backgrounds](https://pin.fontofweb.com/10509?format=jpg)](https://fudge.design/share/pin-10509)
 
-[Press coverage section with three article cards featuring photography, category pills, and dark brown read buttons on cream backgrounds](https://design.withfudge.com/share/pin-10509)
+[Press coverage section with three article cards featuring photography, category pills, and dark brown read buttons on cream backgrounds](https://fudge.design/share/pin-10509)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The primary CTA button should remain full-width on mobile for easy thumb reach, 
 ## Scope note
 
 This guide covers the landing and product detail surfaces visible in the supplied captures. Mobile breakpoints, checkout flow, account dashboard, and animation specifications are not included. The green gradient card treatment and exact photographic overlay behavior should be verified against live implementation. Measurements are practical adaptation targets based on the extracted interface values.
+
+## Related design patterns
+
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Paired type system](/share/designs-with-typography.system_size.paired)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Green hue](/share/designs-with-color.hue.green)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

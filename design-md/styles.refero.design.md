@@ -1,26 +1,26 @@
 # How styles.refero.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/styles.refero.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/styles.refero.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Design system guidelines panel showing DO and DON'T rules alongside typography tokens and spacing scale in a dark interface with code-like formatting](https://pin.fontofweb.com/9858?format=jpg)](https://design.withfudge.com/share/pin-9858)
+[![Design system guidelines panel showing DO and DON'T rules alongside typography tokens and spacing scale in a dark interface with code-like formatting](https://pin.fontofweb.com/9858?format=jpg)](https://fudge.design/share/pin-9858)
 
-[Design system guidelines panel showing DO and DON'T rules alongside typography tokens and spacing scale in a dark interface with code-like formatting](https://design.withfudge.com/share/pin-9858)
+[Design system guidelines panel showing DO and DON'T rules alongside typography tokens and spacing scale in a dark interface with code-like formatting](https://fudge.design/share/pin-9858)
 
-[![Spacing and Shape specification page with border radius table, elevation examples, and compact spacing scale in a dark-themed documentation layout](https://pin.fontofweb.com/9857?format=jpg)](https://design.withfudge.com/share/pin-9857)
+[![Spacing and Shape specification page with border radius table, elevation examples, and compact spacing scale in a dark-themed documentation layout](https://pin.fontofweb.com/9857?format=jpg)](https://fudge.design/share/pin-9857)
 
-[Spacing and Shape specification page with border radius table, elevation examples, and compact spacing scale in a dark-themed documentation layout](https://design.withfudge.com/share/pin-9857)
+[Spacing and Shape specification page with border radius table, elevation examples, and compact spacing scale in a dark-themed documentation layout](https://fudge.design/share/pin-9857)
 
-[![Typography specimen page showing Cosmica type scale with weight variations and font metadata in a structured dark documentation interface](https://pin.fontofweb.com/9856?format=jpg)](https://design.withfudge.com/share/pin-9856)
+[![Typography specimen page showing Cosmica type scale with weight variations and font metadata in a structured dark documentation interface](https://pin.fontofweb.com/9856?format=jpg)](https://fudge.design/share/pin-9856)
 
-[Typography specimen page showing Cosmica type scale with weight variations and font metadata in a structured dark documentation interface](https://design.withfudge.com/share/pin-9856)
+[Typography specimen page showing Cosmica type scale with weight variations and font metadata in a structured dark documentation interface](https://fudge.design/share/pin-9856)
 
-[![Color palette grid displaying accent swatches Ember and Orchid Flash with neutral tones from Obsidian to Snow in a dark-themed presentation](https://pin.fontofweb.com/9855?format=jpg)](https://design.withfudge.com/share/pin-9855)
+[![Color palette grid displaying accent swatches Ember and Orchid Flash with neutral tones from Obsidian to Snow in a dark-themed presentation](https://pin.fontofweb.com/9855?format=jpg)](https://fudge.design/share/pin-9855)
 
-[Color palette grid displaying accent swatches Ember and Orchid Flash with neutral tones from Obsidian to Snow in a dark-themed presentation](https://design.withfudge.com/share/pin-9855)
+[Color palette grid displaying accent swatches Ember and Orchid Flash with neutral tones from Obsidian to Snow in a dark-themed presentation](https://fudge.design/share/pin-9855)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Color grids should reflow from multi-column to single column, with swatches expa
 ## Scope note
 
 This guide covers the dark-mode documentation interface for the Awesomic design system as presented on the style reference page. It does not include unseen component states, motion behavior, form validation patterns, or light-mode variants. The button component documentation is partial; additional variants and interactive states would require further exploration. Measurements are derived from the exact values present in the interface specification.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Documentation page](/share/designs-with-page.documentation)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

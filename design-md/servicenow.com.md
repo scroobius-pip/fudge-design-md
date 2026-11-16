@@ -1,26 +1,26 @@
 # How servicenow.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/servicenow.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/servicenow.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with four-column link grid, teal text links, green outline Contact Us button, and social icon row on white background](https://pin.fontofweb.com/2442?format=jpg)](https://design.withfudge.com/share/pin-2442)
+[![Footer with four-column link grid, teal text links, green outline Contact Us button, and social icon row on white background](https://pin.fontofweb.com/2442?format=jpg)](https://fudge.design/share/pin-2442)
 
-[Footer with four-column link grid, teal text links, green outline Contact Us button, and social icon row on white background](https://design.withfudge.com/share/pin-2442)
+[Footer with four-column link grid, teal text links, green outline Contact Us button, and social icon row on white background](https://fudge.design/share/pin-2442)
 
-[![Hero section with dark blue gradient background, green pill button, product UI card, and floating Contact and Demo buttons with portrait photo](https://pin.fontofweb.com/2441?format=jpg)](https://design.withfudge.com/share/pin-2441)
+[![Hero section with dark blue gradient background, green pill button, product UI card, and floating Contact and Demo buttons with portrait photo](https://pin.fontofweb.com/2441?format=jpg)](https://fudge.design/share/pin-2441)
 
-[Hero section with dark blue gradient background, green pill button, product UI card, and floating Contact and Demo buttons with portrait photo](https://design.withfudge.com/share/pin-2441)
+[Hero section with dark blue gradient background, green pill button, product UI card, and floating Contact and Demo buttons with portrait photo](https://fudge.design/share/pin-2441)
 
-[![AI Platform diagram with infinity loop connecting employee and customer avatars, green headline text, and purple role labels on dark blue canvas](https://pin.fontofweb.com/2440?format=jpg)](https://design.withfudge.com/share/pin-2440)
+[![AI Platform diagram with infinity loop connecting employee and customer avatars, green headline text, and purple role labels on dark blue canvas](https://pin.fontofweb.com/2440?format=jpg)](https://fudge.design/share/pin-2440)
 
-[AI Platform diagram with infinity loop connecting employee and customer avatars, green headline text, and purple role labels on dark blue canvas](https://design.withfudge.com/share/pin-2440)
+[AI Platform diagram with infinity loop connecting employee and customer avatars, green headline text, and purple role labels on dark blue canvas](https://fudge.design/share/pin-2440)
 
-[![Trust bar with white headline and six company logos including Uber, Delta, and Visa on dark blue gradient background](https://pin.fontofweb.com/2439?format=jpg)](https://design.withfudge.com/share/pin-2439)
+[![Trust bar with white headline and six company logos including Uber, Delta, and Visa on dark blue gradient background](https://pin.fontofweb.com/2439?format=jpg)](https://fudge.design/share/pin-2439)
 
-[Trust bar with white headline and six company logos including Uber, Delta, and Visa on dark blue gradient background](https://design.withfudge.com/share/pin-2439)
+[Trust bar with white headline and six company logos including Uber, Delta, and Visa on dark blue gradient background](https://fudge.design/share/pin-2439)
 
 ## Overview
 
@@ -164,3 +164,18 @@ The mixed 3D and flat visual language requires careful handling at reduced scale
 ## Scope note
 
 This guide covers the ServiceNow homepage hero, platform storytelling, trust, and footer surfaces. Interior pages, product documentation, account dashboards, and mobile-specific layouts are not represented. Motion behavior, hover states, and form interactions were not captured in the supplied static images. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How loom.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/loom.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/loom.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Video editing sidebar with tab navigation, upgrade banner, feature list with lock icons, and NPS survey at bottom](https://pin.fontofweb.com/9907?format=jpg)](https://design.withfudge.com/share/pin-9907)
+[![Video editing sidebar with tab navigation, upgrade banner, feature list with lock icons, and NPS survey at bottom](https://pin.fontofweb.com/9907?format=jpg)](https://fudge.design/share/pin-9907)
 
-[Video editing sidebar with tab navigation, upgrade banner, feature list with lock icons, and NPS survey at bottom](https://design.withfudge.com/share/pin-9907)
+[Video editing sidebar with tab navigation, upgrade banner, feature list with lock icons, and NPS survey at bottom](https://fudge.design/share/pin-9907)
 
-[![404 error page with glitch-art video thumbnail, centered headline, and action links on white background](https://pin.fontofweb.com/6646?format=jpg)](https://design.withfudge.com/share/pin-6646)
+[![404 error page with glitch-art video thumbnail, centered headline, and action links on white background](https://pin.fontofweb.com/6646?format=jpg)](https://fudge.design/share/pin-6646)
 
-[404 error page with glitch-art video thumbnail, centered headline, and action links on white background](https://design.withfudge.com/share/pin-6646)
+[404 error page with glitch-art video thumbnail, centered headline, and action links on white background](https://fudge.design/share/pin-6646)
 
-[![Referral page with blue gradient card, email input, invite buttons, and progress tracker with illustration](https://pin.fontofweb.com/4576?format=jpg)](https://design.withfudge.com/share/pin-4576)
+[![Referral page with blue gradient card, email input, invite buttons, and progress tracker with illustration](https://pin.fontofweb.com/4576?format=jpg)](https://fudge.design/share/pin-4576)
 
-[Referral page with blue gradient card, email input, invite buttons, and progress tracker with illustration](https://design.withfudge.com/share/pin-4576)
+[Referral page with blue gradient card, email input, invite buttons, and progress tracker with illustration](https://fudge.design/share/pin-4576)
 
-[![Invite tracking modal with tab switcher, mint green stat card, and invitation status table](https://pin.fontofweb.com/4575?format=jpg)](https://design.withfudge.com/share/pin-4575)
+[![Invite tracking modal with tab switcher, mint green stat card, and invitation status table](https://pin.fontofweb.com/4575?format=jpg)](https://fudge.design/share/pin-4575)
 
-[Invite tracking modal with tab switcher, mint green stat card, and invitation status table](https://design.withfudge.com/share/pin-4575)
+[Invite tracking modal with tab switcher, mint green stat card, and invitation status table](https://fudge.design/share/pin-4575)
 
 ## Overview
 
@@ -203,3 +203,18 @@ Touch targets should maintain the 44px minimum despite the compact 14px type sca
 ## Scope note
 
 This guide covers the video editor sidebar, referral program surfaces, error pages, and invite tracking modals visible in the captured materials. Mobile layouts, dark mode, animation specifications, and video player controls are not represented. The 2px relative unit supports fine-grained spacing control; all measurements are exact values from the retained interface records. Applesystem and Times are listed in the source detection but do not appear as active design tokens in the captured interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

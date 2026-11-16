@@ -1,26 +1,26 @@
 # How ottografie.nl is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ottografie.nl-design)
+[Open the live Fudge conversation](https://fudge.design/share/ottografie.nl-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Editorial page with large serif title, scattered fashion portraits, and floating category pill on warm off-white canvas](https://pin.fontofweb.com/366?format=jpg)](https://design.withfudge.com/share/pin-366)
+[![Editorial page with large serif title, scattered fashion portraits, and floating category pill on warm off-white canvas](https://pin.fontofweb.com/366?format=jpg)](https://fudge.design/share/pin-366)
 
-[Editorial page with large serif title, scattered fashion portraits, and floating category pill on warm off-white canvas](https://design.withfudge.com/share/pin-366)
+[Editorial page with large serif title, scattered fashion portraits, and floating category pill on warm off-white canvas](https://fudge.design/share/pin-366)
 
-[![Campaigns page with oversized serif wordmark, four fashion images in loose collage, and dark rounded category selector](https://pin.fontofweb.com/365?format=jpg)](https://design.withfudge.com/share/pin-365)
+[![Campaigns page with oversized serif wordmark, four fashion images in loose collage, and dark rounded category selector](https://pin.fontofweb.com/365?format=jpg)](https://fudge.design/share/pin-365)
 
-[Campaigns page with oversized serif wordmark, four fashion images in loose collage, and dark rounded category selector](https://design.withfudge.com/share/pin-365)
+[Campaigns page with oversized serif wordmark, four fashion images in loose collage, and dark rounded category selector](https://fudge.design/share/pin-365)
 
-[![Beauty section close-up with dramatic serif display type, parenthetical index number, and high-contrast beauty photography](https://pin.fontofweb.com/364?format=jpg)](https://design.withfudge.com/share/pin-364)
+[![Beauty section close-up with dramatic serif display type, parenthetical index number, and high-contrast beauty photography](https://pin.fontofweb.com/364?format=jpg)](https://fudge.design/share/pin-364)
 
-[Beauty section close-up with dramatic serif display type, parenthetical index number, and high-contrast beauty photography](https://design.withfudge.com/share/pin-364)
+[Beauty section close-up with dramatic serif display type, parenthetical index number, and high-contrast beauty photography](https://fudge.design/share/pin-364)
 
-[![Home page hero with bio line, multi-image Beauty section layout, and sculptural black-and-white portrait on pale ground](https://pin.fontofweb.com/363?format=jpg)](https://design.withfudge.com/share/pin-363)
+[![Home page hero with bio line, multi-image Beauty section layout, and sculptural black-and-white portrait on pale ground](https://pin.fontofweb.com/363?format=jpg)](https://fudge.design/share/pin-363)
 
-[Home page hero with bio line, multi-image Beauty section layout, and sculptural black-and-white portrait on pale ground](https://design.withfudge.com/share/pin-363)
+[Home page hero with bio line, multi-image Beauty section layout, and sculptural black-and-white portrait on pale ground](https://fudge.design/share/pin-363)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The bio line can remain centered but should wrap naturally if the viewport becom
 ## Scope note
 
 This guide covers the home page and category section surfaces visible in the supplied images. The Editorial, Campaigns, and Beauty sections share a common layout language that has been documented. Individual project pages, contact forms, about pages, and mobile-specific adaptations are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection. Verify licensing for Suisse Intl Mono through Swiss Typefaces before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

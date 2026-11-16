@@ -1,18 +1,18 @@
 # How lovefrom.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lovefrom.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lovefrom.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Centered typographic manifesto listing creative disciplines in black serif on warm off-white, with italic attribution to Jony Ive and Marc Newson](https://pin.fontofweb.com/1595?format=jpg)](https://design.withfudge.com/share/pin-1595)
+[![Centered typographic manifesto listing creative disciplines in black serif on warm off-white, with italic attribution to Jony Ive and Marc Newson](https://pin.fontofweb.com/1595?format=jpg)](https://fudge.design/share/pin-1595)
 
-[Centered typographic manifesto listing creative disciplines in black serif on warm off-white, with italic attribution to Jony Ive and Marc Newson](https://design.withfudge.com/share/pin-1595)
+[Centered typographic manifesto listing creative disciplines in black serif on warm off-white, with italic attribution to Jony Ive and Marc Newson](https://fudge.design/share/pin-1595)
 
-[![Split composition with large muted serif logotype and bear silhouette on warm white left half, solid black right half, with subdued tagline below](https://pin.fontofweb.com/1594?format=jpg)](https://design.withfudge.com/share/pin-1594)
+[![Split composition with large muted serif logotype and bear silhouette on warm white left half, solid black right half, with subdued tagline below](https://pin.fontofweb.com/1594?format=jpg)](https://fudge.design/share/pin-1594)
 
-[Split composition with large muted serif logotype and bear silhouette on warm white left half, solid black right half, with subdued tagline below](https://design.withfudge.com/share/pin-1594)
+[Split composition with large muted serif logotype and bear silhouette on warm white left half, solid black right half, with subdued tagline below](https://fudge.design/share/pin-1594)
 
 ## Overview
 
@@ -147,3 +147,18 @@ The system should maintain its centered, spacious character across viewport size
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images: centered typographic manifesto, discipline listing, attribution, and split-panel logotype introduction. Navigation systems, interior pages, interactive states, motion design, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. The font families By Love From-13363898894040133034 and By Love From-9759457103798905011 are proprietary to Love From; verify licensing before production use.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Agency](/share/designs-with-offering.agency)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

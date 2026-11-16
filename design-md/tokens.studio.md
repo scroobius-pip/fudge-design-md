@@ -1,18 +1,18 @@
 # How tokens.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tokens.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/tokens.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark teal hero section with large white display headline, cyan action button, and multi-column footer with social icons](https://pin.fontofweb.com/5915?format=jpg)](https://design.withfudge.com/share/pin-5915)
+[![Dark teal hero section with large white display headline, cyan action button, and multi-column footer with social icons](https://pin.fontofweb.com/5915?format=jpg)](https://fudge.design/share/pin-5915)
 
-[Dark teal hero section with large white display headline, cyan action button, and multi-column footer with social icons](https://design.withfudge.com/share/pin-5915)
+[Dark teal hero section with large white display headline, cyan action button, and multi-column footer with social icons](https://fudge.design/share/pin-5915)
 
-[![Light background product page with black display headline, cyan primary button, and embedded app screenshot with play button overlay](https://pin.fontofweb.com/5913?format=jpg)](https://design.withfudge.com/share/pin-5913)
+[![Light background product page with black display headline, cyan primary button, and embedded app screenshot with play button overlay](https://pin.fontofweb.com/5913?format=jpg)](https://fudge.design/share/pin-5913)
 
-[Light background product page with black display headline, cyan primary button, and embedded app screenshot with play button overlay](https://design.withfudge.com/share/pin-5913)
+[Light background product page with black display headline, cyan primary button, and embedded app screenshot with play button overlay](https://fudge.design/share/pin-5913)
 
 ## Overview
 
@@ -138,3 +138,18 @@ The system maintains its single-column centered rhythm across viewports, with ty
 ## Scope note
 
 This guide covers the homepage and Studio Platform product page as visible in the supplied images. Mobile layouts, additional product pages, documentation interfaces, and interactive states such as hover, focus, loading, and error conditions are not represented. Motion design, form components beyond buttons, and complex data visualizations are outside the current scope. Measurements are exact where retained in the source interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

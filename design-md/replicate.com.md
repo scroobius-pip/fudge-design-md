@@ -1,26 +1,26 @@
 # How replicate.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/replicate.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/replicate.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Playground beta page with dark charcoal background, mint green accent badge, and feature icons for model comparison](https://pin.fontofweb.com/5689?format=jpg)](https://design.withfudge.com/share/pin-5689)
+[![Playground beta page with dark charcoal background, mint green accent badge, and feature icons for model comparison](https://pin.fontofweb.com/5689?format=jpg)](https://fudge.design/share/pin-5689)
 
-[Playground beta page with dark charcoal background, mint green accent badge, and feature icons for model comparison](https://design.withfudge.com/share/pin-5689)
+[Playground beta page with dark charcoal background, mint green accent badge, and feature icons for model comparison](https://fudge.design/share/pin-5689)
 
-[![Pricing and infrastructure section with red-orange data visualizations on near-black background](https://pin.fontofweb.com/5292?format=jpg)](https://design.withfudge.com/share/pin-5292)
+[![Pricing and infrastructure section with red-orange data visualizations on near-black background](https://pin.fontofweb.com/5292?format=jpg)](https://fudge.design/share/pin-5292)
 
-[Pricing and infrastructure section with red-orange data visualizations on near-black background](https://design.withfudge.com/share/pin-5292)
+[Pricing and infrastructure section with red-orange data visualizations on near-black background](https://fudge.design/share/pin-5292)
 
-[![Homepage hero with massive white display type interspersed with AI-generated imagery and code snippets](https://pin.fontofweb.com/5188?format=jpg)](https://design.withfudge.com/share/pin-5188)
+[![Homepage hero with massive white display type interspersed with AI-generated imagery and code snippets](https://pin.fontofweb.com/5188?format=jpg)](https://fudge.design/share/pin-5188)
 
-[Homepage hero with massive white display type interspersed with AI-generated imagery and code snippets](https://design.withfudge.com/share/pin-5188)
+[Homepage hero with massive white display type interspersed with AI-generated imagery and code snippets](https://fudge.design/share/pin-5188)
 
-[![Site footer with four-column link grid, Replicate wordmark, and colorful gradient rule above](https://pin.fontofweb.com/5187?format=jpg)](https://design.withfudge.com/share/pin-5187)
+[![Site footer with four-column link grid, Replicate wordmark, and colorful gradient rule above](https://pin.fontofweb.com/5187?format=jpg)](https://fudge.design/share/pin-5187)
 
-[Site footer with four-column link grid, Replicate wordmark, and colorful gradient rule above](https://design.withfudge.com/share/pin-5187)
+[Site footer with four-column link grid, Replicate wordmark, and colorful gradient rule above](https://fudge.design/share/pin-5187)
 
 ## Overview
 
@@ -197,3 +197,18 @@ Data visualizations should reflow rather than scale down indefinitely. Charts wi
 ## Scope note
 
 This guide covers the Replicate marketing site and product surface visible in the homepage, Playground beta, and pricing sections. Model detail pages, dashboard interfaces, and authenticated account flows are not represented. Motion behavior, mobile-specific layouts, and dark/light mode switching are not documented. The By Atipo-9504448690793184050 font source is identified in system assets but its specific visual role is not distinguished from other Basier variants in the extracted data. Measurements reflect the extracted interface values where available; spacing and sizing should be validated against live implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

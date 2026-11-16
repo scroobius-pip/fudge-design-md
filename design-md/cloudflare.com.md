@@ -1,26 +1,26 @@
 # How cloudflare.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cloudflare.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/cloudflare.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Personal plan hero with orange Cloudflare logo, navigation bar, and illustrated character with laptop on white background](https://pin.fontofweb.com/1249?format=jpg)](https://design.withfudge.com/share/pin-1249)
+[![Personal plan hero with orange Cloudflare logo, navigation bar, and illustrated character with laptop on white background](https://pin.fontofweb.com/1249?format=jpg)](https://fudge.design/share/pin-1249)
 
-[Personal plan hero with orange Cloudflare logo, navigation bar, and illustrated character with laptop on white background](https://design.withfudge.com/share/pin-1249)
+[Personal plan hero with orange Cloudflare logo, navigation bar, and illustrated character with laptop on white background](https://fudge.design/share/pin-1249)
 
-[![Free plan features grid showing CDN, DNS, WAF, and analytics with orange accent links and signup button](https://pin.fontofweb.com/1248?format=jpg)](https://design.withfudge.com/share/pin-1248)
+[![Free plan features grid showing CDN, DNS, WAF, and analytics with orange accent links and signup button](https://pin.fontofweb.com/1248?format=jpg)](https://fudge.design/share/pin-1248)
 
-[Free plan features grid showing CDN, DNS, WAF, and analytics with orange accent links and signup button](https://design.withfudge.com/share/pin-1248)
+[Free plan features grid showing CDN, DNS, WAF, and analytics with orange accent links and signup button](https://fudge.design/share/pin-1248)
 
-[![Customer trust logos section with ao.com, Shopify, OkCupid, and other brand marks on clean white surface](https://pin.fontofweb.com/1247?format=jpg)](https://design.withfudge.com/share/pin-1247)
+[![Customer trust logos section with ao.com, Shopify, OkCupid, and other brand marks on clean white surface](https://pin.fontofweb.com/1247?format=jpg)](https://fudge.design/share/pin-1247)
 
-[Customer trust logos section with ao.com, Shopify, OkCupid, and other brand marks on clean white surface](https://design.withfudge.com/share/pin-1247)
+[Customer trust logos section with ao.com, Shopify, OkCupid, and other brand marks on clean white surface](https://fudge.design/share/pin-1247)
 
-[![FAQ accordion with orange plus-minus icons, expanded answer text, and underlined link to full FAQs page](https://pin.fontofweb.com/1246?format=jpg)](https://design.withfudge.com/share/pin-1246)
+[![FAQ accordion with orange plus-minus icons, expanded answer text, and underlined link to full FAQs page](https://pin.fontofweb.com/1246?format=jpg)](https://fudge.design/share/pin-1246)
 
-[FAQ accordion with orange plus-minus icons, expanded answer text, and underlined link to full FAQs page](https://design.withfudge.com/share/pin-1246)
+[FAQ accordion with orange plus-minus icons, expanded answer text, and underlined link to full FAQs page](https://fudge.design/share/pin-1246)
 
 ## Overview
 
@@ -200,3 +200,18 @@ Button widths should adapt from fixed or content-width to full-width in narrow c
 ## Scope note
 
 This guide covers the marketing page surfaces visible in the supplied images: the personal plan landing page, small business page, and homepage sections including hero, features, trust logos, and FAQ. Pricing tables, documentation, dashboard interfaces, and mobile-specific layouts are not represented. Footer content, search functionality, and account management flows fall outside this scope. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How ycombinator.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ycombinator.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ycombinator.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large serif typography and company photo comparison slider showing Stripe founders during YC and now](https://pin.fontofweb.com/6679?format=jpg)](https://design.withfudge.com/share/pin-6679)
+[![Homepage hero with large serif typography and company photo comparison slider showing Stripe founders during YC and now](https://pin.fontofweb.com/6679?format=jpg)](https://fudge.design/share/pin-6679)
 
-[Homepage hero with large serif typography and company photo comparison slider showing Stripe founders during YC and now](https://design.withfudge.com/share/pin-6679)
+[Homepage hero with large serif typography and company photo comparison slider showing Stripe founders during YC and now](https://fudge.design/share/pin-6679)
 
-[![Editorial section with drop-cap paragraph, photo strip of founders, and testimonial quotes with inline avatars](https://pin.fontofweb.com/6678?format=jpg)](https://design.withfudge.com/share/pin-6678)
+[![Editorial section with drop-cap paragraph, photo strip of founders, and testimonial quotes with inline avatars](https://pin.fontofweb.com/6678?format=jpg)](https://fudge.design/share/pin-6678)
 
-[Editorial section with drop-cap paragraph, photo strip of founders, and testimonial quotes with inline avatars](https://design.withfudge.com/share/pin-6678)
+[Editorial section with drop-cap paragraph, photo strip of founders, and testimonial quotes with inline avatars](https://fudge.design/share/pin-6678)
 
-[![Knowledge & News section with podcast cards, featured article thumbnail, and sidebar navigation links](https://pin.fontofweb.com/6677?format=jpg)](https://design.withfudge.com/share/pin-6677)
+[![Knowledge & News section with podcast cards, featured article thumbnail, and sidebar navigation links](https://pin.fontofweb.com/6677?format=jpg)](https://fudge.design/share/pin-6677)
 
-[Knowledge & News section with podcast cards, featured article thumbnail, and sidebar navigation links](https://design.withfudge.com/share/pin-6677)
+[Knowledge & News section with podcast cards, featured article thumbnail, and sidebar navigation links](https://fudge.design/share/pin-6677)
 
-[![Job posting page with company header, role details card, founder profiles, and similar jobs sidebar](https://pin.fontofweb.com/10032?format=jpg)](https://design.withfudge.com/share/pin-10032)
+[![Job posting page with company header, role details card, founder profiles, and similar jobs sidebar](https://pin.fontofweb.com/10032?format=jpg)](https://fudge.design/share/pin-10032)
 
-[Job posting page with company header, role details card, founder profiles, and similar jobs sidebar](https://design.withfudge.com/share/pin-10032)
+[Job posting page with company header, role details card, founder profiles, and similar jobs sidebar](https://fudge.design/share/pin-10032)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The narrow text measure (approximately 640px effective width) suggests a mobile-
 ## Scope note
 
 This guide covers the Y Combinator homepage and job posting pages as visible in supplied images. Mobile breakpoints, dropdown menu behavior, form interactions, and animation details are not included. The company comparison slider's full interaction pattern and any carousel or tab components beyond the visible states are not documented. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

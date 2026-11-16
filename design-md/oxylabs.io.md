@@ -1,18 +1,18 @@
 # How oxylabs.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oxylabs.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/oxylabs.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark navy background, white headline, product dashboard visualization with gradient accents, and dual CTA buttons with top utility bar and navigation](https://pin.fontofweb.com/9865?format=jpg)](https://design.withfudge.com/share/pin-9865)
+[![Hero section with dark navy background, white headline, product dashboard visualization with gradient accents, and dual CTA buttons with top utility bar and navigation](https://pin.fontofweb.com/9865?format=jpg)](https://fudge.design/share/pin-9865)
 
-[Hero section with dark navy background, white headline, product dashboard visualization with gradient accents, and dual CTA buttons with top utility bar and navigation](https://design.withfudge.com/share/pin-9865)
+[Hero section with dark navy background, white headline, product dashboard visualization with gradient accents, and dual CTA buttons with top utility bar and navigation](https://fudge.design/share/pin-9865)
 
-[![Extended hero view showing code snippet overlay, feature announcement with green accent label, and bottom conference banner with dark pill button](https://pin.fontofweb.com/9864?format=jpg)](https://design.withfudge.com/share/pin-9864)
+[![Extended hero view showing code snippet overlay, feature announcement with green accent label, and bottom conference banner with dark pill button](https://pin.fontofweb.com/9864?format=jpg)](https://fudge.design/share/pin-9864)
 
-[Extended hero view showing code snippet overlay, feature announcement with green accent label, and bottom conference banner with dark pill button](https://design.withfudge.com/share/pin-9864)
+[Extended hero view showing code snippet overlay, feature announcement with green accent label, and bottom conference banner with dark pill button](https://fudge.design/share/pin-9864)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Typography should scale down proportionally: the 3rem hero display may reduce to
 ## Scope note
 
 This guide covers the Oxylabs homepage hero and promotional banner surfaces visible in the supplied images. Interior pages, documentation, pricing tables, account dashboards, and mobile-specific layouts are not represented. Motion, loading states, and form validation patterns are not documented. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

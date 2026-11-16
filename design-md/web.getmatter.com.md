@@ -1,22 +1,22 @@
 # How web.getmatter.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/web.getmatter.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/web.getmatter.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Matter landing page with centered signup form, social proof grid, and dark gradient background fading into testimonial cards](https://pin.fontofweb.com/9225?format=jpg)](https://design.withfudge.com/share/pin-9225)
+[![Matter landing page with centered signup form, social proof grid, and dark gradient background fading into testimonial cards](https://pin.fontofweb.com/9225?format=jpg)](https://fudge.design/share/pin-9225)
 
-[Matter landing page with centered signup form, social proof grid, and dark gradient background fading into testimonial cards](https://design.withfudge.com/share/pin-9225)
+[Matter landing page with centered signup form, social proof grid, and dark gradient background fading into testimonial cards](https://fudge.design/share/pin-9225)
 
-[![Matter Pro subscription modal with yearly and monthly pricing options, feature checklist, and dark overlay backdrop](https://pin.fontofweb.com/9227?format=jpg)](https://design.withfudge.com/share/pin-9227)
+[![Matter Pro subscription modal with yearly and monthly pricing options, feature checklist, and dark overlay backdrop](https://pin.fontofweb.com/9227?format=jpg)](https://fudge.design/share/pin-9227)
 
-[Matter Pro subscription modal with yearly and monthly pricing options, feature checklist, and dark overlay backdrop](https://design.withfudge.com/share/pin-9227)
+[Matter Pro subscription modal with yearly and monthly pricing options, feature checklist, and dark overlay backdrop](https://fudge.design/share/pin-9227)
 
-[![Queue page header with Matter logo, navigation bar, and empty reading list state on near-black background](https://pin.fontofweb.com/9226?format=jpg)](https://design.withfudge.com/share/pin-9226)
+[![Queue page header with Matter logo, navigation bar, and empty reading list state on near-black background](https://pin.fontofweb.com/9226?format=jpg)](https://fudge.design/share/pin-9226)
 
-[Queue page header with Matter logo, navigation bar, and empty reading list state on near-black background](https://design.withfudge.com/share/pin-9226)
+[Queue page header with Matter logo, navigation bar, and empty reading list state on near-black background](https://fudge.design/share/pin-9226)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Implementation guidance: Maintain the 5rem side gutters down to tablet width, th
 ## Scope note
 
 This guide covers the Matter landing page and queue page modal as visible in desktop screenshots. Mobile layouts, additional app screens, reading view typography, and animation specifications are not included. The spacing and radius values reflect exact measurements from the supplied interface; minor rounding may occur in implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

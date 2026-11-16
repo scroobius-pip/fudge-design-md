@@ -1,26 +1,26 @@
 # How notion.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/notion.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/notion.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Developer platform product page showing CLI, API, MCP, SDK feature cards with code snippets and blue accent buttons on white background](https://pin.fontofweb.com/9284?format=jpg)](https://design.withfudge.com/share/pin-9284)
+[![Developer platform product page showing CLI, API, MCP, SDK feature cards with code snippets and blue accent buttons on white background](https://pin.fontofweb.com/9284?format=jpg)](https://fudge.design/share/pin-9284)
 
-[Developer platform product page showing CLI, API, MCP, SDK feature cards with code snippets and blue accent buttons on white background](https://design.withfudge.com/share/pin-9284)
+[Developer platform product page showing CLI, API, MCP, SDK feature cards with code snippets and blue accent buttons on white background](https://fudge.design/share/pin-9284)
 
-[![Agent tools section with TypeScript code example, terminal output, and chat interface demonstrating Notion agent capabilities](https://pin.fontofweb.com/9283?format=jpg)](https://design.withfudge.com/share/pin-9283)
+[![Agent tools section with TypeScript code example, terminal output, and chat interface demonstrating Notion agent capabilities](https://pin.fontofweb.com/9283?format=jpg)](https://fudge.design/share/pin-9283)
 
-[Agent tools section with TypeScript code example, terminal output, and chat interface demonstrating Notion agent capabilities](https://design.withfudge.com/share/pin-9283)
+[Agent tools section with TypeScript code example, terminal output, and chat interface demonstrating Notion agent capabilities](https://fudge.design/share/pin-9283)
 
-[![Footer area with deep blue background, pixel-art ntn.run game, CLI install command, and white navigation links](https://pin.fontofweb.com/9282?format=jpg)](https://design.withfudge.com/share/pin-9282)
+[![Footer area with deep blue background, pixel-art ntn.run game, CLI install command, and white navigation links](https://pin.fontofweb.com/9282?format=jpg)](https://fudge.design/share/pin-9282)
 
-[Footer area with deep blue background, pixel-art ntn.run game, CLI install command, and white navigation links](https://design.withfudge.com/share/pin-9282)
+[Footer area with deep blue background, pixel-art ntn.run game, CLI install command, and white navigation links](https://fudge.design/share/pin-9282)
 
-[![External agents hero section with Alpha badge, agent collaboration cards, and API endpoint examples on white background](https://pin.fontofweb.com/9281?format=jpg)](https://design.withfudge.com/share/pin-9281)
+[![External agents hero section with Alpha badge, agent collaboration cards, and API endpoint examples on white background](https://pin.fontofweb.com/9281?format=jpg)](https://fudge.design/share/pin-9281)
 
-[External agents hero section with Alpha badge, agent collaboration cards, and API endpoint examples on white background](https://design.withfudge.com/share/pin-9281)
+[External agents hero section with Alpha badge, agent collaboration cards, and API endpoint examples on white background](https://fudge.design/share/pin-9281)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The layout assumes a desktop-first approach with generous fixed-width padding. C
 ## Scope note
 
 This guide covers Notion's developer platform marketing pages and homepage surfaces. It does not include the in-product Notion workspace UI, mobile application layouts, email templates, or the full template marketplace grid. Motion, hover transitions, and dark mode switching are not documented. Measurements reflect the desktop viewport as captured.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

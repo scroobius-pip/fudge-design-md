@@ -1,26 +1,26 @@
 # How closdessens.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/closdessens.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/closdessens.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full-screen navigation overlay with centered serif menu items and Michelin star icons on dark warm-gray background](https://pin.fontofweb.com/676?format=jpg)](https://design.withfudge.com/share/pin-676)
+[![Full-screen navigation overlay with centered serif menu items and Michelin star icons on dark warm-gray background](https://pin.fontofweb.com/676?format=jpg)](https://fudge.design/share/pin-676)
 
-[Full-screen navigation overlay with centered serif menu items and Michelin star icons on dark warm-gray background](https://design.withfudge.com/share/pin-676)
+[Full-screen navigation overlay with centered serif menu items and Michelin star icons on dark warm-gray background](https://fudge.design/share/pin-676)
 
-[![Split-layout hero section with large orange textured panel displaying LE CORTIL and garden photography](https://pin.fontofweb.com/675?format=jpg)](https://design.withfudge.com/share/pin-675)
+[![Split-layout hero section with large orange textured panel displaying LE CORTIL and garden photography](https://pin.fontofweb.com/675?format=jpg)](https://fudge.design/share/pin-675)
 
-[Split-layout hero section with large orange textured panel displaying LE CORTIL and garden photography](https://design.withfudge.com/share/pin-675)
+[Split-layout hero section with large orange textured panel displaying LE CORTIL and garden photography](https://fudge.design/share/pin-675)
 
-[![Split-layout hero section with deep green textured panel displaying RÊVER and LE JARDIN with garden photography](https://pin.fontofweb.com/674?format=jpg)](https://design.withfudge.com/share/pin-674)
+[![Split-layout hero section with deep green textured panel displaying RÊVER and LE JARDIN with garden photography](https://pin.fontofweb.com/674?format=jpg)](https://fudge.design/share/pin-674)
 
-[Split-layout hero section with deep green textured panel displaying RÊVER and LE JARDIN with garden photography](https://design.withfudge.com/share/pin-674)
+[Split-layout hero section with deep green textured panel displaying RÊVER and LE JARDIN with garden photography](https://fudge.design/share/pin-674)
 
-[![Split-layout hero section with dark slate textured panel displaying LA TABLE with restaurant interior photography and Michelin stars](https://pin.fontofweb.com/673?format=jpg)](https://design.withfudge.com/share/pin-673)
+[![Split-layout hero section with dark slate textured panel displaying LA TABLE with restaurant interior photography and Michelin stars](https://pin.fontofweb.com/673?format=jpg)](https://fudge.design/share/pin-673)
 
-[Split-layout hero section with dark slate textured panel displaying LA TABLE with restaurant interior photography and Michelin stars](https://design.withfudge.com/share/pin-673)
+[Split-layout hero section with dark slate textured panel displaying LA TABLE with restaurant interior photography and Michelin stars](https://fudge.design/share/pin-673)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Textured backgrounds should maintain their grain quality across densities; the n
 ## Scope note
 
 This guide covers the homepage and primary section hero compositions visible in the supplied images. Interior pages, booking flows, menu presentations, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. The full interaction behavior of the navigation overlay, section transitions, and any scroll-driven animations would require additional research to document completely.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Image background](/share/designs-with-visual.background.image)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

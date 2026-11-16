@@ -1,26 +1,26 @@
 # How inceptionlabs.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/inceptionlabs.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/inceptionlabs.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed Overview section with three feature cards showing speed metrics, quality checkmarks, and integration icons on near-black background with cyan accents](https://pin.fontofweb.com/8042?format=jpg)](https://design.withfudge.com/share/pin-8042)
+[![Dark-themed Overview section with three feature cards showing speed metrics, quality checkmarks, and integration icons on near-black background with cyan accents](https://pin.fontofweb.com/8042?format=jpg)](https://fudge.design/share/pin-8042)
 
-[Dark-themed Overview section with three feature cards showing speed metrics, quality checkmarks, and integration icons on near-black background with cyan accents](https://design.withfudge.com/share/pin-8042)
+[Dark-themed Overview section with three feature cards showing speed metrics, quality checkmarks, and integration icons on near-black background with cyan accents](https://fudge.design/share/pin-8042)
 
-[![Light-themed About page with ASCII art rocket illustration and editorial typography explaining diffusion-based language models on warm off-white background](https://pin.fontofweb.com/7215?format=jpg)](https://design.withfudge.com/share/pin-7215)
+[![Light-themed About page with ASCII art rocket illustration and editorial typography explaining diffusion-based language models on warm off-white background](https://pin.fontofweb.com/7215?format=jpg)](https://fudge.design/share/pin-7215)
 
-[Light-themed About page with ASCII art rocket illustration and editorial typography explaining diffusion-based language models on warm off-white background](https://design.withfudge.com/share/pin-7215)
+[Light-themed About page with ASCII art rocket illustration and editorial typography explaining diffusion-based language models on warm off-white background](https://fudge.design/share/pin-7215)
 
-[![Dark-themed model comparison grid for Mercury 2 and Mercury Edit with pricing tables, feature lists, and pill-shaped action buttons on near-black background](https://pin.fontofweb.com/7214?format=jpg)](https://design.withfudge.com/share/pin-7214)
+[![Dark-themed model comparison grid for Mercury 2 and Mercury Edit with pricing tables, feature lists, and pill-shaped action buttons on near-black background](https://pin.fontofweb.com/7214?format=jpg)](https://fudge.design/share/pin-7214)
 
-[Dark-themed model comparison grid for Mercury 2 and Mercury Edit with pricing tables, feature lists, and pill-shaped action buttons on near-black background](https://design.withfudge.com/share/pin-7214)
+[Dark-themed model comparison grid for Mercury 2 and Mercury Edit with pricing tables, feature lists, and pill-shaped action buttons on near-black background](https://fudge.design/share/pin-7214)
 
-[![Light-themed Enterprise page hero with navigation bar and colorful particle cloud illustration on warm off-white background](https://pin.fontofweb.com/7213?format=jpg)](https://design.withfudge.com/share/pin-7213)
+[![Light-themed Enterprise page hero with navigation bar and colorful particle cloud illustration on warm off-white background](https://pin.fontofweb.com/7213?format=jpg)](https://fudge.design/share/pin-7213)
 
-[Light-themed Enterprise page hero with navigation bar and colorful particle cloud illustration on warm off-white background](https://design.withfudge.com/share/pin-7213)
+[Light-themed Enterprise page hero with navigation bar and colorful particle cloud illustration on warm off-white background](https://fudge.design/share/pin-7213)
 
 ## Overview
 
@@ -231,3 +231,18 @@ Button padding remains consistent across breakpoints, but button groups may stac
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage, model pages, about page, and enterprise page. It does not include documentation interfaces, console or dashboard designs, mobile applications, or email templates. Motion behavior, loading states, and form validation patterns are not documented. System-Sansserif is named as a material family in the type system. Measurements reflect the extracted interface values and should be verified against live implementation before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How workbench.suna.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/workbench.suna.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/workbench.suna.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Particle workbench tool with dark sidebar controls, sliders, toggles, and color swatches on light gray background](https://pin.fontofweb.com/8419?format=jpg)](https://design.withfudge.com/share/pin-8419)
+[![Particle workbench tool with dark sidebar controls, sliders, toggles, and color swatches on light gray background](https://pin.fontofweb.com/8419?format=jpg)](https://fudge.design/share/pin-8419)
 
-[Particle workbench tool with dark sidebar controls, sliders, toggles, and color swatches on light gray background](https://design.withfudge.com/share/pin-8419)
+[Particle workbench tool with dark sidebar controls, sliders, toggles, and color swatches on light gray background](https://fudge.design/share/pin-8419)
 
-[![Workbench landing page with grid of application cards, header navigation, and light gray canvas background](https://pin.fontofweb.com/8418?format=jpg)](https://design.withfudge.com/share/pin-8418)
+[![Workbench landing page with grid of application cards, header navigation, and light gray canvas background](https://pin.fontofweb.com/8418?format=jpg)](https://fudge.design/share/pin-8418)
 
-[Workbench landing page with grid of application cards, header navigation, and light gray canvas background](https://design.withfudge.com/share/pin-8418)
+[Workbench landing page with grid of application cards, header navigation, and light gray canvas background](https://fudge.design/share/pin-8418)
 
 ## Overview
 
@@ -230,3 +230,18 @@ Touch targets for sliders, toggles, and buttons expand to minimum 44px height on
 ## Scope note
 
 This guide covers the workbench landing page and particle tool interface as visible in the supplied images. Mobile layouts, animation specifications, additional tool interfaces, error states, loading sequences, and dark mode variants are not documented. The dimensional button shadows and slider customizations require careful CSS implementation to match the reference appearance.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

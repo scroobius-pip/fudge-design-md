@@ -1,26 +1,26 @@
 # How tesla.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tesla.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tesla.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Vehicles mega-menu overlay with Model S, 3, Y, X, Cybertruck thumbnails and right-hand navigation links on white background](https://pin.fontofweb.com/581?format=jpg)](https://design.withfudge.com/share/pin-581)
+[![Vehicles mega-menu overlay with Model S, 3, Y, X, Cybertruck thumbnails and right-hand navigation links on white background](https://pin.fontofweb.com/581?format=jpg)](https://fudge.design/share/pin-581)
 
-[Vehicles mega-menu overlay with Model S, 3, Y, X, Cybertruck thumbnails and right-hand navigation links on white background](https://design.withfudge.com/share/pin-581)
+[Vehicles mega-menu overlay with Model S, 3, Y, X, Cybertruck thumbnails and right-hand navigation links on white background](https://fudge.design/share/pin-581)
 
-[![Page footer with federal tax credit legal disclaimer, Tesla copyright 2025, and chat support bar with question input field](https://pin.fontofweb.com/580?format=jpg)](https://design.withfudge.com/share/pin-580)
+[![Page footer with federal tax credit legal disclaimer, Tesla copyright 2025, and chat support bar with question input field](https://pin.fontofweb.com/580?format=jpg)](https://fudge.design/share/pin-580)
 
-[Page footer with federal tax credit legal disclaimer, Tesla copyright 2025, and chat support bar with question input field](https://design.withfudge.com/share/pin-580)
+[Page footer with federal tax credit legal disclaimer, Tesla copyright 2025, and chat support bar with question input field](https://fudge.design/share/pin-580)
 
-[![Find Your Charge section with interactive United States map showing red Supercharger dots and gray Destination Charger dots, plus statistics counters](https://pin.fontofweb.com/579?format=jpg)](https://design.withfudge.com/share/pin-579)
+[![Find Your Charge section with interactive United States map showing red Supercharger dots and gray Destination Charger dots, plus statistics counters](https://pin.fontofweb.com/579?format=jpg)](https://fudge.design/share/pin-579)
 
-[Find Your Charge section with interactive United States map showing red Supercharger dots and gray Destination Charger dots, plus statistics counters](https://design.withfudge.com/share/pin-579)
+[Find Your Charge section with interactive United States map showing red Supercharger dots and gray Destination Charger dots, plus statistics counters](https://fudge.design/share/pin-579)
 
-[![Split feature cards showing Full Self-Driving interior view and Features That Come Standard with Model X and child, with blue and white buttons](https://pin.fontofweb.com/578?format=jpg)](https://design.withfudge.com/share/pin-578)
+[![Split feature cards showing Full Self-Driving interior view and Features That Come Standard with Model X and child, with blue and white buttons](https://pin.fontofweb.com/578?format=jpg)](https://fudge.design/share/pin-578)
 
-[Split feature cards showing Full Self-Driving interior view and Features That Come Standard with Model X and child, with blue and white buttons](https://design.withfudge.com/share/pin-578)
+[Split feature cards showing Full Self-Driving interior view and Features That Come Standard with Model X and child, with blue and white buttons](https://fudge.design/share/pin-578)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Typography should scale down proportionally: hero-display may reduce to 2rem, se
 ## Scope note
 
 This guide covers the Tesla homepage visible in the supplied images, including navigation, vehicle showcase, feature cards, charging network information, and footer. Interior pages, vehicle configurators, account flows, and mobile-specific layouts are not represented. Motion design, loading states, and form validation patterns are not documented. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Consumer products](/share/designs-with-industry.consumer_products)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

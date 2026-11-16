@@ -1,18 +1,18 @@
 # How instagram.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/instagram.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/instagram.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Instagram Reels page showing dark sidebar navigation with white icons, red notification badge, and minimalist vertical layout](https://pin.fontofweb.com/7159?format=jpg)](https://design.withfudge.com/share/pin-7159)
+[![Instagram Reels page showing dark sidebar navigation with white icons, red notification badge, and minimalist vertical layout](https://pin.fontofweb.com/7159?format=jpg)](https://fudge.design/share/pin-7159)
 
-[Instagram Reels page showing dark sidebar navigation with white icons, red notification badge, and minimalist vertical layout](https://design.withfudge.com/share/pin-7159)
+[Instagram Reels page showing dark sidebar navigation with white icons, red notification badge, and minimalist vertical layout](https://fudge.design/share/pin-7159)
 
-[![Instagram post featuring colorful 2026 typography with yellow, orange, pink, and purple gradient letterforms on white background](https://pin.fontofweb.com/5713?format=jpg)](https://design.withfudge.com/share/pin-5713)
+[![Instagram post featuring colorful 2026 typography with yellow, orange, pink, and purple gradient letterforms on white background](https://pin.fontofweb.com/5713?format=jpg)](https://fudge.design/share/pin-5713)
 
-[Instagram post featuring colorful 2026 typography with yellow, orange, pink, and purple gradient letterforms on white background](https://design.withfudge.com/share/pin-5713)
+[Instagram post featuring colorful 2026 typography with yellow, orange, pink, and purple gradient letterforms on white background](https://fudge.design/share/pin-5713)
 
 ## Overview
 
@@ -147,3 +147,18 @@ Touch targets must maintain minimum 44-pixel dimensions regardless of viewport s
 ## Scope note
 
 This guide covers the dark-mode navigation shell and media card system visible in the supplied images. Measurements are practical adaptation targets. Light mode variants, comment threading interfaces, story creation tools, direct messaging views, search result pages, and profile layouts are not represented. Motion behavior, loading skeletons, and empty state illustrations are also outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

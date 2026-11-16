@@ -1,26 +1,26 @@
 # How durup.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/durup.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/durup.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Press logo bar with red serif publication marks on white, showing RUM, VOGUE, PLEASURE, ELLE DECOR, and EMIRATES WOMAN](https://pin.fontofweb.com/2667?format=jpg)](https://design.withfudge.com/share/pin-2667)
+[![Press logo bar with red serif publication marks on white, showing RUM, VOGUE, PLEASURE, ELLE DECOR, and EMIRATES WOMAN](https://pin.fontofweb.com/2667?format=jpg)](https://fudge.design/share/pin-2667)
 
-[Press logo bar with red serif publication marks on white, showing RUM, VOGUE, PLEASURE, ELLE DECOR, and EMIRATES WOMAN](https://design.withfudge.com/share/pin-2667)
+[Press logo bar with red serif publication marks on white, showing RUM, VOGUE, PLEASURE, ELLE DECOR, and EMIRATES WOMAN](https://fudge.design/share/pin-2667)
 
-[![Full-bleed textile hero with blue-white woven fabric and mustard velvet, white serif headline centered right](https://pin.fontofweb.com/2666?format=jpg)](https://design.withfudge.com/share/pin-2666)
+[![Full-bleed textile hero with blue-white woven fabric and mustard velvet, white serif headline centered right](https://pin.fontofweb.com/2666?format=jpg)](https://fudge.design/share/pin-2666)
 
-[Full-bleed textile hero with blue-white woven fabric and mustard velvet, white serif headline centered right](https://design.withfudge.com/share/pin-2666)
+[Full-bleed textile hero with blue-white woven fabric and mustard velvet, white serif headline centered right](https://fudge.design/share/pin-2666)
 
-[![Studio page footer with draped white and striped teal-brown textiles, email signup, and red BOOK AN APPOINTMENT button](https://pin.fontofweb.com/2665?format=jpg)](https://design.withfudge.com/share/pin-2665)
+[![Studio page footer with draped white and striped teal-brown textiles, email signup, and red BOOK AN APPOINTMENT button](https://pin.fontofweb.com/2665?format=jpg)](https://fudge.design/share/pin-2665)
 
-[Studio page footer with draped white and striped teal-brown textiles, email signup, and red BOOK AN APPOINTMENT button](https://design.withfudge.com/share/pin-2665)
+[Studio page footer with draped white and striped teal-brown textiles, email signup, and red BOOK AN APPOINTMENT button](https://fudge.design/share/pin-2665)
 
-[![Dark brown navigation overlay with large red serif menu items and white STUDIO highlight, red left border](https://pin.fontofweb.com/2664?format=jpg)](https://design.withfudge.com/share/pin-2664)
+[![Dark brown navigation overlay with large red serif menu items and white STUDIO highlight, red left border](https://pin.fontofweb.com/2664?format=jpg)](https://fudge.design/share/pin-2664)
 
-[Dark brown navigation overlay with large red serif menu items and white STUDIO highlight, red left border](https://design.withfudge.com/share/pin-2664)
+[Dark brown navigation overlay with large red serif menu items and white STUDIO highlight, red left border](https://fudge.design/share/pin-2664)
 
 ## Overview
 
@@ -142,3 +142,18 @@ Touch targets for the MENU and CLOSE labels should expand to at least 44×44dp. 
 ## Scope note
 
 This guide covers the homepage and studio page surfaces visible in the supplied images, including the navigation overlay and press recognition section. Mobile layouts, hover states, form validation, loading sequences, and additional interior pages are not represented. Measurements are practical adaptation targets derived from visual estimation against the 4px base unit.
+
+## Related design patterns
+
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Mixed mode](/share/designs-with-color.mode.mixed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

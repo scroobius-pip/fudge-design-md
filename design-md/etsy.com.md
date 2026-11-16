@@ -1,26 +1,26 @@
 # How etsy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/etsy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/etsy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with orange Etsy logo, email subscription bar, renewable electricity banner, and multi-column link grid on deep blue background](https://pin.fontofweb.com/5368?format=jpg)](https://design.withfudge.com/share/pin-5368)
+[![Footer with orange Etsy logo, email subscription bar, renewable electricity banner, and multi-column link grid on deep blue background](https://pin.fontofweb.com/5368?format=jpg)](https://fudge.design/share/pin-5368)
 
-[Footer with orange Etsy logo, email subscription bar, renewable electricity banner, and multi-column link grid on deep blue background](https://design.withfudge.com/share/pin-5368)
+[Footer with orange Etsy logo, email subscription bar, renewable electricity banner, and multi-column link grid on deep blue background](https://fudge.design/share/pin-5368)
 
-[![Homepage hero with dark teal gift banner, rounded search pill, category navigation, and four-column interest cards with product photography](https://pin.fontofweb.com/5367?format=jpg)](https://design.withfudge.com/share/pin-5367)
+[![Homepage hero with dark teal gift banner, rounded search pill, category navigation, and four-column interest cards with product photography](https://pin.fontofweb.com/5367?format=jpg)](https://fudge.design/share/pin-5367)
 
-[Homepage hero with dark teal gift banner, rounded search pill, category navigation, and four-column interest cards with product photography](https://design.withfudge.com/share/pin-5367)
+[Homepage hero with dark teal gift banner, rounded search pill, category navigation, and four-column interest cards with product photography](https://fudge.design/share/pin-5367)
 
-[![Cream-colored brand story section with serif heading, three-column value proposition, and outlined Help Center button](https://pin.fontofweb.com/5366?format=jpg)](https://design.withfudge.com/share/pin-5366)
+[![Cream-colored brand story section with serif heading, three-column value proposition, and outlined Help Center button](https://pin.fontofweb.com/5366?format=jpg)](https://fudge.design/share/pin-5366)
 
-[Cream-colored brand story section with serif heading, three-column value proposition, and outlined Help Center button](https://design.withfudge.com/share/pin-5366)
+[Cream-colored brand story section with serif heading, three-column value proposition, and outlined Help Center button](https://fudge.design/share/pin-5366)
 
-[![Product listing for bold red business coach website template with magenta and orange accent panels and editorial photography](https://pin.fontofweb.com/5359?format=jpg)](https://design.withfudge.com/share/pin-5359)
+[![Product listing for bold red business coach website template with magenta and orange accent panels and editorial photography](https://pin.fontofweb.com/5359?format=jpg)](https://fudge.design/share/pin-5359)
 
-[Product listing for bold red business coach website template with magenta and orange accent panels and editorial photography](https://design.withfudge.com/share/pin-5359)
+[Product listing for bold red business coach website template with magenta and orange accent panels and editorial photography](https://fudge.design/share/pin-5359)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The supplied images show desktop presentation only. Based on visible patterns, s
 ## Scope note
 
 This guide covers the homepage, brand story section, footer, and a representative product listing page as visible in the supplied images. Mobile breakpoints, interactive states, loading skeletons, checkout flows, and seller tools are not included. Measurements are practical adaptation targets derived from visible proportions against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Marketplace](/share/designs-with-offering.marketplace)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

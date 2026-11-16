@@ -1,26 +1,26 @@
 # How ifttt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ifttt.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ifttt.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Promotional retention modal with centered IFTTT logo, heavy display heading, illustration, and pill-shaped black primary action button on white background](https://pin.fontofweb.com/4048?format=jpg)](https://design.withfudge.com/share/pin-4048)
+[![Promotional retention modal with centered IFTTT logo, heavy display heading, illustration, and pill-shaped black primary action button on white background](https://pin.fontofweb.com/4048?format=jpg)](https://fudge.design/share/pin-4048)
 
-[Promotional retention modal with centered IFTTT logo, heavy display heading, illustration, and pill-shaped black primary action button on white background](https://design.withfudge.com/share/pin-4048)
+[Promotional retention modal with centered IFTTT logo, heavy display heading, illustration, and pill-shaped black primary action button on white background](https://fudge.design/share/pin-4048)
 
-[![Subscription cancellation confirmation with bold question heading, bulleted benefit list, and pill-shaped Stay Pro button with secondary text link below](https://pin.fontofweb.com/4047?format=jpg)](https://design.withfudge.com/share/pin-4047)
+[![Subscription cancellation confirmation with bold question heading, bulleted benefit list, and pill-shaped Stay Pro button with secondary text link below](https://pin.fontofweb.com/4047?format=jpg)](https://fudge.design/share/pin-4047)
 
-[Subscription cancellation confirmation with bold question heading, bulleted benefit list, and pill-shaped Stay Pro button with secondary text link below](https://design.withfudge.com/share/pin-4047)
+[Subscription cancellation confirmation with bold question heading, bulleted benefit list, and pill-shaped Stay Pro button with secondary text link below](https://fudge.design/share/pin-4047)
 
-[![Billing dashboard with Plan details card on light gray surface, blue action links, checkbox control, and Billing History section with date-price row](https://pin.fontofweb.com/4046?format=jpg)](https://design.withfudge.com/share/pin-4046)
+[![Billing dashboard with Plan details card on light gray surface, blue action links, checkbox control, and Billing History section with date-price row](https://pin.fontofweb.com/4046?format=jpg)](https://fudge.design/share/pin-4046)
 
-[Billing dashboard with Plan details card on light gray surface, blue action links, checkbox control, and Billing History section with date-price row](https://design.withfudge.com/share/pin-4046)
+[Billing dashboard with Plan details card on light gray surface, blue action links, checkbox control, and Billing History section with date-price row](https://fudge.design/share/pin-4046)
 
-[![Colorful integration applet grid with orange, black, blue, and purple cards featuring service icons, white text, and user engagement counts](https://pin.fontofweb.com/4042?format=jpg)](https://design.withfudge.com/share/pin-4042)
+[![Colorful integration applet grid with orange, black, blue, and purple cards featuring service icons, white text, and user engagement counts](https://pin.fontofweb.com/4042?format=jpg)](https://fudge.design/share/pin-4042)
 
-[Colorful integration applet grid with orange, black, blue, and purple cards featuring service icons, white text, and user engagement counts](https://design.withfudge.com/share/pin-4042)
+[Colorful integration applet grid with orange, black, blue, and purple cards featuring service icons, white text, and user engagement counts](https://fudge.design/share/pin-4042)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Touch targets for all interactive elements should maintain minimum 44px height r
 ## Scope note
 
 This guide covers the billing, subscription, and applet exploration surfaces visible in the supplied images. Navigation headers, footers, form validation states, loading indicators, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, sound, and dark mode implementations are outside the current scope.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

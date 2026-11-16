@@ -1,18 +1,18 @@
 # How app.issen.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.issen.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.issen.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Onboarding language selection card with gradient progress bar, country flag icons, and pink-orange gradient Continue button](https://pin.fontofweb.com/5678?format=jpg)](https://design.withfudge.com/share/pin-5678)
+[![Onboarding language selection card with gradient progress bar, country flag icons, and pink-orange gradient Continue button](https://pin.fontofweb.com/5678?format=jpg)](https://fudge.design/share/pin-5678)
 
-[Onboarding language selection card with gradient progress bar, country flag icons, and pink-orange gradient Continue button](https://design.withfudge.com/share/pin-5678)
+[Onboarding language selection card with gradient progress bar, country flag icons, and pink-orange gradient Continue button](https://fudge.design/share/pin-5678)
 
-[![Welcome landing page with gradient ISSEN logo, centered value proposition, and gradient Get started button on warm off-white background](https://pin.fontofweb.com/5677?format=jpg)](https://design.withfudge.com/share/pin-5677)
+[![Welcome landing page with gradient ISSEN logo, centered value proposition, and gradient Get started button on warm off-white background](https://pin.fontofweb.com/5677?format=jpg)](https://fudge.design/share/pin-5677)
 
-[Welcome landing page with gradient ISSEN logo, centered value proposition, and gradient Get started button on warm off-white background](https://design.withfudge.com/share/pin-5677)
+[Welcome landing page with gradient ISSEN logo, centered value proposition, and gradient Get started button on warm off-white background](https://fudge.design/share/pin-5677)
 
 ## Overview
 
@@ -171,3 +171,18 @@ For implementation, maintain the centered single-column model across all breakpo
 ## Scope note
 
 This guide covers the welcome landing and native-language onboarding surfaces visible in the supplied images. Dashboard, conversation, settings, and other authenticated flows are not represented. Motion, sound, and real-time chat interfaces fall outside the current scope. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

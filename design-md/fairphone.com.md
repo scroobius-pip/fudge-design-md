@@ -1,26 +1,26 @@
 # How fairphone.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fairphone.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fairphone.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Specifications modal overlay showing product color selector, display details, and dimensions list with white background and dark green text.](https://pin.fontofweb.com/10732?format=jpg)](https://design.withfudge.com/share/pin-10732)
+[![Specifications modal overlay showing product color selector, display details, and dimensions list with white background and dark green text.](https://pin.fontofweb.com/10732?format=jpg)](https://fudge.design/share/pin-10732)
 
-[Specifications modal overlay showing product color selector, display details, and dimensions list with white background and dark green text.](https://design.withfudge.com/share/pin-10732)
+[Specifications modal overlay showing product color selector, display details, and dimensions list with white background and dark green text.](https://fudge.design/share/pin-10732)
 
-[![Moments feature section with large serif headline, phone mockup showing Essentials mode, and sparse light gray background layout.](https://pin.fontofweb.com/10731?format=jpg)](https://design.withfudge.com/share/pin-10731)
+[![Moments feature section with large serif headline, phone mockup showing Essentials mode, and sparse light gray background layout.](https://pin.fontofweb.com/10731?format=jpg)](https://fudge.design/share/pin-10731)
 
-[Moments feature section with large serif headline, phone mockup showing Essentials mode, and sparse light gray background layout.](https://design.withfudge.com/share/pin-10731)
+[Moments feature section with large serif headline, phone mockup showing Essentials mode, and sparse light gray background layout.](https://fudge.design/share/pin-10731)
 
-[![Feature carousel cards showing modularity, expandable storage, and integrated accessories with rounded image containers and dark green headings.](https://pin.fontofweb.com/10730?format=jpg)](https://design.withfudge.com/share/pin-10730)
+[![Feature carousel cards showing modularity, expandable storage, and integrated accessories with rounded image containers and dark green headings.](https://pin.fontofweb.com/10730?format=jpg)](https://fudge.design/share/pin-10730)
 
-[Feature carousel cards showing modularity, expandable storage, and integrated accessories with rounded image containers and dark green headings.](https://design.withfudge.com/share/pin-10730)
+[Feature carousel cards showing modularity, expandable storage, and integrated accessories with rounded image containers and dark green headings.](https://fudge.design/share/pin-10730)
 
-[![Expanded Shop mega-menu with categorized product columns, promotional card with phone image, and dark green navigation accents on white background.](https://pin.fontofweb.com/10726?format=jpg)](https://design.withfudge.com/share/pin-10726)
+[![Expanded Shop mega-menu with categorized product columns, promotional card with phone image, and dark green navigation accents on white background.](https://pin.fontofweb.com/10726?format=jpg)](https://fudge.design/share/pin-10726)
 
-[Expanded Shop mega-menu with categorized product columns, promotional card with phone image, and dark green navigation accents on white background.](https://design.withfudge.com/share/pin-10726)
+[Expanded Shop mega-menu with categorized product columns, promotional card with phone image, and dark green navigation accents on white background.](https://fudge.design/share/pin-10726)
 
 ## Overview
 
@@ -166,3 +166,7 @@ Navigation should collapse to a hamburger menu on mobile, with the mega-menu tra
 ## Scope note
 
 This guide covers the desktop homepage and product detail page surfaces. Mobile breakpoints, checkout flows, account pages, and animation specifications are not included. Verify all measurements against live implementation before production use.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

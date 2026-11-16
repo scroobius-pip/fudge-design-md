@@ -1,26 +1,26 @@
 # How jasonwei.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jasonwei.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/jasonwei.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage with portrait photo, biography text, and structured lists of papers and talks with date-aligned metadata](https://pin.fontofweb.com/9220?format=jpg)](https://design.withfudge.com/share/pin-9220)
+[![Homepage with portrait photo, biography text, and structured lists of papers and talks with date-aligned metadata](https://pin.fontofweb.com/9220?format=jpg)](https://fudge.design/share/pin-9220)
 
-[Homepage with portrait photo, biography text, and structured lists of papers and talks with date-aligned metadata](https://design.withfudge.com/share/pin-9220)
+[Homepage with portrait photo, biography text, and structured lists of papers and talks with date-aligned metadata](https://fudge.design/share/pin-9220)
 
-[![Blog post header with serif title, author byline, and body text with bold section headings and bulleted examples](https://pin.fontofweb.com/9218?format=jpg)](https://design.withfudge.com/share/pin-9218)
+[![Blog post header with serif title, author byline, and body text with bold section headings and bulleted examples](https://pin.fontofweb.com/9218?format=jpg)](https://fudge.design/share/pin-9218)
 
-[Blog post header with serif title, author byline, and body text with bold section headings and bulleted examples](https://design.withfudge.com/share/pin-9218)
+[Blog post header with serif title, author byline, and body text with bold section headings and bulleted examples](https://fudge.design/share/pin-9218)
 
-[![Thoughts index page with numbered list of essay titles in muted indigo links under a section heading](https://pin.fontofweb.com/9221?format=jpg)](https://design.withfudge.com/share/pin-9221)
+[![Thoughts index page with numbered list of essay titles in muted indigo links under a section heading](https://pin.fontofweb.com/9221?format=jpg)](https://fudge.design/share/pin-9221)
 
-[Thoughts index page with numbered list of essay titles in muted indigo links under a section heading](https://design.withfudge.com/share/pin-9221)
+[Thoughts index page with numbered list of essay titles in muted indigo links under a section heading](https://fudge.design/share/pin-9221)
 
-[![Blog post footer with previous and next article navigation arrows and related reading link](https://pin.fontofweb.com/9219?format=jpg)](https://design.withfudge.com/share/pin-9219)
+[![Blog post footer with previous and next article navigation arrows and related reading link](https://pin.fontofweb.com/9219?format=jpg)](https://fudge.design/share/pin-9219)
 
-[Blog post footer with previous and next article navigation arrows and related reading link](https://design.withfudge.com/share/pin-9219)
+[Blog post footer with previous and next article navigation arrows and related reading link](https://fudge.design/share/pin-9219)
 
 ## Overview
 
@@ -204,3 +204,18 @@ The tight body line height of 1.2 may benefit from slight increase on very small
 ## Scope note
 
 This guide covers the personal homepage, thoughts index, and individual blog post templates visible in the supplied material. Navigation, header, and content list components are fully described. Forms, search, comments, archives, and any mobile-specific layouts are not represented. The portrait photograph treatment is documented for the homepage instance only. No animation, loading states, or interactive feedback beyond link underlining are included in the visible system.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

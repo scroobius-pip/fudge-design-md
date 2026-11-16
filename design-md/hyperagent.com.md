@@ -1,18 +1,18 @@
 # How hyperagent.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hyperagent.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hyperagent.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Capabilities section with accordion list and product screenshot showing AI recruiting workflow on a muted purple-gray background](https://pin.fontofweb.com/8945?format=jpg)](https://design.withfudge.com/share/pin-8945)
+[![Capabilities section with accordion list and product screenshot showing AI recruiting workflow on a muted purple-gray background](https://pin.fontofweb.com/8945?format=jpg)](https://fudge.design/share/pin-8945)
 
-[Capabilities section with accordion list and product screenshot showing AI recruiting workflow on a muted purple-gray background](https://design.withfudge.com/share/pin-8945)
+[Capabilities section with accordion list and product screenshot showing AI recruiting workflow on a muted purple-gray background](https://fudge.design/share/pin-8945)
 
-[![Hero section with large display headline, centered sign-up button, and capabilities section with teal-tinted product screenshot](https://pin.fontofweb.com/8944?format=jpg)](https://design.withfudge.com/share/pin-8944)
+[![Hero section with large display headline, centered sign-up button, and capabilities section with teal-tinted product screenshot](https://pin.fontofweb.com/8944?format=jpg)](https://fudge.design/share/pin-8944)
 
-[Hero section with large display headline, centered sign-up button, and capabilities section with teal-tinted product screenshot](https://design.withfudge.com/share/pin-8944)
+[Hero section with large display headline, centered sign-up button, and capabilities section with teal-tinted product screenshot](https://fudge.design/share/pin-8944)
 
 ## Overview
 
@@ -147,3 +147,18 @@ The navigation header may collapse to a hamburger menu on small screens, though 
 ## Scope note
 
 This guide covers the Hyperagent landing page hero and capabilities sections as visible in the supplied images. Footer content, additional page sections, mobile navigation patterns, and interactive states beyond the static accordion appearance are not represented. The design system assumes a light-mode presentation with no verified dark theme. Measurements reflect the desktop viewport shown in the source images.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing page](/share/designs-with-page.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

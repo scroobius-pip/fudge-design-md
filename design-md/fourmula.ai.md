@@ -1,26 +1,26 @@
 # How fourmula.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fourmula.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/fourmula.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://pin.fontofweb.com/8675?format=jpg)](https://design.withfudge.com/share/pin-8675)
+[![Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://pin.fontofweb.com/8675?format=jpg)](https://fudge.design/share/pin-8675)
 
-[Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://design.withfudge.com/share/pin-8675)
+[Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://fudge.design/share/pin-8675)
 
-[![Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://pin.fontofweb.com/8674?format=jpg)](https://design.withfudge.com/share/pin-8674)
+[![Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://pin.fontofweb.com/8674?format=jpg)](https://fudge.design/share/pin-8674)
 
-[Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://design.withfudge.com/share/pin-8674)
+[Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://fudge.design/share/pin-8674)
 
-[![Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://pin.fontofweb.com/8673?format=jpg)](https://design.withfudge.com/share/pin-8673)
+[![Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://pin.fontofweb.com/8673?format=jpg)](https://fudge.design/share/pin-8673)
 
-[Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://design.withfudge.com/share/pin-8673)
+[Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://fudge.design/share/pin-8673)
 
-[![Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://pin.fontofweb.com/8672?format=jpg)](https://design.withfudge.com/share/pin-8672)
+[![Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://pin.fontofweb.com/8672?format=jpg)](https://fudge.design/share/pin-8672)
 
-[Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://design.withfudge.com/share/pin-8672)
+[Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://fudge.design/share/pin-8672)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Typography scales down proportionally: hero display should reduce to section-dis
 ## Scope note
 
 This guide covers the homepage and primary navigation experience of Fourmula.ai. Interior pages, product generation workflows, account dashboards, and mobile-specific layouts are not represented in the supplied material. The exact spacing and radius values derive from the desktop interface; responsive adaptations should be validated against additional breakpoints. Measurements are practical adaptation targets based on the visible interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How intercom.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/intercom.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/intercom.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section of the Intercom Customers page showing a large display heading, subheading, and two action buttons on a warm off-white background with a chat widget visible.](https://pin.fontofweb.com/9300?format=jpg)](https://design.withfudge.com/share/pin-9300)
+[![Hero section of the Intercom Customers page showing a large display heading, subheading, and two action buttons on a warm off-white background with a chat widget visible.](https://pin.fontofweb.com/9300?format=jpg)](https://fudge.design/share/pin-9300)
 
-[Hero section of the Intercom Customers page showing a large display heading, subheading, and two action buttons on a warm off-white background with a chat widget visible.](https://design.withfudge.com/share/pin-9300)
+[Hero section of the Intercom Customers page showing a large display heading, subheading, and two action buttons on a warm off-white background with a chat widget visible.](https://fudge.design/share/pin-9300)
 
-[![Customer stories grid showing three large case-study cards with company logos, descriptive text, and bottom metrics on a warm beige surface.](https://pin.fontofweb.com/9301?format=jpg)](https://design.withfudge.com/share/pin-9301)
+[![Customer stories grid showing three large case-study cards with company logos, descriptive text, and bottom metrics on a warm beige surface.](https://pin.fontofweb.com/9301?format=jpg)](https://fudge.design/share/pin-9301)
 
-[Customer stories grid showing three large case-study cards with company logos, descriptive text, and bottom metrics on a warm beige surface.](https://design.withfudge.com/share/pin-9301)
+[Customer stories grid showing three large case-study cards with company logos, descriptive text, and bottom metrics on a warm beige surface.](https://fudge.design/share/pin-9301)
 
-[![Mixed content area with customer profile cards, statistics blocks showing percentages, and quote cards with company attribution on alternating white and beige backgrounds.](https://pin.fontofweb.com/9302?format=jpg)](https://design.withfudge.com/share/pin-9302)
+[![Mixed content area with customer profile cards, statistics blocks showing percentages, and quote cards with company attribution on alternating white and beige backgrounds.](https://pin.fontofweb.com/9302?format=jpg)](https://fudge.design/share/pin-9302)
 
-[Mixed content area with customer profile cards, statistics blocks showing percentages, and quote cards with company attribution on alternating white and beige backgrounds.](https://design.withfudge.com/share/pin-9302)
+[Mixed content area with customer profile cards, statistics blocks showing percentages, and quote cards with company attribution on alternating white and beige backgrounds.](https://fudge.design/share/pin-9302)
 
-[![Social proof section with a large heading and a grid of testimonial cards containing quotes, author names, and social platform icons.](https://pin.fontofweb.com/9303?format=jpg)](https://design.withfudge.com/share/pin-9303)
+[![Social proof section with a large heading and a grid of testimonial cards containing quotes, author names, and social platform icons.](https://pin.fontofweb.com/9303?format=jpg)](https://fudge.design/share/pin-9303)
 
-[Social proof section with a large heading and a grid of testimonial cards containing quotes, author names, and social platform icons.](https://design.withfudge.com/share/pin-9303)
+[Social proof section with a large heading and a grid of testimonial cards containing quotes, author names, and social platform icons.](https://fudge.design/share/pin-9303)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The chat widget should remain fixed in position but may reduce in width on small
 ## Scope note
 
 This guide covers the Intercom Customers page surface, including the hero, filterable customer story grid, statistics blocks, quote cards, and social proof sections. The homepage hero, pricing page, and footer navigation are referenced from additional pins but not fully documented. Mobile breakpoints, hover states, loading skeletons, form validation, and dark mode implementations are not included. Motion design and animation specifications are outside the scope of this guide.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

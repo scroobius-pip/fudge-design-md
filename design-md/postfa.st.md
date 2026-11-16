@@ -1,18 +1,18 @@
 # How postfa.st is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/postfa.st-design)
+[Open the live Fudge conversation](https://fudge.design/share/postfa.st-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with product dashboard preview showing social media scheduling interface and platform icons row](https://pin.fontofweb.com/7482?format=jpg)](https://design.withfudge.com/share/pin-7482)
+[![Hero section with product dashboard preview showing social media scheduling interface and platform icons row](https://pin.fontofweb.com/7482?format=jpg)](https://fudge.design/share/pin-7482)
 
-[Hero section with product dashboard preview showing social media scheduling interface and platform icons row](https://design.withfudge.com/share/pin-7482)
+[Hero section with product dashboard preview showing social media scheduling interface and platform icons row](https://fudge.design/share/pin-7482)
 
-[![Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and dark Enterprise tier](https://pin.fontofweb.com/7481?format=jpg)](https://design.withfudge.com/share/pin-7481)
+[![Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and dark Enterprise tier](https://pin.fontofweb.com/7481?format=jpg)](https://fudge.design/share/pin-7481)
 
-[Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and dark Enterprise tier](https://design.withfudge.com/share/pin-7481)
+[Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and dark Enterprise tier](https://fudge.design/share/pin-7481)
 
 ## Overview
 
@@ -199,3 +199,18 @@ Navigation should collapse to a hamburger menu on mobile, preserving the Sign Up
 ## Scope note
 
 This guide covers the PostFast landing page including hero, navigation, and pricing sections. Footer content, interior dashboard interfaces, authentication flows, and mobile-specific layouts are not represented in the source material. Motion, animation, and interactive states beyond static hover assumptions are not documented. Measurements derive from the supplied interface analysis with values snapped to the 0.25rem base unit.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How radix-ui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/radix-ui.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/radix-ui.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large serif headline, component preview cards, and dark gradient background](https://pin.fontofweb.com/8038?format=jpg)](https://design.withfudge.com/share/pin-8038)
+[![Homepage hero with large serif headline, component preview cards, and dark gradient background](https://pin.fontofweb.com/8038?format=jpg)](https://fudge.design/share/pin-8038)
 
-[Homepage hero with large serif headline, component preview cards, and dark gradient background](https://design.withfudge.com/share/pin-8038)
+[Homepage hero with large serif headline, component preview cards, and dark gradient background](https://fudge.design/share/pin-8038)
 
-[![Themes playground showing typography specimen with theme customization panel on the right](https://pin.fontofweb.com/8037?format=jpg)](https://design.withfudge.com/share/pin-8037)
+[![Themes playground showing typography specimen with theme customization panel on the right](https://pin.fontofweb.com/8037?format=jpg)](https://fudge.design/share/pin-8037)
 
-[Themes playground showing typography specimen with theme customization panel on the right](https://design.withfudge.com/share/pin-8037)
+[Themes playground showing typography specimen with theme customization panel on the right](https://fudge.design/share/pin-8037)
 
-[![Button component matrix with accent, gray, disabled, and loading variants in multiple styles](https://pin.fontofweb.com/8036?format=jpg)](https://design.withfudge.com/share/pin-8036)
+[![Button component matrix with accent, gray, disabled, and loading variants in multiple styles](https://pin.fontofweb.com/8036?format=jpg)](https://fudge.design/share/pin-8036)
 
-[Button component matrix with accent, gray, disabled, and loading variants in multiple styles](https://design.withfudge.com/share/pin-8036)
+[Button component matrix with accent, gray, disabled, and loading variants in multiple styles](https://fudge.design/share/pin-8036)
 
-[![Alert Dialog and Avatar component demos with aspect ratio images and theme controls](https://pin.fontofweb.com/8035?format=jpg)](https://design.withfudge.com/share/pin-8035)
+[![Alert Dialog and Avatar component demos with aspect ratio images and theme controls](https://pin.fontofweb.com/8035?format=jpg)](https://fudge.design/share/pin-8035)
 
-[Alert Dialog and Avatar component demos with aspect ratio images and theme controls](https://design.withfudge.com/share/pin-8035)
+[Alert Dialog and Avatar component demos with aspect ratio images and theme controls](https://fudge.design/share/pin-8035)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Navigation collapses to a hamburger menu on mobile, with section links moving to
 ## Scope note
 
 This guide covers the homepage, themes playground, and component documentation surfaces visible in the supplied images. Mobile layouts, animation specifications, form validation states, and the light mode color inversion are not fully represented. The color swatch system in the theme panel suggests extensive palette generation capabilities not detailed here. Measurements are derived from the exact values in the design facts where available, with semantic rounding to the 2px relative unit grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

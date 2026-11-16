@@ -1,26 +1,26 @@
 # How railway.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/railway.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/railway.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with purple plus icons on dark navy background, showing expanded pricing question with muted body text](https://pin.fontofweb.com/5645?format=jpg)](https://design.withfudge.com/share/pin-5645)
+[![FAQ accordion section with purple plus icons on dark navy background, showing expanded pricing question with muted body text](https://pin.fontofweb.com/5645?format=jpg)](https://fudge.design/share/pin-5645)
 
-[FAQ accordion section with purple plus icons on dark navy background, showing expanded pricing question with muted body text](https://design.withfudge.com/share/pin-5645)
+[FAQ accordion section with purple plus icons on dark navy background, showing expanded pricing question with muted body text](https://fudge.design/share/pin-5645)
 
-[![Hero section with bold white headline, purple gradient CTA button, and dark card form with file upload dropzone](https://pin.fontofweb.com/5644?format=jpg)](https://design.withfudge.com/share/pin-5644)
+[![Hero section with bold white headline, purple gradient CTA button, and dark card form with file upload dropzone](https://pin.fontofweb.com/5644?format=jpg)](https://fudge.design/share/pin-5644)
 
-[Hero section with bold white headline, purple gradient CTA button, and dark card form with file upload dropzone](https://design.withfudge.com/share/pin-5644)
+[Hero section with bold white headline, purple gradient CTA button, and dark card form with file upload dropzone](https://fudge.design/share/pin-5644)
 
-[![Feature unlock cards with line icons, tiered pricing amounts, and subtle surface borders on dark background](https://pin.fontofweb.com/5643?format=jpg)](https://design.withfudge.com/share/pin-5643)
+[![Feature unlock cards with line icons, tiered pricing amounts, and subtle surface borders on dark background](https://pin.fontofweb.com/5643?format=jpg)](https://fudge.design/share/pin-5643)
 
-[Feature unlock cards with line icons, tiered pricing amounts, and subtle surface borders on dark background](https://design.withfudge.com/share/pin-5643)
+[Feature unlock cards with line icons, tiered pricing amounts, and subtle surface borders on dark background](https://fudge.design/share/pin-5643)
 
-[![Four-column pricing comparison table with purple and blue action buttons and horizontal divider rules](https://pin.fontofweb.com/5642?format=jpg)](https://design.withfudge.com/share/pin-5642)
+[![Four-column pricing comparison table with purple and blue action buttons and horizontal divider rules](https://pin.fontofweb.com/5642?format=jpg)](https://fudge.design/share/pin-5642)
 
-[Four-column pricing comparison table with purple and blue action buttons and horizontal divider rules](https://design.withfudge.com/share/pin-5642)
+[Four-column pricing comparison table with purple and blue action buttons and horizontal divider rules](https://fudge.design/share/pin-5642)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Accordion items should remain full-width across all breakpoints, with answer tex
 ## Scope note
 
 This guide covers the pricing page and homepage hero surfaces visible in the supplied images. Navigation, footer, dashboard interfaces, and mobile breakpoint layouts are not represented. Motion, loading states, and error handling are not documented. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

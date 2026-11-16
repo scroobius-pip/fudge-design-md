@@ -1,26 +1,26 @@
 # How usepylon.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/usepylon.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/usepylon.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with light warm-gray background, purple circular toggle icons, and left-aligned section heading](https://pin.fontofweb.com/1698?format=jpg)](https://design.withfudge.com/share/pin-1698)
+[![FAQ accordion section with light warm-gray background, purple circular toggle icons, and left-aligned section heading](https://pin.fontofweb.com/1698?format=jpg)](https://fudge.design/share/pin-1698)
 
-[FAQ accordion section with light warm-gray background, purple circular toggle icons, and left-aligned section heading](https://design.withfudge.com/share/pin-1698)
+[FAQ accordion section with light warm-gray background, purple circular toggle icons, and left-aligned section heading](https://fudge.design/share/pin-1698)
 
-[![Feature comparison table with white and soft blue column backgrounds, black checkmark circles, and expandable section header](https://pin.fontofweb.com/1697?format=jpg)](https://design.withfudge.com/share/pin-1697)
+[![Feature comparison table with white and soft blue column backgrounds, black checkmark circles, and expandable section header](https://pin.fontofweb.com/1697?format=jpg)](https://fudge.design/share/pin-1697)
 
-[Feature comparison table with white and soft blue column backgrounds, black checkmark circles, and expandable section header](https://design.withfudge.com/share/pin-1697)
+[Feature comparison table with white and soft blue column backgrounds, black checkmark circles, and expandable section header](https://fudge.design/share/pin-1697)
 
-[![Channels capability matrix showing three pricing tiers with alternating white and pale blue column fills and black check indicators](https://pin.fontofweb.com/1696?format=jpg)](https://design.withfudge.com/share/pin-1696)
+[![Channels capability matrix showing three pricing tiers with alternating white and pale blue column fills and black check indicators](https://pin.fontofweb.com/1696?format=jpg)](https://fudge.design/share/pin-1696)
 
-[Channels capability matrix showing three pricing tiers with alternating white and pale blue column fills and black check indicators](https://design.withfudge.com/share/pin-1696)
+[Channels capability matrix showing three pricing tiers with alternating white and pale blue column fills and black check indicators](https://fudge.design/share/pin-1696)
 
-[![Three-tier pricing cards with purple Most Popular badge, black filled primary CTA, and social proof logo bar below](https://pin.fontofweb.com/1695?format=jpg)](https://design.withfudge.com/share/pin-1695)
+[![Three-tier pricing cards with purple Most Popular badge, black filled primary CTA, and social proof logo bar below](https://pin.fontofweb.com/1695?format=jpg)](https://fudge.design/share/pin-1695)
 
-[Three-tier pricing cards with purple Most Popular badge, black filled primary CTA, and social proof logo bar below](https://design.withfudge.com/share/pin-1695)
+[Three-tier pricing cards with purple Most Popular badge, black filled primary CTA, and social proof logo bar below](https://fudge.design/share/pin-1695)
 
 ## Overview
 
@@ -177,3 +177,18 @@ The zero-radius button aesthetic should persist across breakpoints; touch target
 ## Scope note
 
 This guide covers the pricing page and its component patterns as visible in desktop screenshots. Mobile layouts, navigation systems, form interactions, animation, and dark mode variants are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. No hover, focus, loading, or error states were captured; implement standard accessible patterns for these.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

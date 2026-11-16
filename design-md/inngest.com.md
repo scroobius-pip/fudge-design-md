@@ -1,26 +1,26 @@
 # How inngest.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/inngest.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/share/pin-7556)
+[![Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://pin.fontofweb.com/7556?format=jpg)](https://fudge.design/share/pin-7556)
 
-[Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://design.withfudge.com/share/pin-7556)
+[Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://fudge.design/share/pin-7556)
 
-[![Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/share/pin-7555)
+[![Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://pin.fontofweb.com/7555?format=jpg)](https://fudge.design/share/pin-7555)
 
-[Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://design.withfudge.com/share/pin-7555)
+[Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://fudge.design/share/pin-7555)
 
-[![Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/share/pin-7554)
+[![Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://pin.fontofweb.com/7554?format=jpg)](https://fudge.design/share/pin-7554)
 
-[Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://design.withfudge.com/share/pin-7554)
+[Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://fudge.design/share/pin-7554)
 
-[![Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/share/pin-7553)
+[![Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://pin.fontofweb.com/7553?format=jpg)](https://fudge.design/share/pin-7553)
 
-[Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://design.withfudge.com/share/pin-7553)
+[Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://fudge.design/share/pin-7553)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Breakpoints are not specified; implement standard ranges (768px, 1024px, 1280px)
 ## Scope note
 
 This guide covers the marketing site homepage and pricing page as visible in desktop views. Mobile layouts, component hover and focus states, loading skeletons, form validation, and the authenticated product dashboard are not included. The documentation site and blog may extend this system with additional components. Measurements are exact where retained and practical adaptation targets where inferred from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

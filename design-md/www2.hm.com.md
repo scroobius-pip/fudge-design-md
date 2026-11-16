@@ -1,26 +1,26 @@
 # How www2.hm.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/www2.hm.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/www2.hm.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Men's graphic tees category page with bold uppercase page title, horizontal subcategory filter pills, and four-column product grid with model photography on light gray backgrounds](https://pin.fontofweb.com/7952?format=jpg)](https://design.withfudge.com/share/pin-7952)
+[![Men's graphic tees category page with bold uppercase page title, horizontal subcategory filter pills, and four-column product grid with model photography on light gray backgrounds](https://pin.fontofweb.com/7952?format=jpg)](https://fudge.design/share/pin-7952)
 
-[Men's graphic tees category page with bold uppercase page title, horizontal subcategory filter pills, and four-column product grid with model photography on light gray backgrounds](https://design.withfudge.com/share/pin-7952)
+[Men's graphic tees category page with bold uppercase page title, horizontal subcategory filter pills, and four-column product grid with model photography on light gray backgrounds](https://fudge.design/share/pin-7952)
 
-[![Men's t-shirts and tops category page showing selected filter pill state, product grid with varied styles including polo and boxy fits, and consistent e-commerce layout structure](https://pin.fontofweb.com/7951?format=jpg)](https://design.withfudge.com/share/pin-7951)
+[![Men's t-shirts and tops category page showing selected filter pill state, product grid with varied styles including polo and boxy fits, and consistent e-commerce layout structure](https://pin.fontofweb.com/7951?format=jpg)](https://fudge.design/share/pin-7951)
 
-[Men's t-shirts and tops category page showing selected filter pill state, product grid with varied styles including polo and boxy fits, and consistent e-commerce layout structure](https://design.withfudge.com/share/pin-7951)
+[Men's t-shirts and tops category page showing selected filter pill state, product grid with varied styles including polo and boxy fits, and consistent e-commerce layout structure](https://fudge.design/share/pin-7951)
 
-[![Product grid section showing oversized cotton t-shirts with color swatch indicators, heart wishlist icons, and clean product information with pricing](https://pin.fontofweb.com/7950?format=jpg)](https://design.withfudge.com/share/pin-7950)
+[![Product grid section showing oversized cotton t-shirts with color swatch indicators, heart wishlist icons, and clean product information with pricing](https://pin.fontofweb.com/7950?format=jpg)](https://fudge.design/share/pin-7950)
 
-[Product grid section showing oversized cotton t-shirts with color swatch indicators, heart wishlist icons, and clean product information with pricing](https://design.withfudge.com/share/pin-7950)
+[Product grid section showing oversized cotton t-shirts with color swatch indicators, heart wishlist icons, and clean product information with pricing](https://fudge.design/share/pin-7950)
 
-[![Campaign editorial layout with serif headline 'The oversized boxy fit', descriptive subtext, and asymmetric two-column composition with large hero image and four-image grid](https://pin.fontofweb.com/7949?format=jpg)](https://design.withfudge.com/share/pin-7949)
+[![Campaign editorial layout with serif headline 'The oversized boxy fit', descriptive subtext, and asymmetric two-column composition with large hero image and four-image grid](https://pin.fontofweb.com/7949?format=jpg)](https://fudge.design/share/pin-7949)
 
-[Campaign editorial layout with serif headline 'The oversized boxy fit', descriptive subtext, and asymmetric two-column composition with large hero image and four-image grid](https://design.withfudge.com/share/pin-7949)
+[Campaign editorial layout with serif headline 'The oversized boxy fit', descriptive subtext, and asymmetric two-column composition with large hero image and four-image grid](https://fudge.design/share/pin-7949)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Typography scales should maintain hierarchy: the 4rem hero display may reduce to
 ## Scope note
 
 This guide covers the men's category and campaign page surfaces visible in the supplied material. Checkout flows, mobile navigation, search interfaces, account pages, and footer content are not represented. Motion, hover states, and loading patterns are not described.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

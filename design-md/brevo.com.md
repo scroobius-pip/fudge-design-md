@@ -1,26 +1,26 @@
 # How brevo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/brevo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/brevo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with mint-green circuit illustration, dark rounded button, and green text link with arrow](https://pin.fontofweb.com/5144?format=jpg)](https://design.withfudge.com/share/pin-5144)
+[![Hero banner with mint-green circuit illustration, dark rounded button, and green text link with arrow](https://pin.fontofweb.com/5144?format=jpg)](https://fudge.design/share/pin-5144)
 
-[Hero banner with mint-green circuit illustration, dark rounded button, and green text link with arrow](https://design.withfudge.com/share/pin-5144)
+[Hero banner with mint-green circuit illustration, dark rounded button, and green text link with arrow](https://fudge.design/share/pin-5144)
 
-[![Four-column pricing grid with Starter, Standard, Professional, and Enterprise cards, toggle switch, and feature checklists](https://pin.fontofweb.com/5143?format=jpg)](https://design.withfudge.com/share/pin-5143)
+[![Four-column pricing grid with Starter, Standard, Professional, and Enterprise cards, toggle switch, and feature checklists](https://pin.fontofweb.com/5143?format=jpg)](https://fudge.design/share/pin-5143)
 
-[Four-column pricing grid with Starter, Standard, Professional, and Enterprise cards, toggle switch, and feature checklists](https://design.withfudge.com/share/pin-5143)
+[Four-column pricing grid with Starter, Standard, Professional, and Enterprise cards, toggle switch, and feature checklists](https://fudge.design/share/pin-5143)
 
-[![Plan customization interface with horizontal tier tabs, email volume slider, sales package cards, and right-side summary panel](https://pin.fontofweb.com/5142?format=jpg)](https://design.withfudge.com/share/pin-5142)
+[![Plan customization interface with horizontal tier tabs, email volume slider, sales package cards, and right-side summary panel](https://pin.fontofweb.com/5142?format=jpg)](https://fudge.design/share/pin-5142)
 
-[Plan customization interface with horizontal tier tabs, email volume slider, sales package cards, and right-side summary panel](https://design.withfudge.com/share/pin-5142)
+[Plan customization interface with horizontal tier tabs, email volume slider, sales package cards, and right-side summary panel](https://fudge.design/share/pin-5142)
 
-[![Standard plan customization view with green active tab, slider at 10,000 emails, marketing seats stepper, and sign-up button](https://pin.fontofweb.com/5141?format=jpg)](https://design.withfudge.com/share/pin-5141)
+[![Standard plan customization view with green active tab, slider at 10,000 emails, marketing seats stepper, and sign-up button](https://pin.fontofweb.com/5141?format=jpg)](https://fudge.design/share/pin-5141)
 
-[Standard plan customization view with green active tab, slider at 10,000 emails, marketing seats stepper, and sign-up button](https://design.withfudge.com/share/pin-5141)
+[Standard plan customization view with green active tab, slider at 10,000 emails, marketing seats stepper, and sign-up button](https://fudge.design/share/pin-5141)
 
 ## Overview
 
@@ -201,3 +201,18 @@ The four-column pricing grid should collapse to two columns on medium viewports 
 ## Scope note
 
 This guide covers the Brevo pricing page surface visible in the supplied images, including the tier overview grid and plan customization interface. Navigation header, footer, mobile layouts, hover and focus states, loading skeletons, error handling, and checkout flows are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Pricing page](/share/designs-with-page.marketing.pricing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

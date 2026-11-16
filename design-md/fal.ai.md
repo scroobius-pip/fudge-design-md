@@ -1,26 +1,26 @@
 # How fal.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fal.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/fal.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed model explore page showing horizontal rows of AI model cards with colorful thumbnails, category tags, and favorite icons in a grid layout.](https://pin.fontofweb.com/3115?format=jpg)](https://design.withfudge.com/share/pin-3115)
+[![Dark-themed model explore page showing horizontal rows of AI model cards with colorful thumbnails, category tags, and favorite icons in a grid layout.](https://pin.fontofweb.com/3115?format=jpg)](https://fudge.design/share/pin-3115)
 
-[Dark-themed model explore page showing horizontal rows of AI model cards with colorful thumbnails, category tags, and favorite icons in a grid layout.](https://design.withfudge.com/share/pin-3115)
+[Dark-themed model explore page showing horizontal rows of AI model cards with colorful thumbnails, category tags, and favorite icons in a grid layout.](https://fudge.design/share/pin-3115)
 
-[![Recently Added and Marquee Video Models sections displaying vibrant generative art thumbnails with new badges, model names, and descriptive text on dark background.](https://pin.fontofweb.com/3114?format=jpg)](https://design.withfudge.com/share/pin-3114)
+[![Recently Added and Marquee Video Models sections displaying vibrant generative art thumbnails with new badges, model names, and descriptive text on dark background.](https://pin.fontofweb.com/3114?format=jpg)](https://fudge.design/share/pin-3114)
 
-[Recently Added and Marquee Video Models sections displaying vibrant generative art thumbnails with new badges, model names, and descriptive text on dark background.](https://design.withfudge.com/share/pin-3114)
+[Recently Added and Marquee Video Models sections displaying vibrant generative art thumbnails with new badges, model names, and descriptive text on dark background.](https://fudge.design/share/pin-3114)
 
-[![Hero banner for Wan 2.5 Image to Video with purple gradient background, white display typography, and primary action buttons above a search bar and filter pills.](https://pin.fontofweb.com/3113?format=jpg)](https://design.withfudge.com/share/pin-3113)
+[![Hero banner for Wan 2.5 Image to Video with purple gradient background, white display typography, and primary action buttons above a search bar and filter pills.](https://pin.fontofweb.com/3113?format=jpg)](https://fudge.design/share/pin-3113)
 
-[Hero banner for Wan 2.5 Image to Video with purple gradient background, white display typography, and primary action buttons above a search bar and filter pills.](https://design.withfudge.com/share/pin-3113)
+[Hero banner for Wan 2.5 Image to Video with purple gradient background, white display typography, and primary action buttons above a search bar and filter pills.](https://fudge.design/share/pin-3113)
 
-[![Footer section with multi-column navigation links on deep navy background and large muted fal logo watermark in the corner.](https://pin.fontofweb.com/3112?format=jpg)](https://design.withfudge.com/share/pin-3112)
+[![Footer section with multi-column navigation links on deep navy background and large muted fal logo watermark in the corner.](https://pin.fontofweb.com/3112?format=jpg)](https://fudge.design/share/pin-3112)
 
-[Footer section with multi-column navigation links on deep navy background and large muted fal logo watermark in the corner.](https://design.withfudge.com/share/pin-3112)
+[Footer section with multi-column navigation links on deep navy background and large muted fal logo watermark in the corner.](https://fudge.design/share/pin-3112)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The card grid should collapse from five columns to three, then two, then single 
 ## Scope note
 
 This guide covers the explore page, dashboard footer, and navigation surfaces visible in the supplied images. Pricing tables, enterprise page layouts, login flows, and mobile breakpoints are not represented. Interactive states including hover, active, and loading require additional verification. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

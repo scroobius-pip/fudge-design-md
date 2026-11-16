@@ -1,26 +1,26 @@
 # How fin.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fin.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/fin.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQs section with accordion questions and answers on a clean white background using Saans typography](https://pin.fontofweb.com/9648?format=jpg)](https://design.withfudge.com/share/pin-9648)
+[![FAQs section with accordion questions and answers on a clean white background using Saans typography](https://pin.fontofweb.com/9648?format=jpg)](https://fudge.design/share/pin-9648)
 
-[FAQs section with accordion questions and answers on a clean white background using Saans typography](https://design.withfudge.com/share/pin-9648)
+[FAQs section with accordion questions and answers on a clean white background using Saans typography](https://fudge.design/share/pin-9648)
 
-[![Customer testimonial block with orange highlighted quote text and portrait photo on warm off-white background](https://pin.fontofweb.com/9647?format=jpg)](https://design.withfudge.com/share/pin-9647)
+[![Customer testimonial block with orange highlighted quote text and portrait photo on warm off-white background](https://pin.fontofweb.com/9647?format=jpg)](https://fudge.design/share/pin-9647)
 
-[Customer testimonial block with orange highlighted quote text and portrait photo on warm off-white background](https://design.withfudge.com/share/pin-9647)
+[Customer testimonial block with orange highlighted quote text and portrait photo on warm off-white background](https://fudge.design/share/pin-9647)
 
-[![Three-column pricing tier cards showing year-over-year discounts with large display numerals on warm cream cards](https://pin.fontofweb.com/9646?format=jpg)](https://design.withfudge.com/share/pin-9646)
+[![Three-column pricing tier cards showing year-over-year discounts with large display numerals on warm cream cards](https://pin.fontofweb.com/9646?format=jpg)](https://fudge.design/share/pin-9646)
 
-[Three-column pricing tier cards showing year-over-year discounts with large display numerals on warm cream cards](https://design.withfudge.com/share/pin-9646)
+[Three-column pricing tier cards showing year-over-year discounts with large display numerals on warm cream cards](https://fudge.design/share/pin-9646)
 
-[![Hero section with abstract gradient mesh artwork, navigation bar, and footer with multi-column link groups](https://pin.fontofweb.com/9645?format=jpg)](https://design.withfudge.com/share/pin-9645)
+[![Hero section with abstract gradient mesh artwork, navigation bar, and footer with multi-column link groups](https://pin.fontofweb.com/9645?format=jpg)](https://fudge.design/share/pin-9645)
 
-[Hero section with abstract gradient mesh artwork, navigation bar, and footer with multi-column link groups](https://design.withfudge.com/share/pin-9645)
+[Hero section with abstract gradient mesh artwork, navigation bar, and footer with multi-column link groups](https://fudge.design/share/pin-9645)
 
 ## Overview
 
@@ -209,3 +209,18 @@ Navigation transforms to a simplified header with hamburger menu on mobile, pres
 ## Scope note
 
 This guide covers the marketing and product marketing surfaces of Fin.ai including the homepage, pricing, model pages, and program pages. Dark mode immersive experiences, interactive demos, and authenticated application interfaces are not fully represented in the supplied material. Motion behavior, hover states, loading sequences, and form validation patterns should be developed with additional research. Measurements are based on extracted values from the desktop viewport range.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

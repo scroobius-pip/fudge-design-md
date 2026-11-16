@@ -1,26 +1,26 @@
 # How replit.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/replit.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/replit.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed Replit workspace showing a generated Mandarin Reader web app with cream cards, purple accents, and a chat-based builder sidebar.](https://pin.fontofweb.com/8012?format=jpg)](https://design.withfudge.com/share/pin-8012)
+[![Dark-themed Replit workspace showing a generated Mandarin Reader web app with cream cards, purple accents, and a chat-based builder sidebar.](https://pin.fontofweb.com/8012?format=jpg)](https://fudge.design/share/pin-8012)
 
-[Dark-themed Replit workspace showing a generated Mandarin Reader web app with cream cards, purple accents, and a chat-based builder sidebar.](https://design.withfudge.com/share/pin-8012)
+[Dark-themed Replit workspace showing a generated Mandarin Reader web app with cream cards, purple accents, and a chat-based builder sidebar.](https://fudge.design/share/pin-8012)
 
-[![Replit Pro marketing page with a white hero, bold orange gradient section, and product screenshot with collaborator avatars.](https://pin.fontofweb.com/8010?format=jpg)](https://design.withfudge.com/share/pin-8010)
+[![Replit Pro marketing page with a white hero, bold orange gradient section, and product screenshot with collaborator avatars.](https://pin.fontofweb.com/8010?format=jpg)](https://fudge.design/share/pin-8010)
 
-[Replit Pro marketing page with a white hero, bold orange gradient section, and product screenshot with collaborator avatars.](https://design.withfudge.com/share/pin-8010)
+[Replit Pro marketing page with a white hero, bold orange gradient section, and product screenshot with collaborator avatars.](https://fudge.design/share/pin-8010)
 
-[![Replit homepage footer with warm cream background, large gray logotype, and organized link columns with a California location badge.](https://pin.fontofweb.com/8009?format=jpg)](https://design.withfudge.com/share/pin-8009)
+[![Replit homepage footer with warm cream background, large gray logotype, and organized link columns with a California location badge.](https://pin.fontofweb.com/8009?format=jpg)](https://fudge.design/share/pin-8009)
 
-[Replit homepage footer with warm cream background, large gray logotype, and organized link columns with a California location badge.](https://design.withfudge.com/share/pin-8009)
+[Replit homepage footer with warm cream background, large gray logotype, and organized link columns with a California location badge.](https://fudge.design/share/pin-8009)
 
-[![Replit pricing page showing four tier cards with orange headings, black pill buttons, and feature lists on a cream background.](https://pin.fontofweb.com/8008?format=jpg)](https://design.withfudge.com/share/pin-8008)
+[![Replit pricing page showing four tier cards with orange headings, black pill buttons, and feature lists on a cream background.](https://pin.fontofweb.com/8008?format=jpg)](https://fudge.design/share/pin-8008)
 
-[Replit pricing page showing four tier cards with orange headings, black pill buttons, and feature lists on a cream background.](https://design.withfudge.com/share/pin-8008)
+[Replit pricing page showing four tier cards with orange headings, black pill buttons, and feature lists on a cream background.](https://fudge.design/share/pin-8008)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Workspace interfaces maintain their three-panel structure on larger screens, wit
 ## Scope note
 
 This guide covers the public marketing site and workspace builder interface as visible in the supplied images. Mobile layouts, motion design, form validation states, and the complete dark-theme workspace component library are not fully represented. Generated app previews show user-created content rather than system components. Measurements are derived from the documented interface values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

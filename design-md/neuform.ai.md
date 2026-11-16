@@ -1,26 +1,26 @@
 # How neuform.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/neuform.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/neuform.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with pixel-art 'DREAMCOMPOSER' title, dark sidebar navigation, and white idea cards on deep maroon canvas](https://pin.fontofweb.com/8825?format=jpg)](https://design.withfudge.com/share/pin-8825)
+[![Homepage hero with pixel-art 'DREAMCOMPOSER' title, dark sidebar navigation, and white idea cards on deep maroon canvas](https://pin.fontofweb.com/8825?format=jpg)](https://fudge.design/share/pin-8825)
 
-[Homepage hero with pixel-art 'DREAMCOMPOSER' title, dark sidebar navigation, and white idea cards on deep maroon canvas](https://design.withfudge.com/share/pin-8825)
+[Homepage hero with pixel-art 'DREAMCOMPOSER' title, dark sidebar navigation, and white idea cards on deep maroon canvas](https://fudge.design/share/pin-8825)
 
-[![Pricing modal overlay with four-tier runway plans, purple gradient Pro card, and detailed feature bullet lists on dark background](https://pin.fontofweb.com/8822?format=jpg)](https://design.withfudge.com/share/pin-8822)
+[![Pricing modal overlay with four-tier runway plans, purple gradient Pro card, and detailed feature bullet lists on dark background](https://pin.fontofweb.com/8822?format=jpg)](https://fudge.design/share/pin-8822)
 
-[Pricing modal overlay with four-tier runway plans, purple gradient Pro card, and detailed feature bullet lists on dark background](https://design.withfudge.com/share/pin-8822)
+[Pricing modal overlay with four-tier runway plans, purple gradient Pro card, and detailed feature bullet lists on dark background](https://fudge.design/share/pin-8822)
 
-[![Starter boost banner with yellow gradient, prompt input field, model selector, and file upload area in dark interface](https://pin.fontofweb.com/8821?format=jpg)](https://design.withfudge.com/share/pin-8821)
+[![Starter boost banner with yellow gradient, prompt input field, model selector, and file upload area in dark interface](https://pin.fontofweb.com/8821?format=jpg)](https://fudge.design/share/pin-8821)
 
-[Starter boost banner with yellow gradient, prompt input field, model selector, and file upload area in dark interface](https://design.withfudge.com/share/pin-8821)
+[Starter boost banner with yellow gradient, prompt input field, model selector, and file upload area in dark interface](https://fudge.design/share/pin-8821)
 
-[![Community dashboard with tagged project grid, creator leaderboard sidebar, and floating prompt composer overlay](https://pin.fontofweb.com/8820?format=jpg)](https://design.withfudge.com/share/pin-8820)
+[![Community dashboard with tagged project grid, creator leaderboard sidebar, and floating prompt composer overlay](https://pin.fontofweb.com/8820?format=jpg)](https://fudge.design/share/pin-8820)
 
-[Community dashboard with tagged project grid, creator leaderboard sidebar, and floating prompt composer overlay](https://design.withfudge.com/share/pin-8820)
+[Community dashboard with tagged project grid, creator leaderboard sidebar, and floating prompt composer overlay](https://fudge.design/share/pin-8820)
 
 ## Overview
 
@@ -201,3 +201,18 @@ Typography scales down proportionally: hero-display reduces to 2.5rem, section-d
 ## Scope note
 
 This guide covers the community dashboard, project showcase, pricing interface, and prompt composer as visible on desktop. Mobile layouts, animation specifications, form validation states, and user account settings are not represented in the supplied material. The pixel-art homepage treatment exists as a distinct visual mode with its own color palette that may require separate documentation. System-UI monospace and System-UI sans-serif appear as platform-rendered system fonts in telemetry contexts rather than loaded typefaces.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How redreach.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/redreach.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/redreach.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Parasite SEO feature page with green-accented hero, Google search mockup, and orange CTA button on warm off-white canvas](https://pin.fontofweb.com/10189?format=jpg)](https://design.withfudge.com/share/pin-10189)
+[![Parasite SEO feature page with green-accented hero, Google search mockup, and orange CTA button on warm off-white canvas](https://pin.fontofweb.com/10189?format=jpg)](https://fudge.design/share/pin-10189)
 
-[Parasite SEO feature page with green-accented hero, Google search mockup, and orange CTA button on warm off-white canvas](https://design.withfudge.com/share/pin-10189)
+[Parasite SEO feature page with green-accented hero, Google search mockup, and orange CTA button on warm off-white canvas](https://fudge.design/share/pin-10189)
 
-[![Lead generation feature page showing feature list with icons, inbound/outbound UI mockups, and orange-purple gradient accents](https://pin.fontofweb.com/10188?format=jpg)](https://design.withfudge.com/share/pin-10188)
+[![Lead generation feature page showing feature list with icons, inbound/outbound UI mockups, and orange-purple gradient accents](https://pin.fontofweb.com/10188?format=jpg)](https://fudge.design/share/pin-10188)
 
-[Lead generation feature page showing feature list with icons, inbound/outbound UI mockups, and orange-purple gradient accents](https://design.withfudge.com/share/pin-10188)
+[Lead generation feature page showing feature list with icons, inbound/outbound UI mockups, and orange-purple gradient accents](https://fudge.design/share/pin-10188)
 
-[![Homepage hero with 'Get Customers from Reddit' headline, Reddit logo badge, gradient CTA, and floating Reddit post cards](https://pin.fontofweb.com/10186?format=jpg)](https://design.withfudge.com/share/pin-10186)
+[![Homepage hero with 'Get Customers from Reddit' headline, Reddit logo badge, gradient CTA, and floating Reddit post cards](https://pin.fontofweb.com/10186?format=jpg)](https://fudge.design/share/pin-10186)
 
-[Homepage hero with 'Get Customers from Reddit' headline, Reddit logo badge, gradient CTA, and floating Reddit post cards](https://design.withfudge.com/share/pin-10186)
+[Homepage hero with 'Get Customers from Reddit' headline, Reddit logo badge, gradient CTA, and floating Reddit post cards](https://fudge.design/share/pin-10186)
 
-[![Pricing page with three-tier cards, orange 'Recommended' badge, monthly/yearly toggle, and detailed feature checklists](https://pin.fontofweb.com/10185?format=jpg)](https://design.withfudge.com/share/pin-10185)
+[![Pricing page with three-tier cards, orange 'Recommended' badge, monthly/yearly toggle, and detailed feature checklists](https://pin.fontofweb.com/10185?format=jpg)](https://fudge.design/share/pin-10185)
 
-[Pricing page with three-tier cards, orange 'Recommended' badge, monthly/yearly toggle, and detailed feature checklists](https://design.withfudge.com/share/pin-10185)
+[Pricing page with three-tier cards, orange 'Recommended' badge, monthly/yearly toggle, and detailed feature checklists](https://fudge.design/share/pin-10185)
 
 ## Overview
 
@@ -223,3 +223,18 @@ Card padding can reduce by `0.5rem` on mobile. Section vertical spacing should c
 ## Scope note
 
 This guide covers the homepage, feature pages (Parasite SEO and Lead Generation), and pricing page as visible in the supplied materials. Mobile breakpoints, animation behavior, form validation states, and dashboard interface screens are not included. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

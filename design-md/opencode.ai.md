@@ -1,22 +1,22 @@
 # How opencode.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/opencode.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/opencode.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with monospace headline, statistics paragraph, and three abstract data visualizations showing GitHub stars, contributors, and monthly developers in wireframe](https://pin.fontofweb.com/6260?format=jpg)](https://design.withfudge.com/share/pin-6260)
+[![Dark hero section with monospace headline, statistics paragraph, and three abstract data visualizations showing GitHub stars, contributors, and monthly developers in wireframe](https://pin.fontofweb.com/6260?format=jpg)](https://fudge.design/share/pin-6260)
 
-[Dark hero section with monospace headline, statistics paragraph, and three abstract data visualizations showing GitHub stars, contributors, and monthly developers in wireframe](https://design.withfudge.com/share/pin-6260)
+[Dark hero section with monospace headline, statistics paragraph, and three abstract data visualizations showing GitHub stars, contributors, and monthly developers in wireframe](https://fudge.design/share/pin-6260)
 
-[![Footer area with Zen model access section, email waitlist form with Subscribe button, five-column link grid, and copyright line on near-black background.](https://pin.fontofweb.com/6176?format=jpg)](https://design.withfudge.com/share/pin-6176)
+[![Footer area with Zen model access section, email waitlist form with Subscribe button, five-column link grid, and copyright line on near-black background.](https://pin.fontofweb.com/6176?format=jpg)](https://fudge.design/share/pin-6176)
 
-[Footer area with Zen model access section, email waitlist form with Subscribe button, five-column link grid, and copyright line on near-black background.](https://design.withfudge.com/share/pin-6176)
+[Footer area with Zen model access section, email waitlist form with Subscribe button, five-column link grid, and copyright line on near-black background.](https://fudge.design/share/pin-6176)
 
-[![FAQ accordion section with collapsed and expanded states, plus/minus indicators, and inline underlined links on dark background.](https://pin.fontofweb.com/6174?format=jpg)](https://design.withfudge.com/share/pin-6174)
+[![FAQ accordion section with collapsed and expanded states, plus/minus indicators, and inline underlined links on dark background.](https://pin.fontofweb.com/6174?format=jpg)](https://fudge.design/share/pin-6174)
 
-[FAQ accordion section with collapsed and expanded states, plus/minus indicators, and inline underlined links on dark background.](https://design.withfudge.com/share/pin-6174)
+[FAQ accordion section with collapsed and expanded states, plus/minus indicators, and inline underlined links on dark background.](https://fudge.design/share/pin-6174)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The email capture form's inline button should drop below the input field on narr
 ## Scope note
 
 This guide covers the landing page surface including hero, feature sections, FAQ, email capture, and footer. Navigation header behavior, additional interior pages, motion or scroll-triggered animations, and mobile-specific menu patterns are not represented in the available material.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

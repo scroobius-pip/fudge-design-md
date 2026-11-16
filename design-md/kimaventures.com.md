@@ -1,18 +1,18 @@
 # How kimaventures.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kimaventures.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kimaventures.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Portfolio section with outlined italic headings, teal body text on black, and investment ticker footer](https://pin.fontofweb.com/5446?format=jpg)](https://design.withfudge.com/share/pin-5446)
+[![Portfolio section with outlined italic headings, teal body text on black, and investment ticker footer](https://pin.fontofweb.com/5446?format=jpg)](https://fudge.design/share/pin-5446)
 
-[Portfolio section with outlined italic headings, teal body text on black, and investment ticker footer](https://design.withfudge.com/share/pin-5446)
+[Portfolio section with outlined italic headings, teal body text on black, and investment ticker footer](https://fudge.design/share/pin-5446)
 
-[![Hero with bold italic teal display type, black canvas, orange and blue portfolio cards, and scrolling ticker](https://pin.fontofweb.com/5445?format=jpg)](https://design.withfudge.com/share/pin-5445)
+[![Hero with bold italic teal display type, black canvas, orange and blue portfolio cards, and scrolling ticker](https://pin.fontofweb.com/5445?format=jpg)](https://fudge.design/share/pin-5445)
 
-[Hero with bold italic teal display type, black canvas, orange and blue portfolio cards, and scrolling ticker](https://design.withfudge.com/share/pin-5445)
+[Hero with bold italic teal display type, black canvas, orange and blue portfolio cards, and scrolling ticker](https://fudge.design/share/pin-5445)
 
 ## Overview
 
@@ -152,3 +152,18 @@ The single-column structure adapts naturally to narrow viewports without structu
 ## Scope note
 
 This guide covers the homepage hero, portfolio portal, and investment ticker as visible in the supplied captures. Interior pages, mobile-specific layouts, hover states, form interactions, and the full portfolio grid are not represented. Measurements are practical adaptation targets. The outlined text treatment may require vendor-specific CSS or SVG fallback for consistent cross-browser rendering.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

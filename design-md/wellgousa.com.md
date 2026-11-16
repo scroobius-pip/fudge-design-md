@@ -1,18 +1,18 @@
 # How wellgousa.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wellgousa.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wellgousa.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dimmed martial-arts classroom background, oversized white condensed title, and orange movie poster card](https://pin.fontofweb.com/10544?format=jpg)](https://design.withfudge.com/share/pin-10544)
+[![Hero section with dimmed martial-arts classroom background, oversized white condensed title, and orange movie poster card](https://pin.fontofweb.com/10544?format=jpg)](https://fudge.design/share/pin-10544)
 
-[Hero section with dimmed martial-arts classroom background, oversized white condensed title, and orange movie poster card](https://design.withfudge.com/share/pin-10544)
+[Hero section with dimmed martial-arts classroom background, oversized white condensed title, and orange movie poster card](https://fudge.design/share/pin-10544)
 
-[![Hero section with boxing-ring background, same title treatment, and persistent orange poster card with fighter imagery](https://pin.fontofweb.com/10543?format=jpg)](https://design.withfudge.com/share/pin-10543)
+[![Hero section with boxing-ring background, same title treatment, and persistent orange poster card with fighter imagery](https://pin.fontofweb.com/10543?format=jpg)](https://fudge.design/share/pin-10543)
 
-[Hero section with boxing-ring background, same title treatment, and persistent orange poster card with fighter imagery](https://design.withfudge.com/share/pin-10543)
+[Hero section with boxing-ring background, same title treatment, and persistent orange poster card with fighter imagery](https://fudge.design/share/pin-10543)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Poster card dimensions should maintain aspect ratio while scaling to fit availab
 ## Scope note
 
 This guide covers the desktop film landing page hero experience as visible in the supplied captures. Measurements are practical adaptation targets. Footer content, interior page layouts, mobile breakpoints, form interactions, and checkout flows are not represented. Motion behavior including video autoplay, hover states, and scroll-triggered animations require additional specification. Verify licensing for Dharma Gothic and system font families before production use.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

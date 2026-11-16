@@ -1,26 +1,26 @@
 # How huly.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/huly.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/huly.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Signup page with centered dark glassmorphism card, glowing purple-blue aurora background, and illuminated primary button](https://pin.fontofweb.com/2967?format=jpg)](https://design.withfudge.com/share/pin-2967)
+[![Signup page with centered dark glassmorphism card, glowing purple-blue aurora background, and illuminated primary button](https://pin.fontofweb.com/2967?format=jpg)](https://fudge.design/share/pin-2967)
 
-[Signup page with centered dark glassmorphism card, glowing purple-blue aurora background, and illuminated primary button](https://design.withfudge.com/share/pin-2967)
+[Signup page with centered dark glassmorphism card, glowing purple-blue aurora background, and illuminated primary button](https://fudge.design/share/pin-2967)
 
-[![Login page mirroring signup layout with dark translucent card, Huly logo, and warm gradient button highlight](https://pin.fontofweb.com/2966?format=jpg)](https://design.withfudge.com/share/pin-2966)
+[![Login page mirroring signup layout with dark translucent card, Huly logo, and warm gradient button highlight](https://pin.fontofweb.com/2966?format=jpg)](https://fudge.design/share/pin-2966)
 
-[Login page mirroring signup layout with dark translucent card, Huly logo, and warm gradient button highlight](https://design.withfudge.com/share/pin-2966)
+[Login page mirroring signup layout with dark translucent card, Huly logo, and warm gradient button highlight](https://fudge.design/share/pin-2966)
 
-[![Custom Plan section with large white body text on pure black background and cyan underlined contact link](https://pin.fontofweb.com/2965?format=jpg)](https://design.withfudge.com/share/pin-2965)
+[![Custom Plan section with large white body text on pure black background and cyan underlined contact link](https://pin.fontofweb.com/2965?format=jpg)](https://fudge.design/share/pin-2965)
 
-[Custom Plan section with large white body text on pure black background and cyan underlined contact link](https://design.withfudge.com/share/pin-2965)
+[Custom Plan section with large white body text on pure black background and cyan underlined contact link](https://fudge.design/share/pin-2965)
 
-[![Three-tier pricing cards with electric blue glow border on featured Rare plan and dark translucent surfaces](https://pin.fontofweb.com/2964?format=jpg)](https://design.withfudge.com/share/pin-2964)
+[![Three-tier pricing cards with electric blue glow border on featured Rare plan and dark translucent surfaces](https://pin.fontofweb.com/2964?format=jpg)](https://fudge.design/share/pin-2964)
 
-[Three-tier pricing cards with electric blue glow border on featured Rare plan and dark translucent surfaces](https://design.withfudge.com/share/pin-2964)
+[Three-tier pricing cards with electric blue glow border on featured Rare plan and dark translucent surfaces](https://fudge.design/share/pin-2964)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Background aurora effects should scale with viewport, maintaining their asymmetr
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage hero, authentication flows, and pricing presentation. The actual application interface, mobile-native layouts, component hover states, loading sequences, and form validation feedback are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

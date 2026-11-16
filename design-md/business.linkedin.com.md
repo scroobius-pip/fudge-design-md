@@ -1,26 +1,26 @@
 # How business.linkedin.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/business.linkedin.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/business.linkedin.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large headline, blue CTA button, and three rounded feature cards in warm tones with illustration](https://pin.fontofweb.com/4086?format=jpg)](https://design.withfudge.com/share/pin-4086)
+[![Hero section with large headline, blue CTA button, and three rounded feature cards in warm tones with illustration](https://pin.fontofweb.com/4086?format=jpg)](https://fudge.design/share/pin-4086)
 
-[Hero section with large headline, blue CTA button, and three rounded feature cards in warm tones with illustration](https://design.withfudge.com/share/pin-4086)
+[Hero section with large headline, blue CTA button, and three rounded feature cards in warm tones with illustration](https://fudge.design/share/pin-4086)
 
-[![Resource section with left-aligned heading and two content cards with illustrations and blue text links on light gray background](https://pin.fontofweb.com/4085?format=jpg)](https://design.withfudge.com/share/pin-4085)
+[![Resource section with left-aligned heading and two content cards with illustrations and blue text links on light gray background](https://pin.fontofweb.com/4085?format=jpg)](https://fudge.design/share/pin-4085)
 
-[Resource section with left-aligned heading and two content cards with illustrations and blue text links on light gray background](https://design.withfudge.com/share/pin-4085)
+[Resource section with left-aligned heading and two content cards with illustrations and blue text links on light gray background](https://fudge.design/share/pin-4085)
 
-[![Differentiators section with two large white cards on pale blue-gray background and three dark statistic bars at bottom](https://pin.fontofweb.com/4084?format=jpg)](https://design.withfudge.com/share/pin-4084)
+[![Differentiators section with two large white cards on pale blue-gray background and three dark statistic bars at bottom](https://pin.fontofweb.com/4084?format=jpg)](https://fudge.design/share/pin-4084)
 
-[Differentiators section with two large white cards on pale blue-gray background and three dark statistic bars at bottom](https://design.withfudge.com/share/pin-4084)
+[Differentiators section with two large white cards on pale blue-gray background and three dark statistic bars at bottom](https://fudge.design/share/pin-4084)
 
-[![Product comparison section with three tiered cards in blue, cream, and warm yellow with white lower sections and blue CTAs](https://pin.fontofweb.com/4083?format=jpg)](https://design.withfudge.com/share/pin-4083)
+[![Product comparison section with three tiered cards in blue, cream, and warm yellow with white lower sections and blue CTAs](https://pin.fontofweb.com/4083?format=jpg)](https://fudge.design/share/pin-4083)
 
-[Product comparison section with three tiered cards in blue, cream, and warm yellow with white lower sections and blue CTAs](https://design.withfudge.com/share/pin-4083)
+[Product comparison section with three tiered cards in blue, cream, and warm yellow with white lower sections and blue CTAs](https://fudge.design/share/pin-4083)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The design should maintain its generous proportions on larger screens while adap
 ## Scope note
 
 This guide covers the LinkedIn Business marketing page surface for talent solutions, including hero sections, feature highlights, product comparisons, resource listings, and social proof statistics. Mobile breakpoints, form validation states, loading skeletons, and dark mode beyond the statistic bars are not included. Measurements are practical adaptation targets derived from the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Analytics](/share/designs-with-capability.analytics)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

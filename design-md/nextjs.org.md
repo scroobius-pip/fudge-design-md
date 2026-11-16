@@ -1,26 +1,26 @@
 # How nextjs.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nextjs.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/nextjs.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer bar with monospace navigation links and social icons on pure black background](https://pin.fontofweb.com/2218?format=jpg)](https://design.withfudge.com/share/pin-2218)
+[![Footer bar with monospace navigation links and social icons on pure black background](https://pin.fontofweb.com/2218?format=jpg)](https://fudge.design/share/pin-2218)
 
-[Footer bar with monospace navigation links and social icons on pure black background](https://design.withfudge.com/share/pin-2218)
+[Footer bar with monospace navigation links and social icons on pure black background](https://fudge.design/share/pin-2218)
 
-[![Centered login form with large white heading, blue action button, and email input field](https://pin.fontofweb.com/2217?format=jpg)](https://design.withfudge.com/share/pin-2217)
+[![Centered login form with large white heading, blue action button, and email input field](https://pin.fontofweb.com/2217?format=jpg)](https://fudge.design/share/pin-2217)
 
-[Centered login form with large white heading, blue action button, and email input field](https://design.withfudge.com/share/pin-2217)
+[Centered login form with large white heading, blue action button, and email input field](https://fudge.design/share/pin-2217)
 
-[![Vercel logo centered above footer navigation with copyright and social icons](https://pin.fontofweb.com/2216?format=jpg)](https://design.withfudge.com/share/pin-2216)
+[![Vercel logo centered above footer navigation with copyright and social icons](https://pin.fontofweb.com/2216?format=jpg)](https://fudge.design/share/pin-2216)
 
-[Vercel logo centered above footer navigation with copyright and social icons](https://design.withfudge.com/share/pin-2216)
+[Vercel logo centered above footer navigation with copyright and social icons](https://fudge.design/share/pin-2216)
 
-[![Sponsors section with tiered partner grid showing Sanity, AWS, Clerk, and smaller logos](https://pin.fontofweb.com/2215?format=jpg)](https://design.withfudge.com/share/pin-2215)
+[![Sponsors section with tiered partner grid showing Sanity, AWS, Clerk, and smaller logos](https://pin.fontofweb.com/2215?format=jpg)](https://fudge.design/share/pin-2215)
 
-[Sponsors section with tiered partner grid showing Sanity, AWS, Clerk, and smaller logos](https://design.withfudge.com/share/pin-2215)
+[Sponsors section with tiered partner grid showing Sanity, AWS, Clerk, and smaller logos](https://fudge.design/share/pin-2215)
 
 ## Overview
 
@@ -157,3 +157,18 @@ Touch targets should maintain minimum 44px height despite the compact monospace 
 ## Scope note
 
 This guide covers the Next.js Conf 2025 event pages including login and sponsor surfaces. Marketing pages, documentation, interactive schedules, and mobile-specific layouts are not represented in the supplied material. Measurements are practical adaptation targets derived from visible composition.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

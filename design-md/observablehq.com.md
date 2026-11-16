@@ -1,26 +1,26 @@
 # How observablehq.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/observablehq.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/observablehq.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Top navigation with Resources dropdown menu showing three-column link layout and purple footer section with Learn more links](https://pin.fontofweb.com/1650?format=jpg)](https://design.withfudge.com/share/pin-1650)
+[![Top navigation with Resources dropdown menu showing three-column link layout and purple footer section with Learn more links](https://pin.fontofweb.com/1650?format=jpg)](https://fudge.design/share/pin-1650)
 
-[Top navigation with Resources dropdown menu showing three-column link layout and purple footer section with Learn more links](https://design.withfudge.com/share/pin-1650)
+[Top navigation with Resources dropdown menu showing three-column link layout and purple footer section with Learn more links](https://fudge.design/share/pin-1650)
 
-[![Sign up modal dialog with social authentication buttons, SSO and Email options, and terms agreement text](https://pin.fontofweb.com/1649?format=jpg)](https://design.withfudge.com/share/pin-1649)
+[![Sign up modal dialog with social authentication buttons, SSO and Email options, and terms agreement text](https://pin.fontofweb.com/1649?format=jpg)](https://fudge.design/share/pin-1649)
 
-[Sign up modal dialog with social authentication buttons, SSO and Email options, and terms agreement text](https://design.withfudge.com/share/pin-1649)
+[Sign up modal dialog with social authentication buttons, SSO and Email options, and terms agreement text](https://fudge.design/share/pin-1649)
 
-[![Purple grid background with three library cards for Observable Plot, D3, and Observable Framework with monospace headings](https://pin.fontofweb.com/1648?format=jpg)](https://design.withfudge.com/share/pin-1648)
+[![Purple grid background with three library cards for Observable Plot, D3, and Observable Framework with monospace headings](https://pin.fontofweb.com/1648?format=jpg)](https://fudge.design/share/pin-1648)
 
-[Purple grid background with three library cards for Observable Plot, D3, and Observable Framework with monospace headings](https://design.withfudge.com/share/pin-1648)
+[Purple grid background with three library cards for Observable Plot, D3, and Observable Framework with monospace headings](https://fudge.design/share/pin-1648)
 
-[![Split-screen layout with light notebook signup section and dark canvas demo section featuring data visualization screenshots](https://pin.fontofweb.com/1647?format=jpg)](https://design.withfudge.com/share/pin-1647)
+[![Split-screen layout with light notebook signup section and dark canvas demo section featuring data visualization screenshots](https://pin.fontofweb.com/1647?format=jpg)](https://fudge.design/share/pin-1647)
 
-[Split-screen layout with light notebook signup section and dark canvas demo section featuring data visualization screenshots](https://design.withfudge.com/share/pin-1647)
+[Split-screen layout with light notebook signup section and dark canvas demo section featuring data visualization screenshots](https://fudge.design/share/pin-1647)
 
 ## Overview
 
@@ -213,3 +213,18 @@ Type scale should reduce by approximately 20% on small viewports: hero-display d
 ## Scope note
 
 This guide covers the marketing and product showcase surfaces of observablehq.com, including navigation, authentication modals, library promotions, and split-screen feature sections. Pricing tables, interactive notebook interfaces, and logged-in dashboard experiences are not represented in the supplied images. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Pattern background](/share/designs-with-visual.background.pattern)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How jsfiddle.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jsfiddle.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/jsfiddle.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Main editor interface showing four-pane layout with dark theme, left sidebar navigation, and boilerplate chips in the result panel](https://pin.fontofweb.com/8168?format=jpg)](https://design.withfudge.com/share/pin-8168)
+[![Main editor interface showing four-pane layout with dark theme, left sidebar navigation, and boilerplate chips in the result panel](https://pin.fontofweb.com/8168?format=jpg)](https://fudge.design/share/pin-8168)
 
-[Main editor interface showing four-pane layout with dark theme, left sidebar navigation, and boilerplate chips in the result panel](https://design.withfudge.com/share/pin-8168)
+[Main editor interface showing four-pane layout with dark theme, left sidebar navigation, and boilerplate chips in the result panel](https://fudge.design/share/pin-8168)
 
-[![PRO membership modal with feature list, company logos, and orange Join as PRO button on dark background](https://pin.fontofweb.com/8167?format=jpg)](https://design.withfudge.com/share/pin-8167)
+[![PRO membership modal with feature list, company logos, and orange Join as PRO button on dark background](https://pin.fontofweb.com/8167?format=jpg)](https://fudge.design/share/pin-8167)
 
-[PRO membership modal with feature list, company logos, and orange Join as PRO button on dark background](https://design.withfudge.com/share/pin-8167)
+[PRO membership modal with feature list, company logos, and orange Join as PRO button on dark background](https://fudge.design/share/pin-8167)
 
-[![Expanded AI Code Completion sidebar panel with API key input and explanatory text blocks](https://pin.fontofweb.com/8166?format=jpg)](https://design.withfudge.com/share/pin-8166)
+[![Expanded AI Code Completion sidebar panel with API key input and explanatory text blocks](https://pin.fontofweb.com/8166?format=jpg)](https://fudge.design/share/pin-8166)
 
-[Expanded AI Code Completion sidebar panel with API key input and explanatory text blocks](https://design.withfudge.com/share/pin-8166)
+[Expanded AI Code Completion sidebar panel with API key input and explanatory text blocks](https://fudge.design/share/pin-8166)
 
-[![Coder Fonts modal overlay displaying monospace font specimens with syntax-highlighted code samples](https://pin.fontofweb.com/8165?format=jpg)](https://design.withfudge.com/share/pin-8165)
+[![Coder Fonts modal overlay displaying monospace font specimens with syntax-highlighted code samples](https://pin.fontofweb.com/8165?format=jpg)](https://fudge.design/share/pin-8165)
 
-[Coder Fonts modal overlay displaying monospace font specimens with syntax-highlighted code samples](https://design.withfudge.com/share/pin-8165)
+[Coder Fonts modal overlay displaying monospace font specimens with syntax-highlighted code samples](https://fudge.design/share/pin-8165)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Touch targets for sidebar items and header controls should maintain a minimum `2
 ## Scope note
 
 This guide covers the JSFiddle editor interface, sidebar navigation, and modal overlays as visible in the supplied images. Mobile layouts, code execution behavior, user settings panels, and collaborative features are not represented. The syntax highlighting color theme is described functionally but not mapped to exact token values. System-Systemui appears in the retained font data as a system-ui fallback but is not visually distinguished from Inter in the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

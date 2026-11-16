@@ -1,26 +1,26 @@
 # How streamscharts.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/streamscharts.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/streamscharts.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with dark platform cards, blue gradient background, and tiered subscription plans with discount badges](https://pin.fontofweb.com/4661?format=jpg)](https://design.withfudge.com/share/pin-4661)
+[![Pricing page with dark platform cards, blue gradient background, and tiered subscription plans with discount badges](https://pin.fontofweb.com/4661?format=jpg)](https://fudge.design/share/pin-4661)
 
-[Pricing page with dark platform cards, blue gradient background, and tiered subscription plans with discount badges](https://design.withfudge.com/share/pin-4661)
+[Pricing page with dark platform cards, blue gradient background, and tiered subscription plans with discount badges](https://fudge.design/share/pin-4661)
 
-[![News listing page with featured article hero, category filter chips, and grid of article cards with thumbnails](https://pin.fontofweb.com/4660?format=jpg)](https://design.withfudge.com/share/pin-4660)
+[![News listing page with featured article hero, category filter chips, and grid of article cards with thumbnails](https://pin.fontofweb.com/4660?format=jpg)](https://fudge.design/share/pin-4660)
 
-[News listing page with featured article hero, category filter chips, and grid of article cards with thumbnails](https://design.withfudge.com/share/pin-4660)
+[News listing page with featured article hero, category filter chips, and grid of article cards with thumbnails](https://fudge.design/share/pin-4660)
 
-[![Footer and CTA section with dark theme, partner logos, multi-column links, and contact form](https://pin.fontofweb.com/4659?format=jpg)](https://design.withfudge.com/share/pin-4659)
+[![Footer and CTA section with dark theme, partner logos, multi-column links, and contact form](https://pin.fontofweb.com/4659?format=jpg)](https://fudge.design/share/pin-4659)
 
-[Footer and CTA section with dark theme, partner logos, multi-column links, and contact form](https://design.withfudge.com/share/pin-4659)
+[Footer and CTA section with dark theme, partner logos, multi-column links, and contact form](https://fudge.design/share/pin-4659)
 
-[![Social proof section with embedded tweet cards showing influencer mentions on dark background](https://pin.fontofweb.com/4658?format=jpg)](https://design.withfudge.com/share/pin-4658)
+[![Social proof section with embedded tweet cards showing influencer mentions on dark background](https://pin.fontofweb.com/4658?format=jpg)](https://fudge.design/share/pin-4658)
 
-[Social proof section with embedded tweet cards showing influencer mentions on dark background](https://design.withfudge.com/share/pin-4658)
+[Social proof section with embedded tweet cards showing influencer mentions on dark background](https://fudge.design/share/pin-4658)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Typography scales down modestly: hero display reduces to `2rem` on narrow viewpo
 ## Scope note
 
 This guide covers the marketing, pricing, and news surfaces of Streams Charts as visible in the supplied images. Dashboard analytics views, account management flows, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. Platform-specific brand colors from game and service logos are excluded from the core token set.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

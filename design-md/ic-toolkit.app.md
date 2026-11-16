@@ -1,18 +1,18 @@
 # How ic-toolkit.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ic-toolkit.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/ic-toolkit.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Clash Grotesk headline, app discovery grid with four product cards featuring distinct logos, and pill-shaped Explore buttons on a near-white background](https://pin.fontofweb.com/7238?format=jpg)](https://design.withfudge.com/share/pin-7238)
+[![Hero section with large Clash Grotesk headline, app discovery grid with four product cards featuring distinct logos, and pill-shaped Explore buttons on a near-white background](https://pin.fontofweb.com/7238?format=jpg)](https://fudge.design/share/pin-7238)
 
-[Hero section with large Clash Grotesk headline, app discovery grid with four product cards featuring distinct logos, and pill-shaped Explore buttons on a near-white background](https://design.withfudge.com/share/pin-7238)
+[Hero section with large Clash Grotesk headline, app discovery grid with four product cards featuring distinct logos, and pill-shaped Explore buttons on a near-white background](https://fudge.design/share/pin-7238)
 
-[![What is Toolkit section with centered dark heading, body text, KEY FEATURES label, three dark pill tags, and footer with logo, navigation links, and social links on light gray](https://pin.fontofweb.com/7239?format=jpg)](https://design.withfudge.com/share/pin-7239)
+[![What is Toolkit section with centered dark heading, body text, KEY FEATURES label, three dark pill tags, and footer with logo, navigation links, and social links on light gray](https://pin.fontofweb.com/7239?format=jpg)](https://fudge.design/share/pin-7239)
 
-[What is Toolkit section with centered dark heading, body text, KEY FEATURES label, three dark pill tags, and footer with logo, navigation links, and social links on light gray](https://design.withfudge.com/share/pin-7239)
+[What is Toolkit section with centered dark heading, body text, KEY FEATURES label, three dark pill tags, and footer with logo, navigation links, and social links on light gray](https://fudge.design/share/pin-7239)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Touch targets for pill buttons and cards should maintain minimum 44px height. Ca
 ## Scope note
 
 This guide covers the homepage and its primary sections as visible in the supplied captures. Interior application pages, authentication flows, and the SNS management dashboard are not represented. Mobile breakpoint behavior, loading states, and form interactions are derived from desktop patterns rather than directly visible. Motion design and icon animation specifications are not included. The Arial family appears in one button instance at 24px; its role is limited and may warrant replacement with a primary interface family for consistency.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

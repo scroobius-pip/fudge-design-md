@@ -1,22 +1,22 @@
 # How rive.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rive.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/rive.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with RIVE wordmark, Tomorrow display heading, and horizontal scrolling category cards on black background](https://pin.fontofweb.com/9761?format=jpg)](https://design.withfudge.com/share/pin-9761)
+[![Hero section with RIVE wordmark, Tomorrow display heading, and horizontal scrolling category cards on black background](https://pin.fontofweb.com/9761?format=jpg)](https://fudge.design/share/pin-9761)
 
-[Hero section with RIVE wordmark, Tomorrow display heading, and horizontal scrolling category cards on black background](https://design.withfudge.com/share/pin-9761)
+[Hero section with RIVE wordmark, Tomorrow display heading, and horizontal scrolling category cards on black background](https://fudge.design/share/pin-9761)
 
-[![Social proof section with company logos, body copy, and testimonial grid cards with avatars on dark surface](https://pin.fontofweb.com/9764?format=jpg)](https://design.withfudge.com/share/pin-9764)
+[![Social proof section with company logos, body copy, and testimonial grid cards with avatars on dark surface](https://pin.fontofweb.com/9764?format=jpg)](https://fudge.design/share/pin-9764)
 
-[Social proof section with company logos, body copy, and testimonial grid cards with avatars on dark surface](https://design.withfudge.com/share/pin-9764)
+[Social proof section with company logos, body copy, and testimonial grid cards with avatars on dark surface](https://fudge.design/share/pin-9764)
 
-[![Split-screen login page with animated character on purple left panel and white right panel with form fields](https://pin.fontofweb.com/9763?format=jpg)](https://design.withfudge.com/share/pin-9763)
+[![Split-screen login page with animated character on purple left panel and white right panel with form fields](https://pin.fontofweb.com/9763?format=jpg)](https://fudge.design/share/pin-9763)
 
-[Split-screen login page with animated character on purple left panel and white right panel with form fields](https://design.withfudge.com/share/pin-9763)
+[Split-screen login page with animated character on purple left panel and white right panel with form fields](https://fudge.design/share/pin-9763)
 
 ## Overview
 
@@ -189,3 +189,18 @@ The horizontal-scrolling category card row should maintain touch-friendly card w
 ## Scope note
 
 This guide covers the Rive homepage hero, social proof sections, and login page as visible in the supplied materials. Interior product pages, editor interfaces, documentation layouts, and mobile-specific navigation patterns are not represented. Motion specifications, animation curves, and interactive state transitions are not documented from still images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

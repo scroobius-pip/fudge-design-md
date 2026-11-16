@@ -1,26 +1,26 @@
 # How vitest.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vitest.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/vitest.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large white display type, green-outlined Get Started button, and dark near-black background](https://pin.fontofweb.com/8186?format=jpg)](https://design.withfudge.com/share/pin-8186)
+[![Hero section with large white display type, green-outlined Get Started button, and dark near-black background](https://pin.fontofweb.com/8186?format=jpg)](https://fudge.design/share/pin-8186)
 
-[Hero section with large white display type, green-outlined Get Started button, and dark near-black background](https://design.withfudge.com/share/pin-8186)
+[Hero section with large white display type, green-outlined Get Started button, and dark near-black background](https://fudge.design/share/pin-8186)
 
-[![Footer area with green gradient CTA banner, sponsor logo grid, and multi-column link sections on dark background](https://pin.fontofweb.com/8185?format=jpg)](https://design.withfudge.com/share/pin-8185)
+[![Footer area with green gradient CTA banner, sponsor logo grid, and multi-column link sections on dark background](https://pin.fontofweb.com/8185?format=jpg)](https://fudge.design/share/pin-8185)
 
-[Footer area with green gradient CTA banner, sponsor logo grid, and multi-column link sections on dark background](https://design.withfudge.com/share/pin-8185)
+[Footer area with green gradient CTA banner, sponsor logo grid, and multi-column link sections on dark background](https://fudge.design/share/pin-8185)
 
-[![Sponsor tiers showing Special, Platinum, and Gold levels with bordered logo cells in a grid layout](https://pin.fontofweb.com/8184?format=jpg)](https://design.withfudge.com/share/pin-8184)
+[![Sponsor tiers showing Special, Platinum, and Gold levels with bordered logo cells in a grid layout](https://pin.fontofweb.com/8184?format=jpg)](https://fudge.design/share/pin-8184)
 
-[Sponsor tiers showing Special, Platinum, and Gold levels with bordered logo cells in a grid layout](https://design.withfudge.com/share/pin-8184)
+[Sponsor tiers showing Special, Platinum, and Gold levels with bordered logo cells in a grid layout](https://fudge.design/share/pin-8184)
 
-[![Feature grid with four cards showing Vite Powered, Jest Compatible, Smart watch mode, and ESM/TypeScript/JSX support](https://pin.fontofweb.com/8183?format=jpg)](https://design.withfudge.com/share/pin-8183)
+[![Feature grid with four cards showing Vite Powered, Jest Compatible, Smart watch mode, and ESM/TypeScript/JSX support](https://pin.fontofweb.com/8183?format=jpg)](https://fudge.design/share/pin-8183)
 
-[Feature grid with four cards showing Vite Powered, Jest Compatible, Smart watch mode, and ESM/TypeScript/JSX support](https://design.withfudge.com/share/pin-8183)
+[Feature grid with four cards showing Vite Powered, Jest Compatible, Smart watch mode, and ESM/TypeScript/JSX support](https://fudge.design/share/pin-8183)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The footer multi-column layout should stack vertically on narrow screens, with e
 ## Scope note
 
 This guide covers the Vitest homepage including the hero, sponsor ecosystem, feature grid, and footer. Documentation pages, interactive terminal demos, hover states, and mobile navigation patterns are not represented in the supplied material. The spacing and type scales derive from exact pixel measurements present in the interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

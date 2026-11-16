@@ -1,26 +1,26 @@
 # How civilization.2k.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/civilization.2k.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/civilization.2k.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with social icons, partner logos, ESRB rating, and legal text on pure black background with white condensed typography](https://pin.fontofweb.com/3077?format=jpg)](https://design.withfudge.com/share/pin-3077)
+[![Footer with social icons, partner logos, ESRB rating, and legal text on pure black background with white condensed typography](https://pin.fontofweb.com/3077?format=jpg)](https://fudge.design/share/pin-3077)
 
-[Footer with social icons, partner logos, ESRB rating, and legal text on pure black background with white condensed typography](https://design.withfudge.com/share/pin-3077)
+[Footer with social icons, partner logos, ESRB rating, and legal text on pure black background with white condensed typography](https://fudge.design/share/pin-3077)
 
-[![Account creation section featuring hexagonal Napoleon portrait frame with gold border, gold action button, and white serif headline on black background](https://pin.fontofweb.com/3076?format=jpg)](https://design.withfudge.com/share/pin-3076)
+[![Account creation section featuring hexagonal Napoleon portrait frame with gold border, gold action button, and white serif headline on black background](https://pin.fontofweb.com/3076?format=jpg)](https://fudge.design/share/pin-3076)
 
-[Account creation section featuring hexagonal Napoleon portrait frame with gold border, gold action button, and white serif headline on black background](https://design.withfudge.com/share/pin-3076)
+[Account creation section featuring hexagonal Napoleon portrait frame with gold border, gold action button, and white serif headline on black background](https://fudge.design/share/pin-3076)
 
-[![Social media follow section with gold rectangular icon buttons and large white display serif heading on black background](https://pin.fontofweb.com/3075?format=jpg)](https://design.withfudge.com/share/pin-3075)
+[![Social media follow section with gold rectangular icon buttons and large white display serif heading on black background](https://pin.fontofweb.com/3075?format=jpg)](https://fudge.design/share/pin-3075)
 
-[Social media follow section with gold rectangular icon buttons and large white display serif heading on black background](https://design.withfudge.com/share/pin-3075)
+[Social media follow section with gold rectangular icon buttons and large white display serif heading on black background](https://fudge.design/share/pin-3075)
 
-[![Settler's Edition product card with gold-accented cover art, gold buy button, and feature list with column icons on dark background](https://pin.fontofweb.com/3074?format=jpg)](https://design.withfudge.com/share/pin-3074)
+[![Settler's Edition product card with gold-accented cover art, gold buy button, and feature list with column icons on dark background](https://pin.fontofweb.com/3074?format=jpg)](https://fudge.design/share/pin-3074)
 
-[Settler's Edition product card with gold-accented cover art, gold buy button, and feature list with column icons on dark background](https://design.withfudge.com/share/pin-3074)
+[Settler's Edition product card with gold-accented cover art, gold buy button, and feature list with column icons on dark background](https://fudge.design/share/pin-3074)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The visible desktop layout suggests a system that would compress gracefully to s
 ## Scope note
 
 This guide covers the Civilization VII marketing page surfaces visible in the supplied images: account creation, product edition presentation, social media promotion, and footer systems. Interior article pages, navigation headers, mobile layouts, form validation states, and motion design are not represented. Measurements are practical adaptation targets derived from visual estimation against a four-pixel base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How screensmooth.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/screensmooth.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/screensmooth.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with video gallery grid, orange-red gradient announcement bar, and navigation with Get Started button](https://pin.fontofweb.com/7330?format=jpg)](https://design.withfudge.com/share/pin-7330)
+[![Hero section with video gallery grid, orange-red gradient announcement bar, and navigation with Get Started button](https://pin.fontofweb.com/7330?format=jpg)](https://fudge.design/share/pin-7330)
 
-[Hero section with video gallery grid, orange-red gradient announcement bar, and navigation with Get Started button](https://design.withfudge.com/share/pin-7330)
+[Hero section with video gallery grid, orange-red gradient announcement bar, and navigation with Get Started button](https://fudge.design/share/pin-7330)
 
-[![Feature comparison table with ScreenSmooth highlighted column, tab selectors, and green checkmark indicators](https://pin.fontofweb.com/7332?format=jpg)](https://design.withfudge.com/share/pin-7332)
+[![Feature comparison table with ScreenSmooth highlighted column, tab selectors, and green checkmark indicators](https://pin.fontofweb.com/7332?format=jpg)](https://fudge.design/share/pin-7332)
 
-[Feature comparison table with ScreenSmooth highlighted column, tab selectors, and green checkmark indicators](https://design.withfudge.com/share/pin-7332)
+[Feature comparison table with ScreenSmooth highlighted column, tab selectors, and green checkmark indicators](https://fudge.design/share/pin-7332)
 
-[![Social proof testimonial wall with dark cards, orange accent highlights, and verified user avatars](https://pin.fontofweb.com/7331?format=jpg)](https://design.withfudge.com/share/pin-7331)
+[![Social proof testimonial wall with dark cards, orange accent highlights, and verified user avatars](https://pin.fontofweb.com/7331?format=jpg)](https://fudge.design/share/pin-7331)
 
-[Social proof testimonial wall with dark cards, orange accent highlights, and verified user avatars](https://design.withfudge.com/share/pin-7331)
+[Social proof testimonial wall with dark cards, orange accent highlights, and verified user avatars](https://fudge.design/share/pin-7331)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Touch targets for buttons and cards should maintain minimum 44px height. The pil
 ## Scope note
 
 This guide covers the desktop landing page experience for ScreenSmooth, including the hero gallery, feature comparison, and social proof sections. Mobile layouts, checkout flows, application interfaces, and motion specifications are not represented in the available material. The button typography uses Arial as a system fallback; verify licensing for Inter before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

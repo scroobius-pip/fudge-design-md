@@ -1,18 +1,18 @@
 # How wm.wts.edu is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wm.wts.edu-design)
+[Open the live Fudge conversation](https://fudge.design/share/wm.wts.edu-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article hero with dark atmospheric painting, crimson navigation bar with white monospaced menu labels, and issue tag overlay](https://pin.fontofweb.com/5674?format=jpg)](https://design.withfudge.com/share/pin-5674)
+[![Article hero with dark atmospheric painting, crimson navigation bar with white monospaced menu labels, and issue tag overlay](https://pin.fontofweb.com/5674?format=jpg)](https://fudge.design/share/pin-5674)
 
-[Article hero with dark atmospheric painting, crimson navigation bar with white monospaced menu labels, and issue tag overlay](https://design.withfudge.com/share/pin-5674)
+[Article hero with dark atmospheric painting, crimson navigation bar with white monospaced menu labels, and issue tag overlay](https://fudge.design/share/pin-5674)
 
-[![Magazine index with crimson header, light gray content cards with serif article titles and monospaced metadata labels](https://pin.fontofweb.com/5673?format=jpg)](https://design.withfudge.com/share/pin-5673)
+[![Magazine index with crimson header, light gray content cards with serif article titles and monospaced metadata labels](https://pin.fontofweb.com/5673?format=jpg)](https://fudge.design/share/pin-5673)
 
-[Magazine index with crimson header, light gray content cards with serif article titles and monospaced metadata labels](https://design.withfudge.com/share/pin-5673)
+[Magazine index with crimson header, light gray content cards with serif article titles and monospaced metadata labels](https://fudge.design/share/pin-5673)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The content column should maintain comfortable reading width, not stretching bey
 ## Scope note
 
 This guide covers the article page and magazine index surfaces visible in the supplied images. Mobile breakpoints, hover states, form interactions, audio or video players, and search functionality are not represented. Footer content, pagination, and subscription flows fall outside the current scope. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

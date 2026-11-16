@@ -1,26 +1,26 @@
 # How makingsoftware.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/makingsoftware.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/makingsoftware.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Chapter page showing left navigation sidebar with numbered sections, article header with metadata, and technical illustration of electron charge trap cell in main content area](https://pin.fontofweb.com/6339?format=jpg)](https://design.withfudge.com/share/pin-6339)
+[![Chapter page showing left navigation sidebar with numbered sections, article header with metadata, and technical illustration of electron charge trap cell in main content area](https://pin.fontofweb.com/6339?format=jpg)](https://fudge.design/share/pin-6339)
 
-[Chapter page showing left navigation sidebar with numbered sections, article header with metadata, and technical illustration of electron charge trap cell in main content area](https://design.withfudge.com/share/pin-6339)
+[Chapter page showing left navigation sidebar with numbered sections, article header with metadata, and technical illustration of electron charge trap cell in main content area](https://fudge.design/share/pin-6339)
 
-[![Homepage featuring large pixel-art title, isometric floppy disk diagram with labeled parts, and explanatory text about touch screens and Gaussian blur](https://pin.fontofweb.com/5745?format=jpg)](https://design.withfudge.com/share/pin-5745)
+[![Homepage featuring large pixel-art title, isometric floppy disk diagram with labeled parts, and explanatory text about touch screens and Gaussian blur](https://pin.fontofweb.com/5745?format=jpg)](https://fudge.design/share/pin-5745)
 
-[Homepage featuring large pixel-art title, isometric floppy disk diagram with labeled parts, and explanatory text about touch screens and Gaussian blur](https://design.withfudge.com/share/pin-5745)
+[Homepage featuring large pixel-art title, isometric floppy disk diagram with labeled parts, and explanatory text about touch screens and Gaussian blur](https://fudge.design/share/pin-5745)
 
-[![Shaders chapter with breadcrumb navigation, italic display heading, shader pipeline diagram with vertex array through frame buffer stages, and magenta gradient image](https://pin.fontofweb.com/5744?format=jpg)](https://design.withfudge.com/share/pin-5744)
+[![Shaders chapter with breadcrumb navigation, italic display heading, shader pipeline diagram with vertex array through frame buffer stages, and magenta gradient image](https://pin.fontofweb.com/5744?format=jpg)](https://fudge.design/share/pin-5744)
 
-[Shaders chapter with breadcrumb navigation, italic display heading, shader pipeline diagram with vertex array through frame buffer stages, and magenta gradient image](https://design.withfudge.com/share/pin-5744)
+[Shaders chapter with breadcrumb navigation, italic display heading, shader pipeline diagram with vertex array through frame buffer stages, and magenta gradient image](https://fudge.design/share/pin-5744)
 
-[![FAQ section with question list on left and selected question detail on right showing IN/OUT labels and conversational answer text](https://pin.fontofweb.com/5077?format=jpg)](https://design.withfudge.com/share/pin-5077)
+[![FAQ section with question list on left and selected question detail on right showing IN/OUT labels and conversational answer text](https://pin.fontofweb.com/5077?format=jpg)](https://fudge.design/share/pin-5077)
 
-[FAQ section with question list on left and selected question detail on right showing IN/OUT labels and conversational answer text](https://design.withfudge.com/share/pin-5077)
+[FAQ section with question list on left and selected question detail on right showing IN/OUT labels and conversational answer text](https://fudge.design/share/pin-5077)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The FAQ two-column layout should stack to single-column on narrow viewports, wit
 ## Scope note
 
 This guide covers the chapter page and homepage surfaces visible in the supplied images. Mobile breakpoints, hover interactions, search functionality, print styles, and the complete illustration system are not documented here. The New York type family is listed in sources but not visibly employed in captured surfaces. System and System-Uisansserif appear as fallback families in source files without visible dedicated use in the captured interface. Measurements are practical adaptation targets based on extracted values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

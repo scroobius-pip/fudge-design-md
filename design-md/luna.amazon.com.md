@@ -1,26 +1,26 @@
 # How luna.amazon.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/luna.amazon.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/luna.amazon.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![My Collection page showing game list with dark purple gradient background, tab navigation, and claim code rows for titles like Fort Solis and Empty Shell](https://pin.fontofweb.com/4684?format=jpg)](https://design.withfudge.com/share/pin-4684)
+[![My Collection page showing game list with dark purple gradient background, tab navigation, and claim code rows for titles like Fort Solis and Empty Shell](https://pin.fontofweb.com/4684?format=jpg)](https://fudge.design/share/pin-4684)
 
-[My Collection page showing game list with dark purple gradient background, tab navigation, and claim code rows for titles like Fort Solis and Empty Shell](https://design.withfudge.com/share/pin-4684)
+[My Collection page showing game list with dark purple gradient background, tab navigation, and claim code rows for titles like Fort Solis and Empty Shell](https://fudge.design/share/pin-4684)
 
-[![Luna footer with dark navy background, Luna logo, social links, Amazon branding, and legal navigation links](https://pin.fontofweb.com/4683?format=jpg)](https://design.withfudge.com/share/pin-4683)
+[![Luna footer with dark navy background, Luna logo, social links, Amazon branding, and legal navigation links](https://pin.fontofweb.com/4683?format=jpg)](https://fudge.design/share/pin-4683)
 
-[Luna footer with dark navy background, Luna logo, social links, Amazon branding, and legal navigation links](https://design.withfudge.com/share/pin-4683)
+[Luna footer with dark navy background, Luna logo, social links, Amazon branding, and legal navigation links](https://fudge.design/share/pin-4683)
 
-[![Fort Solis success redemption page with purple GameNight banner, game code display, and instructional content layout](https://pin.fontofweb.com/4682?format=jpg)](https://design.withfudge.com/share/pin-4682)
+[![Fort Solis success redemption page with purple GameNight banner, game code display, and instructional content layout](https://pin.fontofweb.com/4682?format=jpg)](https://fudge.design/share/pin-4682)
 
-[Fort Solis success redemption page with purple GameNight banner, game code display, and instructional content layout](https://design.withfudge.com/share/pin-4682)
+[Fort Solis success redemption page with purple GameNight banner, game code display, and instructional content layout](https://fudge.design/share/pin-4682)
 
-[![Empty Shell game detail page header showing dark gradient background with purple keyboard illustration and user account dropdown](https://pin.fontofweb.com/3935?format=jpg)](https://design.withfudge.com/share/pin-3935)
+[![Empty Shell game detail page header showing dark gradient background with purple keyboard illustration and user account dropdown](https://pin.fontofweb.com/3935?format=jpg)](https://fudge.design/share/pin-3935)
 
-[Empty Shell game detail page header showing dark gradient background with purple keyboard illustration and user account dropdown](https://design.withfudge.com/share/pin-3935)
+[Empty Shell game detail page header showing dark gradient background with purple keyboard illustration and user account dropdown](https://fudge.design/share/pin-3935)
 
 ## Overview
 
@@ -171,3 +171,18 @@ For touch interfaces, tap targets should maintain minimum 44px dimensions, with 
 ## Scope note
 
 This guide covers the Luna game collection and code redemption surfaces visible in supplied images. Mobile layouts, in-game streaming interfaces, checkout flows, and account management pages are not represented. Measurements are practical adaptation targets. Amazon Ember-Italic is available in the type system for secondary emphasis treatments.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Purple hue](/share/designs-with-color.hue.purple)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How yahoo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/yahoo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/yahoo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Yahoo homepage main content area showing news feed cards, trending sidebar, weather widget, and promotional modules with purple accent branding](https://pin.fontofweb.com/2179?format=jpg)](https://design.withfudge.com/share/pin-2179)
+[![Yahoo homepage main content area showing news feed cards, trending sidebar, weather widget, and promotional modules with purple accent branding](https://pin.fontofweb.com/2179?format=jpg)](https://fudge.design/share/pin-2179)
 
-[Yahoo homepage main content area showing news feed cards, trending sidebar, weather widget, and promotional modules with purple accent branding](https://design.withfudge.com/share/pin-2179)
+[Yahoo homepage main content area showing news feed cards, trending sidebar, weather widget, and promotional modules with purple accent branding](https://fudge.design/share/pin-2179)
 
-[![Yahoo header navigation with purple logo, search bar with purple action button, and Mail/Sign in controls on light gray background](https://pin.fontofweb.com/2178?format=jpg)](https://design.withfudge.com/share/pin-2178)
+[![Yahoo header navigation with purple logo, search bar with purple action button, and Mail/Sign in controls on light gray background](https://pin.fontofweb.com/2178?format=jpg)](https://fudge.design/share/pin-2178)
 
-[Yahoo header navigation with purple logo, search bar with purple action button, and Mail/Sign in controls on light gray background](https://design.withfudge.com/share/pin-2178)
+[Yahoo header navigation with purple logo, search bar with purple action button, and Mail/Sign in controls on light gray background](https://fudge.design/share/pin-2178)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Touch targets should expand to at least 44px for all interactive elements in mob
 ## Scope note
 
 This guide covers the Yahoo homepage portal layout including the header navigation, news feed cards, trending sidebar, weather widget, and promotional modules. Footer content, interior article pages, email interface, and mobile-specific layouts are not represented in the supplied images. Motion, hover states, and loading skeletons are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Purple hue](/share/designs-with-color.hue.purple)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

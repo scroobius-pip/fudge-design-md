@@ -1,26 +1,26 @@
 # How coderabbit.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/coderabbit.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/coderabbit.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with dark background, accordion items with teal active titles and white body text, plus and minus toggle icons](https://pin.fontofweb.com/4991?format=jpg)](https://design.withfudge.com/share/pin-4991)
+[![FAQ section with dark background, accordion items with teal active titles and white body text, plus and minus toggle icons](https://pin.fontofweb.com/4991?format=jpg)](https://fudge.design/share/pin-4991)
 
-[FAQ section with dark background, accordion items with teal active titles and white body text, plus and minus toggle icons](https://design.withfudge.com/share/pin-4991)
+[FAQ section with dark background, accordion items with teal active titles and white body text, plus and minus toggle icons](https://fudge.design/share/pin-4991)
 
-[![Open source CTA banner with dark surface, large white and teal headline, orange pill button, and colorful gradient geometric shapes](https://pin.fontofweb.com/4990?format=jpg)](https://design.withfudge.com/share/pin-4990)
+[![Open source CTA banner with dark surface, large white and teal headline, orange pill button, and colorful gradient geometric shapes](https://pin.fontofweb.com/4990?format=jpg)](https://fudge.design/share/pin-4990)
 
-[Open source CTA banner with dark surface, large white and teal headline, orange pill button, and colorful gradient geometric shapes](https://design.withfudge.com/share/pin-4990)
+[Open source CTA banner with dark surface, large white and teal headline, orange pill button, and colorful gradient geometric shapes](https://fudge.design/share/pin-4990)
 
-[![Four-column pricing grid with Free, Lite, Pro, and Enterprise tiers, orange accent borders on Pro, checkmark feature lists](https://pin.fontofweb.com/4989?format=jpg)](https://design.withfudge.com/share/pin-4989)
+[![Four-column pricing grid with Free, Lite, Pro, and Enterprise tiers, orange accent borders on Pro, checkmark feature lists](https://pin.fontofweb.com/4989?format=jpg)](https://fudge.design/share/pin-4989)
 
-[Four-column pricing grid with Free, Lite, Pro, and Enterprise tiers, orange accent borders on Pro, checkmark feature lists](https://design.withfudge.com/share/pin-4989)
+[Four-column pricing grid with Free, Lite, Pro, and Enterprise tiers, orange accent borders on Pro, checkmark feature lists](https://fudge.design/share/pin-4989)
 
-[![Pricing hero with dark rounded panel, purple PRICING label badge, large white headline, and abstract colorful geometric illustration](https://pin.fontofweb.com/4988?format=jpg)](https://design.withfudge.com/share/pin-4988)
+[![Pricing hero with dark rounded panel, purple PRICING label badge, large white headline, and abstract colorful geometric illustration](https://pin.fontofweb.com/4988?format=jpg)](https://fudge.design/share/pin-4988)
 
-[Pricing hero with dark rounded panel, purple PRICING label badge, large white headline, and abstract colorful geometric illustration](https://design.withfudge.com/share/pin-4988)
+[Pricing hero with dark rounded panel, purple PRICING label badge, large white headline, and abstract colorful geometric illustration](https://fudge.design/share/pin-4988)
 
 ## Overview
 
@@ -206,3 +206,18 @@ The supplied images show desktop layouts exclusively. Based on visible structure
 ## Scope note
 
 This guide covers the pricing page and homepage marketing surfaces visible in the supplied images. Navigation, footer, form elements, mobile layouts, motion design, and product dashboard interfaces are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. Verify licensing for Scandia Web and Work Sans before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

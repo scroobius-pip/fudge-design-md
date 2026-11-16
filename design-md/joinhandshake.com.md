@@ -1,26 +1,26 @@
 # How joinhandshake.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joinhandshake.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/joinhandshake.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large lime-green display typography reading SHOW UP GET HIRED over a photographic background of a professional woman shaking hands, with dark teal navigation bar](https://pin.fontofweb.com/10716?format=jpg)](https://design.withfudge.com/share/pin-10716)
+[![Hero section with large lime-green display typography reading SHOW UP GET HIRED over a photographic background of a professional woman shaking hands, with dark teal navigation bar](https://pin.fontofweb.com/10716?format=jpg)](https://fudge.design/share/pin-10716)
 
-[Hero section with large lime-green display typography reading SHOW UP GET HIRED over a photographic background of a professional woman shaking hands, with dark teal navigation bar](https://design.withfudge.com/share/pin-10716)
+[Hero section with large lime-green display typography reading SHOW UP GET HIRED over a photographic background of a professional woman shaking hands, with dark teal navigation bar](https://fudge.design/share/pin-10716)
 
-[![Pricing page showing four-column comparison layout with Basic, Pro, Enterprise cards on light gray surfaces and a dark Promoted jobs add-on card, featuring rounded corners and](https://pin.fontofweb.com/10714?format=jpg)](https://design.withfudge.com/share/pin-10714)
+[![Pricing page showing four-column comparison layout with Basic, Pro, Enterprise cards on light gray surfaces and a dark Promoted jobs add-on card, featuring rounded corners and](https://pin.fontofweb.com/10714?format=jpg)](https://fudge.design/share/pin-10714)
 
-[Pricing page showing four-column comparison layout with Basic, Pro, Enterprise cards on light gray surfaces and a dark Promoted jobs add-on card, featuring rounded corners and](https://design.withfudge.com/share/pin-10714)
+[Pricing page showing four-column comparison layout with Basic, Pro, Enterprise cards on light gray surfaces and a dark Promoted jobs add-on card, featuring rounded corners and](https://fudge.design/share/pin-10714)
 
-[![Footer section with massive lime-green Handshake logotype spanning full width against dark teal background, with organized link columns above and app store badges in the corner](https://pin.fontofweb.com/10715?format=jpg)](https://design.withfudge.com/share/pin-10715)
+[![Footer section with massive lime-green Handshake logotype spanning full width against dark teal background, with organized link columns above and app store badges in the corner](https://pin.fontofweb.com/10715?format=jpg)](https://fudge.design/share/pin-10715)
 
-[Footer section with massive lime-green Handshake logotype spanning full width against dark teal background, with organized link columns above and app store badges in the corner](https://design.withfudge.com/share/pin-10715)
+[Footer section with massive lime-green Handshake logotype spanning full width against dark teal background, with organized link columns above and app store badges in the corner](https://fudge.design/share/pin-10715)
 
-[![Top navigation bar with Handshake logo in lime-green italic script, dark teal background, pill-shaped Sign up and Log in buttons, and a lime-green promotional banner with dismiss](https://pin.fontofweb.com/10717?format=jpg)](https://design.withfudge.com/share/pin-10717)
+[![Top navigation bar with Handshake logo in lime-green italic script, dark teal background, pill-shaped Sign up and Log in buttons, and a lime-green promotional banner with dismiss](https://pin.fontofweb.com/10717?format=jpg)](https://fudge.design/share/pin-10717)
 
-[Top navigation bar with Handshake logo in lime-green italic script, dark teal background, pill-shaped Sign up and Log in buttons, and a lime-green promotional banner with dismiss](https://design.withfudge.com/share/pin-10717)
+[Top navigation bar with Handshake logo in lime-green italic script, dark teal background, pill-shaped Sign up and Log in buttons, and a lime-green promotional banner with dismiss](https://fudge.design/share/pin-10717)
 
 ## Overview
 
@@ -199,3 +199,18 @@ The system should maintain its core character across viewport sizes. The hero di
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied captures: student and employer landing pages, pricing comparison, and shared navigation/footer components. Dashboard interfaces, mobile applications, email templates, and form validation states are not represented. The exact spacing values for large marketing layouts are practical adaptation targets based on the visible compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Professional services](/share/designs-with-industry.professional_services)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

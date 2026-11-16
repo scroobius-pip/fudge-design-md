@@ -1,18 +1,18 @@
 # How opensource.googleblog.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/opensource.googleblog.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/opensource.googleblog.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full page view showing the Google Open Source Blog header with navigation, hero title, article content with sidebar, and colorful geometric logo illustration](https://pin.fontofweb.com/6038?format=jpg)](https://design.withfudge.com/share/pin-6038)
+[![Full page view showing the Google Open Source Blog header with navigation, hero title, article content with sidebar, and colorful geometric logo illustration](https://pin.fontofweb.com/6038?format=jpg)](https://fudge.design/share/pin-6038)
 
-[Full page view showing the Google Open Source Blog header with navigation, hero title, article content with sidebar, and colorful geometric logo illustration](https://design.withfudge.com/share/pin-6038)
+[Full page view showing the Google Open Source Blog header with navigation, hero title, article content with sidebar, and colorful geometric logo illustration](https://fudge.design/share/pin-6038)
 
-[![Lower article section with code syntax highlighting in Courier Std, inline code spans, body text, author byline, social sharing icons, and category labels](https://pin.fontofweb.com/6039?format=jpg)](https://design.withfudge.com/share/pin-6039)
+[![Lower article section with code syntax highlighting in Courier Std, inline code spans, body text, author byline, social sharing icons, and category labels](https://pin.fontofweb.com/6039?format=jpg)](https://fudge.design/share/pin-6039)
 
-[Lower article section with code syntax highlighting in Courier Std, inline code spans, body text, author byline, social sharing icons, and category labels](https://design.withfudge.com/share/pin-6039)
+[Lower article section with code syntax highlighting in Courier Std, inline code spans, body text, author byline, social sharing icons, and category labels](https://fudge.design/share/pin-6039)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Code blocks require horizontal scrolling or word wrapping at narrow widths to pr
 ## Scope note
 
 This guide covers the article page template of the Google Open Source Blog as visible in the supplied images. The homepage, archive pages, and search results are not represented. Mobile layouts, dark mode, loading states, and form validation styling are not included. Comment systems, subscription flows, and author profile pages fall outside the current scope. Measurements reflect the exact values present in the captured interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

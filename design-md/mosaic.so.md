@@ -1,26 +1,26 @@
 # How mosaic.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mosaic.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/mosaic.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large MOSAIC wordmark, award badges, and product screenshot on dark dotted grid background](https://pin.fontofweb.com/4853?format=jpg)](https://design.withfudge.com/share/pin-4853)
+[![Homepage hero with large MOSAIC wordmark, award badges, and product screenshot on dark dotted grid background](https://pin.fontofweb.com/4853?format=jpg)](https://fudge.design/share/pin-4853)
 
-[Homepage hero with large MOSAIC wordmark, award badges, and product screenshot on dark dotted grid background](https://design.withfudge.com/share/pin-4853)
+[Homepage hero with large MOSAIC wordmark, award badges, and product screenshot on dark dotted grid background](https://fudge.design/share/pin-4853)
 
-[![Blog page header with large MOSAIC wordmark in near-black on pure black background](https://pin.fontofweb.com/4852?format=jpg)](https://design.withfudge.com/share/pin-4852)
+[![Blog page header with large MOSAIC wordmark in near-black on pure black background](https://pin.fontofweb.com/4852?format=jpg)](https://fudge.design/share/pin-4852)
 
-[Blog page header with large MOSAIC wordmark in near-black on pure black background](https://design.withfudge.com/share/pin-4852)
+[Blog page header with large MOSAIC wordmark in near-black on pure black background](https://fudge.design/share/pin-4852)
 
-[![Blog index showing two article cards with author avatars, dates, and READ MORE links on black background](https://pin.fontofweb.com/4851?format=jpg)](https://design.withfudge.com/share/pin-4851)
+[![Blog index showing two article cards with author avatars, dates, and READ MORE links on black background](https://pin.fontofweb.com/4851?format=jpg)](https://fudge.design/share/pin-4851)
 
-[Blog index showing two article cards with author avatars, dates, and READ MORE links on black background](https://design.withfudge.com/share/pin-4851)
+[Blog index showing two article cards with author avatars, dates, and READ MORE links on black background](https://fudge.design/share/pin-4851)
 
-[![Use cases page with vertical category list, product interface screenshot, and Explore Mosaic button](https://pin.fontofweb.com/4850?format=jpg)](https://design.withfudge.com/share/pin-4850)
+[![Use cases page with vertical category list, product interface screenshot, and Explore Mosaic button](https://pin.fontofweb.com/4850?format=jpg)](https://fudge.design/share/pin-4850)
 
-[Use cases page with vertical category list, product interface screenshot, and Explore Mosaic button](https://design.withfudge.com/share/pin-4850)
+[Use cases page with vertical category list, product interface screenshot, and Explore Mosaic button](https://fudge.design/share/pin-4850)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The floating navigation bar's pill shape has limited horizontal space; at mobile
 ## Scope note
 
 This guide covers the homepage, blog index, and use cases pages as visible in the supplied images. Footer content with partner logos, individual article pages, and the product interface itself are not represented. Motion behavior, hover states, and mobile layouts are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How icp.ninja is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/icp.ninja-design)
+[Open the live Fudge conversation](https://fudge.design/share/icp.ninja-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with resource links, email signup form, and social media icon row on near-black background](https://pin.fontofweb.com/1255?format=jpg)](https://design.withfudge.com/share/pin-1255)
+[![Footer section with resource links, email signup form, and social media icon row on near-black background](https://pin.fontofweb.com/1255?format=jpg)](https://fudge.design/share/pin-1255)
 
-[Footer section with resource links, email signup form, and social media icon row on near-black background](https://design.withfudge.com/share/pin-1255)
+[Footer section with resource links, email signup form, and social media icon row on near-black background](https://fudge.design/share/pin-1255)
 
-[![Developer tools section with magenta terminal and VS Code icons on dark cards against black background](https://pin.fontofweb.com/1254?format=jpg)](https://design.withfudge.com/share/pin-1254)
+[![Developer tools section with magenta terminal and VS Code icons on dark cards against black background](https://pin.fontofweb.com/1254?format=jpg)](https://fudge.design/share/pin-1254)
 
-[Developer tools section with magenta terminal and VS Code icons on dark cards against black background](https://design.withfudge.com/share/pin-1254)
+[Developer tools section with magenta terminal and VS Code icons on dark cards against black background](https://fudge.design/share/pin-1254)
 
-[![Project cards for LLM Chatbot and NFT Creator with magenta-accented illustrations and Clone buttons](https://pin.fontofweb.com/1253?format=jpg)](https://design.withfudge.com/share/pin-1253)
+[![Project cards for LLM Chatbot and NFT Creator with magenta-accented illustrations and Clone buttons](https://pin.fontofweb.com/1253?format=jpg)](https://fudge.design/share/pin-1253)
 
-[Project cards for LLM Chatbot and NFT Creator with magenta-accented illustrations and Clone buttons](https://design.withfudge.com/share/pin-1253)
+[Project cards for LLM Chatbot and NFT Creator with magenta-accented illustrations and Clone buttons](https://fudge.design/share/pin-1253)
 
-[![Project grid with search, filters, and ten cloneable project cards featuring magenta and white illustrations](https://pin.fontofweb.com/1252?format=jpg)](https://design.withfudge.com/share/pin-1252)
+[![Project grid with search, filters, and ten cloneable project cards featuring magenta and white illustrations](https://pin.fontofweb.com/1252?format=jpg)](https://fudge.design/share/pin-1252)
 
-[Project grid with search, filters, and ten cloneable project cards featuring magenta and white illustrations](https://design.withfudge.com/share/pin-1252)
+[Project grid with search, filters, and ten cloneable project cards featuring magenta and white illustrations](https://fudge.design/share/pin-1252)
 
 ## Overview
 
@@ -189,3 +189,18 @@ The two-column project grid should collapse to a single column on narrower viewp
 ## Scope note
 
 This guide covers the project discovery and footer surfaces of ICP Ninja as visible in the supplied captures. The hero section, navigation bar, individual project detail pages, and any authenticated user flows are not represented. Motion, loading states, and mobile-specific layouts are not described. Measurements are practical adaptation targets based on visual estimation from the provided images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

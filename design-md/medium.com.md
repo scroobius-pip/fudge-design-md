@@ -1,26 +1,26 @@
 # How medium.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/medium.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/medium.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Explore topics page with category navigation pills, search bar, and three-column topic directory with green accent links](https://pin.fontofweb.com/9708?format=jpg)](https://design.withfudge.com/share/pin-9708)
+[![Explore topics page with category navigation pills, search bar, and three-column topic directory with green accent links](https://pin.fontofweb.com/9708?format=jpg)](https://fudge.design/share/pin-9708)
 
-[Explore topics page with category navigation pills, search bar, and three-column topic directory with green accent links](https://design.withfudge.com/share/pin-9708)
+[Explore topics page with category navigation pills, search bar, and three-column topic directory with green accent links](https://fudge.design/share/pin-9708)
 
-[![Homepage hero with large serif display headline on warm cream background, green illustration, and dark pill button](https://pin.fontofweb.com/9706?format=jpg)](https://design.withfudge.com/share/pin-9706)
+[![Homepage hero with large serif display headline on warm cream background, green illustration, and dark pill button](https://pin.fontofweb.com/9706?format=jpg)](https://fudge.design/share/pin-9706)
 
-[Homepage hero with large serif display headline on warm cream background, green illustration, and dark pill button](https://design.withfudge.com/share/pin-9706)
+[Homepage hero with large serif display headline on warm cream background, green illustration, and dark pill button](https://fudge.design/share/pin-9706)
 
-[![Writing landing page hero with centered serif headline and dark pill CTA on white background](https://pin.fontofweb.com/9603?format=jpg)](https://design.withfudge.com/share/pin-9603)
+[![Writing landing page hero with centered serif headline and dark pill CTA on white background](https://pin.fontofweb.com/9603?format=jpg)](https://fudge.design/share/pin-9603)
 
-[Writing landing page hero with centered serif headline and dark pill CTA on white background](https://design.withfudge.com/share/pin-9603)
+[Writing landing page hero with centered serif headline and dark pill CTA on white background](https://fudge.design/share/pin-9603)
 
-[![Three feature cards with line illustrations on cream background above centered publishing CTA section](https://pin.fontofweb.com/9602?format=jpg)](https://design.withfudge.com/share/pin-9602)
+[![Three feature cards with line illustrations on cream background above centered publishing CTA section](https://pin.fontofweb.com/9602?format=jpg)](https://fudge.design/share/pin-9602)
 
-[Three feature cards with line illustrations on cream background above centered publishing CTA section](https://design.withfudge.com/share/pin-9602)
+[Three feature cards with line illustrations on cream background above centered publishing CTA section](https://fudge.design/share/pin-9602)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Typography does not change family or weight at smaller sizes; only scale and lin
 ## Scope note
 
 This guide covers the marketing and topic-exploration surfaces of Medium's platform. Article reading pages, mobile layouts, dark mode, and interactive states such as hover, focus, loading, and error are not represented in the supplied materials. The writing interface and member paywall flows are likewise outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

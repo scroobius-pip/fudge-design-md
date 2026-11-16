@@ -1,26 +1,26 @@
 # How heroui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/heroui.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/heroui.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community section with dark canvas, purple wave mesh gradient, and three social link cards with rounded corners and external-link icons.](https://pin.fontofweb.com/821?format=jpg)](https://design.withfudge.com/share/pin-821)
+[![Community section with dark canvas, purple wave mesh gradient, and three social link cards with rounded corners and external-link icons.](https://pin.fontofweb.com/821?format=jpg)](https://fudge.design/share/pin-821)
 
-[Community section with dark canvas, purple wave mesh gradient, and three social link cards with rounded corners and external-link icons.](https://design.withfudge.com/share/pin-821)
+[Community section with dark canvas, purple wave mesh gradient, and three social link cards with rounded corners and external-link icons.](https://fudge.design/share/pin-821)
 
-[![Hero banner with large gradient headline, purple primary button, dark secondary button, and two feature cards with circular icons on a dark background.](https://pin.fontofweb.com/820?format=jpg)](https://design.withfudge.com/share/pin-820)
+[![Hero banner with large gradient headline, purple primary button, dark secondary button, and two feature cards with circular icons on a dark background.](https://pin.fontofweb.com/820?format=jpg)](https://fudge.design/share/pin-820)
 
-[Hero banner with large gradient headline, purple primary button, dark secondary button, and two feature cards with circular icons on a dark background.](https://design.withfudge.com/share/pin-820)
+[Hero banner with large gradient headline, purple primary button, dark secondary button, and two feature cards with circular icons on a dark background.](https://fudge.design/share/pin-820)
 
-[![Support section with sponsor orbit visualization, circular avatar ring, and two funding platform cards with gradient icon badges.](https://pin.fontofweb.com/819?format=jpg)](https://design.withfudge.com/share/pin-819)
+[![Support section with sponsor orbit visualization, circular avatar ring, and two funding platform cards with gradient icon badges.](https://pin.fontofweb.com/819?format=jpg)](https://fudge.design/share/pin-819)
 
-[Support section with sponsor orbit visualization, circular avatar ring, and two funding platform cards with gradient icon badges.](https://design.withfudge.com/share/pin-819)
+[Support section with sponsor orbit visualization, circular avatar ring, and two funding platform cards with gradient icon badges.](https://fudge.design/share/pin-819)
 
-[![Features grid with eight dark cards, gradient headline text, and purple circular icons with white symbols.](https://pin.fontofweb.com/818?format=jpg)](https://design.withfudge.com/share/pin-818)
+[![Features grid with eight dark cards, gradient headline text, and purple circular icons with white symbols.](https://pin.fontofweb.com/818?format=jpg)](https://fudge.design/share/pin-818)
 
-[Features grid with eight dark cards, gradient headline text, and purple circular icons with white symbols.](https://design.withfudge.com/share/pin-818)
+[Features grid with eight dark cards, gradient headline text, and purple circular icons with white symbols.](https://fudge.design/share/pin-818)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Gradient text should remain legible at all sizes; avoid applying gradient treatm
 ## Scope note
 
 This guide covers the HeroUI marketing page's dark landing experience as visible in the supplied images. Navigation, documentation pages, component playgrounds, and mobile-specific layouts are not represented. Interactive states including hover, focus, active, and loading are not documented from still images. Measurements are practical adaptation targets based on visible proportions. Verify licensing for Inter and Fira Code before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

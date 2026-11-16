@@ -1,26 +1,26 @@
 # How steven-hanley.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/steven-hanley.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/steven-hanley.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Project header with client metadata row showing 7-Eleven branding, role assignment, and summary section with thin horizontal rules](https://pin.fontofweb.com/5074?format=jpg)](https://design.withfudge.com/share/pin-5074)
+[![Project header with client metadata row showing 7-Eleven branding, role assignment, and summary section with thin horizontal rules](https://pin.fontofweb.com/5074?format=jpg)](https://fudge.design/share/pin-5074)
 
-[Project header with client metadata row showing 7-Eleven branding, role assignment, and summary section with thin horizontal rules](https://design.withfudge.com/share/pin-5074)
+[Project header with client metadata row showing 7-Eleven branding, role assignment, and summary section with thin horizontal rules](https://fudge.design/share/pin-5074)
 
-[![Selected work index with arrow-prefixed project rows, category tags, and footer contact bar with availability indicator](https://pin.fontofweb.com/5073?format=jpg)](https://design.withfudge.com/share/pin-5073)
+[![Selected work index with arrow-prefixed project rows, category tags, and footer contact bar with availability indicator](https://pin.fontofweb.com/5073?format=jpg)](https://fudge.design/share/pin-5073)
 
-[Selected work index with arrow-prefixed project rows, category tags, and footer contact bar with availability indicator](https://design.withfudge.com/share/pin-5073)
+[Selected work index with arrow-prefixed project rows, category tags, and footer contact bar with availability indicator](https://fudge.design/share/pin-5073)
 
-[![7-Eleven case study with large isometric illustration, mobile app mockup, and descriptive paragraph on warm neutral background](https://pin.fontofweb.com/5072?format=jpg)](https://design.withfudge.com/share/pin-5072)
+[![7-Eleven case study with large isometric illustration, mobile app mockup, and descriptive paragraph on warm neutral background](https://pin.fontofweb.com/5072?format=jpg)](https://fudge.design/share/pin-5072)
 
-[7-Eleven case study with large isometric illustration, mobile app mockup, and descriptive paragraph on warm neutral background](https://design.withfudge.com/share/pin-5072)
+[7-Eleven case study with large isometric illustration, mobile app mockup, and descriptive paragraph on warm neutral background](https://fudge.design/share/pin-5072)
 
-[![Homepage work index with locked coming-soon entries, about section, and contact footer with Berlin timezone](https://pin.fontofweb.com/5071?format=jpg)](https://design.withfudge.com/share/pin-5071)
+[![Homepage work index with locked coming-soon entries, about section, and contact footer with Berlin timezone](https://pin.fontofweb.com/5071?format=jpg)](https://fudge.design/share/pin-5071)
 
-[Homepage work index with locked coming-soon entries, about section, and contact footer with Berlin timezone](https://design.withfudge.com/share/pin-5071)
+[Homepage work index with locked coming-soon entries, about section, and contact footer with Berlin timezone](https://fudge.design/share/pin-5071)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The uppercase, small-type navigation may require size increase for touch targets
 ## Scope note
 
 This guide covers the homepage, selected work index, and project case-study pages visible in the supplied material. It does not include motion behavior, hover or focus states, sound design, additional project pages, or responsive breakpoints. Measurements are practical adaptation targets derived from visual inspection of the desktop interface. Verify licensing for Geist and Jet Brains Mono before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

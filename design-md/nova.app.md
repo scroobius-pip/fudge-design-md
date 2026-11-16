@@ -1,26 +1,26 @@
 # How nova.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nova.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/nova.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dense feature list with bold white heading and bullet-separated capabilities on dark navy canvas](https://pin.fontofweb.com/5387?format=jpg)](https://design.withfudge.com/share/pin-5387)
+[![Dense feature list with bold white heading and bullet-separated capabilities on dark navy canvas](https://pin.fontofweb.com/5387?format=jpg)](https://fudge.design/share/pin-5387)
 
-[Dense feature list with bold white heading and bullet-separated capabilities on dark navy canvas](https://design.withfudge.com/share/pin-5387)
+[Dense feature list with bold white heading and bullet-separated capabilities on dark navy canvas](https://fudge.design/share/pin-5387)
 
-[![Feature list with magenta pill button, rainbow gradient rule, and Panic logo footer](https://pin.fontofweb.com/5386?format=jpg)](https://design.withfudge.com/share/pin-5386)
+[![Feature list with magenta pill button, rainbow gradient rule, and Panic logo footer](https://pin.fontofweb.com/5386?format=jpg)](https://fudge.design/share/pin-5386)
 
-[Feature list with magenta pill button, rainbow gradient rule, and Panic logo footer](https://design.withfudge.com/share/pin-5386)
+[Feature list with magenta pill button, rainbow gradient rule, and Panic logo footer](https://fudge.design/share/pin-5386)
 
-[![Editor section with application screenshot, magenta action button, and syntax-highlighted language list](https://pin.fontofweb.com/5385?format=jpg)](https://design.withfudge.com/share/pin-5385)
+[![Editor section with application screenshot, magenta action button, and syntax-highlighted language list](https://pin.fontofweb.com/5385?format=jpg)](https://fudge.design/share/pin-5385)
 
-[Editor section with application screenshot, magenta action button, and syntax-highlighted language list](https://design.withfudge.com/share/pin-5385)
+[Editor section with application screenshot, magenta action button, and syntax-highlighted language list](https://fudge.design/share/pin-5385)
 
-[![Six 3D icons in feature grid with gradient word accents and rainbow divider on starfield background](https://pin.fontofweb.com/5384?format=jpg)](https://design.withfudge.com/share/pin-5384)
+[![Six 3D icons in feature grid with gradient word accents and rainbow divider on starfield background](https://pin.fontofweb.com/5384?format=jpg)](https://fudge.design/share/pin-5384)
 
-[Six 3D icons in feature grid with gradient word accents and rainbow divider on starfield background](https://design.withfudge.com/share/pin-5384)
+[Six 3D icons in feature grid with gradient word accents and rainbow divider on starfield background](https://fudge.design/share/pin-5384)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The dense feature list benefits from maintained padding; avoid allowing text to 
 ## Scope note
 
 This guide covers the Nova product page's dark cosmic landing experience as visible in the supplied images. Measurements are practical adaptation targets. Mobile breakpoints, navigation behavior, form interactions, purchase flows, and documentation pages are not represented. The starfield background treatment and any motion effects are described from static view only.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Marketing section](/share/designs-with-section.marketing)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

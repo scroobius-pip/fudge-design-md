@@ -1,26 +1,26 @@
 # How asml.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/asml.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/asml.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![ASML at a glance page with blue navigation overlay showing Company, Careers, Technology, Products, News, Investors menu items and employee statistics on light background](https://pin.fontofweb.com/2375?format=jpg)](https://design.withfudge.com/share/pin-2375)
+[![ASML at a glance page with blue navigation overlay showing Company, Careers, Technology, Products, News, Investors menu items and employee statistics on light background](https://pin.fontofweb.com/2375?format=jpg)](https://fudge.design/share/pin-2375)
 
-[ASML at a glance page with blue navigation overlay showing Company, Careers, Technology, Products, News, Investors menu items and employee statistics on light background](https://design.withfudge.com/share/pin-2375)
+[ASML at a glance page with blue navigation overlay showing Company, Careers, Technology, Products, News, Investors menu items and employee statistics on light background](https://fudge.design/share/pin-2375)
 
-[![ASML footer section with four-column link grid, social media icons, blue Manage cookie settings button, and copyright text on light gray background](https://pin.fontofweb.com/2374?format=jpg)](https://design.withfudge.com/share/pin-2374)
+[![ASML footer section with four-column link grid, social media icons, blue Manage cookie settings button, and copyright text on light gray background](https://pin.fontofweb.com/2374?format=jpg)](https://fudge.design/share/pin-2374)
 
-[ASML footer section with four-column link grid, social media icons, blue Manage cookie settings button, and copyright text on light gray background](https://design.withfudge.com/share/pin-2374)
+[ASML footer section with four-column link grid, social media icons, blue Manage cookie settings button, and copyright text on light gray background](https://fudge.design/share/pin-2374)
 
-[![ASML Related content section with deep blue background, three image cards for About ASML, How we innovate, and Careers with yellow accent underlines](https://pin.fontofweb.com/2373?format=jpg)](https://design.withfudge.com/share/pin-2373)
+[![ASML Related content section with deep blue background, three image cards for About ASML, How we innovate, and Careers with yellow accent underlines](https://pin.fontofweb.com/2373?format=jpg)](https://fudge.design/share/pin-2373)
 
-[ASML Related content section with deep blue background, three image cards for About ASML, How we innovate, and Careers with yellow accent underlines](https://design.withfudge.com/share/pin-2373)
+[ASML Related content section with deep blue background, three image cards for About ASML, How we innovate, and Careers with yellow accent underlines](https://fudge.design/share/pin-2373)
 
-[![ASML at a glance hero with large blue headline, clean white background, technician photograph, and four key statistics with icons in horizontal row](https://pin.fontofweb.com/2372?format=jpg)](https://design.withfudge.com/share/pin-2372)
+[![ASML at a glance hero with large blue headline, clean white background, technician photograph, and four key statistics with icons in horizontal row](https://pin.fontofweb.com/2372?format=jpg)](https://fudge.design/share/pin-2372)
 
-[ASML at a glance hero with large blue headline, clean white background, technician photograph, and four key statistics with icons in horizontal row](https://design.withfudge.com/share/pin-2372)
+[ASML at a glance hero with large blue headline, clean white background, technician photograph, and four key statistics with icons in horizontal row](https://fudge.design/share/pin-2372)
 
 ## Overview
 
@@ -187,3 +187,18 @@ The yellow accent underlines should remain visible at all sizes, serving as cons
 ## Scope note
 
 This guide covers the ASML corporate website's public-facing pages including the "at a glance" company overview and homepage surfaces. It does not include interior product pages, investor relations data presentations, or the CustomerNet and SupplierNet portal interfaces. Motion behavior, hover states, and mobile-specific layouts are not documented from the available material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How rains.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rains.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/rains.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Home Away campaign landing page with full-bleed stainless steel homeware hero image and bold white display typography overlaid on metallic surfaces](https://pin.fontofweb.com/5731?format=jpg)](https://design.withfudge.com/share/pin-5731)
+[![Home Away campaign landing page with full-bleed stainless steel homeware hero image and bold white display typography overlaid on metallic surfaces](https://pin.fontofweb.com/5731?format=jpg)](https://fudge.design/share/pin-5731)
 
-[Home Away campaign landing page with full-bleed stainless steel homeware hero image and bold white display typography overlaid on metallic surfaces](https://design.withfudge.com/share/pin-5731)
+[Home Away campaign landing page with full-bleed stainless steel homeware hero image and bold white display typography overlaid on metallic surfaces](https://fudge.design/share/pin-5731)
 
-[![Product comparison grid showing four wash bags with color swatches, pricing, and expandable specification tables with hairline borders](https://pin.fontofweb.com/5730?format=jpg)](https://design.withfudge.com/share/pin-5730)
+[![Product comparison grid showing four wash bags with color swatches, pricing, and expandable specification tables with hairline borders](https://pin.fontofweb.com/5730?format=jpg)](https://fudge.design/share/pin-5730)
 
-[Product comparison grid showing four wash bags with color swatches, pricing, and expandable specification tables with hairline borders](https://design.withfudge.com/share/pin-5730)
+[Product comparison grid showing four wash bags with color swatches, pricing, and expandable specification tables with hairline borders](https://fudge.design/share/pin-5730)
 
-[![Product feature section with black wash bag on white background and large bold feature headline with circular accent marker](https://pin.fontofweb.com/5729?format=jpg)](https://design.withfudge.com/share/pin-5729)
+[![Product feature section with black wash bag on white background and large bold feature headline with circular accent marker](https://pin.fontofweb.com/5729?format=jpg)](https://fudge.design/share/pin-5729)
 
-[Product feature section with black wash bag on white background and large bold feature headline with circular accent marker](https://design.withfudge.com/share/pin-5729)
+[Product feature section with black wash bag on white background and large bold feature headline with circular accent marker](https://fudge.design/share/pin-5729)
 
-[![Product detail page with split layout showing black wash bag on warm gray background and accordion information panels with related product cards](https://pin.fontofweb.com/5728?format=jpg)](https://design.withfudge.com/share/pin-5728)
+[![Product detail page with split layout showing black wash bag on warm gray background and accordion information panels with related product cards](https://pin.fontofweb.com/5728?format=jpg)](https://fudge.design/share/pin-5728)
 
-[Product detail page with split layout showing black wash bag on warm gray background and accordion information panels with related product cards](https://design.withfudge.com/share/pin-5728)
+[Product detail page with split layout showing black wash bag on warm gray background and accordion information panels with related product cards](https://fudge.design/share/pin-5728)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Comparison grids with four columns should reflow to two columns on tablet and si
 ## Scope note
 
 This guide covers the desktop campaign landing page and product detail surfaces visible in the supplied images. Mobile breakpoints, checkout flows, account pages, search results, and hover or loading states are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How langchain.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/langchain.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/langchain.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing hero section with three-tier card layout and large display heading on muted sage background](https://pin.fontofweb.com/1664?format=jpg)](https://design.withfudge.com/share/pin-1664)
+[![Pricing hero section with three-tier card layout and large display heading on muted sage background](https://pin.fontofweb.com/1664?format=jpg)](https://fudge.design/share/pin-1664)
 
-[Pricing hero section with three-tier card layout and large display heading on muted sage background](https://design.withfudge.com/share/pin-1664)
+[Pricing hero section with three-tier card layout and large display heading on muted sage background](https://fudge.design/share/pin-1664)
 
-[![Three pricing plan cards with pill-shaped dark buttons and feature bullet lists on light surface](https://pin.fontofweb.com/1665?format=jpg)](https://design.withfudge.com/share/pin-1665)
+[![Three pricing plan cards with pill-shaped dark buttons and feature bullet lists on light surface](https://pin.fontofweb.com/1665?format=jpg)](https://fudge.design/share/pin-1665)
 
-[Three pricing plan cards with pill-shaped dark buttons and feature bullet lists on light surface](https://design.withfudge.com/share/pin-1665)
+[Three pricing plan cards with pill-shaped dark buttons and feature bullet lists on light surface](https://fudge.design/share/pin-1665)
 
-[![Feature comparison table with tiered columns and section headers with checkmark indicators](https://pin.fontofweb.com/1666?format=jpg)](https://design.withfudge.com/share/pin-1666)
+[![Feature comparison table with tiered columns and section headers with checkmark indicators](https://pin.fontofweb.com/1666?format=jpg)](https://fudge.design/share/pin-1666)
 
-[Feature comparison table with tiered columns and section headers with checkmark indicators](https://design.withfudge.com/share/pin-1666)
+[Feature comparison table with tiered columns and section headers with checkmark indicators](https://fudge.design/share/pin-1666)
 
-[![FAQ accordion with expand/collapse controls and section groupings on pale background](https://pin.fontofweb.com/1667?format=jpg)](https://design.withfudge.com/share/pin-1667)
+[![FAQ accordion with expand/collapse controls and section groupings on pale background](https://pin.fontofweb.com/1667?format=jpg)](https://fudge.design/share/pin-1667)
 
-[FAQ accordion with expand/collapse controls and section groupings on pale background](https://design.withfudge.com/share/pin-1667)
+[FAQ accordion with expand/collapse controls and section groupings on pale background](https://fudge.design/share/pin-1667)
 
 ## Overview
 
@@ -167,3 +167,18 @@ The pill buttons at full card width may feel oversized on mobile; consider maint
 ## Scope note
 
 This guide covers the pricing page and homepage surfaces visible in the supplied images, including the three-tier pricing cards, feature comparison table, and FAQ accordion. Navigation, footer, form interactions, mobile breakpoints, animation, and dark mode variants are not represented in the available material. Measurements are practical adaptation targets derived from visual analysis of the supplied images.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

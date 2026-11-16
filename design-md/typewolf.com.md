@@ -1,18 +1,18 @@
 # How typewolf.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typewolf.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/typewolf.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Testimonial section with stacked email-style review cards, muted mauve button, and soft shadow on pale rose background](https://pin.fontofweb.com/6455?format=jpg)](https://design.withfudge.com/share/pin-6455)
+[![Testimonial section with stacked email-style review cards, muted mauve button, and soft shadow on pale rose background](https://pin.fontofweb.com/6455?format=jpg)](https://fudge.design/share/pin-6455)
 
-[Testimonial section with stacked email-style review cards, muted mauve button, and soft shadow on pale rose background](https://design.withfudge.com/share/pin-6455)
+[Testimonial section with stacked email-style review cards, muted mauve button, and soft shadow on pale rose background](https://fudge.design/share/pin-6455)
 
-[![Homepage hero with large Domaine serif wordmark, navigation bar, and two-column grid of featured type specimens with white frames](https://pin.fontofweb.com/6454?format=jpg)](https://design.withfudge.com/share/pin-6454)
+[![Homepage hero with large Domaine serif wordmark, navigation bar, and two-column grid of featured type specimens with white frames](https://pin.fontofweb.com/6454?format=jpg)](https://fudge.design/share/pin-6454)
 
-[Homepage hero with large Domaine serif wordmark, navigation bar, and two-column grid of featured type specimens with white frames](https://design.withfudge.com/share/pin-6454)
+[Homepage hero with large Domaine serif wordmark, navigation bar, and two-column grid of featured type specimens with white frames](https://fudge.design/share/pin-6454)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The visible layout suggests a desktop-first approach with a narrow content well.
 ## Scope note
 
 This guide covers the Typewolf homepage and its visible components: the hero wordmark, navigation, featured specimen grid, and testimonial section. Interior pages, mobile breakpoints, hover and focus states, loading behavior, and any checkout or subscription flows are not represented in the supplied material. The type scale uses exact values from the source where available, with relative-unit rounding applied to spacing tokens for practical implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

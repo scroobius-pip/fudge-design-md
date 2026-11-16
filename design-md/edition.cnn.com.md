@@ -1,26 +1,26 @@
 # How edition.cnn.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/edition.cnn.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/edition.cnn.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body text showing Noto Serif Bold Italic in a long-form news story about an oil tanker seizure, with generous line spacing and dark gray body copy.](https://pin.fontofweb.com/9108?format=jpg)](https://design.withfudge.com/share/pin-9108)
+[![Article body text showing Noto Serif Bold Italic in a long-form news story about an oil tanker seizure, with generous line spacing and dark gray body copy.](https://pin.fontofweb.com/9108?format=jpg)](https://fudge.design/share/pin-9108)
 
-[Article body text showing Noto Serif Bold Italic in a long-form news story about an oil tanker seizure, with generous line spacing and dark gray body copy.](https://design.withfudge.com/share/pin-9108)
+[Article body text showing Noto Serif Bold Italic in a long-form news story about an oil tanker seizure, with generous line spacing and dark gray body copy.](https://fudge.design/share/pin-9108)
 
-[![Article body text with bold and underlined inline links in a measles outbreak story, showing the link styling and paragraph rhythm of CNN's health coverage.](https://pin.fontofweb.com/9107?format=jpg)](https://design.withfudge.com/share/pin-9107)
+[![Article body text with bold and underlined inline links in a measles outbreak story, showing the link styling and paragraph rhythm of CNN's health coverage.](https://pin.fontofweb.com/9107?format=jpg)](https://fudge.design/share/pin-9107)
 
-[Article body text with bold and underlined inline links in a measles outbreak story, showing the link styling and paragraph rhythm of CNN's health coverage.](https://design.withfudge.com/share/pin-9107)
+[Article body text with bold and underlined inline links in a measles outbreak story, showing the link styling and paragraph rhythm of CNN's health coverage.](https://fudge.design/share/pin-9107)
 
-[![Sports article lead with bold dateline and underlined inline links, demonstrating the typographic hierarchy for location-based news intros.](https://pin.fontofweb.com/9106?format=jpg)](https://design.withfudge.com/share/pin-9106)
+[![Sports article lead with bold dateline and underlined inline links, demonstrating the typographic hierarchy for location-based news intros.](https://pin.fontofweb.com/9106?format=jpg)](https://fudge.design/share/pin-9106)
 
-[Sports article lead with bold dateline and underlined inline links, demonstrating the typographic hierarchy for location-based news intros.](https://design.withfudge.com/share/pin-9106)
+[Sports article lead with bold dateline and underlined inline links, demonstrating the typographic hierarchy for location-based news intros.](https://fudge.design/share/pin-9106)
 
-[![Politics article with navigation bar, hero image with caption, and body text showing the full article template including section labels and photo credits.](https://pin.fontofweb.com/9105?format=jpg)](https://design.withfudge.com/share/pin-9105)
+[![Politics article with navigation bar, hero image with caption, and body text showing the full article template including section labels and photo credits.](https://pin.fontofweb.com/9105?format=jpg)](https://fudge.design/share/pin-9105)
 
-[Politics article with navigation bar, hero image with caption, and body text showing the full article template including section labels and photo credits.](https://design.withfudge.com/share/pin-9105)
+[Politics article with navigation bar, hero image with caption, and body text showing the full article template including section labels and photo credits.](https://fudge.design/share/pin-9105)
 
 ## Overview
 
@@ -176,3 +176,18 @@ For implementation, consider:
 ## Scope note
 
 This guide covers the article reading experience on CNN's international edition. The supplied images show body content, navigation, and image-caption combinations from news, health, sports, and politics verticals. Measurements are practical adaptation targets. Header treatments above the navigation bar, footer content, search functionality, video players, advertising units, and mobile-specific layouts are not represented in the available material. Interactive states for links and buttons, dark mode variants, and breakpoint-specific behavior should be verified against live implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

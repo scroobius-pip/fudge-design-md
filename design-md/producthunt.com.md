@@ -1,26 +1,26 @@
 # How producthunt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/producthunt.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/producthunt.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Daily leaderboard with ranked product cards, vote counts, category tags, and a right-hand launch archive sidebar on a white canvas.](https://pin.fontofweb.com/10088?format=jpg)](https://design.withfudge.com/share/pin-10088)
+[![Daily leaderboard with ranked product cards, vote counts, category tags, and a right-hand launch archive sidebar on a white canvas.](https://pin.fontofweb.com/10088?format=jpg)](https://fudge.design/share/pin-10088)
 
-[Daily leaderboard with ranked product cards, vote counts, category tags, and a right-hand launch archive sidebar on a white canvas.](https://design.withfudge.com/share/pin-10088)
+[Daily leaderboard with ranked product cards, vote counts, category tags, and a right-hand launch archive sidebar on a white canvas.](https://fudge.design/share/pin-10088)
 
-[![Full-bleed error page with a photographic background of two dogs and a rounded white dialog containing a coral CTA button.](https://pin.fontofweb.com/10047?format=jpg)](https://design.withfudge.com/share/pin-10047)
+[![Full-bleed error page with a photographic background of two dogs and a rounded white dialog containing a coral CTA button.](https://pin.fontofweb.com/10047?format=jpg)](https://fudge.design/share/pin-10047)
 
-[Full-bleed error page with a photographic background of two dogs and a rounded white dialog containing a coral CTA button.](https://design.withfudge.com/share/pin-10047)
+[Full-bleed error page with a photographic background of two dogs and a rounded white dialog containing a coral CTA button.](https://fudge.design/share/pin-10047)
 
-[![Advertising landing page with a dark hero headline, coral accent text, avatar cluster, trust logos, and stat cards on a near-black background.](https://pin.fontofweb.com/7371?format=jpg)](https://design.withfudge.com/share/pin-7371)
+[![Advertising landing page with a dark hero headline, coral accent text, avatar cluster, trust logos, and stat cards on a near-black background.](https://pin.fontofweb.com/7371?format=jpg)](https://fudge.design/share/pin-7371)
 
-[Advertising landing page with a dark hero headline, coral accent text, avatar cluster, trust logos, and stat cards on a near-black background.](https://design.withfudge.com/share/pin-7371)
+[Advertising landing page with a dark hero headline, coral accent text, avatar cluster, trust logos, and stat cards on a near-black background.](https://fudge.design/share/pin-7371)
 
-[![Developer tools topic listing with product rows, star ratings, review counts, category tags, and trophy badges on a white background.](https://pin.fontofweb.com/7370?format=jpg)](https://design.withfudge.com/share/pin-7370)
+[![Developer tools topic listing with product rows, star ratings, review counts, category tags, and trophy badges on a white background.](https://pin.fontofweb.com/7370?format=jpg)](https://fudge.design/share/pin-7370)
 
-[Developer tools topic listing with product rows, star ratings, review counts, category tags, and trophy badges on a white background.](https://design.withfudge.com/share/pin-7370)
+[Developer tools topic listing with product rows, star ratings, review counts, category tags, and trophy badges on a white background.](https://fudge.design/share/pin-7370)
 
 ## Overview
 
@@ -234,3 +234,18 @@ Touch targets maintain minimum 44px height for all interactive elements. Vote bu
 ## Scope note
 
 This guide covers the product browsing experience, landing pages, and authentication flows visible in the supplied images. Mobile layouts, animation behaviors, hover states, loading skeletons, form validation states, and the complete checkout or submission flows are not represented. Measurements are derived from the documented interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

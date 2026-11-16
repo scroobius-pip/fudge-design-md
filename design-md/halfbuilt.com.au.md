@@ -1,22 +1,22 @@
 # How halfbuilt.com.au is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/halfbuilt.com.au-design)
+[Open the live Fudge conversation](https://fudge.design/share/halfbuilt.com.au-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Onboarding step two form with dual text inputs, large textarea, and paired Back and primary action buttons beneath a step indicator.](https://pin.fontofweb.com/10626?format=jpg)](https://design.withfudge.com/share/pin-10626)
+[![Onboarding step two form with dual text inputs, large textarea, and paired Back and primary action buttons beneath a step indicator.](https://pin.fontofweb.com/10626?format=jpg)](https://fudge.design/share/pin-10626)
 
-[Onboarding step two form with dual text inputs, large textarea, and paired Back and primary action buttons beneath a step indicator.](https://design.withfudge.com/share/pin-10626)
+[Onboarding step two form with dual text inputs, large textarea, and paired Back and primary action buttons beneath a step indicator.](https://fudge.design/share/pin-10626)
 
-[![Onboarding step one form with single workspace name input, plan caption, and a solitary Continue button beneath a step indicator.](https://pin.fontofweb.com/10625?format=jpg)](https://design.withfudge.com/share/pin-10625)
+[![Onboarding step one form with single workspace name input, plan caption, and a solitary Continue button beneath a step indicator.](https://pin.fontofweb.com/10625?format=jpg)](https://fudge.design/share/pin-10625)
 
-[Onboarding step one form with single workspace name input, plan caption, and a solitary Continue button beneath a step indicator.](https://design.withfudge.com/share/pin-10625)
+[Onboarding step one form with single workspace name input, plan caption, and a solitary Continue button beneath a step indicator.](https://fudge.design/share/pin-10625)
 
-[![Split-view authentication page with email registration form, gradient CTA button, and marketing hero with dotted pattern background and numbered feature list.](https://pin.fontofweb.com/10624?format=jpg)](https://design.withfudge.com/share/pin-10624)
+[![Split-view authentication page with email registration form, gradient CTA button, and marketing hero with dotted pattern background and numbered feature list.](https://pin.fontofweb.com/10624?format=jpg)](https://fudge.design/share/pin-10624)
 
-[Split-view authentication page with email registration form, gradient CTA button, and marketing hero with dotted pattern background and numbered feature list.](https://design.withfudge.com/share/pin-10624)
+[Split-view authentication page with email registration form, gradient CTA button, and marketing hero with dotted pattern background and numbered feature list.](https://fudge.design/share/pin-10624)
 
 ## Overview
 
@@ -214,3 +214,18 @@ Touch targets should maintain minimum 44px height even where visual padding appe
 ## Scope note
 
 This guide covers the onboarding funnel and authentication pages of Halfbuilt. Marketing content pages, dashboard interfaces, mobile layouts, and interactive states such as loading, error, and disabled are not represented in the supplied material. The system stack includes -apple-system as a fallback family. The spacing and sizing values derive from the desktop interface and should be verified against production requirements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How openwebui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openwebui.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/openwebui.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community home feed with dark sidebar navigation, search bar, post cards with metadata badges, and right-side leaderboard panel showing user rankings.](https://pin.fontofweb.com/7514?format=jpg)](https://design.withfudge.com/share/pin-7514)
+[![Community home feed with dark sidebar navigation, search bar, post cards with metadata badges, and right-side leaderboard panel showing user rankings.](https://pin.fontofweb.com/7514?format=jpg)](https://fudge.design/share/pin-7514)
 
-[Community home feed with dark sidebar navigation, search bar, post cards with metadata badges, and right-side leaderboard panel showing user rankings.](https://design.withfudge.com/share/pin-7514)
+[Community home feed with dark sidebar navigation, search bar, post cards with metadata badges, and right-side leaderboard panel showing user rankings.](https://fudge.design/share/pin-7514)
 
-[![Leaderboard page with colorful stacked bar chart, model ranking tables with percentage change indicators, and country usage statistics.](https://pin.fontofweb.com/7513?format=jpg)](https://design.withfudge.com/share/pin-7513)
+[![Leaderboard page with colorful stacked bar chart, model ranking tables with percentage change indicators, and country usage statistics.](https://pin.fontofweb.com/7513?format=jpg)](https://fudge.design/share/pin-7513)
 
-[Leaderboard page with colorful stacked bar chart, model ranking tables with percentage change indicators, and country usage statistics.](https://design.withfudge.com/share/pin-7513)
+[Leaderboard page with colorful stacked bar chart, model ranking tables with percentage change indicators, and country usage statistics.](https://fudge.design/share/pin-7513)
 
-[![Models directory with filter pills, search input, and vertically stacked model cards with avatar icons, star ratings, and provider tags.](https://pin.fontofweb.com/7512?format=jpg)](https://design.withfudge.com/share/pin-7512)
+[![Models directory with filter pills, search input, and vertically stacked model cards with avatar icons, star ratings, and provider tags.](https://pin.fontofweb.com/7512?format=jpg)](https://fudge.design/share/pin-7512)
 
-[Models directory with filter pills, search input, and vertically stacked model cards with avatar icons, star ratings, and provider tags.](https://design.withfudge.com/share/pin-7512)
+[Models directory with filter pills, search input, and vertically stacked model cards with avatar icons, star ratings, and provider tags.](https://fudge.design/share/pin-7512)
 
-[![Community group page with hero banner image, group avatar, Chinese-language posts with TOOL and FUNCTION badges, and engagement metrics.](https://pin.fontofweb.com/7511?format=jpg)](https://design.withfudge.com/share/pin-7511)
+[![Community group page with hero banner image, group avatar, Chinese-language posts with TOOL and FUNCTION badges, and engagement metrics.](https://pin.fontofweb.com/7511?format=jpg)](https://fudge.design/share/pin-7511)
 
-[Community group page with hero banner image, group avatar, Chinese-language posts with TOOL and FUNCTION badges, and engagement metrics.](https://design.withfudge.com/share/pin-7511)
+[Community group page with hero banner image, group avatar, Chinese-language posts with TOOL and FUNCTION badges, and engagement metrics.](https://fudge.design/share/pin-7511)
 
 ## Overview
 
@@ -214,3 +214,18 @@ Typography scales down modestly: hero display should reduce to `{typography.sect
 ## Scope note
 
 This guide covers the community platform pages including home feeds, model directories, leaderboards, and group pages. The marketing landing page with its larger display typography and different layout approach is not fully represented. Mobile layouts, animation specifications, form validation states, and the complete icon set are not included. Zalando Sans Expanded and System-Uimonospace are present in the source but not used in the core interface components described here.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

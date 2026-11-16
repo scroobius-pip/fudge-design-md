@@ -1,26 +1,26 @@
 # How hermesatlas.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hermesatlas.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hermesatlas.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized 'the community map of hermes agent.' display typography, amber accent on 'hermes agent', and ecosystem stats bar](https://pin.fontofweb.com/8979?format=jpg)](https://design.withfudge.com/share/pin-8979)
+[![Homepage hero with oversized 'the community map of hermes agent.' display typography, amber accent on 'hermes agent', and ecosystem stats bar](https://pin.fontofweb.com/8979?format=jpg)](https://fudge.design/share/pin-8979)
 
-[Homepage hero with oversized 'the community map of hermes agent.' display typography, amber accent on 'hermes agent', and ecosystem stats bar](https://design.withfudge.com/share/pin-8979)
+[Homepage hero with oversized 'the community map of hermes agent.' display typography, amber accent on 'hermes agent', and ecosystem stats bar](https://fudge.design/share/pin-8979)
 
-[![Project detail page for litprog-skill showing breadcrumb navigation, large repo heading, amber primary button, and overview section with bullet list](https://pin.fontofweb.com/8980?format=jpg)](https://design.withfudge.com/share/pin-8980)
+[![Project detail page for litprog-skill showing breadcrumb navigation, large repo heading, amber primary button, and overview section with bullet list](https://pin.fontofweb.com/8980?format=jpg)](https://fudge.design/share/pin-8980)
 
-[Project detail page for litprog-skill showing breadcrumb navigation, large repo heading, amber primary button, and overview section with bullet list](https://design.withfudge.com/share/pin-8980)
+[Project detail page for litprog-skill showing breadcrumb navigation, large repo heading, amber primary button, and overview section with bullet list](https://fudge.design/share/pin-8980)
 
-[![Category listing view with Multi-agent & orchestration and Deployment & infra sections, star counts, and weekly growth metrics in amber](https://pin.fontofweb.com/8981?format=jpg)](https://design.withfudge.com/share/pin-8981)
+[![Category listing view with Multi-agent & orchestration and Deployment & infra sections, star counts, and weekly growth metrics in amber](https://pin.fontofweb.com/8981?format=jpg)](https://fudge.design/share/pin-8981)
 
-[Category listing view with Multi-agent & orchestration and Deployment & infra sections, star counts, and weekly growth metrics in amber](https://design.withfudge.com/share/pin-8981)
+[Category listing view with Multi-agent & orchestration and Deployment & infra sections, star counts, and weekly growth metrics in amber](https://fudge.design/share/pin-8981)
 
-[![Curated lists grid with four category cards, monospace metadata labels, and amber 'ASK THE ATLAS' button in footer](https://pin.fontofweb.com/8982?format=jpg)](https://design.withfudge.com/share/pin-8982)
+[![Curated lists grid with four category cards, monospace metadata labels, and amber 'ASK THE ATLAS' button in footer](https://pin.fontofweb.com/8982?format=jpg)](https://fudge.design/share/pin-8982)
 
-[Curated lists grid with four category cards, monospace metadata labels, and amber 'ASK THE ATLAS' button in footer](https://design.withfudge.com/share/pin-8982)
+[Curated lists grid with four category cards, monospace metadata labels, and amber 'ASK THE ATLAS' button in footer](https://fudge.design/share/pin-8982)
 
 ## Overview
 
@@ -208,3 +208,18 @@ Navigation items may collapse to a menu affordance below approximately 768px. Th
 ## Scope note
 
 This guide covers the homepage, category listings, curated lists, and project detail surfaces visible in the supplied captures. Mobile breakpoints, hover states, loading skeletons, form validation, and the light theme variant are not documented. The footer area and any authentication flows are partially visible but not fully represented.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

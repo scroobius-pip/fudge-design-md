@@ -1,26 +1,26 @@
 # How lineto.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lineto.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lineto.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Technical documentation page showing OpenType features, character sets, and supported languages for Moonbase Var typeface with orange-accented navigation](https://pin.fontofweb.com/9731?format=jpg)](https://design.withfudge.com/share/pin-9731)
+[![Technical documentation page showing OpenType features, character sets, and supported languages for Moonbase Var typeface with orange-accented navigation](https://pin.fontofweb.com/9731?format=jpg)](https://fudge.design/share/pin-9731)
 
-[Technical documentation page showing OpenType features, character sets, and supported languages for Moonbase Var typeface with orange-accented navigation](https://design.withfudge.com/share/pin-9731)
+[Technical documentation page showing OpenType features, character sets, and supported languages for Moonbase Var typeface with orange-accented navigation](https://fudge.design/share/pin-9731)
 
-[![Glyph detail view with dimensional metrics diagram and Basic Latin character grid showing pixelated letterforms](https://pin.fontofweb.com/9730?format=jpg)](https://design.withfudge.com/share/pin-9730)
+[![Glyph detail view with dimensional metrics diagram and Basic Latin character grid showing pixelated letterforms](https://pin.fontofweb.com/9730?format=jpg)](https://fudge.design/share/pin-9730)
 
-[Glyph detail view with dimensional metrics diagram and Basic Latin character grid showing pixelated letterforms](https://design.withfudge.com/share/pin-9730)
+[Glyph detail view with dimensional metrics diagram and Basic Latin character grid showing pixelated letterforms](https://fudge.design/share/pin-9730)
 
-[![Variable font specimen displaying graduated size ramp from small to oversized lowercase glyphs with tab navigation](https://pin.fontofweb.com/9729?format=jpg)](https://design.withfudge.com/share/pin-9729)
+[![Variable font specimen displaying graduated size ramp from small to oversized lowercase glyphs with tab navigation](https://pin.fontofweb.com/9729?format=jpg)](https://fudge.design/share/pin-9729)
 
-[Variable font specimen displaying graduated size ramp from small to oversized lowercase glyphs with tab navigation](https://design.withfudge.com/share/pin-9729)
+[Variable font specimen displaying graduated size ramp from small to oversized lowercase glyphs with tab navigation](https://fudge.design/share/pin-9729)
 
-[![Dark-themed login and registration form with minimal white typography and orange accent on active navigation](https://pin.fontofweb.com/9728?format=jpg)](https://design.withfudge.com/share/pin-9728)
+[![Dark-themed login and registration form with minimal white typography and orange accent on active navigation](https://pin.fontofweb.com/9728?format=jpg)](https://fudge.design/share/pin-9728)
 
-[Dark-themed login and registration form with minimal white typography and orange accent on active navigation](https://design.withfudge.com/share/pin-9728)
+[Dark-themed login and registration form with minimal white typography and orange accent on active navigation](https://fudge.design/share/pin-9728)
 
 ## Overview
 
@@ -222,3 +222,18 @@ Tab bars may require horizontal scrolling or conversion to a dropdown when label
 ## Scope note
 
 This guide covers the type specimen, technical documentation, and account pages of lineto.com. It does not include the shop checkout flow, font purchasing interface, or any animated variable font interactions beyond the static size ramp. Mobile breakpoint behavior is inferred from desktop layouts and should be verified during implementation. Measurements are derived from the documented pixel values with conversion to rem units at a 16px root reference. The families Applesystem and Times appear in the document stack as system fallbacks but carry no visible design role in the composed interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Product detail](/share/designs-with-page.commerce.product_detail)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

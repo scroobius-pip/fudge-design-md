@@ -1,26 +1,26 @@
 # How column.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/column.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/column.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with three-column link grid and large 'Start building today' heading on light gray background](https://pin.fontofweb.com/5251?format=jpg)](https://design.withfudge.com/share/pin-5251)
+[![Footer section with three-column link grid and large 'Start building today' heading on light gray background](https://pin.fontofweb.com/5251?format=jpg)](https://fudge.design/share/pin-5251)
 
-[Footer section with three-column link grid and large 'Start building today' heading on light gray background](https://design.withfudge.com/share/pin-5251)
+[Footer section with three-column link grid and large 'Start building today' heading on light gray background](https://fudge.design/share/pin-5251)
 
-[![Products section showing categorized financial building blocks with icon tags in two-column layout](https://pin.fontofweb.com/5250?format=jpg)](https://design.withfudge.com/share/pin-5250)
+[![Products section showing categorized financial building blocks with icon tags in two-column layout](https://pin.fontofweb.com/5250?format=jpg)](https://fudge.design/share/pin-5250)
 
-[Products section showing categorized financial building blocks with icon tags in two-column layout](https://design.withfudge.com/share/pin-5250)
+[Products section showing categorized financial building blocks with icon tags in two-column layout](https://fudge.design/share/pin-5250)
 
-[![Industry selector with vertical tab list and green halftone bank illustration on dotted background](https://pin.fontofweb.com/5249?format=jpg)](https://design.withfudge.com/share/pin-5249)
+[![Industry selector with vertical tab list and green halftone bank illustration on dotted background](https://pin.fontofweb.com/5249?format=jpg)](https://fudge.design/share/pin-5249)
 
-[Industry selector with vertical tab list and green halftone bank illustration on dotted background](https://design.withfudge.com/share/pin-5249)
+[Industry selector with vertical tab list and green halftone bank illustration on dotted background](https://fudge.design/share/pin-5249)
 
-[![Dark-themed card programs feature with code snippet and floating 3D card visualization](https://pin.fontofweb.com/5248?format=jpg)](https://design.withfudge.com/share/pin-5248)
+[![Dark-themed card programs feature with code snippet and floating 3D card visualization](https://pin.fontofweb.com/5248?format=jpg)](https://fudge.design/share/pin-5248)
 
-[Dark-themed card programs feature with code snippet and floating 3D card visualization](https://design.withfudge.com/share/pin-5248)
+[Dark-themed card programs feature with code snippet and floating 3D card visualization](https://fudge.design/share/pin-5248)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The two-column layout pattern should stack vertically on narrower viewports, wit
 ## Scope note
 
 This guide covers the Column homepage and primary product overview surfaces. Interior pages, documentation layouts, authenticated dashboard interfaces, and mobile-specific adaptations are not represented in the supplied materials. Motion design, hover states, and form interactions are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

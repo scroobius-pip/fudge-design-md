@@ -1,18 +1,18 @@
 # How pxlpowerup.se is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pxlpowerup.se-design)
+[Open the live Fudge conversation](https://fudge.design/share/pxlpowerup.se-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing page with Sonic-branded energy can, bold PXL logo, and gaming-themed typography on electric blue patterned background](https://pin.fontofweb.com/2862?format=jpg)](https://design.withfudge.com/share/pin-2862)
+[![Hero landing page with Sonic-branded energy can, bold PXL logo, and gaming-themed typography on electric blue patterned background](https://pin.fontofweb.com/2862?format=jpg)](https://fudge.design/share/pin-2862)
 
-[Hero landing page with Sonic-branded energy can, bold PXL logo, and gaming-themed typography on electric blue patterned background](https://design.withfudge.com/share/pin-2862)
+[Hero landing page with Sonic-branded energy can, bold PXL logo, and gaming-themed typography on electric blue patterned background](https://fudge.design/share/pin-2862)
 
-[![Contact section with WHERE ARE WE? heading, retailer links, form fields, and black Send button on blue geometric pattern background](https://pin.fontofweb.com/2863?format=jpg)](https://design.withfudge.com/share/pin-2863)
+[![Contact section with WHERE ARE WE? heading, retailer links, form fields, and black Send button on blue geometric pattern background](https://pin.fontofweb.com/2863?format=jpg)](https://fudge.design/share/pin-2863)
 
-[Contact section with WHERE ARE WE? heading, retailer links, form fields, and black Send button on blue geometric pattern background](https://design.withfudge.com/share/pin-2863)
+[Contact section with WHERE ARE WE? heading, retailer links, form fields, and black Send button on blue geometric pattern background](https://fudge.design/share/pin-2863)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Product photography requires careful scaling to preserve impact— the floating 
 ## Scope note
 
 This guide covers the landing page and contact section visible in supplied imagery. Footer content, additional product pages, checkout flow, and mobile-specific layouts are not represented. Motion behavior, hover states, and loading sequences are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Pattern background](/share/designs-with-visual.background.pattern)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

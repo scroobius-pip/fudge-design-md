@@ -1,26 +1,26 @@
 # How good-fella.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/good-fella.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/good-fella.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with ASCII-art figure, large display headline, orange primary button, and brand logo lockup on near-black canvas](https://pin.fontofweb.com/8198?format=jpg)](https://design.withfudge.com/share/pin-8198)
+[![Hero section with ASCII-art figure, large display headline, orange primary button, and brand logo lockup on near-black canvas](https://pin.fontofweb.com/8198?format=jpg)](https://fudge.design/share/pin-8198)
 
-[Hero section with ASCII-art figure, large display headline, orange primary button, and brand logo lockup on near-black canvas](https://design.withfudge.com/share/pin-8198)
+[Hero section with ASCII-art figure, large display headline, orange primary button, and brand logo lockup on near-black canvas](https://fudge.design/share/pin-8198)
 
-[![Featured Work portfolio section with split layout, project thumbnails, and category tags in monospace labels](https://pin.fontofweb.com/8197?format=jpg)](https://design.withfudge.com/share/pin-8197)
+[![Featured Work portfolio section with split layout, project thumbnails, and category tags in monospace labels](https://pin.fontofweb.com/8197?format=jpg)](https://fudge.design/share/pin-8197)
 
-[Featured Work portfolio section with split layout, project thumbnails, and category tags in monospace labels](https://design.withfudge.com/share/pin-8197)
+[Featured Work portfolio section with split layout, project thumbnails, and category tags in monospace labels](https://fudge.design/share/pin-8197)
 
-[![Why Good Fella comparison table with light gray background, dark data grid, and orange accent indicator](https://pin.fontofweb.com/8196?format=jpg)](https://design.withfudge.com/share/pin-8196)
+[![Why Good Fella comparison table with light gray background, dark data grid, and orange accent indicator](https://pin.fontofweb.com/8196?format=jpg)](https://fudge.design/share/pin-8196)
 
-[Why Good Fella comparison table with light gray background, dark data grid, and orange accent indicator](https://design.withfudge.com/share/pin-8196)
+[Why Good Fella comparison table with light gray background, dark data grid, and orange accent indicator](https://fudge.design/share/pin-8196)
 
-[![Pricing cards showing Active and Embedded tiers with large euro figures, feature lists, and dark-filled CTAs](https://pin.fontofweb.com/8195?format=jpg)](https://design.withfudge.com/share/pin-8195)
+[![Pricing cards showing Active and Embedded tiers with large euro figures, feature lists, and dark-filled CTAs](https://pin.fontofweb.com/8195?format=jpg)](https://fudge.design/share/pin-8195)
 
-[Pricing cards showing Active and Embedded tiers with large euro figures, feature lists, and dark-filled CTAs](https://design.withfudge.com/share/pin-8195)
+[Pricing cards showing Active and Embedded tiers with large euro figures, feature lists, and dark-filled CTAs](https://fudge.design/share/pin-8195)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Navigation likely collapses to a full-screen overlay or bottom sheet given the m
 ## Scope note
 
 This guide covers the homepage and primary landing surfaces visible in the supplied captures: hero, featured work, comparison table, and pricing sections. Interior pages, mobile navigation behavior, form states, and motion specifications are not included. All corners remain sharp per the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

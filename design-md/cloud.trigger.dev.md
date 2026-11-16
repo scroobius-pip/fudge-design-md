@@ -1,18 +1,18 @@
 # How cloud.trigger.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cloud.trigger.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/cloud.trigger.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Split-screen login page with left-side auth options, right-side testimonial quote, and bottom trust logos including Lyft and Cal.com](https://pin.fontofweb.com/1556?format=jpg)](https://design.withfudge.com/share/pin-1556)
+[![Split-screen login page with left-side auth options, right-side testimonial quote, and bottom trust logos including Lyft and Cal.com](https://pin.fontofweb.com/1556?format=jpg)](https://fudge.design/share/pin-1556)
 
-[Split-screen login page with left-side auth options, right-side testimonial quote, and bottom trust logos including Lyft and Cal.com](https://design.withfudge.com/share/pin-1556)
+[Split-screen login page with left-side auth options, right-side testimonial quote, and bottom trust logos including Lyft and Cal.com](https://fudge.design/share/pin-1556)
 
-[![Centered magic-link login form with email input field, purple send button, and terms agreement text on dark background](https://pin.fontofweb.com/1557?format=jpg)](https://design.withfudge.com/share/pin-1557)
+[![Centered magic-link login form with email input field, purple send button, and terms agreement text on dark background](https://pin.fontofweb.com/1557?format=jpg)](https://fudge.design/share/pin-1557)
 
-[Centered magic-link login form with email input field, purple send button, and terms agreement text on dark background](https://design.withfudge.com/share/pin-1557)
+[Centered magic-link login form with email input field, purple send button, and terms agreement text on dark background](https://fudge.design/share/pin-1557)
 
 ## Overview
 
@@ -136,3 +136,18 @@ The trust logo bar would likely scroll horizontally or wrap to multiple rows on 
 ## Scope note
 
 This guide covers the Trigger.dev cloud authentication pages including login, magic-link email entry, and associated social proof elements. Dashboard interfaces, logged-in application surfaces, marketing pages, and interactive states such as loading, error, or success confirmations are not represented in the supplied material. Motion, animation, and mobile-specific layouts are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Authentication](/share/designs-with-page.account.authentication)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

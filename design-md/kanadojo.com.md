@@ -1,26 +1,26 @@
 # How kanadojo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kanadojo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kanadojo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark theme preference grid showing colorful named theme pills on near-black background with incognito selection indicator](https://pin.fontofweb.com/1323?format=jpg)](https://design.withfudge.com/share/pin-1323)
+[![Dark theme preference grid showing colorful named theme pills on near-black background with incognito selection indicator](https://pin.fontofweb.com/1323?format=jpg)](https://fudge.design/share/pin-1323)
 
-[Dark theme preference grid showing colorful named theme pills on near-black background with incognito selection indicator](https://design.withfudge.com/share/pin-1323)
+[Dark theme preference grid showing colorful named theme pills on near-black background with incognito selection indicator](https://fudge.design/share/pin-1323)
 
-[![Preferences page with Behavior and Display sections, segmented controls, and light theme color swatches including amethyst and miami pink](https://pin.fontofweb.com/1322?format=jpg)](https://design.withfudge.com/share/pin-1322)
+[![Preferences page with Behavior and Display sections, segmented controls, and light theme color swatches including amethyst and miami pink](https://pin.fontofweb.com/1322?format=jpg)](https://fudge.design/share/pin-1322)
 
-[Preferences page with Behavior and Display sections, segmented controls, and light theme color swatches including amethyst and miami pink](https://design.withfudge.com/share/pin-1322)
+[Preferences page with Behavior and Display sections, segmented controls, and light theme color swatches including amethyst and miami pink](https://fudge.design/share/pin-1322)
 
-[![Kanji study grid with three columns of character cards showing readings, meanings, and set selection radio buttons](https://pin.fontofweb.com/1321?format=jpg)](https://design.withfudge.com/share/pin-1321)
+[![Kanji study grid with three columns of character cards showing readings, meanings, and set selection radio buttons](https://pin.fontofweb.com/1321?format=jpg)](https://fudge.design/share/pin-1321)
 
-[Kanji study grid with three columns of character cards showing readings, meanings, and set selection radio buttons](https://design.withfudge.com/share/pin-1321)
+[Kanji study grid with three columns of character cards showing readings, meanings, and set selection radio buttons](https://fudge.design/share/pin-1321)
 
-[![Collapsed navigation sidebar with KanaDojo branding, home icon, and Vocabulary item highlighted with light gray pill background](https://pin.fontofweb.com/1320?format=jpg)](https://design.withfudge.com/share/pin-1320)
+[![Collapsed navigation sidebar with KanaDojo branding, home icon, and Vocabulary item highlighted with light gray pill background](https://pin.fontofweb.com/1320?format=jpg)](https://fudge.design/share/pin-1320)
 
-[Collapsed navigation sidebar with KanaDojo branding, home icon, and Vocabulary item highlighted with light gray pill background](https://design.withfudge.com/share/pin-1320)
+[Collapsed navigation sidebar with KanaDojo branding, home icon, and Vocabulary item highlighted with light gray pill background](https://fudge.design/share/pin-1320)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Segmented controls should remain full-width on mobile, maintaining equal distrib
 ## Scope note
 
 This guide covers the study grid, navigation, and preferences surfaces visible in the supplied images. Measurements are practical adaptation targets. Mobile layouts, animation specifications, audio feedback controls, and the complete theme palette beyond the sampled accents are not fully represented. Verify licensing for Noto Sans JP and Zen Maru Gothic before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How macaron.im is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/macaron.im-design)
+[Open the live Fudge conversation](https://fudge.design/share/macaron.im-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with warm gradient background, blog alphabet navigation, and resource links grid](https://pin.fontofweb.com/6575?format=jpg)](https://design.withfudge.com/share/pin-6575)
+[![Footer with warm gradient background, blog alphabet navigation, and resource links grid](https://pin.fontofweb.com/6575?format=jpg)](https://fudge.design/share/pin-6575)
 
-[Footer with warm gradient background, blog alphabet navigation, and resource links grid](https://design.withfudge.com/share/pin-6575)
+[Footer with warm gradient background, blog alphabet navigation, and resource links grid](https://fudge.design/share/pin-6575)
 
-[![Testimonials section with colorful chat bubbles in yellow, orange, green, and pink](https://pin.fontofweb.com/6574?format=jpg)](https://design.withfudge.com/share/pin-6574)
+[![Testimonials section with colorful chat bubbles in yellow, orange, green, and pink](https://pin.fontofweb.com/6574?format=jpg)](https://fudge.design/share/pin-6574)
 
-[Testimonials section with colorful chat bubbles in yellow, orange, green, and pink](https://design.withfudge.com/share/pin-6574)
+[Testimonials section with colorful chat bubbles in yellow, orange, green, and pink](https://fudge.design/share/pin-6574)
 
-[![Feature showcase grid with nine product cards displaying app screenshots](https://pin.fontofweb.com/6573?format=jpg)](https://design.withfudge.com/share/pin-6573)
+[![Feature showcase grid with nine product cards displaying app screenshots](https://pin.fontofweb.com/6573?format=jpg)](https://fudge.design/share/pin-6573)
 
-[Feature showcase grid with nine product cards displaying app screenshots](https://design.withfudge.com/share/pin-6573)
+[Feature showcase grid with nine product cards displaying app screenshots](https://fudge.design/share/pin-6573)
 
-[![Why Macaron section with three gradient feature cards in purple, coral, and yellow](https://pin.fontofweb.com/6572?format=jpg)](https://design.withfudge.com/share/pin-6572)
+[![Why Macaron section with three gradient feature cards in purple, coral, and yellow](https://pin.fontofweb.com/6572?format=jpg)](https://fudge.design/share/pin-6572)
 
-[Why Macaron section with three gradient feature cards in purple, coral, and yellow](https://design.withfudge.com/share/pin-6572)
+[Why Macaron section with three gradient feature cards in purple, coral, and yellow](https://fudge.design/share/pin-6572)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Touch targets for navigation links and buttons should maintain a minimum 44px he
 ## Scope note
 
 This guide covers the Macaron landing page's visual system as visible in the supplied desktop screenshots, including the hero area, feature cards, product showcase grid, testimonials section, and footer navigation. Mobile layouts, animation behavior, form interactions, and additional interior pages are not represented in the available material. The exact spacing values derive from the retained measurements; implementers should verify visual harmony when adapting to different viewport sizes.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

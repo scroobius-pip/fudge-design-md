@@ -1,22 +1,22 @@
 # How consumer.huawei.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/consumer.huawei.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/consumer.huawei.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Four-column product comparison grid showing HUAWEI wearables with pricing, Learn More buttons, and spec icons for screen size, weight, calling, and water resistance.](https://pin.fontofweb.com/10654?format=jpg)](https://design.withfudge.com/share/pin-10654)
+[![Four-column product comparison grid showing HUAWEI wearables with pricing, Learn More buttons, and spec icons for screen size, weight, calling, and water resistance.](https://pin.fontofweb.com/10654?format=jpg)](https://fudge.design/share/pin-10654)
 
-[Four-column product comparison grid showing HUAWEI wearables with pricing, Learn More buttons, and spec icons for screen size, weight, calling, and water resistance.](https://design.withfudge.com/share/pin-10654)
+[Four-column product comparison grid showing HUAWEI wearables with pricing, Learn More buttons, and spec icons for screen size, weight, calling, and water resistance.](https://fudge.design/share/pin-10654)
 
-[![WATCH FIT Series section with tab navigation, large product video hero, and cookie consent banner with Accept button.](https://pin.fontofweb.com/10653?format=jpg)](https://design.withfudge.com/share/pin-10653)
+[![WATCH FIT Series section with tab navigation, large product video hero, and cookie consent banner with Accept button.](https://pin.fontofweb.com/10653?format=jpg)](https://fudge.design/share/pin-10653)
 
-[WATCH FIT Series section with tab navigation, large product video hero, and cookie consent banner with Accept button.](https://design.withfudge.com/share/pin-10653)
+[WATCH FIT Series section with tab navigation, large product video hero, and cookie consent banner with Accept button.](https://fudge.design/share/pin-10653)
 
-[![Page top with global navigation, category icon row, HUAWEI WATCH FIT 5 Pro hero with pricing and dual CTA buttons, and WATCH Ultimate Series heading.](https://pin.fontofweb.com/10652?format=jpg)](https://design.withfudge.com/share/pin-10652)
+[![Page top with global navigation, category icon row, HUAWEI WATCH FIT 5 Pro hero with pricing and dual CTA buttons, and WATCH Ultimate Series heading.](https://pin.fontofweb.com/10652?format=jpg)](https://fudge.design/share/pin-10652)
 
-[Page top with global navigation, category icon row, HUAWEI WATCH FIT 5 Pro hero with pricing and dual CTA buttons, and WATCH Ultimate Series heading.](https://design.withfudge.com/share/pin-10652)
+[Page top with global navigation, category icon row, HUAWEI WATCH FIT 5 Pro hero with pricing and dual CTA buttons, and WATCH Ultimate Series heading.](https://fudge.design/share/pin-10652)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The visible layouts are desktop-focused. Based on the component structures, the 
 ## Scope note
 
 This guide covers the HUAWEI wearables product listing and comparison surfaces on the UAE English locale. It does not include mobile-specific layouts, checkout flows, account pages, or dark mode variants. Motion, hover states, and loading skeletons are not documented. Measurements reflect the visible desktop implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Consumer products](/share/designs-with-industry.consumer_products)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

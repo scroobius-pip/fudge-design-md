@@ -1,22 +1,22 @@
 # How crazyrdp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/crazyrdp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/crazyrdp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with yellow-highlighted 'Anonymous' headline, product cards, and payment icons against dark navy background](https://pin.fontofweb.com/2615?format=jpg)](https://design.withfudge.com/share/pin-2615)
+[![Homepage hero with yellow-highlighted 'Anonymous' headline, product cards, and payment icons against dark navy background](https://pin.fontofweb.com/2615?format=jpg)](https://fudge.design/share/pin-2615)
 
-[Homepage hero with yellow-highlighted 'Anonymous' headline, product cards, and payment icons against dark navy background](https://design.withfudge.com/share/pin-2615)
+[Homepage hero with yellow-highlighted 'Anonymous' headline, product cards, and payment icons against dark navy background](https://fudge.design/share/pin-2615)
 
-[![Pricing page header with large white display type, partner logos, and five feature cards in dark theme](https://pin.fontofweb.com/2616?format=jpg)](https://design.withfudge.com/share/pin-2616)
+[![Pricing page header with large white display type, partner logos, and five feature cards in dark theme](https://pin.fontofweb.com/2616?format=jpg)](https://fudge.design/share/pin-2616)
 
-[Pricing page header with large white display type, partner logos, and five feature cards in dark theme](https://design.withfudge.com/share/pin-2616)
+[Pricing page header with large white display type, partner logos, and five feature cards in dark theme](https://fudge.design/share/pin-2616)
 
-[![Detailed pricing table with orange-accented prices, stock status indicators, and row-based server specifications](https://pin.fontofweb.com/2617?format=jpg)](https://design.withfudge.com/share/pin-2617)
+[![Detailed pricing table with orange-accented prices, stock status indicators, and row-based server specifications](https://pin.fontofweb.com/2617?format=jpg)](https://fudge.design/share/pin-2617)
 
-[Detailed pricing table with orange-accented prices, stock status indicators, and row-based server specifications](https://design.withfudge.com/share/pin-2617)
+[Detailed pricing table with orange-accented prices, stock status indicators, and row-based server specifications](https://fudge.design/share/pin-2617)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The design should maintain its dark character across all breakpoints. The pricin
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Footer content, interior product pages, checkout flows, account dashboards, and mobile-specific layouts are not represented. Motion, loading states, and form interactions are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

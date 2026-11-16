@@ -1,18 +1,18 @@
 # How hellotiana.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hellotiana.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/hellotiana.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with profile avatar, name, role at Cowrywise, and bio text alongside three large section links with arrow indicators, showing the green accent hover state on 'ABOUT](https://pin.fontofweb.com/9054?format=jpg)](https://design.withfudge.com/share/pin-9054)
+[![Hero section with profile avatar, name, role at Cowrywise, and bio text alongside three large section links with arrow indicators, showing the green accent hover state on 'ABOUT](https://pin.fontofweb.com/9054?format=jpg)](https://fudge.design/share/pin-9054)
 
-[Hero section with profile avatar, name, role at Cowrywise, and bio text alongside three large section links with arrow indicators, showing the green accent hover state on 'ABOUT](https://design.withfudge.com/share/pin-9054)
+[Hero section with profile avatar, name, role at Cowrywise, and bio text alongside three large section links with arrow indicators, showing the green accent hover state on 'ABOUT](https://fudge.design/share/pin-9054)
 
-[![Hero section in default state with dark section titles 'CASE STUDIES', 'PLAYGROUND', 'ABOUT ME' in muted ink, plus header with 'Say hi' pill button and footer with social links](https://pin.fontofweb.com/9053?format=jpg)](https://design.withfudge.com/share/pin-9053)
+[![Hero section in default state with dark section titles 'CASE STUDIES', 'PLAYGROUND', 'ABOUT ME' in muted ink, plus header with 'Say hi' pill button and footer with social links](https://pin.fontofweb.com/9053?format=jpg)](https://fudge.design/share/pin-9053)
 
-[Hero section in default state with dark section titles 'CASE STUDIES', 'PLAYGROUND', 'ABOUT ME' in muted ink, plus header with 'Say hi' pill button and footer with social links](https://design.withfudge.com/share/pin-9053)
+[Hero section in default state with dark section titles 'CASE STUDIES', 'PLAYGROUND', 'ABOUT ME' in muted ink, plus header with 'Say hi' pill button and footer with social links](https://fudge.design/share/pin-9053)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The contact button's compact icon-only state suggests an existing responsive con
 ## Scope note
 
 This guide covers the single-page portfolio landing surface visible in the supplied images. Case study detail pages, playground entries, and the about page are not represented. Motion behavior, focus states, and mobile-specific layouts are not documented. Measurements reflect the exact values retained from the source interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

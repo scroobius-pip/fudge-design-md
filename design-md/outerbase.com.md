@@ -1,26 +1,26 @@
 # How outerbase.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/outerbase.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/outerbase.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with astronaut spacecraft illustration over Earth horizon and dark footer with green status indicator](https://pin.fontofweb.com/1950?format=jpg)](https://design.withfudge.com/share/pin-1950)
+[![Hero section with astronaut spacecraft illustration over Earth horizon and dark footer with green status indicator](https://pin.fontofweb.com/1950?format=jpg)](https://fudge.design/share/pin-1950)
 
-[Hero section with astronaut spacecraft illustration over Earth horizon and dark footer with green status indicator](https://design.withfudge.com/share/pin-1950)
+[Hero section with astronaut spacecraft illustration over Earth horizon and dark footer with green status indicator](https://fudge.design/share/pin-1950)
 
-[![Security features grid with eight capability cards and repeated spacecraft hero illustration](https://pin.fontofweb.com/1949?format=jpg)](https://design.withfudge.com/share/pin-1949)
+[![Security features grid with eight capability cards and repeated spacecraft hero illustration](https://pin.fontofweb.com/1949?format=jpg)](https://fudge.design/share/pin-1949)
 
-[Security features grid with eight capability cards and repeated spacecraft hero illustration](https://design.withfudge.com/share/pin-1949)
+[Security features grid with eight capability cards and repeated spacecraft hero illustration](https://fudge.design/share/pin-1949)
 
-[![Data Catalog feature section with modal dialog showing form inputs and feature icon cards](https://pin.fontofweb.com/1948?format=jpg)](https://design.withfudge.com/share/pin-1948)
+[![Data Catalog feature section with modal dialog showing form inputs and feature icon cards](https://pin.fontofweb.com/1948?format=jpg)](https://fudge.design/share/pin-1948)
 
-[Data Catalog feature section with modal dialog showing form inputs and feature icon cards](https://design.withfudge.com/share/pin-1948)
+[Data Catalog feature section with modal dialog showing form inputs and feature icon cards](https://fudge.design/share/pin-1948)
 
-[![Database connections grid with pixel-art database logos and underwater MySQL card highlight](https://pin.fontofweb.com/1947?format=jpg)](https://design.withfudge.com/share/pin-1947)
+[![Database connections grid with pixel-art database logos and underwater MySQL card highlight](https://pin.fontofweb.com/1947?format=jpg)](https://fudge.design/share/pin-1947)
 
-[Database connections grid with pixel-art database logos and underwater MySQL card highlight](https://design.withfudge.com/share/pin-1947)
+[Database connections grid with pixel-art database logos and underwater MySQL card highlight](https://fudge.design/share/pin-1947)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The layout assumes a desktop-first presentation with substantial horizontal spac
 ## Scope note
 
 This guide covers the Outerbase marketing homepage visible in the supplied images, including hero sections, feature grids, database connections, modal dialogs, and footer navigation. Mobile layouts, component hover states, form validation, loading indicators, and additional interior pages are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

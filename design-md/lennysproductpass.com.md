@@ -1,18 +1,18 @@
 # How lennysproductpass.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lennysproductpass.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lennysproductpass.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Three-tier pricing cards with cream, peach, and orange backgrounds showing Monthly, Annual, and Insider subscription options with black pill buttons](https://pin.fontofweb.com/5323?format=jpg)](https://design.withfudge.com/share/pin-5323)
+[![Three-tier pricing cards with cream, peach, and orange backgrounds showing Monthly, Annual, and Insider subscription options with black pill buttons](https://pin.fontofweb.com/5323?format=jpg)](https://fudge.design/share/pin-5323)
 
-[Three-tier pricing cards with cream, peach, and orange backgrounds showing Monthly, Annual, and Insider subscription options with black pill buttons](https://design.withfudge.com/share/pin-5323)
+[Three-tier pricing cards with cream, peach, and orange backgrounds showing Monthly, Annual, and Insider subscription options with black pill buttons](https://fudge.design/share/pin-5323)
 
-[![Hero section with scattered orange and yellow product icons, bold headline, orange pill CTA, and product cards with value callouts and corner ribbons](https://pin.fontofweb.com/5322?format=jpg)](https://design.withfudge.com/share/pin-5322)
+[![Hero section with scattered orange and yellow product icons, bold headline, orange pill CTA, and product cards with value callouts and corner ribbons](https://pin.fontofweb.com/5322?format=jpg)](https://fudge.design/share/pin-5322)
 
-[Hero section with scattered orange and yellow product icons, bold headline, orange pill CTA, and product cards with value callouts and corner ribbons](https://design.withfudge.com/share/pin-5322)
+[Hero section with scattered orange and yellow product icons, bold headline, orange pill CTA, and product cards with value callouts and corner ribbons](https://fudge.design/share/pin-5322)
 
 ## Overview
 
@@ -154,3 +154,18 @@ The three-column product grid and pricing card row should collapse to single-col
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images, including the hero section, product showcase grid, and pricing tier cards. Navigation, footer, form interactions, checkout flows, and mobile-specific layouts are not represented. Motion behavior for the logo marquee and illustration floating effects are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

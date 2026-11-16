@@ -1,26 +1,26 @@
 # How cabbin.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cabbin.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/cabbin.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with digital clock widget, sticky notes, and primary blue action button on white background](https://pin.fontofweb.com/5256?format=jpg)](https://design.withfudge.com/share/pin-5256)
+[![Hero section with digital clock widget, sticky notes, and primary blue action button on white background](https://pin.fontofweb.com/5256?format=jpg)](https://fudge.design/share/pin-5256)
 
-[Hero section with digital clock widget, sticky notes, and primary blue action button on white background](https://design.withfudge.com/share/pin-5256)
+[Hero section with digital clock widget, sticky notes, and primary blue action button on white background](https://fudge.design/share/pin-5256)
 
-[![Feature grid with four colorful pill badges in blue, coral, pink, and orange on light cards](https://pin.fontofweb.com/5257?format=jpg)](https://design.withfudge.com/share/pin-5257)
+[![Feature grid with four colorful pill badges in blue, coral, pink, and orange on light cards](https://pin.fontofweb.com/5257?format=jpg)](https://fudge.design/share/pin-5257)
 
-[Feature grid with four colorful pill badges in blue, coral, pink, and orange on light cards](https://design.withfudge.com/share/pin-5257)
+[Feature grid with four colorful pill badges in blue, coral, pink, and orange on light cards](https://fudge.design/share/pin-5257)
 
-[![FAQ accordion section with rounded gray items and chevron expand icons](https://pin.fontofweb.com/5258?format=jpg)](https://design.withfudge.com/share/pin-5258)
+[![FAQ accordion section with rounded gray items and chevron expand icons](https://pin.fontofweb.com/5258?format=jpg)](https://fudge.design/share/pin-5258)
 
-[FAQ accordion section with rounded gray items and chevron expand icons](https://design.withfudge.com/share/pin-5258)
+[FAQ accordion section with rounded gray items and chevron expand icons](https://fudge.design/share/pin-5258)
 
-[![Product showcase with 3D floppy disk and vinyl record above gray call-to-action panel](https://pin.fontofweb.com/5259?format=jpg)](https://design.withfudge.com/share/pin-5259)
+[![Product showcase with 3D floppy disk and vinyl record above gray call-to-action panel](https://pin.fontofweb.com/5259?format=jpg)](https://fudge.design/share/pin-5259)
 
-[Product showcase with 3D floppy disk and vinyl record above gray call-to-action panel](https://design.withfudge.com/share/pin-5259)
+[Product showcase with 3D floppy disk and vinyl record above gray call-to-action panel](https://fudge.design/share/pin-5259)
 
 ## Overview
 
@@ -193,3 +193,18 @@ For implementation, consider: maintaining the centered single-column layout unti
 ## Scope note
 
 This guide covers the Cabbin landing page as visible in the supplied images, including the hero section, feature grid, FAQ accordion, and footer. The actual productivity canvas interface, user authentication flows, and any dashboard or room views are not represented. Motion behavior, hover states, and mobile-specific layouts were not captured and should be designed with the established visual principles. Measurements are practical adaptation targets. Verify licensing for Open Runde and Digital Numbers before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

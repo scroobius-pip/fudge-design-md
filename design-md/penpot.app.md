@@ -1,26 +1,26 @@
 # How penpot.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/penpot.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/penpot.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog listing page showing article cards with thumbnail images, titles, excerpts, and author metadata in a two-column layout with sidebar.](https://pin.fontofweb.com/1909?format=jpg)](https://design.withfudge.com/share/pin-1909)
+[![Blog listing page showing article cards with thumbnail images, titles, excerpts, and author metadata in a two-column layout with sidebar.](https://pin.fontofweb.com/1909?format=jpg)](https://fudge.design/share/pin-1909)
 
-[Blog listing page showing article cards with thumbnail images, titles, excerpts, and author metadata in a two-column layout with sidebar.](https://design.withfudge.com/share/pin-1909)
+[Blog listing page showing article cards with thumbnail images, titles, excerpts, and author metadata in a two-column layout with sidebar.](https://fudge.design/share/pin-1909)
 
-[![Blog index hero with Penpot Blog title, featured article grid with large CSS questions card, and sidebar recommendations.](https://pin.fontofweb.com/1908?format=jpg)](https://design.withfudge.com/share/pin-1908)
+[![Blog index hero with Penpot Blog title, featured article grid with large CSS questions card, and sidebar recommendations.](https://pin.fontofweb.com/1908?format=jpg)](https://fudge.design/share/pin-1908)
 
-[Blog index hero with Penpot Blog title, featured article grid with large CSS questions card, and sidebar recommendations.](https://design.withfudge.com/share/pin-1908)
+[Blog index hero with Penpot Blog title, featured article grid with large CSS questions card, and sidebar recommendations.](https://fudge.design/share/pin-1908)
 
-[![Footer section with Penpot logo, multi-column link groups for Product, Company, Resources, Use Cases, and social icons.](https://pin.fontofweb.com/1906?format=jpg)](https://design.withfudge.com/share/pin-1906)
+[![Footer section with Penpot logo, multi-column link groups for Product, Company, Resources, Use Cases, and social icons.](https://pin.fontofweb.com/1906?format=jpg)](https://fudge.design/share/pin-1906)
 
-[Footer section with Penpot logo, multi-column link groups for Product, Company, Resources, Use Cases, and social icons.](https://design.withfudge.com/share/pin-1906)
+[Footer section with Penpot logo, multi-column link groups for Product, Company, Resources, Use Cases, and social icons.](https://fudge.design/share/pin-1906)
 
-[![Dark navy call-to-action banner with white headline and two buttons: mint green primary and white secondary.](https://pin.fontofweb.com/1905?format=jpg)](https://design.withfudge.com/share/pin-1905)
+[![Dark navy call-to-action banner with white headline and two buttons: mint green primary and white secondary.](https://pin.fontofweb.com/1905?format=jpg)](https://fudge.design/share/pin-1905)
 
-[Dark navy call-to-action banner with white headline and two buttons: mint green primary and white secondary.](https://design.withfudge.com/share/pin-1905)
+[Dark navy call-to-action banner with white headline and two buttons: mint green primary and white secondary.](https://fudge.design/share/pin-1905)
 
 ## Overview
 
@@ -158,3 +158,18 @@ Typography scales down proportionally: hero-display should reduce to approximate
 ## Scope note
 
 This guide covers the public marketing and blog surfaces of penpot.app. Measurements are practical adaptation targets. Interactive states, motion design, mobile breakpoints, and the in-application design tool interface are not represented in the supplied images. Verify licensing for Work Sans before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

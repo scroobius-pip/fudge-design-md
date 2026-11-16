@@ -1,26 +1,26 @@
 # How greptile.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/greptile.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/greptile.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with accordion questions, green bracketed label, and Contact Us button on light textured background](https://pin.fontofweb.com/5614?format=jpg)](https://design.withfudge.com/share/pin-5614)
+[![FAQ section with accordion questions, green bracketed label, and Contact Us button on light textured background](https://pin.fontofweb.com/5614?format=jpg)](https://fudge.design/share/pin-5614)
 
-[FAQ section with accordion questions, green bracketed label, and Contact Us button on light textured background](https://design.withfudge.com/share/pin-5614)
+[FAQ section with accordion questions, green bracketed label, and Contact Us button on light textured background](https://fudge.design/share/pin-5614)
 
-[![Pricing page hero with green grid pattern, two-tier pricing cards, and green primary action buttons](https://pin.fontofweb.com/5613?format=jpg)](https://design.withfudge.com/share/pin-5613)
+[![Pricing page hero with green grid pattern, two-tier pricing cards, and green primary action buttons](https://pin.fontofweb.com/5613?format=jpg)](https://fudge.design/share/pin-5613)
 
-[Pricing page hero with green grid pattern, two-tier pricing cards, and green primary action buttons](https://design.withfudge.com/share/pin-5613)
+[Pricing page hero with green grid pattern, two-tier pricing cards, and green primary action buttons](https://fudge.design/share/pin-5613)
 
-[![Homepage hero with centered headline, green and dark action buttons, and structured footer with logo](https://pin.fontofweb.com/5612?format=jpg)](https://design.withfudge.com/share/pin-5612)
+[![Homepage hero with centered headline, green and dark action buttons, and structured footer with logo](https://pin.fontofweb.com/5612?format=jpg)](https://fudge.design/share/pin-5612)
 
-[Homepage hero with centered headline, green and dark action buttons, and structured footer with logo](https://design.withfudge.com/share/pin-5612)
+[Homepage hero with centered headline, green and dark action buttons, and structured footer with logo](https://fudge.design/share/pin-5612)
 
-[![Content grid with green-linked technical report cards, bullet lists, and external link icons on notebook-style background](https://pin.fontofweb.com/5611?format=jpg)](https://design.withfudge.com/share/pin-5611)
+[![Content grid with green-linked technical report cards, bullet lists, and external link icons on notebook-style background](https://pin.fontofweb.com/5611?format=jpg)](https://fudge.design/share/pin-5611)
 
-[Content grid with green-linked technical report cards, bullet lists, and external link icons on notebook-style background](https://design.withfudge.com/share/pin-5611)
+[Content grid with green-linked technical report cards, bullet lists, and external link icons on notebook-style background](https://fudge.design/share/pin-5611)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The notebook-margin sidebar aesthetic should hide or reduce to minimal width on 
 ## Scope note
 
 This guide covers the pricing page, homepage hero, and technical content surfaces visible in the supplied materials. Mobile breakpoints, dark mode, loading states, form validation, and dashboard interfaces are not represented. The notebook-margin decorative elements and grid-pattern backgrounds are adaptation targets based on visible imagery. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

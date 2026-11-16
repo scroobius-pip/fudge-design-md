@@ -1,26 +1,26 @@
 # How bankofamerica.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bankofamerica.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/bankofamerica.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark blue specialist CTA section with white pill buttons for revenue-based segmentation](https://pin.fontofweb.com/1111?format=jpg)](https://design.withfudge.com/share/pin-1111)
+[![Dark blue specialist CTA section with white pill buttons for revenue-based segmentation](https://pin.fontofweb.com/1111?format=jpg)](https://fudge.design/share/pin-1111)
 
-[Dark blue specialist CTA section with white pill buttons for revenue-based segmentation](https://design.withfudge.com/share/pin-1111)
+[Dark blue specialist CTA section with white pill buttons for revenue-based segmentation](https://fudge.design/share/pin-1111)
 
-[![Credit card carousel with product image, headline, description, and navy pill CTA button](https://pin.fontofweb.com/1110?format=jpg)](https://design.withfudge.com/share/pin-1110)
+[![Credit card carousel with product image, headline, description, and navy pill CTA button](https://pin.fontofweb.com/1110?format=jpg)](https://fudge.design/share/pin-1110)
 
-[Credit card carousel with product image, headline, description, and navy pill CTA button](https://design.withfudge.com/share/pin-1110)
+[Credit card carousel with product image, headline, description, and navy pill CTA button](https://fudge.design/share/pin-1110)
 
-[![Multi-column product grid with tabbed navigation, card thumbnails, and navy action buttons](https://pin.fontofweb.com/1109?format=jpg)](https://design.withfudge.com/share/pin-1109)
+[![Multi-column product grid with tabbed navigation, card thumbnails, and navy action buttons](https://pin.fontofweb.com/1109?format=jpg)](https://fudge.design/share/pin-1109)
 
-[Multi-column product grid with tabbed navigation, card thumbnails, and navy action buttons](https://design.withfudge.com/share/pin-1109)
+[Multi-column product grid with tabbed navigation, card thumbnails, and navy action buttons](https://fudge.design/share/pin-1109)
 
-[![Hero banner with login panel overlay, photographic background, and revenue selection radio group](https://pin.fontofweb.com/1108?format=jpg)](https://design.withfudge.com/share/pin-1108)
+[![Hero banner with login panel overlay, photographic background, and revenue selection radio group](https://pin.fontofweb.com/1108?format=jpg)](https://fudge.design/share/pin-1108)
 
-[Hero banner with login panel overlay, photographic background, and revenue selection radio group](https://design.withfudge.com/share/pin-1108)
+[Hero banner with login panel overlay, photographic background, and revenue selection radio group](https://fudge.design/share/pin-1108)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Image handling requires attention: the hero photograph should maintain coverage 
 ## Scope note
 
 This guide covers the business banking landing page and its immediate product promotion surfaces. Consumer banking pages, authenticated account interfaces, mobile applications, and marketing campaign variations are not represented. Motion, hover states, form validation feedback, and responsive breakpoint behavior are not documented from the supplied material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

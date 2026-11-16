@@ -1,22 +1,22 @@
 # How supply.family is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/supply.family-design)
+[Open the live Fudge conversation](https://fudge.design/share/supply.family-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product detail page for 403 Mesapholic serif font showing type specimen, licensing tiers, and purchase panel with dark navigation bar on white canvas](https://pin.fontofweb.com/9536?format=jpg)](https://design.withfudge.com/share/pin-9536)
+[![Product detail page for 403 Mesapholic serif font showing type specimen, licensing tiers, and purchase panel with dark navigation bar on white canvas](https://pin.fontofweb.com/9536?format=jpg)](https://fudge.design/share/pin-9536)
 
-[Product detail page for 403 Mesapholic serif font showing type specimen, licensing tiers, and purchase panel with dark navigation bar on white canvas](https://design.withfudge.com/share/pin-9536)
+[Product detail page for 403 Mesapholic serif font showing type specimen, licensing tiers, and purchase panel with dark navigation bar on white canvas](https://fudge.design/share/pin-9536)
 
-[![Close-up type specimen showing 403 Mesapholic Regular and Italic at large display size with style label in muted gray](https://pin.fontofweb.com/9535?format=jpg)](https://design.withfudge.com/share/pin-9535)
+[![Close-up type specimen showing 403 Mesapholic Regular and Italic at large display size with style label in muted gray](https://pin.fontofweb.com/9535?format=jpg)](https://fudge.design/share/pin-9535)
 
-[Close-up type specimen showing 403 Mesapholic Regular and Italic at large display size with style label in muted gray](https://design.withfudge.com/share/pin-9535)
+[Close-up type specimen showing 403 Mesapholic Regular and Italic at large display size with style label in muted gray](https://fudge.design/share/pin-9535)
 
-[![Homepage hero with dark background, white headline, search bar, and pill-shaped category filter buttons](https://pin.fontofweb.com/9534?format=jpg)](https://design.withfudge.com/share/pin-9534)
+[![Homepage hero with dark background, white headline, search bar, and pill-shaped category filter buttons](https://pin.fontofweb.com/9534?format=jpg)](https://fudge.design/share/pin-9534)
 
-[Homepage hero with dark background, white headline, search bar, and pill-shaped category filter buttons](https://design.withfudge.com/share/pin-9534)
+[Homepage hero with dark background, white headline, search bar, and pill-shaped category filter buttons](https://fudge.design/share/pin-9534)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Font specimen sizes, currently fixed at 80px, should scale down proportionally t
 ## Scope note
 
 This guide covers the homepage hero, global navigation, and font product detail page as visible on desktop. Mockup and graphic product pages, checkout flow, account management, and mobile layouts are not represented in the supplied material. The dynamic font families used for specimen rendering require proper licensing verification for production deployment.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

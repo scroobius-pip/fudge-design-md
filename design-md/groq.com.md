@@ -1,26 +1,26 @@
 # How groq.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/groq.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/groq.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with Groq logo, multi-column link groups, and social icons on warm off-white background](https://pin.fontofweb.com/9482?format=jpg)](https://design.withfudge.com/share/pin-9482)
+[![Footer with Groq logo, multi-column link groups, and social icons on warm off-white background](https://pin.fontofweb.com/9482?format=jpg)](https://fudge.design/share/pin-9482)
 
-[Footer with Groq logo, multi-column link groups, and social icons on warm off-white background](https://design.withfudge.com/share/pin-9482)
+[Footer with Groq logo, multi-column link groups, and social icons on warm off-white background](https://fudge.design/share/pin-9482)
 
-[![Pricing page section with Built-In Tools table and About Our Pricing card with orange CTA](https://pin.fontofweb.com/9481?format=jpg)](https://design.withfudge.com/share/pin-9481)
+[![Pricing page section with Built-In Tools table and About Our Pricing card with orange CTA](https://pin.fontofweb.com/9481?format=jpg)](https://fudge.design/share/pin-9481)
 
-[Pricing page section with Built-In Tools table and About Our Pricing card with orange CTA](https://design.withfudge.com/share/pin-9481)
+[Pricing page section with Built-In Tools table and About Our Pricing card with orange CTA](https://fudge.design/share/pin-9481)
 
-[![Pricing page hero with Unmatched Price Performance heading and Large Language Models data table](https://pin.fontofweb.com/9480?format=jpg)](https://design.withfudge.com/share/pin-9480)
+[![Pricing page hero with Unmatched Price Performance heading and Large Language Models data table](https://pin.fontofweb.com/9480?format=jpg)](https://fudge.design/share/pin-9480)
 
-[Pricing page hero with Unmatched Price Performance heading and Large Language Models data table](https://design.withfudge.com/share/pin-9480)
+[Pricing page hero with Unmatched Price Performance heading and Large Language Models data table](https://fudge.design/share/pin-9480)
 
-[![Homepage dark card featuring Groq chip photography with orange accent and partner logo strip](https://pin.fontofweb.com/9479?format=jpg)](https://design.withfudge.com/share/pin-9479)
+[![Homepage dark card featuring Groq chip photography with orange accent and partner logo strip](https://pin.fontofweb.com/9479?format=jpg)](https://fudge.design/share/pin-9479)
 
-[Homepage dark card featuring Groq chip photography with orange accent and partner logo strip](https://design.withfudge.com/share/pin-9479)
+[Homepage dark card featuring Groq chip photography with orange accent and partner logo strip](https://fudge.design/share/pin-9479)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Navigation collapses to a hamburger menu or simplified list, with the "Start Bui
 ## Scope note
 
 This guide covers the Groq marketing site homepage and pricing page surfaces as captured. Dark mode card treatments, hardware photography presentation, and pricing table structures are represented. Mobile breakpoints, form components, animation specifications, and interior documentation pages are not included. Measurements derive from the exact retained values in the source interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

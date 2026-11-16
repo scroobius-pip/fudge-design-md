@@ -1,26 +1,26 @@
 # How firebase.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firebase.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/firebase.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Firebase Studio logo, four-column link grid, and gradient border on black canvas](https://pin.fontofweb.com/2252?format=jpg)](https://design.withfudge.com/share/pin-2252)
+[![Footer section with Firebase Studio logo, four-column link grid, and gradient border on black canvas](https://pin.fontofweb.com/2252?format=jpg)](https://fudge.design/share/pin-2252)
 
-[Footer section with Firebase Studio logo, four-column link grid, and gradient border on black canvas](https://design.withfudge.com/share/pin-2252)
+[Footer section with Firebase Studio logo, four-column link grid, and gradient border on black canvas](https://fudge.design/share/pin-2252)
 
-[![Hero banner with orange-red gradient background, white display headline, and white pill button](https://pin.fontofweb.com/2251?format=jpg)](https://design.withfudge.com/share/pin-2251)
+[![Hero banner with orange-red gradient background, white display headline, and white pill button](https://pin.fontofweb.com/2251?format=jpg)](https://fudge.design/share/pin-2251)
 
-[Hero banner with orange-red gradient background, white display headline, and white pill button](https://design.withfudge.com/share/pin-2251)
+[Hero banner with orange-red gradient background, white display headline, and white pill button](https://fudge.design/share/pin-2251)
 
-[![Feature section with dark canvas, three UI mockup cards, orange pill button, and gradient glow at bottom](https://pin.fontofweb.com/2250?format=jpg)](https://design.withfudge.com/share/pin-2250)
+[![Feature section with dark canvas, three UI mockup cards, orange pill button, and gradient glow at bottom](https://pin.fontofweb.com/2250?format=jpg)](https://fudge.design/share/pin-2250)
 
-[Feature section with dark canvas, three UI mockup cards, orange pill button, and gradient glow at bottom](https://design.withfudge.com/share/pin-2250)
+[Feature section with dark canvas, three UI mockup cards, orange pill button, and gradient glow at bottom](https://fudge.design/share/pin-2250)
 
-[![Platform showcase with Android and Web tabs, device mockup, and right-aligned text content on dark surface](https://pin.fontofweb.com/2249?format=jpg)](https://design.withfudge.com/share/pin-2249)
+[![Platform showcase with Android and Web tabs, device mockup, and right-aligned text content on dark surface](https://pin.fontofweb.com/2249?format=jpg)](https://fudge.design/share/pin-2249)
 
-[Platform showcase with Android and Web tabs, device mockup, and right-aligned text content on dark surface](https://design.withfudge.com/share/pin-2249)
+[Platform showcase with Android and Web tabs, device mockup, and right-aligned text content on dark surface](https://fudge.design/share/pin-2249)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The gradient hero section should remain full-bleed at all widths, with text padd
 ## Scope note
 
 This guide covers the Firebase Studio marketing landing page visible in the supplied imagery, including the hero banner, feature sections with deployment mockups, platform showcase with device preview, and footer navigation. Measurements are practical adaptation targets. Unseen interior pages, dashboard interfaces, documentation, mobile-specific layouts, motion behavior, and form interactions are not represented. Hover, focus, loading, and error states should be designed to complement the established visual system.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

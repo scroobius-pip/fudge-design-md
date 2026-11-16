@@ -1,26 +1,26 @@
 # How business.reddit.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/business.reddit.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/business.reddit.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer navigation with four-column link groups, Reddit logo, legal links, and social icons on a black background with white text and orange logo accent.](https://pin.fontofweb.com/4581?format=jpg)](https://design.withfudge.com/share/pin-4581)
+[![Footer navigation with four-column link groups, Reddit logo, legal links, and social icons on a black background with white text and orange logo accent.](https://pin.fontofweb.com/4581?format=jpg)](https://fudge.design/share/pin-4581)
 
-[Footer navigation with four-column link groups, Reddit logo, legal links, and social icons on a black background with white text and orange logo accent.](https://design.withfudge.com/share/pin-4581)
+[Footer navigation with four-column link groups, Reddit logo, legal links, and social icons on a black background with white text and orange logo accent.](https://fudge.design/share/pin-4581)
 
-[![Promotional banner with rounded corners featuring a person holding a phone on coral background, orange panel with white headline, and two pill-shaped action buttons.](https://pin.fontofweb.com/4580?format=jpg)](https://design.withfudge.com/share/pin-4580)
+[![Promotional banner with rounded corners featuring a person holding a phone on coral background, orange panel with white headline, and two pill-shaped action buttons.](https://pin.fontofweb.com/4580?format=jpg)](https://fudge.design/share/pin-4580)
 
-[Promotional banner with rounded corners featuring a person holding a phone on coral background, orange panel with white headline, and two pill-shaped action buttons.](https://design.withfudge.com/share/pin-4580)
+[Promotional banner with rounded corners featuring a person holding a phone on coral background, orange panel with white headline, and two pill-shaped action buttons.](https://fudge.design/share/pin-4580)
 
-[![Success Stories carousel section with Oreo case study card, dark image with rocket stat badge, quote text, and orange outlined Read case study button with dot navigation.](https://pin.fontofweb.com/4579?format=jpg)](https://design.withfudge.com/share/pin-4579)
+[![Success Stories carousel section with Oreo case study card, dark image with rocket stat badge, quote text, and orange outlined Read case study button with dot navigation.](https://pin.fontofweb.com/4579?format=jpg)](https://fudge.design/share/pin-4579)
 
-[Success Stories carousel section with Oreo case study card, dark image with rocket stat badge, quote text, and orange outlined Read case study button with dot navigation.](https://design.withfudge.com/share/pin-4579)
+[Success Stories carousel section with Oreo case study card, dark image with rocket stat badge, quote text, and orange outlined Read case study button with dot navigation.](https://fudge.design/share/pin-4579)
 
-[![Community demographics section with topic cards, 100k+ active communities stat on magenta, Reddit post screenshots, and 85% honesty statistic on yellow card.](https://pin.fontofweb.com/4578?format=jpg)](https://design.withfudge.com/share/pin-4578)
+[![Community demographics section with topic cards, 100k+ active communities stat on magenta, Reddit post screenshots, and 85% honesty statistic on yellow card.](https://pin.fontofweb.com/4578?format=jpg)](https://fudge.design/share/pin-4578)
 
-[Community demographics section with topic cards, 100k+ active communities stat on magenta, Reddit post screenshots, and 85% honesty statistic on yellow card.](https://design.withfudge.com/share/pin-4578)
+[Community demographics section with topic cards, 100k+ active communities stat on magenta, Reddit post screenshots, and 85% honesty statistic on yellow card.](https://fudge.design/share/pin-4578)
 
 ## Overview
 
@@ -193,3 +193,18 @@ The rounded card radii should scale down slightly on mobile to prevent excessive
 ## Scope note
 
 This guide covers the Reddit for Business marketing homepage and its visible promotional, statistical, and footer components. Mobile breakpoints, form interactions, interior page templates, motion specifications, and hover state details are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

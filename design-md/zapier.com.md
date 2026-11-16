@@ -1,26 +1,26 @@
 # How zapier.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/zapier.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/zapier.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page announcement banner with white card on textured green background, featuring bold headline and arrow link](https://pin.fontofweb.com/4045?format=jpg)](https://design.withfudge.com/share/pin-4045)
+[![Pricing page announcement banner with white card on textured green background, featuring bold headline and arrow link](https://pin.fontofweb.com/4045?format=jpg)](https://fudge.design/share/pin-4045)
 
-[Pricing page announcement banner with white card on textured green background, featuring bold headline and arrow link](https://design.withfudge.com/share/pin-4045)
+[Pricing page announcement banner with white card on textured green background, featuring bold headline and arrow link](https://fudge.design/share/pin-4045)
 
-[![Interactive task slider with orange pill badge showing 400,000 tasks and dark circular handle on light track](https://pin.fontofweb.com/4044?format=jpg)](https://design.withfudge.com/share/pin-4044)
+[![Interactive task slider with orange pill badge showing 400,000 tasks and dark circular handle on light track](https://pin.fontofweb.com/4044?format=jpg)](https://fudge.design/share/pin-4044)
 
-[Interactive task slider with orange pill badge showing 400,000 tasks and dark circular handle on light track](https://design.withfudge.com/share/pin-4044)
+[Interactive task slider with orange pill badge showing 400,000 tasks and dark circular handle on light track](https://fudge.design/share/pin-4044)
 
-[![Four-column pricing grid with Free, Professional, Team, and Enterprise cards, dark buttons, and feature checklists](https://pin.fontofweb.com/4043?format=jpg)](https://design.withfudge.com/share/pin-4043)
+[![Four-column pricing grid with Free, Professional, Team, and Enterprise cards, dark buttons, and feature checklists](https://pin.fontofweb.com/4043?format=jpg)](https://fudge.design/share/pin-4043)
 
-[Four-column pricing grid with Free, Professional, Team, and Enterprise cards, dark buttons, and feature checklists](https://design.withfudge.com/share/pin-4043)
+[Four-column pricing grid with Free, Professional, Team, and Enterprise cards, dark buttons, and feature checklists](https://fudge.design/share/pin-4043)
 
-[![Notion integrations page with app icon, breadcrumb navigation, category tags, and three-column integration links](https://pin.fontofweb.com/1555?format=jpg)](https://design.withfudge.com/share/pin-1555)
+[![Notion integrations page with app icon, breadcrumb navigation, category tags, and three-column integration links](https://pin.fontofweb.com/1555?format=jpg)](https://fudge.design/share/pin-1555)
 
-[Notion integrations page with app icon, breadcrumb navigation, category tags, and three-column integration links](https://design.withfudge.com/share/pin-1555)
+[Notion integrations page with app icon, breadcrumb navigation, category tags, and three-column integration links](https://fudge.design/share/pin-1555)
 
 ## Overview
 
@@ -193,3 +193,18 @@ The warm canvas and card-based components adapt naturally to dark mode if implem
 ## Scope note
 
 This guide covers the pricing, integration, and homepage surfaces visible in the supplied images. Navigation dropdowns, mobile layouts, form validation states, loading skeletons, and dark mode implementations are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

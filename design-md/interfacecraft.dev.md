@@ -1,26 +1,26 @@
 # How interfacecraft.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/interfacecraft.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/interfacecraft.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark background, large serif title 'Interface Craft', tagline, and colorful floating cards with abstract patterns in orange, cream, blue, green, and dark gray.](https://pin.fontofweb.com/6231?format=jpg)](https://design.withfudge.com/share/pin-6231)
+[![Hero section with dark background, large serif title 'Interface Craft', tagline, and colorful floating cards with abstract patterns in orange, cream, blue, green, and dark gray.](https://pin.fontofweb.com/6231?format=jpg)](https://fudge.design/share/pin-6231)
 
-[Hero section with dark background, large serif title 'Interface Craft', tagline, and colorful floating cards with abstract patterns in orange, cream, blue, green, and dark gray.](https://design.withfudge.com/share/pin-6231)
+[Hero section with dark background, large serif title 'Interface Craft', tagline, and colorful floating cards with abstract patterns in orange, cream, blue, green, and dark gray.](https://fudge.design/share/pin-6231)
 
-[![Author biography section with testimonial quote, membership pricing, and a white pill-shaped button on near-black background.](https://pin.fontofweb.com/6302?format=jpg)](https://design.withfudge.com/share/pin-6302)
+[![Author biography section with testimonial quote, membership pricing, and a white pill-shaped button on near-black background.](https://pin.fontofweb.com/6302?format=jpg)](https://fudge.design/share/pin-6302)
 
-[Author biography section with testimonial quote, membership pricing, and a white pill-shaped button on near-black background.](https://design.withfudge.com/share/pin-6302)
+[Author biography section with testimonial quote, membership pricing, and a white pill-shaped button on near-black background.](https://fudge.design/share/pin-6302)
 
-[![FAQ accordion section with bold question headings and muted body text, followed by membership pricing and pill button.](https://pin.fontofweb.com/6233?format=jpg)](https://design.withfudge.com/share/pin-6233)
+[![FAQ accordion section with bold question headings and muted body text, followed by membership pricing and pill button.](https://pin.fontofweb.com/6233?format=jpg)](https://fudge.design/share/pin-6233)
 
-[FAQ accordion section with bold question headings and muted body text, followed by membership pricing and pill button.](https://design.withfudge.com/share/pin-6233)
+[FAQ accordion section with bold question headings and muted body text, followed by membership pricing and pill button.](https://fudge.design/share/pin-6233)
 
-[![Combined author section and membership area showing testimonial, pricing details, and start of FAQ questions on dark background.](https://pin.fontofweb.com/6232?format=jpg)](https://design.withfudge.com/share/pin-6232)
+[![Combined author section and membership area showing testimonial, pricing details, and start of FAQ questions on dark background.](https://pin.fontofweb.com/6232?format=jpg)](https://fudge.design/share/pin-6232)
 
-[Combined author section and membership area showing testimonial, pricing details, and start of FAQ questions on dark background.](https://design.withfudge.com/share/pin-6232)
+[Combined author section and membership area showing testimonial, pricing details, and start of FAQ questions on dark background.](https://fudge.design/share/pin-6232)
 
 ## Overview
 
@@ -185,3 +185,18 @@ No mobile-specific breakpoints are visible in the source material. Implementatio
 ## Scope note
 
 This guide covers the landing page surface for Interface Craft, including the hero, author biography, membership conversion, and FAQ sections. Navigation, footer, interior pages, and any checkout or authentication flows are not represented. Motion behavior, hover states, and mobile-specific layouts are not documented and should be designed to match the system's restrained character.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

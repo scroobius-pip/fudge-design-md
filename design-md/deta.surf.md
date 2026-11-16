@@ -1,26 +1,26 @@
 # How deta.surf is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/deta.surf-design)
+[Open the live Fudge conversation](https://fudge.design/share/deta.surf-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing with illustrated paper airplane against a sky-blue gradient, featuring a centered serif headline and a blue pill-shaped download button.](https://pin.fontofweb.com/4137?format=jpg)](https://design.withfudge.com/share/pin-4137)
+[![Hero landing with illustrated paper airplane against a sky-blue gradient, featuring a centered serif headline and a blue pill-shaped download button.](https://pin.fontofweb.com/4137?format=jpg)](https://fudge.design/share/pin-4137)
 
-[Hero landing with illustrated paper airplane against a sky-blue gradient, featuring a centered serif headline and a blue pill-shaped download button.](https://design.withfudge.com/share/pin-4137)
+[Hero landing with illustrated paper airplane against a sky-blue gradient, featuring a centered serif headline and a blue pill-shaped download button.](https://fudge.design/share/pin-4137)
 
-[![Feature showcase with a bright blue background panel, white serif heading, and a browser-window mockup displaying split-pane note-taking and web reading.](https://pin.fontofweb.com/4136?format=jpg)](https://design.withfudge.com/share/pin-4136)
+[![Feature showcase with a bright blue background panel, white serif heading, and a browser-window mockup displaying split-pane note-taking and web reading.](https://pin.fontofweb.com/4136?format=jpg)](https://fudge.design/share/pin-4136)
 
-[Feature showcase with a bright blue background panel, white serif heading, and a browser-window mockup displaying split-pane note-taking and web reading.](https://design.withfudge.com/share/pin-4136)
+[Feature showcase with a bright blue background panel, white serif heading, and a browser-window mockup displaying split-pane note-taking and web reading.](https://fudge.design/share/pin-4136)
 
-[![Minimal closing section with serif tagline, blue pill button, and decorative sunflower grass border illustration on clean white canvas.](https://pin.fontofweb.com/4135?format=jpg)](https://design.withfudge.com/share/pin-4135)
+[![Minimal closing section with serif tagline, blue pill button, and decorative sunflower grass border illustration on clean white canvas.](https://pin.fontofweb.com/4135?format=jpg)](https://fudge.design/share/pin-4135)
 
-[Minimal closing section with serif tagline, blue pill button, and decorative sunflower grass border illustration on clean white canvas.](https://design.withfudge.com/share/pin-4135)
+[Minimal closing section with serif tagline, blue pill button, and decorative sunflower grass border illustration on clean white canvas.](https://fudge.design/share/pin-4135)
 
-[![Six-card feature grid with rounded thumbnails, serif section heading, and muted body text describing notebook capabilities.](https://pin.fontofweb.com/4134?format=jpg)](https://design.withfudge.com/share/pin-4134)
+[![Six-card feature grid with rounded thumbnails, serif section heading, and muted body text describing notebook capabilities.](https://pin.fontofweb.com/4134?format=jpg)](https://fudge.design/share/pin-4134)
 
-[Six-card feature grid with rounded thumbnails, serif section heading, and muted body text describing notebook capabilities.](https://design.withfudge.com/share/pin-4134)
+[Six-card feature grid with rounded thumbnails, serif section heading, and muted body text describing notebook capabilities.](https://fudge.design/share/pin-4134)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Button sizing remains consistent across breakpoints, but full-width treatment on
 ## Scope note
 
 This guide covers the Deta Surf marketing landing page as captured, including the hero, feature showcase, feature grid, and closing sections. Mobile layouts, dark mode implementation, loading states, and application interface details beyond the marketing site are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

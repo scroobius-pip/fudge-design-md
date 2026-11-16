@@ -1,26 +1,26 @@
 # How us.dollarshaveclub.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/us.dollarshaveclub.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/us.dollarshaveclub.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark navy footer with newsletter signup, orange CTA button, and social icons](https://pin.fontofweb.com/3013?format=jpg)](https://design.withfudge.com/share/pin-3013)
+[![Dark navy footer with newsletter signup, orange CTA button, and social icons](https://pin.fontofweb.com/3013?format=jpg)](https://fudge.design/share/pin-3013)
 
-[Dark navy footer with newsletter signup, orange CTA button, and social icons](https://design.withfudge.com/share/pin-3013)
+[Dark navy footer with newsletter signup, orange CTA button, and social icons](https://fudge.design/share/pin-3013)
 
-[![Sky-blue press section with white headline and four publication logos](https://pin.fontofweb.com/3012?format=jpg)](https://design.withfudge.com/share/pin-3012)
+[![Sky-blue press section with white headline and four publication logos](https://pin.fontofweb.com/3012?format=jpg)](https://fudge.design/share/pin-3012)
 
-[Sky-blue press section with white headline and four publication logos](https://design.withfudge.com/share/pin-3012)
+[Sky-blue press section with white headline and four publication logos](https://fudge.design/share/pin-3012)
 
-[![Product carousel with white background, orange action buttons, and pagination dots](https://pin.fontofweb.com/3011?format=jpg)](https://design.withfudge.com/share/pin-3011)
+[![Product carousel with white background, orange action buttons, and pagination dots](https://pin.fontofweb.com/3011?format=jpg)](https://fudge.design/share/pin-3011)
 
-[Product carousel with white background, orange action buttons, and pagination dots](https://design.withfudge.com/share/pin-3011)
+[Product carousel with white background, orange action buttons, and pagination dots](https://fudge.design/share/pin-3011)
 
-[![Hero banner with blue grid background, shaving photography, and orange CTA](https://pin.fontofweb.com/3010?format=jpg)](https://design.withfudge.com/share/pin-3010)
+[![Hero banner with blue grid background, shaving photography, and orange CTA](https://pin.fontofweb.com/3010?format=jpg)](https://fudge.design/share/pin-3010)
 
-[Hero banner with blue grid background, shaving photography, and orange CTA](https://design.withfudge.com/share/pin-3010)
+[Hero banner with blue grid background, shaving photography, and orange CTA](https://fudge.design/share/pin-3010)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Touch targets for carousel arrows and pagination dots should maintain minimum 44
 ## Scope note
 
 This guide covers the homepage surface visible in supplied imagery: hero, product carousel, press recognition, and footer with newsletter capture. Navigation header, product detail pages, checkout flow, account interfaces, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

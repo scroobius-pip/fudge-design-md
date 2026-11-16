@@ -1,22 +1,22 @@
 # How ginkgo.bio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ginkgo.bio-design)
+[Open the live Fudge conversation](https://fudge.design/share/ginkgo.bio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with email capture form, three-column link grid, and social icons on near-black background](https://pin.fontofweb.com/10516?format=jpg)](https://design.withfudge.com/share/pin-10516)
+[![Dark footer with email capture form, three-column link grid, and social icons on near-black background](https://pin.fontofweb.com/10516?format=jpg)](https://fudge.design/share/pin-10516)
 
-[Dark footer with email capture form, three-column link grid, and social icons on near-black background](https://design.withfudge.com/share/pin-10516)
+[Dark footer with email capture form, three-column link grid, and social icons on near-black background](https://fudge.design/share/pin-10516)
 
-[![Dark footer variant showing identical layout with slightly different vertical spacing and link arrangement](https://pin.fontofweb.com/10515?format=jpg)](https://design.withfudge.com/share/pin-10515)
+[![Dark footer variant showing identical layout with slightly different vertical spacing and link arrangement](https://pin.fontofweb.com/10515?format=jpg)](https://fudge.design/share/pin-10515)
 
-[Dark footer variant showing identical layout with slightly different vertical spacing and link arrangement](https://design.withfudge.com/share/pin-10515)
+[Dark footer variant showing identical layout with slightly different vertical spacing and link arrangement](https://fudge.design/share/pin-10515)
 
-[![Light split-view CTA section with serif headline, bordered form panel, and navy submit button on warm off-white](https://pin.fontofweb.com/10514?format=jpg)](https://design.withfudge.com/share/pin-10514)
+[![Light split-view CTA section with serif headline, bordered form panel, and navy submit button on warm off-white](https://pin.fontofweb.com/10514?format=jpg)](https://fudge.design/share/pin-10514)
 
-[Light split-view CTA section with serif headline, bordered form panel, and navy submit button on warm off-white](https://design.withfudge.com/share/pin-10514)
+[Light split-view CTA section with serif headline, bordered form panel, and navy submit button on warm off-white](https://fudge.design/share/pin-10514)
 
 ## Overview
 
@@ -164,3 +164,7 @@ The split-view CTA section should stack vertically on narrower viewports, with t
 ## Scope note
 
 This guide covers the Hardware product page's footer, CTA, and form components in both light and dark modes. Navigation, hero sections, product imagery carousels, and mobile-specific layouts are not represented in the supplied material. Measurements are drawn from the exact values provided.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

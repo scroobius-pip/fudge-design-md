@@ -1,26 +1,26 @@
 # How labs.chaingpt.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/labs.chaingpt.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/labs.chaingpt.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Team member modal overlay with biography text, black-and-white portrait cards, and orange accent markers on a light gray grid background](https://pin.fontofweb.com/5866?format=jpg)](https://design.withfudge.com/share/pin-5866)
+[![Team member modal overlay with biography text, black-and-white portrait cards, and orange accent markers on a light gray grid background](https://pin.fontofweb.com/5866?format=jpg)](https://fudge.design/share/pin-5866)
 
-[Team member modal overlay with biography text, black-and-white portrait cards, and orange accent markers on a light gray grid background](https://design.withfudge.com/share/pin-5866)
+[Team member modal overlay with biography text, black-and-white portrait cards, and orange accent markers on a light gray grid background](https://fudge.design/share/pin-5866)
 
-[![Footer section with oversized LABS wordmark in black custom typeface, orange corner squares, and monospace copyright text on pale gray](https://pin.fontofweb.com/354?format=jpg)](https://design.withfudge.com/share/pin-354)
+[![Footer section with oversized LABS wordmark in black custom typeface, orange corner squares, and monospace copyright text on pale gray](https://pin.fontofweb.com/354?format=jpg)](https://fudge.design/share/pin-354)
 
-[Footer section with oversized LABS wordmark in black custom typeface, orange corner squares, and monospace copyright text on pale gray](https://design.withfudge.com/share/pin-354)
+[Footer section with oversized LABS wordmark in black custom typeface, orange corner squares, and monospace copyright text on pale gray](https://fudge.design/share/pin-354)
 
-[![Multi-step application form with numbered fields, outlined step icons, and selection pills for Funding, Acceleration, and Incubation options](https://pin.fontofweb.com/353?format=jpg)](https://design.withfudge.com/share/pin-353)
+[![Multi-step application form with numbered fields, outlined step icons, and selection pills for Funding, Acceleration, and Incubation options](https://pin.fontofweb.com/353?format=jpg)](https://fudge.design/share/pin-353)
 
-[Multi-step application form with numbered fields, outlined step icons, and selection pills for Funding, Acceleration, and Incubation options](https://design.withfudge.com/share/pin-353)
+[Multi-step application form with numbered fields, outlined step icons, and selection pills for Funding, Acceleration, and Incubation options](https://fudge.design/share/pin-353)
 
-[![Full footer grid with four-column link groups, social links with diagonal arrows, and massive LABS letterforms spanning the bottom edge](https://pin.fontofweb.com/352?format=jpg)](https://design.withfudge.com/share/pin-352)
+[![Full footer grid with four-column link groups, social links with diagonal arrows, and massive LABS letterforms spanning the bottom edge](https://pin.fontofweb.com/352?format=jpg)](https://fudge.design/share/pin-352)
 
-[Full footer grid with four-column link groups, social links with diagonal arrows, and massive LABS letterforms spanning the bottom edge](https://design.withfudge.com/share/pin-352)
+[Full footer grid with four-column link groups, social links with diagonal arrows, and massive LABS letterforms spanning the bottom edge](https://fudge.design/share/pin-352)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The visible grid lines may become distracting on mobile; consider hiding them be
 ## Scope note
 
 This guide covers the homepage and application form surfaces visible in the supplied images. Interior pages, mobile breakpoints, motion behavior, hover states, loading indicators, and form validation styling are not represented. Measurements are practical adaptation targets derived from the visible grid and type scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

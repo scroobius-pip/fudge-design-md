@@ -1,18 +1,18 @@
 # How dailymotion.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dailymotion.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/dailymotion.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Video grid layout with dark thumbnail cards, sidebar navigation, and pink login button on Dailymotion movies category page](https://pin.fontofweb.com/3577?format=jpg)](https://design.withfudge.com/share/pin-3577)
+[![Video grid layout with dark thumbnail cards, sidebar navigation, and pink login button on Dailymotion movies category page](https://pin.fontofweb.com/3577?format=jpg)](https://fudge.design/share/pin-3577)
 
-[Video grid layout with dark thumbnail cards, sidebar navigation, and pink login button on Dailymotion movies category page](https://design.withfudge.com/share/pin-3577)
+[Video grid layout with dark thumbnail cards, sidebar navigation, and pink login button on Dailymotion movies category page](https://fudge.design/share/pin-3577)
 
-[![Collapsed sidebar navigation showing category icons, popular channels list, and footer links on Dailymotion homepage](https://pin.fontofweb.com/3576?format=jpg)](https://design.withfudge.com/share/pin-3576)
+[![Collapsed sidebar navigation showing category icons, popular channels list, and footer links on Dailymotion homepage](https://pin.fontofweb.com/3576?format=jpg)](https://fudge.design/share/pin-3576)
 
-[Collapsed sidebar navigation showing category icons, popular channels list, and footer links on Dailymotion homepage](https://design.withfudge.com/share/pin-3576)
+[Collapsed sidebar navigation showing category icons, popular channels list, and footer links on Dailymotion homepage](https://fudge.design/share/pin-3576)
 
 ## Overview
 
@@ -156,3 +156,18 @@ Touch targets should maintain minimum 44 by 44 pixel dimensions for all interact
 ## Scope note
 
 This guide covers the video browsing grid and sidebar navigation visible on the supplied homepage and category page surfaces. Player page chrome, upload flows, user profiles, settings panels, and mobile-specific layouts are not represented. Motion design, hover states, and loading skeletons are not documented from still images. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Footer](/share/designs-with-section.structural.footer)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

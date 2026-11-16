@@ -1,26 +1,26 @@
 # How proto.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/proto.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/proto.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up form with centered heading, split name fields, email and password inputs, checkboxes, and a prominent dark-blue submit button on a white background.](https://pin.fontofweb.com/2948?format=jpg)](https://design.withfudge.com/share/pin-2948)
+[![Sign-up form with centered heading, split name fields, email and password inputs, checkboxes, and a prominent dark-blue submit button on a white background.](https://pin.fontofweb.com/2948?format=jpg)](https://fudge.design/share/pin-2948)
 
-[Sign-up form with centered heading, split name fields, email and password inputs, checkboxes, and a prominent dark-blue submit button on a white background.](https://design.withfudge.com/share/pin-2948)
+[Sign-up form with centered heading, split name fields, email and password inputs, checkboxes, and a prominent dark-blue submit button on a white background.](https://fudge.design/share/pin-2948)
 
-[![Sign-in page with a split layout featuring a light-gray left panel with the proto.io logo and decorative circles, and a white right panel with the centered sign-in form.](https://pin.fontofweb.com/2947?format=jpg)](https://design.withfudge.com/share/pin-2947)
+[![Sign-in page with a split layout featuring a light-gray left panel with the proto.io logo and decorative circles, and a white right panel with the centered sign-in form.](https://pin.fontofweb.com/2947?format=jpg)](https://fudge.design/share/pin-2947)
 
-[Sign-in page with a split layout featuring a light-gray left panel with the proto.io logo and decorative circles, and a white right panel with the centered sign-in form.](https://design.withfudge.com/share/pin-2947)
+[Sign-in page with a split layout featuring a light-gray left panel with the proto.io logo and decorative circles, and a white right panel with the centered sign-in form.](https://fudge.design/share/pin-2947)
 
-[![Footer section with five-column link grid, email subscription input with dark-blue subscribe button, social media icons, Proddy Awards badge, and bottom bar with copyright and](https://pin.fontofweb.com/2946?format=jpg)](https://design.withfudge.com/share/pin-2946)
+[![Footer section with five-column link grid, email subscription input with dark-blue subscribe button, social media icons, Proddy Awards badge, and bottom bar with copyright and](https://pin.fontofweb.com/2946?format=jpg)](https://fudge.design/share/pin-2946)
 
-[Footer section with five-column link grid, email subscription input with dark-blue subscribe button, social media icons, Proddy Awards badge, and bottom bar with copyright and](https://design.withfudge.com/share/pin-2946)
+[Footer section with five-column link grid, email subscription input with dark-blue subscribe button, social media icons, Proddy Awards badge, and bottom bar with copyright and](https://fudge.design/share/pin-2946)
 
-[![Testimonial carousel with the IDEO logo, centered quote text, circular avatar, attribution name and title, and light circular navigation arrows on either side.](https://pin.fontofweb.com/2945?format=jpg)](https://design.withfudge.com/share/pin-2945)
+[![Testimonial carousel with the IDEO logo, centered quote text, circular avatar, attribution name and title, and light circular navigation arrows on either side.](https://pin.fontofweb.com/2945?format=jpg)](https://fudge.design/share/pin-2945)
 
-[Testimonial carousel with the IDEO logo, centered quote text, circular avatar, attribution name and title, and light circular navigation arrows on either side.](https://design.withfudge.com/share/pin-2945)
+[Testimonial carousel with the IDEO logo, centered quote text, circular avatar, attribution name and title, and light circular navigation arrows on either side.](https://fudge.design/share/pin-2945)
 
 ## Overview
 
@@ -177,3 +177,18 @@ The authentication split-panel layout should stack vertically on narrow viewport
 ## Scope note
 
 This guide covers the marketing homepage, authentication pages, and footer system visible in the supplied material. It does not include the product editor interface, pricing tables, documentation pages, or mobile-specific layouts. Measurements are practical adaptation targets derived from the visible interface. No motion, hover states, or dark mode specifications are represented. Verify licensing for the Inter family before production use; the icon font requires separate licensing review.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

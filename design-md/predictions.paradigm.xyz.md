@@ -1,22 +1,22 @@
 # How predictions.paradigm.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/predictions.paradigm.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/predictions.paradigm.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Header with Paradigm logo, page title with underlined 'Open Interest', and segmented control for Volume versus Open Interest with hamburger menu.](https://pin.fontofweb.com/6296?format=jpg)](https://design.withfudge.com/share/pin-6296)
+[![Header with Paradigm logo, page title with underlined 'Open Interest', and segmented control for Volume versus Open Interest with hamburger menu.](https://pin.fontofweb.com/6296?format=jpg)](https://fudge.design/share/pin-6296)
 
-[Header with Paradigm logo, page title with underlined 'Open Interest', and segmented control for Volume versus Open Interest with hamburger menu.](https://design.withfudge.com/share/pin-6296)
+[Header with Paradigm logo, page title with underlined 'Open Interest', and segmented control for Volume versus Open Interest with hamburger menu.](https://fudge.design/share/pin-6296)
 
-[![Timeframe selector row with Latest, 1w, 2w, 1m, 6m, 1y, YTD, All buttons and date picker showing FEB 4 2026 above a stacked area chart with Kalshi and Polymarket data.](https://pin.fontofweb.com/6295?format=jpg)](https://design.withfudge.com/share/pin-6295)
+[![Timeframe selector row with Latest, 1w, 2w, 1m, 6m, 1y, YTD, All buttons and date picker showing FEB 4 2026 above a stacked area chart with Kalshi and Polymarket data.](https://pin.fontofweb.com/6295?format=jpg)](https://fudge.design/share/pin-6295)
 
-[Timeframe selector row with Latest, 1w, 2w, 1m, 6m, 1y, YTD, All buttons and date picker showing FEB 4 2026 above a stacked area chart with Kalshi and Polymarket data.](https://design.withfudge.com/share/pin-6295)
+[Timeframe selector row with Latest, 1w, 2w, 1m, 6m, 1y, YTD, All buttons and date picker showing FEB 4 2026 above a stacked area chart with Kalshi and Polymarket data.](https://fudge.design/share/pin-6295)
 
-[![Full treemap visualization showing hierarchical prediction market categories with Politics, Sports, Crypto, Culture, Economics, and STEM sections with nested subcategories and](https://pin.fontofweb.com/6294?format=jpg)](https://design.withfudge.com/share/pin-6294)
+[![Full treemap visualization showing hierarchical prediction market categories with Politics, Sports, Crypto, Culture, Economics, and STEM sections with nested subcategories and](https://pin.fontofweb.com/6294?format=jpg)](https://fudge.design/share/pin-6294)
 
-[Full treemap visualization showing hierarchical prediction market categories with Politics, Sports, Crypto, Culture, Economics, and STEM sections with nested subcategories and](https://design.withfudge.com/share/pin-6294)
+[Full treemap visualization showing hierarchical prediction market categories with Politics, Sports, Crypto, Culture, Economics, and STEM sections with nested subcategories and](https://fudge.design/share/pin-6294)
 
 ## Overview
 
@@ -162,3 +162,18 @@ Chart tooltips and treemap cell labels should remain legible down to 11px equiva
 ## Scope note
 
 This guide covers the prediction markets dashboard at predictions.paradigm.xyz, including the treemap visualization, time-series chart, and associated control surfaces. Mobile layouts, animation transitions between Volume and Open Interest views, hover states for treemap cells, data loading skeletons, and error states for failed market data are not represented in the available material. The Klim Type Foundry family appears with a desktop licensing restriction in source files; verify licensing before production use.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

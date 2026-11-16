@@ -1,26 +1,26 @@
 # How ground.news is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ground.news-design)
+[Open the live Fudge conversation](https://fudge.design/share/ground.news-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Ground News homepage hero with dark textured background, headline 'See every side of every news story', and news card overlay showing political bias spectrum](https://pin.fontofweb.com/8644?format=jpg)](https://design.withfudge.com/share/pin-8644)
+[![Ground News homepage hero with dark textured background, headline 'See every side of every news story', and news card overlay showing political bias spectrum](https://pin.fontofweb.com/8644?format=jpg)](https://fudge.design/share/pin-8644)
 
-[Ground News homepage hero with dark textured background, headline 'See every side of every news story', and news card overlay showing political bias spectrum](https://design.withfudge.com/share/pin-8644)
+[Ground News homepage hero with dark textured background, headline 'See every side of every news story', and news card overlay showing political bias spectrum](https://fudge.design/share/pin-8644)
 
-[![Gift Subscriptions page section with dark background, halftone gift box illustration, and tan accent buttons for supporter calls-to-action](https://pin.fontofweb.com/8643?format=jpg)](https://design.withfudge.com/share/pin-8643)
+[![Gift Subscriptions page section with dark background, halftone gift box illustration, and tan accent buttons for supporter calls-to-action](https://pin.fontofweb.com/8643?format=jpg)](https://fudge.design/share/pin-8643)
 
-[Gift Subscriptions page section with dark background, halftone gift box illustration, and tan accent buttons for supporter calls-to-action](https://design.withfudge.com/share/pin-8643)
+[Gift Subscriptions page section with dark background, halftone gift box illustration, and tan accent buttons for supporter calls-to-action](https://fudge.design/share/pin-8643)
 
-[![Group Subscriptions section with newspaper collage illustration on dark background transitioning to light FAQ area with dark accordion cards](https://pin.fontofweb.com/8642?format=jpg)](https://design.withfudge.com/share/pin-8642)
+[![Group Subscriptions section with newspaper collage illustration on dark background transitioning to light FAQ area with dark accordion cards](https://pin.fontofweb.com/8642?format=jpg)](https://fudge.design/share/pin-8642)
 
-[Group Subscriptions section with newspaper collage illustration on dark background transitioning to light FAQ area with dark accordion cards](https://design.withfudge.com/share/pin-8642)
+[Group Subscriptions section with newspaper collage illustration on dark background transitioning to light FAQ area with dark accordion cards](https://fudge.design/share/pin-8642)
 
-[![Pricing comparison table with four columns showing Vantage, Premium, and Pro tiers with checkmarks, feature limits, and dark call-to-action buttons](https://pin.fontofweb.com/8641?format=jpg)](https://design.withfudge.com/share/pin-8641)
+[![Pricing comparison table with four columns showing Vantage, Premium, and Pro tiers with checkmarks, feature limits, and dark call-to-action buttons](https://pin.fontofweb.com/8641?format=jpg)](https://fudge.design/share/pin-8641)
 
-[Pricing comparison table with four columns showing Vantage, Premium, and Pro tiers with checkmarks, feature limits, and dark call-to-action buttons](https://design.withfudge.com/share/pin-8641)
+[Pricing comparison table with four columns showing Vantage, Premium, and Pro tiers with checkmarks, feature limits, and dark call-to-action buttons](https://fudge.design/share/pin-8641)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Text scaling should respect user preferences, with display sizes reducing propor
 ## Scope note
 
 This guide covers the Ground News homepage and subscription flow surfaces. It does not include the article reading experience, account dashboard, mobile application interfaces, or email newsletter templates. Interactive states such as hover, active, and loading are not documented from the available material. Measurements reflect the desktop viewport widths captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

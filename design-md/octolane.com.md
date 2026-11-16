@@ -1,22 +1,22 @@
 # How octolane.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/octolane.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/octolane.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-in page with centered card, Google OAuth button, email and password fields, and dark submit button on white background](https://pin.fontofweb.com/3155?format=jpg)](https://design.withfudge.com/share/pin-3155)
+[![Sign-in page with centered card, Google OAuth button, email and password fields, and dark submit button on white background](https://pin.fontofweb.com/3155?format=jpg)](https://fudge.design/share/pin-3155)
 
-[Sign-in page with centered card, Google OAuth button, email and password fields, and dark submit button on white background](https://design.withfudge.com/share/pin-3155)
+[Sign-in page with centered card, Google OAuth button, email and password fields, and dark submit button on white background](https://fudge.design/share/pin-3155)
 
-[![Footer section with multi-column link grid, Paul Graham quote, Y Combinator badge, and operational status indicator](https://pin.fontofweb.com/3154?format=jpg)](https://design.withfudge.com/share/pin-3154)
+[![Footer section with multi-column link grid, Paul Graham quote, Y Combinator badge, and operational status indicator](https://pin.fontofweb.com/3154?format=jpg)](https://fudge.design/share/pin-3154)
 
-[Footer section with multi-column link grid, Paul Graham quote, Y Combinator badge, and operational status indicator](https://design.withfudge.com/share/pin-3154)
+[Footer section with multi-column link grid, Paul Graham quote, Y Combinator badge, and operational status indicator](https://fudge.design/share/pin-3154)
 
-[![System of Action Manifesto page with cream background, purple accent heading, and editorial body typography](https://pin.fontofweb.com/3153?format=jpg)](https://design.withfudge.com/share/pin-3153)
+[![System of Action Manifesto page with cream background, purple accent heading, and editorial body typography](https://pin.fontofweb.com/3153?format=jpg)](https://fudge.design/share/pin-3153)
 
-[System of Action Manifesto page with cream background, purple accent heading, and editorial body typography](https://design.withfudge.com/share/pin-3153)
+[System of Action Manifesto page with cream background, purple accent heading, and editorial body typography](https://fudge.design/share/pin-3153)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Typography should scale down modestly: hero-display may reduce to 1.5rem on mobi
 ## Scope note
 
 This guide covers the authentication page, homepage footer, and manifesto page surfaces visible in the supplied images. Mobile breakpoints, navigation header, dashboard interfaces, hover and focus states, loading patterns, and dark mode are not represented. Measurements are practical adaptation targets derived from visible proportions and the 4px relative unit grid.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How unicorn.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/unicorn.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/unicorn.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display typography, aurora gradient background, and centered call-to-action on near-black canvas](https://pin.fontofweb.com/8329?format=jpg)](https://design.withfudge.com/share/pin-8329)
+[![Hero section with large display typography, aurora gradient background, and centered call-to-action on near-black canvas](https://pin.fontofweb.com/8329?format=jpg)](https://fudge.design/share/pin-8329)
 
-[Hero section with large display typography, aurora gradient background, and centered call-to-action on near-black canvas](https://design.withfudge.com/share/pin-8329)
+[Hero section with large display typography, aurora gradient background, and centered call-to-action on near-black canvas](https://fudge.design/share/pin-8329)
 
-[![Inspiration gallery with masonry grid of WebGL effect thumbnails, filter pills, and dark immersive browsing surface](https://pin.fontofweb.com/8332?format=jpg)](https://design.withfudge.com/share/pin-8332)
+[![Inspiration gallery with masonry grid of WebGL effect thumbnails, filter pills, and dark immersive browsing surface](https://pin.fontofweb.com/8332?format=jpg)](https://fudge.design/share/pin-8332)
 
-[Inspiration gallery with masonry grid of WebGL effect thumbnails, filter pills, and dark immersive browsing surface](https://design.withfudge.com/share/pin-8332)
+[Inspiration gallery with masonry grid of WebGL effect thumbnails, filter pills, and dark immersive browsing surface](https://fudge.design/share/pin-8332)
 
-[![Pricing cards with glowing purple border treatment, tier comparison, and feature checklist layout](https://pin.fontofweb.com/8330?format=jpg)](https://design.withfudge.com/share/pin-8330)
+[![Pricing cards with glowing purple border treatment, tier comparison, and feature checklist layout](https://pin.fontofweb.com/8330?format=jpg)](https://fudge.design/share/pin-8330)
 
-[Pricing cards with glowing purple border treatment, tier comparison, and feature checklist layout](https://design.withfudge.com/share/pin-8330)
+[Pricing cards with glowing purple border treatment, tier comparison, and feature checklist layout](https://fudge.design/share/pin-8330)
 
-[![Footer with centered signup prompt, aurora gradient accent, and multi-column link navigation](https://pin.fontofweb.com/8331?format=jpg)](https://design.withfudge.com/share/pin-8331)
+[![Footer with centered signup prompt, aurora gradient accent, and multi-column link navigation](https://pin.fontofweb.com/8331?format=jpg)](https://fudge.design/share/pin-8331)
 
-[Footer with centered signup prompt, aurora gradient accent, and multi-column link navigation](https://design.withfudge.com/share/pin-8331)
+[Footer with centered signup prompt, aurora gradient accent, and multi-column link navigation](https://fudge.design/share/pin-8331)
 
 ## Overview
 
@@ -215,3 +215,18 @@ Navigation should collapse to a hamburger menu or simplified logo-plus-CTA patte
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage hero, inspiration gallery, pricing comparison, and footer navigation. The WebGL editor interface shown in the hero screenshot is not documented in component detail. Mobile breakpoints, animation specifications, form validation states, and account dashboard interfaces are not included. The design facts identify Sprat-Condensed Medium as a distinct font family in the source.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

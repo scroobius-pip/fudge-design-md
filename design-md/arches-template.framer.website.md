@@ -1,18 +1,18 @@
 # How arches-template.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/arches-template.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/arches-template.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About section with split layout showing architectural photography, statistics callouts, and a pill-shaped About us button on white canvas](https://pin.fontofweb.com/5579?format=jpg)](https://design.withfudge.com/share/pin-5579)
+[![About section with split layout showing architectural photography, statistics callouts, and a pill-shaped About us button on white canvas](https://pin.fontofweb.com/5579?format=jpg)](https://fudge.design/share/pin-5579)
 
-[About section with split layout showing architectural photography, statistics callouts, and a pill-shaped About us button on white canvas](https://design.withfudge.com/share/pin-5579)
+[About section with split layout showing architectural photography, statistics callouts, and a pill-shaped About us button on white canvas](https://fudge.design/share/pin-5579)
 
-[![Full-bleed hero with dark interior photography, large white display headline, and subtle left-edge accent line](https://pin.fontofweb.com/5578?format=jpg)](https://design.withfudge.com/share/pin-5578)
+[![Full-bleed hero with dark interior photography, large white display headline, and subtle left-edge accent line](https://pin.fontofweb.com/5578?format=jpg)](https://fudge.design/share/pin-5578)
 
-[Full-bleed hero with dark interior photography, large white display headline, and subtle left-edge accent line](https://design.withfudge.com/share/pin-5578)
+[Full-bleed hero with dark interior photography, large white display headline, and subtle left-edge accent line](https://fudge.design/share/pin-5578)
 
 ## Overview
 
@@ -153,3 +153,18 @@ At reduced viewport widths, the split layouts should stack vertically with text 
 ## Scope note
 
 This guide covers the homepage hero and about section surfaces visible in the supplied images. Interior pages, project detail templates, contact forms, footer content, and mobile-specific layouts are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

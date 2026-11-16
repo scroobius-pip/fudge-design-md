@@ -1,26 +1,26 @@
 # How shopify.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shopify.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/shopify.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Large typographic list of remote office locations with red accent headline and embedded studio photograph](https://pin.fontofweb.com/8597?format=jpg)](https://design.withfudge.com/share/pin-8597)
+[![Large typographic list of remote office locations with red accent headline and embedded studio photograph](https://pin.fontofweb.com/8597?format=jpg)](https://fudge.design/share/pin-8597)
 
-[Large typographic list of remote office locations with red accent headline and embedded studio photograph](https://design.withfudge.com/share/pin-8597)
+[Large typographic list of remote office locations with red accent headline and embedded studio photograph](https://fudge.design/share/pin-8597)
 
-[![Grid of creative work samples with neon pink typography, classical artwork, and mobile app interfaces](https://pin.fontofweb.com/8590?format=jpg)](https://design.withfudge.com/share/pin-8590)
+[![Grid of creative work samples with neon pink typography, classical artwork, and mobile app interfaces](https://pin.fontofweb.com/8590?format=jpg)](https://fudge.design/share/pin-8590)
 
-[Grid of creative work samples with neon pink typography, classical artwork, and mobile app interfaces](https://design.withfudge.com/share/pin-8590)
+[Grid of creative work samples with neon pink typography, classical artwork, and mobile app interfaces](https://fudge.design/share/pin-8590)
 
-[![Hero section with massive black display type reading 'Make the new normal' and event pill navigation](https://pin.fontofweb.com/8589?format=jpg)](https://design.withfudge.com/share/pin-8589)
+[![Hero section with massive black display type reading 'Make the new normal' and event pill navigation](https://pin.fontofweb.com/8589?format=jpg)](https://fudge.design/share/pin-8589)
 
-[Hero section with massive black display type reading 'Make the new normal' and event pill navigation](https://design.withfudge.com/share/pin-8589)
+[Hero section with massive black display type reading 'Make the new normal' and event pill navigation](https://fudge.design/share/pin-8589)
 
-[![Hero section with 'Make the new normal' headline and partial grid of portfolio work below](https://pin.fontofweb.com/8588?format=jpg)](https://design.withfudge.com/share/pin-8588)
+[![Hero section with 'Make the new normal' headline and partial grid of portfolio work below](https://pin.fontofweb.com/8588?format=jpg)](https://fudge.design/share/pin-8588)
 
-[Hero section with 'Make the new normal' headline and partial grid of portfolio work below](https://design.withfudge.com/share/pin-8588)
+[Hero section with 'Make the new normal' headline and partial grid of portfolio work below](https://fudge.design/share/pin-8588)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The location list composition, with its precise label positioning and embedded m
 ## Scope note
 
 This guide covers the Shopify Design homepage and its visible components including the hero section, portfolio grid, location list, and header navigation. Mobile breakpoints, hover states, form interactions, and interior pages are not represented in the supplied material. The spacing values derive from exact pixel measurements and convert cleanly to the relative unit scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How joshpuckett.me is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joshpuckett.me-design)
+[Open the live Fudge conversation](https://fudge.design/share/joshpuckett.me-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Personal homepage with dark canvas, serif nameplate, and project list with muted descriptions](https://pin.fontofweb.com/8402?format=jpg)](https://design.withfudge.com/share/pin-8402)
+[![Personal homepage with dark canvas, serif nameplate, and project list with muted descriptions](https://pin.fontofweb.com/8402?format=jpg)](https://fudge.design/share/pin-8402)
 
-[Personal homepage with dark canvas, serif nameplate, and project list with muted descriptions](https://design.withfudge.com/share/pin-8402)
+[Personal homepage with dark canvas, serif nameplate, and project list with muted descriptions](https://fudge.design/share/pin-8402)
 
-[![DialKit Photo Stack control panel with dark surface, segmented controls, and spring curve graph](https://pin.fontofweb.com/8401?format=jpg)](https://design.withfudge.com/share/pin-8401)
+[![DialKit Photo Stack control panel with dark surface, segmented controls, and spring curve graph](https://pin.fontofweb.com/8401?format=jpg)](https://fudge.design/share/pin-8401)
 
-[DialKit Photo Stack control panel with dark surface, segmented controls, and spring curve graph](https://design.withfudge.com/share/pin-8401)
+[DialKit Photo Stack control panel with dark surface, segmented controls, and spring curve graph](https://fudge.design/share/pin-8401)
 
 ## Overview
 
@@ -154,3 +154,18 @@ The type scale does not appear to shift across contexts; the 16px body and 13px 
 ## Scope note
 
 This guide covers the personal homepage and DialKit Photo Stack tool interface as visible in the supplied images. Other project subpages, additional DialKit modules, and any mobile-specific layouts are not represented. Motion behavior, hover states, and form validation styling are not documented. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

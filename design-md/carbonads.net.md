@@ -1,26 +1,26 @@
 # How carbonads.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/carbonads.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/carbonads.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark testimonial carousel with italic quote, avatar, and dot pagination on near-black background](https://pin.fontofweb.com/3787?format=jpg)](https://design.withfudge.com/share/pin-3787)
+[![Dark testimonial carousel with italic quote, avatar, and dot pagination on near-black background](https://pin.fontofweb.com/3787?format=jpg)](https://fudge.design/share/pin-3787)
 
-[Dark testimonial carousel with italic quote, avatar, and dot pagination on near-black background](https://design.withfudge.com/share/pin-3787)
+[Dark testimonial carousel with italic quote, avatar, and dot pagination on near-black background](https://fudge.design/share/pin-3787)
 
-[![Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with pink MUX cards](https://pin.fontofweb.com/3786?format=jpg)](https://design.withfudge.com/share/pin-3786)
+[![Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with pink MUX cards](https://pin.fontofweb.com/3786?format=jpg)](https://fudge.design/share/pin-3786)
 
-[Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with pink MUX cards](https://design.withfudge.com/share/pin-3786)
+[Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with pink MUX cards](https://fudge.design/share/pin-3786)
 
-[![Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with gray Squarespace cards](https://pin.fontofweb.com/3785?format=jpg)](https://design.withfudge.com/share/pin-3785)
+[![Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with gray Squarespace cards](https://pin.fontofweb.com/3785?format=jpg)](https://fudge.design/share/pin-3785)
 
-[Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with gray Squarespace cards](https://design.withfudge.com/share/pin-3785)
+[Light footer with Carbon logo, three-column link grid, and right-side ad preview grid with gray Squarespace cards](https://fudge.design/share/pin-3785)
 
-[![Dark FAQ accordion panel with rounded corners, two-column layout, and expand/collapse controls on charcoal surface](https://pin.fontofweb.com/3784?format=jpg)](https://design.withfudge.com/share/pin-3784)
+[![Dark FAQ accordion panel with rounded corners, two-column layout, and expand/collapse controls on charcoal surface](https://pin.fontofweb.com/3784?format=jpg)](https://fudge.design/share/pin-3784)
 
-[Dark FAQ accordion panel with rounded corners, two-column layout, and expand/collapse controls on charcoal surface](https://design.withfudge.com/share/pin-3784)
+[Dark FAQ accordion panel with rounded corners, two-column layout, and expand/collapse controls on charcoal surface](https://fudge.design/share/pin-3784)
 
 ## Overview
 
@@ -162,3 +162,18 @@ The ad preview grid, being the most spatially demanding element, likely transfor
 ## Scope note
 
 This guide covers the Carbon Ads homepage including testimonial, FAQ, footer, and advertisement preview components visible in the supplied images. Navigation header, form interactions, mobile layouts, animation specifications, and interior pages are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

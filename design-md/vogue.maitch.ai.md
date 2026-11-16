@@ -1,26 +1,26 @@
 # How vogue.maitch.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vogue.maitch.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/vogue.maitch.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing page with large search input, vogue@maitch logo, and editorial navigation in a clean light layout](https://pin.fontofweb.com/7945?format=jpg)](https://design.withfudge.com/share/pin-7945)
+[![Hero landing page with large search input, vogue@maitch logo, and editorial navigation in a clean light layout](https://pin.fontofweb.com/7945?format=jpg)](https://fudge.design/share/pin-7945)
 
-[Hero landing page with large search input, vogue@maitch logo, and editorial navigation in a clean light layout](https://design.withfudge.com/share/pin-7945)
+[Hero landing page with large search input, vogue@maitch logo, and editorial navigation in a clean light layout](https://fudge.design/share/pin-7945)
 
-[![Step 3 of 3 quiz modal showing two fashion items with pill-shaped prefer buttons on a soft gray background](https://pin.fontofweb.com/7946?format=jpg)](https://design.withfudge.com/share/pin-7946)
+[![Step 3 of 3 quiz modal showing two fashion items with pill-shaped prefer buttons on a soft gray background](https://pin.fontofweb.com/7946?format=jpg)](https://fudge.design/share/pin-7946)
 
-[Step 3 of 3 quiz modal showing two fashion items with pill-shaped prefer buttons on a soft gray background](https://design.withfudge.com/share/pin-7946)
+[Step 3 of 3 quiz modal showing two fashion items with pill-shaped prefer buttons on a soft gray background](https://fudge.design/share/pin-7946)
 
-[![Step 1 of 3 quiz with feature selection tags, product comparison cards, and a selected state with purple glow](https://pin.fontofweb.com/8011?format=jpg)](https://design.withfudge.com/share/pin-8011)
+[![Step 1 of 3 quiz with feature selection tags, product comparison cards, and a selected state with purple glow](https://pin.fontofweb.com/8011?format=jpg)](https://fudge.design/share/pin-8011)
 
-[Step 1 of 3 quiz with feature selection tags, product comparison cards, and a selected state with purple glow](https://design.withfudge.com/share/pin-8011)
+[Step 1 of 3 quiz with feature selection tags, product comparison cards, and a selected state with purple glow](https://fudge.design/share/pin-8011)
 
-[![Step 1 of 3 quiz comparing a beige hoodie and blue floral kaftan with outlined prefer buttons](https://pin.fontofweb.com/7941?format=jpg)](https://design.withfudge.com/share/pin-7941)
+[![Step 1 of 3 quiz comparing a beige hoodie and blue floral kaftan with outlined prefer buttons](https://pin.fontofweb.com/7941?format=jpg)](https://fudge.design/share/pin-7941)
 
-[Step 1 of 3 quiz comparing a beige hoodie and blue floral kaftan with outlined prefer buttons](https://design.withfudge.com/share/pin-7941)
+[Step 1 of 3 quiz comparing a beige hoodie and blue floral kaftan with outlined prefer buttons](https://fudge.design/share/pin-7941)
 
 ## Overview
 
@@ -203,3 +203,18 @@ The generous horizontal margins (up to 580px on some centered elements) suggest 
 ## Scope note
 
 This guide covers the landing page and stepped quiz flow visible in the supplied images. Mobile layouts, loading states, error handling, search results pages, and account functionality are not represented. The footer navigation links (EDITORIAL, ABOUT, PARTNERS, PRIVACY, TERMS, AFFILIATE DISCLOSURE, CONTACT) suggest additional pages exist but are not documented here. Motion and animation behavior is inferred from static states only. System-Uisansserif appears in the source as a system fallback family but is not visually prominent in the captured interface states.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

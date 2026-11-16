@@ -1,26 +1,26 @@
 # How cara.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cara.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/cara.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Global navigation bar with dark theme, search field, and action buttons including yellow-accented coffee support link](https://pin.fontofweb.com/3220?format=jpg)](https://design.withfudge.com/share/pin-3220)
+[![Global navigation bar with dark theme, search field, and action buttons including yellow-accented coffee support link](https://pin.fontofweb.com/3220?format=jpg)](https://fudge.design/share/pin-3220)
 
-[Global navigation bar with dark theme, search field, and action buttons including yellow-accented coffee support link](https://design.withfudge.com/share/pin-3220)
+[Global navigation bar with dark theme, search field, and action buttons including yellow-accented coffee support link](https://fudge.design/share/pin-3220)
 
-[![Split-screen login page with painterly artwork on the left and minimal dark authentication form on the right](https://pin.fontofweb.com/3219?format=jpg)](https://design.withfudge.com/share/pin-3219)
+[![Split-screen login page with painterly artwork on the left and minimal dark authentication form on the right](https://pin.fontofweb.com/3219?format=jpg)](https://fudge.design/share/pin-3219)
 
-[Split-screen login page with painterly artwork on the left and minimal dark authentication form on the right](https://design.withfudge.com/share/pin-3219)
+[Split-screen login page with painterly artwork on the left and minimal dark authentication form on the right](https://fudge.design/share/pin-3219)
 
-[![Post detail page showing artwork with engagement metrics, comments section, and sidebar with media grid and categories](https://pin.fontofweb.com/3218?format=jpg)](https://design.withfudge.com/share/pin-3218)
+[![Post detail page showing artwork with engagement metrics, comments section, and sidebar with media grid and categories](https://pin.fontofweb.com/3218?format=jpg)](https://fudge.design/share/pin-3218)
 
-[Post detail page showing artwork with engagement metrics, comments section, and sidebar with media grid and categories](https://design.withfudge.com/share/pin-3218)
+[Post detail page showing artwork with engagement metrics, comments section, and sidebar with media grid and categories](https://fudge.design/share/pin-3218)
 
-[![Expanded artwork lightbox modal with comment thread and cookie consent banner featuring blue action buttons](https://pin.fontofweb.com/3217?format=jpg)](https://design.withfudge.com/share/pin-3217)
+[![Expanded artwork lightbox modal with comment thread and cookie consent banner featuring blue action buttons](https://pin.fontofweb.com/3217?format=jpg)](https://fudge.design/share/pin-3217)
 
-[Expanded artwork lightbox modal with comment thread and cookie consent banner featuring blue action buttons](https://design.withfudge.com/share/pin-3217)
+[Expanded artwork lightbox modal with comment thread and cookie consent banner featuring blue action buttons](https://fudge.design/share/pin-3217)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Artwork in lightbox modals should scale to fit viewport dimensions while preserv
 ## Scope note
 
 This guide covers the home feed navigation, post detail page, authentication flow, and modal lightbox visible in the supplied material. Mobile breakpoints, animation specifications, form validation states, settings pages, and user profile layouts are not included. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

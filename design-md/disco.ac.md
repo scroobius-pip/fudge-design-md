@@ -1,26 +1,26 @@
 # How disco.ac is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/disco.ac-design)
+[Open the live Fudge conversation](https://fudge.design/share/disco.ac-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with gradient background transitioning from deep blue through magenta to warm yellow, featuring large white condensed display headline and centered CTA pill](https://pin.fontofweb.com/5232?format=jpg)](https://design.withfudge.com/share/pin-5232)
+[![Hero section with gradient background transitioning from deep blue through magenta to warm yellow, featuring large white condensed display headline and centered CTA pill](https://pin.fontofweb.com/5232?format=jpg)](https://fudge.design/share/pin-5232)
 
-[Hero section with gradient background transitioning from deep blue through magenta to warm yellow, featuring large white condensed display headline and centered CTA pill](https://design.withfudge.com/share/pin-5232)
+[Hero section with gradient background transitioning from deep blue through magenta to warm yellow, featuring large white condensed display headline and centered CTA pill](https://fudge.design/share/pin-5232)
 
-[![Alternate hero state with warm yellow and orange gradient background, same white display headline and pill button with partner logo row below](https://pin.fontofweb.com/5231?format=jpg)](https://design.withfudge.com/share/pin-5231)
+[![Alternate hero state with warm yellow and orange gradient background, same white display headline and pill button with partner logo row below](https://pin.fontofweb.com/5231?format=jpg)](https://fudge.design/share/pin-5231)
 
-[Alternate hero state with warm yellow and orange gradient background, same white display headline and pill button with partner logo row below](https://design.withfudge.com/share/pin-5231)
+[Alternate hero state with warm yellow and orange gradient background, same white display headline and pill button with partner logo row below](https://fudge.design/share/pin-5231)
 
-[![Bright yellow feature section with black condensed display heading, three-column tab navigation, and product screenshot showing audio waveform interface](https://pin.fontofweb.com/5233?format=jpg)](https://design.withfudge.com/share/pin-5233)
+[![Bright yellow feature section with black condensed display heading, three-column tab navigation, and product screenshot showing audio waveform interface](https://pin.fontofweb.com/5233?format=jpg)](https://fudge.design/share/pin-5233)
 
-[Bright yellow feature section with black condensed display heading, three-column tab navigation, and product screenshot showing audio waveform interface](https://design.withfudge.com/share/pin-5233)
+[Bright yellow feature section with black condensed display heading, three-column tab navigation, and product screenshot showing audio waveform interface](https://fudge.design/share/pin-5233)
 
-[![Customer testimonial section with blue portrait card of Chip Herter and large black quote text with outlined pill button on white background](https://pin.fontofweb.com/5234?format=jpg)](https://design.withfudge.com/share/pin-5234)
+[![Customer testimonial section with blue portrait card of Chip Herter and large black quote text with outlined pill button on white background](https://pin.fontofweb.com/5234?format=jpg)](https://fudge.design/share/pin-5234)
 
-[Customer testimonial section with blue portrait card of Chip Herter and large black quote text with outlined pill button on white background](https://design.withfudge.com/share/pin-5234)
+[Customer testimonial section with blue portrait card of Chip Herter and large black quote text with outlined pill button on white background](https://fudge.design/share/pin-5234)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The testimonial card, currently a left-floated element beside quotation text, sh
 ## Scope note
 
 This guide covers the DISCO homepage hero, feature sections, and testimonial surfaces visible in the supplied images. Footer content, additional interior pages, mobile navigation behavior, and any motion or interaction patterns are not represented. Measurements are practical adaptation targets based on visible proportions. Verify licensing for Plakat Grotesk and Pp Neue Montreal before production use.
+
+## Related design patterns
+
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

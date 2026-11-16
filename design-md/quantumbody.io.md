@@ -1,26 +1,26 @@
 # How quantumbody.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/quantumbody.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/quantumbody.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with email signup form, key links navigation, and abstract black ring logo on warm beige background](https://pin.fontofweb.com/1626?format=jpg)](https://design.withfudge.com/share/pin-1626)
+[![Footer section with email signup form, key links navigation, and abstract black ring logo on warm beige background](https://pin.fontofweb.com/1626?format=jpg)](https://fudge.design/share/pin-1626)
 
-[Footer section with email signup form, key links navigation, and abstract black ring logo on warm beige background](https://design.withfudge.com/share/pin-1626)
+[Footer section with email signup form, key links navigation, and abstract black ring logo on warm beige background](https://fudge.design/share/pin-1626)
 
-[![Contact page with large display heading, stacked form fields, dark submit button, and rounded landscape photograph](https://pin.fontofweb.com/1625?format=jpg)](https://design.withfudge.com/share/pin-1625)
+[![Contact page with large display heading, stacked form fields, dark submit button, and rounded landscape photograph](https://pin.fontofweb.com/1625?format=jpg)](https://fudge.design/share/pin-1625)
 
-[Contact page with large display heading, stacked form fields, dark submit button, and rounded landscape photograph](https://design.withfudge.com/share/pin-1625)
+[Contact page with large display heading, stacked form fields, dark submit button, and rounded landscape photograph](https://fudge.design/share/pin-1625)
 
-[![Dark hero section with split headline framing an orange abstract fluid image, plus Instagram gallery strip](https://pin.fontofweb.com/1624?format=jpg)](https://design.withfudge.com/share/pin-1624)
+[![Dark hero section with split headline framing an orange abstract fluid image, plus Instagram gallery strip](https://pin.fontofweb.com/1624?format=jpg)](https://fudge.design/share/pin-1624)
 
-[Dark hero section with split headline framing an orange abstract fluid image, plus Instagram gallery strip](https://design.withfudge.com/share/pin-1624)
+[Dark hero section with split headline framing an orange abstract fluid image, plus Instagram gallery strip](https://fudge.design/share/pin-1624)
 
-[![Instagram social proof strip with handle label and horizontal row of rounded square thumbnail images on dark background](https://pin.fontofweb.com/1623?format=jpg)](https://design.withfudge.com/share/pin-1623)
+[![Instagram social proof strip with handle label and horizontal row of rounded square thumbnail images on dark background](https://pin.fontofweb.com/1623?format=jpg)](https://fudge.design/share/pin-1623)
 
-[Instagram social proof strip with handle label and horizontal row of rounded square thumbnail images on dark background](https://design.withfudge.com/share/pin-1623)
+[Instagram social proof strip with handle label and horizontal row of rounded square thumbnail images on dark background](https://fudge.design/share/pin-1623)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Form inputs should remain full-width within their container at all sizes, with t
 ## Scope note
 
 This guide covers the landing page and contact page surfaces visible in the supplied imagery, including footer, form, hero, and social gallery components. Interior pages, mobile navigation patterns, loading states, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection of the interface.
+
+## Related design patterns
+
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

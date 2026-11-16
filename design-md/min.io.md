@@ -1,22 +1,22 @@
 # How min.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/min.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/min.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with gradient headline 'Exascale AI Data Store', product dashboard screenshot, and partner logo grid on light background](https://pin.fontofweb.com/6313?format=jpg)](https://design.withfudge.com/share/pin-6313)
+[![Hero section with gradient headline 'Exascale AI Data Store', product dashboard screenshot, and partner logo grid on light background](https://pin.fontofweb.com/6313?format=jpg)](https://fudge.design/share/pin-6313)
 
-[Hero section with gradient headline 'Exascale AI Data Store', product dashboard screenshot, and partner logo grid on light background](https://design.withfudge.com/share/pin-6313)
+[Hero section with gradient headline 'Exascale AI Data Store', product dashboard screenshot, and partner logo grid on light background](https://fudge.design/share/pin-6313)
 
-[![Full-bleed dark statistics slide with gradient '77%' numeral over abstract purple-pink fluid art background](https://pin.fontofweb.com/6312?format=jpg)](https://design.withfudge.com/share/pin-6312)
+[![Full-bleed dark statistics slide with gradient '77%' numeral over abstract purple-pink fluid art background](https://pin.fontofweb.com/6312?format=jpg)](https://fudge.design/share/pin-6312)
 
-[Full-bleed dark statistics slide with gradient '77%' numeral over abstract purple-pink fluid art background](https://design.withfudge.com/share/pin-6312)
+[Full-bleed dark statistics slide with gradient '77%' numeral over abstract purple-pink fluid art background](https://fudge.design/share/pin-6312)
 
-[![Dark navy footer with three-column link grid, email subscription form, social icons, and oversized 'MINIO' wordmark](https://pin.fontofweb.com/6314?format=jpg)](https://design.withfudge.com/share/pin-6314)
+[![Dark navy footer with three-column link grid, email subscription form, social icons, and oversized 'MINIO' wordmark](https://pin.fontofweb.com/6314?format=jpg)](https://fudge.design/share/pin-6314)
 
-[Dark navy footer with three-column link grid, email subscription form, social icons, and oversized 'MINIO' wordmark](https://design.withfudge.com/share/pin-6314)
+[Dark navy footer with three-column link grid, email subscription form, social icons, and oversized 'MINIO' wordmark](https://fudge.design/share/pin-6314)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The immersive statistics slides remain full-bleed but may crop differently, ensu
 ## Scope note
 
 This guide covers the MinIO homepage including hero, statistics, partner trust, and footer surfaces. Interior pages, product documentation, dashboard interfaces, and mobile navigation patterns are not represented in the supplied material. Motion behavior for statistics, gradient animation, and scroll-triggered transitions are recommended but not documented here.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How restylaneusa.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/restylaneusa.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/restylaneusa.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Instagram social feed grid with award badges, product cards, and navy follow button on light gray background](https://pin.fontofweb.com/1967?format=jpg)](https://design.withfudge.com/share/pin-1967)
+[![Instagram social feed grid with award badges, product cards, and navy follow button on light gray background](https://pin.fontofweb.com/1967?format=jpg)](https://fudge.design/share/pin-1967)
 
-[Instagram social feed grid with award badges, product cards, and navy follow button on light gray background](https://design.withfudge.com/share/pin-1967)
+[Instagram social feed grid with award badges, product cards, and navy follow button on light gray background](https://fudge.design/share/pin-1967)
 
-[![Two-column product introduction with dark headline, body text, outlined CTA button, and centered journey section below](https://pin.fontofweb.com/1966?format=jpg)](https://design.withfudge.com/share/pin-1966)
+[![Two-column product introduction with dark headline, body text, outlined CTA button, and centered journey section below](https://pin.fontofweb.com/1966?format=jpg)](https://fudge.design/share/pin-1966)
 
-[Two-column product introduction with dark headline, body text, outlined CTA button, and centered journey section below](https://design.withfudge.com/share/pin-1966)
+[Two-column product introduction with dark headline, body text, outlined CTA button, and centered journey section below](https://fudge.design/share/pin-1966)
 
-[![Full-bleed hero banner with diverse group portrait, script Restylane logo, navigation bar, and white overlay text](https://pin.fontofweb.com/1965?format=jpg)](https://design.withfudge.com/share/pin-1965)
+[![Full-bleed hero banner with diverse group portrait, script Restylane logo, navigation bar, and white overlay text](https://pin.fontofweb.com/1965?format=jpg)](https://fudge.design/share/pin-1965)
 
-[Full-bleed hero banner with diverse group portrait, script Restylane logo, navigation bar, and white overlay text](https://design.withfudge.com/share/pin-1965)
+[Full-bleed hero banner with diverse group portrait, script Restylane logo, navigation bar, and white overlay text](https://fudge.design/share/pin-1965)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Typography scales should reduce proportionally: the hero display at 3rem may bec
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images, including the hero banner, navigation, content introduction sections, and social feed grid. Footer content, interior pages, product detail templates, form interactions, and mobile-specific layouts are not represented. Motion behavior, hover states, and the complete icon system are not documented. Measurements are practical adaptation targets based on visual interpretation of the desktop presentation.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

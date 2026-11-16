@@ -1,26 +1,26 @@
 # How scenery.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/scenery.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/scenery.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Scene detail page showing a colorful spiral text artwork with metadata sidebar, green Download button, and tag pills on dark background.](https://pin.fontofweb.com/9012?format=jpg)](https://design.withfudge.com/share/pin-9012)
+[![Scene detail page showing a colorful spiral text artwork with metadata sidebar, green Download button, and tag pills on dark background.](https://pin.fontofweb.com/9012?format=jpg)](https://fudge.design/share/pin-9012)
 
-[Scene detail page showing a colorful spiral text artwork with metadata sidebar, green Download button, and tag pills on dark background.](https://design.withfudge.com/share/pin-9012)
+[Scene detail page showing a colorful spiral text artwork with metadata sidebar, green Download button, and tag pills on dark background.](https://fudge.design/share/pin-9012)
 
-[![Homepage mid-section with alternating feature blocks for Scene Graphs and scripts, green primary buttons, and dark UI screenshots.](https://pin.fontofweb.com/9011?format=jpg)](https://design.withfudge.com/share/pin-9011)
+[![Homepage mid-section with alternating feature blocks for Scene Graphs and scripts, green primary buttons, and dark UI screenshots.](https://pin.fontofweb.com/9011?format=jpg)](https://fudge.design/share/pin-9011)
 
-[Homepage mid-section with alternating feature blocks for Scene Graphs and scripts, green primary buttons, and dark UI screenshots.](https://design.withfudge.com/share/pin-9011)
+[Homepage mid-section with alternating feature blocks for Scene Graphs and scripts, green primary buttons, and dark UI screenshots.](https://fudge.design/share/pin-9011)
 
-[![Homepage hero with large centered headline using green accent for 'Cavalry', scene thumbnail grid, and rounded card previews.](https://pin.fontofweb.com/9010?format=jpg)](https://design.withfudge.com/share/pin-9010)
+[![Homepage hero with large centered headline using green accent for 'Cavalry', scene thumbnail grid, and rounded card previews.](https://pin.fontofweb.com/9010?format=jpg)](https://fudge.design/share/pin-9010)
 
-[Homepage hero with large centered headline using green accent for 'Cavalry', scene thumbnail grid, and rounded card previews.](https://design.withfudge.com/share/pin-9010)
+[Homepage hero with large centered headline using green accent for 'Cavalry', scene thumbnail grid, and rounded card previews.](https://fudge.design/share/pin-9010)
 
-[![FAQ section with accordion items, chevron icons, expanded answer text, and subtle hairline borders on near-black background.](https://pin.fontofweb.com/7139?format=jpg)](https://design.withfudge.com/share/pin-7139)
+[![FAQ section with accordion items, chevron icons, expanded answer text, and subtle hairline borders on near-black background.](https://pin.fontofweb.com/7139?format=jpg)](https://fudge.design/share/pin-7139)
 
-[FAQ section with accordion items, chevron icons, expanded answer text, and subtle hairline borders on near-black background.](https://design.withfudge.com/share/pin-7139)
+[FAQ section with accordion items, chevron icons, expanded answer text, and subtle hairline borders on near-black background.](https://fudge.design/share/pin-7139)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The supplied images show desktop layouts exclusively. Based on the visual struct
 ## Scope note
 
 This guide covers the homepage, scene detail page, login page, patrons page, and FAQ section as visible in the supplied desktop screenshots. Mobile layouts, breakpoint-specific behavior, loading states, error pages, form validation styling, and animation or motion design are not included.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

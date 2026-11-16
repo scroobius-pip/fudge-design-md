@@ -1,18 +1,18 @@
 # How redesignthis.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/redesignthis.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/redesignthis.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Background spacing reference showing Apple, IMDb, and Lyft brand logos with measured padding values in a light gray card on white canvas](https://pin.fontofweb.com/5718?format=jpg)](https://design.withfudge.com/share/pin-5718)
+[![Background spacing reference showing Apple, IMDb, and Lyft brand logos with measured padding values in a light gray card on white canvas](https://pin.fontofweb.com/5718?format=jpg)](https://fudge.design/share/pin-5718)
 
-[Background spacing reference showing Apple, IMDb, and Lyft brand logos with measured padding values in a light gray card on white canvas](https://design.withfudge.com/share/pin-5718)
+[Background spacing reference showing Apple, IMDb, and Lyft brand logos with measured padding values in a light gray card on white canvas](https://fudge.design/share/pin-5718)
 
-[![Typography scale reference displaying H1 through Small Subtitle sizes across Apple, IMDb, and Lyft with content text, CTA, NAV, BODY, and META categories in a structured table](https://pin.fontofweb.com/5717?format=jpg)](https://design.withfudge.com/share/pin-5717)
+[![Typography scale reference displaying H1 through Small Subtitle sizes across Apple, IMDb, and Lyft with content text, CTA, NAV, BODY, and META categories in a structured table](https://pin.fontofweb.com/5717?format=jpg)](https://fudge.design/share/pin-5717)
 
-[Typography scale reference displaying H1 through Small Subtitle sizes across Apple, IMDb, and Lyft with content text, CTA, NAV, BODY, and META categories in a structured table](https://design.withfudge.com/share/pin-5717)
+[Typography scale reference displaying H1 through Small Subtitle sizes across Apple, IMDb, and Lyft with content text, CTA, NAV, BODY, and META categories in a structured table](https://fudge.design/share/pin-5717)
 
 ## Overview
 
@@ -193,3 +193,18 @@ The content column should maintain minimum 1rem side margins at all breakpoints,
 ## Scope note
 
 This guide covers the design standards documentation page at redesignthis.org, specifically the typography and padding reference views for App and Web platforms across selected brand interfaces. Motion, interaction feedback beyond active states, additional category views (Color, Radius), and mobile-optimized layouts are not represented in the supplied material. Measurements are practical adaptation targets derived from visible reference values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

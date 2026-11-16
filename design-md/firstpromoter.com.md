@@ -1,26 +1,26 @@
 # How firstpromoter.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firstpromoter.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/firstpromoter.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with accordion questions, light blue-gray background, and a white contact card with blue action button](https://pin.fontofweb.com/7706?format=jpg)](https://design.withfudge.com/share/pin-7706)
+[![FAQ section with accordion questions, light blue-gray background, and a white contact card with blue action button](https://pin.fontofweb.com/7706?format=jpg)](https://fudge.design/share/pin-7706)
 
-[FAQ section with accordion questions, light blue-gray background, and a white contact card with blue action button](https://design.withfudge.com/share/pin-7706)
+[FAQ section with accordion questions, light blue-gray background, and a white contact card with blue action button](https://fudge.design/share/pin-7706)
 
-[![Feature section showing subscription billing UI with commissions table, status tabs, and dark circular icons on light background](https://pin.fontofweb.com/7705?format=jpg)](https://design.withfudge.com/share/pin-7705)
+[![Feature section showing subscription billing UI with commissions table, status tabs, and dark circular icons on light background](https://pin.fontofweb.com/7705?format=jpg)](https://fudge.design/share/pin-7705)
 
-[Feature section showing subscription billing UI with commissions table, status tabs, and dark circular icons on light background](https://design.withfudge.com/share/pin-7705)
+[Feature section showing subscription billing UI with commissions table, status tabs, and dark circular icons on light background](https://fudge.design/share/pin-7705)
 
-[![Product capabilities section with four feature columns and dashboard screenshots showing analytics charts and reporting interface](https://pin.fontofweb.com/7704?format=jpg)](https://design.withfudge.com/share/pin-7704)
+[![Product capabilities section with four feature columns and dashboard screenshots showing analytics charts and reporting interface](https://pin.fontofweb.com/7704?format=jpg)](https://fudge.design/share/pin-7704)
 
-[Product capabilities section with four feature columns and dashboard screenshots showing analytics charts and reporting interface](https://design.withfudge.com/share/pin-7704)
+[Product capabilities section with four feature columns and dashboard screenshots showing analytics charts and reporting interface](https://fudge.design/share/pin-7704)
 
-[![Dark case study carousel with neon green badge, statistics cards, and testimonial quote with navigation arrows](https://pin.fontofweb.com/7703?format=jpg)](https://design.withfudge.com/share/pin-7703)
+[![Dark case study carousel with neon green badge, statistics cards, and testimonial quote with navigation arrows](https://pin.fontofweb.com/7703?format=jpg)](https://fudge.design/share/pin-7703)
 
-[Dark case study carousel with neon green badge, statistics cards, and testimonial quote with navigation arrows](https://design.withfudge.com/share/pin-7703)
+[Dark case study carousel with neon green badge, statistics cards, and testimonial quote with navigation arrows](https://fudge.design/share/pin-7703)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Buttons expand to full width on mobile for touch accessibility, while remaining 
 ## Scope note
 
 This guide covers the FirstPromoter marketing homepage including hero, feature descriptions, product screenshots, case studies, FAQ, and contact sections. Pricing pages, documentation, authentication flows, and the actual application dashboard are not represented in the supplied material. Mobile breakpoint behavior and animation specifications are inferred from desktop layouts and should be validated during implementation.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

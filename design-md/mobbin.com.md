@@ -1,26 +1,26 @@
 # How mobbin.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mobbin.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mobbin.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up page with split-screen layout showing dark left panel with centered form and vibrant mobile app screenshot collage on the right](https://pin.fontofweb.com/10087?format=jpg)](https://design.withfudge.com/share/pin-10087)
+[![Sign-up page with split-screen layout showing dark left panel with centered form and vibrant mobile app screenshot collage on the right](https://pin.fontofweb.com/10087?format=jpg)](https://fudge.design/share/pin-10087)
 
-[Sign-up page with split-screen layout showing dark left panel with centered form and vibrant mobile app screenshot collage on the right](https://design.withfudge.com/share/pin-10087)
+[Sign-up page with split-screen layout showing dark left panel with centered form and vibrant mobile app screenshot collage on the right](https://fudge.design/share/pin-10087)
 
-[![Pricing page hero with large display headline, toggle switch for billing period, and two-tier pricing cards on dark background](https://pin.fontofweb.com/6761?format=jpg)](https://design.withfudge.com/share/pin-6761)
+[![Pricing page hero with large display headline, toggle switch for billing period, and two-tier pricing cards on dark background](https://pin.fontofweb.com/6761?format=jpg)](https://fudge.design/share/pin-6761)
 
-[Pricing page hero with large display headline, toggle switch for billing period, and two-tier pricing cards on dark background](https://design.withfudge.com/share/pin-6761)
+[Pricing page hero with large display headline, toggle switch for billing period, and two-tier pricing cards on dark background](https://fudge.design/share/pin-6761)
 
-[![Detailed pricing comparison table with three columns showing Free, Pro, and Team plan features with checkmarks and limits](https://pin.fontofweb.com/6760?format=jpg)](https://design.withfudge.com/share/pin-6760)
+[![Detailed pricing comparison table with three columns showing Free, Pro, and Team plan features with checkmarks and limits](https://pin.fontofweb.com/6760?format=jpg)](https://fudge.design/share/pin-6760)
 
-[Detailed pricing comparison table with three columns showing Free, Pro, and Team plan features with checkmarks and limits](https://design.withfudge.com/share/pin-6760)
+[Detailed pricing comparison table with three columns showing Free, Pro, and Team plan features with checkmarks and limits](https://fudge.design/share/pin-6760)
 
-[![Light-themed feature section with three large rounded cards demonstrating Copy to Figma, Save to collections, and Leave comments workflows](https://pin.fontofweb.com/6581?format=jpg)](https://design.withfudge.com/share/pin-6581)
+[![Light-themed feature section with three large rounded cards demonstrating Copy to Figma, Save to collections, and Leave comments workflows](https://pin.fontofweb.com/6581?format=jpg)](https://fudge.design/share/pin-6581)
 
-[Light-themed feature section with three large rounded cards demonstrating Copy to Figma, Save to collections, and Leave comments workflows](https://design.withfudge.com/share/pin-6581)
+[Light-themed feature section with three large rounded cards demonstrating Copy to Figma, Save to collections, and Leave comments workflows](https://fudge.design/share/pin-6581)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Type scales down proportionally: the 80px hero display reduces to approximately 
 ## Scope note
 
 This guide covers the sign-up, pricing, and homepage marketing surfaces of Mobbin. Mobile layouts, hover and focus states, loading skeletons, error handling, and the screenshot browsing interface are not represented in the supplied material. The exact spacing and radius values derive from the documented pixel measurements converted to the relative unit scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

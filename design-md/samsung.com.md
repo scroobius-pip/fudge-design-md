@@ -1,26 +1,26 @@
 # How samsung.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/samsung.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/samsung.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Global footer with copyright, legal links, social icons, and app promotion cards on white background](https://pin.fontofweb.com/2362?format=jpg)](https://design.withfudge.com/share/pin-2362)
+[![Global footer with copyright, legal links, social icons, and app promotion cards on white background](https://pin.fontofweb.com/2362?format=jpg)](https://fudge.design/share/pin-2362)
 
-[Global footer with copyright, legal links, social icons, and app promotion cards on white background](https://design.withfudge.com/share/pin-2362)
+[Global footer with copyright, legal links, social icons, and app promotion cards on white background](https://fudge.design/share/pin-2362)
 
-[![History timeline section with era navigation tabs, blue dot markers, and three-column year cards with bullet lists](https://pin.fontofweb.com/2361?format=jpg)](https://design.withfudge.com/share/pin-2361)
+[![History timeline section with era navigation tabs, blue dot markers, and three-column year cards with bullet lists](https://pin.fontofweb.com/2361?format=jpg)](https://fudge.design/share/pin-2361)
 
-[History timeline section with era navigation tabs, blue dot markers, and three-column year cards with bullet lists](https://design.withfudge.com/share/pin-2361)
+[History timeline section with era navigation tabs, blue dot markers, and three-column year cards with bullet lists](https://fudge.design/share/pin-2361)
 
-[![CEO profile section with centered portrait, bold display heading, and structured biographical role list](https://pin.fontofweb.com/2360?format=jpg)](https://design.withfudge.com/share/pin-2360)
+[![CEO profile section with centered portrait, bold display heading, and structured biographical role list](https://pin.fontofweb.com/2360?format=jpg)](https://fudge.design/share/pin-2360)
 
-[CEO profile section with centered portrait, bold display heading, and structured biographical role list](https://design.withfudge.com/share/pin-2360)
+[CEO profile section with centered portrait, bold display heading, and structured biographical role list](https://fudge.design/share/pin-2360)
 
-[![Dark immersive values banner with rounded corners, white text overlay on technology imagery, and circular plus button](https://pin.fontofweb.com/2359?format=jpg)](https://design.withfudge.com/share/pin-2359)
+[![Dark immersive values banner with rounded corners, white text overlay on technology imagery, and circular plus button](https://pin.fontofweb.com/2359?format=jpg)](https://fudge.design/share/pin-2359)
 
-[Dark immersive values banner with rounded corners, white text overlay on technology imagery, and circular plus button](https://design.withfudge.com/share/pin-2359)
+[Dark immersive values banner with rounded corners, white text overlay on technology imagery, and circular plus button](https://fudge.design/share/pin-2359)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The timeline's three-column layout should collapse to single column on narrower 
 ## Scope note
 
 This guide covers the corporate and editorial surfaces visible on Samsung's About Us and homepage sections, including the values banner, timeline, executive profile, and global footer. Product detail pages, e-commerce flows, navigation menus, and mobile-specific layouts are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How samsm.ch is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/samsm.ch-design)
+[Open the live Fudge conversation](https://fudge.design/share/samsm.ch-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![A long-form travel article with a centered narrow column, serif headings, and a large black-and-white photograph of a Chinese temple with an italic caption.](https://pin.fontofweb.com/9914?format=jpg)](https://design.withfudge.com/share/pin-9914)
+[![A long-form travel article with a centered narrow column, serif headings, and a large black-and-white photograph of a Chinese temple with an italic caption.](https://pin.fontofweb.com/9914?format=jpg)](https://fudge.design/share/pin-9914)
 
-[A long-form travel article with a centered narrow column, serif headings, and a large black-and-white photograph of a Chinese temple with an italic caption.](https://design.withfudge.com/share/pin-9914)
+[A long-form travel article with a centered narrow column, serif headings, and a large black-and-white photograph of a Chinese temple with an italic caption.](https://fudge.design/share/pin-9914)
 
-[![A tech essay page showing a split keyboard photograph, blue hyperlinks in body text, and the same centered single-column layout with a hairline header rule.](https://pin.fontofweb.com/9913?format=jpg)](https://design.withfudge.com/share/pin-9913)
+[![A tech essay page showing a split keyboard photograph, blue hyperlinks in body text, and the same centered single-column layout with a hairline header rule.](https://pin.fontofweb.com/9913?format=jpg)](https://fudge.design/share/pin-9913)
 
-[A tech essay page showing a split keyboard photograph, blue hyperlinks in body text, and the same centered single-column layout with a hairline header rule.](https://design.withfudge.com/share/pin-9913)
+[A tech essay page showing a split keyboard photograph, blue hyperlinks in body text, and the same centered single-column layout with a hairline header rule.](https://fudge.design/share/pin-9913)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The design appears optimized for a centered narrow column on desktop viewports. 
 ## Scope note
 
 This guide covers the single-article page template as visible on the supplied blog posts. The homepage, archive listing, and any other page types are not represented. No interactive states, motion design, form elements, or comment systems are included. Applesystem appears in source records as a fallback family but is not visually prominent in the rendered interface. The spacing values reflect the measured desktop presentation and should be treated as practical adaptation targets for implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

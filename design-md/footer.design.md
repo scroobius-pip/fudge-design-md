@@ -1,22 +1,22 @@
 # How footer.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/footer.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/footer.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Inversa footer with three-column grid, oversized lime brand mark, and email subscription field on black background](https://pin.fontofweb.com/7029?format=jpg)](https://design.withfudge.com/share/pin-7029)
+[![Inversa footer with three-column grid, oversized lime brand mark, and email subscription field on black background](https://pin.fontofweb.com/7029?format=jpg)](https://fudge.design/share/pin-7029)
 
-[Inversa footer with three-column grid, oversized lime brand mark, and email subscription field on black background](https://design.withfudge.com/share/pin-7029)
+[Inversa footer with three-column grid, oversized lime brand mark, and email subscription field on black background](https://fudge.design/share/pin-7029)
 
-[![Footer gallery grid page showing category navigation, filter pills, and nine diverse footer design thumbnails on dark background](https://pin.fontofweb.com/7028?format=jpg)](https://design.withfudge.com/share/pin-7028)
+[![Footer gallery grid page showing category navigation, filter pills, and nine diverse footer design thumbnails on dark background](https://pin.fontofweb.com/7028?format=jpg)](https://fudge.design/share/pin-7028)
 
-[Footer gallery grid page showing category navigation, filter pills, and nine diverse footer design thumbnails on dark background](https://design.withfudge.com/share/pin-7028)
+[Footer gallery grid page showing category navigation, filter pills, and nine diverse footer design thumbnails on dark background](https://fudge.design/share/pin-7028)
 
-[![Mesh Optical footer with red gradient background, large navigation links with arrow icons, and social links row](https://pin.fontofweb.com/7027?format=jpg)](https://design.withfudge.com/share/pin-7027)
+[![Mesh Optical footer with red gradient background, large navigation links with arrow icons, and social links row](https://pin.fontofweb.com/7027?format=jpg)](https://fudge.design/share/pin-7027)
 
-[Mesh Optical footer with red gradient background, large navigation links with arrow icons, and social links row](https://design.withfudge.com/share/pin-7027)
+[Mesh Optical footer with red gradient background, large navigation links with arrow icons, and social links row](https://fudge.design/share/pin-7027)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Text sizes should remain consistent across breakpoints—the 1.125rem body and 0
 ## Scope note
 
 This guide covers the gallery browsing interface and individual footer showcase pages as visible in the supplied images. It does not include mobile-specific layouts, search functionality, submission forms, animation behavior, or the full range of category filters beyond those shown. The footer designs themselves are external content—the guide addresses their presentation container, not their internal design systems.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

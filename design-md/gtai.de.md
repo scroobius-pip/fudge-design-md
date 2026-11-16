@@ -1,22 +1,22 @@
 # How gtai.de is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gtai.de-design)
+[Open the live Fudge conversation](https://fudge.design/share/gtai.de-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with GTAI logo, Medtec China event card, and Federal Ministry partner branding on dark background](https://pin.fontofweb.com/10805?format=jpg)](https://design.withfudge.com/share/pin-10805)
+[![Footer section with GTAI logo, Medtec China event card, and Federal Ministry partner branding on dark background](https://pin.fontofweb.com/10805?format=jpg)](https://fudge.design/share/pin-10805)
 
-[Footer section with GTAI logo, Medtec China event card, and Federal Ministry partner branding on dark background](https://design.withfudge.com/share/pin-10805)
+[Footer section with GTAI logo, Medtec China event card, and Federal Ministry partner branding on dark background](https://fudge.design/share/pin-10805)
 
-[![News and Industries section with article headlines, category icons, and search input fields](https://pin.fontofweb.com/10804?format=jpg)](https://design.withfudge.com/share/pin-10804)
+[![News and Industries section with article headlines, category icons, and search input fields](https://pin.fontofweb.com/10804?format=jpg)](https://fudge.design/share/pin-10804)
 
-[News and Industries section with article headlines, category icons, and search input fields](https://design.withfudge.com/share/pin-10804)
+[News and Industries section with article headlines, category icons, and search input fields](https://fudge.design/share/pin-10804)
 
-[![Hero banner with AI-Assist feature promotion, navigation bar, and page heading with supporting imagery](https://pin.fontofweb.com/10803?format=jpg)](https://design.withfudge.com/share/pin-10803)
+[![Hero banner with AI-Assist feature promotion, navigation bar, and page heading with supporting imagery](https://pin.fontofweb.com/10803?format=jpg)](https://fudge.design/share/pin-10803)
 
-[Hero banner with AI-Assist feature promotion, navigation bar, and page heading with supporting imagery](https://design.withfudge.com/share/pin-10803)
+[Hero banner with AI-Assist feature promotion, navigation bar, and page heading with supporting imagery](https://fudge.design/share/pin-10803)
 
 ## Overview
 
@@ -168,3 +168,7 @@ The design targets desktop as the primary viewport, with content constrained to 
 ## Scope note
 
 This guide covers the desktop landing and content page surfaces visible in the supplied captures, including the header navigation, AI-Assist promotional panel, news listings, industry category grid, and footer. Mobile breakpoints, form validation states, dropdown menu animations, and interior page templates are not represented. The families -apple-system, Arial, Bernina-regular, Bernina-semibold, Tiempos-medium, and Tiempos-regular are named as present in the source. Measurements derive from the documented computed styles and should be verified against live implementation before production use.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

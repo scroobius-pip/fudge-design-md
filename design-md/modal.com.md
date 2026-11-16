@@ -1,26 +1,26 @@
 # How modal.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/modal.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/modal.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page feature comparison table with three-tier Starter, Team, and Enterprise columns on black background with green checkmarks.](https://pin.fontofweb.com/9044?format=jpg)](https://design.withfudge.com/share/pin-9044)
+[![Pricing page feature comparison table with three-tier Starter, Team, and Enterprise columns on black background with green checkmarks.](https://pin.fontofweb.com/9044?format=jpg)](https://fudge.design/share/pin-9044)
 
-[Pricing page feature comparison table with three-tier Starter, Team, and Enterprise columns on black background with green checkmarks.](https://design.withfudge.com/share/pin-9044)
+[Pricing page feature comparison table with three-tier Starter, Team, and Enterprise columns on black background with green checkmarks.](https://fudge.design/share/pin-9044)
 
-[![Pricing page hero with large Goga display type, green accent word 'magical', compute costs panel, and three-tier pricing cards with green gradient tops.](https://pin.fontofweb.com/9043?format=jpg)](https://design.withfudge.com/share/pin-9043)
+[![Pricing page hero with large Goga display type, green accent word 'magical', compute costs panel, and three-tier pricing cards with green gradient tops.](https://pin.fontofweb.com/9043?format=jpg)](https://fudge.design/share/pin-9043)
 
-[Pricing page hero with large Goga display type, green accent word 'magical', compute costs panel, and three-tier pricing cards with green gradient tops.](https://design.withfudge.com/share/pin-9043)
+[Pricing page hero with large Goga display type, green accent word 'magical', compute costs panel, and three-tier pricing cards with green gradient tops.](https://fudge.design/share/pin-9043)
 
-[![Light-themed pricing section with credit grant cards for startups, academics, and committed spend, plus sandbox pricing with 3D green cube illustration.](https://pin.fontofweb.com/9042?format=jpg)](https://design.withfudge.com/share/pin-9042)
+[![Light-themed pricing section with credit grant cards for startups, academics, and committed spend, plus sandbox pricing with 3D green cube illustration.](https://pin.fontofweb.com/9042?format=jpg)](https://fudge.design/share/pin-9042)
 
-[Light-themed pricing section with credit grant cards for startups, academics, and committed spend, plus sandbox pricing with 3D green cube illustration.](https://design.withfudge.com/share/pin-9042)
+[Light-themed pricing section with credit grant cards for startups, academics, and committed spend, plus sandbox pricing with 3D green cube illustration.](https://fudge.design/share/pin-9042)
 
-[![Dark call-to-action section with floating green translucent cubes and 'Create your first notebook now' headline with lime green pill button.](https://pin.fontofweb.com/9041?format=jpg)](https://design.withfudge.com/share/pin-9041)
+[![Dark call-to-action section with floating green translucent cubes and 'Create your first notebook now' headline with lime green pill button.](https://pin.fontofweb.com/9041?format=jpg)](https://fudge.design/share/pin-9041)
 
-[Dark call-to-action section with floating green translucent cubes and 'Create your first notebook now' headline with lime green pill button.](https://design.withfudge.com/share/pin-9041)
+[Dark call-to-action section with floating green translucent cubes and 'Create your first notebook now' headline with lime green pill button.](https://fudge.design/share/pin-9041)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Typography scales down by approximately 30-40% on mobile: hero-display from 4rem
 ## Scope note
 
 This guide covers the pricing page, product pages, and homepage surfaces visible in the supplied images. It does not include documentation pages, dashboard interfaces, blog templates, or mobile-specific layouts. Motion design, loading states, and form validation styling are not represented. Degular and Inter Tight are present in source files but not visibly deployed in captured interfaces. Measurements are exact where retained and practical adaptation targets where inferred from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

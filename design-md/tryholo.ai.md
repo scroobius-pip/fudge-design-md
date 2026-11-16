@@ -1,26 +1,26 @@
 # How tryholo.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tryholo.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/tryholo.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with gradient-bordered card, 3D chip mascot, and feature carousel with circular navigation arrows](https://pin.fontofweb.com/7480?format=jpg)](https://design.withfudge.com/share/pin-7480)
+[![Pricing page hero with gradient-bordered card, 3D chip mascot, and feature carousel with circular navigation arrows](https://pin.fontofweb.com/7480?format=jpg)](https://fudge.design/share/pin-7480)
 
-[Pricing page hero with gradient-bordered card, 3D chip mascot, and feature carousel with circular navigation arrows](https://design.withfudge.com/share/pin-7480)
+[Pricing page hero with gradient-bordered card, 3D chip mascot, and feature carousel with circular navigation arrows](https://fudge.design/share/pin-7480)
 
-[![Pricing tier card showing Holo mascot with purple visor, $39/month price point, and three icon-led feature rows](https://pin.fontofweb.com/7479?format=jpg)](https://design.withfudge.com/share/pin-7479)
+[![Pricing tier card showing Holo mascot with purple visor, $39/month price point, and three icon-led feature rows](https://pin.fontofweb.com/7479?format=jpg)](https://fudge.design/share/pin-7479)
 
-[Pricing tier card showing Holo mascot with purple visor, $39/month price point, and three icon-led feature rows](https://design.withfudge.com/share/pin-7479)
+[Pricing tier card showing Holo mascot with purple visor, $39/month price point, and three icon-led feature rows](https://fudge.design/share/pin-7479)
 
-[![Mission statement with inline emoji illustrations and bold declarative typography on stark white background](https://pin.fontofweb.com/7478?format=jpg)](https://design.withfudge.com/share/pin-7478)
+[![Mission statement with inline emoji illustrations and bold declarative typography on stark white background](https://pin.fontofweb.com/7478?format=jpg)](https://fudge.design/share/pin-7478)
 
-[Mission statement with inline emoji illustrations and bold declarative typography on stark white background](https://design.withfudge.com/share/pin-7478)
+[Mission statement with inline emoji illustrations and bold declarative typography on stark white background](https://fudge.design/share/pin-7478)
 
-[![Three-step process explainer with numbered steps, gradient vertical connectors, and abstract UI mockup illustrations](https://pin.fontofweb.com/7477?format=jpg)](https://design.withfudge.com/share/pin-7477)
+[![Three-step process explainer with numbered steps, gradient vertical connectors, and abstract UI mockup illustrations](https://pin.fontofweb.com/7477?format=jpg)](https://fudge.design/share/pin-7477)
 
-[Three-step process explainer with numbered steps, gradient vertical connectors, and abstract UI mockup illustrations](https://design.withfudge.com/share/pin-7477)
+[Three-step process explainer with numbered steps, gradient vertical connectors, and abstract UI mockup illustrations](https://fudge.design/share/pin-7477)
 
 ## Overview
 
@@ -210,3 +210,18 @@ The step-by-step explainer's gradient vertical connectors should remain visible 
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces of tryholo.ai. The dashboard, account management, content editor, and mobile application interfaces are not represented. Motion behavior, hover states, form validation, and dark mode variants are not documented. Measurements reflect the extracted desktop viewport values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

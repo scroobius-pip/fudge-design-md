@@ -1,26 +1,26 @@
 # How nvg8.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nvg8.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/nvg8.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with split layout: vibrant fashion illustration on green background paired with purple panel containing oversized display typography and pill-shaped CTA button, plus](https://pin.fontofweb.com/8491?format=jpg)](https://design.withfudge.com/share/pin-8491)
+[![Hero section with split layout: vibrant fashion illustration on green background paired with purple panel containing oversized display typography and pill-shaped CTA button, plus](https://pin.fontofweb.com/8491?format=jpg)](https://fudge.design/share/pin-8491)
 
-[Hero section with split layout: vibrant fashion illustration on green background paired with purple panel containing oversized display typography and pill-shaped CTA button, plus](https://design.withfudge.com/share/pin-8491)
+[Hero section with split layout: vibrant fashion illustration on green background paired with purple panel containing oversized display typography and pill-shaped CTA button, plus](https://fudge.design/share/pin-8491)
 
-[![Dark hero section with massive cream-colored display headline 'Playing Data Quest to Build' overlaid with colorful floating badges and icons, followed by centered body copy on](https://pin.fontofweb.com/8490?format=jpg)](https://design.withfudge.com/share/pin-8490)
+[![Dark hero section with massive cream-colored display headline 'Playing Data Quest to Build' overlaid with colorful floating badges and icons, followed by centered body copy on](https://pin.fontofweb.com/8490?format=jpg)](https://fudge.design/share/pin-8490)
 
-[Dark hero section with massive cream-colored display headline 'Playing Data Quest to Build' overlaid with colorful floating badges and icons, followed by centered body copy on](https://design.withfudge.com/share/pin-8490)
+[Dark hero section with massive cream-colored display headline 'Playing Data Quest to Build' overlaid with colorful floating badges and icons, followed by centered body copy on](https://fudge.design/share/pin-8490)
 
-[![Orange background FAQ section with extremely large black display heading 'Most Common Questions', featuring pill-shaped question toggles and rounded answer cards with cream](https://pin.fontofweb.com/8488?format=jpg)](https://design.withfudge.com/share/pin-8488)
+[![Orange background FAQ section with extremely large black display heading 'Most Common Questions', featuring pill-shaped question toggles and rounded answer cards with cream](https://pin.fontofweb.com/8488?format=jpg)](https://fudge.design/share/pin-8488)
 
-[Orange background FAQ section with extremely large black display heading 'Most Common Questions', featuring pill-shaped question toggles and rounded answer cards with cream](https://design.withfudge.com/share/pin-8488)
+[Orange background FAQ section with extremely large black display heading 'Most Common Questions', featuring pill-shaped question toggles and rounded answer cards with cream](https://fudge.design/share/pin-8488)
 
-[![Isolated navigation bar with dark charcoal pill-shaped container, orange square logo mark, white text links, and bright lime-green pill CTA button on orange background.](https://pin.fontofweb.com/8487?format=jpg)](https://design.withfudge.com/share/pin-8487)
+[![Isolated navigation bar with dark charcoal pill-shaped container, orange square logo mark, white text links, and bright lime-green pill CTA button on orange background.](https://pin.fontofweb.com/8487?format=jpg)](https://fudge.design/share/pin-8487)
 
-[Isolated navigation bar with dark charcoal pill-shaped container, orange square logo mark, white text links, and bright lime-green pill CTA button on orange background.](https://design.withfudge.com/share/pin-8487)
+[Isolated navigation bar with dark charcoal pill-shaped container, orange square logo mark, white text links, and bright lime-green pill CTA button on orange background.](https://fudge.design/share/pin-8487)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Color and shape language should remain consistent across breakpoints. The rounde
 ## Scope note
 
 This guide covers the NVG8 landing page surface including hero, FAQ, and footer sections. Motion behavior, additional interior pages, form validation states, and mobile-specific layouts are not represented in the available material. The rounded corner values and spacing measurements reflect the desktop viewport proportions visible in the source.
+
+## Related design patterns
+
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

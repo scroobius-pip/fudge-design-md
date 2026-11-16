@@ -1,26 +1,26 @@
 # How regeneratio.eu is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/regeneratio.eu-design)
+[Open the live Fudge conversation](https://fudge.design/share/regeneratio.eu-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer section with three-column layout showing expertise description, contact details, and legal links with social icons](https://pin.fontofweb.com/1411?format=jpg)](https://design.withfudge.com/share/pin-1411)
+[![Dark footer section with three-column layout showing expertise description, contact details, and legal links with social icons](https://pin.fontofweb.com/1411?format=jpg)](https://fudge.design/share/pin-1411)
 
-[Dark footer section with three-column layout showing expertise description, contact details, and legal links with social icons](https://design.withfudge.com/share/pin-1411)
+[Dark footer section with three-column layout showing expertise description, contact details, and legal links with social icons](https://fudge.design/share/pin-1411)
 
-[![News section titled Aktuelles & Informatives with three article cards featuring photography, book covers, and green-tinted imagery with black buttons](https://pin.fontofweb.com/1410?format=jpg)](https://design.withfudge.com/share/pin-1410)
+[![News section titled Aktuelles & Informatives with three article cards featuring photography, book covers, and green-tinted imagery with black buttons](https://pin.fontofweb.com/1410?format=jpg)](https://fudge.design/share/pin-1410)
 
-[News section titled Aktuelles & Informatives with three article cards featuring photography, book covers, and green-tinted imagery with black buttons](https://design.withfudge.com/share/pin-1410)
+[News section titled Aktuelles & Informatives with three article cards featuring photography, book covers, and green-tinted imagery with black buttons](https://fudge.design/share/pin-1410)
 
-[![Expertise section with portrait photograph and five expandable accordion items with plus icons on white background](https://pin.fontofweb.com/1409?format=jpg)](https://design.withfudge.com/share/pin-1409)
+[![Expertise section with portrait photograph and five expandable accordion items with plus icons on white background](https://pin.fontofweb.com/1409?format=jpg)](https://fudge.design/share/pin-1409)
 
-[Expertise section with portrait photograph and five expandable accordion items with plus icons on white background](https://design.withfudge.com/share/pin-1409)
+[Expertise section with portrait photograph and five expandable accordion items with plus icons on white background](https://fudge.design/share/pin-1409)
 
-[![Services section with three large circular icons on white discs above black rectangular buttons on light gray background](https://pin.fontofweb.com/1408?format=jpg)](https://design.withfudge.com/share/pin-1408)
+[![Services section with three large circular icons on white discs above black rectangular buttons on light gray background](https://pin.fontofweb.com/1408?format=jpg)](https://fudge.design/share/pin-1408)
 
-[Services section with three large circular icons on white discs above black rectangular buttons on light gray background](https://design.withfudge.com/share/pin-1408)
+[Services section with three large circular icons on white discs above black rectangular buttons on light gray background](https://fudge.design/share/pin-1408)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Touch targets for accordion items and buttons should maintain minimum 44px heigh
 ## Scope note
 
 This guide covers the visible homepage sections including services, expertise, news, and footer. Navigation, mobile menu behavior, form interactions, and interior page templates are not represented in the supplied images. Measurements are practical adaptation targets derived from visual estimation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

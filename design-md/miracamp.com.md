@@ -1,26 +1,26 @@
 # How miracamp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/miracamp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/miracamp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Courses page showing a grid of six course cards with photography thumbnails, bold headings, body copy, and black pill-shaped CTA buttons on a white background.](https://pin.fontofweb.com/4724?format=jpg)](https://design.withfudge.com/share/pin-4724)
+[![Courses page showing a grid of six course cards with photography thumbnails, bold headings, body copy, and black pill-shaped CTA buttons on a white background.](https://pin.fontofweb.com/4724?format=jpg)](https://fudge.design/share/pin-4724)
 
-[Courses page showing a grid of six course cards with photography thumbnails, bold headings, body copy, and black pill-shaped CTA buttons on a white background.](https://design.withfudge.com/share/pin-4724)
+[Courses page showing a grid of six course cards with photography thumbnails, bold headings, body copy, and black pill-shaped CTA buttons on a white background.](https://fudge.design/share/pin-4724)
 
-[![Dark footer with Miracamp logo, company description, email link, and four-column link groups for Company, Social, and Terms & policies on a pure black background.](https://pin.fontofweb.com/4723?format=jpg)](https://design.withfudge.com/share/pin-4723)
+[![Dark footer with Miracamp logo, company description, email link, and four-column link groups for Company, Social, and Terms & policies on a pure black background.](https://pin.fontofweb.com/4723?format=jpg)](https://fudge.design/share/pin-4723)
 
-[Dark footer with Miracamp logo, company description, email link, and four-column link groups for Company, Social, and Terms & policies on a pure black background.](https://design.withfudge.com/share/pin-4723)
+[Dark footer with Miracamp logo, company description, email link, and four-column link groups for Company, Social, and Terms & policies on a pure black background.](https://fudge.design/share/pin-4723)
 
-[![Student testimonial carousel with a centered quote in a light gray rounded card, purple accent underline, circular avatar, and minimal arrow navigation on white.](https://pin.fontofweb.com/4722?format=jpg)](https://design.withfudge.com/share/pin-4722)
+[![Student testimonial carousel with a centered quote in a light gray rounded card, purple accent underline, circular avatar, and minimal arrow navigation on white.](https://pin.fontofweb.com/4722?format=jpg)](https://fudge.design/share/pin-4722)
 
-[Student testimonial carousel with a centered quote in a light gray rounded card, purple accent underline, circular avatar, and minimal arrow navigation on white.](https://design.withfudge.com/share/pin-4722)
+[Student testimonial carousel with a centered quote in a light gray rounded card, purple accent underline, circular avatar, and minimal arrow navigation on white.](https://fudge.design/share/pin-4722)
 
-[![Alternative student testimonial showing a shorter quote with circular avatar, name attribution, and matching purple accent underline treatment.](https://pin.fontofweb.com/4721?format=jpg)](https://design.withfudge.com/share/pin-4721)
+[![Alternative student testimonial showing a shorter quote with circular avatar, name attribution, and matching purple accent underline treatment.](https://pin.fontofweb.com/4721?format=jpg)](https://fudge.design/share/pin-4721)
 
-[Alternative student testimonial showing a shorter quote with circular avatar, name attribution, and matching purple accent underline treatment.](https://design.withfudge.com/share/pin-4721)
+[Alternative student testimonial showing a shorter quote with circular avatar, name attribution, and matching purple accent underline treatment.](https://fudge.design/share/pin-4721)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The three-column course grid should collapse to two columns on medium viewports 
 ## Scope note
 
 This guide covers the visible homepage and courses page surfaces, including the course grid, testimonial carousel, and footer. Mobile breakpoints, navigation dropdowns, form interactions, and motion behavior are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

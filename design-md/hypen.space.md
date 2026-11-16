@@ -1,26 +1,26 @@
 # How hypen.space is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hypen.space-design)
+[Open the live Fudge conversation](https://fudge.design/share/hypen.space-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Roadmap section with version timeline from V0.5 to V1.0, pink accent labels, and CTA footer with START BUILDING button](https://pin.fontofweb.com/9381?format=jpg)](https://design.withfudge.com/share/pin-9381)
+[![Roadmap section with version timeline from V0.5 to V1.0, pink accent labels, and CTA footer with START BUILDING button](https://pin.fontofweb.com/9381?format=jpg)](https://fudge.design/share/pin-9381)
 
-[Roadmap section with version timeline from V0.5 to V1.0, pink accent labels, and CTA footer with START BUILDING button](https://design.withfudge.com/share/pin-9381)
+[Roadmap section with version timeline from V0.5 to V1.0, pink accent labels, and CTA footer with START BUILDING button](https://fudge.design/share/pin-9381)
 
-[![Close-up of roadmap timeline showing CURRENT and STABLE badges with pink and muted text on black background](https://pin.fontofweb.com/9380?format=jpg)](https://design.withfudge.com/share/pin-9380)
+[![Close-up of roadmap timeline showing CURRENT and STABLE badges with pink and muted text on black background](https://pin.fontofweb.com/9380?format=jpg)](https://fudge.design/share/pin-9380)
 
-[Close-up of roadmap timeline showing CURRENT and STABLE badges with pink and muted text on black background](https://design.withfudge.com/share/pin-9380)
+[Close-up of roadmap timeline showing CURRENT and STABLE badges with pink and muted text on black background](https://fudge.design/share/pin-9380)
 
-[![Remote UI feature section with code editor tabs, embedded app previews, and stacked APPPS typography](https://pin.fontofweb.com/9379?format=jpg)](https://design.withfudge.com/share/pin-9379)
+[![Remote UI feature section with code editor tabs, embedded app previews, and stacked APPPS typography](https://pin.fontofweb.com/9379?format=jpg)](https://fudge.design/share/pin-9379)
 
-[Remote UI feature section with code editor tabs, embedded app previews, and stacked APPPS typography](https://design.withfudge.com/share/pin-9379)
+[Remote UI feature section with code editor tabs, embedded app previews, and stacked APPPS typography](https://fudge.design/share/pin-9379)
 
-[![Every Screen Natively hero with three platform mockups showing iOS SwiftUI, Web, and Android Compose with pink buttons](https://pin.fontofweb.com/9378?format=jpg)](https://design.withfudge.com/share/pin-9378)
+[![Every Screen Natively hero with three platform mockups showing iOS SwiftUI, Web, and Android Compose with pink buttons](https://pin.fontofweb.com/9378?format=jpg)](https://fudge.design/share/pin-9378)
 
-[Every Screen Natively hero with three platform mockups showing iOS SwiftUI, Web, and Android Compose with pink buttons](https://design.withfudge.com/share/pin-9378)
+[Every Screen Natively hero with three platform mockups showing iOS SwiftUI, Web, and Android Compose with pink buttons](https://fudge.design/share/pin-9378)
 
 ## Overview
 
@@ -191,3 +191,18 @@ Platform mockups would stack vertically rather than appearing side-by-side. Navi
 ## Scope note
 
 This guide covers the marketing homepage surface including hero, feature sections, roadmap timeline, and footer. Documentation pages, interactive playgrounds, and authenticated dashboard interfaces are not represented. Motion behavior, mobile breakpoints, and form validation states are not visible in the supplied material. Measurements are derived from the exact values in the design facts.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

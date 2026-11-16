@@ -1,26 +1,26 @@
 # How squeak.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/squeak.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/squeak.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with Squeak balloon mascot, platform download buttons, and system browser screenshot](https://pin.fontofweb.com/10806?format=jpg)](https://design.withfudge.com/share/pin-10806)
+[![Homepage hero with Squeak balloon mascot, platform download buttons, and system browser screenshot](https://pin.fontofweb.com/10806?format=jpg)](https://fudge.design/share/pin-10806)
 
-[Homepage hero with Squeak balloon mascot, platform download buttons, and system browser screenshot](https://design.withfudge.com/share/pin-10806)
+[Homepage hero with Squeak balloon mascot, platform download buttons, and system browser screenshot](https://fudge.design/share/pin-10806)
 
-[![Downloads page with Quick Download table, Current Trunk section, and Virtual Machines table](https://pin.fontofweb.com/10809?format=jpg)](https://design.withfudge.com/share/pin-10809)
+[![Downloads page with Quick Download table, Current Trunk section, and Virtual Machines table](https://pin.fontofweb.com/10809?format=jpg)](https://fudge.design/share/pin-10809)
 
-[Downloads page with Quick Download table, Current Trunk section, and Virtual Machines table](https://design.withfudge.com/share/pin-10809)
+[Downloads page with Quick Download table, Current Trunk section, and Virtual Machines table](https://fudge.design/share/pin-10809)
 
-[![Documentation page with book covers grid, video links, and Getting Started resources](https://pin.fontofweb.com/10808?format=jpg)](https://design.withfudge.com/share/pin-10808)
+[![Documentation page with book covers grid, video links, and Getting Started resources](https://pin.fontofweb.com/10808?format=jpg)](https://fudge.design/share/pin-10808)
 
-[Documentation page with book covers grid, video links, and Getting Started resources](https://design.withfudge.com/share/pin-10808)
+[Documentation page with book covers grid, video links, and Getting Started resources](https://fudge.design/share/pin-10808)
 
-[![Homepage lower section with Features grid including Smalltalk, Morphic UI, and Fast VM descriptions](https://pin.fontofweb.com/10807?format=jpg)](https://design.withfudge.com/share/pin-10807)
+[![Homepage lower section with Features grid including Smalltalk, Morphic UI, and Fast VM descriptions](https://pin.fontofweb.com/10807?format=jpg)](https://fudge.design/share/pin-10807)
 
-[Homepage lower section with Features grid including Smalltalk, Morphic UI, and Fast VM descriptions](https://design.withfudge.com/share/pin-10807)
+[Homepage lower section with Features grid including Smalltalk, Morphic UI, and Fast VM descriptions](https://fudge.design/share/pin-10807)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The substantial horizontal margins (443px on some elements) suggest a very wide 
 ## Scope note
 
 This guide covers the homepage, Downloads, and Documentation pages as visible in the supplied captures. The design system describes light-mode presentation only; dark mode is not represented. Mobile breakpoints, animation, form validation states, and interactive hover effects are not documented from the still images. Measurements are derived from the supplied design facts with exact values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

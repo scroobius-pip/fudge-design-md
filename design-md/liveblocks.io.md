@@ -1,26 +1,26 @@
 # How liveblocks.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/liveblocks.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/liveblocks.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered display headline, white primary button, and curved gradient arc on black background with footer navigation columns](https://pin.fontofweb.com/8084?format=jpg)](https://design.withfudge.com/share/pin-8084)
+[![Hero section with centered display headline, white primary button, and curved gradient arc on black background with footer navigation columns](https://pin.fontofweb.com/8084?format=jpg)](https://fudge.design/share/pin-8084)
 
-[Hero section with centered display headline, white primary button, and curved gradient arc on black background with footer navigation columns](https://design.withfudge.com/share/pin-8084)
+[Hero section with centered display headline, white primary button, and curved gradient arc on black background with footer navigation columns](https://fudge.design/share/pin-8084)
 
-[![Feature cards with dashboard preview, agility testimonial quote, and four benefit icons in a bordered grid layout](https://pin.fontofweb.com/8083?format=jpg)](https://design.withfudge.com/share/pin-8083)
+[![Feature cards with dashboard preview, agility testimonial quote, and four benefit icons in a bordered grid layout](https://pin.fontofweb.com/8083?format=jpg)](https://fudge.design/share/pin-8083)
 
-[Feature cards with dashboard preview, agility testimonial quote, and four benefit icons in a bordered grid layout](https://design.withfudge.com/share/pin-8083)
+[Feature cards with dashboard preview, agility testimonial quote, and four benefit icons in a bordered grid layout](https://fudge.design/share/pin-8083)
 
-[![Code editor interface showing syntax-highlighted React code with floating AI toolbar and colored token accents](https://pin.fontofweb.com/8082?format=jpg)](https://design.withfudge.com/share/pin-8082)
+[![Code editor interface showing syntax-highlighted React code with floating AI toolbar and colored token accents](https://pin.fontofweb.com/8082?format=jpg)](https://fudge.design/share/pin-8082)
 
-[Code editor interface showing syntax-highlighted React code with floating AI toolbar and colored token accents](https://design.withfudge.com/share/pin-8082)
+[Code editor interface showing syntax-highlighted React code with floating AI toolbar and colored token accents](https://fudge.design/share/pin-8082)
 
-[![Feature overview panel with colored product icons, four-quadrant benefit grid, and large display text about human-AI collaboration](https://pin.fontofweb.com/8081?format=jpg)](https://design.withfudge.com/share/pin-8081)
+[![Feature overview panel with colored product icons, four-quadrant benefit grid, and large display text about human-AI collaboration](https://pin.fontofweb.com/8081?format=jpg)](https://fudge.design/share/pin-8081)
 
-[Feature overview panel with colored product icons, four-quadrant benefit grid, and large display text about human-AI collaboration](https://design.withfudge.com/share/pin-8081)
+[Feature overview panel with colored product icons, four-quadrant benefit grid, and large display text about human-AI collaboration](https://fudge.design/share/pin-8081)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Touch targets for buttons and links must maintain minimum 44px height regardless
 ## Scope note
 
 This guide covers the Liveblocks marketing homepage and product feature surfaces visible in the supplied captures. Pricing pages, documentation interior pages, dashboard interfaces, and mobile-native applications are not represented. Interactive states including hover, active, focus, and loading behaviors should be validated against live implementation. Measurements are exact where retained and practical adaptation targets where rounded to the 2px base grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

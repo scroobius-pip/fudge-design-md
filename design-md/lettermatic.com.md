@@ -1,26 +1,26 @@
 # How lettermatic.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lettermatic.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lettermatic.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized black display type, yellow scribble underline, and stacked font specimen cards with torn-paper edges](https://pin.fontofweb.com/5967?format=jpg)](https://design.withfudge.com/share/pin-5967)
+[![Homepage hero with oversized black display type, yellow scribble underline, and stacked font specimen cards with torn-paper edges](https://pin.fontofweb.com/5967?format=jpg)](https://fudge.design/share/pin-5967)
 
-[Homepage hero with oversized black display type, yellow scribble underline, and stacked font specimen cards with torn-paper edges](https://design.withfudge.com/share/pin-5967)
+[Homepage hero with oversized black display type, yellow scribble underline, and stacked font specimen cards with torn-paper edges](https://fudge.design/share/pin-5967)
 
-[![Footer section with black background, white text, pink and cyan scribble illustrations, and multi-column link layout](https://pin.fontofweb.com/5970?format=jpg)](https://design.withfudge.com/share/pin-5970)
+[![Footer section with black background, white text, pink and cyan scribble illustrations, and multi-column link layout](https://pin.fontofweb.com/5970?format=jpg)](https://fudge.design/share/pin-5970)
 
-[Footer section with black background, white text, pink and cyan scribble illustrations, and multi-column link layout](https://design.withfudge.com/share/pin-5970)
+[Footer section with black background, white text, pink and cyan scribble illustrations, and multi-column link layout](https://fudge.design/share/pin-5970)
 
-[![Parclo Serif font showcase card with orange gradient background, brown torn-paper specimen, and white Learn More button](https://pin.fontofweb.com/5969?format=jpg)](https://design.withfudge.com/share/pin-5969)
+[![Parclo Serif font showcase card with orange gradient background, brown torn-paper specimen, and white Learn More button](https://pin.fontofweb.com/5969?format=jpg)](https://fudge.design/share/pin-5969)
 
-[Parclo Serif font showcase card with orange gradient background, brown torn-paper specimen, and white Learn More button](https://design.withfudge.com/share/pin-5969)
+[Parclo Serif font showcase card with orange gradient background, brown torn-paper specimen, and white Learn More button](https://fudge.design/share/pin-5969)
 
-[![Custom Fonts service card with gray background, magenta torn-paper accent, black ampersand illustration, and Learn More button](https://pin.fontofweb.com/5968?format=jpg)](https://design.withfudge.com/share/pin-5968)
+[![Custom Fonts service card with gray background, magenta torn-paper accent, black ampersand illustration, and Learn More button](https://pin.fontofweb.com/5968?format=jpg)](https://fudge.design/share/pin-5968)
 
-[Custom Fonts service card with gray background, magenta torn-paper accent, black ampersand illustration, and Learn More button](https://design.withfudge.com/share/pin-5968)
+[Custom Fonts service card with gray background, magenta torn-paper accent, black ampersand illustration, and Learn More button](https://fudge.design/share/pin-5968)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The torn-paper card effects and scribble illustrations should scale proportional
 ## Scope note
 
 This guide covers the Lettermatic homepage and its primary components as visible in the supplied captures. Interior pages, font detail views, licensing flows, and the checkout experience are not represented. Mobile breakpoints, hover states, loading sequences, and form validation styling are not documented. The newsletter subscription functionality appears in the footer but its form states are not covered. Measurements reflect the desktop viewport widths captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

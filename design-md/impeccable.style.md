@@ -1,26 +1,26 @@
 # How impeccable.style is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/impeccable.style-design)
+[Open the live Fudge conversation](https://fudge.design/share/impeccable.style-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://pin.fontofweb.com/9917?format=jpg)](https://design.withfudge.com/share/pin-9917)
+[![Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://pin.fontofweb.com/9917?format=jpg)](https://fudge.design/share/pin-9917)
 
-[Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://design.withfudge.com/share/pin-9917)
+[Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://fudge.design/share/pin-9917)
 
-[![Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://pin.fontofweb.com/9916?format=jpg)](https://design.withfudge.com/share/pin-9916)
+[![Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://pin.fontofweb.com/9916?format=jpg)](https://fudge.design/share/pin-9916)
 
-[Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://design.withfudge.com/share/pin-9916)
+[Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://fudge.design/share/pin-9916)
 
-[![Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://pin.fontofweb.com/7738?format=jpg)](https://design.withfudge.com/share/pin-7738)
+[![Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://pin.fontofweb.com/7738?format=jpg)](https://fudge.design/share/pin-7738)
 
-[Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://design.withfudge.com/share/pin-7738)
+[Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://fudge.design/share/pin-7738)
 
-[![Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://pin.fontofweb.com/7737?format=jpg)](https://design.withfudge.com/share/pin-7737)
+[![Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://pin.fontofweb.com/7737?format=jpg)](https://fudge.design/share/pin-7737)
 
-[Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://design.withfudge.com/share/pin-7737)
+[Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://fudge.design/share/pin-7737)
 
 ## Overview
 
@@ -215,3 +215,18 @@ Terminal blocks should remain horizontally scrollable rather than wrapping, pres
 ## Scope note
 
 This guide covers the landing page and documentation surfaces of impeccable.style as visible in the supplied captures. The dark theme's full feature catalog, interactive command demonstrations, and any motion behaviors are not represented. The light theme's complete FAQ and changelog entries are partially shown. Measurements derive from the retained interface data with font sizes snapped to the 2px base grid where exact values were not recorded.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How builder.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/builder.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/builder.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark gradient background, centered headline, AI prompt input field, and purple-accented action buttons](https://pin.fontofweb.com/4244?format=jpg)](https://design.withfudge.com/share/pin-4244)
+[![Hero section with dark gradient background, centered headline, AI prompt input field, and purple-accented action buttons](https://pin.fontofweb.com/4244?format=jpg)](https://fudge.design/share/pin-4244)
 
-[Hero section with dark gradient background, centered headline, AI prompt input field, and purple-accented action buttons](https://design.withfudge.com/share/pin-4244)
+[Hero section with dark gradient background, centered headline, AI prompt input field, and purple-accented action buttons](https://fudge.design/share/pin-4244)
 
-[![Feature section with product screenshot, cyan eyebrow label, and alternating dark card layouts with checkmark lists](https://pin.fontofweb.com/4245?format=jpg)](https://design.withfudge.com/share/pin-4245)
+[![Feature section with product screenshot, cyan eyebrow label, and alternating dark card layouts with checkmark lists](https://pin.fontofweb.com/4245?format=jpg)](https://fudge.design/share/pin-4245)
 
-[Feature section with product screenshot, cyan eyebrow label, and alternating dark card layouts with checkmark lists](https://design.withfudge.com/share/pin-4245)
+[Feature section with product screenshot, cyan eyebrow label, and alternating dark card layouts with checkmark lists](https://fudge.design/share/pin-4245)
 
-[![Newsletter signup with purple toggle switches, email input field, and multi-column footer with purple category headers](https://pin.fontofweb.com/4246?format=jpg)](https://design.withfudge.com/share/pin-4246)
+[![Newsletter signup with purple toggle switches, email input field, and multi-column footer with purple category headers](https://pin.fontofweb.com/4246?format=jpg)](https://fudge.design/share/pin-4246)
 
-[Newsletter signup with purple toggle switches, email input field, and multi-column footer with purple category headers](https://design.withfudge.com/share/pin-4246)
+[Newsletter signup with purple toggle switches, email input field, and multi-column footer with purple category headers](https://fudge.design/share/pin-4246)
 
-[![AI chat input interface with dark translucent panel, subtle border, and minimal attach button with send icon](https://pin.fontofweb.com/4247?format=jpg)](https://design.withfudge.com/share/pin-4247)
+[![AI chat input interface with dark translucent panel, subtle border, and minimal attach button with send icon](https://pin.fontofweb.com/4247?format=jpg)](https://fudge.design/share/pin-4247)
 
-[AI chat input interface with dark translucent panel, subtle border, and minimal attach button with send icon](https://design.withfudge.com/share/pin-4247)
+[AI chat input interface with dark translucent panel, subtle border, and minimal attach button with send icon](https://fudge.design/share/pin-4247)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Navigation should collapse to a hamburger menu on mobile, with the logo and prim
 ## Scope note
 
 This guide covers the Builder.io homepage including hero, feature sections, newsletter signup, and footer. Navigation dropdown states, additional interior pages, and motion behavior are not represented in the available material. Measurements are practical adaptation targets derived from visible proportions in the supplied imagery.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

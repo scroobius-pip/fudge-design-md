@@ -1,18 +1,18 @@
 # How godly.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/godly.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/godly.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dense masonry grid of website screenshots with a centered dark subscribe CTA and category pills, showing the main browsing surface of the Godly inspiration gallery.](https://pin.fontofweb.com/7443?format=jpg)](https://design.withfudge.com/share/pin-7443)
+[![Dense masonry grid of website screenshots with a centered dark subscribe CTA and category pills, showing the main browsing surface of the Godly inspiration gallery.](https://pin.fontofweb.com/7443?format=jpg)](https://fudge.design/share/pin-7443)
 
-[Dense masonry grid of website screenshots with a centered dark subscribe CTA and category pills, showing the main browsing surface of the Godly inspiration gallery.](https://design.withfudge.com/share/pin-7443)
+[Dense masonry grid of website screenshots with a centered dark subscribe CTA and category pills, showing the main browsing surface of the Godly inspiration gallery.](https://fudge.design/share/pin-7443)
 
-[![Dark modal filter panel with active pill tags, category tabs, and a font list with counts, overlaid on a blurred grid background.](https://pin.fontofweb.com/7432?format=jpg)](https://design.withfudge.com/share/pin-7432)
+[![Dark modal filter panel with active pill tags, category tabs, and a font list with counts, overlaid on a blurred grid background.](https://pin.fontofweb.com/7432?format=jpg)](https://fudge.design/share/pin-7432)
 
-[Dark modal filter panel with active pill tags, category tabs, and a font list with counts, overlaid on a blurred grid background.](https://design.withfudge.com/share/pin-7432)
+[Dark modal filter panel with active pill tags, category tabs, and a font list with counts, overlaid on a blurred grid background.](https://fudge.design/share/pin-7432)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Filter pills may wrap to multiple rows on narrow screens. The category tab row i
 ## Scope note
 
 This guide covers the main browsing grid and filter modal surfaces of the Godly homepage. It does not include individual website detail pages, submission flows, account management, or mobile-specific layouts. Motion, hover states, and loading skeletons are not documented. Measurements reflect the exact values retained from the interface analysis.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Mixed mode](/share/designs-with-color.mode.mixed)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

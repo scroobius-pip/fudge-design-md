@@ -1,26 +1,26 @@
 # How vendors.paddle.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vendors.paddle.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vendors.paddle.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with dark testimonial block featuring radial gradient background and quote typography](https://pin.fontofweb.com/7187?format=jpg)](https://design.withfudge.com/share/pin-7187)
+[![FAQ section with dark testimonial block featuring radial gradient background and quote typography](https://pin.fontofweb.com/7187?format=jpg)](https://fudge.design/share/pin-7187)
 
-[FAQ section with dark testimonial block featuring radial gradient background and quote typography](https://design.withfudge.com/share/pin-7187)
+[FAQ section with dark testimonial block featuring radial gradient background and quote typography](https://fudge.design/share/pin-7187)
 
-[![ProfitWell integration modal overlay with dark hero gradient and step indicator UI](https://pin.fontofweb.com/7186?format=jpg)](https://design.withfudge.com/share/pin-7186)
+[![ProfitWell integration modal overlay with dark hero gradient and step indicator UI](https://pin.fontofweb.com/7186?format=jpg)](https://fudge.design/share/pin-7186)
 
-[ProfitWell integration modal overlay with dark hero gradient and step indicator UI](https://design.withfudge.com/share/pin-7186)
+[ProfitWell integration modal overlay with dark hero gradient and step indicator UI](https://fudge.design/share/pin-7186)
 
-[![Invoices list page with empty state, search field, and dark sidebar navigation](https://pin.fontofweb.com/6757?format=jpg)](https://design.withfudge.com/share/pin-6757)
+[![Invoices list page with empty state, search field, and dark sidebar navigation](https://pin.fontofweb.com/6757?format=jpg)](https://fudge.design/share/pin-6757)
 
-[Invoices list page with empty state, search field, and dark sidebar navigation](https://design.withfudge.com/share/pin-6757)
+[Invoices list page with empty state, search field, and dark sidebar navigation](https://fudge.design/share/pin-6757)
 
-[![Sandbox experimentation section with code snippet preview and three-column guide cards](https://pin.fontofweb.com/6756?format=jpg)](https://design.withfudge.com/share/pin-6756)
+[![Sandbox experimentation section with code snippet preview and three-column guide cards](https://pin.fontofweb.com/6756?format=jpg)](https://fudge.design/share/pin-6756)
 
-[Sandbox experimentation section with code snippet preview and three-column guide cards](https://design.withfudge.com/share/pin-6756)
+[Sandbox experimentation section with code snippet preview and three-column guide cards](https://fudge.design/share/pin-6756)
 
 ## Overview
 
@@ -221,3 +221,18 @@ Search and filter controls on list pages stack vertically below 768px, with the 
 ## Scope note
 
 This guide covers the Paddle vendor dashboard's core interface patterns as visible in the overview, invoicing, onboarding, and subscription metrics surfaces. Mobile layouts below 768px, animation specifications, dark mode variants beyond the fixed sidebar, complex data visualization components such as interactive charts, and status badge color variants are not included. System-Sansserif appears only as a fallback family in limited rendering contexts and is not recommended for primary use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

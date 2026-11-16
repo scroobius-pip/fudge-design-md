@@ -1,18 +1,18 @@
 # How jarbus.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jarbus.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/jarbus.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog post page with pixel-art tree illustration, date badge, navigation links, and fiction body text in monospace font on black background](https://pin.fontofweb.com/3824?format=jpg)](https://design.withfudge.com/share/pin-3824)
+[![Blog post page with pixel-art tree illustration, date badge, navigation links, and fiction body text in monospace font on black background](https://pin.fontofweb.com/3824?format=jpg)](https://fudge.design/share/pin-3824)
 
-[Blog post page with pixel-art tree illustration, date badge, navigation links, and fiction body text in monospace font on black background](https://design.withfudge.com/share/pin-3824)
+[Blog post page with pixel-art tree illustration, date badge, navigation links, and fiction body text in monospace font on black background](https://fudge.design/share/pin-3824)
 
-[![Homepage with pixel-art tree logo, navigation, bio paragraph, newest post link, and featured projects list with underlined links](https://pin.fontofweb.com/3823?format=jpg)](https://design.withfudge.com/share/pin-3823)
+[![Homepage with pixel-art tree logo, navigation, bio paragraph, newest post link, and featured projects list with underlined links](https://pin.fontofweb.com/3823?format=jpg)](https://fudge.design/share/pin-3823)
 
-[Homepage with pixel-art tree logo, navigation, bio paragraph, newest post link, and featured projects list with underlined links](https://design.withfudge.com/share/pin-3823)
+[Homepage with pixel-art tree logo, navigation, bio paragraph, newest post link, and featured projects list with underlined links](https://fudge.design/share/pin-3823)
 
 ## Overview
 
@@ -173,3 +173,18 @@ No breakpoint-specific layout changes are visible in the material. The design's 
 ## Scope note
 
 This guide covers the homepage and blog post surfaces visible in the supplied images. Measurements are practical adaptation targets. RSS feeds, archive list pages, and any project detail pages are not represented. Mobile layouts, hover states, focus indicators, and loading states are not documented. The complete type scale and spacing system may extend beyond the values shown.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

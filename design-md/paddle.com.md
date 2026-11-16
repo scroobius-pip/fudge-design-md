@@ -1,26 +1,26 @@
 # How paddle.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/paddle.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/paddle.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with dual-panel layout showing Pay-as-you-go and Custom pricing tiers against near-black background with subtle card surfaces](https://pin.fontofweb.com/6765?format=jpg)](https://design.withfudge.com/share/pin-6765)
+[![Pricing page hero with dual-panel layout showing Pay-as-you-go and Custom pricing tiers against near-black background with subtle card surfaces](https://pin.fontofweb.com/6765?format=jpg)](https://fudge.design/share/pin-6765)
 
-[Pricing page hero with dual-panel layout showing Pay-as-you-go and Custom pricing tiers against near-black background with subtle card surfaces](https://design.withfudge.com/share/pin-6765)
+[Pricing page hero with dual-panel layout showing Pay-as-you-go and Custom pricing tiers against near-black background with subtle card surfaces](https://fudge.design/share/pin-6765)
 
-[![Expanded navigation mega-menu with product categories, use cases, partner programs, and customer story highlights on dark background](https://pin.fontofweb.com/6750?format=jpg)](https://design.withfudge.com/share/pin-6750)
+[![Expanded navigation mega-menu with product categories, use cases, partner programs, and customer story highlights on dark background](https://pin.fontofweb.com/6750?format=jpg)](https://fudge.design/share/pin-6750)
 
-[Expanded navigation mega-menu with product categories, use cases, partner programs, and customer story highlights on dark background](https://design.withfudge.com/share/pin-6750)
+[Expanded navigation mega-menu with product categories, use cases, partner programs, and customer story highlights on dark background](https://fudge.design/share/pin-6750)
 
-[![Customer results section with metric cards for Renderforest, remove.bg, and MacPaw, plus large statistics row showing transactions and revenue scale](https://pin.fontofweb.com/6749?format=jpg)](https://design.withfudge.com/share/pin-6749)
+[![Customer results section with metric cards for Renderforest, remove.bg, and MacPaw, plus large statistics row showing transactions and revenue scale](https://pin.fontofweb.com/6749?format=jpg)](https://fudge.design/share/pin-6749)
 
-[Customer results section with metric cards for Renderforest, remove.bg, and MacPaw, plus large statistics row showing transactions and revenue scale](https://design.withfudge.com/share/pin-6749)
+[Customer results section with metric cards for Renderforest, remove.bg, and MacPaw, plus large statistics row showing transactions and revenue scale](https://fudge.design/share/pin-6749)
 
-[![Three-column footer CTA band with gradient-tinted Explore Paddle panel and dark Pricing and Get started panels with arrow indicators](https://pin.fontofweb.com/6748?format=jpg)](https://design.withfudge.com/share/pin-6748)
+[![Three-column footer CTA band with gradient-tinted Explore Paddle panel and dark Pricing and Get started panels with arrow indicators](https://pin.fontofweb.com/6748?format=jpg)](https://fudge.design/share/pin-6748)
 
-[Three-column footer CTA band with gradient-tinted Explore Paddle panel and dark Pricing and Get started panels with arrow indicators](https://design.withfudge.com/share/pin-6748)
+[Three-column footer CTA band with gradient-tinted Explore Paddle panel and dark Pricing and Get started panels with arrow indicators](https://fudge.design/share/pin-6748)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The design system prioritizes desktop presentation with established patterns for
 ## Scope note
 
 This guide covers the marketing site surface including homepage, pricing page, navigation system, and footer patterns. Component states such as hover, active, focus, loading, and disabled are not documented from the available material. Mobile breakpoint behavior, form components, and checkout interfaces are not included. The gradient treatment in the footer CTA appears limited to that specific component context. The font family By Johannes Breyer Fabian Harb Erkin Karamemet-3588810752899380830 appears in source data as a specific file variant of the display typeface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

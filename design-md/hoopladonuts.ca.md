@@ -1,18 +1,18 @@
 # How hoopladonuts.ca is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hoopladonuts.ca-design)
+[Open the live Fudge conversation](https://fudge.design/share/hoopladonuts.ca-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with abstract coral, sky-blue, and yellow blob shapes behind the split-letter HOOPLA DONUTS wordmark, navigation bar, and ORDER HERE pill button](https://pin.fontofweb.com/2752?format=jpg)](https://design.withfudge.com/share/pin-2752)
+[![Hero section with abstract coral, sky-blue, and yellow blob shapes behind the split-letter HOOPLA DONUTS wordmark, navigation bar, and ORDER HERE pill button](https://pin.fontofweb.com/2752?format=jpg)](https://fudge.design/share/pin-2752)
 
-[Hero section with abstract coral, sky-blue, and yellow blob shapes behind the split-letter HOOPLA DONUTS wordmark, navigation bar, and ORDER HERE pill button](https://design.withfudge.com/share/pin-2752)
+[Hero section with abstract coral, sky-blue, and yellow blob shapes behind the split-letter HOOPLA DONUTS wordmark, navigation bar, and ORDER HERE pill button](https://fudge.design/share/pin-2752)
 
-[![Full viewport hero with geometric letterforms, coral background waves, navy accent blobs, and centered update announcement with pill CTA](https://pin.fontofweb.com/2751?format=jpg)](https://design.withfudge.com/share/pin-2751)
+[![Full viewport hero with geometric letterforms, coral background waves, navy accent blobs, and centered update announcement with pill CTA](https://pin.fontofweb.com/2751?format=jpg)](https://fudge.design/share/pin-2751)
 
-[Full viewport hero with geometric letterforms, coral background waves, navy accent blobs, and centered update announcement with pill CTA](https://design.withfudge.com/share/pin-2751)
+[Full viewport hero with geometric letterforms, coral background waves, navy accent blobs, and centered update announcement with pill CTA](https://fudge.design/share/pin-2751)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The supplied images show only a desktop viewport. For narrower screens, the foll
 ## Scope note
 
 This guide covers the homepage hero and navigation bar visible in the supplied images. Interior pages, menu displays, ordering flows, gift card interfaces, catering forms, location pages, and mobile layouts are not represented. Motion, hover states, loading behavior, and form components are outside the current scope. Measurements are practical adaptation targets based on visual interpretation of the desktop viewport.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Mixed mode](/share/designs-with-color.mode.mixed)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

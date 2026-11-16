@@ -1,26 +1,26 @@
 # How nytimes.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nytimes.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nytimes.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Subscription onboarding page with centered offer card, black primary action button, and legal footer on white canvas](https://pin.fontofweb.com/1324?format=jpg)](https://design.withfudge.com/share/pin-1324)
+[![Subscription onboarding page with centered offer card, black primary action button, and legal footer on white canvas](https://pin.fontofweb.com/1324?format=jpg)](https://fudge.design/share/pin-1324)
 
-[Subscription onboarding page with centered offer card, black primary action button, and legal footer on white canvas](https://design.withfudge.com/share/pin-1324)
+[Subscription onboarding page with centered offer card, black primary action button, and legal footer on white canvas](https://fudge.design/share/pin-1324)
 
-[![Account login modal with email field, black Continue button, and social sign-in options separated by hairline divider](https://pin.fontofweb.com/1314?format=jpg)](https://design.withfudge.com/share/pin-1314)
+[![Account login modal with email field, black Continue button, and social sign-in options separated by hairline divider](https://pin.fontofweb.com/1314?format=jpg)](https://fudge.design/share/pin-1314)
 
-[Account login modal with email field, black Continue button, and social sign-in options separated by hairline divider](https://design.withfudge.com/share/pin-1314)
+[Account login modal with email field, black Continue button, and social sign-in options separated by hairline divider](https://fudge.design/share/pin-1314)
 
-[![Gift subscriptions page with dark purple background, product tier list with circular icons, and white action buttons](https://pin.fontofweb.com/60?format=jpg)](https://design.withfudge.com/share/pin-60)
+[![Gift subscriptions page with dark purple background, product tier list with circular icons, and white action buttons](https://pin.fontofweb.com/60?format=jpg)](https://fudge.design/share/pin-60)
 
-[Gift subscriptions page with dark purple background, product tier list with circular icons, and white action buttons](https://design.withfudge.com/share/pin-60)
+[Gift subscriptions page with dark purple background, product tier list with circular icons, and white action buttons](https://fudge.design/share/pin-60)
 
-[![Gift subscription plan card with cream background, coral BEST VALUE badge, and checkmark feature list](https://pin.fontofweb.com/59?format=jpg)](https://design.withfudge.com/share/pin-59)
+[![Gift subscription plan card with cream background, coral BEST VALUE badge, and checkmark feature list](https://pin.fontofweb.com/59?format=jpg)](https://fudge.design/share/pin-59)
 
-[Gift subscription plan card with cream background, coral BEST VALUE badge, and checkmark feature list](https://design.withfudge.com/share/pin-59)
+[Gift subscription plan card with cream background, coral BEST VALUE badge, and checkmark feature list](https://fudge.design/share/pin-59)
 
 ## Overview
 
@@ -199,3 +199,18 @@ Text scaling appears to use fixed rem values rather than fluid typography, with 
 ## Scope note
 
 This guide covers subscription onboarding, authentication, and gift subscription surfaces as visible in the supplied images. The full New York Times homepage, article reading experience, games interfaces, and mobile-native applications are not represented. Navigation patterns beyond centered authentication headers, hover and focus states, loading skeletons, and error message styling are not included. Measurements are practical adaptation targets derived from visual inspection of the captured interfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

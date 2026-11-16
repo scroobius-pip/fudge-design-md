@@ -1,22 +1,22 @@
 # How izipizi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/izipizi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/izipizi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product carousel showing reading glasses, sunglasses, and accessories with color swatches and category labels against light gray cards on white background](https://pin.fontofweb.com/5357?format=jpg)](https://design.withfudge.com/share/pin-5357)
+[![Product carousel showing reading glasses, sunglasses, and accessories with color swatches and category labels against light gray cards on white background](https://pin.fontofweb.com/5357?format=jpg)](https://fudge.design/share/pin-5357)
 
-[Product carousel showing reading glasses, sunglasses, and accessories with color swatches and category labels against light gray cards on white background](https://design.withfudge.com/share/pin-5357)
+[Product carousel showing reading glasses, sunglasses, and accessories with color swatches and category labels against light gray cards on white background](https://fudge.design/share/pin-5357)
 
-[![Newsletter signup section with oversized condensed black display type, email input field, and pill-shaped subscribe button on stark white background](https://pin.fontofweb.com/5356?format=jpg)](https://design.withfudge.com/share/pin-5356)
+[![Newsletter signup section with oversized condensed black display type, email input field, and pill-shaped subscribe button on stark white background](https://pin.fontofweb.com/5356?format=jpg)](https://fudge.design/share/pin-5356)
 
-[Newsletter signup section with oversized condensed black display type, email input field, and pill-shaped subscribe button on stark white background](https://design.withfudge.com/share/pin-5356)
+[Newsletter signup section with oversized condensed black display type, email input field, and pill-shaped subscribe button on stark white background](https://fudge.design/share/pin-5356)
 
-[![Modal overlay with split composition: photographic left panel with glasses icon and JOIN THE IZIPIZI FAMILY text, white right panel with newsletter form and black subscribe button](https://pin.fontofweb.com/5355?format=jpg)](https://design.withfudge.com/share/pin-5355)
+[![Modal overlay with split composition: photographic left panel with glasses icon and JOIN THE IZIPIZI FAMILY text, white right panel with newsletter form and black subscribe button](https://pin.fontofweb.com/5355?format=jpg)](https://fudge.design/share/pin-5355)
 
-[Modal overlay with split composition: photographic left panel with glasses icon and JOIN THE IZIPIZI FAMILY text, white right panel with newsletter form and black subscribe button](https://design.withfudge.com/share/pin-5355)
+[Modal overlay with split composition: photographic left panel with glasses icon and JOIN THE IZIPIZI FAMILY text, white right panel with newsletter form and black subscribe button](https://fudge.design/share/pin-5355)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The promotional banner text may require truncation or line-wrapping with adjuste
 ## Scope note
 
 This guide covers the homepage and newsletter modal surfaces visible in the supplied images. Product detail pages, checkout flows, account interfaces, and mobile-specific layouts are not represented. Motion, hover states, loading patterns, and error handling are not described. Measurements are practical adaptation targets derived from visual inspection of the desktop viewport.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Landing page](/share/designs-with-page.marketing.landing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

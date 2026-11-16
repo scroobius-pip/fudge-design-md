@@ -1,26 +1,26 @@
 # How frontify.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/frontify.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/frontify.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with 'A fair approach to pricing' display type and three value proposition cards with dark icons on warm gray surfaces](https://pin.fontofweb.com/6111?format=jpg)](https://design.withfudge.com/share/pin-6111)
+[![Pricing page hero with 'A fair approach to pricing' display type and three value proposition cards with dark icons on warm gray surfaces](https://pin.fontofweb.com/6111?format=jpg)](https://fudge.design/share/pin-6111)
 
-[Pricing page hero with 'A fair approach to pricing' display type and three value proposition cards with dark icons on warm gray surfaces](https://design.withfudge.com/share/pin-6111)
+[Pricing page hero with 'A fair approach to pricing' display type and three value proposition cards with dark icons on warm gray surfaces](https://fudge.design/share/pin-6111)
 
-[![Homepage hero showing 'The complete brand-building platform' with product navigation list and dark device mockup on light gray background](https://pin.fontofweb.com/6110?format=jpg)](https://design.withfudge.com/share/pin-6110)
+[![Homepage hero showing 'The complete brand-building platform' with product navigation list and dark device mockup on light gray background](https://pin.fontofweb.com/6110?format=jpg)](https://fudge.design/share/pin-6110)
 
-[Homepage hero showing 'The complete brand-building platform' with product navigation list and dark device mockup on light gray background](https://design.withfudge.com/share/pin-6110)
+[Homepage hero showing 'The complete brand-building platform' with product navigation list and dark device mockup on light gray background](https://fudge.design/share/pin-6110)
 
-[![FAQ section with large display heading, dark pill button, and accordion questions with chevron indicators on warm off-white](https://pin.fontofweb.com/6109?format=jpg)](https://design.withfudge.com/share/pin-6109)
+[![FAQ section with large display heading, dark pill button, and accordion questions with chevron indicators on warm off-white](https://pin.fontofweb.com/6109?format=jpg)](https://fudge.design/share/pin-6109)
 
-[FAQ section with large display heading, dark pill button, and accordion questions with chevron indicators on warm off-white](https://design.withfudge.com/share/pin-6109)
+[FAQ section with large display heading, dark pill button, and accordion questions with chevron indicators on warm off-white](https://fudge.design/share/pin-6109)
 
-[![Customer testimonial cards featuring Nestlé and Emperor logos with quotes on muted sage-gray backgrounds and circular navigation arrows](https://pin.fontofweb.com/6108?format=jpg)](https://design.withfudge.com/share/pin-6108)
+[![Customer testimonial cards featuring Nestlé and Emperor logos with quotes on muted sage-gray backgrounds and circular navigation arrows](https://pin.fontofweb.com/6108?format=jpg)](https://fudge.design/share/pin-6108)
 
-[Customer testimonial cards featuring Nestlé and Emperor logos with quotes on muted sage-gray backgrounds and circular navigation arrows](https://design.withfudge.com/share/pin-6108)
+[Customer testimonial cards featuring Nestlé and Emperor logos with quotes on muted sage-gray backgrounds and circular navigation arrows](https://fudge.design/share/pin-6108)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Navigation should collapse to a hamburger menu or simplified link list when the 
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the captured images. Mobile breakpoints, form interactions, dropdown menus, loading states, and dark mode are not represented. Motion behavior for the testimonial carousel and accordion expand/collapse is not documented. The family label By Andrej Sevcik-11830113147103886438 appears in the source files but is not distinguished from By Andrej Sevcik in the visible interface; both refer to the same display typeface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

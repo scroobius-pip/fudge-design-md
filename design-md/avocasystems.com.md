@@ -1,26 +1,26 @@
 # How avocasystems.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/avocasystems.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/avocasystems.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark teal radial gradient background, serif headline, and two action buttons on the homepage](https://pin.fontofweb.com/10517?format=jpg)](https://design.withfudge.com/share/pin-10517)
+[![Hero section with dark teal radial gradient background, serif headline, and two action buttons on the homepage](https://pin.fontofweb.com/10517?format=jpg)](https://fudge.design/share/pin-10517)
 
-[Hero section with dark teal radial gradient background, serif headline, and two action buttons on the homepage](https://design.withfudge.com/share/pin-10517)
+[Hero section with dark teal radial gradient background, serif headline, and two action buttons on the homepage](https://fudge.design/share/pin-10517)
 
-[![About page hero with gradient transition from dark teal to light mint, featuring mission statement in two-column layout](https://pin.fontofweb.com/10520?format=jpg)](https://design.withfudge.com/share/pin-10520)
+[![About page hero with gradient transition from dark teal to light mint, featuring mission statement in two-column layout](https://pin.fontofweb.com/10520?format=jpg)](https://fudge.design/share/pin-10520)
 
-[About page hero with gradient transition from dark teal to light mint, featuring mission statement in two-column layout](https://design.withfudge.com/share/pin-10520)
+[About page hero with gradient transition from dark teal to light mint, featuring mission statement in two-column layout](https://fudge.design/share/pin-10520)
 
-[![Booking engine feature section with channel cards, connecting dotted lines, and dark teal metric dashboard card](https://pin.fontofweb.com/10518?format=jpg)](https://design.withfudge.com/share/pin-10518)
+[![Booking engine feature section with channel cards, connecting dotted lines, and dark teal metric dashboard card](https://pin.fontofweb.com/10518?format=jpg)](https://fudge.design/share/pin-10518)
 
-[Booking engine feature section with channel cards, connecting dotted lines, and dark teal metric dashboard card](https://design.withfudge.com/share/pin-10518)
+[Booking engine feature section with channel cards, connecting dotted lines, and dark teal metric dashboard card](https://fudge.design/share/pin-10518)
 
-[![Patient experience timeline with vertical step indicators, mint highlight bar, and serif heading with body copy](https://pin.fontofweb.com/10519?format=jpg)](https://design.withfudge.com/share/pin-10519)
+[![Patient experience timeline with vertical step indicators, mint highlight bar, and serif heading with body copy](https://pin.fontofweb.com/10519?format=jpg)](https://fudge.design/share/pin-10519)
 
-[Patient experience timeline with vertical step indicators, mint highlight bar, and serif heading with body copy](https://design.withfudge.com/share/pin-10519)
+[Patient experience timeline with vertical step indicators, mint highlight bar, and serif heading with body copy](https://fudge.design/share/pin-10519)
 
 ## Overview
 
@@ -183,3 +183,7 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the homepage and about page marketing surfaces visible in the supplied captures. Interior platform interfaces, mobile navigation patterns, form components, and footer areas are not represented. Motion design including the video background elements and scroll-triggered transitions are noted but not specified in detail. The system stack includes -apple-system as a platform fallback in certain UI contexts.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

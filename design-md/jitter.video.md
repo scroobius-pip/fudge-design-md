@@ -1,26 +1,26 @@
 # How jitter.video is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jitter.video-design)
+[Open the live Fudge conversation](https://fudge.design/share/jitter.video-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Delete workspace confirmation dialog with pink danger button on light gray background](https://pin.fontofweb.com/4646?format=jpg)](https://design.withfudge.com/share/pin-4646)
+[![Delete workspace confirmation dialog with pink danger button on light gray background](https://pin.fontofweb.com/4646?format=jpg)](https://fudge.design/share/pin-4646)
 
-[Delete workspace confirmation dialog with pink danger button on light gray background](https://design.withfudge.com/share/pin-4646)
+[Delete workspace confirmation dialog with pink danger button on light gray background](https://fudge.design/share/pin-4646)
 
-[![Settings page with Enterprise plan card, segmented control, and sidebar navigation](https://pin.fontofweb.com/4645?format=jpg)](https://design.withfudge.com/share/pin-4645)
+[![Settings page with Enterprise plan card, segmented control, and sidebar navigation](https://pin.fontofweb.com/4645?format=jpg)](https://fudge.design/share/pin-4645)
 
-[Settings page with Enterprise plan card, segmented control, and sidebar navigation](https://design.withfudge.com/share/pin-4645)
+[Settings page with Enterprise plan card, segmented control, and sidebar navigation](https://fudge.design/share/pin-4645)
 
-[![Enterprise pricing card with feature checklist and Contact us action button](https://pin.fontofweb.com/4644?format=jpg)](https://design.withfudge.com/share/pin-4644)
+[![Enterprise pricing card with feature checklist and Contact us action button](https://pin.fontofweb.com/4644?format=jpg)](https://fudge.design/share/pin-4644)
 
-[Enterprise pricing card with feature checklist and Contact us action button](https://design.withfudge.com/share/pin-4644)
+[Enterprise pricing card with feature checklist and Contact us action button](https://fudge.design/share/pin-4644)
 
-[![Team pricing card showing $35 monthly rate with Most popular badge and upgrade flow](https://pin.fontofweb.com/4643?format=jpg)](https://design.withfudge.com/share/pin-4643)
+[![Team pricing card showing $35 monthly rate with Most popular badge and upgrade flow](https://pin.fontofweb.com/4643?format=jpg)](https://fudge.design/share/pin-4643)
 
-[Team pricing card showing $35 monthly rate with Most popular badge and upgrade flow](https://design.withfudge.com/share/pin-4643)
+[Team pricing card showing $35 monthly rate with Most popular badge and upgrade flow](https://fudge.design/share/pin-4643)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The segmented control remains functional at narrow widths, though option labels 
 ## Scope note
 
 This guide covers the workspace settings, pricing, and onboarding surfaces visible in the supplied images. The motion design editor canvas, animation timeline, and export workflows are not represented. Measurements are practical adaptation targets derived from the visible interface. Mobile breakpoints, dark mode, loading states, and micro-interactions are not documented. Verify licensing for Inter, Twk Lausanne-600, Twk Lausanne-700, and Twk Lausanne-800 before production use.
+
+## Related design patterns
+
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

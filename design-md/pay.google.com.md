@@ -1,26 +1,26 @@
 # How pay.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pay.google.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pay.google.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dashboard home with sidebar navigation, welcome banner, and card-based explore sections with colorful illustrations](https://pin.fontofweb.com/7174?format=jpg)](https://design.withfudge.com/share/pin-7174)
+[![Dashboard home with sidebar navigation, welcome banner, and card-based explore sections with colorful illustrations](https://pin.fontofweb.com/7174?format=jpg)](https://fudge.design/share/pin-7174)
 
-[Dashboard home with sidebar navigation, welcome banner, and card-based explore sections with colorful illustrations](https://design.withfudge.com/share/pin-7174)
+[Dashboard home with sidebar navigation, welcome banner, and card-based explore sections with colorful illustrations](https://fudge.design/share/pin-7174)
 
-[![Google Pay API integration page with tabbed navigation, three integration option cards, and video thumbnails](https://pin.fontofweb.com/7173?format=jpg)](https://design.withfudge.com/share/pin-7173)
+[![Google Pay API integration page with tabbed navigation, three integration option cards, and video thumbnails](https://pin.fontofweb.com/7173?format=jpg)](https://fudge.design/share/pin-7173)
 
-[Google Pay API integration page with tabbed navigation, three integration option cards, and video thumbnails](https://design.withfudge.com/share/pin-7173)
+[Google Pay API integration page with tabbed navigation, three integration option cards, and video thumbnails](https://fudge.design/share/pin-7173)
 
-[![Dark hero section with phone mockup showing card save dialog and white text on charcoal background](https://pin.fontofweb.com/7172?format=jpg)](https://design.withfudge.com/share/pin-7172)
+[![Dark hero section with phone mockup showing card save dialog and white text on charcoal background](https://pin.fontofweb.com/7172?format=jpg)](https://fudge.design/share/pin-7172)
 
-[Dark hero section with phone mockup showing card save dialog and white text on charcoal background](https://design.withfudge.com/share/pin-7172)
+[Dark hero section with phone mockup showing card save dialog and white text on charcoal background](https://fudge.design/share/pin-7172)
 
-[![Blue safety section with three white feature cards showing transparency, security, and control features](https://pin.fontofweb.com/7171?format=jpg)](https://design.withfudge.com/share/pin-7171)
+[![Blue safety section with three white feature cards showing transparency, security, and control features](https://pin.fontofweb.com/7171?format=jpg)](https://fudge.design/share/pin-7171)
 
-[Blue safety section with three white feature cards showing transparency, security, and control features](https://design.withfudge.com/share/pin-7171)
+[Blue safety section with three white feature cards showing transparency, security, and control features](https://fudge.design/share/pin-7171)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets maintain a minimum 44px height throughout. Button padding increase
 ## Scope note
 
 This guide covers the Google Pay & Wallet Console dashboard and API pages, plus the consumer-facing marketing site. It does not include mobile app interfaces, checkout flow UIs, email templates, or animation specifications. Motion design, dark mode for the console, and form components beyond buttons are not documented here. Measurements reflect the desktop viewport state captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

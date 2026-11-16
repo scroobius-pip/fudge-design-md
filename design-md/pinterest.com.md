@@ -1,26 +1,26 @@
 # How pinterest.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pinterest.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pinterest.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pin detail page showing Lofree Flow84 keyboard with modal survey overlay, left navigation rail, and related pins grid with rounded card corners](https://pin.fontofweb.com/7928?format=jpg)](https://design.withfudge.com/share/pin-7928)
+[![Pin detail page showing Lofree Flow84 keyboard with modal survey overlay, left navigation rail, and related pins grid with rounded card corners](https://pin.fontofweb.com/7928?format=jpg)](https://fudge.design/share/pin-7928)
 
-[Pin detail page showing Lofree Flow84 keyboard with modal survey overlay, left navigation rail, and related pins grid with rounded card corners](https://design.withfudge.com/share/pin-7928)
+[Pin detail page showing Lofree Flow84 keyboard with modal survey overlay, left navigation rail, and related pins grid with rounded card corners](https://fudge.design/share/pin-7928)
 
-[![Business analytics dashboard with metric cards, green percentage indicators, and tabular top pins data with rounded panel borders](https://pin.fontofweb.com/7175?format=jpg)](https://design.withfudge.com/share/pin-7175)
+[![Business analytics dashboard with metric cards, green percentage indicators, and tabular top pins data with rounded panel borders](https://pin.fontofweb.com/7175?format=jpg)](https://fudge.design/share/pin-7175)
 
-[Business analytics dashboard with metric cards, green percentage indicators, and tabular top pins data with rounded panel borders](https://design.withfudge.com/share/pin-7175)
+[Business analytics dashboard with metric cards, green percentage indicators, and tabular top pins data with rounded panel borders](https://fudge.design/share/pin-7175)
 
-[![Home feed header with pill-shaped search bar, notification icons with badges, and horizontal scrollable topic chips with rounded thumbnails](https://pin.fontofweb.com/7071?format=jpg)](https://design.withfudge.com/share/pin-7071)
+[![Home feed header with pill-shaped search bar, notification icons with badges, and horizontal scrollable topic chips with rounded thumbnails](https://pin.fontofweb.com/7071?format=jpg)](https://fudge.design/share/pin-7071)
 
-[Home feed header with pill-shaped search bar, notification icons with badges, and horizontal scrollable topic chips with rounded thumbnails](https://design.withfudge.com/share/pin-7071)
+[Home feed header with pill-shaped search bar, notification icons with badges, and horizontal scrollable topic chips with rounded thumbnails](https://fudge.design/share/pin-7071)
 
-[![Business hub resources section with four pastel-colored course cards featuring rounded corners and arrow action buttons](https://pin.fontofweb.com/5912?format=jpg)](https://design.withfudge.com/share/pin-5912)
+[![Business hub resources section with four pastel-colored course cards featuring rounded corners and arrow action buttons](https://pin.fontofweb.com/5912?format=jpg)](https://fudge.design/share/pin-5912)
 
-[Business hub resources section with four pastel-colored course cards featuring rounded corners and arrow action buttons](https://design.withfudge.com/share/pin-5912)
+[Business hub resources section with four pastel-colored course cards featuring rounded corners and arrow action buttons](https://fudge.design/share/pin-5912)
 
 ## Overview
 
@@ -234,3 +234,18 @@ Topic chip carousels maintain horizontal scrolling across all breakpoints, with 
 ## Scope note
 
 This guide covers the desktop feed, pin detail, business analytics, and business hub surfaces visible in the supplied images. Mobile layouts, dark mode, animation specifications, and complex interactive states like drag-and-drop board organization are not represented. The rounded corners and spacing values reflect the current design system; older legacy pages may use sharper corners and different spacing. The exact hex values for the red Save button accent and link blue are not present in the retained interface color data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

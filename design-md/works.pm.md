@@ -1,26 +1,26 @@
 # How works.pm is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/works.pm-design)
+[Open the live Fudge conversation](https://fudge.design/share/works.pm-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with split-pane layout showing biography text, client lists, and navigation links in a minimal black-and-white typographic system](https://pin.fontofweb.com/8498?format=jpg)](https://design.withfudge.com/share/pin-8498)
+[![About page with split-pane layout showing biography text, client lists, and navigation links in a minimal black-and-white typographic system](https://pin.fontofweb.com/8498?format=jpg)](https://fudge.design/share/pin-8498)
 
-[About page with split-pane layout showing biography text, client lists, and navigation links in a minimal black-and-white typographic system](https://design.withfudge.com/share/pin-8498)
+[About page with split-pane layout showing biography text, client lists, and navigation links in a minimal black-and-white typographic system](https://fudge.design/share/pin-8498)
 
-[![Masonry grid of design work thumbnails with studio navigation header and light gray surrounding canvas](https://pin.fontofweb.com/8497?format=jpg)](https://design.withfudge.com/share/pin-8497)
+[![Masonry grid of design work thumbnails with studio navigation header and light gray surrounding canvas](https://pin.fontofweb.com/8497?format=jpg)](https://fudge.design/share/pin-8497)
 
-[Masonry grid of design work thumbnails with studio navigation header and light gray surrounding canvas](https://design.withfudge.com/share/pin-8497)
+[Masonry grid of design work thumbnails with studio navigation header and light gray surrounding canvas](https://fudge.design/share/pin-8497)
 
-[![Full-bleed project hero image with overlaid white text labels and a descriptive paragraph below on light gray background](https://pin.fontofweb.com/8496?format=jpg)](https://design.withfudge.com/share/pin-8496)
+[![Full-bleed project hero image with overlaid white text labels and a descriptive paragraph below on light gray background](https://pin.fontofweb.com/8496?format=jpg)](https://fudge.design/share/pin-8496)
 
-[Full-bleed project hero image with overlaid white text labels and a descriptive paragraph below on light gray background](https://design.withfudge.com/share/pin-8496)
+[Full-bleed project hero image with overlaid white text labels and a descriptive paragraph below on light gray background](https://fudge.design/share/pin-8496)
 
-[![Homepage hero with split-pane white space, introductory statement, and a bold red-orange rectangular accent at the bottom](https://pin.fontofweb.com/8495?format=jpg)](https://design.withfudge.com/share/pin-8495)
+[![Homepage hero with split-pane white space, introductory statement, and a bold red-orange rectangular accent at the bottom](https://pin.fontofweb.com/8495?format=jpg)](https://fudge.design/share/pin-8495)
 
-[Homepage hero with split-pane white space, introductory statement, and a bold red-orange rectangular accent at the bottom](https://design.withfudge.com/share/pin-8495)
+[Homepage hero with split-pane white space, introductory statement, and a bold red-orange rectangular accent at the bottom](https://fudge.design/share/pin-8495)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The fixed scroll indicator should remain visible but may require touch-friendly 
 ## Scope note
 
 This guide covers the homepage, about page, and project browsing surfaces visible in the supplied images. Mobile layouts, hover states, loading sequences, and project detail page structures are not represented. All interface corners are square with zero radius throughout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Personal](/share/designs-with-industry.personal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

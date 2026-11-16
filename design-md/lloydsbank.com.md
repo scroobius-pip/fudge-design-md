@@ -1,26 +1,26 @@
 # How lloydsbank.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lloydsbank.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lloydsbank.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Business banking page showing green promotional card, article grid, and video thumbnail with play button overlay](https://pin.fontofweb.com/8963?format=jpg)](https://design.withfudge.com/share/pin-8963)
+[![Business banking page showing green promotional card, article grid, and video thumbnail with play button overlay](https://pin.fontofweb.com/8963?format=jpg)](https://fudge.design/share/pin-8963)
 
-[Business banking page showing green promotional card, article grid, and video thumbnail with play button overlay](https://design.withfudge.com/share/pin-8963)
+[Business banking page showing green promotional card, article grid, and video thumbnail with play button overlay](https://fudge.design/share/pin-8963)
 
-[![Sector cards with photography overlays and plus icons above dark specialist resources banner with telescope illustration](https://pin.fontofweb.com/8962?format=jpg)](https://design.withfudge.com/share/pin-8962)
+[![Sector cards with photography overlays and plus icons above dark specialist resources banner with telescope illustration](https://pin.fontofweb.com/8962?format=jpg)](https://fudge.design/share/pin-8962)
 
-[Sector cards with photography overlays and plus icons above dark specialist resources banner with telescope illustration](https://design.withfudge.com/share/pin-8962)
+[Sector cards with photography overlays and plus icons above dark specialist resources banner with telescope illustration](https://fudge.design/share/pin-8962)
 
-[![Six white product cards on mint green background with black action buttons and green promotional banner with horse logo](https://pin.fontofweb.com/8961?format=jpg)](https://design.withfudge.com/share/pin-8961)
+[![Six white product cards on mint green background with black action buttons and green promotional banner with horse logo](https://pin.fontofweb.com/8961?format=jpg)](https://fudge.design/share/pin-8961)
 
-[Six white product cards on mint green background with black action buttons and green promotional banner with horse logo](https://design.withfudge.com/share/pin-8961)
+[Six white product cards on mint green background with black action buttons and green promotional banner with horse logo](https://fudge.design/share/pin-8961)
 
-[![Personal banking homepage with expanded mega menu showing borrowing categories and Lloyds Ultra Credit Card promotion](https://pin.fontofweb.com/8960?format=jpg)](https://design.withfudge.com/share/pin-8960)
+[![Personal banking homepage with expanded mega menu showing borrowing categories and Lloyds Ultra Credit Card promotion](https://pin.fontofweb.com/8960?format=jpg)](https://fudge.design/share/pin-8960)
 
-[Personal banking homepage with expanded mega menu showing borrowing categories and Lloyds Ultra Credit Card promotion](https://design.withfudge.com/share/pin-8960)
+[Personal banking homepage with expanded mega menu showing borrowing categories and Lloyds Ultra Credit Card promotion](https://fudge.design/share/pin-8960)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Video thumbnails and hero imagery should maintain aspect ratio, with text overla
 ## Scope note
 
 This guide covers the personal and business banking homepage surfaces, including navigation, product grids, sector browsing, and promotional components. Mobile layouts, form interactions, account dashboards, motion behavior, and error states are not represented in the supplied material. The exact spacing values from the source have been consolidated into semantic tokens for practical implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

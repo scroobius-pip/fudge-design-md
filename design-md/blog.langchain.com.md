@@ -1,18 +1,18 @@
 # How blog.langchain.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/blog.langchain.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/blog.langchain.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog index showing three article cards with dark gradient thumbnails, category labels, and a centered Load More button on white canvas](https://pin.fontofweb.com/1669?format=jpg)](https://design.withfudge.com/share/pin-1669)
+[![Blog index showing three article cards with dark gradient thumbnails, category labels, and a centered Load More button on white canvas](https://pin.fontofweb.com/1669?format=jpg)](https://fudge.design/share/pin-1669)
 
-[Blog index showing three article cards with dark gradient thumbnails, category labels, and a centered Load More button on white canvas](https://design.withfudge.com/share/pin-1669)
+[Blog index showing three article cards with dark gradient thumbnails, category labels, and a centered Load More button on white canvas](https://fudge.design/share/pin-1669)
 
-[![Blog homepage with navigation bar, hero article with code snippet overlay, and featured sidebar with thumbnail list](https://pin.fontofweb.com/1668?format=jpg)](https://design.withfudge.com/share/pin-1668)
+[![Blog homepage with navigation bar, hero article with code snippet overlay, and featured sidebar with thumbnail list](https://pin.fontofweb.com/1668?format=jpg)](https://fudge.design/share/pin-1668)
 
-[Blog homepage with navigation bar, hero article with code snippet overlay, and featured sidebar with thumbnail list](https://design.withfudge.com/share/pin-1668)
+[Blog homepage with navigation bar, hero article with code snippet overlay, and featured sidebar with thumbnail list](https://fudge.design/share/pin-1668)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Code snippet overlays within hero cards should remain visible but may reflow to 
 ## Scope note
 
 This guide covers the blog index and article listing surfaces visible in the supplied images. Individual article pages, author profiles, search results, and subscription flows are not represented. Interactive states including hover, active, and focus treatments are inferred from static view and should be verified in implementation. Measurements are practical adaptation targets derived from visual inspection against the 0.25rem modular scale.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

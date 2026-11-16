@@ -1,26 +1,26 @@
 # How paths.grasp.study is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/paths.grasp.study-design)
+[Open the live Fudge conversation](https://fudge.design/share/paths.grasp.study-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Split-screen sign-up page with illustrated left panel showing rabbit and hand silhouette on warm beige background, and white right panel with centered account creation form](https://pin.fontofweb.com/6586?format=jpg)](https://design.withfudge.com/share/pin-6586)
+[![Split-screen sign-up page with illustrated left panel showing rabbit and hand silhouette on warm beige background, and white right panel with centered account creation form](https://pin.fontofweb.com/6586?format=jpg)](https://fudge.design/share/pin-6586)
 
-[Split-screen sign-up page with illustrated left panel showing rabbit and hand silhouette on warm beige background, and white right panel with centered account creation form](https://design.withfudge.com/share/pin-6586)
+[Split-screen sign-up page with illustrated left panel showing rabbit and hand silhouette on warm beige background, and white right panel with centered account creation form](https://fudge.design/share/pin-6586)
 
-[![Split-screen sign-in page with identical illustrated left panel and white right panel containing welcome form with Google SSO, username and password fields, dark continue button,](https://pin.fontofweb.com/6585?format=jpg)](https://design.withfudge.com/share/pin-6585)
+[![Split-screen sign-in page with identical illustrated left panel and white right panel containing welcome form with Google SSO, username and password fields, dark continue button,](https://pin.fontofweb.com/6585?format=jpg)](https://fudge.design/share/pin-6585)
 
-[Split-screen sign-in page with identical illustrated left panel and white right panel containing welcome form with Google SSO, username and password fields, dark continue button,](https://design.withfudge.com/share/pin-6585)
+[Split-screen sign-in page with identical illustrated left panel and white right panel containing welcome form with Google SSO, username and password fields, dark continue button,](https://fudge.design/share/pin-6585)
 
-[![Landing page section showing colorful vertical course bars in blue, green, yellow, and terracotta tones with rotated text labels, featured courses heading, bespoke course creation](https://pin.fontofweb.com/6584?format=jpg)](https://design.withfudge.com/share/pin-6584)
+[![Landing page section showing colorful vertical course bars in blue, green, yellow, and terracotta tones with rotated text labels, featured courses heading, bespoke course creation](https://pin.fontofweb.com/6584?format=jpg)](https://fudge.design/share/pin-6584)
 
-[Landing page section showing colorful vertical course bars in blue, green, yellow, and terracotta tones with rotated text labels, featured courses heading, bespoke course creation](https://design.withfudge.com/share/pin-6584)
+[Landing page section showing colorful vertical course bars in blue, green, yellow, and terracotta tones with rotated text labels, featured courses heading, bespoke course creation](https://fudge.design/share/pin-6584)
 
-[![Close-up of interactive course bar chart showing expanded olive-green course card with corner fold detail, creator attribution, and surrounding vertical bars with topic labels and](https://pin.fontofweb.com/6583?format=jpg)](https://design.withfudge.com/share/pin-6583)
+[![Close-up of interactive course bar chart showing expanded olive-green course card with corner fold detail, creator attribution, and surrounding vertical bars with topic labels and](https://pin.fontofweb.com/6583?format=jpg)](https://fudge.design/share/pin-6583)
 
-[Close-up of interactive course bar chart showing expanded olive-green course card with corner fold detail, creator attribution, and surrounding vertical bars with topic labels and](https://design.withfudge.com/share/pin-6583)
+[Close-up of interactive course bar chart showing expanded olive-green course card with corner fold detail, creator attribution, and surrounding vertical bars with topic labels and](https://fudge.design/share/pin-6583)
 
 ## Overview
 
@@ -225,3 +225,18 @@ Typography scales down by one step on mobile: hero-display to section-display si
 ## Scope note
 
 This guide covers the authentication flows and landing page course discovery visible in the supplied materials. Dashboard interfaces, course content pages, user settings, and mobile-native adaptations are not represented. Motion behavior for course bar expansion, loading states, and error page designs are not documented. Measurements are drawn from the exact values in the design facts and verified against visible interface elements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

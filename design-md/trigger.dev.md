@@ -1,26 +1,26 @@
 # How trigger.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trigger.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/trigger.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article page with dark theme, roadmap timeline graphic with blue accent ring, and author attribution block](https://pin.fontofweb.com/1512?format=jpg)](https://design.withfudge.com/share/pin-1512)
+[![Blog article page with dark theme, roadmap timeline graphic with blue accent ring, and author attribution block](https://pin.fontofweb.com/1512?format=jpg)](https://fudge.design/share/pin-1512)
 
-[Blog article page with dark theme, roadmap timeline graphic with blue accent ring, and author attribution block](https://design.withfudge.com/share/pin-1512)
+[Blog article page with dark theme, roadmap timeline graphic with blue accent ring, and author attribution block](https://fudge.design/share/pin-1512)
 
-[![Blog card featuring Trigger.dev v4 beta announcement with gradient hero image and category metadata](https://pin.fontofweb.com/1511?format=jpg)](https://design.withfudge.com/share/pin-1511)
+[![Blog card featuring Trigger.dev v4 beta announcement with gradient hero image and category metadata](https://pin.fontofweb.com/1511?format=jpg)](https://fudge.design/share/pin-1511)
 
-[Blog card featuring Trigger.dev v4 beta announcement with gradient hero image and category metadata](https://design.withfudge.com/share/pin-1511)
+[Blog card featuring Trigger.dev v4 beta announcement with gradient hero image and category metadata](https://fudge.design/share/pin-1511)
 
-[![Blog grid layout showing six article cards with varied hero imagery including Docker, Comp AI, and Cursor integrations](https://pin.fontofweb.com/1510?format=jpg)](https://design.withfudge.com/share/pin-1510)
+[![Blog grid layout showing six article cards with varied hero imagery including Docker, Comp AI, and Cursor integrations](https://pin.fontofweb.com/1510?format=jpg)](https://fudge.design/share/pin-1510)
 
-[Blog grid layout showing six article cards with varied hero imagery including Docker, Comp AI, and Cursor integrations](https://design.withfudge.com/share/pin-1510)
+[Blog grid layout showing six article cards with varied hero imagery including Docker, Comp AI, and Cursor integrations](https://fudge.design/share/pin-1510)
 
-[![Blog index page with filter tabs, featured roadmap article, and three-column card grid with product screenshots](https://pin.fontofweb.com/1509?format=jpg)](https://design.withfudge.com/share/pin-1509)
+[![Blog index page with filter tabs, featured roadmap article, and three-column card grid with product screenshots](https://pin.fontofweb.com/1509?format=jpg)](https://fudge.design/share/pin-1509)
 
-[Blog index page with filter tabs, featured roadmap article, and three-column card grid with product screenshots](https://design.withfudge.com/share/pin-1509)
+[Blog index page with filter tabs, featured roadmap article, and three-column card grid with product screenshots](https://fudge.design/share/pin-1509)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The three-column card grid should collapse to two columns at medium viewports an
 ## Scope note
 
 This guide covers the blog index and article page surfaces visible in the supplied images. Navigation header, footer, pricing tables, product feature pages, and mobile breakpoints are not represented. Measurements are practical adaptation targets derived from the visible interface. Motion, loading states, and form components fall outside this scope.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

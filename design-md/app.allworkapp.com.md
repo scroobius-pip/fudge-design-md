@@ -1,18 +1,18 @@
 # How app.allworkapp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.allworkapp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.allworkapp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Talent profile detail view with sidebar navigation, gradient avatar, skill tags, and floating action bar with back button and invite action](https://pin.fontofweb.com/4618?format=jpg)](https://design.withfudge.com/share/pin-4618)
+[![Talent profile detail view with sidebar navigation, gradient avatar, skill tags, and floating action bar with back button and invite action](https://pin.fontofweb.com/4618?format=jpg)](https://fudge.design/share/pin-4618)
 
-[Talent profile detail view with sidebar navigation, gradient avatar, skill tags, and floating action bar with back button and invite action](https://design.withfudge.com/share/pin-4618)
+[Talent profile detail view with sidebar navigation, gradient avatar, skill tags, and floating action bar with back button and invite action](https://fudge.design/share/pin-4618)
 
-[![Talent search results list with search header, filter controls, stacked profile cards with gradient avatars, skill tags, and highlighted keyword matches](https://pin.fontofweb.com/4617?format=jpg)](https://design.withfudge.com/share/pin-4617)
+[![Talent search results list with search header, filter controls, stacked profile cards with gradient avatars, skill tags, and highlighted keyword matches](https://pin.fontofweb.com/4617?format=jpg)](https://fudge.design/share/pin-4617)
 
-[Talent search results list with search header, filter controls, stacked profile cards with gradient avatars, skill tags, and highlighted keyword matches](https://design.withfudge.com/share/pin-4617)
+[Talent search results list with search header, filter controls, stacked profile cards with gradient avatars, skill tags, and highlighted keyword matches](https://fudge.design/share/pin-4617)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Search results cards should maintain their internal layout—avatar left, conten
 ## Scope note
 
 This guide covers the talent search and profile detail surfaces visible in the supplied images. Navigation, messaging, alerts, job creation, and payment flows are not represented. Motion, hover states, loading indicators, and error handling are not documented. Measurements are practical adaptation targets based on visual analysis of the interface at standard resolution.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Side navigation](/share/designs-with-layout.shell.side_nav)
+- [Marketplace](/share/designs-with-offering.marketplace)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

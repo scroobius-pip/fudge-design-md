@@ -1,22 +1,22 @@
 # How mulerouter.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mulerouter.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/mulerouter.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Stack Sans Notch display typography over a dithered blue-green gradient image of a deer, featuring a tabbed carousel navigation and a search bar with blue](https://pin.fontofweb.com/9055?format=jpg)](https://design.withfudge.com/share/pin-9055)
+[![Hero section with large Stack Sans Notch display typography over a dithered blue-green gradient image of a deer, featuring a tabbed carousel navigation and a search bar with blue](https://pin.fontofweb.com/9055?format=jpg)](https://fudge.design/share/pin-9055)
 
-[Hero section with large Stack Sans Notch display typography over a dithered blue-green gradient image of a deer, featuring a tabbed carousel navigation and a search bar with blue](https://design.withfudge.com/share/pin-9055)
+[Hero section with large Stack Sans Notch display typography over a dithered blue-green gradient image of a deer, featuring a tabbed carousel navigation and a search bar with blue](https://fudge.design/share/pin-9055)
 
-[![Model directory grid showing Popular Models and Image & Video Generation Models sections with thumbnail cards, category tags, and pagination arrows on a near-black background.](https://pin.fontofweb.com/9056?format=jpg)](https://design.withfudge.com/share/pin-9056)
+[![Model directory grid showing Popular Models and Image & Video Generation Models sections with thumbnail cards, category tags, and pagination arrows on a near-black background.](https://pin.fontofweb.com/9056?format=jpg)](https://fudge.design/share/pin-9056)
 
-[Model directory grid showing Popular Models and Image & Video Generation Models sections with thumbnail cards, category tags, and pagination arrows on a near-black background.](https://design.withfudge.com/share/pin-9056)
+[Model directory grid showing Popular Models and Image & Video Generation Models sections with thumbnail cards, category tags, and pagination arrows on a near-black background.](https://fudge.design/share/pin-9056)
 
-[![Footer section with MuleRouter branding, multi-column link groups for Models, Resources, Social, and Playground, plus Discord and Client Support buttons with bordered outlines.](https://pin.fontofweb.com/9057?format=jpg)](https://design.withfudge.com/share/pin-9057)
+[![Footer section with MuleRouter branding, multi-column link groups for Models, Resources, Social, and Playground, plus Discord and Client Support buttons with bordered outlines.](https://pin.fontofweb.com/9057?format=jpg)](https://fudge.design/share/pin-9057)
 
-[Footer section with MuleRouter branding, multi-column link groups for Models, Resources, Social, and Playground, plus Discord and Client Support buttons with bordered outlines.](https://design.withfudge.com/share/pin-9057)
+[Footer section with MuleRouter branding, multi-column link groups for Models, Resources, Social, and Playground, plus Discord and Client Support buttons with bordered outlines.](https://fudge.design/share/pin-9057)
 
 ## Overview
 
@@ -195,3 +195,18 @@ The search bar should remain full-width within its container at all breakpoints,
 ## Scope note
 
 This guide covers the MuleRouter homepage including the hero carousel, model directory grids, search interface, and footer. Interior pages, mobile navigation patterns, loading states, and form validation are not represented in the supplied material. The dark theme is treated as the sole mode; no light variant is documented.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

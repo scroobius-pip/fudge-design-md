@@ -1,26 +1,26 @@
 # How fontstand.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fontstand.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fontstand.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Conference hero with gradient background, large title, and navigation tabs](https://pin.fontofweb.com/6811?format=jpg)](https://design.withfudge.com/share/pin-6811)
+[![Conference hero with gradient background, large title, and navigation tabs](https://pin.fontofweb.com/6811?format=jpg)](https://fudge.design/share/pin-6811)
 
-[Conference hero with gradient background, large title, and navigation tabs](https://design.withfudge.com/share/pin-6811)
+[Conference hero with gradient background, large title, and navigation tabs](https://fudge.design/share/pin-6811)
 
-[![Schedule section with gradient background, time slots, and workshop details](https://pin.fontofweb.com/6810?format=jpg)](https://design.withfudge.com/share/pin-6810)
+[![Schedule section with gradient background, time slots, and workshop details](https://pin.fontofweb.com/6810?format=jpg)](https://fudge.design/share/pin-6810)
 
-[Schedule section with gradient background, time slots, and workshop details](https://design.withfudge.com/share/pin-6810)
+[Schedule section with gradient background, time slots, and workshop details](https://fudge.design/share/pin-6810)
 
-[![Speakers grid with red-tinted portraits and biographical text](https://pin.fontofweb.com/6812?format=jpg)](https://design.withfudge.com/share/pin-6812)
+[![Speakers grid with red-tinted portraits and biographical text](https://pin.fontofweb.com/6812?format=jpg)](https://fudge.design/share/pin-6812)
 
-[Speakers grid with red-tinted portraits and biographical text](https://design.withfudge.com/share/pin-6812)
+[Speakers grid with red-tinted portraits and biographical text](https://fudge.design/share/pin-6812)
 
-[![Features grid with line icons and dark footer with contact actions](https://pin.fontofweb.com/5506?format=jpg)](https://design.withfudge.com/share/pin-5506)
+[![Features grid with line icons and dark footer with contact actions](https://pin.fontofweb.com/5506?format=jpg)](https://fudge.design/share/pin-5506)
 
-[Features grid with line icons and dark footer with contact actions](https://design.withfudge.com/share/pin-5506)
+[Features grid with line icons and dark footer with contact actions](https://fudge.design/share/pin-5506)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The supplied images show desktop layouts exclusively. The centered content conta
 ## Scope note
 
 This guide covers the conference and application pages visible in the supplied images. The pricing, contact, and other legacy pages are not represented with extractable interface detail. Mobile layouts, hover states, form interactions, and animation behavior are not documented. Verify licensing for Zed L and Zed Display L through Typotheque before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How stardrift.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/stardrift.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/stardrift.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered search input, red Explore pill button, and destination photo strip at bottom](https://pin.fontofweb.com/5842?format=jpg)](https://design.withfudge.com/share/pin-5842)
+[![Hero section with centered search input, red Explore pill button, and destination photo strip at bottom](https://pin.fontofweb.com/5842?format=jpg)](https://fudge.design/share/pin-5842)
 
-[Hero section with centered search input, red Explore pill button, and destination photo strip at bottom](https://design.withfudge.com/share/pin-5842)
+[Hero section with centered search input, red Explore pill button, and destination photo strip at bottom](https://fudge.design/share/pin-5842)
 
-[![Feature section with flight booking cards on warm gray panels and category carousel with Flights, Rail, Hotels](https://pin.fontofweb.com/5845?format=jpg)](https://design.withfudge.com/share/pin-5845)
+[![Feature section with flight booking cards on warm gray panels and category carousel with Flights, Rail, Hotels](https://pin.fontofweb.com/5845?format=jpg)](https://fudge.design/share/pin-5845)
 
-[Feature section with flight booking cards on warm gray panels and category carousel with Flights, Rail, Hotels](https://design.withfudge.com/share/pin-5845)
+[Feature section with flight booking cards on warm gray panels and category carousel with Flights, Rail, Hotels](https://fudge.design/share/pin-5845)
 
-[![Calendar integration demo with itinerary map and floating preference pills in light blue](https://pin.fontofweb.com/5844?format=jpg)](https://design.withfudge.com/share/pin-5844)
+[![Calendar integration demo with itinerary map and floating preference pills in light blue](https://pin.fontofweb.com/5844?format=jpg)](https://fudge.design/share/pin-5844)
 
-[Calendar integration demo with itinerary map and floating preference pills in light blue](https://design.withfudge.com/share/pin-5844)
+[Calendar integration demo with itinerary map and floating preference pills in light blue](https://fudge.design/share/pin-5844)
 
-[![Testimonial carousel with red quotation marks, user avatars, and navigation arrows](https://pin.fontofweb.com/5843?format=jpg)](https://design.withfudge.com/share/pin-5843)
+[![Testimonial carousel with red quotation marks, user avatars, and navigation arrows](https://pin.fontofweb.com/5843?format=jpg)](https://fudge.design/share/pin-5843)
 
-[Testimonial carousel with red quotation marks, user avatars, and navigation arrows](https://design.withfudge.com/share/pin-5843)
+[Testimonial carousel with red quotation marks, user avatars, and navigation arrows](https://fudge.design/share/pin-5843)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The generous section spacing should compress proportionally, maintaining approxi
 ## Scope note
 
 This guide covers the Stardrift marketing homepage visible in the supplied images, including hero, feature sections, destination photography, and testimonials. Navigation, footer, and interior application screens are not represented. Measurements are practical adaptation targets. No mobile breakpoint behavior, loading states, form validation, or dark mode are documented. Verify licensing for DM Mono and Schibsted Grotesk before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

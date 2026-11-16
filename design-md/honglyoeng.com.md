@@ -1,26 +1,26 @@
 # How honglyoeng.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/honglyoeng.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/honglyoeng.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About Me page with oversized white display typography on black canvas and scattered 3D object decorations](https://pin.fontofweb.com/497?format=jpg)](https://design.withfudge.com/share/pin-497)
+[![About Me page with oversized white display typography on black canvas and scattered 3D object decorations](https://pin.fontofweb.com/497?format=jpg)](https://fudge.design/share/pin-497)
 
-[About Me page with oversized white display typography on black canvas and scattered 3D object decorations](https://design.withfudge.com/share/pin-497)
+[About Me page with oversized white display typography on black canvas and scattered 3D object decorations](https://fudge.design/share/pin-497)
 
-[![Contact footer section with massive Get in Touch headline, three social links, and floating 3D objects on black](https://pin.fontofweb.com/496?format=jpg)](https://design.withfudge.com/share/pin-496)
+[![Contact footer section with massive Get in Touch headline, three social links, and floating 3D objects on black](https://pin.fontofweb.com/496?format=jpg)](https://fudge.design/share/pin-496)
 
-[Contact footer section with massive Get in Touch headline, three social links, and floating 3D objects on black](https://design.withfudge.com/share/pin-496)
+[Contact footer section with massive Get in Touch headline, three social links, and floating 3D objects on black](https://fudge.design/share/pin-496)
 
-[![Call-to-action band with tilted project thumbnails, white heading, and outlined pill button on black](https://pin.fontofweb.com/495?format=jpg)](https://design.withfudge.com/share/pin-495)
+[![Call-to-action band with tilted project thumbnails, white heading, and outlined pill button on black](https://pin.fontofweb.com/495?format=jpg)](https://fudge.design/share/pin-495)
 
-[Call-to-action band with tilted project thumbnails, white heading, and outlined pill button on black](https://design.withfudge.com/share/pin-495)
+[Call-to-action band with tilted project thumbnails, white heading, and outlined pill button on black](https://fudge.design/share/pin-495)
 
-[![VIBE case study card with left-aligned project metadata, metrics, and device mockups on black background](https://pin.fontofweb.com/494?format=jpg)](https://design.withfudge.com/share/pin-494)
+[![VIBE case study card with left-aligned project metadata, metrics, and device mockups on black background](https://pin.fontofweb.com/494?format=jpg)](https://fudge.design/share/pin-494)
 
-[VIBE case study card with left-aligned project metadata, metrics, and device mockups on black background](https://design.withfudge.com/share/pin-494)
+[VIBE case study card with left-aligned project metadata, metrics, and device mockups on black background](https://fudge.design/share/pin-494)
 
 ## Overview
 
@@ -162,3 +162,18 @@ The 3D objects, being decorative, should scale down or reduce in count on smalle
 ## Scope note
 
 This guide covers the homepage and About Me page surfaces visible in the supplied images, including the hero, case study presentation, call-to-action, and contact footer patterns. Measurements are practical adaptation targets. Mobile breakpoints, hover animations, loading states, form interactions, and additional project pages are not represented in the available material. The 3D object assets and their specific positioning coordinates would need to be recreated or sourced separately.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Personal](/share/designs-with-industry.personal)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

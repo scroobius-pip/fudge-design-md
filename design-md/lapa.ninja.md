@@ -1,18 +1,18 @@
 # How lapa.ninja is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lapa.ninja-design)
+[Open the live Fudge conversation](https://fudge.design/share/lapa.ninja-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with newsletter subscription, social links, and resource columns on dark background with pink subscribe button](https://pin.fontofweb.com/5903?format=jpg)](https://design.withfudge.com/share/pin-5903)
+[![Footer section with newsletter subscription, social links, and resource columns on dark background with pink subscribe button](https://pin.fontofweb.com/5903?format=jpg)](https://fudge.design/share/pin-5903)
 
-[Footer section with newsletter subscription, social links, and resource columns on dark background with pink subscribe button](https://design.withfudge.com/share/pin-5903)
+[Footer section with newsletter subscription, social links, and resource columns on dark background with pink subscribe button](https://fudge.design/share/pin-5903)
 
-[![Hero section with large white headline, navigation bar, and three-column card grid showing website screenshots on dark background](https://pin.fontofweb.com/5902?format=jpg)](https://design.withfudge.com/share/pin-5902)
+[![Hero section with large white headline, navigation bar, and three-column card grid showing website screenshots on dark background](https://pin.fontofweb.com/5902?format=jpg)](https://fudge.design/share/pin-5902)
 
-[Hero section with large white headline, navigation bar, and three-column card grid showing website screenshots on dark background](https://design.withfudge.com/share/pin-5902)
+[Hero section with large white headline, navigation bar, and three-column card grid showing website screenshots on dark background](https://fudge.design/share/pin-5902)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The dark theme should persist across breakpoints without introducing a light var
 ## Scope note
 
 This guide covers the homepage hero, card grid, and footer sections visible in the supplied images. Interior pages, individual design detail views, search results, and mobile-specific layouts are not represented. Motion, loading states, and hover interactions are not documented. Measurements are practical adaptation targets based on visual estimation from the provided screenshots.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

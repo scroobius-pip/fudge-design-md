@@ -1,26 +1,26 @@
 # How tambo.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tambo.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/tambo.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community testimonials section with mint-green background, Sentient Light display heading, and grid of white testimonial cards with avatar rows and monospace metadata labels.](https://pin.fontofweb.com/6691?format=jpg)](https://design.withfudge.com/share/pin-6691)
+[![Community testimonials section with mint-green background, Sentient Light display heading, and grid of white testimonial cards with avatar rows and monospace metadata labels.](https://pin.fontofweb.com/6691?format=jpg)](https://fudge.design/share/pin-6691)
 
-[Community testimonials section with mint-green background, Sentient Light display heading, and grid of white testimonial cards with avatar rows and monospace metadata labels.](https://design.withfudge.com/share/pin-6691)
+[Community testimonials section with mint-green background, Sentient Light display heading, and grid of white testimonial cards with avatar rows and monospace metadata labels.](https://fudge.design/share/pin-6691)
 
-[![Hero call-to-action area with concentric oval mint-gradient rings, centered line-art bird logo, Sentient Light heading, and paired pill buttons with arrow icons on dark and light](https://pin.fontofweb.com/6690?format=jpg)](https://design.withfudge.com/share/pin-6690)
+[![Hero call-to-action area with concentric oval mint-gradient rings, centered line-art bird logo, Sentient Light heading, and paired pill buttons with arrow icons on dark and light](https://pin.fontofweb.com/6690?format=jpg)](https://fudge.design/share/pin-6690)
 
-[Hero call-to-action area with concentric oval mint-gradient rings, centered line-art bird logo, Sentient Light heading, and paired pill buttons with arrow icons on dark and light](https://design.withfudge.com/share/pin-6690)
+[Hero call-to-action area with concentric oval mint-gradient rings, centered line-art bird logo, Sentient Light heading, and paired pill buttons with arrow icons on dark and light](https://fudge.design/share/pin-6690)
 
-[![Showcase section with three project preview cards featuring screenshot thumbnails, monospace titles, and circular plus buttons on a pale mint background.](https://pin.fontofweb.com/6689?format=jpg)](https://design.withfudge.com/share/pin-6689)
+[![Showcase section with three project preview cards featuring screenshot thumbnails, monospace titles, and circular plus buttons on a pale mint background.](https://pin.fontofweb.com/6689?format=jpg)](https://fudge.design/share/pin-6689)
 
-[Showcase section with three project preview cards featuring screenshot thumbnails, monospace titles, and circular plus buttons on a pale mint background.](https://design.withfudge.com/share/pin-6689)
+[Showcase section with three project preview cards featuring screenshot thumbnails, monospace titles, and circular plus buttons on a pale mint background.](https://fudge.design/share/pin-6689)
 
-[![Three-column pricing tier layout with mint-tinted header bands, Sentient Light price display, and checklist rows with monospace feature labels and mint checkmarks.](https://pin.fontofweb.com/6688?format=jpg)](https://design.withfudge.com/share/pin-6688)
+[![Three-column pricing tier layout with mint-tinted header bands, Sentient Light price display, and checklist rows with monospace feature labels and mint checkmarks.](https://pin.fontofweb.com/6688?format=jpg)](https://fudge.design/share/pin-6688)
 
-[Three-column pricing tier layout with mint-tinted header bands, Sentient Light price display, and checklist rows with monospace feature labels and mint checkmarks.](https://design.withfudge.com/share/pin-6688)
+[Three-column pricing tier layout with mint-tinted header bands, Sentient Light price display, and checklist rows with monospace feature labels and mint checkmarks.](https://fudge.design/share/pin-6688)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Button touch targets must maintain minimum 44px height in all contexts; the curr
 ## Scope note
 
 This guide covers the Tambo homepage including hero, community testimonials, project showcase, and pricing sections. Navigation, footer, documentation pages, and interactive states such as hover, focus, loading, and form validation are not represented in the supplied material. Motion behavior, mobile breakpoints, and dark mode variants are also outside the current scope. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

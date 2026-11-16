@@ -1,26 +1,26 @@
 # How diamond.graphite.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/diamond.graphite.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/diamond.graphite.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with Graphite branding, green status indicator, and social icons on near-black background](https://pin.fontofweb.com/1167?format=jpg)](https://design.withfudge.com/share/pin-1167)
+[![Footer with Graphite branding, green status indicator, and social icons on near-black background](https://pin.fontofweb.com/1167?format=jpg)](https://fudge.design/share/pin-1167)
 
-[Footer with Graphite branding, green status indicator, and social icons on near-black background](https://design.withfudge.com/share/pin-1167)
+[Footer with Graphite branding, green status indicator, and social icons on near-black background](https://fudge.design/share/pin-1167)
 
-[![Contact page with split-panel layout, dark form fields, and white submit button with arrow](https://pin.fontofweb.com/1166?format=jpg)](https://design.withfudge.com/share/pin-1166)
+[![Contact page with split-panel layout, dark form fields, and white submit button with arrow](https://pin.fontofweb.com/1166?format=jpg)](https://fudge.design/share/pin-1166)
 
-[Contact page with split-panel layout, dark form fields, and white submit button with arrow](https://design.withfudge.com/share/pin-1166)
+[Contact page with split-panel layout, dark form fields, and white submit button with arrow](https://fudge.design/share/pin-1166)
 
-[![Hero section with glowing headline, two action buttons, and reflective 3D crystal sculpture](https://pin.fontofweb.com/1165?format=jpg)](https://design.withfudge.com/share/pin-1165)
+[![Hero section with glowing headline, two action buttons, and reflective 3D crystal sculpture](https://pin.fontofweb.com/1165?format=jpg)](https://fudge.design/share/pin-1165)
 
-[Hero section with glowing headline, two action buttons, and reflective 3D crystal sculpture](https://design.withfudge.com/share/pin-1165)
+[Hero section with glowing headline, two action buttons, and reflective 3D crystal sculpture](https://fudge.design/share/pin-1165)
 
-[![FAQ accordion with orange terminal-style label and expandable question rows](https://pin.fontofweb.com/1164?format=jpg)](https://design.withfudge.com/share/pin-1164)
+[![FAQ accordion with orange terminal-style label and expandable question rows](https://pin.fontofweb.com/1164?format=jpg)](https://fudge.design/share/pin-1164)
 
-[FAQ accordion with orange terminal-style label and expandable question rows](https://design.withfudge.com/share/pin-1164)
+[FAQ accordion with orange terminal-style label and expandable question rows](https://fudge.design/share/pin-1164)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The glow effect on hero headlines should reduce in intensity on mobile to preven
 ## Scope note
 
 This guide covers the Diamond by Graphite marketing site including the homepage hero, contact form, FAQ section, and footer. Navigation header, pricing page, and in-product interfaces are not represented in the supplied material. Measurements are practical adaptation targets. Motion, hover states, and mobile-specific layouts were not captured and should be designed to match the established dark, precise aesthetic.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

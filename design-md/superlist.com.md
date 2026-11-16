@@ -1,26 +1,26 @@
 # How superlist.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/superlist.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/superlist.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Open Source page with three colored project cards and large split-color headline](https://pin.fontofweb.com/8890?format=jpg)](https://design.withfudge.com/share/pin-8890)
+[![Open Source page with three colored project cards and large split-color headline](https://pin.fontofweb.com/8890?format=jpg)](https://fudge.design/share/pin-8890)
 
-[Open Source page with three colored project cards and large split-color headline](https://design.withfudge.com/share/pin-8890)
+[Open Source page with three colored project cards and large split-color headline](https://fudge.design/share/pin-8890)
 
-[![Pricing page with stylized PRICING headline and three-tier plan cards](https://pin.fontofweb.com/8889?format=jpg)](https://design.withfudge.com/share/pin-8889)
+[![Pricing page with stylized PRICING headline and three-tier plan cards](https://pin.fontofweb.com/8889?format=jpg)](https://fudge.design/share/pin-8889)
 
-[Pricing page with stylized PRICING headline and three-tier plan cards](https://design.withfudge.com/share/pin-8889)
+[Pricing page with stylized PRICING headline and three-tier plan cards](https://fudge.design/share/pin-8889)
 
-[![Footer with multi-column navigation and version update card](https://pin.fontofweb.com/8888?format=jpg)](https://design.withfudge.com/share/pin-8888)
+[![Footer with multi-column navigation and version update card](https://pin.fontofweb.com/8888?format=jpg)](https://fudge.design/share/pin-8888)
 
-[Footer with multi-column navigation and version update card](https://design.withfudge.com/share/pin-8888)
+[Footer with multi-column navigation and version update card](https://fudge.design/share/pin-8888)
 
-[![Testimonials section with masonry grid and red download button](https://pin.fontofweb.com/8887?format=jpg)](https://design.withfudge.com/share/pin-8887)
+[![Testimonials section with masonry grid and red download button](https://pin.fontofweb.com/8887?format=jpg)](https://fudge.design/share/pin-8887)
 
-[Testimonials section with masonry grid and red download button](https://design.withfudge.com/share/pin-8887)
+[Testimonials section with masonry grid and red download button](https://fudge.design/share/pin-8887)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets should maintain minimum `44px` height for all interactive elements
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied homepage, pricing, and open source pages. In-app interface patterns, mobile application layouts, authentication flows, and notification systems are not represented. Iconography and illustration beyond the stylized pricing headline are not documented. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

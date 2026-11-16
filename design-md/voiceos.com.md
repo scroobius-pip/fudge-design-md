@@ -1,26 +1,26 @@
 # How voiceos.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/voiceos.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/voiceos.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Language support section with curved flag arc and centered headline on rounded white card](https://pin.fontofweb.com/6414?format=jpg)](https://design.withfudge.com/share/pin-6414)
+[![Language support section with curved flag arc and centered headline on rounded white card](https://pin.fontofweb.com/6414?format=jpg)](https://fudge.design/share/pin-6414)
 
-[Language support section with curved flag arc and centered headline on rounded white card](https://design.withfudge.com/share/pin-6414)
+[Language support section with curved flag arc and centered headline on rounded white card](https://fudge.design/share/pin-6414)
 
-[![Three-column pricing table with pill toggle, rounded cards, and checkmark feature lists](https://pin.fontofweb.com/6413?format=jpg)](https://design.withfudge.com/share/pin-6413)
+[![Three-column pricing table with pill toggle, rounded cards, and checkmark feature lists](https://pin.fontofweb.com/6413?format=jpg)](https://fudge.design/share/pin-6413)
 
-[Three-column pricing table with pill toggle, rounded cards, and checkmark feature lists](https://design.withfudge.com/share/pin-6413)
+[Three-column pricing table with pill toggle, rounded cards, and checkmark feature lists](https://fudge.design/share/pin-6413)
 
-[![FAQ accordion with expanded answer panel showing privacy details and chevron indicators](https://pin.fontofweb.com/6412?format=jpg)](https://design.withfudge.com/share/pin-6412)
+[![FAQ accordion with expanded answer panel showing privacy details and chevron indicators](https://pin.fontofweb.com/6412?format=jpg)](https://fudge.design/share/pin-6412)
 
-[FAQ accordion with expanded answer panel showing privacy details and chevron indicators](https://design.withfudge.com/share/pin-6412)
+[FAQ accordion with expanded answer panel showing privacy details and chevron indicators](https://fudge.design/share/pin-6412)
 
-[![Hero section with fn key badge, gradient headline, pill download button, and monospace footer](https://pin.fontofweb.com/6411?format=jpg)](https://design.withfudge.com/share/pin-6411)
+[![Hero section with fn key badge, gradient headline, pill download button, and monospace footer](https://pin.fontofweb.com/6411?format=jpg)](https://fudge.design/share/pin-6411)
 
-[Hero section with fn key badge, gradient headline, pill download button, and monospace footer](https://design.withfudge.com/share/pin-6411)
+[Hero section with fn key badge, gradient headline, pill download button, and monospace footer](https://fudge.design/share/pin-6411)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The design appears optimized for desktop viewing with centered content and gener
 ## Scope note
 
 This guide covers the VoiceOS marketing page surface including hero, pricing, FAQ, and footer sections. Mobile breakpoints, animation, form validation states, and application interface screens are not represented in the supplied material. The Dm Mono family appears only in the footer; verify licensing before expanding its use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

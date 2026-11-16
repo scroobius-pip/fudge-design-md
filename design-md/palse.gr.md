@@ -1,26 +1,26 @@
 # How palse.gr is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/palse.gr-design)
+[Open the live Fudge conversation](https://fudge.design/share/palse.gr-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with newsletter signup, PALSE logo, navigation links, and social media grid on warm yellow background](https://pin.fontofweb.com/6615?format=jpg)](https://design.withfudge.com/share/pin-6615)
+[![Footer section with newsletter signup, PALSE logo, navigation links, and social media grid on warm yellow background](https://pin.fontofweb.com/6615?format=jpg)](https://fudge.design/share/pin-6615)
 
-[Footer section with newsletter signup, PALSE logo, navigation links, and social media grid on warm yellow background](https://design.withfudge.com/share/pin-6615)
+[Footer section with newsletter signup, PALSE logo, navigation links, and social media grid on warm yellow background](https://fudge.design/share/pin-6615)
 
-[![Social media collage section with Instagram photos, Join us heading, and #yourpalse hashtag on vibrant yellow](https://pin.fontofweb.com/6614?format=jpg)](https://design.withfudge.com/share/pin-6614)
+[![Social media collage section with Instagram photos, Join us heading, and #yourpalse hashtag on vibrant yellow](https://pin.fontofweb.com/6614?format=jpg)](https://fudge.design/share/pin-6614)
 
-[Social media collage section with Instagram photos, Join us heading, and #yourpalse hashtag on vibrant yellow](https://design.withfudge.com/share/pin-6614)
+[Social media collage section with Instagram photos, Join us heading, and #yourpalse hashtag on vibrant yellow](https://fudge.design/share/pin-6614)
 
-[![Community section with group photo of people holding PALSE snack packages and Greek headline on light gray](https://pin.fontofweb.com/6613?format=jpg)](https://design.withfudge.com/share/pin-6613)
+[![Community section with group photo of people holding PALSE snack packages and Greek headline on light gray](https://pin.fontofweb.com/6613?format=jpg)](https://fudge.design/share/pin-6613)
 
-[Community section with group photo of people holding PALSE snack packages and Greek headline on light gray](https://design.withfudge.com/share/pin-6613)
+[Community section with group photo of people holding PALSE snack packages and Greek headline on light gray](https://fudge.design/share/pin-6613)
 
-[![Product story section with lifestyle photo, Greek body copy, and floating vegetable chip illustrations on light gray](https://pin.fontofweb.com/6612?format=jpg)](https://design.withfudge.com/share/pin-6612)
+[![Product story section with lifestyle photo, Greek body copy, and floating vegetable chip illustrations on light gray](https://pin.fontofweb.com/6612?format=jpg)](https://fudge.design/share/pin-6612)
 
-[Product story section with lifestyle photo, Greek body copy, and floating vegetable chip illustrations on light gray](https://design.withfudge.com/share/pin-6612)
+[Product story section with lifestyle photo, Greek body copy, and floating vegetable chip illustrations on light gray](https://fudge.design/share/pin-6612)
 
 ## Overview
 
@@ -135,9 +135,9 @@ Color blocking replaces subtlety: a section is either yellow, gray, black, or wh
 
 - **Anatomy**: Text label with optional arrow icon, fully rounded rectangle
 - **Variants**: 
-  - Default: white background, black border, black text
-  - Inverse: transparent background, white border, white text (for dark/yellow sections)
-  - Accent: transparent background, colored border for secondary actions
+ - Default: white background, black border, black text
+ - Inverse: transparent background, white border, white text (for dark/yellow sections)
+ - Accent: transparent background, colored border for secondary actions
 - **Shape**: `{rounded.pill}` border radius
 - **Spacing**: 15px vertical padding, 20px left padding, 50-55px right padding (extra room for arrow)
 - **Typography**: `{typography.label}`
@@ -186,3 +186,18 @@ Navigation, currently exposed as a hamburger menu, likely expands to a full-scre
 ## Scope note
 
 This guide covers the Greek homepage and its primary sections: hero, product story, social media collage, and footer. Interior pages, mobile breakpoints, and interactive states such as menu expansion, hover effects, and form validation are not represented in the supplied material. The English-language variant and the "Feel the Palse" subpage were not available for detailed analysis. Measurements reflect the exact values from the desktop interface.
+
+## Related design patterns
+
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How mentra.glass is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mentra.glass-design)
+[Open the live Fudge conversation](https://fudge.design/share/mentra.glass-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product comparison table with Mentra Live and Meta Ray-Ban columns, green checkmarks, and pill-shaped pre-order button on dark background](https://pin.fontofweb.com/1029?format=jpg)](https://design.withfudge.com/share/pin-1029)
+[![Product comparison table with Mentra Live and Meta Ray-Ban columns, green checkmarks, and pill-shaped pre-order button on dark background](https://pin.fontofweb.com/1029?format=jpg)](https://fudge.design/share/pin-1029)
 
-[Product comparison table with Mentra Live and Meta Ray-Ban columns, green checkmarks, and pill-shaped pre-order button on dark background](https://design.withfudge.com/share/pin-1029)
+[Product comparison table with Mentra Live and Meta Ray-Ban columns, green checkmarks, and pill-shaped pre-order button on dark background](https://fudge.design/share/pin-1029)
 
-[![Developer SDK section with isometric cloud architecture diagram, green accent text, and outlined pill button on black canvas](https://pin.fontofweb.com/1028?format=jpg)](https://design.withfudge.com/share/pin-1028)
+[![Developer SDK section with isometric cloud architecture diagram, green accent text, and outlined pill button on black canvas](https://pin.fontofweb.com/1028?format=jpg)](https://fudge.design/share/pin-1028)
 
-[Developer SDK section with isometric cloud architecture diagram, green accent text, and outlined pill button on black canvas](https://design.withfudge.com/share/pin-1028)
+[Developer SDK section with isometric cloud architecture diagram, green accent text, and outlined pill button on black canvas](https://fudge.design/share/pin-1028)
 
-[![POV streaming feature section with phone mockup showing live road footage, platform icons, and green-bordered device frame](https://pin.fontofweb.com/1027?format=jpg)](https://design.withfudge.com/share/pin-1027)
+[![POV streaming feature section with phone mockup showing live road footage, platform icons, and green-bordered device frame](https://pin.fontofweb.com/1027?format=jpg)](https://fudge.design/share/pin-1027)
 
-[POV streaming feature section with phone mockup showing live road footage, platform icons, and green-bordered device frame](https://design.withfudge.com/share/pin-1027)
+[POV streaming feature section with phone mockup showing live road footage, platform icons, and green-bordered device frame](https://fudge.design/share/pin-1027)
 
-[![Business use cases panel with video player showing factory floor, icon-labeled cards, and green section heading](https://pin.fontofweb.com/1026?format=jpg)](https://design.withfudge.com/share/pin-1026)
+[![Business use cases panel with video player showing factory floor, icon-labeled cards, and green section heading](https://pin.fontofweb.com/1026?format=jpg)](https://fudge.design/share/pin-1026)
 
-[Business use cases panel with video player showing factory floor, icon-labeled cards, and green section heading](https://design.withfudge.com/share/pin-1026)
+[Business use cases panel with video player showing factory floor, icon-labeled cards, and green section heading](https://fudge.design/share/pin-1026)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The asymmetric two-column layout should stack vertically on viewports below appr
 ## Scope note
 
 This guide covers the landing page surface for Mentra Glass smart glasses, including feature sections, product comparison, developer SDK promotion, and business use cases. Navigation, footer, checkout flows, mobile menu behavior, animation specifications, and dark-mode variants are not represented in the supplied material. Measurements are practical adaptation targets derived from visible compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

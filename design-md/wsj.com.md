@@ -1,26 +1,26 @@
 # How wsj.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wsj.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wsj.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with two-column layout showing Cancellations, Refunds, and Payment Methods on a white background with blue text links](https://pin.fontofweb.com/1181?format=jpg)](https://design.withfudge.com/share/pin-1181)
+[![FAQ accordion section with two-column layout showing Cancellations, Refunds, and Payment Methods on a white background with blue text links](https://pin.fontofweb.com/1181?format=jpg)](https://fudge.design/share/pin-1181)
 
-[FAQ accordion section with two-column layout showing Cancellations, Refunds, and Payment Methods on a white background with blue text links](https://design.withfudge.com/share/pin-1181)
+[FAQ accordion section with two-column layout showing Cancellations, Refunds, and Payment Methods on a white background with blue text links](https://fudge.design/share/pin-1181)
 
-[![Subscription pricing page with two white cards on light gray background, blue Subscribe Now buttons, and struck-through pricing](https://pin.fontofweb.com/1180?format=jpg)](https://design.withfudge.com/share/pin-1180)
+[![Subscription pricing page with two white cards on light gray background, blue Subscribe Now buttons, and struck-through pricing](https://pin.fontofweb.com/1180?format=jpg)](https://fudge.design/share/pin-1180)
 
-[Subscription pricing page with two white cards on light gray background, blue Subscribe Now buttons, and struck-through pricing](https://design.withfudge.com/share/pin-1180)
+[Subscription pricing page with two white cards on light gray background, blue Subscribe Now buttons, and struck-through pricing](https://fudge.design/share/pin-1180)
 
-[![Article paywall overlay with centered WSJ logo, blue Limited-Time Sale heading, and blue Subscribe Now button on white](https://pin.fontofweb.com/1178?format=jpg)](https://design.withfudge.com/share/pin-1178)
+[![Article paywall overlay with centered WSJ logo, blue Limited-Time Sale heading, and blue Subscribe Now button on white](https://pin.fontofweb.com/1178?format=jpg)](https://fudge.design/share/pin-1178)
 
-[Article paywall overlay with centered WSJ logo, blue Limited-Time Sale heading, and blue Subscribe Now button on white](https://design.withfudge.com/share/pin-1178)
+[Article paywall overlay with centered WSJ logo, blue Limited-Time Sale heading, and blue Subscribe Now button on white](https://fudge.design/share/pin-1178)
 
-[![Full article page with large serif headline, hero photograph, byline with Follow button, and article toolbar with Share and Listen options](https://pin.fontofweb.com/1177?format=jpg)](https://design.withfudge.com/share/pin-1177)
+[![Full article page with large serif headline, hero photograph, byline with Follow button, and article toolbar with Share and Listen options](https://pin.fontofweb.com/1177?format=jpg)](https://fudge.design/share/pin-1177)
 
-[Full article page with large serif headline, hero photograph, byline with Follow button, and article toolbar with Share and Listen options](https://design.withfudge.com/share/pin-1177)
+[Full article page with large serif headline, hero photograph, byline with Follow button, and article toolbar with Share and Listen options](https://fudge.design/share/pin-1177)
 
 ## Overview
 
@@ -186,3 +186,18 @@ The supplied images show desktop-width layouts. Based on the visible structure, 
 ## Scope note
 
 This guide covers the article page, subscription pricing flow, FAQ section, and paywall overlay visible in the supplied images. Mobile layouts, navigation menus, search functionality, comment threads, video players, and account management surfaces are not represented. Measurements are practical adaptation targets derived from the visible desktop compositions. No motion, hover states, or loading behavior is documented from the still images provided.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How busy.bar is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/busy.bar-design)
+[Open the live Fudge conversation](https://fudge.design/share/busy.bar-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Developer-friendly section with code editor window, LED pixel device, and dotted connector lines on black background](https://pin.fontofweb.com/5898?format=jpg)](https://design.withfudge.com/share/pin-5898)
+[![Developer-friendly section with code editor window, LED pixel device, and dotted connector lines on black background](https://pin.fontofweb.com/5898?format=jpg)](https://fudge.design/share/pin-5898)
 
-[Developer-friendly section with code editor window, LED pixel device, and dotted connector lines on black background](https://design.withfudge.com/share/pin-5898)
+[Developer-friendly section with code editor window, LED pixel device, and dotted connector lines on black background](https://fudge.design/share/pin-5898)
 
-[![Accessories section showing wall mount product with red LED text and footer with Flipper logo and social icons](https://pin.fontofweb.com/5897?format=jpg)](https://design.withfudge.com/share/pin-5897)
+[![Accessories section showing wall mount product with red LED text and footer with Flipper logo and social icons](https://pin.fontofweb.com/5897?format=jpg)](https://fudge.design/share/pin-5897)
 
-[Accessories section showing wall mount product with red LED text and footer with Flipper logo and social icons](https://design.withfudge.com/share/pin-5897)
+[Accessories section showing wall mount product with red LED text and footer with Flipper logo and social icons](https://fudge.design/share/pin-5897)
 
-[![Monitor mount section with product on display and What's in the box with device and USB-C cable](https://pin.fontofweb.com/5896?format=jpg)](https://design.withfudge.com/share/pin-5896)
+[![Monitor mount section with product on display and What's in the box with device and USB-C cable](https://pin.fontofweb.com/5896?format=jpg)](https://fudge.design/share/pin-5896)
 
-[Monitor mount section with product on display and What's in the box with device and USB-C cable](https://design.withfudge.com/share/pin-5896)
+[Monitor mount section with product on display and What's in the box with device and USB-C cable](https://fudge.design/share/pin-5896)
 
-[![Exploded hardware diagram with labeled components, circuit boards, and technical specifications](https://pin.fontofweb.com/5895?format=jpg)](https://design.withfudge.com/share/pin-5895)
+[![Exploded hardware diagram with labeled components, circuit boards, and technical specifications](https://pin.fontofweb.com/5895?format=jpg)](https://fudge.design/share/pin-5895)
 
-[Exploded hardware diagram with labeled components, circuit boards, and technical specifications](https://design.withfudge.com/share/pin-5895)
+[Exploded hardware diagram with labeled components, circuit boards, and technical specifications](https://fudge.design/share/pin-5895)
 
 ## Overview
 
@@ -159,3 +159,18 @@ Touch targets for footer links and any interactive elements should maintain mini
 ## Scope note
 
 This guide covers the BUSY Bar marketing page as visible in desktop presentation. Mobile breakpoints, checkout flows, e-commerce cart states, and any account or documentation pages are not represented in the supplied material. Motion behavior for LED pixel simulations, hover states on interactive elements, and the full icon set beyond social media marks are not documented here. Measurements are practical adaptation targets derived from visual inspection of the rendered page.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

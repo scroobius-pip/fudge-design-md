@@ -1,26 +1,26 @@
 # How maximeheckel.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/maximeheckel.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/maximeheckel.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Inspiration section with scattered image cards on dark grid background, featuring serif heading and sans-serif body text with floating tag labels](https://pin.fontofweb.com/4378?format=jpg)](https://design.withfudge.com/share/pin-4378)
+[![Inspiration section with scattered image cards on dark grid background, featuring serif heading and sans-serif body text with floating tag labels](https://pin.fontofweb.com/4378?format=jpg)](https://fudge.design/share/pin-4378)
 
-[Inspiration section with scattered image cards on dark grid background, featuring serif heading and sans-serif body text with floating tag labels](https://design.withfudge.com/share/pin-4378)
+[Inspiration section with scattered image cards on dark grid background, featuring serif heading and sans-serif body text with floating tag labels](https://fudge.design/share/pin-4378)
 
-[![Tango project showcase with italic serif heading, dark cards with subtle borders, and gradient product thumbnails with external link icons](https://pin.fontofweb.com/4376?format=jpg)](https://design.withfudge.com/share/pin-4376)
+[![Tango project showcase with italic serif heading, dark cards with subtle borders, and gradient product thumbnails with external link icons](https://pin.fontofweb.com/4376?format=jpg)](https://fudge.design/share/pin-4376)
 
-[Tango project showcase with italic serif heading, dark cards with subtle borders, and gradient product thumbnails with external link icons](https://design.withfudge.com/share/pin-4376)
+[Tango project showcase with italic serif heading, dark cards with subtle borders, and gradient product thumbnails with external link icons](https://fudge.design/share/pin-4376)
 
-[![Docker Enterprise case study with gradient blue-yellow backdrop, overlapping application screenshots, and serif-sans type pairing](https://pin.fontofweb.com/4375?format=jpg)](https://design.withfudge.com/share/pin-4375)
+[![Docker Enterprise case study with gradient blue-yellow backdrop, overlapping application screenshots, and serif-sans type pairing](https://pin.fontofweb.com/4375?format=jpg)](https://fudge.design/share/pin-4375)
 
-[Docker Enterprise case study with gradient blue-yellow backdrop, overlapping application screenshots, and serif-sans type pairing](https://design.withfudge.com/share/pin-4375)
+[Docker Enterprise case study with gradient blue-yellow backdrop, overlapping application screenshots, and serif-sans type pairing](https://fudge.design/share/pin-4375)
 
-[![Contact section with large italic serif heading, muted blue-gray body text, and email link on near-black background](https://pin.fontofweb.com/4374?format=jpg)](https://design.withfudge.com/share/pin-4374)
+[![Contact section with large italic serif heading, muted blue-gray body text, and email link on near-black background](https://pin.fontofweb.com/4374?format=jpg)](https://fudge.design/share/pin-4374)
 
-[Contact section with large italic serif heading, muted blue-gray body text, and email link on near-black background](https://design.withfudge.com/share/pin-4374)
+[Contact section with large italic serif heading, muted blue-gray body text, and email link on near-black background](https://fudge.design/share/pin-4374)
 
 ## Overview
 
@@ -151,3 +151,18 @@ Navigation, if present in a header, should collapse to a hamburger menu or simpl
 ## Scope note
 
 This guide covers the homepage and primary portfolio sections visible in the supplied images. Interior pages, article templates, motion design, hover states, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation. Verify licensing for Instrument Serif, Instrument Serif-Italic, Inter, and I A Writer Quattro V before production use.
+
+## Related design patterns
+
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

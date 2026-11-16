@@ -1,22 +1,22 @@
 # How portfolio.adobe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/portfolio.adobe.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/portfolio.adobe.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with blue gradient background, white display headline, and portfolio website preview gallery strip](https://pin.fontofweb.com/7314?format=jpg)](https://design.withfudge.com/share/pin-7314)
+[![Hero section with blue gradient background, white display headline, and portfolio website preview gallery strip](https://pin.fontofweb.com/7314?format=jpg)](https://fudge.design/share/pin-7314)
 
-[Hero section with blue gradient background, white display headline, and portfolio website preview gallery strip](https://design.withfudge.com/share/pin-7314)
+[Hero section with blue gradient background, white display headline, and portfolio website preview gallery strip](https://fudge.design/share/pin-7314)
 
-[![Feature grid with six white cards, blue line icons, and centered section heading on light gray background](https://pin.fontofweb.com/7313?format=jpg)](https://design.withfudge.com/share/pin-7313)
+[![Feature grid with six white cards, blue line icons, and centered section heading on light gray background](https://pin.fontofweb.com/7313?format=jpg)](https://fudge.design/share/pin-7313)
 
-[Feature grid with six white cards, blue line icons, and centered section heading on light gray background](https://design.withfudge.com/share/pin-7313)
+[Feature grid with six white cards, blue line icons, and centered section heading on light gray background](https://fudge.design/share/pin-7313)
 
-[![Full hero viewport with Adobe Portfolio navigation, blue background, and centered CTA button with arrow](https://pin.fontofweb.com/7312?format=jpg)](https://design.withfudge.com/share/pin-7312)
+[![Full hero viewport with Adobe Portfolio navigation, blue background, and centered CTA button with arrow](https://pin.fontofweb.com/7312?format=jpg)](https://fudge.design/share/pin-7312)
 
-[Full hero viewport with Adobe Portfolio navigation, blue background, and centered CTA button with arrow](https://design.withfudge.com/share/pin-7312)
+[Full hero viewport with Adobe Portfolio navigation, blue background, and centered CTA button with arrow](https://fudge.design/share/pin-7312)
 
 ## Overview
 
@@ -163,3 +163,18 @@ Touch targets for buttons should maintain minimum 44×44dp regardless of viewpor
 ## Scope note
 
 This guide covers the Adobe Portfolio marketing homepage visible in the supplied images, including the hero section, portfolio preview gallery, feature grid, and navigation. Pricing pages, plan comparison tables, account dashboards, and mobile-specific layouts are not represented. Footer content, form interactions, and error states fall outside the current scope. Measurements reflect the desktop viewport as captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How technologyreview.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/technologyreview.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/technologyreview.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero section with dark teal background, yellow display typography for '10 Things That Matter in AI Right Now', and featured article card with category label and abstract](https://pin.fontofweb.com/9174?format=jpg)](https://design.withfudge.com/share/pin-9174)
+[![Homepage hero section with dark teal background, yellow display typography for '10 Things That Matter in AI Right Now', and featured article card with category label and abstract](https://pin.fontofweb.com/9174?format=jpg)](https://fudge.design/share/pin-9174)
 
-[Homepage hero section with dark teal background, yellow display typography for '10 Things That Matter in AI Right Now', and featured article card with category label and abstract](https://design.withfudge.com/share/pin-9174)
+[Homepage hero section with dark teal background, yellow display typography for '10 Things That Matter in AI Right Now', and featured article card with category label and abstract](https://fudge.design/share/pin-9174)
 
-[![Homepage hero with navigation bar showing MIT Technology Review logo, Featured/Topics/Newsletters/Events/Audio links, and Sign In/Subscribe buttons with mint accent](https://pin.fontofweb.com/9173?format=jpg)](https://design.withfudge.com/share/pin-9173)
+[![Homepage hero with navigation bar showing MIT Technology Review logo, Featured/Topics/Newsletters/Events/Audio links, and Sign In/Subscribe buttons with mint accent](https://pin.fontofweb.com/9173?format=jpg)](https://fudge.design/share/pin-9173)
 
-[Homepage hero with navigation bar showing MIT Technology Review logo, Featured/Topics/Newsletters/Events/Audio links, and Sign In/Subscribe buttons with mint accent](https://design.withfudge.com/share/pin-9173)
+[Homepage hero with navigation bar showing MIT Technology Review logo, Featured/Topics/Newsletters/Events/Audio links, and Sign In/Subscribe buttons with mint accent](https://fudge.design/share/pin-9173)
 
-[![Content feed layout with dark teal page background, white article card with orange top border, sidebar carousel with dot indicators, and promotional banner with arrow icon](https://pin.fontofweb.com/9172?format=jpg)](https://design.withfudge.com/share/pin-9172)
+[![Content feed layout with dark teal page background, white article card with orange top border, sidebar carousel with dot indicators, and promotional banner with arrow icon](https://pin.fontofweb.com/9172?format=jpg)](https://fudge.design/share/pin-9172)
 
-[Content feed layout with dark teal page background, white article card with orange top border, sidebar carousel with dot indicators, and promotional banner with arrow icon](https://design.withfudge.com/share/pin-9172)
+[Content feed layout with dark teal page background, white article card with orange top border, sidebar carousel with dot indicators, and promotional banner with arrow icon](https://fudge.design/share/pin-9172)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Dark immersive sections should maintain their teal background across all breakpo
 ## Scope note
 
 This guide covers the MIT Technology Review homepage including the hero feature block, article feed cards, sidebar carousel, header navigation, and promotional banner components. Mobile layouts, article detail pages, search interfaces, newsletter signup forms, and footer content are not represented in the supplied materials. Interactive states including hover, active, focus, and loading behaviors should be defined during implementation based on these foundational patterns.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

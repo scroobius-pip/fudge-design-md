@@ -1,22 +1,22 @@
 # How tencent.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tencent.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tencent.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About Us page with light blue hero banner showing Tencent headquarters skyline, white navigation bar, and clean body text on white canvas](https://pin.fontofweb.com/2333?format=jpg)](https://design.withfudge.com/share/pin-2333)
+[![About Us page with light blue hero banner showing Tencent headquarters skyline, white navigation bar, and clean body text on white canvas](https://pin.fontofweb.com/2333?format=jpg)](https://fudge.design/share/pin-2333)
 
-[About Us page with light blue hero banner showing Tencent headquarters skyline, white navigation bar, and clean body text on white canvas](https://design.withfudge.com/share/pin-2333)
+[About Us page with light blue hero banner showing Tencent headquarters skyline, white navigation bar, and clean body text on white canvas](https://fudge.design/share/pin-2333)
 
-[![Homepage dark hero with night cityscape, italic headline announcing quarterly results, and What's New section with image cards and cyan accent panel](https://pin.fontofweb.com/2332?format=jpg)](https://design.withfudge.com/share/pin-2332)
+[![Homepage dark hero with night cityscape, italic headline announcing quarterly results, and What's New section with image cards and cyan accent panel](https://pin.fontofweb.com/2332?format=jpg)](https://fudge.design/share/pin-2332)
 
-[Homepage dark hero with night cityscape, italic headline announcing quarterly results, and What's New section with image cards and cyan accent panel](https://design.withfudge.com/share/pin-2332)
+[Homepage dark hero with night cityscape, italic headline announcing quarterly results, and What's New section with image cards and cyan accent panel](https://fudge.design/share/pin-2332)
 
-[![Footer area with social icons, three-column link groups, blue Tencent wordmark, and circular back-to-top button](https://pin.fontofweb.com/2331?format=jpg)](https://design.withfudge.com/share/pin-2331)
+[![Footer area with social icons, three-column link groups, blue Tencent wordmark, and circular back-to-top button](https://pin.fontofweb.com/2331?format=jpg)](https://fudge.design/share/pin-2331)
 
-[Footer area with social icons, three-column link groups, blue Tencent wordmark, and circular back-to-top button](https://design.withfudge.com/share/pin-2331)
+[Footer area with social icons, three-column link groups, blue Tencent wordmark, and circular back-to-top button](https://fudge.design/share/pin-2331)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The navigation likely collapses to a condensed menu on narrow viewports, though 
 ## Scope note
 
 This guide covers the corporate homepage and About Us page surfaces visible in the supplied images. Interior pages, mobile breakpoints, form components, loading states, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

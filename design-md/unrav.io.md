@@ -1,22 +1,22 @@
 # How unrav.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/unrav.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/unrav.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login modal with neon yellow headline, cyan subtext, and magenta border accents on a near-black background](https://pin.fontofweb.com/3536?format=jpg)](https://design.withfudge.com/share/pin-3536)
+[![Login modal with neon yellow headline, cyan subtext, and magenta border accents on a near-black background](https://pin.fontofweb.com/3536?format=jpg)](https://fudge.design/share/pin-3536)
 
-[Login modal with neon yellow headline, cyan subtext, and magenta border accents on a near-black background](https://design.withfudge.com/share/pin-3536)
+[Login modal with neon yellow headline, cyan subtext, and magenta border accents on a near-black background](https://fudge.design/share/pin-3536)
 
-[![Vibrant magenta call-to-action banner with black display type and yellow button, followed by a dark footer with pink rules](https://pin.fontofweb.com/3534?format=jpg)](https://design.withfudge.com/share/pin-3534)
+[![Vibrant magenta call-to-action banner with black display type and yellow button, followed by a dark footer with pink rules](https://pin.fontofweb.com/3534?format=jpg)](https://fudge.design/share/pin-3534)
 
-[Vibrant magenta call-to-action banner with black display type and yellow button, followed by a dark footer with pink rules](https://design.withfudge.com/share/pin-3534)
+[Vibrant magenta call-to-action banner with black display type and yellow button, followed by a dark footer with pink rules](https://fudge.design/share/pin-3534)
 
-[![FAQ grid with eight bright yellow cards containing black condensed headlines and monospace body copy on a dark canvas](https://pin.fontofweb.com/3533?format=jpg)](https://design.withfudge.com/share/pin-3533)
+[![FAQ grid with eight bright yellow cards containing black condensed headlines and monospace body copy on a dark canvas](https://pin.fontofweb.com/3533?format=jpg)](https://fudge.design/share/pin-3533)
 
-[FAQ grid with eight bright yellow cards containing black condensed headlines and monospace body copy on a dark canvas](https://design.withfudge.com/share/pin-3533)
+[FAQ grid with eight bright yellow cards containing black condensed headlines and monospace body copy on a dark canvas](https://fudge.design/share/pin-3533)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Touch targets for buttons and inputs meet minimum 44px height through generous p
 ## Scope note
 
 This guide covers the login modal, marketing page sections, FAQ grid, and footer visible in the supplied captures. Navigation headers, interior application interfaces, loading states, and mobile-specific layouts are not represented. Motion behavior, hover states, and form validation feedback are not documented from the still images. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

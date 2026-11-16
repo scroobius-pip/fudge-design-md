@@ -1,26 +1,26 @@
 # How firefox.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firefox.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/firefox.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Features page showing a two-column hero with cyan and yellow browser-window illustrations, followed by a three-column grid of feature cards with white surfaces and blue text links.](https://pin.fontofweb.com/2710?format=jpg)](https://design.withfudge.com/share/pin-2710)
+[![Features page showing a two-column hero with cyan and yellow browser-window illustrations, followed by a three-column grid of feature cards with white surfaces and blue text links.](https://pin.fontofweb.com/2710?format=jpg)](https://fudge.design/share/pin-2710)
 
-[Features page showing a two-column hero with cyan and yellow browser-window illustrations, followed by a three-column grid of feature cards with white surfaces and blue text links.](https://design.withfudge.com/share/pin-2710)
+[Features page showing a two-column hero with cyan and yellow browser-window illustrations, followed by a three-column grid of feature cards with white surfaces and blue text links.](https://fudge.design/share/pin-2710)
 
-[![Download confirmation page with a mint-green notification banner, centered Firefox logo, large dark headline, and minimal centered layout on white canvas.](https://pin.fontofweb.com/2709?format=jpg)](https://design.withfudge.com/share/pin-2709)
+[![Download confirmation page with a mint-green notification banner, centered Firefox logo, large dark headline, and minimal centered layout on white canvas.](https://pin.fontofweb.com/2709?format=jpg)](https://fudge.design/share/pin-2709)
 
-[Download confirmation page with a mint-green notification banner, centered Firefox logo, large dark headline, and minimal centered layout on white canvas.](https://design.withfudge.com/share/pin-2709)
+[Download confirmation page with a mint-green notification banner, centered Firefox logo, large dark headline, and minimal centered layout on white canvas.](https://fudge.design/share/pin-2709)
 
-[![Dark footer with four-column link grid, Firefox wordmark, horizontal rule, legal links, Mozilla attribution, and a bordered language selector.](https://pin.fontofweb.com/2708?format=jpg)](https://design.withfudge.com/share/pin-2708)
+[![Dark footer with four-column link grid, Firefox wordmark, horizontal rule, legal links, Mozilla attribution, and a bordered language selector.](https://pin.fontofweb.com/2708?format=jpg)](https://fudge.design/share/pin-2708)
 
-[Dark footer with four-column link grid, Firefox wordmark, horizontal rule, legal links, Mozilla attribution, and a bordered language selector.](https://design.withfudge.com/share/pin-2708)
+[Dark footer with four-column link grid, Firefox wordmark, horizontal rule, legal links, Mozilla attribution, and a bordered language selector.](https://fudge.design/share/pin-2708)
 
-[![Homepage section with rounded gray panel containing retro computer illustration, dark headline, body copy, and a blue download button with download icon.](https://pin.fontofweb.com/2707?format=jpg)](https://design.withfudge.com/share/pin-2707)
+[![Homepage section with rounded gray panel containing retro computer illustration, dark headline, body copy, and a blue download button with download icon.](https://pin.fontofweb.com/2707?format=jpg)](https://fudge.design/share/pin-2707)
 
-[Homepage section with rounded gray panel containing retro computer illustration, dark headline, body copy, and a blue download button with download icon.](https://design.withfudge.com/share/pin-2707)
+[Homepage section with rounded gray panel containing retro computer illustration, dark headline, body copy, and a blue download button with download icon.](https://fudge.design/share/pin-2707)
 
 ## Overview
 
@@ -163,3 +163,18 @@ Type sizes should scale down by one step on mobile: hero-display to section-disp
 ## Scope note
 
 This guide covers the Firefox.com homepage, feature discovery pages, and download confirmation flow as visible in desktop screenshots. Mobile breakpoints, animation, form validation states, and secondary marketing pages are not represented. Measurements are practical adaptation targets derived from visible layout proportions. The Mozilla Headline and Mozilla Text families require verified licensing before production deployment.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

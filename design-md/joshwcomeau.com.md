@@ -1,26 +1,26 @@
 # How joshwcomeau.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joshwcomeau.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/joshwcomeau.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Navigation dropdown with light panel, arrow indicator, and playful cardboard box mascot on near-black background](https://pin.fontofweb.com/1383?format=jpg)](https://design.withfudge.com/share/pin-1383)
+[![Navigation dropdown with light panel, arrow indicator, and playful cardboard box mascot on near-black background](https://pin.fontofweb.com/1383?format=jpg)](https://fudge.design/share/pin-1383)
 
-[Navigation dropdown with light panel, arrow indicator, and playful cardboard box mascot on near-black background](https://design.withfudge.com/share/pin-1383)
+[Navigation dropdown with light panel, arrow indicator, and playful cardboard box mascot on near-black background](https://fudge.design/share/pin-1383)
 
-[![About page bento grid with dark cards, pink accents, interactive map, and whimsical illustrations](https://pin.fontofweb.com/1366?format=jpg)](https://design.withfudge.com/share/pin-1366)
+[![About page bento grid with dark cards, pink accents, interactive map, and whimsical illustrations](https://pin.fontofweb.com/1366?format=jpg)](https://fudge.design/share/pin-1366)
 
-[About page bento grid with dark cards, pink accents, interactive map, and whimsical illustrations](https://design.withfudge.com/share/pin-1366)
+[About page bento grid with dark cards, pink accents, interactive map, and whimsical illustrations](https://fudge.design/share/pin-1366)
 
-[![Hero section with large display type, biographical text, and cutout portrait against cloud shapes](https://pin.fontofweb.com/1365?format=jpg)](https://design.withfudge.com/share/pin-1365)
+[![Hero section with large display type, biographical text, and cutout portrait against cloud shapes](https://pin.fontofweb.com/1365?format=jpg)](https://fudge.design/share/pin-1365)
 
-[Hero section with large display type, biographical text, and cutout portrait against cloud shapes](https://design.withfudge.com/share/pin-1365)
+[Hero section with large display type, biographical text, and cutout portrait against cloud shapes](https://fudge.design/share/pin-1365)
 
-[![Interactive SVG tutorial with syntax-highlighted code, grid visualization, and yellow play button](https://pin.fontofweb.com/1364?format=jpg)](https://design.withfudge.com/share/pin-1364)
+[![Interactive SVG tutorial with syntax-highlighted code, grid visualization, and yellow play button](https://pin.fontofweb.com/1364?format=jpg)](https://fudge.design/share/pin-1364)
 
-[Interactive SVG tutorial with syntax-highlighted code, grid visualization, and yellow play button](https://design.withfudge.com/share/pin-1364)
+[Interactive SVG tutorial with syntax-highlighted code, grid visualization, and yellow play button](https://fudge.design/share/pin-1364)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Type sizes should scale down proportionally: hero-display reducing to section-di
 ## Scope note
 
 This guide covers the homepage, about page, and interactive tutorial page surfaces visible in the supplied images. Footer content, article listing pages, course landing pages, and checkout flows are not represented. Motion specifications, hover states, and mobile breakpoint behavior are inferred from static images and should be validated against live implementation. Measurements are practical adaptation targets. Verify licensing for Cartograph Cf, Sriracha, and Wotfard before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Personal](/share/designs-with-industry.personal)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

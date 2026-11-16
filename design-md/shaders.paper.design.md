@@ -1,26 +1,26 @@
 # How shaders.paper.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shaders.paper.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/shaders.paper.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed documentation table showing common props with parameter names, descriptions, types, and value ranges for the fluted glass shader effect.](https://pin.fontofweb.com/8567?format=jpg)](https://design.withfudge.com/share/pin-8567)
+[![Dark-themed documentation table showing common props with parameter names, descriptions, types, and value ranges for the fluted glass shader effect.](https://pin.fontofweb.com/8567?format=jpg)](https://fudge.design/share/pin-8567)
 
-[Dark-themed documentation table showing common props with parameter names, descriptions, types, and value ranges for the fluted glass shader effect.](https://design.withfudge.com/share/pin-8567)
+[Dark-themed documentation table showing common props with parameter names, descriptions, types, and value ranges for the fluted glass shader effect.](https://fudge.design/share/pin-8567)
 
-[![Shader props table listing image, color, and distortion parameters with their types and accepted values for the fluted glass filter.](https://pin.fontofweb.com/8566?format=jpg)](https://design.withfudge.com/share/pin-8566)
+[![Shader props table listing image, color, and distortion parameters with their types and accepted values for the fluted glass filter.](https://pin.fontofweb.com/8566?format=jpg)](https://fudge.design/share/pin-8566)
 
-[Shader props table listing image, color, and distortion parameters with their types and accepted values for the fluted glass filter.](https://design.withfudge.com/share/pin-8566)
+[Shader props table listing image, color, and distortion parameters with their types and accepted values for the fluted glass filter.](https://fudge.design/share/pin-8566)
 
-[![Full fluted glass shader demo page with live preview of distorted flower image, parameter control panel with sliders and presets, and code installation section.](https://pin.fontofweb.com/8565?format=jpg)](https://design.withfudge.com/share/pin-8565)
+[![Full fluted glass shader demo page with live preview of distorted flower image, parameter control panel with sliders and presets, and code installation section.](https://pin.fontofweb.com/8565?format=jpg)](https://fudge.design/share/pin-8565)
 
-[Full fluted glass shader demo page with live preview of distorted flower image, parameter control panel with sliders and presets, and code installation section.](https://design.withfudge.com/share/pin-8565)
+[Full fluted glass shader demo page with live preview of distorted flower image, parameter control panel with sliders and presets, and code installation section.](https://fudge.design/share/pin-8565)
 
-[![Paper Shaders homepage showing hero section with tagline, npm install command, and grid of image filter thumbnails including paper texture, fluted glass, water, and halftone](https://pin.fontofweb.com/7130?format=jpg)](https://design.withfudge.com/share/pin-7130)
+[![Paper Shaders homepage showing hero section with tagline, npm install command, and grid of image filter thumbnails including paper texture, fluted glass, water, and halftone](https://pin.fontofweb.com/7130?format=jpg)](https://fudge.design/share/pin-7130)
 
-[Paper Shaders homepage showing hero section with tagline, npm install command, and grid of image filter thumbnails including paper texture, fluted glass, water, and halftone](https://design.withfudge.com/share/pin-7130)
+[Paper Shaders homepage showing hero section with tagline, npm install command, and grid of image filter thumbnails including paper texture, fluted glass, water, and halftone](https://fudge.design/share/pin-7130)
 
 ## Overview
 
@@ -199,3 +199,18 @@ No mobile-specific breakpoints are confirmed in the supplied material. Implement
 ## Scope note
 
 This guide covers the homepage and shader detail page surfaces visible in the supplied material. Mobile layouts, additional shader effect pages beyond fluted glass and grain gradient, hover and focus states for interactive controls, and animation specifications for logo effects are not included. The control panel's exact slider styling and color picker implementation are inferred from visible structure rather than confirmed pixel measurements. Verify licensing for Matter and Paper Mono families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

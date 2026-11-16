@@ -1,26 +1,26 @@
 # How meduza.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/meduza.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/meduza.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![VPN troubleshooting article with beige illustration, showing the article header with mixed serif and sans-serif typography and a cookie consent banner at the bottom](https://pin.fontofweb.com/9073?format=jpg)](https://design.withfudge.com/share/pin-9073)
+[![VPN troubleshooting article with beige illustration, showing the article header with mixed serif and sans-serif typography and a cookie consent banner at the bottom](https://pin.fontofweb.com/9073?format=jpg)](https://fudge.design/share/pin-9073)
 
-[VPN troubleshooting article with beige illustration, showing the article header with mixed serif and sans-serif typography and a cookie consent banner at the bottom](https://design.withfudge.com/share/pin-9073)
+[VPN troubleshooting article with beige illustration, showing the article header with mixed serif and sans-serif typography and a cookie consent banner at the bottom](https://fudge.design/share/pin-9073)
 
-[![Michael Jackson biopic article with large concert hero image, centered headline with bold sans-serif and serif subtitle, and warm-toned category label](https://pin.fontofweb.com/9072?format=jpg)](https://design.withfudge.com/share/pin-9072)
+[![Michael Jackson biopic article with large concert hero image, centered headline with bold sans-serif and serif subtitle, and warm-toned category label](https://pin.fontofweb.com/9072?format=jpg)](https://fudge.design/share/pin-9072)
 
-[Michael Jackson biopic article with large concert hero image, centered headline with bold sans-serif and serif subtitle, and warm-toned category label](https://design.withfudge.com/share/pin-9072)
+[Michael Jackson biopic article with large concert hero image, centered headline with bold sans-serif and serif subtitle, and warm-toned category label](https://fudge.design/share/pin-9072)
 
-[![Meduza fundraising appeal with dark data visualization showing donor metrics, centered bold headline, and prominent cookie consent banner](https://pin.fontofweb.com/9071?format=jpg)](https://design.withfudge.com/share/pin-9071)
+[![Meduza fundraising appeal with dark data visualization showing donor metrics, centered bold headline, and prominent cookie consent banner](https://pin.fontofweb.com/9071?format=jpg)](https://fudge.design/share/pin-9071)
 
-[Meduza fundraising appeal with dark data visualization showing donor metrics, centered bold headline, and prominent cookie consent banner](https://design.withfudge.com/share/pin-9071)
+[Meduza fundraising appeal with dark data visualization showing donor metrics, centered bold headline, and prominent cookie consent banner](https://fudge.design/share/pin-9071)
 
-[![Environmental disaster article with full-width seascape hero image, multi-line headline combining bold sans-serif and elegant serif, and muted color palette](https://pin.fontofweb.com/9070?format=jpg)](https://design.withfudge.com/share/pin-9070)
+[![Environmental disaster article with full-width seascape hero image, multi-line headline combining bold sans-serif and elegant serif, and muted color palette](https://pin.fontofweb.com/9070?format=jpg)](https://fudge.design/share/pin-9070)
 
-[Environmental disaster article with full-width seascape hero image, multi-line headline combining bold sans-serif and elegant serif, and muted color palette](https://design.withfudge.com/share/pin-9070)
+[Environmental disaster article with full-width seascape hero image, multi-line headline combining bold sans-serif and elegant serif, and muted color palette](https://fudge.design/share/pin-9070)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Body text at 20px may reduce to 18px or 16px on mobile for improved fit, though 
 ## Scope note
 
 This guide covers the article reading experience as visible in the supplied material. Navigation, homepage layouts, search interfaces, and mobile breakpoints are not represented. Interactive states beyond the visible bronze link underline and muted button appearance are not documented. The rounded panel-top token (8px) appears in interface regions not fully visible in article contexts. Pf Regal Pro-Regular B is named in the source data as a distinct font variant but is treated here as part of the Pf Regal Pro family implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How omma.build is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/omma.build-design)
+[Open the live Fudge conversation](https://fudge.design/share/omma.build-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Modal dialog showing credit top-up state with tab navigation and centered empty-state message on near-black background](https://pin.fontofweb.com/8400?format=jpg)](https://design.withfudge.com/share/pin-8400)
+[![Modal dialog showing credit top-up state with tab navigation and centered empty-state message on near-black background](https://pin.fontofweb.com/8400?format=jpg)](https://fudge.design/share/pin-8400)
 
-[Modal dialog showing credit top-up state with tab navigation and centered empty-state message on near-black background](https://design.withfudge.com/share/pin-8400)
+[Modal dialog showing credit top-up state with tab navigation and centered empty-state message on near-black background](https://fudge.design/share/pin-8400)
 
-[![Three-column pricing cards with Popular highlight badge, white primary action button, and dark filled secondary button](https://pin.fontofweb.com/8399?format=jpg)](https://design.withfudge.com/share/pin-8399)
+[![Three-column pricing cards with Popular highlight badge, white primary action button, and dark filled secondary button](https://pin.fontofweb.com/8399?format=jpg)](https://fudge.design/share/pin-8399)
 
-[Three-column pricing cards with Popular highlight badge, white primary action button, and dark filled secondary button](https://design.withfudge.com/share/pin-8399)
+[Three-column pricing cards with Popular highlight badge, white primary action button, and dark filled secondary button](https://fudge.design/share/pin-8399)
 
-[![Components page with centered heading, search input with rounded corners, and empty-state illustration with helper text](https://pin.fontofweb.com/8398?format=jpg)](https://design.withfudge.com/share/pin-8398)
+[![Components page with centered heading, search input with rounded corners, and empty-state illustration with helper text](https://pin.fontofweb.com/8398?format=jpg)](https://fudge.design/share/pin-8398)
 
-[Components page with centered heading, search input with rounded corners, and empty-state illustration with helper text](https://design.withfudge.com/share/pin-8398)
+[Components page with centered heading, search input with rounded corners, and empty-state illustration with helper text](https://fudge.design/share/pin-8398)
 
-[![Chat interface with prompt suggestions as pill buttons, message input bar with command hint, and minimal dark canvas](https://pin.fontofweb.com/8391?format=jpg)](https://design.withfudge.com/share/pin-8391)
+[![Chat interface with prompt suggestions as pill buttons, message input bar with command hint, and minimal dark canvas](https://pin.fontofweb.com/8391?format=jpg)](https://fudge.design/share/pin-8391)
 
-[Chat interface with prompt suggestions as pill buttons, message input bar with command hint, and minimal dark canvas](https://design.withfudge.com/share/pin-8391)
+[Chat interface with prompt suggestions as pill buttons, message input bar with command hint, and minimal dark canvas](https://fudge.design/share/pin-8391)
 
 ## Overview
 
@@ -203,3 +203,18 @@ The interface appears optimized for desktop and large tablet use, with centered 
 ## Scope note
 
 This guide covers the dark-themed application interface for Omma's component library, pricing, and chat experiences. Marketing pages with light backgrounds, mobile-specific layouts, loading and generative animation states, and email or notification templates are not represented in the supplied material. Measurements are derived from the documented interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How cathaypacific.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cathaypacific.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/cathaypacific.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Notification centre overlay with stacked news cards on light grey background, showing teal link text and close button](https://pin.fontofweb.com/2236?format=jpg)](https://design.withfudge.com/share/pin-2236)
+[![Notification centre overlay with stacked news cards on light grey background, showing teal link text and close button](https://pin.fontofweb.com/2236?format=jpg)](https://fudge.design/share/pin-2236)
 
-[Notification centre overlay with stacked news cards on light grey background, showing teal link text and close button](https://design.withfudge.com/share/pin-2236)
+[Notification centre overlay with stacked news cards on light grey background, showing teal link text and close button](https://fudge.design/share/pin-2236)
 
-[![Sign-in page with split layout: form fields and dark green primary button left, mountain sunrise photography with membership CTA right](https://pin.fontofweb.com/2235?format=jpg)](https://design.withfudge.com/share/pin-2235)
+[![Sign-in page with split layout: form fields and dark green primary button left, mountain sunrise photography with membership CTA right](https://pin.fontofweb.com/2235?format=jpg)](https://fudge.design/share/pin-2235)
 
-[Sign-in page with split layout: form fields and dark green primary button left, mountain sunrise photography with membership CTA right](https://design.withfudge.com/share/pin-2235)
+[Sign-in page with split layout: form fields and dark green primary button left, mountain sunrise photography with membership CTA right](https://fudge.design/share/pin-2235)
 
-[![Dark green footer with four-column link grid, social icons, copyright bar, and floating action buttons](https://pin.fontofweb.com/2234?format=jpg)](https://design.withfudge.com/share/pin-2234)
+[![Dark green footer with four-column link grid, social icons, copyright bar, and floating action buttons](https://pin.fontofweb.com/2234?format=jpg)](https://fudge.design/share/pin-2234)
 
-[Dark green footer with four-column link grid, social icons, copyright bar, and floating action buttons](https://design.withfudge.com/share/pin-2234)
+[Dark green footer with four-column link grid, social icons, copyright bar, and floating action buttons](https://fudge.design/share/pin-2234)
 
-[![Cookie consent banner with dismissible close button and teal policy link on light background](https://pin.fontofweb.com/2233?format=jpg)](https://design.withfudge.com/share/pin-2233)
+[![Cookie consent banner with dismissible close button and teal policy link on light background](https://pin.fontofweb.com/2233?format=jpg)](https://fudge.design/share/pin-2233)
 
-[Cookie consent banner with dismissible close button and teal policy link on light background](https://design.withfudge.com/share/pin-2233)
+[Cookie consent banner with dismissible close button and teal policy link on light background](https://fudge.design/share/pin-2233)
 
 ## Overview
 
@@ -202,3 +202,18 @@ Typography scales down proportionally: hero-display should reduce to section-dis
 ## Scope note
 
 This guide covers the homepage, sign-in page, notification centre, cookie banner, and footer surfaces visible in the supplied images. Header navigation, booking flows, in-flight entertainment interfaces, and mobile-specific layouts are not represented. Motion, loading states, and form validation styling are not documented. Measurements are practical adaptation targets derived from the visible interface at the supplied resolution.
+
+## Related design patterns
+
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

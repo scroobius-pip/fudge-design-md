@@ -1,18 +1,18 @@
 # How gallery.any.coop is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gallery.any.coop-design)
+[Open the live Fudge conversation](https://fudge.design/share/gallery.any.coop-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large serif title, centered subtitle, and two rows of pill-shaped category filter chips on white background](https://pin.fontofweb.com/1305?format=jpg)](https://design.withfudge.com/share/pin-1305)
+[![Hero section with large serif title, centered subtitle, and two rows of pill-shaped category filter chips on white background](https://pin.fontofweb.com/1305?format=jpg)](https://fudge.design/share/pin-1305)
 
-[Hero section with large serif title, centered subtitle, and two rows of pill-shaped category filter chips on white background](https://design.withfudge.com/share/pin-1305)
+[Hero section with large serif title, centered subtitle, and two rows of pill-shaped category filter chips on white background](https://fudge.design/share/pin-1305)
 
-[![Full page view showing top navigation bar, hero section, and three-column grid of experience cards with screenshots and descriptions](https://pin.fontofweb.com/1304?format=jpg)](https://design.withfudge.com/share/pin-1304)
+[![Full page view showing top navigation bar, hero section, and three-column grid of experience cards with screenshots and descriptions](https://pin.fontofweb.com/1304?format=jpg)](https://fudge.design/share/pin-1304)
 
-[Full page view showing top navigation bar, hero section, and three-column grid of experience cards with screenshots and descriptions](https://design.withfudge.com/share/pin-1304)
+[Full page view showing top navigation bar, hero section, and three-column grid of experience cards with screenshots and descriptions](https://fudge.design/share/pin-1304)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Card images should maintain aspect ratio while scaling to column width. Text pad
 ## Scope note
 
 This guide covers the ANY Experience Gallery landing page hero, category filters, and experience card grid. The top navigation, alert banner, and card content patterns are described from visible material. Measurements are practical adaptation targets. Not covered: mobile layouts, hover and focus states, loading skeletons, form interactions for experience submission, search functionality, pagination or infinite scroll behavior, and any dark mode variant. The underlying screenshot applications within cards are content rather than system components.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How forgeandform.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/forgeandform.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/forgeandform.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with black background, coral f&f logo, contact prompt, and legal links in muted gray text](https://pin.fontofweb.com/113?format=jpg)](https://design.withfudge.com/share/pin-113)
+[![Footer section with black background, coral f&f logo, contact prompt, and legal links in muted gray text](https://pin.fontofweb.com/113?format=jpg)](https://fudge.design/share/pin-113)
 
-[Footer section with black background, coral f&f logo, contact prompt, and legal links in muted gray text](https://design.withfudge.com/share/pin-113)
+[Footer section with black background, coral f&f logo, contact prompt, and legal links in muted gray text](https://fudge.design/share/pin-113)
 
-[![Social feed grid with six Twitter-style cards on vibrant coral-red background showing app design work](https://pin.fontofweb.com/112?format=jpg)](https://design.withfudge.com/share/pin-112)
+[![Social feed grid with six Twitter-style cards on vibrant coral-red background showing app design work](https://pin.fontofweb.com/112?format=jpg)](https://fudge.design/share/pin-112)
 
-[Social feed grid with six Twitter-style cards on vibrant coral-red background showing app design work](https://design.withfudge.com/share/pin-112)
+[Social feed grid with six Twitter-style cards on vibrant coral-red background showing app design work](https://fudge.design/share/pin-112)
 
-[![Projects grid with four portfolio items on light gray background including First Contact, Squall, Meek, and Wide Sky](https://pin.fontofweb.com/111?format=jpg)](https://design.withfudge.com/share/pin-111)
+[![Projects grid with four portfolio items on light gray background including First Contact, Squall, Meek, and Wide Sky](https://pin.fontofweb.com/111?format=jpg)](https://fudge.design/share/pin-111)
 
-[Projects grid with four portfolio items on light gray background including First Contact, Squall, Meek, and Wide Sky](https://design.withfudge.com/share/pin-111)
+[Projects grid with four portfolio items on light gray background including First Contact, Squall, Meek, and Wide Sky](https://fudge.design/share/pin-111)
 
-[![Clients section with electric purple background displaying Netflix, Dropbox, Uber, and Target logos in white](https://pin.fontofweb.com/110?format=jpg)](https://design.withfudge.com/share/pin-110)
+[![Clients section with electric purple background displaying Netflix, Dropbox, Uber, and Target logos in white](https://pin.fontofweb.com/110?format=jpg)](https://fudge.design/share/pin-110)
 
-[Clients section with electric purple background displaying Netflix, Dropbox, Uber, and Target logos in white](https://design.withfudge.com/share/pin-110)
+[Clients section with electric purple background displaying Netflix, Dropbox, Uber, and Target logos in white](https://fudge.design/share/pin-110)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The grid system should collapse gracefully as viewport narrows. The Projects two
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images: Projects grid, Social feed, Clients roster, and Footer. Navigation behavior, interior project pages, form interactions, and motion specifications are not included. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Agency](/share/designs-with-offering.agency)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

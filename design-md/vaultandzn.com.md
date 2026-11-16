@@ -1,18 +1,18 @@
 # How vaultandzn.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vaultandzn.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vaultandzn.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with navigation, announcement banner, and category grid showing product cards with rounded corners and dark theme](https://pin.fontofweb.com/5302?format=jpg)](https://design.withfudge.com/share/pin-5302)
+[![Homepage hero with navigation, announcement banner, and category grid showing product cards with rounded corners and dark theme](https://pin.fontofweb.com/5302?format=jpg)](https://fudge.design/share/pin-5302)
 
-[Homepage hero with navigation, announcement banner, and category grid showing product cards with rounded corners and dark theme](https://design.withfudge.com/share/pin-5302)
+[Homepage hero with navigation, announcement banner, and category grid showing product cards with rounded corners and dark theme](https://fudge.design/share/pin-5302)
 
-[![Footer section with email signup form, brand logo, social icons, country selector, and payment method badges on dark background](https://pin.fontofweb.com/5303?format=jpg)](https://design.withfudge.com/share/pin-5303)
+[![Footer section with email signup form, brand logo, social icons, country selector, and payment method badges on dark background](https://pin.fontofweb.com/5303?format=jpg)](https://fudge.design/share/pin-5303)
 
-[Footer section with email signup form, brand logo, social icons, country selector, and payment method badges on dark background](https://design.withfudge.com/share/pin-5303)
+[Footer section with email signup form, brand logo, social icons, country selector, and payment method badges on dark background](https://fudge.design/share/pin-5303)
 
 ## Overview
 
@@ -141,3 +141,18 @@ The supplied images show a desktop viewport. Based on the component structures v
 ## Scope note
 
 This guide covers the homepage surface including navigation, hero, category browsing, newsletter capture, and footer components. Product detail pages, checkout flows, account interfaces, and mobile-specific layouts are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection. Motion behavior, loading states, and form validation feedback are not documented and should be designed to complement the established static system.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

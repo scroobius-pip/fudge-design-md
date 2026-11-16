@@ -1,26 +1,26 @@
 # How pangrampangram.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pangrampangram.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pangrampangram.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Eiko product page showing style list with Thin to Light Italic variants in light gray rounded cards, black preview area, and orange accent numerals](https://pin.fontofweb.com/9783?format=jpg)](https://design.withfudge.com/share/pin-9783)
+[![Eiko product page showing style list with Thin to Light Italic variants in light gray rounded cards, black preview area, and orange accent numerals](https://pin.fontofweb.com/9783?format=jpg)](https://fudge.design/share/pin-9783)
 
-[Eiko product page showing style list with Thin to Light Italic variants in light gray rounded cards, black preview area, and orange accent numerals](https://design.withfudge.com/share/pin-9783)
+[Eiko product page showing style list with Thin to Light Italic variants in light gray rounded cards, black preview area, and orange accent numerals](https://fudge.design/share/pin-9783)
 
-[![Neue Montreal product page featuring a dark carousel with metallic 3D chain imagery, white text overlay, and orange Branding pill badge](https://pin.fontofweb.com/8534?format=jpg)](https://design.withfudge.com/share/pin-8534)
+[![Neue Montreal product page featuring a dark carousel with metallic 3D chain imagery, white text overlay, and orange Branding pill badge](https://pin.fontofweb.com/8534?format=jpg)](https://fudge.design/share/pin-8534)
 
-[Neue Montreal product page featuring a dark carousel with metallic 3D chain imagery, white text overlay, and orange Branding pill badge](https://design.withfudge.com/share/pin-8534)
+[Neue Montreal product page featuring a dark carousel with metallic 3D chain imagery, white text overlay, and orange Branding pill badge](https://fudge.design/share/pin-8534)
 
-[![Neue Montreal Glyphs Set tab showing uppercase and lowercase letter grid in rounded light gray cells with selected glyph highlighted in black](https://pin.fontofweb.com/8533?format=jpg)](https://design.withfudge.com/share/pin-8533)
+[![Neue Montreal Glyphs Set tab showing uppercase and lowercase letter grid in rounded light gray cells with selected glyph highlighted in black](https://pin.fontofweb.com/8533?format=jpg)](https://fudge.design/share/pin-8533)
 
-[Neue Montreal Glyphs Set tab showing uppercase and lowercase letter grid in rounded light gray cells with selected glyph highlighted in black](https://design.withfudge.com/share/pin-8533)
+[Neue Montreal Glyphs Set tab showing uppercase and lowercase letter grid in rounded light gray cells with selected glyph highlighted in black](https://fudge.design/share/pin-8533)
 
-[![Neue Montreal glyph detail view with large white letter I on black background showing ascender, cap height, x-height, baseline, and descender metrics](https://pin.fontofweb.com/8532?format=jpg)](https://design.withfudge.com/share/pin-8532)
+[![Neue Montreal glyph detail view with large white letter I on black background showing ascender, cap height, x-height, baseline, and descender metrics](https://pin.fontofweb.com/8532?format=jpg)](https://fudge.design/share/pin-8532)
 
-[Neue Montreal glyph detail view with large white letter I on black background showing ascender, cap height, x-height, baseline, and descender metrics](https://design.withfudge.com/share/pin-8532)
+[Neue Montreal glyph detail view with large white letter I on black background showing ascender, cap height, x-height, baseline, and descender metrics](https://fudge.design/share/pin-8532)
 
 ## Overview
 
@@ -207,3 +207,18 @@ The tab navigation in the header may collapse to a horizontal scroll or hamburge
 ## Scope note
 
 This guide covers the product page and specimen viewer surfaces for Pangram Pangram's font catalog, including the Eiko and Neue Montreal product experiences. Homepage promotional layouts, account pages, checkout flows, and mobile-specific adaptations are not represented in the supplied material. The 35% border-radius value for glyph cells and the 2-pixel relative unit step for type scaling should be verified against production requirements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Product detail](/share/designs-with-page.commerce.product_detail)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How meodai.github.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/meodai.github.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/meodai.github.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Querying Voxels section with dark 3D voxel sculpture, syntax-highlighted code block, and right-side settings panel with camera controls and style sliders](https://pin.fontofweb.com/8509?format=jpg)](https://design.withfudge.com/share/pin-8509)
+[![Querying Voxels section with dark 3D voxel sculpture, syntax-highlighted code block, and right-side settings panel with camera controls and style sliders](https://pin.fontofweb.com/8509?format=jpg)](https://fudge.design/share/pin-8509)
 
-[Querying Voxels section with dark 3D voxel sculpture, syntax-highlighted code block, and right-side settings panel with camera controls and style sliders](https://design.withfudge.com/share/pin-8509)
+[Querying Voxels section with dark 3D voxel sculpture, syntax-highlighted code block, and right-side settings panel with camera controls and style sliders](https://fudge.design/share/pin-8509)
 
-[![Rotation section showing white wireframe voxel L-shape, code example with rotation API, and settings panel with oblique camera type selected](https://pin.fontofweb.com/8508?format=jpg)](https://design.withfudge.com/share/pin-8508)
+[![Rotation section showing white wireframe voxel L-shape, code example with rotation API, and settings panel with oblique camera type selected](https://pin.fontofweb.com/8508?format=jpg)](https://fudge.design/share/pin-8508)
 
-[Rotation section showing white wireframe voxel L-shape, code example with rotation API, and settings panel with oblique camera type selected](https://design.withfudge.com/share/pin-8508)
+[Rotation section showing white wireframe voxel L-shape, code example with rotation API, and settings panel with oblique camera type selected](https://fudge.design/share/pin-8508)
 
-[![Boxes section featuring large white voxel cube grid, code snippet with addBox parameters, and interactive dimension sliders below the canvas](https://pin.fontofweb.com/8507?format=jpg)](https://design.withfudge.com/share/pin-8507)
+[![Boxes section featuring large white voxel cube grid, code snippet with addBox parameters, and interactive dimension sliders below the canvas](https://pin.fontofweb.com/8507?format=jpg)](https://fudge.design/share/pin-8507)
 
-[Boxes section featuring large white voxel cube grid, code snippet with addBox parameters, and interactive dimension sliders below the canvas](https://design.withfudge.com/share/pin-8507)
+[Boxes section featuring large white voxel cube grid, code snippet with addBox parameters, and interactive dimension sliders below the canvas](https://fudge.design/share/pin-8507)
 
-[![Hero section Creating an Engine with large display type, import code block with syntax highlighting, and explanatory paragraphs on dark canvas background](https://pin.fontofweb.com/8506?format=jpg)](https://design.withfudge.com/share/pin-8506)
+[![Hero section Creating an Engine with large display type, import code block with syntax highlighting, and explanatory paragraphs on dark canvas background](https://pin.fontofweb.com/8506?format=jpg)](https://fudge.design/share/pin-8506)
 
-[Hero section Creating an Engine with large display type, import code block with syntax highlighting, and explanatory paragraphs on dark canvas background](https://design.withfudge.com/share/pin-8506)
+[Hero section Creating an Engine with large display type, import code block with syntax highlighting, and explanatory paragraphs on dark canvas background](https://fudge.design/share/pin-8506)
 
 ## Overview
 
@@ -206,3 +206,18 @@ The settings panel's camera and style controls are essential to the interactive 
 ## Scope note
 
 This guide covers the visible documentation page for the Heerich voxel engine, including its section-based layout, interactive canvas demonstrations, settings panel, and syntax-highlighted code presentation. Mobile breakpoints, animation behavior, form validation states, and additional pages beyond this single documentation surface are not represented in the available material. The spacing and type scale values derive from the exact measurements present in the rendered interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Documentation article](/share/designs-with-page.documentation.article)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

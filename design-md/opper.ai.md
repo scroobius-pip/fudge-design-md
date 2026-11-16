@@ -1,26 +1,26 @@
 # How opper.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/opper.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/opper.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article page with gradient hero card, dark navigation bar, and article body with inline links and list formatting](https://pin.fontofweb.com/7023?format=jpg)](https://design.withfudge.com/share/pin-7023)
+[![Blog article page with gradient hero card, dark navigation bar, and article body with inline links and list formatting](https://pin.fontofweb.com/7023?format=jpg)](https://fudge.design/share/pin-7023)
 
-[Blog article page with gradient hero card, dark navigation bar, and article body with inline links and list formatting](https://design.withfudge.com/share/pin-7023)
+[Blog article page with gradient hero card, dark navigation bar, and article body with inline links and list formatting](https://fudge.design/share/pin-7023)
 
-[![Pricing utility table with feature rows, checkmark benefits, and right-aligned pricing on dark background](https://pin.fontofweb.com/7022?format=jpg)](https://design.withfudge.com/share/pin-7022)
+[![Pricing utility table with feature rows, checkmark benefits, and right-aligned pricing on dark background](https://pin.fontofweb.com/7022?format=jpg)](https://fudge.design/share/pin-7022)
 
-[Pricing utility table with feature rows, checkmark benefits, and right-aligned pricing on dark background](https://design.withfudge.com/share/pin-7022)
+[Pricing utility table with feature rows, checkmark benefits, and right-aligned pricing on dark background](https://fudge.design/share/pin-7022)
 
-[![Three-tier pricing cards with pill-shaped CTA buttons showing Free, Utility, and Enterprise plans](https://pin.fontofweb.com/7021?format=jpg)](https://design.withfudge.com/share/pin-7021)
+[![Three-tier pricing cards with pill-shaped CTA buttons showing Free, Utility, and Enterprise plans](https://pin.fontofweb.com/7021?format=jpg)](https://fudge.design/share/pin-7021)
 
-[Three-tier pricing cards with pill-shaped CTA buttons showing Free, Utility, and Enterprise plans](https://design.withfudge.com/share/pin-7021)
+[Three-tier pricing cards with pill-shaped CTA buttons showing Free, Utility, and Enterprise plans](https://fudge.design/share/pin-7021)
 
-[![Homepage footer with serif testimonial quote, social links with chevrons, and large Opper wordmark](https://pin.fontofweb.com/7020?format=jpg)](https://design.withfudge.com/share/pin-7020)
+[![Homepage footer with serif testimonial quote, social links with chevrons, and large Opper wordmark](https://pin.fontofweb.com/7020?format=jpg)](https://fudge.design/share/pin-7020)
 
-[Homepage footer with serif testimonial quote, social links with chevrons, and large Opper wordmark](https://design.withfudge.com/share/pin-7020)
+[Homepage footer with serif testimonial quote, social links with chevrons, and large Opper wordmark](https://fudge.design/share/pin-7020)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The design prioritizes desktop presentation with centered content columns that s
 ## Scope note
 
 This guide covers the homepage, pricing, and blog article surfaces visible in the supplied images. Mobile breakpoints, form validation states, loading skeletons, and documentation page layouts are not represented. The gradient color values describe visible imagery rather than exact CSS gradients. Measurements are exact where retained in the source; spacing adaptations use the 2px relative unit grid.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

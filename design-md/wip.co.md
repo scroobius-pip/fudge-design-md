@@ -1,18 +1,18 @@
 # How wip.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wip.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/wip.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Main feed view showing todo items, user avatars, sidebar navigation with streaks leaderboard, and yellow join CTA card](https://pin.fontofweb.com/7067?format=jpg)](https://design.withfudge.com/share/pin-7067)
+[![Main feed view showing todo items, user avatars, sidebar navigation with streaks leaderboard, and yellow join CTA card](https://pin.fontofweb.com/7067?format=jpg)](https://fudge.design/share/pin-7067)
 
-[Main feed view showing todo items, user avatars, sidebar navigation with streaks leaderboard, and yellow join CTA card](https://design.withfudge.com/share/pin-7067)
+[Main feed view showing todo items, user avatars, sidebar navigation with streaks leaderboard, and yellow join CTA card](https://fudge.design/share/pin-7067)
 
-[![Join modal overlay with WIP logo, headline, feature grid with emoji icons, and maker community social proof avatars](https://pin.fontofweb.com/7066?format=jpg)](https://design.withfudge.com/share/pin-7066)
+[![Join modal overlay with WIP logo, headline, feature grid with emoji icons, and maker community social proof avatars](https://pin.fontofweb.com/7066?format=jpg)](https://fudge.design/share/pin-7066)
 
-[Join modal overlay with WIP logo, headline, feature grid with emoji icons, and maker community social proof avatars](https://design.withfudge.com/share/pin-7066)
+[Join modal overlay with WIP logo, headline, feature grid with emoji icons, and maker community social proof avatars](https://fudge.design/share/pin-7066)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The layout assumes a desktop viewport with sufficient width for three columns. A
 ## Scope note
 
 This guide covers the logged-out or new-user homepage experience including the feed, sidebar navigation, right-column modules, and join modal. User profiles, settings interfaces, notification systems, and mobile-specific layouts are not represented in the supplied material. Measurements are derived from the documented interface values with 2px as the base relative unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [List feed](/share/designs-with-layout.archetype.list_feed)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

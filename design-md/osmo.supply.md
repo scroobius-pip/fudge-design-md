@@ -1,26 +1,26 @@
 # How osmo.supply is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/osmo.supply-design)
+[Open the live Fudge conversation](https://fudge.design/share/osmo.supply-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login page with dark canvas, floating 3D card carousel, and centered white form panel with purple primary action button](https://pin.fontofweb.com/4546?format=jpg)](https://design.withfudge.com/share/pin-4546)
+[![Login page with dark canvas, floating 3D card carousel, and centered white form panel with purple primary action button](https://pin.fontofweb.com/4546?format=jpg)](https://fudge.design/share/pin-4546)
 
-[Login page with dark canvas, floating 3D card carousel, and centered white form panel with purple primary action button](https://design.withfudge.com/share/pin-4546)
+[Login page with dark canvas, floating 3D card carousel, and centered white form panel with purple primary action button](https://fudge.design/share/pin-4546)
 
-[![Light footer with three-column navigation, black Login pill, coral Join Osmo pill, and circular social icon buttons](https://pin.fontofweb.com/4545?format=jpg)](https://design.withfudge.com/share/pin-4545)
+[![Light footer with three-column navigation, black Login pill, coral Join Osmo pill, and circular social icon buttons](https://pin.fontofweb.com/4545?format=jpg)](https://fudge.design/share/pin-4545)
 
-[Light footer with three-column navigation, black Login pill, coral Join Osmo pill, and circular social icon buttons](https://design.withfudge.com/share/pin-4545)
+[Light footer with three-column navigation, black Login pill, coral Join Osmo pill, and circular social icon buttons](https://fudge.design/share/pin-4545)
 
-[![Newsletter subscription form on light background with purple checked checkbox, underlined Privacy Policy link, and black submit button](https://pin.fontofweb.com/4544?format=jpg)](https://design.withfudge.com/share/pin-4544)
+[![Newsletter subscription form on light background with purple checked checkbox, underlined Privacy Policy link, and black submit button](https://pin.fontofweb.com/4544?format=jpg)](https://fudge.design/share/pin-4544)
 
-[Newsletter subscription form on light background with purple checked checkbox, underlined Privacy Policy link, and black submit button](https://design.withfudge.com/share/pin-4544)
+[Newsletter subscription form on light background with purple checked checkbox, underlined Privacy Policy link, and black submit button](https://fudge.design/share/pin-4544)
 
-[![Dark promotional section with large display typography, purple CTA button, and embedded product screenshot showing locked resource cards](https://pin.fontofweb.com/4543?format=jpg)](https://design.withfudge.com/share/pin-4543)
+[![Dark promotional section with large display typography, purple CTA button, and embedded product screenshot showing locked resource cards](https://pin.fontofweb.com/4543?format=jpg)](https://fudge.design/share/pin-4543)
 
-[Dark promotional section with large display typography, purple CTA button, and embedded product screenshot showing locked resource cards](https://design.withfudge.com/share/pin-4543)
+[Dark promotional section with large display typography, purple CTA button, and embedded product screenshot showing locked resource cards](https://fudge.design/share/pin-4543)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Typography scales down proportionally: hero-display should reduce to section-dis
 ## Scope note
 
 This guide covers the landing, plans, showcase, and login page surfaces visible in the supplied images. Mobile breakpoints, loading states, error handling, and full component interaction states are not represented. Measurements are practical adaptation targets derived from the visible interface proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

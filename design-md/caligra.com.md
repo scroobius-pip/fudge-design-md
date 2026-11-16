@@ -1,26 +1,26 @@
 # How caligra.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/caligra.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/caligra.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with 'Build with Us' heading, email subscription form, and company details on white background](https://pin.fontofweb.com/5423?format=jpg)](https://design.withfudge.com/share/pin-5423)
+[![Footer section with 'Build with Us' heading, email subscription form, and company details on white background](https://pin.fontofweb.com/5423?format=jpg)](https://fudge.design/share/pin-5423)
 
-[Footer section with 'Build with Us' heading, email subscription form, and company details on white background](https://design.withfudge.com/share/pin-5423)
+[Footer section with 'Build with Us' heading, email subscription form, and company details on white background](https://fudge.design/share/pin-5423)
 
-[![Dark hero section with 'Computers for experts' display type and manifesto text in light gray on charcoal](https://pin.fontofweb.com/5422?format=jpg)](https://design.withfudge.com/share/pin-5422)
+[![Dark hero section with 'Computers for experts' display type and manifesto text in light gray on charcoal](https://pin.fontofweb.com/5422?format=jpg)](https://fudge.design/share/pin-5422)
 
-[Dark hero section with 'Computers for experts' display type and manifesto text in light gray on charcoal](https://design.withfudge.com/share/pin-5422)
+[Dark hero section with 'Computers for experts' display type and manifesto text in light gray on charcoal](https://fudge.design/share/pin-5422)
 
-[![Split layout with 'Made for Making' heading, body copy, and technical software screenshots on warm gray band](https://pin.fontofweb.com/5421?format=jpg)](https://design.withfudge.com/share/pin-5421)
+[![Split layout with 'Made for Making' heading, body copy, and technical software screenshots on warm gray band](https://pin.fontofweb.com/5421?format=jpg)](https://fudge.design/share/pin-5421)
 
-[Split layout with 'Made for Making' heading, body copy, and technical software screenshots on warm gray band](https://design.withfudge.com/share/pin-5421)
+[Split layout with 'Made for Making' heading, body copy, and technical software screenshots on warm gray band](https://fudge.design/share/pin-5421)
 
-[![Product specification table and c100 Developer Terminal pricing card with rust-colored reserve button](https://pin.fontofweb.com/5420?format=jpg)](https://design.withfudge.com/share/pin-5420)
+[![Product specification table and c100 Developer Terminal pricing card with rust-colored reserve button](https://pin.fontofweb.com/5420?format=jpg)](https://fudge.design/share/pin-5420)
 
-[Product specification table and c100 Developer Terminal pricing card with rust-colored reserve button](https://design.withfudge.com/share/pin-5420)
+[Product specification table and c100 Developer Terminal pricing card with rust-colored reserve button](https://fudge.design/share/pin-5420)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Touch targets for buttons and inputs should maintain minimum 44px height; the cu
 ## Scope note
 
 This guide covers the landing page surface for Caligra's c100 Developer Terminal announcement, including the hero manifesto, product specification, pricing, subscription, and footer sections. Mobile breakpoints, animation, form validation states, and checkout flow are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How workspace.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/workspace.google.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/workspace.google.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Newsletter signup section with email input, country dropdown, consent checkbox, and rounded white Sign up button on light gray background](https://pin.fontofweb.com/6903?format=jpg)](https://design.withfudge.com/share/pin-6903)
+[![Newsletter signup section with email input, country dropdown, consent checkbox, and rounded white Sign up button on light gray background](https://pin.fontofweb.com/6903?format=jpg)](https://fudge.design/share/pin-6903)
 
-[Newsletter signup section with email input, country dropdown, consent checkbox, and rounded white Sign up button on light gray background](https://design.withfudge.com/share/pin-6903)
+[Newsletter signup section with email input, country dropdown, consent checkbox, and rounded white Sign up button on light gray background](https://fudge.design/share/pin-6903)
 
-[![FAQ accordion section with expandable questions, blue chevron icons, and tab navigation for Create, Organize, and FAQs](https://pin.fontofweb.com/6902?format=jpg)](https://design.withfudge.com/share/pin-6902)
+[![FAQ accordion section with expandable questions, blue chevron icons, and tab navigation for Create, Organize, and FAQs](https://pin.fontofweb.com/6902?format=jpg)](https://fudge.design/share/pin-6902)
 
-[FAQ accordion section with expandable questions, blue chevron icons, and tab navigation for Create, Organize, and FAQs](https://design.withfudge.com/share/pin-6902)
+[FAQ accordion section with expandable questions, blue chevron icons, and tab navigation for Create, Organize, and FAQs](https://fudge.design/share/pin-6902)
 
-[![Feature showcase with phone mockups displaying task notifications and calendar integration alongside descriptive headings](https://pin.fontofweb.com/6901?format=jpg)](https://design.withfudge.com/share/pin-6901)
+[![Feature showcase with phone mockups displaying task notifications and calendar integration alongside descriptive headings](https://pin.fontofweb.com/6901?format=jpg)](https://fudge.design/share/pin-6901)
 
-[Feature showcase with phone mockups displaying task notifications and calendar integration alongside descriptive headings](https://design.withfudge.com/share/pin-6901)
+[Feature showcase with phone mockups displaying task notifications and calendar integration alongside descriptive headings](https://fudge.design/share/pin-6901)
 
-[![Integration section showing Gmail sidebar with task panel and vertical tab list for Calendar, Gmail, Docs, and Chat features](https://pin.fontofweb.com/6900?format=jpg)](https://design.withfudge.com/share/pin-6900)
+[![Integration section showing Gmail sidebar with task panel and vertical tab list for Calendar, Gmail, Docs, and Chat features](https://pin.fontofweb.com/6900?format=jpg)](https://fudge.design/share/pin-6900)
 
-[Integration section showing Gmail sidebar with task panel and vertical tab list for Calendar, Gmail, Docs, and Chat features](https://design.withfudge.com/share/pin-6900)
+[Integration section showing Gmail sidebar with task panel and vertical tab list for Calendar, Gmail, Docs, and Chat features](https://fudge.design/share/pin-6900)
 
 ## Overview
 
@@ -187,3 +187,18 @@ The newsletter form's side-by-side inputs stack vertically, with the submit butt
 ## Scope note
 
 This guide covers the Google Tasks product marketing page on workspace.google.com, including the hero, feature sections with device mockups, FAQ accordion, newsletter signup, and footer. Global navigation behavior, additional product pages, dark mode, loading states, and motion design are not represented in the supplied material. The spacing and radius values derive from the documented interface measurements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

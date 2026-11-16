@@ -1,26 +1,26 @@
 # How temporal.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/temporal.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/temporal.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Two testimonial cards with white surfaces and black drop shadows against a vibrant purple-to-orange gradient background, featuring quotes from Vercel and HashiCorp executives.](https://pin.fontofweb.com/7545?format=jpg)](https://design.withfudge.com/share/pin-7545)
+[![Two testimonial cards with white surfaces and black drop shadows against a vibrant purple-to-orange gradient background, featuring quotes from Vercel and HashiCorp executives.](https://pin.fontofweb.com/7545?format=jpg)](https://fudge.design/share/pin-7545)
 
-[Two testimonial cards with white surfaces and black drop shadows against a vibrant purple-to-orange gradient background, featuring quotes from Vercel and HashiCorp executives.](https://design.withfudge.com/share/pin-7545)
+[Two testimonial cards with white surfaces and black drop shadows against a vibrant purple-to-orange gradient background, featuring quotes from Vercel and HashiCorp executives.](https://fudge.design/share/pin-7545)
 
-[![Dark section with large light headline 'One platform, two great hosting paths' and a diagram showing Self-Hosted and Cloud options with neon green and magenta accent shapes.](https://pin.fontofweb.com/7544?format=jpg)](https://design.withfudge.com/share/pin-7544)
+[![Dark section with large light headline 'One platform, two great hosting paths' and a diagram showing Self-Hosted and Cloud options with neon green and magenta accent shapes.](https://pin.fontofweb.com/7544?format=jpg)](https://fudge.design/share/pin-7544)
 
-[Dark section with large light headline 'One platform, two great hosting paths' and a diagram showing Self-Hosted and Cloud options with neon green and magenta accent shapes.](https://design.withfudge.com/share/pin-7544)
+[Dark section with large light headline 'One platform, two great hosting paths' and a diagram showing Self-Hosted and Cloud options with neon green and magenta accent shapes.](https://fudge.design/share/pin-7544)
 
-[![Footer with starry night sky illustration, moon and cloud graphics, purple gradient section headings, and email signup with 'Get Started for Free' and 'Log In' buttons.](https://pin.fontofweb.com/7543?format=jpg)](https://design.withfudge.com/share/pin-7543)
+[![Footer with starry night sky illustration, moon and cloud graphics, purple gradient section headings, and email signup with 'Get Started for Free' and 'Log In' buttons.](https://pin.fontofweb.com/7543?format=jpg)](https://fudge.design/share/pin-7543)
 
-[Footer with starry night sky illustration, moon and cloud graphics, purple gradient section headings, and email signup with 'Get Started for Free' and 'Log In' buttons.](https://design.withfudge.com/share/pin-7543)
+[Footer with starry night sky illustration, moon and cloud graphics, purple gradient section headings, and email signup with 'Get Started for Free' and 'Log In' buttons.](https://fudge.design/share/pin-7543)
 
-[![Full page view showing navigation bar with Temporal logo, purple 'Try Free' button, and extensive footer landscape illustration with layered purple hills and white clouds.](https://pin.fontofweb.com/7542?format=jpg)](https://design.withfudge.com/share/pin-7542)
+[![Full page view showing navigation bar with Temporal logo, purple 'Try Free' button, and extensive footer landscape illustration with layered purple hills and white clouds.](https://pin.fontofweb.com/7542?format=jpg)](https://fudge.design/share/pin-7542)
 
-[Full page view showing navigation bar with Temporal logo, purple 'Try Free' button, and extensive footer landscape illustration with layered purple hills and white clouds.](https://design.withfudge.com/share/pin-7542)
+[Full page view showing navigation bar with Temporal logo, purple 'Try Free' button, and extensive footer landscape illustration with layered purple hills and white clouds.](https://fudge.design/share/pin-7542)
 
 ## Overview
 
@@ -193,3 +193,18 @@ When implementing, ensure the dark canvas remains continuous without light-mode 
 ## Scope note
 
 This guide covers the Temporal homepage's dark-mode marketing experience including navigation, hero sections, hosting path diagrams, testimonial cards, and the illustrated footer. Interior pages, documentation layouts, dashboard interfaces, and mobile-specific adaptations are not represented in the available material. Motion design, hover states, and form validation styling were not captured and should be designed to complement the static system. Measurements derive from the documented pixel values and 4px base grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How mmm.page is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mmm.page-design)
+[Open the live Fudge conversation](https://fudge.design/share/mmm.page-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with coral watercolor splash behind 'Digital Paper' serif headline, vintage sewing figure, and social media blocks in grass foreground](https://pin.fontofweb.com/3832?format=jpg)](https://design.withfudge.com/share/pin-3832)
+[![Hero section with coral watercolor splash behind 'Digital Paper' serif headline, vintage sewing figure, and social media blocks in grass foreground](https://pin.fontofweb.com/3832?format=jpg)](https://fudge.design/share/pin-3832)
 
-[Hero section with coral watercolor splash behind 'Digital Paper' serif headline, vintage sewing figure, and social media blocks in grass foreground](https://design.withfudge.com/share/pin-3832)
+[Hero section with coral watercolor splash behind 'Digital Paper' serif headline, vintage sewing figure, and social media blocks in grass foreground](https://fudge.design/share/pin-3832)
 
-[![Community showcase with scattered user website thumbnails surrounding centered signup messaging on white background](https://pin.fontofweb.com/3831?format=jpg)](https://design.withfudge.com/share/pin-3831)
+[![Community showcase with scattered user website thumbnails surrounding centered signup messaging on white background](https://pin.fontofweb.com/3831?format=jpg)](https://fudge.design/share/pin-3831)
 
-[Community showcase with scattered user website thumbnails surrounding centered signup messaging on white background](https://design.withfudge.com/share/pin-3831)
+[Community showcase with scattered user website thumbnails surrounding centered signup messaging on white background](https://fudge.design/share/pin-3831)
 
-[![Primary landing with 'mmm' brushstroke logo, 3D geometric shapes, purple and mint action buttons, and floating user page previews](https://pin.fontofweb.com/3830?format=jpg)](https://design.withfudge.com/share/pin-3830)
+[![Primary landing with 'mmm' brushstroke logo, 3D geometric shapes, purple and mint action buttons, and floating user page previews](https://pin.fontofweb.com/3830?format=jpg)](https://fudge.design/share/pin-3830)
 
-[Primary landing with 'mmm' brushstroke logo, 3D geometric shapes, purple and mint action buttons, and floating user page previews](https://design.withfudge.com/share/pin-3830)
+[Primary landing with 'mmm' brushstroke logo, 3D geometric shapes, purple and mint action buttons, and floating user page previews](https://fudge.design/share/pin-3830)
 
-[![Top-of-page view with navigation bar, brushstroke logo, and vertically stacked explore and signup buttons with arrow icons](https://pin.fontofweb.com/3829?format=jpg)](https://design.withfudge.com/share/pin-3829)
+[![Top-of-page view with navigation bar, brushstroke logo, and vertically stacked explore and signup buttons with arrow icons](https://pin.fontofweb.com/3829?format=jpg)](https://fudge.design/share/pin-3829)
 
-[Top-of-page view with navigation bar, brushstroke logo, and vertically stacked explore and signup buttons with arrow icons](https://design.withfudge.com/share/pin-3829)
+[Top-of-page view with navigation bar, brushstroke logo, and vertically stacked explore and signup buttons with arrow icons](https://fudge.design/share/pin-3829)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The fixed edit badge in the bottom-right corner should maintain its position acr
 ## Scope note
 
 This guide covers the mmm.page landing and hero experience as visible in the supplied images. Mobile breakpoints, animation behavior, hover and focus states, form interactions, and the actual website builder interface are not represented. The thumbnail gallery shows user-generated content but not its creation or management flows. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing page](/share/designs-with-page.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How generalbread.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/generalbread.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/generalbread.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with Renaissance-style bread imagery, dark header button with gradient, and light body background](https://pin.fontofweb.com/8328?format=jpg)](https://design.withfudge.com/share/pin-8328)
+[![Hero section with Renaissance-style bread imagery, dark header button with gradient, and light body background](https://pin.fontofweb.com/8328?format=jpg)](https://fudge.design/share/pin-8328)
 
-[Hero section with Renaissance-style bread imagery, dark header button with gradient, and light body background](https://design.withfudge.com/share/pin-8328)
+[Hero section with Renaissance-style bread imagery, dark header button with gradient, and light body background](https://fudge.design/share/pin-8328)
 
-[![Hero section showing centered white display typography over blue sky with cloud texture and outstretched hands holding bread](https://pin.fontofweb.com/8327?format=jpg)](https://design.withfudge.com/share/pin-8327)
+[![Hero section showing centered white display typography over blue sky with cloud texture and outstretched hands holding bread](https://pin.fontofweb.com/8327?format=jpg)](https://fudge.design/share/pin-8327)
 
-[Hero section showing centered white display typography over blue sky with cloud texture and outstretched hands holding bread](https://design.withfudge.com/share/pin-8327)
+[Hero section showing centered white display typography over blue sky with cloud texture and outstretched hands holding bread](https://fudge.design/share/pin-8327)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The single-column structure requires no reflow logic—content remains centered 
 ## Scope note
 
 This guide covers the single landing page visible in the supplied material: a sparse header and immersive hero section. No additional pages, navigation states, form interactions, mobile layouts, motion design, or footer content are represented. The measurements reflect exact values from the interface where available.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Landing page](/share/designs-with-page.marketing.landing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

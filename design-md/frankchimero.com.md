@@ -1,26 +1,26 @@
 # How frankchimero.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/frankchimero.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/frankchimero.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section showing two-column conference and client list with country codes and copyright line on black background](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/share/pin-7427)
+[![Footer section showing two-column conference and client list with country codes and copyright line on black background](https://pin.fontofweb.com/7427?format=jpg)](https://fudge.design/share/pin-7427)
 
-[Footer section showing two-column conference and client list with country codes and copyright line on black background](https://design.withfudge.com/share/pin-7427)
+[Footer section showing two-column conference and client list with country codes and copyright line on black background](https://fudge.design/share/pin-7427)
 
-[![About section with biographical text in serif body copy and structured experience timeline with interview links](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/share/pin-7426)
+[![About section with biographical text in serif body copy and structured experience timeline with interview links](https://pin.fontofweb.com/7426?format=jpg)](https://fudge.design/share/pin-7426)
 
-[About section with biographical text in serif body copy and structured experience timeline with interview links](https://design.withfudge.com/share/pin-7426)
+[About section with biographical text in serif body copy and structured experience timeline with interview links](https://fudge.design/share/pin-7426)
 
-[![Entries archive showing chronological blog post list with dates from 2009-2025 and section heading in serif](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/share/pin-7425)
+[![Entries archive showing chronological blog post list with dates from 2009-2025 and section heading in serif](https://pin.fontofweb.com/7425?format=jpg)](https://fudge.design/share/pin-7425)
 
-[Entries archive showing chronological blog post list with dates from 2009-2025 and section heading in serif](https://design.withfudge.com/share/pin-7425)
+[Entries archive showing chronological blog post list with dates from 2009-2025 and section heading in serif](https://fudge.design/share/pin-7425)
 
-[![Book promotion panel for The Shape of Design with purchase links and cover image on dark gray surface](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/share/pin-7424)
+[![Book promotion panel for The Shape of Design with purchase links and cover image on dark gray surface](https://pin.fontofweb.com/7424?format=jpg)](https://fudge.design/share/pin-7424)
 
-[Book promotion panel for The Shape of Design with purchase links and cover image on dark gray surface](https://design.withfudge.com/share/pin-7424)
+[Book promotion panel for The Shape of Design with purchase links and cover image on dark gray surface](https://fudge.design/share/pin-7424)
 
 ## Overview
 
@@ -133,3 +133,18 @@ The narrow content column suggests the design was conceived for comfortable read
 ## Scope note
 
 This guide covers the visible homepage surface including the entry archive, about section, book promotion, and footer. Interior pages, article templates, hover states, focus indicators, and mobile-specific layouts are not represented in the supplied images. The 8px border radius and 64px padding values derive from the exact measurement records; all other spacing follows the established relative unit of 2px. Verify licensing for Martina Plantijn, IBM Plex Sans, and Ibm Plex Sans-Text before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

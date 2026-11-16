@@ -1,18 +1,18 @@
 # How polsia.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/polsia.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/polsia.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Live dashboard with task cards, business metrics chart, Twitter feed, email list, ads table, and live chat panel on white background with orange accents](https://pin.fontofweb.com/7666?format=jpg)](https://design.withfudge.com/share/pin-7666)
+[![Live dashboard with task cards, business metrics chart, Twitter feed, email list, ads table, and live chat panel on white background with orange accents](https://pin.fontofweb.com/7666?format=jpg)](https://fudge.design/share/pin-7666)
 
-[Live dashboard with task cards, business metrics chart, Twitter feed, email list, ads table, and live chat panel on white background with orange accents](https://design.withfudge.com/share/pin-7666)
+[Live dashboard with task cards, business metrics chart, Twitter feed, email list, ads table, and live chat panel on white background with orange accents](https://fudge.design/share/pin-7666)
 
-[![Minimal landing page with black terminal header, orange banner, large serif headline, dark gradient button, and sparse footer links](https://pin.fontofweb.com/7665?format=jpg)](https://design.withfudge.com/share/pin-7665)
+[![Minimal landing page with black terminal header, orange banner, large serif headline, dark gradient button, and sparse footer links](https://pin.fontofweb.com/7665?format=jpg)](https://fudge.design/share/pin-7665)
 
-[Minimal landing page with black terminal header, orange banner, large serif headline, dark gradient button, and sparse footer links](https://design.withfudge.com/share/pin-7665)
+[Minimal landing page with black terminal header, orange banner, large serif headline, dark gradient button, and sparse footer links](https://fudge.design/share/pin-7665)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The terminal header and live banner should remain full-width across all breakpoi
 ## Scope note
 
 This guide covers the Polsia homepage and live dashboard as visible in desktop screenshots. Mobile breakpoints, tablet layouts, form validation states, loading skeletons, error pages, and authentication flows are not represented. Motion design for live indicators, real-time data updates, and terminal log scrolling are implied but not documented. The System-Systemui and Arial typefaces appear in limited utility roles; their full range is not exercised in the visible surfaces.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How criticker.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/criticker.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/criticker.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![New Releases page showing movie list with PSI score badges, tab navigation, and search header with purple Criticker logo](https://pin.fontofweb.com/3550?format=jpg)](https://design.withfudge.com/share/pin-3550)
+[![New Releases page showing movie list with PSI score badges, tab navigation, and search header with purple Criticker logo](https://pin.fontofweb.com/3550?format=jpg)](https://fudge.design/share/pin-3550)
 
-[New Releases page showing movie list with PSI score badges, tab navigation, and search header with purple Criticker logo](https://design.withfudge.com/share/pin-3550)
+[New Releases page showing movie list with PSI score badges, tab navigation, and search header with purple Criticker logo](https://fudge.design/share/pin-3550)
 
-[![Film detail page for Sinners with cast info, streaming links, user reviews with percentile rankings, and rating sidebar](https://pin.fontofweb.com/3549?format=jpg)](https://design.withfudge.com/share/pin-3549)
+[![Film detail page for Sinners with cast info, streaming links, user reviews with percentile rankings, and rating sidebar](https://pin.fontofweb.com/3549?format=jpg)](https://fudge.design/share/pin-3549)
 
-[Film detail page for Sinners with cast info, streaming links, user reviews with percentile rankings, and rating sidebar](https://design.withfudge.com/share/pin-3549)
+[Film detail page for Sinners with cast info, streaming links, user reviews with percentile rankings, and rating sidebar](https://fudge.design/share/pin-3549)
 
-[![Site footer with expanded navigation columns, Criticker logo, tagline, and copyright bar on light gray background](https://pin.fontofweb.com/3548?format=jpg)](https://design.withfudge.com/share/pin-3548)
+[![Site footer with expanded navigation columns, Criticker logo, tagline, and copyright bar on light gray background](https://pin.fontofweb.com/3548?format=jpg)](https://fudge.design/share/pin-3548)
 
-[Site footer with expanded navigation columns, Criticker logo, tagline, and copyright bar on light gray background](https://design.withfudge.com/share/pin-3548)
+[Site footer with expanded navigation columns, Criticker logo, tagline, and copyright bar on light gray background](https://fudge.design/share/pin-3548)
 
-[![Profile landing page with sign-up CTA, feature list, sidebar links, and mini-review card with star action](https://pin.fontofweb.com/3547?format=jpg)](https://design.withfudge.com/share/pin-3547)
+[![Profile landing page with sign-up CTA, feature list, sidebar links, and mini-review card with star action](https://pin.fontofweb.com/3547?format=jpg)](https://fudge.design/share/pin-3547)
 
-[Profile landing page with sign-up CTA, feature list, sidebar links, and mini-review card with star action](https://design.withfudge.com/share/pin-3547)
+[Profile landing page with sign-up CTA, feature list, sidebar links, and mini-review card with star action](https://fudge.design/share/pin-3547)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The layout assumes a desktop-first presentation based on available imagery. At n
 ## Scope note
 
 This guide covers the public-facing desktop interface for film listings, detail pages, and profile landing surfaces. Mobile breakpoints, dark mode, loading states, and user-specific dashboard views are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection. Verify licensing for Greed Condensed before production use; no designer or vendor attribution is available for this family.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

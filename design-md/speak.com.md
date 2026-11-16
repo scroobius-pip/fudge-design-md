@@ -1,26 +1,26 @@
 # How speak.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/speak.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/speak.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with large white Speak logotype on vibrant blue background and multi-column link navigation](https://pin.fontofweb.com/5340?format=jpg)](https://design.withfudge.com/share/pin-5340)
+[![Footer section with large white Speak logotype on vibrant blue background and multi-column link navigation](https://pin.fontofweb.com/5340?format=jpg)](https://fudge.design/share/pin-5340)
 
-[Footer section with large white Speak logotype on vibrant blue background and multi-column link navigation](https://design.withfudge.com/share/pin-5340)
+[Footer section with large white Speak logotype on vibrant blue background and multi-column link navigation](https://fudge.design/share/pin-5340)
 
-[![FAQ accordion panel with rounded gray surface, dark navy questions, and blue inline text links](https://pin.fontofweb.com/5339?format=jpg)](https://design.withfudge.com/share/pin-5339)
+[![FAQ accordion panel with rounded gray surface, dark navy questions, and blue inline text links](https://pin.fontofweb.com/5339?format=jpg)](https://fudge.design/share/pin-5339)
 
-[FAQ accordion panel with rounded gray surface, dark navy questions, and blue inline text links](https://design.withfudge.com/share/pin-5339)
+[FAQ accordion panel with rounded gray surface, dark navy questions, and blue inline text links](https://fudge.design/share/pin-5339)
 
-[![Hero section with centered navy headline, pink and blue feature cards, and blue call-to-action button](https://pin.fontofweb.com/5338?format=jpg)](https://design.withfudge.com/share/pin-5338)
+[![Hero section with centered navy headline, pink and blue feature cards, and blue call-to-action button](https://pin.fontofweb.com/5338?format=jpg)](https://fudge.design/share/pin-5338)
 
-[Hero section with centered navy headline, pink and blue feature cards, and blue call-to-action button](https://design.withfudge.com/share/pin-5338)
+[Hero section with centered navy headline, pink and blue feature cards, and blue call-to-action button](https://fudge.design/share/pin-5338)
 
-[![Statistics section with bar chart visualization and lifestyle photography showing mobile app usage](https://pin.fontofweb.com/5337?format=jpg)](https://design.withfudge.com/share/pin-5337)
+[![Statistics section with bar chart visualization and lifestyle photography showing mobile app usage](https://pin.fontofweb.com/5337?format=jpg)](https://fudge.design/share/pin-5337)
 
-[Statistics section with bar chart visualization and lifestyle photography showing mobile app usage](https://design.withfudge.com/share/pin-5337)
+[Statistics section with bar chart visualization and lifestyle photography showing mobile app usage](https://fudge.design/share/pin-5337)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The layout appears optimized for desktop viewing with a contained content width.
 ## Scope note
 
 This guide covers the marketing homepage surface visible in the supplied images, including the hero, feature sections, FAQ, statistics, and footer. Navigation header, mobile layouts, form interactions, motion, and additional interior pages are not represented. Measurements are practical adaptation targets derived from visual inspection against the 4px grid.
+
+## Related design patterns
+
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Education and research](/share/designs-with-industry.education_research)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

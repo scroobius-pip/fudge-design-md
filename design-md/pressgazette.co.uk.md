@@ -1,26 +1,26 @@
 # How pressgazette.co.uk is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pressgazette.co.uk-design)
+[Open the live Fudge conversation](https://fudge.design/share/pressgazette.co.uk-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article header with large serif headline, dark gray subhead, and AI-generated image on monitor](https://pin.fontofweb.com/9083?format=jpg)](https://design.withfudge.com/share/pin-9083)
+[![Article header with large serif headline, dark gray subhead, and AI-generated image on monitor](https://pin.fontofweb.com/9083?format=jpg)](https://fudge.design/share/pin-9083)
 
-[Article header with large serif headline, dark gray subhead, and AI-generated image on monitor](https://design.withfudge.com/share/pin-9083)
+[Article header with large serif headline, dark gray subhead, and AI-generated image on monitor](https://fudge.design/share/pin-9083)
 
-[![Article header with bold headline, light-weight dek, and speaker photograph against blue stage backdrop](https://pin.fontofweb.com/9082?format=jpg)](https://design.withfudge.com/share/pin-9082)
+[![Article header with bold headline, light-weight dek, and speaker photograph against blue stage backdrop](https://pin.fontofweb.com/9082?format=jpg)](https://fudge.design/share/pin-9082)
 
-[Article header with bold headline, light-weight dek, and speaker photograph against blue stage backdrop](https://design.withfudge.com/share/pin-9082)
+[Article header with bold headline, light-weight dek, and speaker photograph against blue stage backdrop](https://fudge.design/share/pin-9082)
 
-[![Article header with headline, gray summary text, red author link, and Google Discover phone mockups](https://pin.fontofweb.com/9081?format=jpg)](https://design.withfudge.com/share/pin-9081)
+[![Article header with headline, gray summary text, red author link, and Google Discover phone mockups](https://pin.fontofweb.com/9081?format=jpg)](https://fudge.design/share/pin-9081)
 
-[Article header with headline, gray summary text, red author link, and Google Discover phone mockups](https://design.withfudge.com/share/pin-9081)
+[Article header with headline, gray summary text, red author link, and Google Discover phone mockups](https://fudge.design/share/pin-9081)
 
-[![Article header with multi-line headline, gray dek, and Harper's Bazaar magazine cover photograph](https://pin.fontofweb.com/9080?format=jpg)](https://design.withfudge.com/share/pin-9080)
+[![Article header with multi-line headline, gray dek, and Harper's Bazaar magazine cover photograph](https://pin.fontofweb.com/9080?format=jpg)](https://fudge.design/share/pin-9080)
 
-[Article header with multi-line headline, gray dek, and Harper's Bazaar magazine cover photograph](https://design.withfudge.com/share/pin-9080)
+[Article header with multi-line headline, gray dek, and Harper's Bazaar magazine cover photograph](https://fudge.design/share/pin-9080)
 
 ## Overview
 
@@ -145,3 +145,18 @@ Touch targets for the linked byline should maintain adequate size; the text-base
 ## Scope note
 
 This guide covers the article page header composition and lead image presentation visible on Press Gazette story pages. Navigation, footer, article body text, comments, related stories, advertising units, and mobile-specific layouts are not represented in the supplied material. Measurements are drawn from exact interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Slab serif](/share/designs-with-typography.generic.slab_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

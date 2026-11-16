@@ -1,22 +1,22 @@
 # How supernova.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/supernova.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/supernova.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero and feature sections with numbered steps, product UI screenshots, and dark header navigation with blue primary action button](https://pin.fontofweb.com/9265?format=jpg)](https://design.withfudge.com/share/pin-9265)
+[![Homepage hero and feature sections with numbered steps, product UI screenshots, and dark header navigation with blue primary action button](https://pin.fontofweb.com/9265?format=jpg)](https://fudge.design/share/pin-9265)
 
-[Homepage hero and feature sections with numbered steps, product UI screenshots, and dark header navigation with blue primary action button](https://design.withfudge.com/share/pin-9265)
+[Homepage hero and feature sections with numbered steps, product UI screenshots, and dark header navigation with blue primary action button](https://fudge.design/share/pin-9265)
 
-[![Pricing comparison table with feature categories, checkmark indicators, and alternating row backgrounds on light grid-patterned canvas](https://pin.fontofweb.com/9264?format=jpg)](https://design.withfudge.com/share/pin-9264)
+[![Pricing comparison table with feature categories, checkmark indicators, and alternating row backgrounds on light grid-patterned canvas](https://pin.fontofweb.com/9264?format=jpg)](https://fudge.design/share/pin-9264)
 
-[Pricing comparison table with feature categories, checkmark indicators, and alternating row backgrounds on light grid-patterned canvas](https://design.withfudge.com/share/pin-9264)
+[Pricing comparison table with feature categories, checkmark indicators, and alternating row backgrounds on light grid-patterned canvas](https://fudge.design/share/pin-9264)
 
-[![Pricing page header with three-tier card layout showing Free, Pro, and Enterprise plans with toggle switch and blue pill-shaped CTAs](https://pin.fontofweb.com/9263?format=jpg)](https://design.withfudge.com/share/pin-9263)
+[![Pricing page header with three-tier card layout showing Free, Pro, and Enterprise plans with toggle switch and blue pill-shaped CTAs](https://pin.fontofweb.com/9263?format=jpg)](https://fudge.design/share/pin-9263)
 
-[Pricing page header with three-tier card layout showing Free, Pro, and Enterprise plans with toggle switch and blue pill-shaped CTAs](https://design.withfudge.com/share/pin-9263)
+[Pricing page header with three-tier card layout showing Free, Pro, and Enterprise plans with toggle switch and blue pill-shaped CTAs](https://fudge.design/share/pin-9263)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The grid texture backgrounds remain visible at all breakpoints but may reduce in
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, animation, form validation states, and dashboard or application interiors are not represented. The conic gradient element appears decorative and its exact usage pattern is not fully documented. Measurements are derived from the retained interface values where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

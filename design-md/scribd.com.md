@@ -1,22 +1,22 @@
 # How scribd.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/scribd.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/scribd.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with dark photographic banner, centered search bar, and category card grid below](https://pin.fontofweb.com/7160?format=jpg)](https://design.withfudge.com/share/pin-7160)
+[![Homepage hero with dark photographic banner, centered search bar, and category card grid below](https://pin.fontofweb.com/7160?format=jpg)](https://fudge.design/share/pin-7160)
 
-[Homepage hero with dark photographic banner, centered search bar, and category card grid below](https://design.withfudge.com/share/pin-7160)
+[Homepage hero with dark photographic banner, centered search bar, and category card grid below](https://fudge.design/share/pin-7160)
 
-[![Trial offer page with green primary button, feature checklist, and horizontal timeline explainer](https://pin.fontofweb.com/7164?format=jpg)](https://design.withfudge.com/share/pin-7164)
+[![Trial offer page with green primary button, feature checklist, and horizontal timeline explainer](https://pin.fontofweb.com/7164?format=jpg)](https://fudge.design/share/pin-7164)
 
-[Trial offer page with green primary button, feature checklist, and horizontal timeline explainer](https://design.withfudge.com/share/pin-7164)
+[Trial offer page with green primary button, feature checklist, and horizontal timeline explainer](https://fudge.design/share/pin-7164)
 
-[![Payment options page with card form in rounded panel, payment method tabs, and order summary sidebar](https://pin.fontofweb.com/7165?format=jpg)](https://design.withfudge.com/share/pin-7165)
+[![Payment options page with card form in rounded panel, payment method tabs, and order summary sidebar](https://pin.fontofweb.com/7165?format=jpg)](https://fudge.design/share/pin-7165)
 
-[Payment options page with card form in rounded panel, payment method tabs, and order summary sidebar](https://design.withfudge.com/share/pin-7165)
+[Payment options page with card form in rounded panel, payment method tabs, and order summary sidebar](https://fudge.design/share/pin-7165)
 
 ## Overview
 
@@ -170,3 +170,18 @@ The navigation collapses to a hamburger menu on mobile, with search becoming an 
 ## Scope note
 
 This guide covers the homepage, checkout flow, and payment options pages as visible in the supplied images. Mobile breakpoints, hover states, loading skeletons, error pages, and the full document reader interface are not represented. The document upload experience, user library, and account settings were not captured. Measurements reflect the desktop viewport widths shown in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

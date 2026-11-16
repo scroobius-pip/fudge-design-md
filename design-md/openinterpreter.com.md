@@ -1,18 +1,18 @@
 # How openinterpreter.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openinterpreter.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/openinterpreter.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with laptop product mockup showing PDF form-filling interface, navigation bar, and primary CTA buttons on dark background](https://pin.fontofweb.com/6840?format=jpg)](https://design.withfudge.com/share/pin-6840)
+[![Hero section with laptop product mockup showing PDF form-filling interface, navigation bar, and primary CTA buttons on dark background](https://pin.fontofweb.com/6840?format=jpg)](https://fudge.design/share/pin-6840)
 
-[Hero section with laptop product mockup showing PDF form-filling interface, navigation bar, and primary CTA buttons on dark background](https://design.withfudge.com/share/pin-6840)
+[Hero section with laptop product mockup showing PDF form-filling interface, navigation bar, and primary CTA buttons on dark background](https://fudge.design/share/pin-6840)
 
-[![Full viewport hero with centered laptop displaying agent chat interface, top navigation, and bottom action bar with download button](https://pin.fontofweb.com/6839?format=jpg)](https://design.withfudge.com/share/pin-6839)
+[![Full viewport hero with centered laptop displaying agent chat interface, top navigation, and bottom action bar with download button](https://pin.fontofweb.com/6839?format=jpg)](https://fudge.design/share/pin-6839)
 
-[Full viewport hero with centered laptop displaying agent chat interface, top navigation, and bottom action bar with download button](https://design.withfudge.com/share/pin-6839)
+[Full viewport hero with centered laptop displaying agent chat interface, top navigation, and bottom action bar with download button](https://fudge.design/share/pin-6839)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The generous `30rem` top padding in the hero creates appropriate vertical positi
 ## Scope note
 
 This guide covers the single-page landing experience visible in the supplied imagery. Additional pages (Features, Pricing), mobile breakpoints, form interactions, and motion design are not represented. The email capture flow and any download modal or page transition states are outside the current scope. Measurements reflect the desktop viewport as captured.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

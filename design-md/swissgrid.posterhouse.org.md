@@ -1,26 +1,26 @@
 # How swissgrid.posterhouse.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/swissgrid.posterhouse.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/swissgrid.posterhouse.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Commentary section with circular portrait, muted label, and essay link on white canvas](https://pin.fontofweb.com/2731?format=jpg)](https://design.withfudge.com/share/pin-2731)
+[![Commentary section with circular portrait, muted label, and essay link on white canvas](https://pin.fontofweb.com/2731?format=jpg)](https://fudge.design/share/pin-2731)
 
-[Commentary section with circular portrait, muted label, and essay link on white canvas](https://design.withfudge.com/share/pin-2731)
+[Commentary section with circular portrait, muted label, and essay link on white canvas](https://fudge.design/share/pin-2731)
 
-[![Dark footer with three-column credits grid, vertical edge navigation, and legal copy](https://pin.fontofweb.com/2730?format=jpg)](https://design.withfudge.com/share/pin-2730)
+[![Dark footer with three-column credits grid, vertical edge navigation, and legal copy](https://pin.fontofweb.com/2730?format=jpg)](https://fudge.design/share/pin-2730)
 
-[Dark footer with three-column credits grid, vertical edge navigation, and legal copy](https://design.withfudge.com/share/pin-2730)
+[Dark footer with three-column credits grid, vertical edge navigation, and legal copy](https://fudge.design/share/pin-2730)
 
-[![Typography specimen page with massive black display word and tabbed family selector](https://pin.fontofweb.com/2729?format=jpg)](https://design.withfudge.com/share/pin-2729)
+[![Typography specimen page with massive black display word and tabbed family selector](https://pin.fontofweb.com/2729?format=jpg)](https://fudge.design/share/pin-2729)
 
-[Typography specimen page with massive black display word and tabbed family selector](https://design.withfudge.com/share/pin-2729)
+[Typography specimen page with massive black display word and tabbed family selector](https://fudge.design/share/pin-2729)
 
-[![Historical content section with editorial text and framed vintage poster artwork](https://pin.fontofweb.com/2728?format=jpg)](https://design.withfudge.com/share/pin-2728)
+[![Historical content section with editorial text and framed vintage poster artwork](https://pin.fontofweb.com/2728?format=jpg)](https://fudge.design/share/pin-2728)
 
-[Historical content section with editorial text and framed vintage poster artwork](https://design.withfudge.com/share/pin-2728)
+[Historical content section with editorial text and framed vintage poster artwork](https://fudge.design/share/pin-2728)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Navigation requires careful touch-target consideration: the eye icon and hamburg
 ## Scope note
 
 This guide covers the desktop presentation of the Swiss Grid exhibition microsite homepage and interior content pages. Mobile breakpoints, interactive states, motion design, and the full poster gallery grid are not represented in the supplied material. Measurements are practical adaptation targets derived from visible composition analysis. The Typekit-hosted Akzidenz Grotesk variants require active licensing for production deployment.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

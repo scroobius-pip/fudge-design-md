@@ -1,26 +1,26 @@
 # How withsupafast.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/withsupafast.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/withsupafast.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large outlined 'Supafast' wordmark, yellow spotlight beam, and centered CTA on black background](https://pin.fontofweb.com/3178?format=jpg)](https://design.withfudge.com/share/pin-3178)
+[![Hero section with large outlined 'Supafast' wordmark, yellow spotlight beam, and centered CTA on black background](https://pin.fontofweb.com/3178?format=jpg)](https://fudge.design/share/pin-3178)
 
-[Hero section with large outlined 'Supafast' wordmark, yellow spotlight beam, and centered CTA on black background](https://design.withfudge.com/share/pin-3178)
+[Hero section with large outlined 'Supafast' wordmark, yellow spotlight beam, and centered CTA on black background](https://fudge.design/share/pin-3178)
 
-[![FAQ accordion with numbered yellow circles, dark cards with rounded borders, and expand/collapse controls](https://pin.fontofweb.com/3177?format=jpg)](https://design.withfudge.com/share/pin-3177)
+[![FAQ accordion with numbered yellow circles, dark cards with rounded borders, and expand/collapse controls](https://pin.fontofweb.com/3177?format=jpg)](https://fudge.design/share/pin-3177)
 
-[FAQ accordion with numbered yellow circles, dark cards with rounded borders, and expand/collapse controls](https://design.withfudge.com/share/pin-3177)
+[FAQ accordion with numbered yellow circles, dark cards with rounded borders, and expand/collapse controls](https://fudge.design/share/pin-3177)
 
-[![White pricing card with yellow 'Velocity Pod' badge, black pill button, and detailed feature checklist](https://pin.fontofweb.com/3176?format=jpg)](https://design.withfudge.com/share/pin-3176)
+[![White pricing card with yellow 'Velocity Pod' badge, black pill button, and detailed feature checklist](https://pin.fontofweb.com/3176?format=jpg)](https://fudge.design/share/pin-3176)
 
-[White pricing card with yellow 'Velocity Pod' badge, black pill button, and detailed feature checklist](https://design.withfudge.com/share/pin-3176)
+[White pricing card with yellow 'Velocity Pod' badge, black pill button, and detailed feature checklist](https://fudge.design/share/pin-3176)
 
-[![Three-tier pricing grid with white, yellow, and dark cards showing service tiers and lightning bolt icons](https://pin.fontofweb.com/3175?format=jpg)](https://design.withfudge.com/share/pin-3175)
+[![Three-tier pricing grid with white, yellow, and dark cards showing service tiers and lightning bolt icons](https://pin.fontofweb.com/3175?format=jpg)](https://fudge.design/share/pin-3175)
 
-[Three-tier pricing grid with white, yellow, and dark cards showing service tiers and lightning bolt icons](https://design.withfudge.com/share/pin-3175)
+[Three-tier pricing grid with white, yellow, and dark cards showing service tiers and lightning bolt icons](https://fudge.design/share/pin-3175)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The design should maintain its high-contrast character across viewport sizes whi
 ## Scope note
 
 This guide covers the visible homepage surface including hero, pricing tiers, and FAQ sections. Navigation, footer, form states, and additional interior pages are not represented in the supplied material. Motion, hover transitions, and mobile-specific layouts are not documented. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Professional services](/share/designs-with-industry.professional_services)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

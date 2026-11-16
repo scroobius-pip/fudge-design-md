@@ -1,26 +1,26 @@
 # How linktr.ee is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/linktr.ee-design)
+[Open the live Fudge conversation](https://fudge.design/share/linktr.ee-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with bold display typography and a horizontal scroll of creator profile images including HBO and Comedy Central logos on a warm off-white background.](https://pin.fontofweb.com/6798?format=jpg)](https://design.withfudge.com/share/pin-6798)
+[![Hero section with bold display typography and a horizontal scroll of creator profile images including HBO and Comedy Central logos on a warm off-white background.](https://pin.fontofweb.com/6798?format=jpg)](https://fudge.design/share/pin-6798)
 
-[Hero section with bold display typography and a horizontal scroll of creator profile images including HBO and Comedy Central logos on a warm off-white background.](https://design.withfudge.com/share/pin-6798)
+[Hero section with bold display typography and a horizontal scroll of creator profile images including HBO and Comedy Central logos on a warm off-white background.](https://fudge.design/share/pin-6798)
 
-[![Four-column pricing table with Free, Starter, Pro, and Premium tiers showing feature lists, pill-shaped CTA buttons, and a highlighted Pro tier with purple header.](https://pin.fontofweb.com/6797?format=jpg)](https://design.withfudge.com/share/pin-6797)
+[![Four-column pricing table with Free, Starter, Pro, and Premium tiers showing feature lists, pill-shaped CTA buttons, and a highlighted Pro tier with purple header.](https://pin.fontofweb.com/6797?format=jpg)](https://fudge.design/share/pin-6797)
 
-[Four-column pricing table with Free, Starter, Pro, and Premium tiers showing feature lists, pill-shaped CTA buttons, and a highlighted Pro tier with purple header.](https://design.withfudge.com/share/pin-6797)
+[Four-column pricing table with Free, Starter, Pro, and Premium tiers showing feature lists, pill-shaped CTA buttons, and a highlighted Pro tier with purple header.](https://fudge.design/share/pin-6797)
 
-[![Footer section with four-column link grid on a white rounded panel, app store badges, social icons, and a purple background with decorative floral cutouts.](https://pin.fontofweb.com/6796?format=jpg)](https://design.withfudge.com/share/pin-6796)
+[![Footer section with four-column link grid on a white rounded panel, app store badges, social icons, and a purple background with decorative floral cutouts.](https://pin.fontofweb.com/6796?format=jpg)](https://fudge.design/share/pin-6796)
 
-[Footer section with four-column link grid on a white rounded panel, app store badges, social icons, and a purple background with decorative floral cutouts.](https://design.withfudge.com/share/pin-6796)
+[Footer section with four-column link grid on a white rounded panel, app store badges, social icons, and a purple background with decorative floral cutouts.](https://fudge.design/share/pin-6796)
 
-[![Bottom hero with large purple background, teal silhouette illustration, email capture input with lime pill button, and white footer panel with four-column navigation.](https://pin.fontofweb.com/6795?format=jpg)](https://design.withfudge.com/share/pin-6795)
+[![Bottom hero with large purple background, teal silhouette illustration, email capture input with lime pill button, and white footer panel with four-column navigation.](https://pin.fontofweb.com/6795?format=jpg)](https://fudge.design/share/pin-6795)
 
-[Bottom hero with large purple background, teal silhouette illustration, email capture input with lime pill button, and white footer panel with four-column navigation.](https://design.withfudge.com/share/pin-6795)
+[Bottom hero with large purple background, teal silhouette illustration, email capture input with lime pill button, and white footer panel with four-column navigation.](https://fudge.design/share/pin-6795)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Image grids and creator carousels should scroll horizontally on all viewports, w
 ## Scope note
 
 This guide covers the Linktree marketing site homepage and pricing page surfaces visible in the supplied images, including hero sections, pricing comparison, footer navigation, and conversion components. Mobile breakpoints, interactive states beyond static presentation, form validation, account dashboard interfaces, and motion design are not represented in the available material. Verify licensing for Link Sans through Average Type Service before production use.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

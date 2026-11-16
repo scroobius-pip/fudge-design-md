@@ -1,26 +1,26 @@
 # How arago.wawww.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/arago.wawww.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/arago.wawww.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with optical computing chip render against deep navy grid background, featuring Arago logo and introductory headline about AI hardware limits](https://pin.fontofweb.com/3792?format=jpg)](https://design.withfudge.com/share/pin-3792)
+[![Hero section with optical computing chip render against deep navy grid background, featuring Arago logo and introductory headline about AI hardware limits](https://pin.fontofweb.com/3792?format=jpg)](https://fudge.design/share/pin-3792)
 
-[Hero section with optical computing chip render against deep navy grid background, featuring Arago logo and introductory headline about AI hardware limits](https://design.withfudge.com/share/pin-3792)
+[Hero section with optical computing chip render against deep navy grid background, featuring Arago logo and introductory headline about AI hardware limits](https://fudge.design/share/pin-3792)
 
-[![Navigation overlay with large uppercase section links and contact sidebar showing email, LinkedIn, and team recruitment CTA with arrow icon](https://pin.fontofweb.com/511?format=jpg)](https://design.withfudge.com/share/pin-511)
+[![Navigation overlay with large uppercase section links and contact sidebar showing email, LinkedIn, and team recruitment CTA with arrow icon](https://pin.fontofweb.com/511?format=jpg)](https://fudge.design/share/pin-511)
 
-[Navigation overlay with large uppercase section links and contact sidebar showing email, LinkedIn, and team recruitment CTA with arrow icon](https://design.withfudge.com/share/pin-511)
+[Navigation overlay with large uppercase section links and contact sidebar showing email, LinkedIn, and team recruitment CTA with arrow icon](https://fudge.design/share/pin-511)
 
-[![Centered headline section with two floating chip renders and Email/LinkedIn buttons, displaying the tagline Enjoy the Thrilling Ride](https://pin.fontofweb.com/510?format=jpg)](https://design.withfudge.com/share/pin-510)
+[![Centered headline section with two floating chip renders and Email/LinkedIn buttons, displaying the tagline Enjoy the Thrilling Ride](https://pin.fontofweb.com/510?format=jpg)](https://fudge.design/share/pin-510)
 
-[Centered headline section with two floating chip renders and Email/LinkedIn buttons, displaying the tagline Enjoy the Thrilling Ride](https://design.withfudge.com/share/pin-510)
+[Centered headline section with two floating chip renders and Email/LinkedIn buttons, displaying the tagline Enjoy the Thrilling Ride](https://fudge.design/share/pin-510)
 
-[![Investor logo marquee with clipped-corner cards for PayPal, Microsoft, Amazon, Latham & Watkins, BCG, Arm, and Apple against dark background](https://pin.fontofweb.com/509?format=jpg)](https://design.withfudge.com/share/pin-509)
+[![Investor logo marquee with clipped-corner cards for PayPal, Microsoft, Amazon, Latham & Watkins, BCG, Arm, and Apple against dark background](https://pin.fontofweb.com/509?format=jpg)](https://fudge.design/share/pin-509)
 
-[Investor logo marquee with clipped-corner cards for PayPal, Microsoft, Amazon, Latham & Watkins, BCG, Arm, and Apple against dark background](https://design.withfudge.com/share/pin-509)
+[Investor logo marquee with clipped-corner cards for PayPal, Microsoft, Amazon, Latham & Watkins, BCG, Arm, and Apple against dark background](https://fudge.design/share/pin-509)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The navigation overlay, currently splitting between large links and contact side
 ## Scope note
 
 This guide covers the landing page experience for Arago's optical computing hardware presentation, including the hero section, navigation overlay, contact calls-to-action, and investor logo display. Mobile layouts, additional interior pages, form interactions, loading states, and motion specifications are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

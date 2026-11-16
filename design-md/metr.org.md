@@ -1,26 +1,26 @@
 # How metr.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/metr.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/metr.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Donation page lower section showing organization details and green pill-shaped donate button against white background](https://pin.fontofweb.com/7185?format=jpg)](https://design.withfudge.com/share/pin-7185)
+[![Donation page lower section showing organization details and green pill-shaped donate button against white background](https://pin.fontofweb.com/7185?format=jpg)](https://fudge.design/share/pin-7185)
 
-[Donation page lower section showing organization details and green pill-shaped donate button against white background](https://design.withfudge.com/share/pin-7185)
+[Donation page lower section showing organization details and green pill-shaped donate button against white background](https://fudge.design/share/pin-7185)
 
-[![Donation page hero with large display heading, navigation bar, and research card grid with teal accents](https://pin.fontofweb.com/7184?format=jpg)](https://design.withfudge.com/share/pin-7184)
+[![Donation page hero with large display heading, navigation bar, and research card grid with teal accents](https://pin.fontofweb.com/7184?format=jpg)](https://fudge.design/share/pin-7184)
 
-[Donation page hero with large display heading, navigation bar, and research card grid with teal accents](https://design.withfudge.com/share/pin-7184)
+[Donation page hero with large display heading, navigation bar, and research card grid with teal accents](https://fudge.design/share/pin-7184)
 
-[![Homepage recent articles grid with dated research posts, thumbnail images, and arrow link treatments](https://pin.fontofweb.com/7183?format=jpg)](https://design.withfudge.com/share/pin-7183)
+[![Homepage recent articles grid with dated research posts, thumbnail images, and arrow link treatments](https://pin.fontofweb.com/7183?format=jpg)](https://fudge.design/share/pin-7183)
 
-[Homepage recent articles grid with dated research posts, thumbnail images, and arrow link treatments](https://design.withfudge.com/share/pin-7183)
+[Homepage recent articles grid with dated research posts, thumbnail images, and arrow link treatments](https://fudge.design/share/pin-7183)
 
-[![Homepage evaluation reports section with partner logo cards and green call-to-action button](https://pin.fontofweb.com/7182?format=jpg)](https://design.withfudge.com/share/pin-7182)
+[![Homepage evaluation reports section with partner logo cards and green call-to-action button](https://pin.fontofweb.com/7182?format=jpg)](https://fudge.design/share/pin-7182)
 
-[Homepage evaluation reports section with partner logo cards and green call-to-action button](https://design.withfudge.com/share/pin-7182)
+[Homepage evaluation reports section with partner logo cards and green call-to-action button](https://fudge.design/share/pin-7182)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Touch targets for pill buttons and navigation items should maintain minimum 44px
 ## Scope note
 
 This guide covers the homepage and donation page surfaces visible in the supplied material. Footer components, mobile navigation patterns, form inputs, loading states, and animation behavior are not represented. The evaluation report detail pages and research article interiors are not included. Measurements reflect the desktop viewport state captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Education and research](/share/designs-with-industry.education_research)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

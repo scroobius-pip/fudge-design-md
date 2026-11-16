@@ -1,22 +1,22 @@
 # How huggingface.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/huggingface.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/huggingface.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed homepage hero with large white display headline, yellow Hugging Face logo, and search bar against deep navy background](https://pin.fontofweb.com/3873?format=jpg)](https://design.withfudge.com/share/pin-3873)
+[![Dark-themed homepage hero with large white display headline, yellow Hugging Face logo, and search bar against deep navy background](https://pin.fontofweb.com/3873?format=jpg)](https://fudge.design/share/pin-3873)
 
-[Dark-themed homepage hero with large white display headline, yellow Hugging Face logo, and search bar against deep navy background](https://design.withfudge.com/share/pin-3873)
+[Dark-themed homepage hero with large white display headline, yellow Hugging Face logo, and search bar against deep navy background](https://fudge.design/share/pin-3873)
 
-[![Dark footer section with yellow emoji illustration band, resource link columns, and system theme toggle on near-black background](https://pin.fontofweb.com/3874?format=jpg)](https://design.withfudge.com/share/pin-3874)
+[![Dark footer section with yellow emoji illustration band, resource link columns, and system theme toggle on near-black background](https://pin.fontofweb.com/3874?format=jpg)](https://fudge.design/share/pin-3874)
 
-[Dark footer section with yellow emoji illustration band, resource link columns, and system theme toggle on near-black background](https://design.withfudge.com/share/pin-3874)
+[Dark footer section with yellow emoji illustration band, resource link columns, and system theme toggle on near-black background](https://fudge.design/share/pin-3874)
 
-[![Light-themed Space demo page with gradient wave background, card-based interface, and audio player controls](https://pin.fontofweb.com/5690?format=jpg)](https://design.withfudge.com/share/pin-5690)
+[![Light-themed Space demo page with gradient wave background, card-based interface, and audio player controls](https://pin.fontofweb.com/5690?format=jpg)](https://fudge.design/share/pin-5690)
 
-[Light-themed Space demo page with gradient wave background, card-based interface, and audio player controls](https://design.withfudge.com/share/pin-5690)
+[Light-themed Space demo page with gradient wave background, card-based interface, and audio player controls](https://fudge.design/share/pin-5690)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Demo pages maintain centered content columns with reduced horizontal padding, al
 ## Scope note
 
 This guide covers the homepage, model browser, and Space demo surfaces visible in the supplied images. Mobile breakpoints, animation specifications, form validation states, and the complete light-mode token set beyond demo cards are not fully represented. Measurements are practical adaptation targets based on visible proportions. The code editor, dataset viewer, and community discussion interfaces are not included in this scope.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

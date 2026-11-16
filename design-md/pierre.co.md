@@ -1,18 +1,18 @@
 # How pierre.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pierre.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/pierre.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Landing page with bold italic Warning headline, concentric circle target button, and sparse monochrome header with commit hash and navigation pills](https://pin.fontofweb.com/3851?format=jpg)](https://design.withfudge.com/share/pin-3851)
+[![Landing page with bold italic Warning headline, concentric circle target button, and sparse monochrome header with commit hash and navigation pills](https://pin.fontofweb.com/3851?format=jpg)](https://fudge.design/share/pin-3851)
 
-[Landing page with bold italic Warning headline, concentric circle target button, and sparse monochrome header with commit hash and navigation pills](https://design.withfudge.com/share/pin-3851)
+[Landing page with bold italic Warning headline, concentric circle target button, and sparse monochrome header with commit hash and navigation pills](https://fudge.design/share/pin-3851)
 
-[![Landing page showing centered typographic warning message, dotted circular target with plus icon, and minimal top bar with sign-in actions](https://pin.fontofweb.com/3850?format=jpg)](https://design.withfudge.com/share/pin-3850)
+[![Landing page showing centered typographic warning message, dotted circular target with plus icon, and minimal top bar with sign-in actions](https://pin.fontofweb.com/3850?format=jpg)](https://fudge.design/share/pin-3850)
 
-[Landing page showing centered typographic warning message, dotted circular target with plus icon, and minimal top bar with sign-in actions](https://design.withfudge.com/share/pin-3850)
+[Landing page showing centered typographic warning message, dotted circular target with plus icon, and minimal top bar with sign-in actions](https://fudge.design/share/pin-3850)
 
 ## Overview
 
@@ -133,3 +133,18 @@ The supplied images show only a desktop viewport. For narrower screens, the thre
 ## Scope note
 
 This guide covers the pierre.co landing page as visible in the supplied images. Mobile layouts, additional pages, interactive states, motion design, and any documentation or pricing surfaces are not represented. Measurements are practical adaptation targets derived from the visible composition.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

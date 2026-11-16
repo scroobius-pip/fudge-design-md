@@ -1,18 +1,18 @@
 # How figr.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/figr.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/figr.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://pin.fontofweb.com/7414?format=jpg)](https://design.withfudge.com/share/pin-7414)
+[![Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://pin.fontofweb.com/7414?format=jpg)](https://fudge.design/share/pin-7414)
 
-[Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://design.withfudge.com/share/pin-7414)
+[Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://fudge.design/share/pin-7414)
 
-[![Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://pin.fontofweb.com/7413?format=jpg)](https://design.withfudge.com/share/pin-7413)
+[![Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://pin.fontofweb.com/7413?format=jpg)](https://fudge.design/share/pin-7413)
 
-[Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://design.withfudge.com/share/pin-7413)
+[Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://fudge.design/share/pin-7413)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The product frame's fixed aspect ratio and internal illustration would require s
 ## Scope note
 
 This guide covers the homepage and contact page surfaces of figr.design. Mobile layouts, additional interior pages, dark mode, motion behavior, and comprehensive component states are not represented in the supplied material. Measurements are practical adaptation targets derived from visible desktop compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

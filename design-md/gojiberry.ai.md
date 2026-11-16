@@ -1,22 +1,22 @@
 # How gojiberry.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gojiberry.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/gojiberry.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with warm geometric gradient background, centered headline with orange accent word, and email capture form](https://pin.fontofweb.com/10694?format=jpg)](https://design.withfudge.com/share/pin-10694)
+[![Hero section with warm geometric gradient background, centered headline with orange accent word, and email capture form](https://pin.fontofweb.com/10694?format=jpg)](https://fudge.design/share/pin-10694)
 
-[Hero section with warm geometric gradient background, centered headline with orange accent word, and email capture form](https://design.withfudge.com/share/pin-10694)
+[Hero section with warm geometric gradient background, centered headline with orange accent word, and email capture form](https://fudge.design/share/pin-10694)
 
-[![Pricing section with two-column layout showing Pro and Custom plans, feature lists with checkmarks, and gradient tags](https://pin.fontofweb.com/10693?format=jpg)](https://design.withfudge.com/share/pin-10693)
+[![Pricing section with two-column layout showing Pro and Custom plans, feature lists with checkmarks, and gradient tags](https://pin.fontofweb.com/10693?format=jpg)](https://fudge.design/share/pin-10693)
 
-[Pricing section with two-column layout showing Pro and Custom plans, feature lists with checkmarks, and gradient tags](https://design.withfudge.com/share/pin-10693)
+[Pricing section with two-column layout showing Pro and Custom plans, feature lists with checkmarks, and gradient tags](https://fudge.design/share/pin-10693)
 
-[![Integrations section with radial network diagram connecting Gojiberry logo to partner tool icons](https://pin.fontofweb.com/10692?format=jpg)](https://design.withfudge.com/share/pin-10692)
+[![Integrations section with radial network diagram connecting Gojiberry logo to partner tool icons](https://pin.fontofweb.com/10692?format=jpg)](https://fudge.design/share/pin-10692)
 
-[Integrations section with radial network diagram connecting Gojiberry logo to partner tool icons](https://design.withfudge.com/share/pin-10692)
+[Integrations section with radial network diagram connecting Gojiberry logo to partner tool icons](https://fudge.design/share/pin-10692)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Typography scales proportionally: hero display drops to 2.5rem on tablet and 2re
 ## Scope note
 
 This guide covers the Gojiberry AI landing page including hero, pricing, and integrations sections as visible in the supplied captures. Footer content, mobile navigation behavior, form validation states, and any dashboard or authenticated experiences are not represented. Motion, hover effects, and loading states are not documented from still images. The -apple-system family appears in the computed font stack but is not used as a primary design typeface. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

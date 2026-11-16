@@ -1,22 +1,22 @@
 # How hatroid.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hatroid.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hatroid.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero section with full-bleed Ghost in the Shell collaboration imagery and dark navigation bar](https://pin.fontofweb.com/9382?format=jpg)](https://design.withfudge.com/share/pin-9382)
+[![Homepage hero section with full-bleed Ghost in the Shell collaboration imagery and dark navigation bar](https://pin.fontofweb.com/9382?format=jpg)](https://fudge.design/share/pin-9382)
 
-[Homepage hero section with full-bleed Ghost in the Shell collaboration imagery and dark navigation bar](https://design.withfudge.com/share/pin-9382)
+[Homepage hero section with full-bleed Ghost in the Shell collaboration imagery and dark navigation bar](https://fudge.design/share/pin-9382)
 
-[![Product collection grid showing six outerwear items with sold-out labels on light background](https://pin.fontofweb.com/9383?format=jpg)](https://design.withfudge.com/share/pin-9383)
+[![Product collection grid showing six outerwear items with sold-out labels on light background](https://pin.fontofweb.com/9383?format=jpg)](https://fudge.design/share/pin-9383)
 
-[Product collection grid showing six outerwear items with sold-out labels on light background](https://design.withfudge.com/share/pin-9383)
+[Product collection grid showing six outerwear items with sold-out labels on light background](https://fudge.design/share/pin-9383)
 
-[![Product detail page with large jacket image, size selector, and bilingual description text](https://pin.fontofweb.com/9384?format=jpg)](https://design.withfudge.com/share/pin-9384)
+[![Product detail page with large jacket image, size selector, and bilingual description text](https://pin.fontofweb.com/9384?format=jpg)](https://fudge.design/share/pin-9384)
 
-[Product detail page with large jacket image, size selector, and bilingual description text](https://design.withfudge.com/share/pin-9384)
+[Product detail page with large jacket image, size selector, and bilingual description text](https://fudge.design/share/pin-9384)
 
 ## Overview
 
@@ -204,3 +204,18 @@ Campaign hero imagery should maintain full bleed, with text overlay repositioned
 ## Scope note
 
 This guide covers the homepage campaign presentation, product collection grids, and product detail pages as visible in the supplied materials. Cart functionality, checkout flows, account pages, and the Project and Info content sections are not represented. Mobile-specific layouts, hover states, loading skeletons, and animation behavior were not captured and should be designed to match the system's restrained, editorial character. Measurements are exact where retained and practical adaptation targets where inferred from visible structure.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

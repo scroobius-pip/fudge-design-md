@@ -1,26 +1,26 @@
 # How doom.bethesda.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/doom.bethesda.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/doom.bethesda.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with id Software logo, social icons, language selector, and three-column link grid on near-black background](https://pin.fontofweb.com/1834?format=jpg)](https://design.withfudge.com/share/pin-1834)
+[![Footer with id Software logo, social icons, language selector, and three-column link grid on near-black background](https://pin.fontofweb.com/1834?format=jpg)](https://fudge.design/share/pin-1834)
 
-[Footer with id Software logo, social icons, language selector, and three-column link grid on near-black background](https://design.withfudge.com/share/pin-1834)
+[Footer with id Software logo, social icons, language selector, and three-column link grid on near-black background](https://fudge.design/share/pin-1834)
 
-[![Slayers Club section with torn-paper edge texture, green helmet illustration, and orange call-to-action button](https://pin.fontofweb.com/1833?format=jpg)](https://design.withfudge.com/share/pin-1833)
+[![Slayers Club section with torn-paper edge texture, green helmet illustration, and orange call-to-action button](https://pin.fontofweb.com/1833?format=jpg)](https://fudge.design/share/pin-1833)
 
-[Slayers Club section with torn-paper edge texture, green helmet illustration, and orange call-to-action button](https://design.withfudge.com/share/pin-1833)
+[Slayers Club section with torn-paper edge texture, green helmet illustration, and orange call-to-action button](https://fudge.design/share/pin-1833)
 
-[![Media gallery grid with video thumbnails, play buttons, and section heading over dark atmospheric background](https://pin.fontofweb.com/1832?format=jpg)](https://design.withfudge.com/share/pin-1832)
+[![Media gallery grid with video thumbnails, play buttons, and section heading over dark atmospheric background](https://pin.fontofweb.com/1832?format=jpg)](https://fudge.design/share/pin-1832)
 
-[Media gallery grid with video thumbnails, play buttons, and section heading over dark atmospheric background](https://design.withfudge.com/share/pin-1832)
+[Media gallery grid with video thumbnails, play buttons, and section heading over dark atmospheric background](https://fudge.design/share/pin-1832)
 
-[![Cinematic hero section with demon character portrait and centered display typography with orange accent underline](https://pin.fontofweb.com/1831?format=jpg)](https://design.withfudge.com/share/pin-1831)
+[![Cinematic hero section with demon character portrait and centered display typography with orange accent underline](https://pin.fontofweb.com/1831?format=jpg)](https://fudge.design/share/pin-1831)
 
-[Cinematic hero section with demon character portrait and centered display typography with orange accent underline](https://design.withfudge.com/share/pin-1831)
+[Cinematic hero section with demon character portrait and centered display typography with orange accent underline](https://fudge.design/share/pin-1831)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Navigation, partially visible in the header area, should collapse to a hamburger
 ## Scope note
 
 This guide covers the DOOM: The Dark Ages marketing page surface, including the hero presentation, media gallery, Slayers Club promotion, and site footer. Mobile breakpoints, animation behavior, form interactions, and e-commerce checkout flows are not represented in the supplied imagery. Measurements are practical adaptation targets. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Image background](/share/designs-with-visual.background.image)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

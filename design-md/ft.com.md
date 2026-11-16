@@ -1,26 +1,26 @@
 # How ft.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ft.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ft.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with multi-column navigation, promotional banner with editorial photography mosaic, and Nikkei Company attribution on deep charcoal background.](https://pin.fontofweb.com/2915?format=jpg)](https://design.withfudge.com/share/pin-2915)
+[![Dark footer with multi-column navigation, promotional banner with editorial photography mosaic, and Nikkei Company attribution on deep charcoal background.](https://pin.fontofweb.com/2915?format=jpg)](https://fudge.design/share/pin-2915)
 
-[Dark footer with multi-column navigation, promotional banner with editorial photography mosaic, and Nikkei Company attribution on deep charcoal background.](https://design.withfudge.com/share/pin-2915)
+[Dark footer with multi-column navigation, promotional banner with editorial photography mosaic, and Nikkei Company attribution on deep charcoal background.](https://fudge.design/share/pin-2915)
 
-[![Subscription pricing cards on warm cream background with burgundy badges, teal Select buttons, and outlined device icons in a three-column layout.](https://pin.fontofweb.com/2914?format=jpg)](https://design.withfudge.com/share/pin-2914)
+[![Subscription pricing cards on warm cream background with burgundy badges, teal Select buttons, and outlined device icons in a three-column layout.](https://pin.fontofweb.com/2914?format=jpg)](https://fudge.design/share/pin-2914)
 
-[Subscription pricing cards on warm cream background with burgundy badges, teal Select buttons, and outlined device icons in a three-column layout.](https://design.withfudge.com/share/pin-2914)
+[Subscription pricing cards on warm cream background with burgundy badges, teal Select buttons, and outlined device icons in a three-column layout.](https://fudge.design/share/pin-2914)
 
-[![Article paywall overlay with serif headline quotation, darkened cityscape photography, white trial pricing, and light button on near-black gradient.](https://pin.fontofweb.com/2913?format=jpg)](https://design.withfudge.com/share/pin-2913)
+[![Article paywall overlay with serif headline quotation, darkened cityscape photography, white trial pricing, and light button on near-black gradient.](https://pin.fontofweb.com/2913?format=jpg)](https://fudge.design/share/pin-2913)
 
-[Article paywall overlay with serif headline quotation, darkened cityscape photography, white trial pricing, and light button on near-black gradient.](https://design.withfudge.com/share/pin-2913)
+[Article paywall overlay with serif headline quotation, darkened cityscape photography, white trial pricing, and light button on near-black gradient.](https://fudge.design/share/pin-2913)
 
-[![Hero subscription banner with circuit board imagery and dark gradient, followed by cream-background pricing grid with mixed card arrangements.](https://pin.fontofweb.com/2287?format=jpg)](https://design.withfudge.com/share/pin-2287)
+[![Hero subscription banner with circuit board imagery and dark gradient, followed by cream-background pricing grid with mixed card arrangements.](https://pin.fontofweb.com/2287?format=jpg)](https://fudge.design/share/pin-2287)
 
-[Hero subscription banner with circuit board imagery and dark gradient, followed by cream-background pricing grid with mixed card arrangements.](https://design.withfudge.com/share/pin-2287)
+[Hero subscription banner with circuit board imagery and dark gradient, followed by cream-background pricing grid with mixed card arrangements.](https://fudge.design/share/pin-2287)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Typography scales should reduce by approximately one step on mobile: hero-displa
 ## Scope note
 
 This guide covers the subscription and article paywall surfaces visible in the supplied imagery. It does not include the full FT article reading experience, search functionality, account management dashboards, or live market data displays. Navigation header components above the hero zone are not represented. Measurements are practical adaptation targets derived from visual inspection of the supplied page sections.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Comparison columns](/share/designs-with-layout.archetype.comparison_columns)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

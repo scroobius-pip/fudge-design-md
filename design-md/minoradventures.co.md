@@ -1,26 +1,26 @@
 # How minoradventures.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/minoradventures.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/minoradventures.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with oversized 'MinorAdventures' wordmark, navigation links, contact details, and email subscription form on dark background](https://pin.fontofweb.com/8712?format=jpg)](https://design.withfudge.com/share/pin-8712)
+[![Footer section with oversized 'MinorAdventures' wordmark, navigation links, contact details, and email subscription form on dark background](https://pin.fontofweb.com/8712?format=jpg)](https://fudge.design/share/pin-8712)
 
-[Footer section with oversized 'MinorAdventures' wordmark, navigation links, contact details, and email subscription form on dark background](https://design.withfudge.com/share/pin-8712)
+[Footer section with oversized 'MinorAdventures' wordmark, navigation links, contact details, and email subscription form on dark background](https://fudge.design/share/pin-8712)
 
-[![Portfolio grid showing Wayflyer and Pafyll icon system case studies with mixed light and dark card backgrounds](https://pin.fontofweb.com/8711?format=jpg)](https://design.withfudge.com/share/pin-8711)
+[![Portfolio grid showing Wayflyer and Pafyll icon system case studies with mixed light and dark card backgrounds](https://pin.fontofweb.com/8711?format=jpg)](https://fudge.design/share/pin-8711)
 
-[Portfolio grid showing Wayflyer and Pafyll icon system case studies with mixed light and dark card backgrounds](https://design.withfudge.com/share/pin-8711)
+[Portfolio grid showing Wayflyer and Pafyll icon system case studies with mixed light and dark card backgrounds](https://fudge.design/share/pin-8711)
 
-[![Product showcase section featuring Amicons and Smallbits icon sets with serif titles and black purchase buttons](https://pin.fontofweb.com/8710?format=jpg)](https://design.withfudge.com/share/pin-8710)
+[![Product showcase section featuring Amicons and Smallbits icon sets with serif titles and black purchase buttons](https://pin.fontofweb.com/8710?format=jpg)](https://fudge.design/share/pin-8710)
 
-[Product showcase section featuring Amicons and Smallbits icon sets with serif titles and black purchase buttons](https://design.withfudge.com/share/pin-8710)
+[Product showcase section featuring Amicons and Smallbits icon sets with serif titles and black purchase buttons](https://fudge.design/share/pin-8710)
 
-[![Hero banner with massive condensed 'MinorAdventures' display type and serif tagline on near-black background](https://pin.fontofweb.com/8709?format=jpg)](https://design.withfudge.com/share/pin-8709)
+[![Hero banner with massive condensed 'MinorAdventures' display type and serif tagline on near-black background](https://pin.fontofweb.com/8709?format=jpg)](https://fudge.design/share/pin-8709)
 
-[Hero banner with massive condensed 'MinorAdventures' display type and serif tagline on near-black background](https://design.withfudge.com/share/pin-8709)
+[Hero banner with massive condensed 'MinorAdventures' display type and serif tagline on near-black background](https://fudge.design/share/pin-8709)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Touch targets for navigation links and buttons should maintain adequate size, wi
 ## Scope note
 
 This guide covers the homepage and primary landing surfaces of Minor Adventures, including the hero, product showcase, portfolio grid, and footer. Interior pages, individual product detail pages, checkout flows, and mobile-specific layouts are not represented in the supplied material. Motion behavior, hover states, and loading sequences are not documented. The System-Sansserif family appears in the underlying structure but is not part of the primary visual hierarchy. Measurements reflect the exact values from the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

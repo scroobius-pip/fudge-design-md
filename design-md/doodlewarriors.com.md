@@ -1,26 +1,26 @@
 # How doodlewarriors.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/doodlewarriors.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/doodlewarriors.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with light gray background, dark expanded accordion card, and white collapsed cards with plus icons](https://pin.fontofweb.com/2127?format=jpg)](https://design.withfudge.com/share/pin-2127)
+[![FAQ section with light gray background, dark expanded accordion card, and white collapsed cards with plus icons](https://pin.fontofweb.com/2127?format=jpg)](https://fudge.design/share/pin-2127)
 
-[FAQ section with light gray background, dark expanded accordion card, and white collapsed cards with plus icons](https://design.withfudge.com/share/pin-2127)
+[FAQ section with light gray background, dark expanded accordion card, and white collapsed cards with plus icons](https://fudge.design/share/pin-2127)
 
-[![Money-back guarantee banner with deep purple background, white line-art badge, coral accent stars, and bold white headline](https://pin.fontofweb.com/2126?format=jpg)](https://design.withfudge.com/share/pin-2126)
+[![Money-back guarantee banner with deep purple background, white line-art badge, coral accent stars, and bold white headline](https://pin.fontofweb.com/2126?format=jpg)](https://fudge.design/share/pin-2126)
 
-[Money-back guarantee banner with deep purple background, white line-art badge, coral accent stars, and bold white headline](https://design.withfudge.com/share/pin-2126)
+[Money-back guarantee banner with deep purple background, white line-art badge, coral accent stars, and bold white headline](https://fudge.design/share/pin-2126)
 
-[![Dark feature grid with purple bullet points, bonuses panel, and purple pill-shaped CTA button with arrow icon](https://pin.fontofweb.com/2125?format=jpg)](https://design.withfudge.com/share/pin-2125)
+[![Dark feature grid with purple bullet points, bonuses panel, and purple pill-shaped CTA button with arrow icon](https://pin.fontofweb.com/2125?format=jpg)](https://fudge.design/share/pin-2125)
 
-[Dark feature grid with purple bullet points, bonuses panel, and purple pill-shaped CTA button with arrow icon](https://design.withfudge.com/share/pin-2125)
+[Dark feature grid with purple bullet points, bonuses panel, and purple pill-shaped CTA button with arrow icon](https://fudge.design/share/pin-2125)
 
-[![Pricing section with dark theme, purple highlighted annual plan, product cards with artwork thumbnails, and pink gift illustration](https://pin.fontofweb.com/2124?format=jpg)](https://design.withfudge.com/share/pin-2124)
+[![Pricing section with dark theme, purple highlighted annual plan, product cards with artwork thumbnails, and pink gift illustration](https://pin.fontofweb.com/2124?format=jpg)](https://fudge.design/share/pin-2124)
 
-[Pricing section with dark theme, purple highlighted annual plan, product cards with artwork thumbnails, and pink gift illustration](https://design.withfudge.com/share/pin-2124)
+[Pricing section with dark theme, purple highlighted annual plan, product cards with artwork thumbnails, and pink gift illustration](https://fudge.design/share/pin-2124)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The design appears optimized for desktop viewing with substantial horizontal spa
 ## Scope note
 
 This guide covers the visible landing page surface including pricing, guarantee, features, and FAQ sections. Navigation, footer, course detail pages, checkout flow, and user dashboard are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection. Motion behavior, form validation states, and mobile-specific layouts require additional design exploration.
+
+## Related design patterns
+
+- [Education and research](/share/designs-with-industry.education_research)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

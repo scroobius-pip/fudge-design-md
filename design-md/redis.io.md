@@ -1,26 +1,26 @@
 # How redis.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/redis.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/redis.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community testimonials section with dark navy cards, social proof avatars, and GitHub and Discord action buttons with red borders.](https://pin.fontofweb.com/7591?format=jpg)](https://design.withfudge.com/share/pin-7591)
+[![Community testimonials section with dark navy cards, social proof avatars, and GitHub and Discord action buttons with red borders.](https://pin.fontofweb.com/7591?format=jpg)](https://fudge.design/share/pin-7591)
 
-[Community testimonials section with dark navy cards, social proof avatars, and GitHub and Discord action buttons with red borders.](https://design.withfudge.com/share/pin-7591)
+[Community testimonials section with dark navy cards, social proof avatars, and GitHub and Discord action buttons with red borders.](https://fudge.design/share/pin-7591)
 
-[![Features grid with lime-green accent headline, six icon-driven capability cards, and an Explore docs button on a near-black background.](https://pin.fontofweb.com/7590?format=jpg)](https://design.withfudge.com/share/pin-7590)
+[![Features grid with lime-green accent headline, six icon-driven capability cards, and an Explore docs button on a near-black background.](https://pin.fontofweb.com/7590?format=jpg)](https://fudge.design/share/pin-7590)
 
-[Features grid with lime-green accent headline, six icon-driven capability cards, and an Explore docs button on a near-black background.](https://design.withfudge.com/share/pin-7590)
+[Features grid with lime-green accent headline, six icon-driven capability cards, and an Explore docs button on a near-black background.](https://fudge.design/share/pin-7590)
 
-[![Code playground with language tabs, syntax-highlighted JavaScript example, and a dark terminal-style container with rounded corners.](https://pin.fontofweb.com/7589?format=jpg)](https://design.withfudge.com/share/pin-7589)
+[![Code playground with language tabs, syntax-highlighted JavaScript example, and a dark terminal-style container with rounded corners.](https://pin.fontofweb.com/7589?format=jpg)](https://fudge.design/share/pin-7589)
 
-[Code playground with language tabs, syntax-highlighted JavaScript example, and a dark terminal-style container with rounded corners.](https://design.withfudge.com/share/pin-7589)
+[Code playground with language tabs, syntax-highlighted JavaScript example, and a dark terminal-style container with rounded corners.](https://fudge.design/share/pin-7589)
 
-[![Deployment options with three dark cards and a tech-stack logo grid showing AWS, Azure, Kubernetes, and other partner integrations.](https://pin.fontofweb.com/7588?format=jpg)](https://design.withfudge.com/share/pin-7588)
+[![Deployment options with three dark cards and a tech-stack logo grid showing AWS, Azure, Kubernetes, and other partner integrations.](https://pin.fontofweb.com/7588?format=jpg)](https://fudge.design/share/pin-7588)
 
-[Deployment options with three dark cards and a tech-stack logo grid showing AWS, Azure, Kubernetes, and other partner integrations.](https://design.withfudge.com/share/pin-7588)
+[Deployment options with three dark cards and a tech-stack logo grid showing AWS, Azure, Kubernetes, and other partner integrations.](https://fudge.design/share/pin-7588)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Touch targets for buttons and navigation links should maintain minimum 44px heig
 ## Scope note
 
 This guide covers the Redis.io homepage visible in the supplied material, including the hero, features, code demonstration, deployment options, community testimonials, and navigation. Interior documentation pages, mobile breakpoints, loading states, form interactions, and animation specifications are not represented. Footer content, additional marketing pages, and the full documentation site structure fall outside the current scope.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

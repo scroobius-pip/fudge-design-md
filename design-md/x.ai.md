@@ -1,26 +1,26 @@
 # How x.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/x.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/x.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News article page for Grok 4.5 with dark background, white headline, and orange-accented benchmark chart showing model performance comparisons.](https://pin.fontofweb.com/10438?format=jpg)](https://design.withfudge.com/share/pin-10438)
+[![News article page for Grok 4.5 with dark background, white headline, and orange-accented benchmark chart showing model performance comparisons.](https://pin.fontofweb.com/10438?format=jpg)](https://fudge.design/share/pin-10438)
 
-[News article page for Grok 4.5 with dark background, white headline, and orange-accented benchmark chart showing model performance comparisons.](https://design.withfudge.com/share/pin-10438)
+[News article page for Grok 4.5 with dark background, white headline, and orange-accented benchmark chart showing model performance comparisons.](https://fudge.design/share/pin-10438)
 
-[![Careers landing page with large centered headline using muted gray secondary text, white pill button, and dark benefit cards in a two-column grid layout.](https://pin.fontofweb.com/9744?format=jpg)](https://design.withfudge.com/share/pin-9744)
+[![Careers landing page with large centered headline using muted gray secondary text, white pill button, and dark benefit cards in a two-column grid layout.](https://pin.fontofweb.com/9744?format=jpg)](https://fudge.design/share/pin-9744)
 
-[Careers landing page with large centered headline using muted gray secondary text, white pill button, and dark benefit cards in a two-column grid layout.](https://design.withfudge.com/share/pin-9744)
+[Careers landing page with large centered headline using muted gray secondary text, white pill button, and dark benefit cards in a two-column grid layout.](https://fudge.design/share/pin-9744)
 
-[![Grok product page showing Chat feature section with conversational UI mockup, feature list with checkmarks, and dark card with rounded corners.](https://pin.fontofweb.com/9743?format=jpg)](https://design.withfudge.com/share/pin-9743)
+[![Grok product page showing Chat feature section with conversational UI mockup, feature list with checkmarks, and dark card with rounded corners.](https://pin.fontofweb.com/9743?format=jpg)](https://fudge.design/share/pin-9743)
 
-[Grok product page showing Chat feature section with conversational UI mockup, feature list with checkmarks, and dark card with rounded corners.](https://design.withfudge.com/share/pin-9743)
+[Grok product page showing Chat feature section with conversational UI mockup, feature list with checkmarks, and dark card with rounded corners.](https://fudge.design/share/pin-9743)
 
-[![Grok hero section with gradient text effect on headline, two pill buttons, and product screenshot showing Tokyo itinerary conversation interface.](https://pin.fontofweb.com/9742?format=jpg)](https://design.withfudge.com/share/pin-9742)
+[![Grok hero section with gradient text effect on headline, two pill buttons, and product screenshot showing Tokyo itinerary conversation interface.](https://pin.fontofweb.com/9742?format=jpg)](https://fudge.design/share/pin-9742)
 
-[Grok hero section with gradient text effect on headline, two pill buttons, and product screenshot showing Tokyo itinerary conversation interface.](https://design.withfudge.com/share/pin-9742)
+[Grok hero section with gradient text effect on headline, two pill buttons, and product screenshot showing Tokyo itinerary conversation interface.](https://fudge.design/share/pin-9742)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The system appears optimized for desktop viewing with substantial content widths
 ## Scope note
 
 This guide covers the marketing and product pages visible in the supplied images, including news articles, careers, product features, and company information. Mobile layouts, form interactions, loading states, and the full checkout or authentication flows are not represented. Motion design, including gradient text animations and scroll-triggered reveals, is suggested by the visual system but not documented here. Measurements are derived from the exact values present in the interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

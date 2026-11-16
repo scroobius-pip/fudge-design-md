@@ -1,26 +1,26 @@
 # How visualelectric.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/visualelectric.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/visualelectric.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Top navigation bar with white text links, centered logo, and orange pill-shaped Get Started button on black background](https://pin.fontofweb.com/2727?format=jpg)](https://design.withfudge.com/share/pin-2727)
+[![Top navigation bar with white text links, centered logo, and orange pill-shaped Get Started button on black background](https://pin.fontofweb.com/2727?format=jpg)](https://fudge.design/share/pin-2727)
 
-[Top navigation bar with white text links, centered logo, and orange pill-shaped Get Started button on black background](https://design.withfudge.com/share/pin-2727)
+[Top navigation bar with white text links, centered logo, and orange pill-shaped Get Started button on black background](https://fudge.design/share/pin-2727)
 
-[![Footer section with tilted image collage of diverse photography and large white wordmark with orange sunburst icon](https://pin.fontofweb.com/2726?format=jpg)](https://design.withfudge.com/share/pin-2726)
+[![Footer section with tilted image collage of diverse photography and large white wordmark with orange sunburst icon](https://pin.fontofweb.com/2726?format=jpg)](https://fudge.design/share/pin-2726)
 
-[Footer section with tilted image collage of diverse photography and large white wordmark with orange sunburst icon](https://design.withfudge.com/share/pin-2726)
+[Footer section with tilted image collage of diverse photography and large white wordmark with orange sunburst icon](https://fudge.design/share/pin-2726)
 
-[![Call-to-action section with centered headline, orange pill button, and scattered rotated image cards on black background](https://pin.fontofweb.com/2725?format=jpg)](https://design.withfudge.com/share/pin-2725)
+[![Call-to-action section with centered headline, orange pill button, and scattered rotated image cards on black background](https://pin.fontofweb.com/2725?format=jpg)](https://fudge.design/share/pin-2725)
 
-[Call-to-action section with centered headline, orange pill button, and scattered rotated image cards on black background](https://design.withfudge.com/share/pin-2725)
+[Call-to-action section with centered headline, orange pill button, and scattered rotated image cards on black background](https://fudge.design/share/pin-2725)
 
-[![Testimonial section with three staggered paper-texture quote cards in mint and pink on black background](https://pin.fontofweb.com/2724?format=jpg)](https://design.withfudge.com/share/pin-2724)
+[![Testimonial section with three staggered paper-texture quote cards in mint and pink on black background](https://pin.fontofweb.com/2724?format=jpg)](https://fudge.design/share/pin-2724)
 
-[Testimonial section with three staggered paper-texture quote cards in mint and pink on black background](https://design.withfudge.com/share/pin-2724)
+[Testimonial section with three staggered paper-texture quote cards in mint and pink on black background](https://fudge.design/share/pin-2724)
 
 ## Overview
 
@@ -160,3 +160,18 @@ The supplied imagery shows desktop presentation exclusively. Based on the visual
 ## Scope note
 
 This guide covers the marketing homepage surface of Visual Electric as visible in supplied desktop imagery. Mobile layouts, in-app interface elements, pricing tables, documentation pages, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit. The image rotation angles and exact stagger positions should be treated as directional rather than mathematically precise values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

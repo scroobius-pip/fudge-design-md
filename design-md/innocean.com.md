@@ -1,26 +1,26 @@
 # How innocean.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/innocean.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/innocean.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Awards list page showing 2026 entries with black horizontal rule separators and a Load More pill button on white canvas.](https://pin.fontofweb.com/10650?format=jpg)](https://design.withfudge.com/share/pin-10650)
+[![Awards list page showing 2026 entries with black horizontal rule separators and a Load More pill button on white canvas.](https://pin.fontofweb.com/10650?format=jpg)](https://fudge.design/share/pin-10650)
 
-[Awards list page showing 2026 entries with black horizontal rule separators and a Load More pill button on white canvas.](https://design.withfudge.com/share/pin-10650)
+[Awards list page showing 2026 entries with black horizontal rule separators and a Load More pill button on white canvas.](https://fudge.design/share/pin-10650)
 
-[![Awards table with sticky black header bar containing YEAR, AWARD, PROJECT columns and scrollable data rows.](https://pin.fontofweb.com/10649?format=jpg)](https://design.withfudge.com/share/pin-10649)
+[![Awards table with sticky black header bar containing YEAR, AWARD, PROJECT columns and scrollable data rows.](https://pin.fontofweb.com/10649?format=jpg)](https://fudge.design/share/pin-10649)
 
-[Awards table with sticky black header bar containing YEAR, AWARD, PROJECT columns and scrollable data rows.](https://design.withfudge.com/share/pin-10649)
+[Awards table with sticky black header bar containing YEAR, AWARD, PROJECT columns and scrollable data rows.](https://fudge.design/share/pin-10649)
 
-[![Hero section with large AWARDS display type and scattered black award logos above a filterable data table.](https://pin.fontofweb.com/10648?format=jpg)](https://design.withfudge.com/share/pin-10648)
+[![Hero section with large AWARDS display type and scattered black award logos above a filterable data table.](https://pin.fontofweb.com/10648?format=jpg)](https://fudge.design/share/pin-10648)
 
-[Hero section with large AWARDS display type and scattered black award logos above a filterable data table.](https://design.withfudge.com/share/pin-10648)
+[Hero section with large AWARDS display type and scattered black award logos above a filterable data table.](https://fudge.design/share/pin-10648)
 
-[![Dark contact section with oversized Korean display type, pill CTA button, and minimal footer on near-black canvas.](https://pin.fontofweb.com/10645?format=jpg)](https://design.withfudge.com/share/pin-10645)
+[![Dark contact section with oversized Korean display type, pill CTA button, and minimal footer on near-black canvas.](https://pin.fontofweb.com/10645?format=jpg)](https://fudge.design/share/pin-10645)
 
-[Dark contact section with oversized Korean display type, pill CTA button, and minimal footer on near-black canvas.](https://design.withfudge.com/share/pin-10645)
+[Dark contact section with oversized Korean display type, pill CTA button, and minimal footer on near-black canvas.](https://fudge.design/share/pin-10645)
 
 ## Overview
 
@@ -166,3 +166,7 @@ The dark contact page with its large Korean typography will require careful line
 ## Scope note
 
 This guide covers the awards listing page, contact section, and shared navigation patterns visible in the supplied captures. Mobile breakpoints, hover animations, form validation states, and additional page templates are not represented. Measurements derive from the documented pixel values converted to the relative unit scale.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

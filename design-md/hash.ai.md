@@ -1,18 +1,18 @@
 # How hash.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hash.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/hash.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Integration grid showing six source-category cards with application icons arranged in a honeycomb pattern against a near-black background, featuring gradient accent text on](https://pin.fontofweb.com/3929?format=jpg)](https://design.withfudge.com/share/pin-3929)
+[![Integration grid showing six source-category cards with application icons arranged in a honeycomb pattern against a near-black background, featuring gradient accent text on](https://pin.fontofweb.com/3929?format=jpg)](https://fudge.design/share/pin-3929)
 
-[Integration grid showing six source-category cards with application icons arranged in a honeycomb pattern against a near-black background, featuring gradient accent text on](https://design.withfudge.com/share/pin-3929)
+[Integration grid showing six source-category cards with application icons arranged in a honeycomb pattern against a near-black background, featuring gradient accent text on](https://fudge.design/share/pin-3929)
 
-[![Hero section with stacked gradient headline transitioning from white through cyan to blue, email capture form, and product interface screenshot with sidebar navigation and](https://pin.fontofweb.com/3928?format=jpg)](https://design.withfudge.com/share/pin-3928)
+[![Hero section with stacked gradient headline transitioning from white through cyan to blue, email capture form, and product interface screenshot with sidebar navigation and](https://pin.fontofweb.com/3928?format=jpg)](https://fudge.design/share/pin-3928)
 
-[Hero section with stacked gradient headline transitioning from white through cyan to blue, email capture form, and product interface screenshot with sidebar navigation and](https://design.withfudge.com/share/pin-3928)
+[Hero section with stacked gradient headline transitioning from white through cyan to blue, email capture form, and product interface screenshot with sidebar navigation and](https://fudge.design/share/pin-3928)
 
 ## Overview
 
@@ -167,3 +167,18 @@ The layout should maintain single-column stacking on narrower viewports, with th
 ## Scope note
 
 This guide covers the HASH.ai landing page hero and integration grid sections visible in the supplied images. Footer content, additional interior pages, mobile-specific layouts, motion design, and dark-to-light mode transitions are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

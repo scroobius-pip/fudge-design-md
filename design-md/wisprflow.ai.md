@@ -1,26 +1,26 @@
 # How wisprflow.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wisprflow.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/wisprflow.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark teal savings calculator panel with lavender-accented display typography and illustrated character juggling currency symbols](https://pin.fontofweb.com/7402?format=jpg)](https://design.withfudge.com/share/pin-7402)
+[![Dark teal savings calculator panel with lavender-accented display typography and illustrated character juggling currency symbols](https://pin.fontofweb.com/7402?format=jpg)](https://fudge.design/share/pin-7402)
 
-[Dark teal savings calculator panel with lavender-accented display typography and illustrated character juggling currency symbols](https://design.withfudge.com/share/pin-7402)
+[Dark teal savings calculator panel with lavender-accented display typography and illustrated character juggling currency symbols](https://fudge.design/share/pin-7402)
 
-[![Light cream pricing page with three-tier card layout, lavender pill-shaped toggle, and outlined navigation header](https://pin.fontofweb.com/7401?format=jpg)](https://design.withfudge.com/share/pin-7401)
+[![Light cream pricing page with three-tier card layout, lavender pill-shaped toggle, and outlined navigation header](https://pin.fontofweb.com/7401?format=jpg)](https://fudge.design/share/pin-7401)
 
-[Light cream pricing page with three-tier card layout, lavender pill-shaped toggle, and outlined navigation header](https://design.withfudge.com/share/pin-7401)
+[Light cream pricing page with three-tier card layout, lavender pill-shaped toggle, and outlined navigation header](https://fudge.design/share/pin-7401)
 
-[![Cinematic hero section with rotating circular text ring around serif headline over blurred team photography](https://pin.fontofweb.com/7400?format=jpg)](https://design.withfudge.com/share/pin-7400)
+[![Cinematic hero section with rotating circular text ring around serif headline over blurred team photography](https://pin.fontofweb.com/7400?format=jpg)](https://fudge.design/share/pin-7400)
 
-[Cinematic hero section with rotating circular text ring around serif headline over blurred team photography](https://design.withfudge.com/share/pin-7400)
+[Cinematic hero section with rotating circular text ring around serif headline over blurred team photography](https://fudge.design/share/pin-7400)
 
-[![Full-bleed hero with motion-blurred figure, dotted elliptical path animation, and centered call-to-action buttons](https://pin.fontofweb.com/7399?format=jpg)](https://design.withfudge.com/share/pin-7399)
+[![Full-bleed hero with motion-blurred figure, dotted elliptical path animation, and centered call-to-action buttons](https://pin.fontofweb.com/7399?format=jpg)](https://fudge.design/share/pin-7399)
 
-[Full-bleed hero with motion-blurred figure, dotted elliptical path animation, and centered call-to-action buttons](https://design.withfudge.com/share/pin-7399)
+[Full-bleed hero with motion-blurred figure, dotted elliptical path animation, and centered call-to-action buttons](https://fudge.design/share/pin-7399)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied home, about, and pricing pages. It does not include the application interface, mobile app design, documentation site, or any authenticated user experiences. Motion specifications for the circular text rings and dotted elliptical paths are not fully defined here; implementers should design appropriate timing and easing. Measurements reflect the desktop viewport state captured in the source material.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

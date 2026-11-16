@@ -1,18 +1,18 @@
 # How mojolang.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mojolang.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/mojolang.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Mojo wordmark, flame emoji, tagline, and orange Install Now button on near-black background](https://pin.fontofweb.com/9198?format=jpg)](https://design.withfudge.com/share/pin-9198)
+[![Hero section with large Mojo wordmark, flame emoji, tagline, and orange Install Now button on near-black background](https://pin.fontofweb.com/9198?format=jpg)](https://fudge.design/share/pin-9198)
 
-[Hero section with large Mojo wordmark, flame emoji, tagline, and orange Install Now button on near-black background](https://design.withfudge.com/share/pin-9198)
+[Hero section with large Mojo wordmark, flame emoji, tagline, and orange Install Now button on near-black background](https://fudge.design/share/pin-9198)
 
-[![Full landing page showing navigation bar, hero with gradient glow, feature cards in three-column grid, and GPU programming code block section](https://pin.fontofweb.com/9197?format=jpg)](https://design.withfudge.com/share/pin-9197)
+[![Full landing page showing navigation bar, hero with gradient glow, feature cards in three-column grid, and GPU programming code block section](https://pin.fontofweb.com/9197?format=jpg)](https://fudge.design/share/pin-9197)
 
-[Full landing page showing navigation bar, hero with gradient glow, feature cards in three-column grid, and GPU programming code block section](https://design.withfudge.com/share/pin-9197)
+[Full landing page showing navigation bar, hero with gradient glow, feature cards in three-column grid, and GPU programming code block section](https://fudge.design/share/pin-9197)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Typography should scale down proportionally: hero-display from 48px to approxima
 ## Scope note
 
 This guide covers the Mojo language landing page hero, feature grid, and code presentation sections. Footer content, documentation pages, package registry interfaces, and interactive code execution features are not represented in the supplied material. Motion, hover states, and mobile-specific layouts were not captured and should be designed to complement the established static system.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

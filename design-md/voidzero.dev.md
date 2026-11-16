@@ -1,26 +1,26 @@
 # How voidzero.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/voidzero.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/voidzero.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Statistics dashboard showing total downloads counter with large numerals, green line chart, and three metric cards with muted labels on light background](https://pin.fontofweb.com/8190?format=jpg)](https://design.withfudge.com/share/pin-8190)
+[![Statistics dashboard showing total downloads counter with large numerals, green line chart, and three metric cards with muted labels on light background](https://pin.fontofweb.com/8190?format=jpg)](https://fudge.design/share/pin-8190)
 
-[Statistics dashboard showing total downloads counter with large numerals, green line chart, and three metric cards with muted labels on light background](https://design.withfudge.com/share/pin-8190)
+[Statistics dashboard showing total downloads counter with large numerals, green line chart, and three metric cards with muted labels on light background](https://fudge.design/share/pin-8190)
 
-[![Featured resources section with left-aligned heading, code snippet decoration, and horizontal carousel of article cards with category tags and dot pagination](https://pin.fontofweb.com/8189?format=jpg)](https://design.withfudge.com/share/pin-8189)
+[![Featured resources section with left-aligned heading, code snippet decoration, and horizontal carousel of article cards with category tags and dot pagination](https://pin.fontofweb.com/8189?format=jpg)](https://fudge.design/share/pin-8189)
 
-[Featured resources section with left-aligned heading, code snippet decoration, and horizontal carousel of article cards with category tags and dot pagination](https://design.withfudge.com/share/pin-8189)
+[Featured resources section with left-aligned heading, code snippet decoration, and horizontal carousel of article cards with category tags and dot pagination](https://fudge.design/share/pin-8189)
 
-[![Dark-themed open source section with project navigation sidebar, purple-blue gradient imagery, terminal code blocks, and stacked project cards with explore buttons](https://pin.fontofweb.com/8188?format=jpg)](https://design.withfudge.com/share/pin-8188)
+[![Dark-themed open source section with project navigation sidebar, purple-blue gradient imagery, terminal code blocks, and stacked project cards with explore buttons](https://pin.fontofweb.com/8188?format=jpg)](https://fudge.design/share/pin-8188)
 
-[Dark-themed open source section with project navigation sidebar, purple-blue gradient imagery, terminal code blocks, and stacked project cards with explore buttons](https://design.withfudge.com/share/pin-8188)
+[Dark-themed open source section with project navigation sidebar, purple-blue gradient imagery, terminal code blocks, and stacked project cards with explore buttons](https://fudge.design/share/pin-8188)
 
-[![Hero section with gradient text headline, isometric layered diagram connecting Vite+, Vite, Oxc, Vitest, and Rolldown labels to a central stack illustration](https://pin.fontofweb.com/8187?format=jpg)](https://design.withfudge.com/share/pin-8187)
+[![Hero section with gradient text headline, isometric layered diagram connecting Vite+, Vite, Oxc, Vitest, and Rolldown labels to a central stack illustration](https://pin.fontofweb.com/8187?format=jpg)](https://fudge.design/share/pin-8187)
 
-[Hero section with gradient text headline, isometric layered diagram connecting Vite+, Vite, Oxc, Vitest, and Rolldown labels to a central stack illustration](https://design.withfudge.com/share/pin-8187)
+[Hero section with gradient text headline, isometric layered diagram connecting Vite+, Vite, Oxc, Vitest, and Rolldown labels to a central stack illustration](https://fudge.design/share/pin-8187)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The monospace category labels and gradient headline treatment should remain visi
 ## Scope note
 
 This guide covers the marketing homepage and product showcase surfaces visible in the supplied materials. Mobile breakpoints, form interactions, animation specifications, and documentation or blog interior pages are not represented. The spacing and sizing values derive from the retained exact measurements where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

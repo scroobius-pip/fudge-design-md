@@ -1,22 +1,22 @@
 # How kylechayka.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kylechayka.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kylechayka.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Portrait photograph of Kyle Chayka in a blue t-shirt beside the Current Projects section with orange-brown links on a light gray background](https://pin.fontofweb.com/6529?format=jpg)](https://design.withfudge.com/share/pin-6529)
+[![Portrait photograph of Kyle Chayka in a blue t-shirt beside the Current Projects section with orange-brown links on a light gray background](https://pin.fontofweb.com/6529?format=jpg)](https://fudge.design/share/pin-6529)
 
-[Portrait photograph of Kyle Chayka in a blue t-shirt beside the Current Projects section with orange-brown links on a light gray background](https://design.withfudge.com/share/pin-6529)
+[Portrait photograph of Kyle Chayka in a blue t-shirt beside the Current Projects section with orange-brown links on a light gray background](https://fudge.design/share/pin-6529)
 
-[![Selected Journalism heading in large dark type above two-column list of article links with orange-brown underlined titles and publication dates](https://pin.fontofweb.com/6530?format=jpg)](https://design.withfudge.com/share/pin-6530)
+[![Selected Journalism heading in large dark type above two-column list of article links with orange-brown underlined titles and publication dates](https://pin.fontofweb.com/6530?format=jpg)](https://fudge.design/share/pin-6530)
 
-[Selected Journalism heading in large dark type above two-column list of article links with orange-brown underlined titles and publication dates](https://design.withfudge.com/share/pin-6530)
+[Selected Journalism heading in large dark type above two-column list of article links with orange-brown underlined titles and publication dates](https://fudge.design/share/pin-6530)
 
-[![Footer navigation with Info, Book, Archive links and contact information on a light gray background below article listings](https://pin.fontofweb.com/6531?format=jpg)](https://design.withfudge.com/share/pin-6531)
+[![Footer navigation with Info, Book, Archive links and contact information on a light gray background below article listings](https://pin.fontofweb.com/6531?format=jpg)](https://fudge.design/share/pin-6531)
 
-[Footer navigation with Info, Book, Archive links and contact information on a light gray background below article listings](https://design.withfudge.com/share/pin-6531)
+[Footer navigation with Info, Book, Archive links and contact information on a light gray background below article listings](https://fudge.design/share/pin-6531)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The portrait image in the upper content area should stack above its accompanying
 ## Scope note
 
 This guide covers the homepage and its visible sections: header, portrait introduction, current projects, books, selected journalism listings, and footer. Interior pages, article templates, and mobile breakpoints are not represented in the supplied material. Motion, hover states, focus indicators, and loading behavior are not documented. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

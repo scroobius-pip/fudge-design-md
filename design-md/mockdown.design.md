@@ -1,18 +1,18 @@
 # How mockdown.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mockdown.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/mockdown.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Left sidebar with tool categories, selected blue Select button, and grid canvas area showing the ASCII wireframe editor's dark interface with monospace typography](https://pin.fontofweb.com/6673?format=jpg)](https://design.withfudge.com/share/pin-6673)
+[![Left sidebar with tool categories, selected blue Select button, and grid canvas area showing the ASCII wireframe editor's dark interface with monospace typography](https://pin.fontofweb.com/6673?format=jpg)](https://fudge.design/share/pin-6673)
 
-[Left sidebar with tool categories, selected blue Select button, and grid canvas area showing the ASCII wireframe editor's dark interface with monospace typography](https://design.withfudge.com/share/pin-6673)
+[Left sidebar with tool categories, selected blue Select button, and grid canvas area showing the ASCII wireframe editor's dark interface with monospace typography](https://fudge.design/share/pin-6673)
 
-[![Canvas with drawn wireframe elements including a Dialog box, Title card, and OK button rendered in blue ASCII-style outlines on a grid background](https://pin.fontofweb.com/6672?format=jpg)](https://design.withfudge.com/share/pin-6672)
+[![Canvas with drawn wireframe elements including a Dialog box, Title card, and OK button rendered in blue ASCII-style outlines on a grid background](https://pin.fontofweb.com/6672?format=jpg)](https://fudge.design/share/pin-6672)
 
-[Canvas with drawn wireframe elements including a Dialog box, Title card, and OK button rendered in blue ASCII-style outlines on a grid background](https://design.withfudge.com/share/pin-6672)
+[Canvas with drawn wireframe elements including a Dialog box, Title card, and OK button rendered in blue ASCII-style outlines on a grid background](https://fudge.design/share/pin-6672)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Canvas zoom controls, if implemented, should maintain the grid snapping behavior
 ## Scope note
 
 This guide covers the desktop wireframe editor interface visible on the landing page, including the sidebar tool palette, canvas grid, and wireframe element rendering system. Mobile layouts, animation behavior, export functionality beyond the "Copy Markdown" button, and any settings or preference panels are not represented in the supplied images. The color and spacing values derive from direct interface measurement rather than photographic interpretation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Editor canvas](/share/designs-with-layout.archetype.editor_canvas)
+- [Side navigation](/share/designs-with-layout.shell.side_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

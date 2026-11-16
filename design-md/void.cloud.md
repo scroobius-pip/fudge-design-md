@@ -1,18 +1,18 @@
 # How void.cloud is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/void.cloud-design)
+[Open the live Fudge conversation](https://fudge.design/share/void.cloud-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, terminal-style UI mockup, and feature grid with icons on dark background](https://pin.fontofweb.com/8096?format=jpg)](https://design.withfudge.com/share/pin-8096)
+[![Hero section with large display headline, terminal-style UI mockup, and feature grid with icons on dark background](https://pin.fontofweb.com/8096?format=jpg)](https://fudge.design/share/pin-8096)
 
-[Hero section with large display headline, terminal-style UI mockup, and feature grid with icons on dark background](https://design.withfudge.com/share/pin-8096)
+[Hero section with large display headline, terminal-style UI mockup, and feature grid with icons on dark background](https://fudge.design/share/pin-8096)
 
-[![Footer with purple gradient CTA banner, company links, social icons, and copyright on near-black background](https://pin.fontofweb.com/8097?format=jpg)](https://design.withfudge.com/share/pin-8097)
+[![Footer with purple gradient CTA banner, company links, social icons, and copyright on near-black background](https://pin.fontofweb.com/8097?format=jpg)](https://fudge.design/share/pin-8097)
 
-[Footer with purple gradient CTA banner, company links, social icons, and copyright on near-black background](https://design.withfudge.com/share/pin-8097)
+[Footer with purple gradient CTA banner, company links, social icons, and copyright on near-black background](https://fudge.design/share/pin-8097)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Navigation should collapse to a compact menu or hamburger pattern, preserving th
 ## Scope note
 
 This guide covers the void.cloud landing page hero, feature grid, CTA banner, and footer as visible in the supplied captures. Navigation dropdowns, mobile breakpoints, form interactions, and interior pages are not represented. Motion behavior, hover states, and loading sequences are not documented. Measurements derive from the exact retained values in the design facts.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

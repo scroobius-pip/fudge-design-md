@@ -1,26 +1,26 @@
 # How heyquin.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/heyquin.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/heyquin.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion list with light gray question pills on warm off-white background, showing twelve expandable items with small square icons.](https://pin.fontofweb.com/4928?format=jpg)](https://design.withfudge.com/share/pin-4928)
+[![FAQ accordion list with light gray question pills on warm off-white background, showing twelve expandable items with small square icons.](https://pin.fontofweb.com/4928?format=jpg)](https://fudge.design/share/pin-4928)
 
-[FAQ accordion list with light gray question pills on warm off-white background, showing twelve expandable items with small square icons.](https://design.withfudge.com/share/pin-4928)
+[FAQ accordion list with light gray question pills on warm off-white background, showing twelve expandable items with small square icons.](https://fudge.design/share/pin-4928)
 
-[![Three-column pricing table with Lite, Standard, Ultimate tiers and a full-width Enterprise row, featuring yellow and blue CTA buttons and black pricing numerals.](https://pin.fontofweb.com/4927?format=jpg)](https://design.withfudge.com/share/pin-4927)
+[![Three-column pricing table with Lite, Standard, Ultimate tiers and a full-width Enterprise row, featuring yellow and blue CTA buttons and black pricing numerals.](https://pin.fontofweb.com/4927?format=jpg)](https://fudge.design/share/pin-4927)
 
-[Three-column pricing table with Lite, Standard, Ultimate tiers and a full-width Enterprise row, featuring yellow and blue CTA buttons and black pricing numerals.](https://design.withfudge.com/share/pin-4927)
+[Three-column pricing table with Lite, Standard, Ultimate tiers and a full-width Enterprise row, featuring yellow and blue CTA buttons and black pricing numerals.](https://fudge.design/share/pin-4927)
 
-[![Hero section with large serif headline 'Meet your dream assistant', yellow announcement banner, navigation bar, and tabbed feature showcase with phone mockup on wood surface.](https://pin.fontofweb.com/3849?format=jpg)](https://design.withfudge.com/share/pin-3849)
+[![Hero section with large serif headline 'Meet your dream assistant', yellow announcement banner, navigation bar, and tabbed feature showcase with phone mockup on wood surface.](https://pin.fontofweb.com/3849?format=jpg)](https://fudge.design/share/pin-3849)
 
-[Hero section with large serif headline 'Meet your dream assistant', yellow announcement banner, navigation bar, and tabbed feature showcase with phone mockup on wood surface.](https://design.withfudge.com/share/pin-3849)
+[Hero section with large serif headline 'Meet your dream assistant', yellow announcement banner, navigation bar, and tabbed feature showcase with phone mockup on wood surface.](https://fudge.design/share/pin-3849)
 
-[![Split-screen signup page with white form on left and blue gradient product illustration on right, showing CRM sync card with contact profile and activity feed.](https://pin.fontofweb.com/3848?format=jpg)](https://design.withfudge.com/share/pin-3848)
+[![Split-screen signup page with white form on left and blue gradient product illustration on right, showing CRM sync card with contact profile and activity feed.](https://pin.fontofweb.com/3848?format=jpg)](https://fudge.design/share/pin-3848)
 
-[Split-screen signup page with white form on left and blue gradient product illustration on right, showing CRM sync card with contact profile and activity feed.](https://design.withfudge.com/share/pin-3848)
+[Split-screen signup page with white form on left and blue gradient product illustration on right, showing CRM sync card with contact profile and activity feed.](https://fudge.design/share/pin-3848)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The navigation header likely collapses to a hamburger menu on mobile, though thi
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage hero, pricing page, FAQ section, and signup flow. Product dashboard interfaces, mobile navigation patterns, dark mode, loading states, and motion design are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

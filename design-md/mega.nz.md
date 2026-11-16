@@ -1,26 +1,26 @@
 # How mega.nz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mega.nz-design)
+[Open the live Fudge conversation](https://fudge.design/share/mega.nz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contacts empty-state modal with dark background, centered illustration, and primary action button with rounded corners](https://pin.fontofweb.com/8651?format=jpg)](https://design.withfudge.com/share/pin-8651)
+[![Contacts empty-state modal with dark background, centered illustration, and primary action button with rounded corners](https://pin.fontofweb.com/8651?format=jpg)](https://fudge.design/share/pin-8651)
 
-[Contacts empty-state modal with dark background, centered illustration, and primary action button with rounded corners](https://design.withfudge.com/share/pin-8651)
+[Contacts empty-state modal with dark background, centered illustration, and primary action button with rounded corners](https://fudge.design/share/pin-8651)
 
-[![Chat panel with tab navigation, empty-state illustration, and two stacked action buttons with distinct surface treatments](https://pin.fontofweb.com/8650?format=jpg)](https://design.withfudge.com/share/pin-8650)
+[![Chat panel with tab navigation, empty-state illustration, and two stacked action buttons with distinct surface treatments](https://pin.fontofweb.com/8650?format=jpg)](https://fudge.design/share/pin-8650)
 
-[Chat panel with tab navigation, empty-state illustration, and two stacked action buttons with distinct surface treatments](https://design.withfudge.com/share/pin-8650)
+[Chat panel with tab navigation, empty-state illustration, and two stacked action buttons with distinct surface treatments](https://fudge.design/share/pin-8650)
 
-[![Cloud drive toolbar with search input, icon buttons, and primary action buttons on dark surface](https://pin.fontofweb.com/8649?format=jpg)](https://design.withfudge.com/share/pin-8649)
+[![Cloud drive toolbar with search input, icon buttons, and primary action buttons on dark surface](https://pin.fontofweb.com/8649?format=jpg)](https://fudge.design/share/pin-8649)
 
-[Cloud drive toolbar with search input, icon buttons, and primary action buttons on dark surface](https://design.withfudge.com/share/pin-8649)
+[Cloud drive toolbar with search input, icon buttons, and primary action buttons on dark surface](https://fudge.design/share/pin-8649)
 
-[![Account settings page with sidebar navigation, storage dashboard, profile form, and toggle switches](https://pin.fontofweb.com/8647?format=jpg)](https://design.withfudge.com/share/pin-8647)
+[![Account settings page with sidebar navigation, storage dashboard, profile form, and toggle switches](https://pin.fontofweb.com/8647?format=jpg)](https://fudge.design/share/pin-8647)
 
-[Account settings page with sidebar navigation, storage dashboard, profile form, and toggle switches](https://design.withfudge.com/share/pin-8647)
+[Account settings page with sidebar navigation, storage dashboard, profile form, and toggle switches](https://fudge.design/share/pin-8647)
 
 ## Overview
 
@@ -223,3 +223,18 @@ Settings forms use two-column layouts for paired fields (first name/last name, b
 ## Scope note
 
 This guide covers the authenticated file manager, account settings, chat, and contacts surfaces of MEGA. Marketing pages, public file links, mobile native applications, and the light-mode variant are not represented in the supplied material. Motion design, loading states beyond static skeletons, and error page treatments are not documented. Measurements are derived from the retained interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Empty state](/share/designs-with-interaction.data_state.empty)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How maxitype.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/maxitype.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/maxitype.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with multi-column credits layout, address blocks, typeface list, and gray bottom bar with contact links](https://pin.fontofweb.com/5224?format=jpg)](https://design.withfudge.com/share/pin-5224)
+[![Footer section with multi-column credits layout, address blocks, typeface list, and gray bottom bar with contact links](https://pin.fontofweb.com/5224?format=jpg)](https://fudge.design/share/pin-5224)
 
-[Footer section with multi-column credits layout, address blocks, typeface list, and gray bottom bar with contact links](https://design.withfudge.com/share/pin-5224)
+[Footer section with multi-column credits layout, address blocks, typeface list, and gray bottom bar with contact links](https://fudge.design/share/pin-5224)
 
-[![Student discount promotional section with large green circular badge showing 77% and italic body text in two columns](https://pin.fontofweb.com/5223?format=jpg)](https://design.withfudge.com/share/pin-5223)
+[![Student discount promotional section with large green circular badge showing 77% and italic body text in two columns](https://pin.fontofweb.com/5223?format=jpg)](https://fudge.design/share/pin-5223)
 
-[Student discount promotional section with large green circular badge showing 77% and italic body text in two columns](https://design.withfudge.com/share/pin-5223)
+[Student discount promotional section with large green circular badge showing 77% and italic body text in two columns](https://fudge.design/share/pin-5223)
 
-[![About page hero with black navigation bar, green newsletter highlight, geometric grid artwork, and team member bios in four columns](https://pin.fontofweb.com/5222?format=jpg)](https://design.withfudge.com/share/pin-5222)
+[![About page hero with black navigation bar, green newsletter highlight, geometric grid artwork, and team member bios in four columns](https://pin.fontofweb.com/5222?format=jpg)](https://fudge.design/share/pin-5222)
 
-[About page hero with black navigation bar, green newsletter highlight, geometric grid artwork, and team member bios in four columns](https://design.withfudge.com/share/pin-5222)
+[About page hero with black navigation bar, green newsletter highlight, geometric grid artwork, and team member bios in four columns](https://fudge.design/share/pin-5222)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The multi-column layouts should collapse to single-column stacking on narrow vie
 ## Scope note
 
 This guide covers the About page surface including navigation, promotional content, team listings, and footer. Measurements are practical adaptation targets. Mobile layouts, hover states, focus styles, loading sequences, error handling, and the complete type specimen or shop interfaces are not represented in the supplied material. The generative artwork system and its animation behavior are described visually but not technically specified.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [About page](/share/designs-with-page.marketing.about)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

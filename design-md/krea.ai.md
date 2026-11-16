@@ -1,26 +1,26 @@
 # How krea.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/krea.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/krea.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with large display type and four-column plan cards on light canvas](https://pin.fontofweb.com/9749?format=jpg)](https://design.withfudge.com/share/pin-9749)
+[![Pricing page hero with large display type and four-column plan cards on light canvas](https://pin.fontofweb.com/9749?format=jpg)](https://fudge.design/share/pin-9749)
 
-[Pricing page hero with large display type and four-column plan cards on light canvas](https://design.withfudge.com/share/pin-9749)
+[Pricing page hero with large display type and four-column plan cards on light canvas](https://fudge.design/share/pin-9749)
 
-[![Business and Enterprise tier cards with slider control and dark inverted CTA](https://pin.fontofweb.com/9748?format=jpg)](https://design.withfudge.com/share/pin-9748)
+[![Business and Enterprise tier cards with slider control and dark inverted CTA](https://pin.fontofweb.com/9748?format=jpg)](https://fudge.design/share/pin-9748)
 
-[Business and Enterprise tier cards with slider control and dark inverted CTA](https://design.withfudge.com/share/pin-9748)
+[Business and Enterprise tier cards with slider control and dark inverted CTA](https://fudge.design/share/pin-9748)
 
-[![Dark-themed sign-up modal with OAuth buttons and generative art preview](https://pin.fontofweb.com/9747?format=jpg)](https://design.withfudge.com/share/pin-9747)
+[![Dark-themed sign-up modal with OAuth buttons and generative art preview](https://pin.fontofweb.com/9747?format=jpg)](https://fudge.design/share/pin-9747)
 
-[Dark-themed sign-up modal with OAuth buttons and generative art preview](https://design.withfudge.com/share/pin-9747)
+[Dark-themed sign-up modal with OAuth buttons and generative art preview](https://fudge.design/share/pin-9747)
 
-[![Moodboards feature section with layered imagery and dark immersive background](https://pin.fontofweb.com/9746?format=jpg)](https://design.withfudge.com/share/pin-9746)
+[![Moodboards feature section with layered imagery and dark immersive background](https://pin.fontofweb.com/9746?format=jpg)](https://fudge.design/share/pin-9746)
 
-[Moodboards feature section with layered imagery and dark immersive background](https://design.withfudge.com/share/pin-9746)
+[Moodboards feature section with layered imagery and dark immersive background](https://fudge.design/share/pin-9746)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Typography scales down modestly: hero-display reduces to 3rem, section-display t
 ## Scope note
 
 This guide covers the marketing and product landing surfaces visible in the supplied images, including pricing, authentication, and feature presentation. It does not include the in-app generation interface, real-time canvas, video editing timeline, or mobile-native layouts. Motion design for generative previews, hover states on interactive cards, and form validation feedback are not documented here.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

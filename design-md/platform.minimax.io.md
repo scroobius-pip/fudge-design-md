@@ -1,26 +1,26 @@
 # How platform.minimax.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/platform.minimax.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/platform.minimax.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with coral-red 3D illustration, Token Plan title, and feature pills on a vibrant gradient background](https://pin.fontofweb.com/8274?format=jpg)](https://design.withfudge.com/share/pin-8274)
+[![Hero banner with coral-red 3D illustration, Token Plan title, and feature pills on a vibrant gradient background](https://pin.fontofweb.com/8274?format=jpg)](https://fudge.design/share/pin-8274)
 
-[Hero banner with coral-red 3D illustration, Token Plan title, and feature pills on a vibrant gradient background](https://design.withfudge.com/share/pin-8274)
+[Hero banner with coral-red 3D illustration, Token Plan title, and feature pills on a vibrant gradient background](https://fudge.design/share/pin-8274)
 
-[![Six pricing cards in two rows showing Starter through Ultra tiers with black Purchase buttons and coral accent borders](https://pin.fontofweb.com/8275?format=jpg)](https://design.withfudge.com/share/pin-8275)
+[![Six pricing cards in two rows showing Starter through Ultra tiers with black Purchase buttons and coral accent borders](https://pin.fontofweb.com/8275?format=jpg)](https://fudge.design/share/pin-8275)
 
-[Six pricing cards in two rows showing Starter through Ultra tiers with black Purchase buttons and coral accent borders](https://design.withfudge.com/share/pin-8275)
+[Six pricing cards in two rows showing Starter through Ultra tiers with black Purchase buttons and coral accent borders](https://fudge.design/share/pin-8275)
 
-[![Coding tools integration section with MCP Tools cards and FAQ accordion on light gray background](https://pin.fontofweb.com/8277?format=jpg)](https://design.withfudge.com/share/pin-8277)
+[![Coding tools integration section with MCP Tools cards and FAQ accordion on light gray background](https://pin.fontofweb.com/8277?format=jpg)](https://fudge.design/share/pin-8277)
 
-[Coding tools integration section with MCP Tools cards and FAQ accordion on light gray background](https://design.withfudge.com/share/pin-8277)
+[Coding tools integration section with MCP Tools cards and FAQ accordion on light gray background](https://fudge.design/share/pin-8277)
 
-[![Invite & Earn promotional banner with coral-red background, 3D gift illustration, and white Start Invite button](https://pin.fontofweb.com/8276?format=jpg)](https://design.withfudge.com/share/pin-8276)
+[![Invite & Earn promotional banner with coral-red background, 3D gift illustration, and white Start Invite button](https://pin.fontofweb.com/8276?format=jpg)](https://fudge.design/share/pin-8276)
 
-[Invite & Earn promotional banner with coral-red background, 3D gift illustration, and white Start Invite button](https://design.withfudge.com/share/pin-8276)
+[Invite & Earn promotional banner with coral-red background, 3D gift illustration, and white Start Invite button](https://fudge.design/share/pin-8276)
 
 ## Overview
 
@@ -205,3 +205,18 @@ FAQ accordion items should expand to full width, eliminating the two-column layo
 ## Scope note
 
 This guide covers the Token Plan subscription page including hero banners, pricing tiers, tool integrations, MCP feature cards, and FAQ accordions. The Account dashboard, documentation pages, and checkout flow are not represented. Motion behavior, mobile-specific navigation patterns, and dark mode variants were not visible in the source material. Measurements are exact values from the retained interface record.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

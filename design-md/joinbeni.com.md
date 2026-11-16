@@ -1,26 +1,26 @@
 # How joinbeni.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joinbeni.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/joinbeni.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with oversized white BENI wordmark on black background, social icons, and legal links](https://pin.fontofweb.com/1130?format=jpg)](https://design.withfudge.com/share/pin-1130)
+[![Footer section with oversized white BENI wordmark on black background, social icons, and legal links](https://pin.fontofweb.com/1130?format=jpg)](https://fudge.design/share/pin-1130)
 
-[Footer section with oversized white BENI wordmark on black background, social icons, and legal links](https://design.withfudge.com/share/pin-1130)
+[Footer section with oversized white BENI wordmark on black background, social icons, and legal links](https://fudge.design/share/pin-1130)
 
-[![Social proof section with serif headline, user testimonial cards, and lifestyle photography on dark gradient](https://pin.fontofweb.com/1129?format=jpg)](https://design.withfudge.com/share/pin-1129)
+[![Social proof section with serif headline, user testimonial cards, and lifestyle photography on dark gradient](https://pin.fontofweb.com/1129?format=jpg)](https://fudge.design/share/pin-1129)
 
-[Social proof section with serif headline, user testimonial cards, and lifestyle photography on dark gradient](https://design.withfudge.com/share/pin-1129)
+[Social proof section with serif headline, user testimonial cards, and lifestyle photography on dark gradient](https://fudge.design/share/pin-1129)
 
-[![Media logo bar with TechCrunch, TODAY, Business Insider, marie claire, WWD, Good Morning America, Sourcing Journal on black](https://pin.fontofweb.com/1128?format=jpg)](https://design.withfudge.com/share/pin-1128)
+[![Media logo bar with TechCrunch, TODAY, Business Insider, marie claire, WWD, Good Morning America, Sourcing Journal on black](https://pin.fontofweb.com/1128?format=jpg)](https://fudge.design/share/pin-1128)
 
-[Media logo bar with TechCrunch, TODAY, Business Insider, marie claire, WWD, Good Morning America, Sourcing Journal on black](https://design.withfudge.com/share/pin-1128)
+[Media logo bar with TechCrunch, TODAY, Business Insider, marie claire, WWD, Good Morning America, Sourcing Journal on black](https://fudge.design/share/pin-1128)
 
-[![Feature showcase with phone mockups, serif headlines, body copy, and yellow-green action buttons on black](https://pin.fontofweb.com/1127?format=jpg)](https://design.withfudge.com/share/pin-1127)
+[![Feature showcase with phone mockups, serif headlines, body copy, and yellow-green action buttons on black](https://pin.fontofweb.com/1127?format=jpg)](https://fudge.design/share/pin-1127)
 
-[Feature showcase with phone mockups, serif headlines, body copy, and yellow-green action buttons on black](https://design.withfudge.com/share/pin-1127)
+[Feature showcase with phone mockups, serif headlines, body copy, and yellow-green action buttons on black](https://fudge.design/share/pin-1127)
 
 ## Overview
 
@@ -157,3 +157,18 @@ Phone mockup feature blocks should stack vertically on narrow screens, with copy
 ## Scope note
 
 This guide covers the joinbeni.com homepage visible in the supplied images, including the hero area, social proof section, media endorsement bar, feature showcases with phone mockups, and footer. Navigation header, interior pages, mobile-specific layouts, form interactions, and motion design are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

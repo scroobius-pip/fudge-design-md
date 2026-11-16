@@ -1,26 +1,26 @@
 # How figma.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/figma.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/figma.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Figma Make & Sites Gallery page showing a grid of community project cards with thumbnail images, creator names, and category tags beneath a large display headline and Filter](https://pin.fontofweb.com/8790?format=jpg)](https://design.withfudge.com/share/pin-8790)
+[![Figma Make & Sites Gallery page showing a grid of community project cards with thumbnail images, creator names, and category tags beneath a large display headline and Filter](https://pin.fontofweb.com/8790?format=jpg)](https://fudge.design/share/pin-8790)
 
-[Figma Make & Sites Gallery page showing a grid of community project cards with thumbnail images, creator names, and category tags beneath a large display headline and Filter](https://design.withfudge.com/share/pin-8790)
+[Figma Make & Sites Gallery page showing a grid of community project cards with thumbnail images, creator names, and category tags beneath a large display headline and Filter](https://fudge.design/share/pin-8790)
 
-[![Resource library article page for human-computer interaction with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents, and colorful abstract](https://pin.fontofweb.com/7973?format=jpg)](https://design.withfudge.com/share/pin-7973)
+[![Resource library article page for human-computer interaction with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents, and colorful abstract](https://pin.fontofweb.com/7973?format=jpg)](https://fudge.design/share/pin-7973)
 
-[Resource library article page for human-computer interaction with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents, and colorful abstract](https://design.withfudge.com/share/pin-7973)
+[Resource library article page for human-computer interaction with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents, and colorful abstract](https://fudge.design/share/pin-7973)
 
-[![Resource library article page for skeuomorphism with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents accordion, and body text with bullet](https://pin.fontofweb.com/7964?format=jpg)](https://design.withfudge.com/share/pin-7964)
+[![Resource library article page for skeuomorphism with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents accordion, and body text with bullet](https://pin.fontofweb.com/7964?format=jpg)](https://fudge.design/share/pin-7964)
 
-[Resource library article page for skeuomorphism with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents accordion, and body text with bullet](https://design.withfudge.com/share/pin-7964)
+[Resource library article page for skeuomorphism with a large display heading, breadcrumb navigation, sidebar explore menu, table of contents accordion, and body text with bullet](https://fudge.design/share/pin-7964)
 
-[![Figma Make & Sites Gallery page scrolled slightly downward showing the same card grid layout with project thumbnails, creator attribution, and category tags in a clean white space.](https://pin.fontofweb.com/8027?format=jpg)](https://design.withfudge.com/share/pin-8027)
+[![Figma Make & Sites Gallery page scrolled slightly downward showing the same card grid layout with project thumbnails, creator attribution, and category tags in a clean white space.](https://pin.fontofweb.com/8027?format=jpg)](https://fudge.design/share/pin-8027)
 
-[Figma Make & Sites Gallery page scrolled slightly downward showing the same card grid layout with project thumbnails, creator attribution, and category tags in a clean white space.](https://design.withfudge.com/share/pin-8027)
+[Figma Make & Sites Gallery page scrolled slightly downward showing the same card grid layout with project thumbnails, creator attribution, and category tags in a clean white space.](https://fudge.design/share/pin-8027)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The gallery grid should collapse from four columns to two columns at intermediat
 ## Scope note
 
 This guide covers the Figma.com gallery index and resource library article pages as visible in desktop viewport captures. Mobile breakpoints, dark mode, hover states, loading skeletons, form validation, and the complete icon set are not represented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

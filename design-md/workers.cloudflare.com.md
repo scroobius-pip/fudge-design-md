@@ -1,26 +1,26 @@
 # How workers.cloudflare.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/workers.cloudflare.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/workers.cloudflare.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page dark-mode comparison tables for Workers for Platforms and Durable Objects with subtle hairline row separators and muted column headers.](https://pin.fontofweb.com/7645?format=jpg)](https://design.withfudge.com/share/pin-7645)
+[![Pricing page dark-mode comparison tables for Workers for Platforms and Durable Objects with subtle hairline row separators and muted column headers.](https://pin.fontofweb.com/7645?format=jpg)](https://fudge.design/share/pin-7645)
 
-[Pricing page dark-mode comparison tables for Workers for Platforms and Durable Objects with subtle hairline row separators and muted column headers.](https://design.withfudge.com/share/pin-7645)
+[Pricing page dark-mode comparison tables for Workers for Platforms and Durable Objects with subtle hairline row separators and muted column headers.](https://fudge.design/share/pin-7645)
 
-[![Pricing page hero with orange Compute pill tab, Scale predictably headline, and dark card tables for Workers and Containers with dashed border containers.](https://pin.fontofweb.com/7644?format=jpg)](https://design.withfudge.com/share/pin-7644)
+[![Pricing page hero with orange Compute pill tab, Scale predictably headline, and dark card tables for Workers and Containers with dashed border containers.](https://pin.fontofweb.com/7644?format=jpg)](https://fudge.design/share/pin-7644)
 
-[Pricing page hero with orange Compute pill tab, Scale predictably headline, and dark card tables for Workers and Containers with dashed border containers.](https://design.withfudge.com/share/pin-7644)
+[Pricing page hero with orange Compute pill tab, Scale predictably headline, and dark card tables for Workers and Containers with dashed border containers.](https://fudge.design/share/pin-7644)
 
-[![Bright orange CTA section with Build without boundaries headline, white and orange pill buttons, and floating product icons on textured background.](https://pin.fontofweb.com/7643?format=jpg)](https://design.withfudge.com/share/pin-7643)
+[![Bright orange CTA section with Build without boundaries headline, white and orange pill buttons, and floating product icons on textured background.](https://pin.fontofweb.com/7643?format=jpg)](https://fudge.design/share/pin-7643)
 
-[Bright orange CTA section with Build without boundaries headline, white and orange pill buttons, and floating product icons on textured background.](https://design.withfudge.com/share/pin-7643)
+[Bright orange CTA section with Build without boundaries headline, white and orange pill buttons, and floating product icons on textured background.](https://fudge.design/share/pin-7643)
 
-[![Homepage feature grid with Tailored to your working style heading, orange accent cards, code editor preview, and dark UI cards with deployment status rows.](https://pin.fontofweb.com/7642?format=jpg)](https://design.withfudge.com/share/pin-7642)
+[![Homepage feature grid with Tailored to your working style heading, orange accent cards, code editor preview, and dark UI cards with deployment status rows.](https://pin.fontofweb.com/7642?format=jpg)](https://fudge.design/share/pin-7642)
 
-[Homepage feature grid with Tailored to your working style heading, orange accent cards, code editor preview, and dark UI cards with deployment status rows.](https://design.withfudge.com/share/pin-7642)
+[Homepage feature grid with Tailored to your working style heading, orange accent cards, code editor preview, and dark UI cards with deployment status rows.](https://fudge.design/share/pin-7642)
 
 ## Overview
 
@@ -204,3 +204,18 @@ The orange CTA section maintains its full-bleed character at all widths, with fl
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, animation specifications, form validation states, and documentation page layouts are not included. The 2px base unit and derived spacing values are exact from the source interface. Ft Kunst Grotesk Trial is present in source files but not used in active interface roles. Verify licensing for Ft Kunst Grotesk, Ft Kunst Grotesk Trial, and Apercu Mono Pro before production use.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

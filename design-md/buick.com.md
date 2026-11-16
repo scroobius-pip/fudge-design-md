@@ -1,26 +1,26 @@
 # How buick.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/buick.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/buick.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with orange plus icons and centered Buick Safety button on white background](https://pin.fontofweb.com/932?format=jpg)](https://design.withfudge.com/share/pin-932)
+[![FAQ accordion section with orange plus icons and centered Buick Safety button on white background](https://pin.fontofweb.com/932?format=jpg)](https://fudge.design/share/pin-932)
 
-[FAQ accordion section with orange plus icons and centered Buick Safety button on white background](https://design.withfudge.com/share/pin-932)
+[FAQ accordion section with orange plus icons and centered Buick Safety button on white background](https://fudge.design/share/pin-932)
 
-[![2025 Envision SUV split layout with interior cockpit photo and exterior vehicle image on light gray background](https://pin.fontofweb.com/931?format=jpg)](https://design.withfudge.com/share/pin-931)
+[![2025 Envision SUV split layout with interior cockpit photo and exterior vehicle image on light gray background](https://pin.fontofweb.com/931?format=jpg)](https://fudge.design/share/pin-931)
 
-[2025 Envision SUV split layout with interior cockpit photo and exterior vehicle image on light gray background](https://design.withfudge.com/share/pin-931)
+[2025 Envision SUV split layout with interior cockpit photo and exterior vehicle image on light gray background](https://fudge.design/share/pin-931)
 
-[![2026 Encore GX SUV with left-aligned text content and right-side interior dashboard photography](https://pin.fontofweb.com/930?format=jpg)](https://design.withfudge.com/share/pin-930)
+[![2026 Encore GX SUV with left-aligned text content and right-side interior dashboard photography](https://pin.fontofweb.com/930?format=jpg)](https://fudge.design/share/pin-930)
 
-[2026 Encore GX SUV with left-aligned text content and right-side interior dashboard photography](https://design.withfudge.com/share/pin-930)
+[2026 Encore GX SUV with left-aligned text content and right-side interior dashboard photography](https://fudge.design/share/pin-930)
 
-[![2025 Envista crossover SUV showcase with city skyline interior photo and blue exterior vehicle image](https://pin.fontofweb.com/929?format=jpg)](https://design.withfudge.com/share/pin-929)
+[![2025 Envista crossover SUV showcase with city skyline interior photo and blue exterior vehicle image](https://pin.fontofweb.com/929?format=jpg)](https://fudge.design/share/pin-929)
 
-[2025 Envista crossover SUV showcase with city skyline interior photo and blue exterior vehicle image](https://design.withfudge.com/share/pin-929)
+[2025 Envista crossover SUV showcase with city skyline interior photo and blue exterior vehicle image](https://fudge.design/share/pin-929)
 
 ## Overview
 
@@ -201,3 +201,18 @@ Section spacing may reduce from five rem to three rem on smaller viewports to pr
 ## Scope note
 
 This guide covers the SUV showcase and FAQ page surfaces visible in the supplied images. Header navigation, footer content, form interactions, vehicle configurator flows, and mobile-specific layouts are not represented. Motion behavior, loading states, and hover transitions are not documented from still images. Measurements are practical adaptation targets derived from visual estimation against the four-pixel relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

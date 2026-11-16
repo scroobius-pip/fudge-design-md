@@ -1,26 +1,26 @@
 # How are.na is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/are.na-design)
+[Open the live Fudge conversation](https://fudge.design/share/are.na-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![User profile page showing a grid of colorful image blocks against a pure black background with white navigation and minimal UI chrome](https://pin.fontofweb.com/4174?format=jpg)](https://design.withfudge.com/share/pin-4174)
+[![User profile page showing a grid of colorful image blocks against a pure black background with white navigation and minimal UI chrome](https://pin.fontofweb.com/4174?format=jpg)](https://fudge.design/share/pin-4174)
 
-[User profile page showing a grid of colorful image blocks against a pure black background with white navigation and minimal UI chrome](https://design.withfudge.com/share/pin-4174)
+[User profile page showing a grid of colorful image blocks against a pure black background with white navigation and minimal UI chrome](https://fudge.design/share/pin-4174)
 
-[![Testimonials section with white text quotes in rounded dark pill containers on a black background](https://pin.fontofweb.com/2938?format=jpg)](https://design.withfudge.com/share/pin-2938)
+[![Testimonials section with white text quotes in rounded dark pill containers on a black background](https://pin.fontofweb.com/2938?format=jpg)](https://fudge.design/share/pin-2938)
 
-[Testimonials section with white text quotes in rounded dark pill containers on a black background](https://design.withfudge.com/share/pin-2938)
+[Testimonials section with white text quotes in rounded dark pill containers on a black background](https://fudge.design/share/pin-2938)
 
-[![Road to self-sustainability section with progress bar showing blue gradient fill and white statistics text](https://pin.fontofweb.com/2937?format=jpg)](https://design.withfudge.com/share/pin-2937)
+[![Road to self-sustainability section with progress bar showing blue gradient fill and white statistics text](https://pin.fontofweb.com/2937?format=jpg)](https://fudge.design/share/pin-2937)
 
-[Road to self-sustainability section with progress bar showing blue gradient fill and white statistics text](https://design.withfudge.com/share/pin-2937)
+[Road to self-sustainability section with progress bar showing blue gradient fill and white statistics text](https://fudge.design/share/pin-2937)
 
-[![Pricing FAQs accordion with white text, chevron indicators, and expanded answer text on black background](https://pin.fontofweb.com/2936?format=jpg)](https://design.withfudge.com/share/pin-2936)
+[![Pricing FAQs accordion with white text, chevron indicators, and expanded answer text on black background](https://pin.fontofweb.com/2936?format=jpg)](https://fudge.design/share/pin-2936)
 
-[Pricing FAQs accordion with white text, chevron indicators, and expanded answer text on black background](https://design.withfudge.com/share/pin-2936)
+[Pricing FAQs accordion with white text, chevron indicators, and expanded answer text on black background](https://fudge.design/share/pin-2936)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The progress bar and its statistics should stack vertically on very narrow scree
 ## Scope note
 
 This guide covers the visible desktop surfaces of Are.na's profile, about, and informational pages. Mobile breakpoints, hover and focus states, loading skeletons, form validation, and channel editing interfaces are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid. The Areal Variable font family requires licensing verification before production use; attribution to Dinamo Typefaces GmbH is supported by the supplied source data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

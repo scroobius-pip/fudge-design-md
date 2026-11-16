@@ -1,26 +1,26 @@
 # How superpower.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/superpower.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/superpower.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Manifesto page with large orange hero image of a silhouetted figure in motion against a rounded-corner card, followed by a white content area with a bold heading and body text in](https://pin.fontofweb.com/182?format=jpg)](https://design.withfudge.com/share/pin-182)
+[![Manifesto page with large orange hero image of a silhouetted figure in motion against a rounded-corner card, followed by a white content area with a bold heading and body text in](https://pin.fontofweb.com/182?format=jpg)](https://fudge.design/share/pin-182)
 
-[Manifesto page with large orange hero image of a silhouetted figure in motion against a rounded-corner card, followed by a white content area with a bold heading and body text in](https://design.withfudge.com/share/pin-182)
+[Manifesto page with large orange hero image of a silhouetted figure in motion against a rounded-corner card, followed by a white content area with a bold heading and body text in](https://fudge.design/share/pin-182)
 
-[![Close-up of a health data visualization card showing a dark interface with a green status indicator, a line graph with circular markers, and date labels across the bottom.](https://pin.fontofweb.com/181?format=jpg)](https://design.withfudge.com/share/pin-181)
+[![Close-up of a health data visualization card showing a dark interface with a green status indicator, a line graph with circular markers, and date labels across the bottom.](https://pin.fontofweb.com/181?format=jpg)](https://fudge.design/share/pin-181)
 
-[Close-up of a health data visualization card showing a dark interface with a green status indicator, a line graph with circular markers, and date labels across the bottom.](https://design.withfudge.com/share/pin-181)
+[Close-up of a health data visualization card showing a dark interface with a green status indicator, a line graph with circular markers, and date labels across the bottom.](https://fudge.design/share/pin-181)
 
-[![Dark-themed mission section with large white heading, supporting text, and a centered health dashboard card showing biomarker tracking with green accent indicators.](https://pin.fontofweb.com/180?format=jpg)](https://design.withfudge.com/share/pin-180)
+[![Dark-themed mission section with large white heading, supporting text, and a centered health dashboard card showing biomarker tracking with green accent indicators.](https://pin.fontofweb.com/180?format=jpg)](https://fudge.design/share/pin-180)
 
-[Dark-themed mission section with large white heading, supporting text, and a centered health dashboard card showing biomarker tracking with green accent indicators.](https://design.withfudge.com/share/pin-180)
+[Dark-themed mission section with large white heading, supporting text, and a centered health dashboard card showing biomarker tracking with green accent indicators.](https://fudge.design/share/pin-180)
 
-[![Full-bleed hero image with a silhouetted profile against a vibrant orange gradient background, surrounded by a circular data visualization ring with colored accent bars.](https://pin.fontofweb.com/179?format=jpg)](https://design.withfudge.com/share/pin-179)
+[![Full-bleed hero image with a silhouetted profile against a vibrant orange gradient background, surrounded by a circular data visualization ring with colored accent bars.](https://pin.fontofweb.com/179?format=jpg)](https://fudge.design/share/pin-179)
 
-[Full-bleed hero image with a silhouetted profile against a vibrant orange gradient background, surrounded by a circular data visualization ring with colored accent bars.](https://design.withfudge.com/share/pin-179)
+[Full-bleed hero image with a silhouetted profile against a vibrant orange gradient background, surrounded by a circular data visualization ring with colored accent bars.](https://fudge.design/share/pin-179)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Typography scales down modestly on smaller viewports. The hero-display size may 
 ## Scope note
 
 This guide covers the landing page, manifesto, and health dashboard surfaces visible in the supplied images. Member stories, biomarker detail pages, and navigation patterns are not represented. Motion behavior, form interactions, and mobile-specific layouts are not documented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

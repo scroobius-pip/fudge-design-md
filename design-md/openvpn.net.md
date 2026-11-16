@@ -1,22 +1,22 @@
 # How openvpn.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openvpn.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/openvpn.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with 3D network topology illustration, headline "Secure Access for Every Employee, Everywhere", and dual CTA buttons on light gray canvas](https://pin.fontofweb.com/5007?format=jpg)](https://design.withfudge.com/share/pin-5007)
+[![Hero section with 3D network topology illustration, headline "Secure Access for Every Employee, Everywhere", and dual CTA buttons on light gray canvas](https://pin.fontofweb.com/5007?format=jpg)](https://fudge.design/share/pin-5007)
 
-[Hero section with 3D network topology illustration, headline "Secure Access for Every Employee, Everywhere", and dual CTA buttons on light gray canvas](https://design.withfudge.com/share/pin-5007)
+[Hero section with 3D network topology illustration, headline "Secure Access for Every Employee, Everywhere", and dual CTA buttons on light gray canvas](https://fudge.design/share/pin-5007)
 
-[![Dark navy promotional banner with 68% statistic, human-element breach claim, and orange "Get Started for Free" CTA button](https://pin.fontofweb.com/5008?format=jpg)](https://design.withfudge.com/share/pin-5008)
+[![Dark navy promotional banner with 68% statistic, human-element breach claim, and orange "Get Started for Free" CTA button](https://pin.fontofweb.com/5008?format=jpg)](https://fudge.design/share/pin-5008)
 
-[Dark navy promotional banner with 68% statistic, human-element breach claim, and orange "Get Started for Free" CTA button](https://design.withfudge.com/share/pin-5008)
+[Dark navy promotional banner with 68% statistic, human-element breach claim, and orange "Get Started for Free" CTA button](https://fudge.design/share/pin-5008)
 
-[![Footer with five-column link grid, OpenVPN logo, social icons, Service Status badge, and copyright legal row](https://pin.fontofweb.com/5009?format=jpg)](https://design.withfudge.com/share/pin-5009)
+[![Footer with five-column link grid, OpenVPN logo, social icons, Service Status badge, and copyright legal row](https://pin.fontofweb.com/5009?format=jpg)](https://fudge.design/share/pin-5009)
 
-[Footer with five-column link grid, OpenVPN logo, social icons, Service Status badge, and copyright legal row](https://design.withfudge.com/share/pin-5009)
+[Footer with five-column link grid, OpenVPN logo, social icons, Service Status badge, and copyright legal row](https://fudge.design/share/pin-5009)
 
 ## Overview
 
@@ -202,3 +202,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the OpenVPN homepage marketing surface including hero, feature introduction, promotional statistics banner, and comprehensive footer. Pricing pages, product dashboards, documentation, and account management interfaces are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications. Mobile breakpoints, animation behavior, and form validation states are not covered and should be validated against live implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

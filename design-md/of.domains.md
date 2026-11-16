@@ -1,26 +1,26 @@
 # How of.domains is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/of.domains-design)
+[Open the live Fudge conversation](https://fudge.design/share/of.domains-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Four-panel grid with centered philosophical statements in black serif type on warm off-white squares, establishing the site's contemplative tone.](https://pin.fontofweb.com/8356?format=jpg)](https://design.withfudge.com/share/pin-8356)
+[![Four-panel grid with centered philosophical statements in black serif type on warm off-white squares, establishing the site's contemplative tone.](https://pin.fontofweb.com/8356?format=jpg)](https://fudge.design/share/pin-8356)
 
-[Four-panel grid with centered philosophical statements in black serif type on warm off-white squares, establishing the site's contemplative tone.](https://design.withfudge.com/share/pin-8356)
+[Four-panel grid with centered philosophical statements in black serif type on warm off-white squares, establishing the site's contemplative tone.](https://fudge.design/share/pin-8356)
 
-[![How it works section with left-aligned serif heading, monospace process diagram with horizontal rules, and centered manifesto statement below.](https://pin.fontofweb.com/8355?format=jpg)](https://design.withfudge.com/share/pin-8355)
+[![How it works section with left-aligned serif heading, monospace process diagram with horizontal rules, and centered manifesto statement below.](https://pin.fontofweb.com/8355?format=jpg)](https://fudge.design/share/pin-8355)
 
-[How it works section with left-aligned serif heading, monospace process diagram with horizontal rules, and centered manifesto statement below.](https://design.withfudge.com/share/pin-8355)
+[How it works section with left-aligned serif heading, monospace process diagram with horizontal rules, and centered manifesto statement below.](https://fudge.design/share/pin-8355)
 
-[![Tiered domain pricing table with section labels in serif, monospace data rows with buyout and subscription pricing, and black CTA button.](https://pin.fontofweb.com/8354?format=jpg)](https://design.withfudge.com/share/pin-8354)
+[![Tiered domain pricing table with section labels in serif, monospace data rows with buyout and subscription pricing, and black CTA button.](https://pin.fontofweb.com/8354?format=jpg)](https://fudge.design/share/pin-8354)
 
-[Tiered domain pricing table with section labels in serif, monospace data rows with buyout and subscription pricing, and black CTA button.](https://design.withfudge.com/share/pin-8354)
+[Tiered domain pricing table with section labels in serif, monospace data rows with buyout and subscription pricing, and black CTA button.](https://fudge.design/share/pin-8354)
 
-[![Email subscription section with centered serif question, monospace label, light input field, and solid black subscribe button.](https://pin.fontofweb.com/8353?format=jpg)](https://design.withfudge.com/share/pin-8353)
+[![Email subscription section with centered serif question, monospace label, light input field, and solid black subscribe button.](https://pin.fontofweb.com/8353?format=jpg)](https://fudge.design/share/pin-8353)
 
-[Email subscription section with centered serif question, monospace label, light input field, and solid black subscribe button.](https://design.withfudge.com/share/pin-8353)
+[Email subscription section with centered serif question, monospace label, light input field, and solid black subscribe button.](https://fudge.design/share/pin-8353)
 
 ## Overview
 
@@ -164,3 +164,18 @@ The generous section padding should reduce proportionally: 16rem on desktop can 
 ## Scope note
 
 This guide covers the landing page surface of of.domains, including the hero grid, process explanation, tiered domain pricing, and email subscription sections. Navigation behavior, mobile breakpoints, hover and focus states, form validation, and interior pages are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

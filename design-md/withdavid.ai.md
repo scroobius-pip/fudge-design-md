@@ -1,26 +1,26 @@
 # How withdavid.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/withdavid.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/withdavid.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News page with left sidebar navigation, large serif page title, and funding announcement cards with colorful bar graphics on warm off-white background](https://pin.fontofweb.com/5460?format=jpg)](https://design.withfudge.com/share/pin-5460)
+[![News page with left sidebar navigation, large serif page title, and funding announcement cards with colorful bar graphics on warm off-white background](https://pin.fontofweb.com/5460?format=jpg)](https://fudge.design/share/pin-5460)
 
-[News page with left sidebar navigation, large serif page title, and funding announcement cards with colorful bar graphics on warm off-white background](https://design.withfudge.com/share/pin-5460)
+[News page with left sidebar navigation, large serif page title, and funding announcement cards with colorful bar graphics on warm off-white background](https://fudge.design/share/pin-5460)
 
-[![Contact page with left sidebar, stacked form fields with light placeholders, dark submit pill button, and colorful striped illustration on the right](https://pin.fontofweb.com/5459?format=jpg)](https://design.withfudge.com/share/pin-5459)
+[![Contact page with left sidebar, stacked form fields with light placeholders, dark submit pill button, and colorful striped illustration on the right](https://pin.fontofweb.com/5459?format=jpg)](https://fudge.design/share/pin-5459)
 
-[Contact page with left sidebar, stacked form fields with light placeholders, dark submit pill button, and colorful striped illustration on the right](https://design.withfudge.com/share/pin-5459)
+[Contact page with left sidebar, stacked form fields with light placeholders, dark submit pill button, and colorful striped illustration on the right](https://fudge.design/share/pin-5459)
 
-[![Process step section with roman numeral labels, serif headings, muted body text, and abstract circular striped artwork with gradient accent on warm cream background](https://pin.fontofweb.com/5458?format=jpg)](https://design.withfudge.com/share/pin-5458)
+[![Process step section with roman numeral labels, serif headings, muted body text, and abstract circular striped artwork with gradient accent on warm cream background](https://pin.fontofweb.com/5458?format=jpg)](https://fudge.design/share/pin-5458)
 
-[Process step section with roman numeral labels, serif headings, muted body text, and abstract circular striped artwork with gradient accent on warm cream background](https://design.withfudge.com/share/pin-5458)
+[Process step section with roman numeral labels, serif headings, muted body text, and abstract circular striped artwork with gradient accent on warm cream background](https://fudge.design/share/pin-5458)
 
-[![Dark brown footer section with outlined icons, numbered steps, and a light pill button on deep espresso background with warm gray text](https://pin.fontofweb.com/5457?format=jpg)](https://design.withfudge.com/share/pin-5457)
+[![Dark brown footer section with outlined icons, numbered steps, and a light pill button on deep espresso background with warm gray text](https://pin.fontofweb.com/5457?format=jpg)](https://fudge.design/share/pin-5457)
 
-[Dark brown footer section with outlined icons, numbered steps, and a light pill button on deep espresso background with warm gray text](https://design.withfudge.com/share/pin-5457)
+[Dark brown footer section with outlined icons, numbered steps, and a light pill button on deep espresso background with warm gray text](https://fudge.design/share/pin-5457)
 
 ## Overview
 
@@ -201,3 +201,18 @@ The sidebar navigation should collapse to a horizontal header or hamburger menu 
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage, news, and contact pages. Product interfaces, dataset browsing tools, documentation, mobile navigation behavior, and motion design are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop experience.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

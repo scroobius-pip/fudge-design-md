@@ -1,26 +1,26 @@
 # How kobbe.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kobbe.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/kobbe.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Promotional modal overlay with serif headline, coral accent word, and dark action button on light background](https://pin.fontofweb.com/10175?format=jpg)](https://design.withfudge.com/share/pin-10175)
+[![Promotional modal overlay with serif headline, coral accent word, and dark action button on light background](https://pin.fontofweb.com/10175?format=jpg)](https://fudge.design/share/pin-10175)
 
-[Promotional modal overlay with serif headline, coral accent word, and dark action button on light background](https://design.withfudge.com/share/pin-10175)
+[Promotional modal overlay with serif headline, coral accent word, and dark action button on light background](https://fudge.design/share/pin-10175)
 
-[![Hero section with heatmap visualization frame, serif display typography, and multi-column footer on dark background](https://pin.fontofweb.com/10123?format=jpg)](https://design.withfudge.com/share/pin-10123)
+[![Hero section with heatmap visualization frame, serif display typography, and multi-column footer on dark background](https://pin.fontofweb.com/10123?format=jpg)](https://fudge.design/share/pin-10123)
 
-[Hero section with heatmap visualization frame, serif display typography, and multi-column footer on dark background](https://design.withfudge.com/share/pin-10123)
+[Hero section with heatmap visualization frame, serif display typography, and multi-column footer on dark background](https://fudge.design/share/pin-10123)
 
-[![FAQ section with italic serif heading, accordion items with chevron indicators, and muted body text on dark background](https://pin.fontofweb.com/10122?format=jpg)](https://design.withfudge.com/share/pin-10122)
+[![FAQ section with italic serif heading, accordion items with chevron indicators, and muted body text on dark background](https://pin.fontofweb.com/10122?format=jpg)](https://fudge.design/share/pin-10122)
 
-[FAQ section with italic serif heading, accordion items with chevron indicators, and muted body text on dark background](https://design.withfudge.com/share/pin-10122)
+[FAQ section with italic serif heading, accordion items with chevron indicators, and muted body text on dark background](https://fudge.design/share/pin-10122)
 
-[![Pricing comparison table with italic serif column headers, checkmark indicators, and alternating row surfaces on dark background](https://pin.fontofweb.com/10121?format=jpg)](https://design.withfudge.com/share/pin-10121)
+[![Pricing comparison table with italic serif column headers, checkmark indicators, and alternating row surfaces on dark background](https://pin.fontofweb.com/10121?format=jpg)](https://fudge.design/share/pin-10121)
 
-[Pricing comparison table with italic serif column headers, checkmark indicators, and alternating row surfaces on dark background](https://design.withfudge.com/share/pin-10121)
+[Pricing comparison table with italic serif column headers, checkmark indicators, and alternating row surfaces on dark background](https://fudge.design/share/pin-10121)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Navigation collapses to a hamburger menu or simplified link list below desktop b
 ## Scope note
 
 This guide covers the Kobbe landing page including the hero section, feature explanations, pricing comparison, FAQ accordion, footer navigation, and promotional modal. Measurements are derived from the exact values present in the interface. Mobile breakpoints, additional interior pages, dashboard interfaces, and motion specifications are not included. Verify licensing for Lt Remark, Lt Remark-Italic, Inter, and Applesystem before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

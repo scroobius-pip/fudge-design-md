@@ -1,26 +1,26 @@
 # How masterselects.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/masterselects.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/masterselects.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full application workspace showing three-panel layout with dark canvas, left properties sidebar, right export panel, and bottom timeline with video tracks](https://pin.fontofweb.com/6250?format=jpg)](https://design.withfudge.com/share/pin-6250)
+[![Full application workspace showing three-panel layout with dark canvas, left properties sidebar, right export panel, and bottom timeline with video tracks](https://pin.fontofweb.com/6250?format=jpg)](https://fudge.design/share/pin-6250)
 
-[Full application workspace showing three-panel layout with dark canvas, left properties sidebar, right export panel, and bottom timeline with video tracks](https://design.withfudge.com/share/pin-6250)
+[Full application workspace showing three-panel layout with dark canvas, left properties sidebar, right export panel, and bottom timeline with video tracks](https://fudge.design/share/pin-6250)
 
-[![Changelog modal overlay with version header, filter pills, blue info banner, and grouped feature entries with status icons](https://pin.fontofweb.com/6248?format=jpg)](https://design.withfudge.com/share/pin-6248)
+[![Changelog modal overlay with version header, filter pills, blue info banner, and grouped feature entries with status icons](https://pin.fontofweb.com/6248?format=jpg)](https://fudge.design/share/pin-6248)
 
-[Changelog modal overlay with version header, filter pills, blue info banner, and grouped feature entries with status icons](https://design.withfudge.com/share/pin-6248)
+[Changelog modal overlay with version header, filter pills, blue info banner, and grouped feature entries with status icons](https://fudge.design/share/pin-6248)
 
-[![Right-side export panel detail showing encoder settings, video codec options, audio controls, and track addition buttons](https://pin.fontofweb.com/6252?format=jpg)](https://design.withfudge.com/share/pin-6252)
+[![Right-side export panel detail showing encoder settings, video codec options, audio controls, and track addition buttons](https://pin.fontofweb.com/6252?format=jpg)](https://fudge.design/share/pin-6252)
 
-[Right-side export panel detail showing encoder settings, video codec options, audio controls, and track addition buttons](https://design.withfudge.com/share/pin-6252)
+[Right-side export panel detail showing encoder settings, video codec options, audio controls, and track addition buttons](https://fudge.design/share/pin-6252)
 
-[![Bottom timeline section showing playhead at start, time ruler with five-second intervals, and stacked video and audio tracks](https://pin.fontofweb.com/6251?format=jpg)](https://design.withfudge.com/share/pin-6251)
+[![Bottom timeline section showing playhead at start, time ruler with five-second intervals, and stacked video and audio tracks](https://pin.fontofweb.com/6251?format=jpg)](https://fudge.design/share/pin-6251)
 
-[Bottom timeline section showing playhead at start, time ruler with five-second intervals, and stacked video and audio tracks](https://design.withfudge.com/share/pin-6251)
+[Bottom timeline section showing playhead at start, time ruler with five-second intervals, and stacked video and audio tracks](https://fudge.design/share/pin-6251)
 
 ## Overview
 
@@ -149,3 +149,18 @@ Modal dialogs should constrain maximum width to 640 pixels centered, with intern
 ## Scope note
 
 This guide covers the primary editing workspace, export panel, timeline, and changelog modal visible in the captured interface. Mobile layouts, audio waveform visualization, color grading tools, and collaborative features are not represented. Keyboard shortcut overlays, custom workspace arrangements, and plugin extension interfaces fall outside current coverage.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editor workspace](/share/designs-with-page.application.editor_workspace)
+- [Editor canvas](/share/designs-with-layout.archetype.editor_canvas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

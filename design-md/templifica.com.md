@@ -1,26 +1,26 @@
 # How templifica.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/templifica.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/templifica.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, neon yellow highlight on 'in minutes', checkmark feature list, and dark primary action button on light background](https://pin.fontofweb.com/3376?format=jpg)](https://design.withfudge.com/share/pin-3376)
+[![Hero section with large display headline, neon yellow highlight on 'in minutes', checkmark feature list, and dark primary action button on light background](https://pin.fontofweb.com/3376?format=jpg)](https://fudge.design/share/pin-3376)
 
-[Hero section with large display headline, neon yellow highlight on 'in minutes', checkmark feature list, and dark primary action button on light background](https://design.withfudge.com/share/pin-3376)
+[Hero section with large display headline, neon yellow highlight on 'in minutes', checkmark feature list, and dark primary action button on light background](https://fudge.design/share/pin-3376)
 
-[![Blog index page with oversized section heading, three-column card grid with rounded image thumbnails, date labels, and article titles](https://pin.fontofweb.com/3375?format=jpg)](https://design.withfudge.com/share/pin-3375)
+[![Blog index page with oversized section heading, three-column card grid with rounded image thumbnails, date labels, and article titles](https://pin.fontofweb.com/3375?format=jpg)](https://fudge.design/share/pin-3375)
 
-[Blog index page with oversized section heading, three-column card grid with rounded image thumbnails, date labels, and article titles](https://design.withfudge.com/share/pin-3375)
+[Blog index page with oversized section heading, three-column card grid with rounded image thumbnails, date labels, and article titles](https://fudge.design/share/pin-3375)
 
-[![Dark footer section with large white display text, email signup form with neon accent, navigation columns, and social links](https://pin.fontofweb.com/3374?format=jpg)](https://design.withfudge.com/share/pin-3374)
+[![Dark footer section with large white display text, email signup form with neon accent, navigation columns, and social links](https://pin.fontofweb.com/3374?format=jpg)](https://fudge.design/share/pin-3374)
 
-[Dark footer section with large white display text, email signup form with neon accent, navigation columns, and social links](https://design.withfudge.com/share/pin-3374)
+[Dark footer section with large white display text, email signup form with neon accent, navigation columns, and social links](https://fudge.design/share/pin-3374)
 
-[![Pricing card with product thumbnails, neon 'Best value' badge, dark action button with lightning icon, and checkmark feature list](https://pin.fontofweb.com/3373?format=jpg)](https://design.withfudge.com/share/pin-3373)
+[![Pricing card with product thumbnails, neon 'Best value' badge, dark action button with lightning icon, and checkmark feature list](https://pin.fontofweb.com/3373?format=jpg)](https://fudge.design/share/pin-3373)
 
-[Pricing card with product thumbnails, neon 'Best value' badge, dark action button with lightning icon, and checkmark feature list](https://design.withfudge.com/share/pin-3373)
+[Pricing card with product thumbnails, neon 'Best value' badge, dark action button with lightning icon, and checkmark feature list](https://fudge.design/share/pin-3373)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Dark sections like the footer should maintain their surface-inverse background a
 ## Scope note
 
 This guide covers the homepage and blog index surfaces visible in the supplied images, including hero sections, card grids, pricing presentation, and footer navigation. Template detail pages, checkout flows, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. Motion behavior, hover states, and form validation styling are not documented and should be designed to match the system's bold, clean character. The family False is named in the supplied sources but does not appear in the visible interface documented here.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

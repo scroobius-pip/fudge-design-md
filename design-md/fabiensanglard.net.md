@@ -1,26 +1,26 @@
 # How fabiensanglard.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fabiensanglard.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/fabiensanglard.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage with centered site title, navigation links, and chronological article index in monospace typography on light background](https://pin.fontofweb.com/4776?format=jpg)](https://design.withfudge.com/share/pin-4776)
+[![Homepage with centered site title, navigation links, and chronological article index in monospace typography on light background](https://pin.fontofweb.com/4776?format=jpg)](https://fudge.design/share/pin-4776)
 
-[Homepage with centered site title, navigation links, and chronological article index in monospace typography on light background](https://design.withfudge.com/share/pin-4776)
+[Homepage with centered site title, navigation links, and chronological article index in monospace typography on light background](https://fudge.design/share/pin-4776)
 
-[![Technical article with code block, system architecture diagram with colored layers, and blockquote with dotted border](https://pin.fontofweb.com/4775?format=jpg)](https://design.withfudge.com/share/pin-4775)
+[![Technical article with code block, system architecture diagram with colored layers, and blockquote with dotted border](https://pin.fontofweb.com/4775?format=jpg)](https://fudge.design/share/pin-4775)
 
-[Technical article with code block, system architecture diagram with colored layers, and blockquote with dotted border](https://design.withfudge.com/share/pin-4775)
+[Technical article with code block, system architecture diagram with colored layers, and blockquote with dotted border](https://fudge.design/share/pin-4775)
 
-[![References section with numbered citations, underlined hyperlinks, and caret markers in monospace text](https://pin.fontofweb.com/4774?format=jpg)](https://design.withfudge.com/share/pin-4774)
+[![References section with numbered citations, underlined hyperlinks, and caret markers in monospace text](https://pin.fontofweb.com/4774?format=jpg)](https://fudge.design/share/pin-4774)
 
-[References section with numbered citations, underlined hyperlinks, and caret markers in monospace text](https://design.withfudge.com/share/pin-4774)
+[References section with numbered citations, underlined hyperlinks, and caret markers in monospace text](https://fudge.design/share/pin-4774)
 
-[![Article body with italic blockquotes, dashed borders, and narrative text about Super Nintendo development](https://pin.fontofweb.com/4773?format=jpg)](https://design.withfudge.com/share/pin-4773)
+[![Article body with italic blockquotes, dashed borders, and narrative text about Super Nintendo development](https://pin.fontofweb.com/4773?format=jpg)](https://fudge.design/share/pin-4773)
 
-[Article body with italic blockquotes, dashed borders, and narrative text about Super Nintendo development](https://design.withfudge.com/share/pin-4773)
+[Article body with italic blockquotes, dashed borders, and narrative text about Super Nintendo development](https://fudge.design/share/pin-4773)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The visible system shows a desktop-optimized layout with a centered content well
 ## Scope note
 
 This guide covers the homepage article index and interior article page surfaces visible in the supplied images. Footer elements, pagination, search functionality, archive pages, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. No motion, interaction states, or dark mode variants are documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Article page](/share/designs-with-page.content.article)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How desktopneo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/desktopneo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/desktopneo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Voice section with blue VOICE badge, large display heading, body text in two columns, and horizontal command tag pills at bottom](https://pin.fontofweb.com/3819?format=jpg)](https://design.withfudge.com/share/pin-3819)
+[![Voice section with blue VOICE badge, large display heading, body text in two columns, and horizontal command tag pills at bottom](https://pin.fontofweb.com/3819?format=jpg)](https://fudge.design/share/pin-3819)
 
-[Voice section with blue VOICE badge, large display heading, body text in two columns, and horizontal command tag pills at bottom](https://design.withfudge.com/share/pin-3819)
+[Voice section with blue VOICE badge, large display heading, body text in two columns, and horizontal command tag pills at bottom](https://fudge.design/share/pin-3819)
 
-[![Gesture overview grid with blue badge, eight gesture cards with dot-pattern icons on light gray tiles, and muted instructional text](https://pin.fontofweb.com/3818?format=jpg)](https://design.withfudge.com/share/pin-3818)
+[![Gesture overview grid with blue badge, eight gesture cards with dot-pattern icons on light gray tiles, and muted instructional text](https://pin.fontofweb.com/3818?format=jpg)](https://fudge.design/share/pin-3818)
 
-[Gesture overview grid with blue badge, eight gesture cards with dot-pattern icons on light gray tiles, and muted instructional text](https://design.withfudge.com/share/pin-3818)
+[Gesture overview grid with blue badge, eight gesture cards with dot-pattern icons on light gray tiles, and muted instructional text](https://fudge.design/share/pin-3818)
 
-[![Finder interface mockup on blue gradient background with white panel, search bar, content cards, sidebar sections, and feature descriptions](https://pin.fontofweb.com/3808?format=jpg)](https://design.withfudge.com/share/pin-3808)
+[![Finder interface mockup on blue gradient background with white panel, search bar, content cards, sidebar sections, and feature descriptions](https://pin.fontofweb.com/3808?format=jpg)](https://fudge.design/share/pin-3808)
 
-[Finder interface mockup on blue gradient background with white panel, search bar, content cards, sidebar sections, and feature descriptions](https://design.withfudge.com/share/pin-3808)
+[Finder interface mockup on blue gradient background with white panel, search bar, content cards, sidebar sections, and feature descriptions](https://fudge.design/share/pin-3808)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The design appears optimized for desktop presentation, with layouts that assume 
 ## Scope note
 
 This guide covers the landing page presentation of Desktop Neo's productivity concepts, including the voice interaction section, gesture overview, and Finder feature demonstration. Measurements are practical adaptation targets. Mobile breakpoints, animation behavior, form interactions, and additional page surfaces are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

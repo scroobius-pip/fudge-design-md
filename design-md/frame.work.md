@@ -1,26 +1,26 @@
 # How frame.work is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/frame.work-design)
+[Open the live Fudge conversation](https://fudge.design/share/frame.work-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Newsletter subscription section with pixel-art envelope illustration and email input field on black background](https://pin.fontofweb.com/9024?format=jpg)](https://design.withfudge.com/share/pin-9024)
+[![Newsletter subscription section with pixel-art envelope illustration and email input field on black background](https://pin.fontofweb.com/9024?format=jpg)](https://fudge.design/share/pin-9024)
 
-[Newsletter subscription section with pixel-art envelope illustration and email input field on black background](https://design.withfudge.com/share/pin-9024)
+[Newsletter subscription section with pixel-art envelope illustration and email input field on black background](https://fudge.design/share/pin-9024)
 
-[![Exploded laptop parts layout showing keyboard, memory modules, and components with upgrade messaging](https://pin.fontofweb.com/9023?format=jpg)](https://design.withfudge.com/share/pin-9023)
+[![Exploded laptop parts layout showing keyboard, memory modules, and components with upgrade messaging](https://pin.fontofweb.com/9023?format=jpg)](https://fudge.design/share/pin-9023)
 
-[Exploded laptop parts layout showing keyboard, memory modules, and components with upgrade messaging](https://design.withfudge.com/share/pin-9023)
+[Exploded laptop parts layout showing keyboard, memory modules, and components with upgrade messaging](https://fudge.design/share/pin-9023)
 
-[![DIY Edition and Pre-built product cards with orange accent background and Ubuntu certification badge](https://pin.fontofweb.com/9022?format=jpg)](https://design.withfudge.com/share/pin-9022)
+[![DIY Edition and Pre-built product cards with orange accent background and Ubuntu certification badge](https://pin.fontofweb.com/9022?format=jpg)](https://fudge.design/share/pin-9022)
 
-[DIY Edition and Pre-built product cards with orange accent background and Ubuntu certification badge](https://design.withfudge.com/share/pin-9022)
+[DIY Edition and Pre-built product cards with orange accent background and Ubuntu certification badge](https://fudge.design/share/pin-9022)
 
-[![Keyboard feature section with transparent laptop displaying code editor and detailed key layout](https://pin.fontofweb.com/9021?format=jpg)](https://design.withfudge.com/share/pin-9021)
+[![Keyboard feature section with transparent laptop displaying code editor and detailed key layout](https://pin.fontofweb.com/9021?format=jpg)](https://fudge.design/share/pin-9021)
 
-[Keyboard feature section with transparent laptop displaying code editor and detailed key layout](https://design.withfudge.com/share/pin-9021)
+[Keyboard feature section with transparent laptop displaying code editor and detailed key layout](https://fudge.design/share/pin-9021)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The newsletter section's centered composition adapts well to narrow viewports, t
 ## Scope note
 
 This guide covers the Framework Laptop 13 Pro product page marketing surface. It does not include checkout flows, account interfaces, documentation pages, or mobile-specific adaptations. Motion behavior, loading states, and form validation styling are not represented in the imagery. The system is presented as a desktop-first experience; tablet and mobile implementations should be validated against additional breakpoints.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Product detail](/share/designs-with-page.commerce.product_detail)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How revenuecat.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/revenuecat.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/revenuecat.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with expanded pricing questions and blue active text on light gray background](https://pin.fontofweb.com/4610?format=jpg)](https://design.withfudge.com/share/pin-4610)
+[![FAQ accordion section with expanded pricing questions and blue active text on light gray background](https://pin.fontofweb.com/4610?format=jpg)](https://fudge.design/share/pin-4610)
 
-[FAQ accordion section with expanded pricing questions and blue active text on light gray background](https://design.withfudge.com/share/pin-4610)
+[FAQ accordion section with expanded pricing questions and blue active text on light gray background](https://fudge.design/share/pin-4610)
 
-[![Customer testimonial carousel featuring Photoroom with gradient statistic highlights and app logo bar](https://pin.fontofweb.com/4609?format=jpg)](https://design.withfudge.com/share/pin-4609)
+[![Customer testimonial carousel featuring Photoroom with gradient statistic highlights and app logo bar](https://pin.fontofweb.com/4609?format=jpg)](https://fudge.design/share/pin-4609)
 
-[Customer testimonial carousel featuring Photoroom with gradient statistic highlights and app logo bar](https://design.withfudge.com/share/pin-4609)
+[Customer testimonial carousel featuring Photoroom with gradient statistic highlights and app logo bar](https://fudge.design/share/pin-4609)
 
-[![Six feature cards in two rows with colored icons for Build, Acquire, Convert, Understand, Retain, Improve](https://pin.fontofweb.com/4608?format=jpg)](https://design.withfudge.com/share/pin-4608)
+[![Six feature cards in two rows with colored icons for Build, Acquire, Convert, Understand, Retain, Improve](https://pin.fontofweb.com/4608?format=jpg)](https://fudge.design/share/pin-4608)
 
-[Six feature cards in two rows with colored icons for Build, Acquire, Convert, Understand, Retain, Improve](https://design.withfudge.com/share/pin-4608)
+[Six feature cards in two rows with colored icons for Build, Acquire, Convert, Understand, Retain, Improve](https://fudge.design/share/pin-4608)
 
-[![Enterprise plan section with ChatGPT testimonial card and purple Talk to sales button](https://pin.fontofweb.com/4607?format=jpg)](https://design.withfudge.com/share/pin-4607)
+[![Enterprise plan section with ChatGPT testimonial card and purple Talk to sales button](https://pin.fontofweb.com/4607?format=jpg)](https://fudge.design/share/pin-4607)
 
-[Enterprise plan section with ChatGPT testimonial card and purple Talk to sales button](https://design.withfudge.com/share/pin-4607)
+[Enterprise plan section with ChatGPT testimonial card and purple Talk to sales button](https://fudge.design/share/pin-4607)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The design system appears optimized for desktop presentation in the available ma
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images, including hero sections, feature grids, testimonials, pricing FAQs, and enterprise messaging. Navigation, footer, mobile layouts, form interactions, loading states, and animation specifications are not included. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

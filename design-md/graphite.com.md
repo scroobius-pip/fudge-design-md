@@ -1,22 +1,22 @@
 # How graphite.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/graphite.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/graphite.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large white headline, glowing hexagonal wireframe illustration, and two primary action buttons on a near-black background](https://pin.fontofweb.com/4465?format=jpg)](https://design.withfudge.com/share/pin-4465)
+[![Hero section with large white headline, glowing hexagonal wireframe illustration, and two primary action buttons on a near-black background](https://pin.fontofweb.com/4465?format=jpg)](https://fudge.design/share/pin-4465)
 
-[Hero section with large white headline, glowing hexagonal wireframe illustration, and two primary action buttons on a near-black background](https://design.withfudge.com/share/pin-4465)
+[Hero section with large white headline, glowing hexagonal wireframe illustration, and two primary action buttons on a near-black background](https://fudge.design/share/pin-4465)
 
-[![Feature grid showing stacked cards with product screenshots, Slack notification mockup, and pill-shaped feature tags with icons](https://pin.fontofweb.com/4467?format=jpg)](https://design.withfudge.com/share/pin-4467)
+[![Feature grid showing stacked cards with product screenshots, Slack notification mockup, and pill-shaped feature tags with icons](https://pin.fontofweb.com/4467?format=jpg)](https://fudge.design/share/pin-4467)
 
-[Feature grid showing stacked cards with product screenshots, Slack notification mockup, and pill-shaped feature tags with icons](https://design.withfudge.com/share/pin-4467)
+[Feature grid showing stacked cards with product screenshots, Slack notification mockup, and pill-shaped feature tags with icons](https://fudge.design/share/pin-4467)
 
-[![Upper page section with CLI terminal screenshot, review inbox interface, and feature cards with arrow-link CTAs](https://pin.fontofweb.com/4466?format=jpg)](https://design.withfudge.com/share/pin-4466)
+[![Upper page section with CLI terminal screenshot, review inbox interface, and feature cards with arrow-link CTAs](https://pin.fontofweb.com/4466?format=jpg)](https://fudge.design/share/pin-4466)
 
-[Upper page section with CLI terminal screenshot, review inbox interface, and feature cards with arrow-link CTAs](https://design.withfudge.com/share/pin-4466)
+[Upper page section with CLI terminal screenshot, review inbox interface, and feature cards with arrow-link CTAs](https://fudge.design/share/pin-4466)
 
 ## Overview
 
@@ -164,3 +164,18 @@ The hexagonal hero illustration should maintain proportional scaling without cro
 ## Scope note
 
 This guide covers the Graphite homepage and its primary marketing sections. Measurements are practical adaptation targets. Items not addressed include interior product pages, documentation, pricing tables, authentication flows, mobile-specific layouts, animation and transition behavior, and dark-to-light mode switching. The design system assumes a single dark theme throughout.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

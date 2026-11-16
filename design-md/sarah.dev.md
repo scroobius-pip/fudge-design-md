@@ -1,18 +1,18 @@
 # How sarah.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sarah.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/sarah.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full desktop layout showing split-column composition with vertical WRITING heading, book promotion, categorized posts, and technical writing list with magenta buttons](https://pin.fontofweb.com/6641?format=jpg)](https://design.withfudge.com/share/pin-6641)
+[![Full desktop layout showing split-column composition with vertical WRITING heading, book promotion, categorized posts, and technical writing list with magenta buttons](https://pin.fontofweb.com/6641?format=jpg)](https://fudge.design/share/pin-6641)
 
-[Full desktop layout showing split-column composition with vertical WRITING heading, book promotion, categorized posts, and technical writing list with magenta buttons](https://design.withfudge.com/share/pin-6641)
+[Full desktop layout showing split-column composition with vertical WRITING heading, book promotion, categorized posts, and technical writing list with magenta buttons](https://fudge.design/share/pin-6641)
 
-[![Close-up of technical writing list section with white Placard Next heading and Palatino Linotype article links with muted metadata on black background](https://pin.fontofweb.com/6642?format=jpg)](https://design.withfudge.com/share/pin-6642)
+[![Close-up of technical writing list section with white Placard Next heading and Palatino Linotype article links with muted metadata on black background](https://pin.fontofweb.com/6642?format=jpg)](https://fudge.design/share/pin-6642)
 
-[Close-up of technical writing list section with white Placard Next heading and Palatino Linotype article links with muted metadata on black background](https://design.withfudge.com/share/pin-6642)
+[Close-up of technical writing list section with white Placard Next heading and Palatino Linotype article links with muted metadata on black background](https://fudge.design/share/pin-6642)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Button touch targets should maintain minimum `44px` height on mobile despite the
 ## Scope note
 
 This guide covers the writing and archive pages of sarah.dev as visible in the supplied images. The technical writing list, personal post archive, book promotion, and navigation header are fully described. Footer content, additional interior pages, mobile layouts, form states, and animation behavior are not represented in the available material. Measurements are drawn from the exact values supplied for this domain.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [List feed](/share/designs-with-layout.archetype.list_feed)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Content index](/share/designs-with-page.content.index)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

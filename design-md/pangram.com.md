@@ -1,26 +1,26 @@
 # How pangram.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pangram.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pangram.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dashboard interface with referral modal overlay showing invite link and social sharing options against a textured green landscape illustration.](https://pin.fontofweb.com/9705?format=jpg)](https://design.withfudge.com/share/pin-9705)
+[![Dashboard interface with referral modal overlay showing invite link and social sharing options against a textured green landscape illustration.](https://pin.fontofweb.com/9705?format=jpg)](https://fudge.design/share/pin-9705)
 
-[Dashboard interface with referral modal overlay showing invite link and social sharing options against a textured green landscape illustration.](https://design.withfudge.com/share/pin-9705)
+[Dashboard interface with referral modal overlay showing invite link and social sharing options against a textured green landscape illustration.](https://fudge.design/share/pin-9705)
 
-[![API solutions page featuring four billing option cards with colored headers and a research credits call-to-action section.](https://pin.fontofweb.com/9704?format=jpg)](https://design.withfudge.com/share/pin-9704)
+[![API solutions page featuring four billing option cards with colored headers and a research credits call-to-action section.](https://pin.fontofweb.com/9704?format=jpg)](https://fudge.design/share/pin-9704)
 
-[API solutions page featuring four billing option cards with colored headers and a research credits call-to-action section.](https://design.withfudge.com/share/pin-9704)
+[API solutions page featuring four billing option cards with colored headers and a research credits call-to-action section.](https://fudge.design/share/pin-9704)
 
-[![Pricing page with enterprise tab selected, showing two side-by-side plan cards with green checkmark feature lists.](https://pin.fontofweb.com/9703?format=jpg)](https://design.withfudge.com/share/pin-9703)
+[![Pricing page with enterprise tab selected, showing two side-by-side plan cards with green checkmark feature lists.](https://pin.fontofweb.com/9703?format=jpg)](https://fudge.design/share/pin-9703)
 
-[Pricing page with enterprise tab selected, showing two side-by-side plan cards with green checkmark feature lists.](https://design.withfudge.com/share/pin-9703)
+[Pricing page with enterprise tab selected, showing two side-by-side plan cards with green checkmark feature lists.](https://fudge.design/share/pin-9703)
 
-[![Team pricing card with light blue header, annual toggle switch, and green primary action button for trial signup.](https://pin.fontofweb.com/9702?format=jpg)](https://design.withfudge.com/share/pin-9702)
+[![Team pricing card with light blue header, annual toggle switch, and green primary action button for trial signup.](https://pin.fontofweb.com/9702?format=jpg)](https://fudge.design/share/pin-9702)
 
-[Team pricing card with light blue header, annual toggle switch, and green primary action button for trial signup.](https://design.withfudge.com/share/pin-9702)
+[Team pricing card with light blue header, annual toggle switch, and green primary action button for trial signup.](https://fudge.design/share/pin-9702)
 
 ## Overview
 
@@ -138,3 +138,18 @@ The sidebar collapses to a hamburger menu on narrow viewports, with navigation d
 ## Scope note
 
 This guide covers the dashboard, pricing, and API solutions surfaces visible in the supplied images. Marketing page hero sections with dark backgrounds and additional illustration styles are partially represented. Mobile breakpoints, animation curves, form validation states, and error page designs are not included. Measurements derive from the exact values in the design facts and use the 0.125rem relative unit scale throughout.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

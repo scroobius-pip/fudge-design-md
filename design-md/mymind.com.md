@@ -1,26 +1,26 @@
 # How mymind.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mymind.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mymind.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer area with navigation columns, logo lockup, and soft gradient border on warm off-white background](https://pin.fontofweb.com/8990?format=jpg)](https://design.withfudge.com/share/pin-8990)
+[![Footer area with navigation columns, logo lockup, and soft gradient border on warm off-white background](https://pin.fontofweb.com/8990?format=jpg)](https://fudge.design/share/pin-8990)
 
-[Footer area with navigation columns, logo lockup, and soft gradient border on warm off-white background](https://design.withfudge.com/share/pin-8990)
+[Footer area with navigation columns, logo lockup, and soft gradient border on warm off-white background](https://fudge.design/share/pin-8990)
 
-[![Three editorial cards with vivid orange backgrounds, oval portraits, and stacked serif typography](https://pin.fontofweb.com/8989?format=jpg)](https://design.withfudge.com/share/pin-8989)
+[![Three editorial cards with vivid orange backgrounds, oval portraits, and stacked serif typography](https://pin.fontofweb.com/8989?format=jpg)](https://fudge.design/share/pin-8989)
 
-[Three editorial cards with vivid orange backgrounds, oval portraits, and stacked serif typography](https://design.withfudge.com/share/pin-8989)
+[Three editorial cards with vivid orange backgrounds, oval portraits, and stacked serif typography](https://fudge.design/share/pin-8989)
 
-[![Centered manifesto statement with large serif text, thin circular outline, and coral CTA button](https://pin.fontofweb.com/8988?format=jpg)](https://design.withfudge.com/share/pin-8988)
+[![Centered manifesto statement with large serif text, thin circular outline, and coral CTA button](https://pin.fontofweb.com/8988?format=jpg)](https://fudge.design/share/pin-8988)
 
-[Centered manifesto statement with large serif text, thin circular outline, and coral CTA button](https://design.withfudge.com/share/pin-8988)
+[Centered manifesto statement with large serif text, thin circular outline, and coral CTA button](https://fudge.design/share/pin-8988)
 
-[![Use cases section with tabbed navigation and mint-green feature panel showing moodboard imagery](https://pin.fontofweb.com/8987?format=jpg)](https://design.withfudge.com/share/pin-8987)
+[![Use cases section with tabbed navigation and mint-green feature panel showing moodboard imagery](https://pin.fontofweb.com/8987?format=jpg)](https://fudge.design/share/pin-8987)
 
-[Use cases section with tabbed navigation and mint-green feature panel showing moodboard imagery](https://design.withfudge.com/share/pin-8987)
+[Use cases section with tabbed navigation and mint-green feature panel showing moodboard imagery](https://fudge.design/share/pin-8987)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The navigation bar should collapse to a minimal state on scroll, with reduced he
 ## Scope note
 
 This guide covers the mymind.com homepage and its primary marketing surfaces. Browser extension pages and account dashboards are not represented in the supplied material. Motion behavior, mobile-specific layouts, form states, and error handling are not documented. Measurements are derived from the exact values present in the interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

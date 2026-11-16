@@ -1,26 +1,26 @@
 # How para.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/para.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/para.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-in form with lime-green submit button, dark input fields, and red error message on black background](https://pin.fontofweb.com/9322?format=jpg)](https://design.withfudge.com/share/pin-9322)
+[![Sign-in form with lime-green submit button, dark input fields, and red error message on black background](https://pin.fontofweb.com/9322?format=jpg)](https://fudge.design/share/pin-9322)
 
-[Sign-in form with lime-green submit button, dark input fields, and red error message on black background](https://design.withfudge.com/share/pin-9322)
+[Sign-in form with lime-green submit button, dark input fields, and red error message on black background](https://fudge.design/share/pin-9322)
 
-[![Full sign-in page with PARA back button, dark theme, and muted green disabled submit state](https://pin.fontofweb.com/9315?format=jpg)](https://design.withfudge.com/share/pin-9315)
+[![Full sign-in page with PARA back button, dark theme, and muted green disabled submit state](https://pin.fontofweb.com/9315?format=jpg)](https://fudge.design/share/pin-9315)
 
-[Full sign-in page with PARA back button, dark theme, and muted green disabled submit state](https://design.withfudge.com/share/pin-9315)
+[Full sign-in page with PARA back button, dark theme, and muted green disabled submit state](https://fudge.design/share/pin-9315)
 
-[![Vibrant coral-orange social media panel with bold black Gramatika typography and platform icons](https://pin.fontofweb.com/9314?format=jpg)](https://design.withfudge.com/share/pin-9314)
+[![Vibrant coral-orange social media panel with bold black Gramatika typography and platform icons](https://pin.fontofweb.com/9314?format=jpg)](https://fudge.design/share/pin-9314)
 
-[Vibrant coral-orange social media panel with bold black Gramatika typography and platform icons](https://design.withfudge.com/share/pin-9314)
+[Vibrant coral-orange social media panel with bold black Gramatika typography and platform icons](https://fudge.design/share/pin-9314)
 
-[![Hero section with username claim CTA, large white Gramatika display type, and green pill button on black](https://pin.fontofweb.com/9313?format=jpg)](https://design.withfudge.com/share/pin-9313)
+[![Hero section with username claim CTA, large white Gramatika display type, and green pill button on black](https://pin.fontofweb.com/9313?format=jpg)](https://fudge.design/share/pin-9313)
 
-[Hero section with username claim CTA, large white Gramatika display type, and green pill button on black](https://design.withfudge.com/share/pin-9313)
+[Hero section with username claim CTA, large white Gramatika display type, and green pill button on black](https://fudge.design/share/pin-9313)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Touch targets must maintain minimum 2.75rem height for all buttons and inputs. T
 ## Scope note
 
 This guide covers the authentication flow and marketing landing surfaces visible in the supplied materials. Mobile layouts, animation behavior, hover states beyond color shifts, form validation micro-interactions, and additional interior pages are not documented. The spacing and radius values derive from the exact interface measurements provided; implementers should verify visual consistency when extending to new contexts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How trymeasured.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trymeasured.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/trymeasured.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero header with medication grid showing compounded semaglutide and Wegovy options against a soft gradient background with star rating and weight-loss chart imagery.](https://pin.fontofweb.com/6994?format=jpg)](https://design.withfudge.com/share/pin-6994)
+[![Hero header with medication grid showing compounded semaglutide and Wegovy options against a soft gradient background with star rating and weight-loss chart imagery.](https://pin.fontofweb.com/6994?format=jpg)](https://fudge.design/share/pin-6994)
 
-[Hero header with medication grid showing compounded semaglutide and Wegovy options against a soft gradient background with star rating and weight-loss chart imagery.](https://design.withfudge.com/share/pin-6994)
+[Hero header with medication grid showing compounded semaglutide and Wegovy options against a soft gradient background with star rating and weight-loss chart imagery.](https://fudge.design/share/pin-6994)
 
-[![Three-step process section with yellow and purple UI mockups illustrating personalized prescription flow and medication support on a clean white background.](https://pin.fontofweb.com/6993?format=jpg)](https://design.withfudge.com/share/pin-6993)
+[![Three-step process section with yellow and purple UI mockups illustrating personalized prescription flow and medication support on a clean white background.](https://pin.fontofweb.com/6993?format=jpg)](https://fudge.design/share/pin-6993)
 
-[Three-step process section with yellow and purple UI mockups illustrating personalized prescription flow and medication support on a clean white background.](https://design.withfudge.com/share/pin-6993)
+[Three-step process section with yellow and purple UI mockups illustrating personalized prescription flow and medication support on a clean white background.](https://fudge.design/share/pin-6993)
 
-[![Social proof testimonial carousel with blue gradient background featuring before-and-after photography and a quoted customer review with navigation arrows.](https://pin.fontofweb.com/6992?format=jpg)](https://design.withfudge.com/share/pin-6992)
+[![Social proof testimonial carousel with blue gradient background featuring before-and-after photography and a quoted customer review with navigation arrows.](https://pin.fontofweb.com/6992?format=jpg)](https://fudge.design/share/pin-6992)
 
-[Social proof testimonial carousel with blue gradient background featuring before-and-after photography and a quoted customer review with navigation arrows.](https://design.withfudge.com/share/pin-6992)
+[Social proof testimonial carousel with blue gradient background featuring before-and-after photography and a quoted customer review with navigation arrows.](https://fudge.design/share/pin-6992)
 
-[![Dark footer CTA section with large white typography over a moody portrait photograph, followed by multi-column footer links and certification badges.](https://pin.fontofweb.com/6991?format=jpg)](https://design.withfudge.com/share/pin-6991)
+[![Dark footer CTA section with large white typography over a moody portrait photograph, followed by multi-column footer links and certification badges.](https://pin.fontofweb.com/6991?format=jpg)](https://fudge.design/share/pin-6991)
 
-[Dark footer CTA section with large white typography over a moody portrait photograph, followed by multi-column footer links and certification badges.](https://design.withfudge.com/share/pin-6991)
+[Dark footer CTA section with large white typography over a moody portrait photograph, followed by multi-column footer links and certification badges.](https://fudge.design/share/pin-6991)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Touch targets for pill buttons and navigation arrows should maintain at least 44
 ## Scope note
 
 This guide covers the homepage surface including hero, process explanation, social proof, and footer sections. Interior pages, mobile-specific layouts, form interactions, loading states, and motion behavior are not represented in the supplied material. The medication grid's detailed hover states and the quiz flow interface are not documented here.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

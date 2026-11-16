@@ -1,26 +1,26 @@
 # How browserless.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/browserless.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/browserless.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature pairing section with two white cards on light gray background showing Hybrid Automations and Captcha Solving options with purple text links](https://pin.fontofweb.com/4846?format=jpg)](https://design.withfudge.com/share/pin-4846)
+[![Feature pairing section with two white cards on light gray background showing Hybrid Automations and Captcha Solving options with purple text links](https://pin.fontofweb.com/4846?format=jpg)](https://fudge.design/share/pin-4846)
 
-[Feature pairing section with two white cards on light gray background showing Hybrid Automations and Captcha Solving options with purple text links](https://design.withfudge.com/share/pin-4846)
+[Feature pairing section with two white cards on light gray background showing Hybrid Automations and Captcha Solving options with purple text links](https://fudge.design/share/pin-4846)
 
-[![Hero section with large dark headline Cache cookies and reconnects, purple Get Started button, code snippet illustration, and three stacked feature cards](https://pin.fontofweb.com/4845?format=jpg)](https://design.withfudge.com/share/pin-4845)
+[![Hero section with large dark headline Cache cookies and reconnects, purple Get Started button, code snippet illustration, and three stacked feature cards](https://pin.fontofweb.com/4845?format=jpg)](https://fudge.design/share/pin-4845)
 
-[Hero section with large dark headline Cache cookies and reconnects, purple Get Started button, code snippet illustration, and three stacked feature cards](https://design.withfudge.com/share/pin-4845)
+[Hero section with large dark headline Cache cookies and reconnects, purple Get Started button, code snippet illustration, and three stacked feature cards](https://fudge.design/share/pin-4845)
 
-[![BrowserQL section with centered dark headline and six gray cards in 3x2 grid with dark icons and purple accent links](https://pin.fontofweb.com/4844?format=jpg)](https://design.withfudge.com/share/pin-4844)
+[![BrowserQL section with centered dark headline and six gray cards in 3x2 grid with dark icons and purple accent links](https://pin.fontofweb.com/4844?format=jpg)](https://fudge.design/share/pin-4844)
 
-[BrowserQL section with centered dark headline and six gray cards in 3x2 grid with dark icons and purple accent links](https://design.withfudge.com/share/pin-4844)
+[BrowserQL section with centered dark headline and six gray cards in 3x2 grid with dark icons and purple accent links](https://fudge.design/share/pin-4844)
 
-[![Three-column feature cards for Scraping, PDFs & Screenshots, and Automation with colorful illustrations and purple Learn more links](https://pin.fontofweb.com/4843?format=jpg)](https://design.withfudge.com/share/pin-4843)
+[![Three-column feature cards for Scraping, PDFs & Screenshots, and Automation with colorful illustrations and purple Learn more links](https://pin.fontofweb.com/4843?format=jpg)](https://fudge.design/share/pin-4843)
 
-[Three-column feature cards for Scraping, PDFs & Screenshots, and Automation with colorful illustrations and purple Learn more links](https://design.withfudge.com/share/pin-4843)
+[Three-column feature cards for Scraping, PDFs & Screenshots, and Automation with colorful illustrations and purple Learn more links](https://fudge.design/share/pin-4843)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Type sizes should scale down proportionally. The hero display at 3.5rem may redu
 ## Scope note
 
 This guide covers the marketing and feature-overview surfaces of browserless.io as visible in the supplied images. Pricing pages, documentation, dashboard interfaces, authentication flows, and mobile-specific layouts are not represented. Footer content, navigation dropdown behavior, and form validation states are outside the current scope. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

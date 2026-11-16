@@ -1,26 +1,26 @@
 # How fontsinuse.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fontsinuse.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fontsinuse.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Global navigation mega-menu with Topics, Formats, and Typefaces columns showing dense taxonomy links in small Tn type](https://pin.fontofweb.com/6844?format=jpg)](https://design.withfudge.com/share/pin-6844)
+[![Global navigation mega-menu with Topics, Formats, and Typefaces columns showing dense taxonomy links in small Tn type](https://pin.fontofweb.com/6844?format=jpg)](https://fudge.design/share/pin-6844)
 
-[Global navigation mega-menu with Topics, Formats, and Typefaces columns showing dense taxonomy links in small Tn type](https://design.withfudge.com/share/pin-6844)
+[Global navigation mega-menu with Topics, Formats, and Typefaces columns showing dense taxonomy links in small Tn type](https://fudge.design/share/pin-6844)
 
-[![Staff Pick cards grid with project thumbnails, typeface names, and a minimal footer with utility links](https://pin.fontofweb.com/6843?format=jpg)](https://design.withfudge.com/share/pin-6843)
+[![Staff Pick cards grid with project thumbnails, typeface names, and a minimal footer with utility links](https://pin.fontofweb.com/6843?format=jpg)](https://fudge.design/share/pin-6843)
 
-[Staff Pick cards grid with project thumbnails, typeface names, and a minimal footer with utility links](https://design.withfudge.com/share/pin-6843)
+[Staff Pick cards grid with project thumbnails, typeface names, and a minimal footer with utility links](https://fudge.design/share/pin-6843)
 
-[![Comment form with labeled inputs, Submit Comment button, and More in Local section with sponsor advertisement](https://pin.fontofweb.com/6842?format=jpg)](https://design.withfudge.com/share/pin-6842)
+[![Comment form with labeled inputs, Submit Comment button, and More in Local section with sponsor advertisement](https://pin.fontofweb.com/6842?format=jpg)](https://fudge.design/share/pin-6842)
 
-[Comment form with labeled inputs, Submit Comment button, and More in Local section with sponsor advertisement](https://design.withfudge.com/share/pin-6842)
+[Comment form with labeled inputs, Submit Comment button, and More in Local section with sponsor advertisement](https://fudge.design/share/pin-6842)
 
-[![Article page for Bruket Fjellhamar with large artwork, Relay Condensed headline, and right sidebar metadata](https://pin.fontofweb.com/6841?format=jpg)](https://design.withfudge.com/share/pin-6841)
+[![Article page for Bruket Fjellhamar with large artwork, Relay Condensed headline, and right sidebar metadata](https://pin.fontofweb.com/6841?format=jpg)](https://fudge.design/share/pin-6841)
 
-[Article page for Bruket Fjellhamar with large artwork, Relay Condensed headline, and right sidebar metadata](https://design.withfudge.com/share/pin-6841)
+[Article page for Bruket Fjellhamar with large artwork, Relay Condensed headline, and right sidebar metadata](https://fudge.design/share/pin-6841)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Image grids should reflow from multiple columns to single-column scrolling, main
 ## Scope note
 
 This guide covers the desktop article page, global navigation, card grids, comment forms, and footer as visible in the supplied images. Mobile breakpoints, hover animations, loading states, error pages, user account interfaces, and the editorial blog section are not represented. Measurements are derived from the exact values in the design facts and rounded to the 0.125rem base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

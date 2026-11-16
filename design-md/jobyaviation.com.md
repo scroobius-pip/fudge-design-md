@@ -1,26 +1,26 @@
 # How jobyaviation.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jobyaviation.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/jobyaviation.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Aerial landscape hero section with moss-covered terrain, large cream display headline, and pill-shaped CTA button with environmental statistics.](https://pin.fontofweb.com/8296?format=jpg)](https://design.withfudge.com/share/pin-8296)
+[![Aerial landscape hero section with moss-covered terrain, large cream display headline, and pill-shaped CTA button with environmental statistics.](https://pin.fontofweb.com/8296?format=jpg)](https://fudge.design/share/pin-8296)
 
-[Aerial landscape hero section with moss-covered terrain, large cream display headline, and pill-shaped CTA button with environmental statistics.](https://design.withfudge.com/share/pin-8296)
+[Aerial landscape hero section with moss-covered terrain, large cream display headline, and pill-shaped CTA button with environmental statistics.](https://fudge.design/share/pin-8296)
 
-[![Vibrant footer with layered geometric color blocks in blue, navy, orange, and peach, featuring Joby logo and email signup field.](https://pin.fontofweb.com/8295?format=jpg)](https://design.withfudge.com/share/pin-8295)
+[![Vibrant footer with layered geometric color blocks in blue, navy, orange, and peach, featuring Joby logo and email signup field.](https://pin.fontofweb.com/8295?format=jpg)](https://fudge.design/share/pin-8295)
 
-[Vibrant footer with layered geometric color blocks in blue, navy, orange, and peach, featuring Joby logo and email signup field.](https://design.withfudge.com/share/pin-8295)
+[Vibrant footer with layered geometric color blocks in blue, navy, orange, and peach, featuring Joby logo and email signup field.](https://fudge.design/share/pin-8295)
 
-[![Coastal sunset timeline section with year navigation, milestone details, and cream navigation bar with hamburger menu.](https://pin.fontofweb.com/8294?format=jpg)](https://design.withfudge.com/share/pin-8294)
+[![Coastal sunset timeline section with year navigation, milestone details, and cream navigation bar with hamburger menu.](https://pin.fontofweb.com/8294?format=jpg)](https://fudge.design/share/pin-8294)
 
-[Coastal sunset timeline section with year navigation, milestone details, and cream navigation bar with hamburger menu.](https://design.withfudge.com/share/pin-8294)
+[Coastal sunset timeline section with year navigation, milestone details, and cream navigation bar with hamburger menu.](https://fudge.design/share/pin-8294)
 
-[![Bold blue section with oversized dark navy display typography and cream navigation bar showing Company and Investors links.](https://pin.fontofweb.com/8293?format=jpg)](https://design.withfudge.com/share/pin-8293)
+[![Bold blue section with oversized dark navy display typography and cream navigation bar showing Company and Investors links.](https://pin.fontofweb.com/8293?format=jpg)](https://fudge.design/share/pin-8293)
 
-[Bold blue section with oversized dark navy display typography and cream navigation bar showing Company and Investors links.](https://design.withfudge.com/share/pin-8293)
+[Bold blue section with oversized dark navy display typography and cream navigation bar showing Company and Investors links.](https://fudge.design/share/pin-8293)
 
 ## Overview
 
@@ -159,3 +159,18 @@ Color-blocked footer areas maintain their layered geometry across breakpoints, t
 ## Scope note
 
 This guide covers the homepage and company page surfaces visible in the supplied images, including hero sections, timeline layouts, navigation, and footer signup areas. Mobile breakpoints, hover states, form validation, loading sequences, and interior content pages are not represented. Measurements derive from the documented interface values and should be verified against live implementation.
+
+## Related design patterns
+
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Image background](/share/designs-with-visual.background.image)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

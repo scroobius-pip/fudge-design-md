@@ -1,22 +1,22 @@
 # How polymarket.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/polymarket.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/polymarket.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage showing dark-themed prediction market cards with category navigation, featured Bitcoin market, and breaking news sidebar with percentage indicators](https://pin.fontofweb.com/8585?format=jpg)](https://design.withfudge.com/share/pin-8585)
+[![Homepage showing dark-themed prediction market cards with category navigation, featured Bitcoin market, and breaking news sidebar with percentage indicators](https://pin.fontofweb.com/8585?format=jpg)](https://fudge.design/share/pin-8585)
 
-[Homepage showing dark-themed prediction market cards with category navigation, featured Bitcoin market, and breaking news sidebar with percentage indicators](https://design.withfudge.com/share/pin-8585)
+[Homepage showing dark-themed prediction market cards with category navigation, featured Bitcoin market, and breaking news sidebar with percentage indicators](https://fudge.design/share/pin-8585)
 
-[![NCAA Tournament market detail view with multi-line probability chart, team percentage breakdown, and comment thread](https://pin.fontofweb.com/8584?format=jpg)](https://design.withfudge.com/share/pin-8584)
+[![NCAA Tournament market detail view with multi-line probability chart, team percentage breakdown, and comment thread](https://pin.fontofweb.com/8584?format=jpg)](https://fudge.design/share/pin-8584)
 
-[NCAA Tournament market detail view with multi-line probability chart, team percentage breakdown, and comment thread](https://design.withfudge.com/share/pin-8584)
+[NCAA Tournament market detail view with multi-line probability chart, team percentage breakdown, and comment thread](https://fudge.design/share/pin-8584)
 
-[![Esports match page for Kiwoom DRX vs DN SOOPers showing live score, team tabs, and diverging probability chart with volume indicator](https://pin.fontofweb.com/8583?format=jpg)](https://design.withfudge.com/share/pin-8583)
+[![Esports match page for Kiwoom DRX vs DN SOOPers showing live score, team tabs, and diverging probability chart with volume indicator](https://pin.fontofweb.com/8583?format=jpg)](https://fudge.design/share/pin-8583)
 
-[Esports match page for Kiwoom DRX vs DN SOOPers showing live score, team tabs, and diverging probability chart with volume indicator](https://design.withfudge.com/share/pin-8583)
+[Esports match page for Kiwoom DRX vs DN SOOPers showing live score, team tabs, and diverging probability chart with volume indicator](https://fudge.design/share/pin-8583)
 
 ## Overview
 
@@ -134,3 +134,18 @@ The interface appears optimized for desktop viewing with substantial content wid
 ## Scope note
 
 This guide covers the Polymarket homepage, market detail views, and esports match pages as visible in the supplied images. Mobile layouts, authentication flows, wallet interfaces, market creation tools, and real-time WebSocket update animations are not represented. The Open Sauce One font appears only in legal contexts and may have limited interface presence. Measurements derive from the desktop viewport state shown.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

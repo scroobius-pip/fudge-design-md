@@ -1,26 +1,26 @@
 # How wabi.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wabi.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/wabi.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![A centered white card with rounded corners displays a blue shader sphere, the username brock, and a QR code on a light gray background with a minimal footer.](https://pin.fontofweb.com/8287?format=jpg)](https://design.withfudge.com/share/pin-8287)
+[![A centered white card with rounded corners displays a blue shader sphere, the username brock, and a QR code on a light gray background with a minimal footer.](https://pin.fontofweb.com/8287?format=jpg)](https://fudge.design/share/pin-8287)
 
-[A centered white card with rounded corners displays a blue shader sphere, the username brock, and a QR code on a light gray background with a minimal footer.](https://design.withfudge.com/share/pin-8287)
+[A centered white card with rounded corners displays a blue shader sphere, the username brock, and a QR code on a light gray background with a minimal footer.](https://fudge.design/share/pin-8287)
 
-[![A light gray landing page shows a large headline, a pill-shaped announcement badge, and a centered modal with a QR code over stacked image cards.](https://pin.fontofweb.com/8212?format=jpg)](https://design.withfudge.com/share/pin-8212)
+[![A light gray landing page shows a large headline, a pill-shaped announcement badge, and a centered modal with a QR code over stacked image cards.](https://pin.fontofweb.com/8212?format=jpg)](https://fudge.design/share/pin-8212)
 
-[A light gray landing page shows a large headline, a pill-shaped announcement badge, and a centered modal with a QR code over stacked image cards.](https://design.withfudge.com/share/pin-8212)
+[A light gray landing page shows a large headline, a pill-shaped announcement badge, and a centered modal with a QR code over stacked image cards.](https://fudge.design/share/pin-8212)
 
-[![A light gray hero section with a large centered headline transitions to a black background filled with colorful circular app icons arranged in a dense grid.](https://pin.fontofweb.com/8211?format=jpg)](https://design.withfudge.com/share/pin-8211)
+[![A light gray hero section with a large centered headline transitions to a black background filled with colorful circular app icons arranged in a dense grid.](https://pin.fontofweb.com/8211?format=jpg)](https://fudge.design/share/pin-8211)
 
-[A light gray hero section with a large centered headline transitions to a black background filled with colorful circular app icons arranged in a dense grid.](https://design.withfudge.com/share/pin-8211)
+[A light gray hero section with a large centered headline transitions to a black background filled with colorful circular app icons arranged in a dense grid.](https://fudge.design/share/pin-8211)
 
-[![A light gray landing page features a headline, a pill-shaped announcement badge, a primary action button, and a large phone mockup with a chat bubble overlay.](https://pin.fontofweb.com/8210?format=jpg)](https://design.withfudge.com/share/pin-8210)
+[![A light gray landing page features a headline, a pill-shaped announcement badge, a primary action button, and a large phone mockup with a chat bubble overlay.](https://pin.fontofweb.com/8210?format=jpg)](https://fudge.design/share/pin-8210)
 
-[A light gray landing page features a headline, a pill-shaped announcement badge, a primary action button, and a large phone mockup with a chat bubble overlay.](https://design.withfudge.com/share/pin-8210)
+[A light gray landing page features a headline, a pill-shaped announcement badge, a primary action button, and a large phone mockup with a chat bubble overlay.](https://fudge.design/share/pin-8210)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Touch targets must maintain minimum 44px height; the current button padding exce
 ## Scope note
 
 This guide covers the landing page and share card surfaces visible in the supplied images. Interior app functionality, additional pages, motion behavior, and responsive breakpoints below desktop width are not represented.Measurements reflect the captured desktop viewport state.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

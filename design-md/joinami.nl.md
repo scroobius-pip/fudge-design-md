@@ -1,26 +1,26 @@
 # How joinami.nl is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/joinami.nl-design)
+[Open the live Fudge conversation](https://fudge.design/share/joinami.nl-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News grid with diagonal red accent stripe, large italic display headline, and salmon-pink background with blog cards](https://pin.fontofweb.com/1232?format=jpg)](https://design.withfudge.com/share/pin-1232)
+[![News grid with diagonal red accent stripe, large italic display headline, and salmon-pink background with blog cards](https://pin.fontofweb.com/1232?format=jpg)](https://fudge.design/share/pin-1232)
 
-[News grid with diagonal red accent stripe, large italic display headline, and salmon-pink background with blog cards](https://design.withfudge.com/share/pin-1232)
+[News grid with diagonal red accent stripe, large italic display headline, and salmon-pink background with blog cards](https://fudge.design/share/pin-1232)
 
-[![Blog listing page with filter dropdowns, featured article with italic display type, and grid of portrait photography cards](https://pin.fontofweb.com/1231?format=jpg)](https://design.withfudge.com/share/pin-1231)
+[![Blog listing page with filter dropdowns, featured article with italic display type, and grid of portrait photography cards](https://pin.fontofweb.com/1231?format=jpg)](https://fudge.design/share/pin-1231)
 
-[Blog listing page with filter dropdowns, featured article with italic display type, and grid of portrait photography cards](https://design.withfudge.com/share/pin-1231)
+[Blog listing page with filter dropdowns, featured article with italic display type, and grid of portrait photography cards](https://fudge.design/share/pin-1231)
 
-[![Hero section with full-bleed portrait photography, white italic display headline over dark image, and scrolling location marquee](https://pin.fontofweb.com/1230?format=jpg)](https://design.withfudge.com/share/pin-1230)
+[![Hero section with full-bleed portrait photography, white italic display headline over dark image, and scrolling location marquee](https://pin.fontofweb.com/1230?format=jpg)](https://fudge.design/share/pin-1230)
 
-[Hero section with full-bleed portrait photography, white italic display headline over dark image, and scrolling location marquee](https://design.withfudge.com/share/pin-1230)
+[Hero section with full-bleed portrait photography, white italic display headline over dark image, and scrolling location marquee](https://fudge.design/share/pin-1230)
 
-[![Footer area with salmon-pink background, white AMI logo, green WhatsApp action button, and red vacancy alert CTA](https://pin.fontofweb.com/1229?format=jpg)](https://design.withfudge.com/share/pin-1229)
+[![Footer area with salmon-pink background, white AMI logo, green WhatsApp action button, and red vacancy alert CTA](https://pin.fontofweb.com/1229?format=jpg)](https://fudge.design/share/pin-1229)
 
-[Footer area with salmon-pink background, white AMI logo, green WhatsApp action button, and red vacancy alert CTA](https://design.withfudge.com/share/pin-1229)
+[Footer area with salmon-pink background, white AMI logo, green WhatsApp action button, and red vacancy alert CTA](https://fudge.design/share/pin-1229)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Touch targets for all interactive elements should maintain minimum 44×44dp for 
 ## Scope note
 
 This guide covers the recruitment and news surfaces of joinami.nl as visible in the supplied images. Mobile layouts, form interactions, loading states, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection. The exact spacing, border, and radius values were not retained in the source material and should be verified during implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How typographyprinciples.obys.agency is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typographyprinciples.obys.agency-design)
+[Open the live Fudge conversation](https://fudge.design/share/typographyprinciples.obys.agency-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Three-panel editorial spread showing Francisco Goya, Post-Impressionism, and Eugène Atget with classical paintings and serif headlines on warm off-white backgrounds](https://pin.fontofweb.com/7785?format=jpg)](https://design.withfudge.com/share/pin-7785)
+[![Three-panel editorial spread showing Francisco Goya, Post-Impressionism, and Eugène Atget with classical paintings and serif headlines on warm off-white backgrounds](https://pin.fontofweb.com/7785?format=jpg)](https://fudge.design/share/pin-7785)
 
-[Three-panel editorial spread showing Francisco Goya, Post-Impressionism, and Eugène Atget with classical paintings and serif headlines on warm off-white backgrounds](https://design.withfudge.com/share/pin-7785)
+[Three-panel editorial spread showing Francisco Goya, Post-Impressionism, and Eugène Atget with classical paintings and serif headlines on warm off-white backgrounds](https://fudge.design/share/pin-7785)
 
-[![Dark interface with interactive typography test comparing hierarchy and color-form contrast using pear dessert card layouts](https://pin.fontofweb.com/7784?format=jpg)](https://design.withfudge.com/share/pin-7784)
+[![Dark interface with interactive typography test comparing hierarchy and color-form contrast using pear dessert card layouts](https://pin.fontofweb.com/7784?format=jpg)](https://fudge.design/share/pin-7784)
 
-[Dark interface with interactive typography test comparing hierarchy and color-form contrast using pear dessert card layouts](https://design.withfudge.com/share/pin-7784)
+[Dark interface with interactive typography test comparing hierarchy and color-form contrast using pear dessert card layouts](https://fudge.design/share/pin-7784)
 
-[![Dramatic black marble background with oversized white serif 'Many Thanks' display type and minimal footer credits](https://pin.fontofweb.com/7783?format=jpg)](https://design.withfudge.com/share/pin-7783)
+[![Dramatic black marble background with oversized white serif 'Many Thanks' display type and minimal footer credits](https://pin.fontofweb.com/7783?format=jpg)](https://fudge.design/share/pin-7783)
 
-[Dramatic black marble background with oversized white serif 'Many Thanks' display type and minimal footer credits](https://design.withfudge.com/share/pin-7783)
+[Dramatic black marble background with oversized white serif 'Many Thanks' display type and minimal footer credits](https://fudge.design/share/pin-7783)
 
-[![Dark page introducing 'Contrast in typography' with numbered hierarchy section, blue circular element, and explanatory body text](https://pin.fontofweb.com/7782?format=jpg)](https://design.withfudge.com/share/pin-7782)
+[![Dark page introducing 'Contrast in typography' with numbered hierarchy section, blue circular element, and explanatory body text](https://pin.fontofweb.com/7782?format=jpg)](https://fudge.design/share/pin-7782)
 
-[Dark page introducing 'Contrast in typography' with numbered hierarchy section, blue circular element, and explanatory body text](https://design.withfudge.com/share/pin-7782)
+[Dark page introducing 'Contrast in typography' with numbered hierarchy section, blue circular element, and explanatory body text](https://fudge.design/share/pin-7782)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Navigation should remain accessible, potentially converting to a full-screen ove
 ## Scope note
 
 This guide covers the dark-mode principle demonstration pages including Contrast, Fonts, and Intro/Alignments sections. The light-mode editorial spreads shown in comparative demonstrations are content within those lessons, not a separate system variant. Mobile layouts, animation specifications, and menu overlay states are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Agency](/share/designs-with-offering.agency)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

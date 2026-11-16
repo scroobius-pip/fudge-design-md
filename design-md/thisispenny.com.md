@@ -1,26 +1,26 @@
 # How thisispenny.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thisispenny.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/thisispenny.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product showcase section with phone mockup displaying pension dashboard, floating cards, and yellow accent badge on warm cream background](https://pin.fontofweb.com/10006?format=jpg)](https://design.withfudge.com/share/pin-10006)
+[![Product showcase section with phone mockup displaying pension dashboard, floating cards, and yellow accent badge on warm cream background](https://pin.fontofweb.com/10006?format=jpg)](https://fudge.design/share/pin-10006)
 
-[Product showcase section with phone mockup displaying pension dashboard, floating cards, and yellow accent badge on warm cream background](https://design.withfudge.com/share/pin-10006)
+[Product showcase section with phone mockup displaying pension dashboard, floating cards, and yellow accent badge on warm cream background](https://fudge.design/share/pin-10006)
 
-[![Testimonial grid with lifestyle photography, quote cards on sage green panels, and yellow branded tote bag](https://pin.fontofweb.com/10005?format=jpg)](https://design.withfudge.com/share/pin-10005)
+[![Testimonial grid with lifestyle photography, quote cards on sage green panels, and yellow branded tote bag](https://pin.fontofweb.com/10005?format=jpg)](https://fudge.design/share/pin-10005)
 
-[Testimonial grid with lifestyle photography, quote cards on sage green panels, and yellow branded tote bag](https://design.withfudge.com/share/pin-10005)
+[Testimonial grid with lifestyle photography, quote cards on sage green panels, and yellow branded tote bag](https://fudge.design/share/pin-10005)
 
-[![Hero banner with yellow background, dark serif headline, partner logos row, and lifestyle photography grid below](https://pin.fontofweb.com/10004?format=jpg)](https://design.withfudge.com/share/pin-10004)
+[![Hero banner with yellow background, dark serif headline, partner logos row, and lifestyle photography grid below](https://pin.fontofweb.com/10004?format=jpg)](https://fudge.design/share/pin-10004)
 
-[Hero banner with yellow background, dark serif headline, partner logos row, and lifestyle photography grid below](https://design.withfudge.com/share/pin-10004)
+[Hero banner with yellow background, dark serif headline, partner logos row, and lifestyle photography grid below](https://fudge.design/share/pin-10004)
 
-[![Full-bleed hero with woman reclining against wood paneling, white serif headline, and yellow pill button on darkened photograph](https://pin.fontofweb.com/10003?format=jpg)](https://design.withfudge.com/share/pin-10003)
+[![Full-bleed hero with woman reclining against wood paneling, white serif headline, and yellow pill button on darkened photograph](https://pin.fontofweb.com/10003?format=jpg)](https://fudge.design/share/pin-10003)
 
-[Full-bleed hero with woman reclining against wood paneling, white serif headline, and yellow pill button on darkened photograph](https://design.withfudge.com/share/pin-10003)
+[Full-bleed hero with woman reclining against wood paneling, white serif headline, and yellow pill button on darkened photograph](https://fudge.design/share/pin-10003)
 
 ## Overview
 
@@ -177,3 +177,18 @@ The design appears optimized for desktop viewing with generous spacing and large
 ## Scope note
 
 This guide covers the Penny homepage and its primary marketing sections as visible in the supplied captures. Interior pages, account dashboards, form flows, and mobile-specific layouts are not represented. Motion, animation, and interactive states such as hover, focus, and loading are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

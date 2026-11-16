@@ -1,26 +1,26 @@
 # How loveeez.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/loveeez.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/loveeez.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with rounded cyan panel, speech bubble, large display type reading なかまたち, and central bear character illustration with floating avatar orbs](https://pin.fontofweb.com/3719?format=jpg)](https://design.withfudge.com/share/pin-3719)
+[![Hero section with rounded cyan panel, speech bubble, large display type reading なかまたち, and central bear character illustration with floating avatar orbs](https://pin.fontofweb.com/3719?format=jpg)](https://fudge.design/share/pin-3719)
 
-[Hero section with rounded cyan panel, speech bubble, large display type reading なかまたち, and central bear character illustration with floating avatar orbs](https://design.withfudge.com/share/pin-3719)
+[Hero section with rounded cyan panel, speech bubble, large display type reading なかまたち, and central bear character illustration with floating avatar orbs](https://fudge.design/share/pin-3719)
 
-[![Character relationship diagram with dotted connector lines, colored relationship labels, and rounded avatar cards on white and mint gradient background](https://pin.fontofweb.com/3718?format=jpg)](https://design.withfudge.com/share/pin-3718)
+[![Character relationship diagram with dotted connector lines, colored relationship labels, and rounded avatar cards on white and mint gradient background](https://pin.fontofweb.com/3718?format=jpg)](https://fudge.design/share/pin-3718)
 
-[Character relationship diagram with dotted connector lines, colored relationship labels, and rounded avatar cards on white and mint gradient background](https://design.withfudge.com/share/pin-3718)
+[Character relationship diagram with dotted connector lines, colored relationship labels, and rounded avatar cards on white and mint gradient background](https://fudge.design/share/pin-3718)
 
-[![Three-column island cards in cyan, pink, and yellow with illustrated maps, resident character icons, and rounded VIEW MORE buttons](https://pin.fontofweb.com/3717?format=jpg)](https://design.withfudge.com/share/pin-3717)
+[![Three-column island cards in cyan, pink, and yellow with illustrated maps, resident character icons, and rounded VIEW MORE buttons](https://pin.fontofweb.com/3717?format=jpg)](https://fudge.design/share/pin-3717)
 
-[Three-column island cards in cyan, pink, and yellow with illustrated maps, resident character icons, and rounded VIEW MORE buttons](https://design.withfudge.com/share/pin-3717)
+[Three-column island cards in cyan, pink, and yellow with illustrated maps, resident character icons, and rounded VIEW MORE buttons](https://fudge.design/share/pin-3717)
 
-[![Footer area with large LOVEEZ logotype, five character illustrations in a row, FOLLOW US heading, and circular social media icon buttons on pink background](https://pin.fontofweb.com/3716?format=jpg)](https://design.withfudge.com/share/pin-3716)
+[![Footer area with large LOVEEZ logotype, five character illustrations in a row, FOLLOW US heading, and circular social media icon buttons on pink background](https://pin.fontofweb.com/3716?format=jpg)](https://fudge.design/share/pin-3716)
 
-[Footer area with large LOVEEZ logotype, five character illustrations in a row, FOLLOW US heading, and circular social media icon buttons on pink background](https://design.withfudge.com/share/pin-3716)
+[Footer area with large LOVEEZ logotype, five character illustrations in a row, FOLLOW US heading, and circular social media icon buttons on pink background](https://fudge.design/share/pin-3716)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The fixed menu button should remain accessible without obscuring critical conten
 ## Scope note
 
 This guide covers the landing page and its visible sections: hero introduction, character relationship diagram, location island cards, and social footer. Interior pages, animation behavior, and any e-commerce or account functionality are not represented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How poppy-connection-keeper.netlify.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/poppy-connection-keeper.netlify.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/poppy-connection-keeper.netlify.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with warm gradient background, phone mockup showing garden app interface, and serif headline with decorative flower illustrations](https://pin.fontofweb.com/7668?format=jpg)](https://design.withfudge.com/share/pin-7668)
+[![Hero section with warm gradient background, phone mockup showing garden app interface, and serif headline with decorative flower illustrations](https://pin.fontofweb.com/7668?format=jpg)](https://fudge.design/share/pin-7668)
 
-[Hero section with warm gradient background, phone mockup showing garden app interface, and serif headline with decorative flower illustrations](https://design.withfudge.com/share/pin-7668)
+[Hero section with warm gradient background, phone mockup showing garden app interface, and serif headline with decorative flower illustrations](https://fudge.design/share/pin-7668)
 
-[![Footer call-to-action with peach-to-coral gradient, email waitlist form, App Store badge, and minimal footer with logo and links](https://pin.fontofweb.com/7669?format=jpg)](https://design.withfudge.com/share/pin-7669)
+[![Footer call-to-action with peach-to-coral gradient, email waitlist form, App Store badge, and minimal footer with logo and links](https://pin.fontofweb.com/7669?format=jpg)](https://fudge.design/share/pin-7669)
 
-[Footer call-to-action with peach-to-coral gradient, email waitlist form, App Store badge, and minimal footer with logo and links](https://design.withfudge.com/share/pin-7669)
+[Footer call-to-action with peach-to-coral gradient, email waitlist form, App Store badge, and minimal footer with logo and links](https://fudge.design/share/pin-7669)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The layout appears designed for desktop-first viewing with the phone mockup as a
 ## Scope note
 
 This guide covers the landing page's visible hero, feature introduction, email capture, and footer surfaces. It does not include the app's actual interface shown within the phone mockup, any interior pages linked from the navigation, or interactive states beyond the static captured appearance. Motion, sound, and haptic feedback are not addressed. Measurements are exact where retained and practical adaptation targets where rounded to the 0.125rem grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Landing page](/share/designs-with-page.marketing.landing)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

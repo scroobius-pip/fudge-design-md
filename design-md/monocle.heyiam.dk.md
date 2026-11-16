@@ -1,18 +1,18 @@
 # How monocle.heyiam.dk is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/monocle.heyiam.dk-design)
+[Open the live Fudge conversation](https://fudge.design/share/monocle.heyiam.dk-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark page section with handwritten script '...just wiggle your mouse' and pricing details for a macOS focus app](https://pin.fontofweb.com/5623?format=jpg)](https://design.withfudge.com/share/pin-5623)
+[![Dark page section with handwritten script '...just wiggle your mouse' and pricing details for a macOS focus app](https://pin.fontofweb.com/5623?format=jpg)](https://fudge.design/share/pin-5623)
 
-[Dark page section with handwritten script '...just wiggle your mouse' and pricing details for a macOS focus app](https://design.withfudge.com/share/pin-5623)
+[Dark page section with handwritten script '...just wiggle your mouse' and pricing details for a macOS focus app](https://fudge.design/share/pin-5623)
 
-[![Hero section with gradient app icon, handwritten 'monocle' logotype, pill download button, and floating navigation bar](https://pin.fontofweb.com/5622?format=jpg)](https://design.withfudge.com/share/pin-5622)
+[![Hero section with gradient app icon, handwritten 'monocle' logotype, pill download button, and floating navigation bar](https://pin.fontofweb.com/5622?format=jpg)](https://fudge.design/share/pin-5622)
 
-[Hero section with gradient app icon, handwritten 'monocle' logotype, pill download button, and floating navigation bar](https://design.withfudge.com/share/pin-5622)
+[Hero section with gradient app icon, handwritten 'monocle' logotype, pill download button, and floating navigation bar](https://fudge.design/share/pin-5622)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The supplied images show only desktop presentation. Based on the centered, singl
 ## Scope note
 
 This guide covers the Monocle landing page hero and introductory sections as visible in desktop presentation. Mobile breakpoints, motion design, additional interior pages, and checkout or download flows are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

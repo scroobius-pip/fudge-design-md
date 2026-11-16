@@ -1,26 +1,26 @@
 # How sadewa.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sadewa.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/sadewa.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with large outlined Sadewa wordmark and circuit-board icon on near-black background](https://pin.fontofweb.com/5966?format=jpg)](https://design.withfudge.com/share/pin-5966)
+[![Dark footer with large outlined Sadewa wordmark and circuit-board icon on near-black background](https://pin.fontofweb.com/5966?format=jpg)](https://fudge.design/share/pin-5966)
 
-[Dark footer with large outlined Sadewa wordmark and circuit-board icon on near-black background](https://design.withfudge.com/share/pin-5966)
+[Dark footer with large outlined Sadewa wordmark and circuit-board icon on near-black background](https://fudge.design/share/pin-5966)
 
-[![Vibrant lime-green CTA section with 3D glass circuit icon and multi-column dark footer navigation](https://pin.fontofweb.com/5965?format=jpg)](https://design.withfudge.com/share/pin-5965)
+[![Vibrant lime-green CTA section with 3D glass circuit icon and multi-column dark footer navigation](https://pin.fontofweb.com/5965?format=jpg)](https://fudge.design/share/pin-5965)
 
-[Vibrant lime-green CTA section with 3D glass circuit icon and multi-column dark footer navigation](https://design.withfudge.com/share/pin-5965)
+[Vibrant lime-green CTA section with 3D glass circuit icon and multi-column dark footer navigation](https://fudge.design/share/pin-5965)
 
-[![Light blog section with editorial card grid, category tags, and asymmetric image cropping](https://pin.fontofweb.com/5964?format=jpg)](https://design.withfudge.com/share/pin-5964)
+[![Light blog section with editorial card grid, category tags, and asymmetric image cropping](https://pin.fontofweb.com/5964?format=jpg)](https://fudge.design/share/pin-5964)
 
-[Light blog section with editorial card grid, category tags, and asymmetric image cropping](https://design.withfudge.com/share/pin-5964)
+[Light blog section with editorial card grid, category tags, and asymmetric image cropping](https://fudge.design/share/pin-5964)
 
-[![FAQ accordion with stacked gray panels, plus-minus toggles, and bold left-aligned section heading](https://pin.fontofweb.com/5963?format=jpg)](https://design.withfudge.com/share/pin-5963)
+[![FAQ accordion with stacked gray panels, plus-minus toggles, and bold left-aligned section heading](https://pin.fontofweb.com/5963?format=jpg)](https://fudge.design/share/pin-5963)
 
-[FAQ accordion with stacked gray panels, plus-minus toggles, and bold left-aligned section heading](https://design.withfudge.com/share/pin-5963)
+[FAQ accordion with stacked gray panels, plus-minus toggles, and bold left-aligned section heading](https://fudge.design/share/pin-5963)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Dark sections maintain their character across breakpoints—the lime accent agai
 ## Scope note
 
 This guide covers the homepage and visible landing sections including the blog preview, FAQ, footer, and navigation. Interior pages such as individual case studies and blog posts are not represented. Mobile breakpoints, hover transitions, form validation states, and loading sequences are not documented. Measurements derive from the supplied interface data.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

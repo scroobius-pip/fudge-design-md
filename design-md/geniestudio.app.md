@@ -1,26 +1,26 @@
 # How geniestudio.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/geniestudio.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/geniestudio.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature cards section with pastel blue, lavender, and mint green rounded panels showing collections, collaboration, and prompt enhancement features](https://pin.fontofweb.com/3799?format=jpg)](https://design.withfudge.com/share/pin-3799)
+[![Feature cards section with pastel blue, lavender, and mint green rounded panels showing collections, collaboration, and prompt enhancement features](https://pin.fontofweb.com/3799?format=jpg)](https://fudge.design/share/pin-3799)
 
-[Feature cards section with pastel blue, lavender, and mint green rounded panels showing collections, collaboration, and prompt enhancement features](https://design.withfudge.com/share/pin-3799)
+[Feature cards section with pastel blue, lavender, and mint green rounded panels showing collections, collaboration, and prompt enhancement features](https://fudge.design/share/pin-3799)
 
-[![Testimonials grid with light gray quote cards, avatar photos, and company logos in a horizontal scrolling layout](https://pin.fontofweb.com/3798?format=jpg)](https://design.withfudge.com/share/pin-3798)
+[![Testimonials grid with light gray quote cards, avatar photos, and company logos in a horizontal scrolling layout](https://pin.fontofweb.com/3798?format=jpg)](https://fudge.design/share/pin-3798)
 
-[Testimonials grid with light gray quote cards, avatar photos, and company logos in a horizontal scrolling layout](https://design.withfudge.com/share/pin-3798)
+[Testimonials grid with light gray quote cards, avatar photos, and company logos in a horizontal scrolling layout](https://fudge.design/share/pin-3798)
 
-[![FAQ accordion with decorative circular sticker border containing colorful icons and flowers around the letter G](https://pin.fontofweb.com/3797?format=jpg)](https://design.withfudge.com/share/pin-3797)
+[![FAQ accordion with decorative circular sticker border containing colorful icons and flowers around the letter G](https://pin.fontofweb.com/3797?format=jpg)](https://fudge.design/share/pin-3797)
 
-[FAQ accordion with decorative circular sticker border containing colorful icons and flowers around the letter G](https://design.withfudge.com/share/pin-3797)
+[FAQ accordion with decorative circular sticker border containing colorful icons and flowers around the letter G](https://fudge.design/share/pin-3797)
 
-[![Hero footer section with large blue cloud mascot, gradient sky background, and centered waitlist call-to-action](https://pin.fontofweb.com/3796?format=jpg)](https://design.withfudge.com/share/pin-3796)
+[![Hero footer section with large blue cloud mascot, gradient sky background, and centered waitlist call-to-action](https://pin.fontofweb.com/3796?format=jpg)](https://fudge.design/share/pin-3796)
 
-[Hero footer section with large blue cloud mascot, gradient sky background, and centered waitlist call-to-action](https://design.withfudge.com/share/pin-3796)
+[Hero footer section with large blue cloud mascot, gradient sky background, and centered waitlist call-to-action](https://fudge.design/share/pin-3796)
 
 ## Overview
 
@@ -198,3 +198,18 @@ The cloud mascot in the hero/footer scales proportionally but should maintain su
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images: hero, features, testimonials, FAQ, and footer sections. Navigation behavior, mobile layouts, form validation states, and any dashboard or application interfaces beyond this marketing surface are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

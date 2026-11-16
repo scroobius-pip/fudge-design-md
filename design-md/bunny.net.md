@@ -1,26 +1,26 @@
 # How bunny.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bunny.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/bunny.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer navigation with multi-column product links, orange Contact Sales button, and illustrated bunny mascot on light blue background](https://pin.fontofweb.com/4569?format=jpg)](https://design.withfudge.com/share/pin-4569)
+[![Footer navigation with multi-column product links, orange Contact Sales button, and illustrated bunny mascot on light blue background](https://pin.fontofweb.com/4569?format=jpg)](https://fudge.design/share/pin-4569)
 
-[Footer navigation with multi-column product links, orange Contact Sales button, and illustrated bunny mascot on light blue background](https://design.withfudge.com/share/pin-4569)
+[Footer navigation with multi-column product links, orange Contact Sales button, and illustrated bunny mascot on light blue background](https://fudge.design/share/pin-4569)
 
-[![Cookie consent banner with dark navy bar, orange bunny character illustration, and white dismissible notice strip](https://pin.fontofweb.com/4568?format=jpg)](https://design.withfudge.com/share/pin-4568)
+[![Cookie consent banner with dark navy bar, orange bunny character illustration, and white dismissible notice strip](https://pin.fontofweb.com/4568?format=jpg)](https://fudge.design/share/pin-4568)
 
-[Cookie consent banner with dark navy bar, orange bunny character illustration, and white dismissible notice strip](https://design.withfudge.com/share/pin-4568)
+[Cookie consent banner with dark navy bar, orange bunny character illustration, and white dismissible notice strip](https://fudge.design/share/pin-4568)
 
-[![Hero call-to-action panel with dark navy rounded rectangle, orange primary button, outlined secondary button, and astronaut bunny illustration](https://pin.fontofweb.com/4567?format=jpg)](https://design.withfudge.com/share/pin-4567)
+[![Hero call-to-action panel with dark navy rounded rectangle, orange primary button, outlined secondary button, and astronaut bunny illustration](https://pin.fontofweb.com/4567?format=jpg)](https://fudge.design/share/pin-4567)
 
-[Hero call-to-action panel with dark navy rounded rectangle, orange primary button, outlined secondary button, and astronaut bunny illustration](https://design.withfudge.com/share/pin-4567)
+[Hero call-to-action panel with dark navy rounded rectangle, orange primary button, outlined secondary button, and astronaut bunny illustration](https://fudge.design/share/pin-4567)
 
-[![Social proof section with customer testimonial card, dark navy case study badge, G2 and Trustpilot ratings, and four-column benefit metrics](https://pin.fontofweb.com/4566?format=jpg)](https://design.withfudge.com/share/pin-4566)
+[![Social proof section with customer testimonial card, dark navy case study badge, G2 and Trustpilot ratings, and four-column benefit metrics](https://pin.fontofweb.com/4566?format=jpg)](https://fudge.design/share/pin-4566)
 
-[Social proof section with customer testimonial card, dark navy case study badge, G2 and Trustpilot ratings, and four-column benefit metrics](https://design.withfudge.com/share/pin-4566)
+[Social proof section with customer testimonial card, dark navy case study badge, G2 and Trustpilot ratings, and four-column benefit metrics](https://fudge.design/share/pin-4566)
 
 ## Overview
 
@@ -198,3 +198,18 @@ The cookie banner's horizontal arrangement with character, text, and dismiss con
 ## Scope note
 
 This guide covers the bunny.net marketing homepage visible in the supplied images, including hero sections, social proof, and footer navigation. Interior product pages, dashboard interfaces, pricing tables, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

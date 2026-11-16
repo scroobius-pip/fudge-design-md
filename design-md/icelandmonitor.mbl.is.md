@@ -1,22 +1,22 @@
 # How icelandmonitor.mbl.is is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/icelandmonitor.mbl.is-design)
+[Open the live Fudge conversation](https://fudge.design/share/icelandmonitor.mbl.is-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body with portrait photograph of Florian Jacob, caption bar, and lead paragraphs with black text on white background](https://pin.fontofweb.com/9140?format=jpg)](https://design.withfudge.com/share/pin-9140)
+[![Article body with portrait photograph of Florian Jacob, caption bar, and lead paragraphs with black text on white background](https://pin.fontofweb.com/9140?format=jpg)](https://fudge.design/share/pin-9140)
 
-[Article body with portrait photograph of Florian Jacob, caption bar, and lead paragraphs with black text on white background](https://design.withfudge.com/share/pin-9140)
+[Article body with portrait photograph of Florian Jacob, caption bar, and lead paragraphs with black text on white background](https://fudge.design/share/pin-9140)
 
-[![Upper article section showing portrait image with blue fleece collar and caption, followed by historical narrative paragraphs](https://pin.fontofweb.com/9139?format=jpg)](https://design.withfudge.com/share/pin-9139)
+[![Upper article section showing portrait image with blue fleece collar and caption, followed by historical narrative paragraphs](https://pin.fontofweb.com/9139?format=jpg)](https://fudge.design/share/pin-9139)
 
-[Upper article section showing portrait image with blue fleece collar and caption, followed by historical narrative paragraphs](https://design.withfudge.com/share/pin-9139)
+[Upper article section showing portrait image with blue fleece collar and caption, followed by historical narrative paragraphs](https://fudge.design/share/pin-9139)
 
-[![University of Iceland Lögberg building photograph with photo credit, article subheading, and biographical text about Florian Jacob](https://pin.fontofweb.com/9138?format=jpg)](https://design.withfudge.com/share/pin-9138)
+[![University of Iceland Lögberg building photograph with photo credit, article subheading, and biographical text about Florian Jacob](https://pin.fontofweb.com/9138?format=jpg)](https://fudge.design/share/pin-9138)
 
-[University of Iceland Lögberg building photograph with photo credit, article subheading, and biographical text about Florian Jacob](https://design.withfudge.com/share/pin-9138)
+[University of Iceland Lögberg building photograph with photo credit, article subheading, and biographical text about Florian Jacob](https://fudge.design/share/pin-9138)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Image caption bars should maintain their full-width relationship to photographs 
 ## Scope note
 
 This guide covers the article reading experience on Iceland Monitor's news pages. The supplied images show a single article template with portrait and architectural photography, body text, captions, and header navigation. Mobile layouts, breakpoint behavior, homepage grids, category listings, search results, comments, subscription flows, and advertising integrations are not represented. Footer content, social sharing controls, and related article modules are also outside the current scope.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

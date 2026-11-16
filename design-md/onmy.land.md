@@ -1,22 +1,22 @@
 # How onmy.land is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/onmy.land-design)
+[Open the live Fudge conversation](https://fudge.design/share/onmy.land-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with serif headline 'Your page, on your land.' on light canvas, dark footer with four-column link grid and Åland Islands badge](https://pin.fontofweb.com/9995?format=jpg)](https://design.withfudge.com/share/pin-9995)
+[![Hero section with serif headline 'Your page, on your land.' on light canvas, dark footer with four-column link grid and Åland Islands badge](https://pin.fontofweb.com/9995?format=jpg)](https://fudge.design/share/pin-9995)
 
-[Hero section with serif headline 'Your page, on your land.' on light canvas, dark footer with four-column link grid and Åland Islands badge](https://design.withfudge.com/share/pin-9995)
+[Hero section with serif headline 'Your page, on your land.' on light canvas, dark footer with four-column link grid and Åland Islands badge](https://fudge.design/share/pin-9995)
 
-[![Pricing section with italic serif 'Pro' card on dark surface, overlaid on grayscale botanical illustration with toggle and feature list](https://pin.fontofweb.com/9994?format=jpg)](https://design.withfudge.com/share/pin-9994)
+[![Pricing section with italic serif 'Pro' card on dark surface, overlaid on grayscale botanical illustration with toggle and feature list](https://pin.fontofweb.com/9994?format=jpg)](https://fudge.design/share/pin-9994)
 
-[Pricing section with italic serif 'Pro' card on dark surface, overlaid on grayscale botanical illustration with toggle and feature list](https://design.withfudge.com/share/pin-9994)
+[Pricing section with italic serif 'Pro' card on dark surface, overlaid on grayscale botanical illustration with toggle and feature list](https://fudge.design/share/pin-9994)
 
-[![Homepage hero with dark background, three demo site previews in carousel, and navigation with logo and utility links](https://pin.fontofweb.com/9993?format=jpg)](https://design.withfudge.com/share/pin-9993)
+[![Homepage hero with dark background, three demo site previews in carousel, and navigation with logo and utility links](https://pin.fontofweb.com/9993?format=jpg)](https://fudge.design/share/pin-9993)
 
-[Homepage hero with dark background, three demo site previews in carousel, and navigation with logo and utility links](https://design.withfudge.com/share/pin-9993)
+[Homepage hero with dark background, three demo site previews in carousel, and navigation with logo and utility links](https://fudge.design/share/pin-9993)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Typography scales down by approximately 15-20% on mobile: hero-display to 2.5rem
 ## Scope note
 
 This guide covers the onmy.land marketing homepage including the hero, pricing, demo carousel, and footer surfaces. It does not include the actual site builder interface, user dashboard, account settings, or checkout flow. Motion behavior for the carousel, hover states on demo previews, and mobile-specific navigation patterns are not documented here. Measurements are exact where retained; spacing values derive from the extracted pixel scale converted to rem at 16px root.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

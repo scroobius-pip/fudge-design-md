@@ -1,26 +1,26 @@
 # How buildform.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/buildform.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/buildform.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page showing four-tier plan cards with purple CTA buttons, toggle switch for yearly/monthly billing, and green checkmark feature lists against a clean white background.](https://pin.fontofweb.com/2682?format=jpg)](https://design.withfudge.com/share/pin-2682)
+[![Pricing page showing four-tier plan cards with purple CTA buttons, toggle switch for yearly/monthly billing, and green checkmark feature lists against a clean white background.](https://pin.fontofweb.com/2682?format=jpg)](https://fudge.design/share/pin-2682)
 
-[Pricing page showing four-tier plan cards with purple CTA buttons, toggle switch for yearly/monthly billing, and green checkmark feature lists against a clean white background.](https://design.withfudge.com/share/pin-2682)
+[Pricing page showing four-tier plan cards with purple CTA buttons, toggle switch for yearly/monthly billing, and green checkmark feature lists against a clean white background.](https://fudge.design/share/pin-2682)
 
-[![Footer and final CTA section with radiating blue line pattern, bold display headline, purple action button, and multi-column footer with social links and status indicator.](https://pin.fontofweb.com/2681?format=jpg)](https://design.withfudge.com/share/pin-2681)
+[![Footer and final CTA section with radiating blue line pattern, bold display headline, purple action button, and multi-column footer with social links and status indicator.](https://pin.fontofweb.com/2681?format=jpg)](https://fudge.design/share/pin-2681)
 
-[Footer and final CTA section with radiating blue line pattern, bold display headline, purple action button, and multi-column footer with social links and status indicator.](https://design.withfudge.com/share/pin-2681)
+[Footer and final CTA section with radiating blue line pattern, bold display headline, purple action button, and multi-column footer with social links and status indicator.](https://fudge.design/share/pin-2681)
 
-[![FAQ accordion section with rounded bordered panels, plus and minus toggle icons, and centered section heading with muted body text.](https://pin.fontofweb.com/2680?format=jpg)](https://design.withfudge.com/share/pin-2680)
+[![FAQ accordion section with rounded bordered panels, plus and minus toggle icons, and centered section heading with muted body text.](https://pin.fontofweb.com/2680?format=jpg)](https://fudge.design/share/pin-2680)
 
-[FAQ accordion section with rounded bordered panels, plus and minus toggle icons, and centered section heading with muted body text.](https://design.withfudge.com/share/pin-2680)
+[FAQ accordion section with rounded bordered panels, plus and minus toggle icons, and centered section heading with muted body text.](https://fudge.design/share/pin-2680)
 
-[![Competitive comparison table with bold uppercase heading, alternating row backgrounds, green checkmarks, red crosses, and yellow warning icons in a bordered grid layout.](https://pin.fontofweb.com/2679?format=jpg)](https://design.withfudge.com/share/pin-2679)
+[![Competitive comparison table with bold uppercase heading, alternating row backgrounds, green checkmarks, red crosses, and yellow warning icons in a bordered grid layout.](https://pin.fontofweb.com/2679?format=jpg)](https://fudge.design/share/pin-2679)
 
-[Competitive comparison table with bold uppercase heading, alternating row backgrounds, green checkmarks, red crosses, and yellow warning icons in a bordered grid layout.](https://design.withfudge.com/share/pin-2679)
+[Competitive comparison table with bold uppercase heading, alternating row backgrounds, green checkmarks, red crosses, and yellow warning icons in a bordered grid layout.](https://fudge.design/share/pin-2679)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The hero and section display typography should scale down proportionally: hero-d
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage sections, pricing page, FAQ accordion, competitive comparison table, and global footer. The form builder application interface, authentication flows, dashboard, and mobile navigation are not represented. Measurements are practical adaptation targets derived from visual inspection at a 4px relative unit. Motion, hover states, loading indicators, and dark mode are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

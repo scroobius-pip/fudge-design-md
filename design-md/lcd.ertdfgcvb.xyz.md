@@ -1,22 +1,22 @@
 # How lcd.ertdfgcvb.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lcd.ertdfgcvb.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/lcd.ertdfgcvb.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Statement section with monospace text on black background, showing project description and credits in a two-column layout with light gray text.](https://pin.fontofweb.com/7099?format=jpg)](https://design.withfudge.com/share/pin-7099)
+[![Statement section with monospace text on black background, showing project description and credits in a two-column layout with light gray text.](https://pin.fontofweb.com/7099?format=jpg)](https://fudge.design/share/pin-7099)
 
-[Statement section with monospace text on black background, showing project description and credits in a two-column layout with light gray text.](https://design.withfudge.com/share/pin-7099)
+[Statement section with monospace text on black background, showing project description and credits in a two-column layout with light gray text.](https://fudge.design/share/pin-7099)
 
-[![Close-up photograph of the LCD 1 circuit board showing battery, ESP32 module, USB-C port, and gold-accented components against neutral gray background.](https://pin.fontofweb.com/7098?format=jpg)](https://design.withfudge.com/share/pin-7098)
+[![Close-up photograph of the LCD 1 circuit board showing battery, ESP32 module, USB-C port, and gold-accented components against neutral gray background.](https://pin.fontofweb.com/7098?format=jpg)](https://fudge.design/share/pin-7098)
 
-[Close-up photograph of the LCD 1 circuit board showing battery, ESP32 module, USB-C port, and gold-accented components against neutral gray background.](https://design.withfudge.com/share/pin-7098)
+[Close-up photograph of the LCD 1 circuit board showing battery, ESP32 module, USB-C port, and gold-accented components against neutral gray background.](https://fudge.design/share/pin-7098)
 
-[![Hero section featuring the LCD 1 device with ASCII art display, edition information, and navigation links on dark gradient background with white monospace typography.](https://pin.fontofweb.com/7097?format=jpg)](https://design.withfudge.com/share/pin-7097)
+[![Hero section featuring the LCD 1 device with ASCII art display, edition information, and navigation links on dark gradient background with white monospace typography.](https://pin.fontofweb.com/7097?format=jpg)](https://fudge.design/share/pin-7097)
 
-[Hero section featuring the LCD 1 device with ASCII art display, edition information, and navigation links on dark gradient background with white monospace typography.](https://design.withfudge.com/share/pin-7097)
+[Hero section featuring the LCD 1 device with ASCII art display, edition information, and navigation links on dark gradient background with white monospace typography.](https://fudge.design/share/pin-7097)
 
 ## Overview
 
@@ -178,3 +178,18 @@ No breakpoint-specific behavior is visible in the supplied images. Implementatio
 ## Scope note
 
 This guide covers the single-page presentation of the LCD 1 device, including the hero, statement, links, and credits sections. The auction page, assembly instructions, and token marketplace referenced in navigation are not included. No mobile-specific layouts, animation specifications, or interactive states beyond basic link behavior are documented. The font sources "By Norm Dimitri Bruni Manuel Krebs 1999-2070304044227436056" and "By Norm Dimitri Bruni Manuel Krebs 1999-4607008185276393868" correspond to the Bold and Regular weights of the primary family. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

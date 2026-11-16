@@ -1,22 +1,22 @@
 # How humalike.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/humalike.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/humalike.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with serif headline, code block, classical illustration, and video preview on deep blue canvas](https://pin.fontofweb.com/10446?format=jpg)](https://design.withfudge.com/share/pin-10446)
+[![Hero section with serif headline, code block, classical illustration, and video preview on deep blue canvas](https://pin.fontofweb.com/10446?format=jpg)](https://fudge.design/share/pin-10446)
 
-[Hero section with serif headline, code block, classical illustration, and video preview on deep blue canvas](https://design.withfudge.com/share/pin-10446)
+[Hero section with serif headline, code block, classical illustration, and video preview on deep blue canvas](https://fudge.design/share/pin-10446)
 
-[![Feature grid with four classical engravings, integration logos, and numbered capability cards](https://pin.fontofweb.com/10447?format=jpg)](https://design.withfudge.com/share/pin-10447)
+[![Feature grid with four classical engravings, integration logos, and numbered capability cards](https://pin.fontofweb.com/10447?format=jpg)](https://fudge.design/share/pin-10447)
 
-[Feature grid with four classical engravings, integration logos, and numbered capability cards](https://design.withfudge.com/share/pin-10447)
+[Feature grid with four classical engravings, integration logos, and numbered capability cards](https://fudge.design/share/pin-10447)
 
-[![Footer with contact CTAs, community Discord button, and multi-column link groups on blue background](https://pin.fontofweb.com/10448?format=jpg)](https://design.withfudge.com/share/pin-10448)
+[![Footer with contact CTAs, community Discord button, and multi-column link groups on blue background](https://pin.fontofweb.com/10448?format=jpg)](https://fudge.design/share/pin-10448)
 
-[Footer with contact CTAs, community Discord button, and multi-column link groups on blue background](https://design.withfudge.com/share/pin-10448)
+[Footer with contact CTAs, community Discord button, and multi-column link groups on blue background](https://fudge.design/share/pin-10448)
 
 ## Overview
 
@@ -189,3 +189,18 @@ The layout is desktop-first with a viewport width near 1720px. At this scale, th
 ## Scope note
 
 This guide covers the Hermes plugin landing page on desktop viewport. Mobile breakpoints, animation, hover states, form validation, and additional marketing pages are not included. The radius and spacing values reflect the exact measurements from this page surface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

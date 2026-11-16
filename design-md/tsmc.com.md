@@ -1,26 +1,26 @@
 # How tsmc.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tsmc.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tsmc.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About TSMC hero banner with semiconductor fabrication facility photograph and white text overlay on blue sky gradient](https://pin.fontofweb.com/2327?format=jpg)](https://design.withfudge.com/share/pin-2327)
+[![About TSMC hero banner with semiconductor fabrication facility photograph and white text overlay on blue sky gradient](https://pin.fontofweb.com/2327?format=jpg)](https://fudge.design/share/pin-2327)
 
-[About TSMC hero banner with semiconductor fabrication facility photograph and white text overlay on blue sky gradient](https://design.withfudge.com/share/pin-2327)
+[About TSMC hero banner with semiconductor fabrication facility photograph and white text overlay on blue sky gradient](https://fudge.design/share/pin-2327)
 
-[![Footer section with three portal cards on dark gray background, multi-column site map, and social media icons](https://pin.fontofweb.com/2326?format=jpg)](https://design.withfudge.com/share/pin-2326)
+[![Footer section with three portal cards on dark gray background, multi-column site map, and social media icons](https://pin.fontofweb.com/2326?format=jpg)](https://fudge.design/share/pin-2326)
 
-[Footer section with three portal cards on dark gray background, multi-column site map, and social media icons](https://design.withfudge.com/share/pin-2326)
+[Footer section with three portal cards on dark gray background, multi-column site map, and social media icons](https://fudge.design/share/pin-2326)
 
-[![Three-column content cards featuring Sustainability Report, TCIA awards, and Charity Foundation with red action links](https://pin.fontofweb.com/2325?format=jpg)](https://design.withfudge.com/share/pin-2325)
+[![Three-column content cards featuring Sustainability Report, TCIA awards, and Charity Foundation with red action links](https://pin.fontofweb.com/2325?format=jpg)](https://fudge.design/share/pin-2325)
 
-[Three-column content cards featuring Sustainability Report, TCIA awards, and Charity Foundation with red action links](https://design.withfudge.com/share/pin-2325)
+[Three-column content cards featuring Sustainability Report, TCIA awards, and Charity Foundation with red action links](https://fudge.design/share/pin-2325)
 
-[![Primary navigation bar with TSMC logo, main menu items, search icon, and language selector pill](https://pin.fontofweb.com/2324?format=jpg)](https://design.withfudge.com/share/pin-2324)
+[![Primary navigation bar with TSMC logo, main menu items, search icon, and language selector pill](https://pin.fontofweb.com/2324?format=jpg)](https://fudge.design/share/pin-2324)
 
-[Primary navigation bar with TSMC logo, main menu items, search icon, and language selector pill](https://design.withfudge.com/share/pin-2324)
+[Primary navigation bar with TSMC logo, main menu items, search icon, and language selector pill](https://fudge.design/share/pin-2324)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The language selector, currently exposed as a pill with multiple options, may re
 ## Scope note
 
 This guide covers the TSMC corporate website homepage and About TSMC page surfaces visible in the supplied images, including primary navigation, hero banners, content card grids, footer architecture, and portal links. Mobile layouts, hover and focus states, loading indicators, form interactions, search functionality, and interior page templates are not represented. Measurements are practical adaptation targets derived from visual inspection of desktop screenshots.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

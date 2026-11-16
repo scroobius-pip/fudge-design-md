@@ -1,18 +1,18 @@
 # How useforma.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/useforma.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/useforma.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Bueno display type, orange-yellow gradient CTA button, and app dock illustration on dark background](https://pin.fontofweb.com/6496?format=jpg)](https://design.withfudge.com/share/pin-6496)
+[![Hero section with large Bueno display type, orange-yellow gradient CTA button, and app dock illustration on dark background](https://pin.fontofweb.com/6496?format=jpg)](https://fudge.design/share/pin-6496)
 
-[Hero section with large Bueno display type, orange-yellow gradient CTA button, and app dock illustration on dark background](https://design.withfudge.com/share/pin-6496)
+[Hero section with large Bueno display type, orange-yellow gradient CTA button, and app dock illustration on dark background](https://fudge.design/share/pin-6496)
 
-[![Feature grid with four numbered cards showing canvas, marker, productivity chart, and markdown capabilities on white background](https://pin.fontofweb.com/6497?format=jpg)](https://design.withfudge.com/share/pin-6497)
+[![Feature grid with four numbered cards showing canvas, marker, productivity chart, and markdown capabilities on white background](https://pin.fontofweb.com/6497?format=jpg)](https://fudge.design/share/pin-6497)
 
-[Feature grid with four numbered cards showing canvas, marker, productivity chart, and markdown capabilities on white background](https://design.withfudge.com/share/pin-6497)
+[Feature grid with four numbered cards showing canvas, marker, productivity chart, and markdown capabilities on white background](https://fudge.design/share/pin-6497)
 
 ## Overview
 
@@ -160,3 +160,18 @@ Navigation elements, not fully visible in the supplied views, should maintain th
 ## Scope note
 
 This guide covers the Forma landing page hero, feature grid, and product showcase sections. Navigation, footer, pricing page, and application interface are not represented in the supplied views. Motion, interaction states, and mobile-specific layouts are not documented. The 3-pixel base unit and derived rem values are practical adaptation targets for reproduction.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

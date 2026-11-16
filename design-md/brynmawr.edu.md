@@ -1,26 +1,26 @@
 # How brynmawr.edu is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/brynmawr.edu-design)
+[Open the live Fudge conversation](https://fudge.design/share/brynmawr.edu-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with navy headings, orange plus icons, and a light teal rule line on a white background](https://pin.fontofweb.com/2923?format=jpg)](https://design.withfudge.com/share/pin-2923)
+[![FAQ accordion section with navy headings, orange plus icons, and a light teal rule line on a white background](https://pin.fontofweb.com/2923?format=jpg)](https://fudge.design/share/pin-2923)
 
-[FAQ accordion section with navy headings, orange plus icons, and a light teal rule line on a white background](https://design.withfudge.com/share/pin-2923)
+[FAQ accordion section with navy headings, orange plus icons, and a light teal rule line on a white background](https://fudge.design/share/pin-2923)
 
-[![Decision plan accordion with bold navy section title, orange expand icons, and structured deadline content](https://pin.fontofweb.com/2922?format=jpg)](https://design.withfudge.com/share/pin-2922)
+[![Decision plan accordion with bold navy section title, orange expand icons, and structured deadline content](https://pin.fontofweb.com/2922?format=jpg)](https://fudge.design/share/pin-2922)
 
-[Decision plan accordion with bold navy section title, orange expand icons, and structured deadline content](https://design.withfudge.com/share/pin-2922)
+[Decision plan accordion with bold navy section title, orange expand icons, and structured deadline content](https://fudge.design/share/pin-2922)
 
-[![360 Program FAQ with italic serif display heading, orange interactive markers, and linked text in orange](https://pin.fontofweb.com/2921?format=jpg)](https://design.withfudge.com/share/pin-2921)
+[![360 Program FAQ with italic serif display heading, orange interactive markers, and linked text in orange](https://pin.fontofweb.com/2921?format=jpg)](https://fudge.design/share/pin-2921)
 
-[360 Program FAQ with italic serif display heading, orange interactive markers, and linked text in orange](https://design.withfudge.com/share/pin-2921)
+[360 Program FAQ with italic serif display heading, orange interactive markers, and linked text in orange](https://fudge.design/share/pin-2921)
 
-[![Featured article card with full-bleed photography, overlapping white content panel, and yellow call-to-action button](https://pin.fontofweb.com/2920?format=jpg)](https://design.withfudge.com/share/pin-2920)
+[![Featured article card with full-bleed photography, overlapping white content panel, and yellow call-to-action button](https://pin.fontofweb.com/2920?format=jpg)](https://fudge.design/share/pin-2920)
 
-[Featured article card with full-bleed photography, overlapping white content panel, and yellow call-to-action button](https://design.withfudge.com/share/pin-2920)
+[Featured article card with full-bleed photography, overlapping white content panel, and yellow call-to-action button](https://fudge.design/share/pin-2920)
 
 ## Overview
 
@@ -149,3 +149,18 @@ Navigation, not fully visible in the supplied images, should collapse to a hambu
 ## Scope note
 
 This guide covers the content page and featured article patterns visible in the supplied admissions and program pages. Global navigation, footer systems, form components, and mobile-specific layouts were not present in the source material and are not specified. Measurements are practical adaptation targets derived from visible proportions. Motion, hover states, and loading behavior should be implemented with standard accessibility practices rather than specific source-defined patterns.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

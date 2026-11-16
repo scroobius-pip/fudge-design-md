@@ -1,26 +1,26 @@
 # How img.arible.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/img.arible.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/img.arible.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with ARIBLE STOCK IMAGE AI title, live sandbox form with prompt input, seed field, private key textarea, and yellow-accented generate button on near-black background](https://pin.fontofweb.com/5512?format=jpg)](https://design.withfudge.com/share/pin-5512)
+[![Hero section with ARIBLE STOCK IMAGE AI title, live sandbox form with prompt input, seed field, private key textarea, and yellow-accented generate button on near-black background](https://pin.fontofweb.com/5512?format=jpg)](https://fudge.design/share/pin-5512)
 
-[Hero section with ARIBLE STOCK IMAGE AI title, live sandbox form with prompt input, seed field, private key textarea, and yellow-accented generate button on near-black background](https://design.withfudge.com/share/pin-5512)
+[Hero section with ARIBLE STOCK IMAGE AI title, live sandbox form with prompt input, seed field, private key textarea, and yellow-accented generate button on near-black background](https://fudge.design/share/pin-5512)
 
-[![Three-column pricing grid with numbered steps, PayPal subscribe button in yellow, and email contact link with cyan accents](https://pin.fontofweb.com/5513?format=jpg)](https://design.withfudge.com/share/pin-5513)
+[![Three-column pricing grid with numbered steps, PayPal subscribe button in yellow, and email contact link with cyan accents](https://pin.fontofweb.com/5513?format=jpg)](https://fudge.design/share/pin-5513)
 
-[Three-column pricing grid with numbered steps, PayPal subscribe button in yellow, and email contact link with cyan accents](https://design.withfudge.com/share/pin-5513)
+[Three-column pricing grid with numbered steps, PayPal subscribe button in yellow, and email contact link with cyan accents](https://fudge.design/share/pin-5513)
 
-[![Integration guide with expandable accordion sections showing frontend img tag example and Node.js backend code block with syntax highlighting](https://pin.fontofweb.com/5514?format=jpg)](https://design.withfudge.com/share/pin-5514)
+[![Integration guide with expandable accordion sections showing frontend img tag example and Node.js backend code block with syntax highlighting](https://pin.fontofweb.com/5514?format=jpg)](https://fudge.design/share/pin-5514)
 
-[Integration guide with expandable accordion sections showing frontend img tag example and Node.js backend code block with syntax highlighting](https://design.withfudge.com/share/pin-5514)
+[Integration guide with expandable accordion sections showing frontend img tag example and Node.js backend code block with syntax highlighting](https://fudge.design/share/pin-5514)
 
-[![Python backend code example in dark terminal-style panel, error codes list, and key management section with bordered action buttons](https://pin.fontofweb.com/5515?format=jpg)](https://design.withfudge.com/share/pin-5515)
+[![Python backend code example in dark terminal-style panel, error codes list, and key management section with bordered action buttons](https://pin.fontofweb.com/5515?format=jpg)](https://fudge.design/share/pin-5515)
 
-[Python backend code example in dark terminal-style panel, error codes list, and key management section with bordered action buttons](https://design.withfudge.com/share/pin-5515)
+[Python backend code example in dark terminal-style panel, error codes list, and key management section with bordered action buttons](https://fudge.design/share/pin-5515)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The single-column layout adapts naturally to narrower viewports by maintaining c
 ## Scope note
 
 This guide covers the single-page developer portal visible in the supplied images. Payment flow interactions, mobile-specific layouts, hover and focus states, loading skeletons, error page designs, and the actual image generation results are not represented. Measurements are practical adaptation targets derived from visual inspection of the interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

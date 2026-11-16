@@ -1,26 +1,26 @@
 # How red.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/red.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/red.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with email subscription form on vivid red background, featuring social icons and cookie consent bar with Accept button](https://pin.fontofweb.com/1823?format=jpg)](https://design.withfudge.com/share/pin-1823)
+[![Footer section with email subscription form on vivid red background, featuring social icons and cookie consent bar with Accept button](https://pin.fontofweb.com/1823?format=jpg)](https://fudge.design/share/pin-1823)
 
-[Footer section with email subscription form on vivid red background, featuring social icons and cookie consent bar with Accept button](https://design.withfudge.com/share/pin-1823)
+[Footer section with email subscription form on vivid red background, featuring social icons and cookie consent bar with Accept button](https://fudge.design/share/pin-1823)
 
-[![Ways to Join section with four-column grid of Shop, Learn, Donate, Connect options with red outline icons and red headings on white background](https://pin.fontofweb.com/1822?format=jpg)](https://design.withfudge.com/share/pin-1822)
+[![Ways to Join section with four-column grid of Shop, Learn, Donate, Connect options with red outline icons and red headings on white background](https://pin.fontofweb.com/1822?format=jpg)](https://fudge.design/share/pin-1822)
 
-[Ways to Join section with four-column grid of Shop, Learn, Donate, Connect options with red outline icons and red headings on white background](https://design.withfudge.com/share/pin-1822)
+[Ways to Join section with four-column grid of Shop, Learn, Donate, Connect options with red outline icons and red headings on white background](https://fudge.design/share/pin-1822)
 
-[![Featured Partners grid showing eight brand logos in two rows, followed by nighttime city billboard image with partnership call-to-action buttons](https://pin.fontofweb.com/1821?format=jpg)](https://design.withfudge.com/share/pin-1821)
+[![Featured Partners grid showing eight brand logos in two rows, followed by nighttime city billboard image with partnership call-to-action buttons](https://pin.fontofweb.com/1821?format=jpg)](https://fudge.design/share/pin-1821)
 
-[Featured Partners grid showing eight brand logos in two rows, followed by nighttime city billboard image with partnership call-to-action buttons](https://design.withfudge.com/share/pin-1821)
+[Featured Partners grid showing eight brand logos in two rows, followed by nighttime city billboard image with partnership call-to-action buttons](https://fudge.design/share/pin-1821)
 
-[![The Latest news section with three article cards featuring photography, red headlines, date stamps, and rounded category tags](https://pin.fontofweb.com/1820?format=jpg)](https://design.withfudge.com/share/pin-1820)
+[![The Latest news section with three article cards featuring photography, red headlines, date stamps, and rounded category tags](https://pin.fontofweb.com/1820?format=jpg)](https://fudge.design/share/pin-1820)
 
-[The Latest news section with three article cards featuring photography, red headlines, date stamps, and rounded category tags](https://design.withfudge.com/share/pin-1820)
+[The Latest news section with three article cards featuring photography, red headlines, date stamps, and rounded category tags](https://fudge.design/share/pin-1820)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The cookie consent bar should remain fixed at viewport bottom, with its content 
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images: the hero-adjacent partner section, engagement grid, editorial feed, email subscription footer, and cookie consent bar. Interior pages, navigation dropdowns, mobile menu states, form validation feedback, and hover or focus states are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Public and nonprofit](/share/designs-with-industry.public_nonprofit)
+- [Public service](/share/designs-with-offering.public_service)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

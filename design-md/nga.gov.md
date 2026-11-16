@@ -1,26 +1,26 @@
 # How nga.gov is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nga.gov-design)
+[Open the live Fudge conversation](https://fudge.design/share/nga.gov-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Header with National Gallery of Art wordmark, utility links, and primary navigation on white background](https://pin.fontofweb.com/9275?format=jpg)](https://design.withfudge.com/share/pin-9275)
+[![Header with National Gallery of Art wordmark, utility links, and primary navigation on white background](https://pin.fontofweb.com/9275?format=jpg)](https://fudge.design/share/pin-9275)
 
-[Header with National Gallery of Art wordmark, utility links, and primary navigation on white background](https://design.withfudge.com/share/pin-9275)
+[Header with National Gallery of Art wordmark, utility links, and primary navigation on white background](https://fudge.design/share/pin-9275)
 
-[![About Us page with large serif heading, bold serif intro paragraph, and three-column image grid](https://pin.fontofweb.com/9274?format=jpg)](https://design.withfudge.com/share/pin-9274)
+[![About Us page with large serif heading, bold serif intro paragraph, and three-column image grid](https://pin.fontofweb.com/9274?format=jpg)](https://fudge.design/share/pin-9274)
 
-[About Us page with large serif heading, bold serif intro paragraph, and three-column image grid](https://design.withfudge.com/share/pin-9274)
+[About Us page with large serif heading, bold serif intro paragraph, and three-column image grid](https://fudge.design/share/pin-9274)
 
-[![Hero banner with family photo, blue rooster sculpture, white serif title overlay, and jump-to navigation](https://pin.fontofweb.com/9273?format=jpg)](https://design.withfudge.com/share/pin-9273)
+[![Hero banner with family photo, blue rooster sculpture, white serif title overlay, and jump-to navigation](https://pin.fontofweb.com/9273?format=jpg)](https://fudge.design/share/pin-9273)
 
-[Hero banner with family photo, blue rooster sculpture, white serif title overlay, and jump-to navigation](https://design.withfudge.com/share/pin-9273)
+[Hero banner with family photo, blue rooster sculpture, white serif title overlay, and jump-to navigation](https://fudge.design/share/pin-9273)
 
-[![Essential tips section with two-column layout, icon headings, and horizontal rule separators](https://pin.fontofweb.com/9272?format=jpg)](https://design.withfudge.com/share/pin-9272)
+[![Essential tips section with two-column layout, icon headings, and horizontal rule separators](https://pin.fontofweb.com/9272?format=jpg)](https://fudge.design/share/pin-9272)
 
-[Essential tips section with two-column layout, icon headings, and horizontal rule separators](https://design.withfudge.com/share/pin-9272)
+[Essential tips section with two-column layout, icon headings, and horizontal rule separators](https://fudge.design/share/pin-9272)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Jump-to navigation may require horizontal scroll with fade indicators when secti
 ## Scope note
 
 This guide covers the primary public-facing pages including About Us, Visiting with Kids, and the homepage. Interior pages such as individual event or artwork detail pages, the collection search interface, and e-commerce flows are not represented. Mobile breakpoint behavior, animation specifications beyond the visible toggle control, and form components require additional research.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Public and nonprofit](/share/designs-with-industry.public_nonprofit)
+- [Public service](/share/designs-with-offering.public_service)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

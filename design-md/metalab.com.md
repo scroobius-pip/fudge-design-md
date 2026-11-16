@@ -1,18 +1,18 @@
 # How metalab.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/metalab.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/metalab.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with oversized display typography on black canvas, showing the Robinhood case study introduction with a floating navigation pill containing the Metalab logo and menu](https://pin.fontofweb.com/9784?format=jpg)](https://design.withfudge.com/share/pin-9784)
+[![Hero section with oversized display typography on black canvas, showing the Robinhood case study introduction with a floating navigation pill containing the Metalab logo and menu](https://pin.fontofweb.com/9784?format=jpg)](https://fudge.design/share/pin-9784)
 
-[Hero section with oversized display typography on black canvas, showing the Robinhood case study introduction with a floating navigation pill containing the Metalab logo and menu](https://design.withfudge.com/share/pin-9784)
+[Hero section with oversized display typography on black canvas, showing the Robinhood case study introduction with a floating navigation pill containing the Metalab logo and menu](https://fudge.design/share/pin-9784)
 
-[![Body section with a bright lime-green accent bar at top, followed by white paragraph text on black background describing the design process and brand translation work.](https://pin.fontofweb.com/9785?format=jpg)](https://design.withfudge.com/share/pin-9785)
+[![Body section with a bright lime-green accent bar at top, followed by white paragraph text on black background describing the design process and brand translation work.](https://pin.fontofweb.com/9785?format=jpg)](https://fudge.design/share/pin-9785)
 
-[Body section with a bright lime-green accent bar at top, followed by white paragraph text on black background describing the design process and brand translation work.](https://design.withfudge.com/share/pin-9785)
+[Body section with a bright lime-green accent bar at top, followed by white paragraph text on black background describing the design process and brand translation work.](https://fudge.design/share/pin-9785)
 
 ## Overview
 
@@ -149,3 +149,18 @@ Image content should maintain aspect ratio, scaling down within the viewport rat
 ## Scope note
 
 This guide covers the Robinhood case study page on metalab.com, specifically the hero introduction and body narrative sections. The navigation behavior, footer, additional case study pages, and any interactive or motion elements are not represented in the supplied images. Measurements derive directly from retained interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

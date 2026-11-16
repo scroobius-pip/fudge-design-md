@@ -1,26 +1,26 @@
 # How thelightphone.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thelightphone.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/thelightphone.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ page with dark charcoal background, white typography, and accordion-style question list with underlined links](https://pin.fontofweb.com/2614?format=jpg)](https://design.withfudge.com/share/pin-2614)
+[![FAQ page with dark charcoal background, white typography, and accordion-style question list with underlined links](https://pin.fontofweb.com/2614?format=jpg)](https://fudge.design/share/pin-2614)
 
-[FAQ page with dark charcoal background, white typography, and accordion-style question list with underlined links](https://design.withfudge.com/share/pin-2614)
+[FAQ page with dark charcoal background, white typography, and accordion-style question list with underlined links](https://fudge.design/share/pin-2614)
 
-[![Light gray homepage section with four-quadrant grid layout featuring product imagery and FAQ/blog links](https://pin.fontofweb.com/2613?format=jpg)](https://design.withfudge.com/share/pin-2613)
+[![Light gray homepage section with four-quadrant grid layout featuring product imagery and FAQ/blog links](https://pin.fontofweb.com/2613?format=jpg)](https://fudge.design/share/pin-2613)
 
-[Light gray homepage section with four-quadrant grid layout featuring product imagery and FAQ/blog links](https://design.withfudge.com/share/pin-2613)
+[Light gray homepage section with four-quadrant grid layout featuring product imagery and FAQ/blog links](https://fudge.design/share/pin-2613)
 
-[![Dark hero section with starfield background, manifesto text, and illustrated eye with phone graphic](https://pin.fontofweb.com/2612?format=jpg)](https://design.withfudge.com/share/pin-2612)
+[![Dark hero section with starfield background, manifesto text, and illustrated eye with phone graphic](https://pin.fontofweb.com/2612?format=jpg)](https://fudge.design/share/pin-2612)
 
-[Dark hero section with starfield background, manifesto text, and illustrated eye with phone graphic](https://design.withfudge.com/share/pin-2612)
+[Dark hero section with starfield background, manifesto text, and illustrated eye with phone graphic](https://fudge.design/share/pin-2612)
 
-[![Product showcase with blue sky background, centered Light Phone device, and right-aligned feature list with vertical rule](https://pin.fontofweb.com/2611?format=jpg)](https://design.withfudge.com/share/pin-2611)
+[![Product showcase with blue sky background, centered Light Phone device, and right-aligned feature list with vertical rule](https://pin.fontofweb.com/2611?format=jpg)](https://fudge.design/share/pin-2611)
 
-[Product showcase with blue sky background, centered Light Phone device, and right-aligned feature list with vertical rule](https://design.withfudge.com/share/pin-2611)
+[Product showcase with blue sky background, centered Light Phone device, and right-aligned feature list with vertical rule](https://fudge.design/share/pin-2611)
 
 ## Overview
 
@@ -178,3 +178,18 @@ Button components should expand to full width on mobile when appearing in isolat
 ## Scope note
 
 This guide covers the homepage and FAQ page surfaces visible in the supplied images. Mobile layouts, checkout flows, account interfaces, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit. The starfield illustration and product photography represent brand assets whose exact reproduction would require original source files.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

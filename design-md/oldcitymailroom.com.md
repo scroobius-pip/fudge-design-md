@@ -1,18 +1,18 @@
 # How oldcitymailroom.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oldcitymailroom.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/oldcitymailroom.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing table for Index Monospaced Light, Regular, and Bold showing OTF and WOFF license tiers with radio-button selection on textured cream paper background](https://pin.fontofweb.com/5712?format=jpg)](https://design.withfudge.com/share/pin-5712)
+[![Pricing table for Index Monospaced Light, Regular, and Bold showing OTF and WOFF license tiers with radio-button selection on textured cream paper background](https://pin.fontofweb.com/5712?format=jpg)](https://fudge.design/share/pin-5712)
 
-[Pricing table for Index Monospaced Light, Regular, and Bold showing OTF and WOFF license tiers with radio-button selection on textured cream paper background](https://design.withfudge.com/share/pin-5712)
+[Pricing table for Index Monospaced Light, Regular, and Bold showing OTF and WOFF license tiers with radio-button selection on textured cream paper background](https://fudge.design/share/pin-5712)
 
-[![Index Family four-style purchase section with dark selected row for Extended web license and horizontal rule separators](https://pin.fontofweb.com/5711?format=jpg)](https://design.withfudge.com/share/pin-5711)
+[![Index Family four-style purchase section with dark selected row for Extended web license and horizontal rule separators](https://pin.fontofweb.com/5711?format=jpg)](https://fudge.design/share/pin-5711)
 
-[Index Family four-style purchase section with dark selected row for Extended web license and horizontal rule separators](https://design.withfudge.com/share/pin-5711)
+[Index Family four-style purchase section with dark selected row for Extended web license and horizontal rule separators](https://fudge.design/share/pin-5711)
 
 ## Overview
 
@@ -132,3 +132,18 @@ The two-column pricing layout should collapse to a single column on narrow viewp
 ## Scope note
 
 This guide covers the purchase page for Index Mono and Index Family font licensing. Measurements are practical adaptation targets. Unseen site areas such as the homepage, cart flow, checkout process, or account management are not represented. Mobile breakpoints, animation, and error states were not captured and should be designed to extend the established monochrome, texture-driven language.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Commercial section](/share/designs-with-section.commercial)
+- [Pricing section](/share/designs-with-section.commercial.pricing)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

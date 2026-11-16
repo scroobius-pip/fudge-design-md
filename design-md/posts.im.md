@@ -1,18 +1,18 @@
 # How posts.im is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/posts.im-design)
+[Open the live Fudge conversation](https://fudge.design/share/posts.im-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Halftone dot-pattern logo mark in black on white, showing the distinctive stippled gradient that defines the brand's visual identity](https://pin.fontofweb.com/8537?format=jpg)](https://design.withfudge.com/share/pin-8537)
+[![Halftone dot-pattern logo mark in black on white, showing the distinctive stippled gradient that defines the brand's visual identity](https://pin.fontofweb.com/8537?format=jpg)](https://fudge.design/share/pin-8537)
 
-[Halftone dot-pattern logo mark in black on white, showing the distinctive stippled gradient that defines the brand's visual identity](https://design.withfudge.com/share/pin-8537)
+[Halftone dot-pattern logo mark in black on white, showing the distinctive stippled gradient that defines the brand's visual identity](https://fudge.design/share/pin-8537)
 
-[![Full landing page with centered halftone logo, pricing, primary and secondary actions, and feature list with circular check icons](https://pin.fontofweb.com/8536?format=jpg)](https://design.withfudge.com/share/pin-8536)
+[![Full landing page with centered halftone logo, pricing, primary and secondary actions, and feature list with circular check icons](https://pin.fontofweb.com/8536?format=jpg)](https://fudge.design/share/pin-8536)
 
-[Full landing page with centered halftone logo, pricing, primary and secondary actions, and feature list with circular check icons](https://design.withfudge.com/share/pin-8536)
+[Full landing page with centered halftone logo, pricing, primary and secondary actions, and feature list with circular check icons](https://fudge.design/share/pin-8536)
 
 ## Overview
 
@@ -140,3 +140,18 @@ The supplied images show a single desktop viewport. The centered single-column l
 ## Scope note
 
 This guide covers the Posts.im landing page as visible in the supplied material. It does not include any interior application screens, account dashboards, or writing interfaces. Motion, hover states, focus indicators, loading states, and error handling are not represented in the source images and should be designed to match the system's restraint. Mobile-specific layouts and breakpoints were not captured and require separate exploration.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

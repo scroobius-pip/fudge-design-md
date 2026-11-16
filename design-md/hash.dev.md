@@ -1,26 +1,26 @@
 # How hash.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hash.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/hash.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community section with three outlined action buttons and multi-column footer with HASH.dev branding and resource links](https://pin.fontofweb.com/3927?format=jpg)](https://design.withfudge.com/share/pin-3927)
+[![Community section with three outlined action buttons and multi-column footer with HASH.dev branding and resource links](https://pin.fontofweb.com/3927?format=jpg)](https://fudge.design/share/pin-3927)
 
-[Community section with three outlined action buttons and multi-column footer with HASH.dev branding and resource links](https://design.withfudge.com/share/pin-3927)
+[Community section with three outlined action buttons and multi-column footer with HASH.dev branding and resource links](https://fudge.design/share/pin-3927)
 
-[![Newsletter signup with rounded input and teal button above blog post grid with featured article cards](https://pin.fontofweb.com/3926?format=jpg)](https://design.withfudge.com/share/pin-3926)
+[![Newsletter signup with rounded input and teal button above blog post grid with featured article cards](https://pin.fontofweb.com/3926?format=jpg)](https://fudge.design/share/pin-3926)
 
-[Newsletter signup with rounded input and teal button above blog post grid with featured article cards](https://design.withfudge.com/share/pin-3926)
+[Newsletter signup with rounded input and teal button above blog post grid with featured article cards](https://fudge.design/share/pin-3926)
 
-[![Product illustration showing block-based interface with light blue wireframe components and annotation labels](https://pin.fontofweb.com/3925?format=jpg)](https://design.withfudge.com/share/pin-3925)
+[![Product illustration showing block-based interface with light blue wireframe components and annotation labels](https://pin.fontofweb.com/3925?format=jpg)](https://fudge.design/share/pin-3925)
 
-[Product illustration showing block-based interface with light blue wireframe components and annotation labels](https://design.withfudge.com/share/pin-3925)
+[Product illustration showing block-based interface with light blue wireframe components and annotation labels](https://fudge.design/share/pin-3925)
 
-[![Block Protocol diagram with purple-outlined cards, table structure, and descriptive annotation text](https://pin.fontofweb.com/3924?format=jpg)](https://design.withfudge.com/share/pin-3924)
+[![Block Protocol diagram with purple-outlined cards, table structure, and descriptive annotation text](https://pin.fontofweb.com/3924?format=jpg)](https://fudge.design/share/pin-3924)
 
-[Block Protocol diagram with purple-outlined cards, table structure, and descriptive annotation text](https://design.withfudge.com/share/pin-3924)
+[Block Protocol diagram with purple-outlined cards, table structure, and descriptive annotation text](https://fudge.design/share/pin-3924)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Product illustrations with annotation labels may need simplified layouts at smal
 ## Scope note
 
 This guide covers the HASH.dev homepage including the newsletter section, blog post grid, community call-to-action, and footer. Product illustrations and diagram components are described from visible static states only. Measurements are practical adaptation targets. Mobile breakpoints, hover states, form validation, and interior page layouts are not represented in the supplied material and require additional design exploration.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

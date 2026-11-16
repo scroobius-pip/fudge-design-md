@@ -1,22 +1,22 @@
 # How oracea.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oracea.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/oracea.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Deep indigo footer with product branding, multi-column navigation links, and legal bar on white background](https://pin.fontofweb.com/1964?format=jpg)](https://design.withfudge.com/share/pin-1964)
+[![Deep indigo footer with product branding, multi-column navigation links, and legal bar on white background](https://pin.fontofweb.com/1964?format=jpg)](https://fudge.design/share/pin-1964)
 
-[Deep indigo footer with product branding, multi-column navigation links, and legal bar on white background](https://design.withfudge.com/share/pin-1964)
+[Deep indigo footer with product branding, multi-column navigation links, and legal bar on white background](https://fudge.design/share/pin-1964)
 
-[![Hero section with circular portrait overlay, testimonial quote typography, and bold display headline on photographic background](https://pin.fontofweb.com/1963?format=jpg)](https://design.withfudge.com/share/pin-1963)
+[![Hero section with circular portrait overlay, testimonial quote typography, and bold display headline on photographic background](https://pin.fontofweb.com/1963?format=jpg)](https://fudge.design/share/pin-1963)
 
-[Hero section with circular portrait overlay, testimonial quote typography, and bold display headline on photographic background](https://design.withfudge.com/share/pin-1963)
+[Hero section with circular portrait overlay, testimonial quote typography, and bold display headline on photographic background](https://fudge.design/share/pin-1963)
 
-[![Header navigation with product lockup, dropdown menu pill, and top-bar safety links on blurred imagery](https://pin.fontofweb.com/1962?format=jpg)](https://design.withfudge.com/share/pin-1962)
+[![Header navigation with product lockup, dropdown menu pill, and top-bar safety links on blurred imagery](https://pin.fontofweb.com/1962?format=jpg)](https://fudge.design/share/pin-1962)
 
-[Header navigation with product lockup, dropdown menu pill, and top-bar safety links on blurred imagery](https://design.withfudge.com/share/pin-1962)
+[Header navigation with product lockup, dropdown menu pill, and top-bar safety links on blurred imagery](https://fudge.design/share/pin-1962)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The utility bar containing safety information should remain accessible but may w
 ## Scope note
 
 This guide covers the homepage hero, header navigation, and footer as visible in the supplied images. Interior pages, form interactions, mobile-specific layouts, animation behavior for the circular motif, and hover or focus states are not represented. Measurements are practical adaptation targets based on visual estimation from the provided screenshots.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

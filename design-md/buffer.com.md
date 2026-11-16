@@ -1,26 +1,26 @@
 # How buffer.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/buffer.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/buffer.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered headline 'Grow your social presence with confidence' on warm off-white background with mint-green pill button](https://pin.fontofweb.com/3152?format=jpg)](https://design.withfudge.com/share/pin-3152)
+[![Hero section with centered headline 'Grow your social presence with confidence' on warm off-white background with mint-green pill button](https://pin.fontofweb.com/3152?format=jpg)](https://fudge.design/share/pin-3152)
 
-[Hero section with centered headline 'Grow your social presence with confidence' on warm off-white background with mint-green pill button](https://design.withfudge.com/share/pin-3152)
+[Hero section with centered headline 'Grow your social presence with confidence' on warm off-white background with mint-green pill button](https://fudge.design/share/pin-3152)
 
-[![Dark forest-green FAQ accordion panel with white typography and mint-green underlined links](https://pin.fontofweb.com/3151?format=jpg)](https://design.withfudge.com/share/pin-3151)
+[![Dark forest-green FAQ accordion panel with white typography and mint-green underlined links](https://pin.fontofweb.com/3151?format=jpg)](https://fudge.design/share/pin-3151)
 
-[Dark forest-green FAQ accordion panel with white typography and mint-green underlined links](https://design.withfudge.com/share/pin-3151)
+[Dark forest-green FAQ accordion panel with white typography and mint-green underlined links](https://fudge.design/share/pin-3151)
 
-[![AI Assistant feature section with dark background, lavender product screenshot, and mint-green CTA button](https://pin.fontofweb.com/3150?format=jpg)](https://design.withfudge.com/share/pin-3150)
+[![AI Assistant feature section with dark background, lavender product screenshot, and mint-green CTA button](https://pin.fontofweb.com/3150?format=jpg)](https://fudge.design/share/pin-3150)
 
-[AI Assistant feature section with dark background, lavender product screenshot, and mint-green CTA button](https://design.withfudge.com/share/pin-3150)
+[AI Assistant feature section with dark background, lavender product screenshot, and mint-green CTA button](https://fudge.design/share/pin-3150)
 
-[![Content scratchpad feature page with navigation bar, coral-pink device frame, and four-column icon grid](https://pin.fontofweb.com/3149?format=jpg)](https://design.withfudge.com/share/pin-3149)
+[![Content scratchpad feature page with navigation bar, coral-pink device frame, and four-column icon grid](https://pin.fontofweb.com/3149?format=jpg)](https://fudge.design/share/pin-3149)
 
-[Content scratchpad feature page with navigation bar, coral-pink device frame, and four-column icon grid](https://design.withfudge.com/share/pin-3149)
+[Content scratchpad feature page with navigation bar, coral-pink device frame, and four-column icon grid](https://fudge.design/share/pin-3149)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Accordion layouts shift from asymmetric two-column (heading left, items right) t
 ## Scope note
 
 This guide covers the marketing and feature pages visible in the supplied images, including the homepage hero, content creation tools page, and pricing page surfaces. Mobile layouts, interactive states beyond static presentation, loading skeletons, form validation styling, and the authenticated application interface are not represented. Motion behavior, hover transitions, and focus states require additional research. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

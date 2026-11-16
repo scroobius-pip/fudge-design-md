@@ -1,26 +1,26 @@
 # How mixfont.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mixfont.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mixfont.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Font detail page metadata section showing category tags, mood labels, use case pills, and license information for Granite Echo in a clean two-column layout.](https://pin.fontofweb.com/9435?format=jpg)](https://design.withfudge.com/share/pin-9435)
+[![Font detail page metadata section showing category tags, mood labels, use case pills, and license information for Granite Echo in a clean two-column layout.](https://pin.fontofweb.com/9435?format=jpg)](https://fudge.design/share/pin-9435)
 
-[Font detail page metadata section showing category tags, mood labels, use case pills, and license information for Granite Echo in a clean two-column layout.](https://design.withfudge.com/share/pin-9435)
+[Font detail page metadata section showing category tags, mood labels, use case pills, and license information for Granite Echo in a clean two-column layout.](https://fudge.design/share/pin-9435)
 
-[![Interactive glyph inspector grid displaying uppercase, lowercase, and accented characters with a large selected glyph preview for the Granite Echo typeface.](https://pin.fontofweb.com/9434?format=jpg)](https://design.withfudge.com/share/pin-9434)
+[![Interactive glyph inspector grid displaying uppercase, lowercase, and accented characters with a large selected glyph preview for the Granite Echo typeface.](https://pin.fontofweb.com/9434?format=jpg)](https://fudge.design/share/pin-9434)
 
-[Interactive glyph inspector grid displaying uppercase, lowercase, and accented characters with a large selected glyph preview for the Granite Echo typeface.](https://design.withfudge.com/share/pin-9434)
+[Interactive glyph inspector grid displaying uppercase, lowercase, and accented characters with a large selected glyph preview for the Granite Echo typeface.](https://fudge.design/share/pin-9434)
 
-[![Font specimen page showing Granite Echo at multiple sizes with live preview text, size labels, and action buttons for playground editing and TTF download.](https://pin.fontofweb.com/9433?format=jpg)](https://design.withfudge.com/share/pin-9433)
+[![Font specimen page showing Granite Echo at multiple sizes with live preview text, size labels, and action buttons for playground editing and TTF download.](https://pin.fontofweb.com/9433?format=jpg)](https://fudge.design/share/pin-9433)
 
-[Font specimen page showing Granite Echo at multiple sizes with live preview text, size labels, and action buttons for playground editing and TTF download.](https://design.withfudge.com/share/pin-9433)
+[Font specimen page showing Granite Echo at multiple sizes with live preview text, size labels, and action buttons for playground editing and TTF download.](https://fudge.design/share/pin-9433)
 
-[![Free Fonts directory listing with search bar, filter controls, and large specimen previews of diverse display typefaces including Granite Echo, Doodle Bounce, Titanium Block](https://pin.fontofweb.com/9432?format=jpg)](https://design.withfudge.com/share/pin-9432)
+[![Free Fonts directory listing with search bar, filter controls, and large specimen previews of diverse display typefaces including Granite Echo, Doodle Bounce, Titanium Block](https://pin.fontofweb.com/9432?format=jpg)](https://fudge.design/share/pin-9432)
 
-[Free Fonts directory listing with search bar, filter controls, and large specimen previews of diverse display typefaces including Granite Echo, Doodle Bounce, Titanium Block](https://design.withfudge.com/share/pin-9432)
+[Free Fonts directory listing with search bar, filter controls, and large specimen previews of diverse display typefaces including Granite Echo, Doodle Bounce, Titanium Block](https://fudge.design/share/pin-9432)
 
 ## Overview
 
@@ -210,3 +210,18 @@ The navigation shows a dropdown pattern for Products and Platform, indicating ne
 ## Scope note
 
 This guide covers the font discovery, preview, and directory surfaces of Mixfont. The font generation playground, user account pages, and checkout flows are not represented in the supplied material. Motion, loading states, and mobile-specific layouts are not documented. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

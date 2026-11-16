@@ -1,22 +1,22 @@
 # How kiwijo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kiwijo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kiwijo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Ticket-style testimonial cards hanging from a metal rod against an orange background, featuring numbered tickets with quotes and a green hiring card with dashed border](https://pin.fontofweb.com/8049?format=jpg)](https://design.withfudge.com/share/pin-8049)
+[![Ticket-style testimonial cards hanging from a metal rod against an orange background, featuring numbered tickets with quotes and a green hiring card with dashed border](https://pin.fontofweb.com/8049?format=jpg)](https://fudge.design/share/pin-8049)
 
-[Ticket-style testimonial cards hanging from a metal rod against an orange background, featuring numbered tickets with quotes and a green hiring card with dashed border](https://design.withfudge.com/share/pin-8049)
+[Ticket-style testimonial cards hanging from a metal rod against an orange background, featuring numbered tickets with quotes and a green hiring card with dashed border](https://fudge.design/share/pin-8049)
 
-[![Blog index page styled as a deli menu with dashed separators, black header bar, post listings with prices, and a green call-to-action button with barcode decoration](https://pin.fontofweb.com/8048?format=jpg)](https://design.withfudge.com/share/pin-8048)
+[![Blog index page styled as a deli menu with dashed separators, black header bar, post listings with prices, and a green call-to-action button with barcode decoration](https://pin.fontofweb.com/8048?format=jpg)](https://fudge.design/share/pin-8048)
 
-[Blog index page styled as a deli menu with dashed separators, black header bar, post listings with prices, and a green call-to-action button with barcode decoration](https://design.withfudge.com/share/pin-8048)
+[Blog index page styled as a deli menu with dashed separators, black header bar, post listings with prices, and a green call-to-action button with barcode decoration](https://fudge.design/share/pin-8048)
 
-[![Hero section with green profile card containing cartoon avatar, social icons, and nutrition-facts-style skills panel on an orange background with floating kiwi shapes](https://pin.fontofweb.com/8047?format=jpg)](https://design.withfudge.com/share/pin-8047)
+[![Hero section with green profile card containing cartoon avatar, social icons, and nutrition-facts-style skills panel on an orange background with floating kiwi shapes](https://pin.fontofweb.com/8047?format=jpg)](https://fudge.design/share/pin-8047)
 
-[Hero section with green profile card containing cartoon avatar, social icons, and nutrition-facts-style skills panel on an orange background with floating kiwi shapes](https://design.withfudge.com/share/pin-8047)
+[Hero section with green profile card containing cartoon avatar, social icons, and nutrition-facts-style skills panel on an orange background with floating kiwi shapes](https://fudge.design/share/pin-8047)
 
 ## Overview
 
@@ -200,3 +200,18 @@ No mobile-specific layouts are visible in the source material; these recommendat
 ## Scope note
 
 This guide covers the homepage hero, blog index, and ticket testimonial sections visible on kiwijo.com. The deli-themed visual system is well-defined for these surfaces, but interior blog post pages, project detail views, and any contact form interactions are not represented in the available material. Motion design, loading states, and mobile-specific layouts would require additional exploration. Measurements are drawn from the exact values provided.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

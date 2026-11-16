@@ -1,22 +1,22 @@
 # How fireriskalliance.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fireriskalliance.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fireriskalliance.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark background, red accent bar, and logo with navigation columns on Warehouse & Storage page](https://pin.fontofweb.com/3041?format=jpg)](https://design.withfudge.com/share/pin-3041)
+[![Footer section with dark background, red accent bar, and logo with navigation columns on Warehouse & Storage page](https://pin.fontofweb.com/3041?format=jpg)](https://fudge.design/share/pin-3041)
 
-[Footer section with dark background, red accent bar, and logo with navigation columns on Warehouse & Storage page](https://design.withfudge.com/share/pin-3041)
+[Footer section with dark background, red accent bar, and logo with navigation columns on Warehouse & Storage page](https://fudge.design/share/pin-3041)
 
-[![Homepage industry cards with dark gradient background, pill-shaped View More button, and footer layout](https://pin.fontofweb.com/3038?format=jpg)](https://design.withfudge.com/share/pin-3038)
+[![Homepage industry cards with dark gradient background, pill-shaped View More button, and footer layout](https://pin.fontofweb.com/3038?format=jpg)](https://fudge.design/share/pin-3038)
 
-[Homepage industry cards with dark gradient background, pill-shaped View More button, and footer layout](https://design.withfudge.com/share/pin-3038)
+[Homepage industry cards with dark gradient background, pill-shaped View More button, and footer layout](https://fudge.design/share/pin-3038)
 
-[![Code Consulting brochure CTA with large display typography on dark background and standard footer](https://pin.fontofweb.com/3037?format=jpg)](https://design.withfudge.com/share/pin-3037)
+[![Code Consulting brochure CTA with large display typography on dark background and standard footer](https://pin.fontofweb.com/3037?format=jpg)](https://fudge.design/share/pin-3037)
 
-[Code Consulting brochure CTA with large display typography on dark background and standard footer](https://design.withfudge.com/share/pin-3037)
+[Code Consulting brochure CTA with large display typography on dark background and standard footer](https://fudge.design/share/pin-3037)
 
 ## Overview
 
@@ -160,3 +160,18 @@ The design appears optimized for desktop presentation. The three-column footer a
 ## Scope note
 
 This guide covers the homepage, industry/service listing, and brochure CTA sections visible in the supplied images. Header navigation, interior page layouts beyond the footer, form elements, and mobile adaptations are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Footer](/share/designs-with-section.structural.footer)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

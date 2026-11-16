@@ -1,22 +1,22 @@
 # How midlife.engineering is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/midlife.engineering-design)
+[Open the live Fudge conversation](https://fudge.design/share/midlife.engineering-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero landing with oversized 'midlife engineering' wordmark, product device centered on warm off-white canvas, orange dot indicator top-right, and social links footer](https://pin.fontofweb.com/5532?format=jpg)](https://design.withfudge.com/share/pin-5532)
+[![Hero landing with oversized 'midlife engineering' wordmark, product device centered on warm off-white canvas, orange dot indicator top-right, and social links footer](https://pin.fontofweb.com/5532?format=jpg)](https://fudge.design/share/pin-5532)
 
-[Hero landing with oversized 'midlife engineering' wordmark, product device centered on warm off-white canvas, orange dot indicator top-right, and social links footer](https://design.withfudge.com/share/pin-5532)
+[Hero landing with oversized 'midlife engineering' wordmark, product device centered on warm off-white canvas, orange dot indicator top-right, and social links footer](https://fudge.design/share/pin-5532)
 
-[![Interactive product stage with dark tooltip overlay reading 'Switch on the loop station', large 'OP—XY' display type below device, and orange dot navigation](https://pin.fontofweb.com/5531?format=jpg)](https://design.withfudge.com/share/pin-5531)
+[![Interactive product stage with dark tooltip overlay reading 'Switch on the loop station', large 'OP—XY' display type below device, and orange dot navigation](https://pin.fontofweb.com/5531?format=jpg)](https://fudge.design/share/pin-5531)
 
-[Interactive product stage with dark tooltip overlay reading 'Switch on the loop station', large 'OP—XY' display type below device, and orange dot navigation](https://design.withfudge.com/share/pin-5531)
+[Interactive product stage with dark tooltip overlay reading 'Switch on the loop station', large 'OP—XY' display type below device, and orange dot navigation](https://fudge.design/share/pin-5531)
 
-[![Active product demo with orange play button engaged, gradient visualizer bars on device screen, tooltip 'Play the first ambient sample', and consistent typographic footer](https://pin.fontofweb.com/5530?format=jpg)](https://design.withfudge.com/share/pin-5530)
+[![Active product demo with orange play button engaged, gradient visualizer bars on device screen, tooltip 'Play the first ambient sample', and consistent typographic footer](https://pin.fontofweb.com/5530?format=jpg)](https://fudge.design/share/pin-5530)
 
-[Active product demo with orange play button engaged, gradient visualizer bars on device screen, tooltip 'Play the first ambient sample', and consistent typographic footer](https://design.withfudge.com/share/pin-5530)
+[Active product demo with orange play button engaged, gradient visualizer bars on device screen, tooltip 'Play the first ambient sample', and consistent typographic footer](https://fudge.design/share/pin-5530)
 
 ## Overview
 
@@ -159,3 +159,18 @@ Touch targets on the product representation should be enlarged if the image beco
 ## Scope note
 
 This guide covers the single-page landing experience for the Midlife Engineering loop station product. Measurements are practical adaptation targets. Unseen states include mobile-specific layouts, checkout flows, additional product pages, and any audio playback interface beyond the visible device representation. Motion behavior, hover states, and form interactions are not documented from the supplied still images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

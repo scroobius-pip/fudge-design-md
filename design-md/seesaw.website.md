@@ -1,18 +1,18 @@
 # How seesaw.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/seesaw.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/seesaw.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Aileen Luo profile page showing a centered hero with name, description, and pill-shaped visit button above a large screenshot preview of the designer's portfolio website with](https://pin.fontofweb.com/10229?format=jpg)](https://design.withfudge.com/share/pin-10229)
+[![Aileen Luo profile page showing a centered hero with name, description, and pill-shaped visit button above a large screenshot preview of the designer's portfolio website with](https://pin.fontofweb.com/10229?format=jpg)](https://fudge.design/share/pin-10229)
 
-[Aileen Luo profile page showing a centered hero with name, description, and pill-shaped visit button above a large screenshot preview of the designer's portfolio website with](https://design.withfudge.com/share/pin-10229)
+[Aileen Luo profile page showing a centered hero with name, description, and pill-shaped visit button above a large screenshot preview of the designer's portfolio website with](https://fudge.design/share/pin-10229)
 
-[![SEESAW homepage featuring a left sidebar category navigation, bold hero headline with subscribe call-to-action, and a responsive grid of website preview cards with thumbnail](https://pin.fontofweb.com/10228?format=jpg)](https://design.withfudge.com/share/pin-10228)
+[![SEESAW homepage featuring a left sidebar category navigation, bold hero headline with subscribe call-to-action, and a responsive grid of website preview cards with thumbnail](https://pin.fontofweb.com/10228?format=jpg)](https://fudge.design/share/pin-10228)
 
-[SEESAW homepage featuring a left sidebar category navigation, bold hero headline with subscribe call-to-action, and a responsive grid of website preview cards with thumbnail](https://design.withfudge.com/share/pin-10228)
+[SEESAW homepage featuring a left sidebar category navigation, bold hero headline with subscribe call-to-action, and a responsive grid of website preview cards with thumbnail](https://fudge.design/share/pin-10228)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Typography scales down modestly: the `hero-display` at `2.25rem` may reduce to `
 ## Scope note
 
 This guide covers the homepage directory and individual profile pages as visible in the supplied images. Mobile layouts, hover states, loading skeletons, search result pages, and submission flows are not represented. The subscription modal and any authenticated user states fall outside the current scope. Measurements are exact where retained in the source data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

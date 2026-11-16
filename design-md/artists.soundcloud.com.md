@@ -1,26 +1,26 @@
 # How artists.soundcloud.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/artists.soundcloud.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/artists.soundcloud.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark gradient background, large white headline 'Pick the plan that fits you', body copy, and two outlined pill buttons over a photograph of two people in a](https://pin.fontofweb.com/5221?format=jpg)](https://design.withfudge.com/share/pin-5221)
+[![Hero section with dark gradient background, large white headline 'Pick the plan that fits you', body copy, and two outlined pill buttons over a photograph of two people in a](https://pin.fontofweb.com/5221?format=jpg)](https://fudge.design/share/pin-5221)
 
-[Hero section with dark gradient background, large white headline 'Pick the plan that fits you', body copy, and two outlined pill buttons over a photograph of two people in a](https://design.withfudge.com/share/pin-5221)
+[Hero section with dark gradient background, large white headline 'Pick the plan that fits you', body copy, and two outlined pill buttons over a photograph of two people in a](https://fudge.design/share/pin-5221)
 
-[![Social proof section with white headline and three embedded video testimonials from artists Odetari, Shaboozey, and Hit Boy against a pure black background](https://pin.fontofweb.com/5219?format=jpg)](https://design.withfudge.com/share/pin-5219)
+[![Social proof section with white headline and three embedded video testimonials from artists Odetari, Shaboozey, and Hit Boy against a pure black background](https://pin.fontofweb.com/5219?format=jpg)](https://fudge.design/share/pin-5219)
 
-[Social proof section with white headline and three embedded video testimonials from artists Odetari, Shaboozey, and Hit Boy against a pure black background](https://design.withfudge.com/share/pin-5219)
+[Social proof section with white headline and three embedded video testimonials from artists Odetari, Shaboozey, and Hit Boy against a pure black background](https://fudge.design/share/pin-5219)
 
-[![Pricing comparison table with green checkmarks, purple highlighted price callout showing $8.25/month, and outlined pill button on black background](https://pin.fontofweb.com/5218?format=jpg)](https://design.withfudge.com/share/pin-5218)
+[![Pricing comparison table with green checkmarks, purple highlighted price callout showing $8.25/month, and outlined pill button on black background](https://pin.fontofweb.com/5218?format=jpg)](https://fudge.design/share/pin-5218)
 
-[Pricing comparison table with green checkmarks, purple highlighted price callout showing $8.25/month, and outlined pill button on black background](https://design.withfudge.com/share/pin-5218)
+[Pricing comparison table with green checkmarks, purple highlighted price callout showing $8.25/month, and outlined pill button on black background](https://fudge.design/share/pin-5218)
 
-[![Feature section with white headline 'Get heard, with Artist Pro', body copy with bullet points, outlined button, and decorative blue graphic with 'BUZZING' text on right side](https://pin.fontofweb.com/5217?format=jpg)](https://design.withfudge.com/share/pin-5217)
+[![Feature section with white headline 'Get heard, with Artist Pro', body copy with bullet points, outlined button, and decorative blue graphic with 'BUZZING' text on right side](https://pin.fontofweb.com/5217?format=jpg)](https://fudge.design/share/pin-5217)
 
-[Feature section with white headline 'Get heard, with Artist Pro', body copy with bullet points, outlined button, and decorative blue graphic with 'BUZZING' text on right side](https://design.withfudge.com/share/pin-5217)
+[Feature section with white headline 'Get heard, with Artist Pro', body copy with bullet points, outlined button, and decorative blue graphic with 'BUZZING' text on right side](https://fudge.design/share/pin-5217)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Video embeds should maintain aspect ratio and use native responsive behavior, wi
 ## Scope note
 
 This guide covers the SoundCloud for Artists marketing homepage and its visible sections: hero, feature explanations, pricing comparison, and artist testimonials. Interior pages, authenticated dashboard interfaces, mobile-specific layouts, and motion or interaction states are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Analytics](/share/designs-with-capability.analytics)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

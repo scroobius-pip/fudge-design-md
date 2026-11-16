@@ -1,26 +1,26 @@
 # How newkino.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/newkino.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/newkino.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero viewport with dark cinematic background, white headline, and two pill-shaped action buttons in the lower-left quadrant.](https://pin.fontofweb.com/3688?format=jpg)](https://design.withfudge.com/share/pin-3688)
+[![Hero viewport with dark cinematic background, white headline, and two pill-shaped action buttons in the lower-left quadrant.](https://pin.fontofweb.com/3688?format=jpg)](https://fudge.design/share/pin-3688)
 
-[Hero viewport with dark cinematic background, white headline, and two pill-shaped action buttons in the lower-left quadrant.](https://design.withfudge.com/share/pin-3688)
+[Hero viewport with dark cinematic background, white headline, and two pill-shaped action buttons in the lower-left quadrant.](https://fudge.design/share/pin-3688)
 
-[![Alternate hero frame showing a silhouetted figure against a warm dusk sky with the same headline and navigation treatment.](https://pin.fontofweb.com/3687?format=jpg)](https://design.withfudge.com/share/pin-3687)
+[![Alternate hero frame showing a silhouetted figure against a warm dusk sky with the same headline and navigation treatment.](https://pin.fontofweb.com/3687?format=jpg)](https://fudge.design/share/pin-3687)
 
-[Alternate hero frame showing a silhouetted figure against a warm dusk sky with the same headline and navigation treatment.](https://design.withfudge.com/share/pin-3687)
+[Alternate hero frame showing a silhouetted figure against a warm dusk sky with the same headline and navigation treatment.](https://fudge.design/share/pin-3687)
 
-[![Team section with black background, grayscale portrait cards, pink primary button, and dark footer with social icons.](https://pin.fontofweb.com/3686?format=jpg)](https://design.withfudge.com/share/pin-3686)
+[![Team section with black background, grayscale portrait cards, pink primary button, and dark footer with social icons.](https://pin.fontofweb.com/3686?format=jpg)](https://fudge.design/share/pin-3686)
 
-[Team section with black background, grayscale portrait cards, pink primary button, and dark footer with social icons.](https://design.withfudge.com/share/pin-3686)
+[Team section with black background, grayscale portrait cards, pink primary button, and dark footer with social icons.](https://fudge.design/share/pin-3686)
 
-[![Services section with vivid magenta-pink background and three rounded cards in purple, coral-pink, and light blue with isometric illustrations.](https://pin.fontofweb.com/3685?format=jpg)](https://design.withfudge.com/share/pin-3685)
+[![Services section with vivid magenta-pink background and three rounded cards in purple, coral-pink, and light blue with isometric illustrations.](https://pin.fontofweb.com/3685?format=jpg)](https://fudge.design/share/pin-3685)
 
-[Services section with vivid magenta-pink background and three rounded cards in purple, coral-pink, and light blue with isometric illustrations.](https://design.withfudge.com/share/pin-3685)
+[Services section with vivid magenta-pink background and three rounded cards in purple, coral-pink, and light blue with isometric illustrations.](https://fudge.design/share/pin-3685)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets must maintain minimum 44px height; the current pill buttons and ci
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied materials: hero, services, team, and footer sections. Interior pages, project detail templates, motion behavior, hover states, form interactions, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px grid. Verify licensing for Cera Pro and Krona One before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

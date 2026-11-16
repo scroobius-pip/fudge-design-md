@@ -1,22 +1,22 @@
 # How quantamagazine.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/quantamagazine.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/quantamagazine.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Physics section landing page with article card grid, topic sidebar, and social follow links showing the editorial layout structure](https://pin.fontofweb.com/3919?format=jpg)](https://design.withfudge.com/share/pin-3919)
+[![Physics section landing page with article card grid, topic sidebar, and social follow links showing the editorial layout structure](https://pin.fontofweb.com/3919?format=jpg)](https://fudge.design/share/pin-3919)
 
-[Physics section landing page with article card grid, topic sidebar, and social follow links showing the editorial layout structure](https://design.withfudge.com/share/pin-3919)
+[Physics section landing page with article card grid, topic sidebar, and social follow links showing the editorial layout structure](https://fudge.design/share/pin-3919)
 
-[![Article page with bold Pangram headline, Merriweather italic deck, and large orange editorial illustration with stock ticker ribbons](https://pin.fontofweb.com/3918?format=jpg)](https://design.withfudge.com/share/pin-3918)
+[![Article page with bold Pangram headline, Merriweather italic deck, and large orange editorial illustration with stock ticker ribbons](https://pin.fontofweb.com/3918?format=jpg)](https://fudge.design/share/pin-3918)
 
-[Article page with bold Pangram headline, Merriweather italic deck, and large orange editorial illustration with stock ticker ribbons](https://design.withfudge.com/share/pin-3918)
+[Article page with bold Pangram headline, Merriweather italic deck, and large orange editorial illustration with stock ticker ribbons](https://fudge.design/share/pin-3918)
 
-[![Article header with uppercase category label, large serif headline, and italic deck text with comment and bookmark icons](https://pin.fontofweb.com/2011?format=jpg)](https://design.withfudge.com/share/pin-2011)
+[![Article header with uppercase category label, large serif headline, and italic deck text with comment and bookmark icons](https://pin.fontofweb.com/2011?format=jpg)](https://fudge.design/share/pin-2011)
 
-[Article header with uppercase category label, large serif headline, and italic deck text with comment and bookmark icons](https://design.withfudge.com/share/pin-2011)
+[Article header with uppercase category label, large serif headline, and italic deck text with comment and bookmark icons](https://fudge.design/share/pin-2011)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The visible system shows a desktop-optimized layout. Recommended responsive adap
 ## Scope note
 
 This guide covers the article page and section landing page surfaces visible in the supplied images. Footer content, search results pages, newsletter signup flows, and any dark mode are not represented. Measurements are practical adaptation targets derived from the visible interface. Mobile breakpoints, animation, and form validation states are not covered and should be designed to match the established visual language.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

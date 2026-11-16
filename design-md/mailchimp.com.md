@@ -1,26 +1,26 @@
 # How mailchimp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mailchimp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mailchimp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with mustard-yellow background, multi-column link grid, Intuit brand family logos, and app store badges](https://pin.fontofweb.com/4585?format=jpg)](https://design.withfudge.com/share/pin-4585)
+[![Footer with mustard-yellow background, multi-column link grid, Intuit brand family logos, and app store badges](https://pin.fontofweb.com/4585?format=jpg)](https://fudge.design/share/pin-4585)
 
-[Footer with mustard-yellow background, multi-column link grid, Intuit brand family logos, and app store badges](https://design.withfudge.com/share/pin-4585)
+[Footer with mustard-yellow background, multi-column link grid, Intuit brand family logos, and app store badges](https://fudge.design/share/pin-4585)
 
-[![Hero section with serif headline, yellow Sign Up button, and four-column feature preview with product UI screenshots](https://pin.fontofweb.com/4584?format=jpg)](https://design.withfudge.com/share/pin-4584)
+[![Hero section with serif headline, yellow Sign Up button, and four-column feature preview with product UI screenshots](https://pin.fontofweb.com/4584?format=jpg)](https://fudge.design/share/pin-4584)
 
-[Hero section with serif headline, yellow Sign Up button, and four-column feature preview with product UI screenshots](https://design.withfudge.com/share/pin-4584)
+[Hero section with serif headline, yellow Sign Up button, and four-column feature preview with product UI screenshots](https://fudge.design/share/pin-4584)
 
-[![Pricing comparison table with four plan tiers, yellow Buy Now buttons, and detailed feature matrix](https://pin.fontofweb.com/4583?format=jpg)](https://design.withfudge.com/share/pin-4583)
+[![Pricing comparison table with four plan tiers, yellow Buy Now buttons, and detailed feature matrix](https://pin.fontofweb.com/4583?format=jpg)](https://fudge.design/share/pin-4583)
 
-[Pricing comparison table with four plan tiers, yellow Buy Now buttons, and detailed feature matrix](https://design.withfudge.com/share/pin-4583)
+[Pricing comparison table with four plan tiers, yellow Buy Now buttons, and detailed feature matrix](https://fudge.design/share/pin-4583)
 
-[![Standard plan promotion with pill tab navigation, yellow checkmark list, and pricing card with contact selector](https://pin.fontofweb.com/4582?format=jpg)](https://design.withfudge.com/share/pin-4582)
+[![Standard plan promotion with pill tab navigation, yellow checkmark list, and pricing card with contact selector](https://pin.fontofweb.com/4582?format=jpg)](https://fudge.design/share/pin-4582)
 
-[Standard plan promotion with pill tab navigation, yellow checkmark list, and pricing card with contact selector](https://design.withfudge.com/share/pin-4582)
+[Standard plan promotion with pill tab navigation, yellow checkmark list, and pricing card with contact selector](https://fudge.design/share/pin-4582)
 
 ## Overview
 
@@ -197,3 +197,18 @@ Footer link grids should reflow from five columns to two or three on tablet, the
 ## Scope note
 
 This guide covers the marketing homepage and pricing plan surfaces visible in the supplied images. Mobile layouts, animation behavior, form validation states, account dashboard interfaces, and email template editor tools are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

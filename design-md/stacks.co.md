@@ -1,22 +1,22 @@
 # How stacks.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/stacks.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/stacks.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark background, large white display heading, and orange primary action button](https://pin.fontofweb.com/7974?format=jpg)](https://design.withfudge.com/share/pin-7974)
+[![Hero section with dark background, large white display heading, and orange primary action button](https://pin.fontofweb.com/7974?format=jpg)](https://fudge.design/share/pin-7974)
 
-[Hero section with dark background, large white display heading, and orange primary action button](https://design.withfudge.com/share/pin-7974)
+[Hero section with dark background, large white display heading, and orange primary action button](https://fudge.design/share/pin-7974)
 
-[![Ecosystem grid showing four-column card layout with project icons and social links](https://pin.fontofweb.com/7975?format=jpg)](https://design.withfudge.com/share/pin-7975)
+[![Ecosystem grid showing four-column card layout with project icons and social links](https://pin.fontofweb.com/7975?format=jpg)](https://fudge.design/share/pin-7975)
 
-[Ecosystem grid showing four-column card layout with project icons and social links](https://design.withfudge.com/share/pin-7975)
+[Ecosystem grid showing four-column card layout with project icons and social links](https://fudge.design/share/pin-7975)
 
-[![Footer area with multi-column navigation, dark action button, and orange Bitcoin sphere illustration](https://pin.fontofweb.com/7976?format=jpg)](https://design.withfudge.com/share/pin-7976)
+[![Footer area with multi-column navigation, dark action button, and orange Bitcoin sphere illustration](https://pin.fontofweb.com/7976?format=jpg)](https://fudge.design/share/pin-7976)
 
-[Footer area with multi-column navigation, dark action button, and orange Bitcoin sphere illustration](https://design.withfudge.com/share/pin-7976)
+[Footer area with multi-column navigation, dark action button, and orange Bitcoin sphere illustration](https://fudge.design/share/pin-7976)
 
 ## Overview
 
@@ -198,3 +198,18 @@ The header navigation should collapse to a menu trigger on mobile, with dropdown
 ## Scope note
 
 This guide covers the Stacks ecosystem directory page including the hero section, filterable project grid, and footer navigation. Interior pages, mobile navigation patterns, form interactions, and motion behavior are not represented in the supplied material. The design system should extend to additional surfaces with careful attention to maintaining the mono uppercase voice and warm surface palette established here.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How playground.nothing.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/playground.nothing.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/playground.nothing.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Grid of community app cards with pixel-art previews on light gray background, showing titles like WEEKEND DRINK ROULETTE and CRYPTO TRACKER with heart counts and creator avatars.](https://pin.fontofweb.com/8564?format=jpg)](https://design.withfudge.com/share/pin-8564)
+[![Grid of community app cards with pixel-art previews on light gray background, showing titles like WEEKEND DRINK ROULETTE and CRYPTO TRACKER with heart counts and creator avatars.](https://pin.fontofweb.com/8564?format=jpg)](https://fudge.design/share/pin-8564)
 
-[Grid of community app cards with pixel-art previews on light gray background, showing titles like WEEKEND DRINK ROULETTE and CRYPTO TRACKER with heart counts and creator avatars.](https://design.withfudge.com/share/pin-8564)
+[Grid of community app cards with pixel-art previews on light gray background, showing titles like WEEKEND DRINK ROULETTE and CRYPTO TRACKER with heart counts and creator avatars.](https://fudge.design/share/pin-8564)
 
-[![Essential Apps Beta page header with Ndot logo, serif page title, sort dropdown, and grid of app preview cards including HALLEY'S TRACKER and WINDOW with dot-matrix displays.](https://pin.fontofweb.com/8563?format=jpg)](https://design.withfudge.com/share/pin-8563)
+[![Essential Apps Beta page header with Ndot logo, serif page title, sort dropdown, and grid of app preview cards including HALLEY'S TRACKER and WINDOW with dot-matrix displays.](https://pin.fontofweb.com/8563?format=jpg)](https://fudge.design/share/pin-8563)
 
-[Essential Apps Beta page header with Ndot logo, serif page title, sort dropdown, and grid of app preview cards including HALLEY'S TRACKER and WINDOW with dot-matrix displays.](https://design.withfudge.com/share/pin-8563)
+[Essential Apps Beta page header with Ndot logo, serif page title, sort dropdown, and grid of app preview cards including HALLEY'S TRACKER and WINDOW with dot-matrix displays.](https://fudge.design/share/pin-8563)
 
-[![Builder interface with left sidebar containing tools and right canvas showing phone mockup with widget layout on dotted grid background.](https://pin.fontofweb.com/8562?format=jpg)](https://design.withfudge.com/share/pin-8562)
+[![Builder interface with left sidebar containing tools and right canvas showing phone mockup with widget layout on dotted grid background.](https://pin.fontofweb.com/8562?format=jpg)](https://fudge.design/share/pin-8562)
 
-[Builder interface with left sidebar containing tools and right canvas showing phone mockup with widget layout on dotted grid background.](https://design.withfudge.com/share/pin-8562)
+[Builder interface with left sidebar containing tools and right canvas showing phone mockup with widget layout on dotted grid background.](https://fudge.design/share/pin-8562)
 
-[![Homepage hero with floating widget previews, serif headline "Come to play with Essential", yellow CTA button, and Essential Apps section with card grid.](https://pin.fontofweb.com/8560?format=jpg)](https://design.withfudge.com/share/pin-8560)
+[![Homepage hero with floating widget previews, serif headline "Come to play with Essential", yellow CTA button, and Essential Apps section with card grid.](https://pin.fontofweb.com/8560?format=jpg)](https://fudge.design/share/pin-8560)
 
-[Homepage hero with floating widget previews, serif headline "Come to play with Essential", yellow CTA button, and Essential Apps section with card grid.](https://design.withfudge.com/share/pin-8560)
+[Homepage hero with floating widget previews, serif headline "Come to play with Essential", yellow CTA button, and Essential Apps section with card grid.](https://fudge.design/share/pin-8560)
 
 ## Overview
 
@@ -207,3 +207,18 @@ Touch targets maintain minimum 44px tap areas in collapsed sidebar states. Dropd
 ## Scope note
 
 This guide covers the browsing and builder interfaces visible in the Essential Apps and homepage surfaces. The EQ profiles, preset detail pages, and any account or settings flows are not represented. Motion behavior, loading states, and mobile-specific layouts were not available for analysis. N Type 82-Headline is supplied but not currently assigned to visible tokens in the covered surfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

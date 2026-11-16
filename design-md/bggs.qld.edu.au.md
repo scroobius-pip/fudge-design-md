@@ -1,26 +1,26 @@
 # How bggs.qld.edu.au is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bggs.qld.edu.au-design)
+[Open the live Fudge conversation](https://fudge.design/share/bggs.qld.edu.au-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact page with deep blue hero banner, white serif heading, and quicklink pill buttons on white content area](https://pin.fontofweb.com/3526?format=jpg)](https://design.withfudge.com/share/pin-3526)
+[![Contact page with deep blue hero banner, white serif heading, and quicklink pill buttons on white content area](https://pin.fontofweb.com/3526?format=jpg)](https://fudge.design/share/pin-3526)
 
-[Contact page with deep blue hero banner, white serif heading, and quicklink pill buttons on white content area](https://design.withfudge.com/share/pin-3526)
+[Contact page with deep blue hero banner, white serif heading, and quicklink pill buttons on white content area](https://fudge.design/share/pin-3526)
 
-[![Footer section with warm sand background, large navy serif ENROL heading, and oversized BGGS wordmark](https://pin.fontofweb.com/3525?format=jpg)](https://design.withfudge.com/share/pin-3525)
+[![Footer section with warm sand background, large navy serif ENROL heading, and oversized BGGS wordmark](https://pin.fontofweb.com/3525?format=jpg)](https://fudge.design/share/pin-3525)
 
-[Footer section with warm sand background, large navy serif ENROL heading, and oversized BGGS wordmark](https://design.withfudge.com/share/pin-3525)
+[Footer section with warm sand background, large navy serif ENROL heading, and oversized BGGS wordmark](https://fudge.design/share/pin-3525)
 
-[![Latest News grid with editorial serif headings, thumbnail photography, and category labels with square indicators](https://pin.fontofweb.com/3524?format=jpg)](https://design.withfudge.com/share/pin-3524)
+[![Latest News grid with editorial serif headings, thumbnail photography, and category labels with square indicators](https://pin.fontofweb.com/3524?format=jpg)](https://fudge.design/share/pin-3524)
 
-[Latest News grid with editorial serif headings, thumbnail photography, and category labels with square indicators](https://design.withfudge.com/share/pin-3524)
+[Latest News grid with editorial serif headings, thumbnail photography, and category labels with square indicators](https://fudge.design/share/pin-3524)
 
-[![Split-screen Years 5 and 6 section with warm sand text panel and candid student photography on the right](https://pin.fontofweb.com/3523?format=jpg)](https://design.withfudge.com/share/pin-3523)
+[![Split-screen Years 5 and 6 section with warm sand text panel and candid student photography on the right](https://pin.fontofweb.com/3523?format=jpg)](https://fudge.design/share/pin-3523)
 
-[Split-screen Years 5 and 6 section with warm sand text panel and candid student photography on the right](https://design.withfudge.com/share/pin-3523)
+[Split-screen Years 5 and 6 section with warm sand text panel and candid student photography on the right](https://fudge.design/share/pin-3523)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Typography scales down proportionally: hero-display to section-display size, sec
 ## Scope note
 
 This guide covers the homepage and contact page surfaces visible in the supplied images, including the hero banner, split-screen editorial sections, news grids, quicklink navigation, and footer systems. Interior page templates, form interactions, search functionality, motion design, and mobile-specific adaptations are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Education and research](/share/designs-with-industry.education_research)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

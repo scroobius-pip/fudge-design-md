@@ -1,22 +1,22 @@
 # How emilysneddon.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/emilysneddon.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/emilysneddon.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage portfolio grid with bold black navigation bar, project thumbnails in varied aspect ratios, and year-category-title metadata beneath each image](https://pin.fontofweb.com/5049?format=jpg)](https://design.withfudge.com/share/pin-5049)
+[![Homepage portfolio grid with bold black navigation bar, project thumbnails in varied aspect ratios, and year-category-title metadata beneath each image](https://pin.fontofweb.com/5049?format=jpg)](https://fudge.design/share/pin-5049)
 
-[Homepage portfolio grid with bold black navigation bar, project thumbnails in varied aspect ratios, and year-category-title metadata beneath each image](https://design.withfudge.com/share/pin-5049)
+[Homepage portfolio grid with bold black navigation bar, project thumbnails in varied aspect ratios, and year-category-title metadata beneath each image](https://fudge.design/share/pin-5049)
 
-[![Fran Sans essay page showing large red-orange monospace display type in stacked verse paragraphs against white background](https://pin.fontofweb.com/5048?format=jpg)](https://design.withfudge.com/share/pin-5048)
+[![Fran Sans essay page showing large red-orange monospace display type in stacked verse paragraphs against white background](https://pin.fontofweb.com/5048?format=jpg)](https://fudge.design/share/pin-5048)
 
-[Fran Sans essay page showing large red-orange monospace display type in stacked verse paragraphs against white background](https://design.withfudge.com/share/pin-5048)
+[Fran Sans essay page showing large red-orange monospace display type in stacked verse paragraphs against white background](https://fudge.design/share/pin-5048)
 
-[![Close-up of essay page header with red-orange geometric sans-serif type showing tight letter-spacing and blocky letterforms](https://pin.fontofweb.com/5047?format=jpg)](https://design.withfudge.com/share/pin-5047)
+[![Close-up of essay page header with red-orange geometric sans-serif type showing tight letter-spacing and blocky letterforms](https://pin.fontofweb.com/5047?format=jpg)](https://fudge.design/share/pin-5047)
 
-[Close-up of essay page header with red-orange geometric sans-serif type showing tight letter-spacing and blocky letterforms](https://design.withfudge.com/share/pin-5047)
+[Close-up of essay page header with red-orange geometric sans-serif type showing tight letter-spacing and blocky letterforms](https://fudge.design/share/pin-5047)
 
 ## Overview
 
@@ -130,3 +130,18 @@ The horizontal project scroll on the homepage should remain accessible on narrow
 ## Scope note
 
 This guide covers the homepage portfolio gallery and the Fran Sans essay page as visible in the supplied images. Other project pages, mobile layouts, hover states, form elements, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

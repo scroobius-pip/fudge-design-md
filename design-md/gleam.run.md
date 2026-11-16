@@ -1,26 +1,26 @@
 # How gleam.run is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gleam.run-design)
+[Open the live Fudge conversation](https://fudge.design/share/gleam.run-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with pink star mascot logo, two-column link grid, and copyright notice on white background](https://pin.fontofweb.com/2647?format=jpg)](https://design.withfudge.com/share/pin-2647)
+[![Footer with pink star mascot logo, two-column link grid, and copyright notice on white background](https://pin.fontofweb.com/2647?format=jpg)](https://fudge.design/share/pin-2647)
 
-[Footer with pink star mascot logo, two-column link grid, and copyright notice on white background](https://design.withfudge.com/share/pin-2647)
+[Footer with pink star mascot logo, two-column link grid, and copyright notice on white background](https://fudge.design/share/pin-2647)
 
-[![Newsletter signup section with pink background, rounded dark button, email input field, and cartoon mascot holding envelope](https://pin.fontofweb.com/2646?format=jpg)](https://design.withfudge.com/share/pin-2646)
+[![Newsletter signup section with pink background, rounded dark button, email input field, and cartoon mascot holding envelope](https://pin.fontofweb.com/2646?format=jpg)](https://fudge.design/share/pin-2646)
 
-[Newsletter signup section with pink background, rounded dark button, email input field, and cartoon mascot holding envelope](https://design.withfudge.com/share/pin-2646)
+[Newsletter signup section with pink background, rounded dark button, email input field, and cartoon mascot holding envelope](https://fudge.design/share/pin-2646)
 
-[![Sponsor section with dark navy background, circular avatar grid, and pink decorative wave at top edge](https://pin.fontofweb.com/2645?format=jpg)](https://design.withfudge.com/share/pin-2645)
+[![Sponsor section with dark navy background, circular avatar grid, and pink decorative wave at top edge](https://pin.fontofweb.com/2645?format=jpg)](https://fudge.design/share/pin-2645)
 
-[Sponsor section with dark navy background, circular avatar grid, and pink decorative wave at top edge](https://design.withfudge.com/share/pin-2645)
+[Sponsor section with dark navy background, circular avatar grid, and pink decorative wave at top edge](https://fudge.design/share/pin-2645)
 
-[![Feature section with dark navy background, code syntax highlighting, terminal output, and white section headings](https://pin.fontofweb.com/2644?format=jpg)](https://design.withfudge.com/share/pin-2644)
+[![Feature section with dark navy background, code syntax highlighting, terminal output, and white section headings](https://pin.fontofweb.com/2644?format=jpg)](https://fudge.design/share/pin-2644)
 
-[Feature section with dark navy background, code syntax highlighting, terminal output, and white section headings](https://design.withfudge.com/share/pin-2644)
+[Feature section with dark navy background, code syntax highlighting, terminal output, and white section headings](https://fudge.design/share/pin-2644)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Typography scales down proportionally, with hero-display and section-display red
 ## Scope note
 
 This guide covers the Gleam homepage marketing surface including the hero, feature sections, newsletter signup, sponsor display, and footer. Measurements are practical adaptation targets. Documentation pages, interactive playground, package registry, and mobile-specific layouts are not represented in the supplied material. Hover states, focus styles, loading indicators, and error messaging were not visible and should be designed to match the established rounded, friendly aesthetic.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

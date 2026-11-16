@@ -1,26 +1,26 @@
 # How lemfi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lemfi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lemfi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Green careers banner with globe illustration and purple CTA button on textured emerald background](https://pin.fontofweb.com/3912?format=jpg)](https://design.withfudge.com/share/pin-3912)
+[![Green careers banner with globe illustration and purple CTA button on textured emerald background](https://pin.fontofweb.com/3912?format=jpg)](https://fudge.design/share/pin-3912)
 
-[Green careers banner with globe illustration and purple CTA button on textured emerald background](https://design.withfudge.com/share/pin-3912)
+[Green careers banner with globe illustration and purple CTA button on textured emerald background](https://fudge.design/share/pin-3912)
 
-[![Team member carousel with portrait cards showing names, roles, and locations in black typography](https://pin.fontofweb.com/3911?format=jpg)](https://design.withfudge.com/share/pin-3911)
+[![Team member carousel with portrait cards showing names, roles, and locations in black typography](https://pin.fontofweb.com/3911?format=jpg)](https://fudge.design/share/pin-3911)
 
-[Team member carousel with portrait cards showing names, roles, and locations in black typography](https://design.withfudge.com/share/pin-3911)
+[Team member carousel with portrait cards showing names, roles, and locations in black typography](https://fudge.design/share/pin-3911)
 
-[![Mission and backers split-panel layout with investor logos above green and purple wavy customer banner](https://pin.fontofweb.com/3910?format=jpg)](https://design.withfudge.com/share/pin-3910)
+[![Mission and backers split-panel layout with investor logos above green and purple wavy customer banner](https://pin.fontofweb.com/3910?format=jpg)](https://fudge.design/share/pin-3910)
 
-[Mission and backers split-panel layout with investor logos above green and purple wavy customer banner](https://design.withfudge.com/share/pin-3910)
+[Mission and backers split-panel layout with investor logos above green and purple wavy customer banner](https://fudge.design/share/pin-3910)
 
-[![About page hero with centered headline, team retreat photograph, and statistics section on pale green background](https://pin.fontofweb.com/3909?format=jpg)](https://design.withfudge.com/share/pin-3909)
+[![About page hero with centered headline, team retreat photograph, and statistics section on pale green background](https://pin.fontofweb.com/3909?format=jpg)](https://fudge.design/share/pin-3909)
 
-[About page hero with centered headline, team retreat photograph, and statistics section on pale green background](https://design.withfudge.com/share/pin-3909)
+[About page hero with centered headline, team retreat photograph, and statistics section on pale green background](https://fudge.design/share/pin-3909)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Touch targets maintain minimum 44px height for all interactive elements. Button 
 ## Scope note
 
 This guide covers the About page and related marketing surfaces visible in the supplied images. Product interfaces, transaction flows, account dashboards, and mobile application screens are not represented. Motion design, hover states, and form validation patterns were not captured and should be developed with accessibility principles. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

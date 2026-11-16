@@ -1,18 +1,18 @@
 # How mimo.xiaomi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mimo.xiaomi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mimo.xiaomi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large 'HELLO, I'M MiMo' display text against a repeating MiMo watermark pattern, with navigation bar containing Blog, 1001, Join us links and language selector](https://pin.fontofweb.com/5934?format=jpg)](https://design.withfudge.com/share/pin-5934)
+[![Hero section with large 'HELLO, I'M MiMo' display text against a repeating MiMo watermark pattern, with navigation bar containing Blog, 1001, Join us links and language selector](https://pin.fontofweb.com/5934?format=jpg)](https://fudge.design/share/pin-5934)
 
-[Hero section with large 'HELLO, I'M MiMo' display text against a repeating MiMo watermark pattern, with navigation bar containing Blog, 1001, Join us links and language selector](https://design.withfudge.com/share/pin-5934)
+[Hero section with large 'HELLO, I'M MiMo' display text against a repeating MiMo watermark pattern, with navigation bar containing Blog, 1001, Join us links and language selector](https://fudge.design/share/pin-5934)
 
-[![Numbered job listings table with 01-06 index column, role titles in serif type, arrow action cells, and email contact footer on warm off-white background](https://pin.fontofweb.com/5935?format=jpg)](https://design.withfudge.com/share/pin-5935)
+[![Numbered job listings table with 01-06 index column, role titles in serif type, arrow action cells, and email contact footer on warm off-white background](https://pin.fontofweb.com/5935?format=jpg)](https://fudge.design/share/pin-5935)
 
-[Numbered job listings table with 01-06 index column, role titles in serif type, arrow action cells, and email contact footer on warm off-white background](https://design.withfudge.com/share/pin-5935)
+[Numbered job listings table with 01-06 index column, role titles in serif type, arrow action cells, and email contact footer on warm off-white background](https://fudge.design/share/pin-5935)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Body text measure should remain constrained even on mobile—expanding to full v
 ## Scope note
 
 This guide covers the Xiaomi MiMo homepage landing experience including the hero, navigation, body manifesto, job listings table, and contact footer. Mobile layouts, hover and focus states, loading sequences, dark mode, and any interior pages linked from the navigation are not represented in the supplied material.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

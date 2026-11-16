@@ -1,26 +1,26 @@
 # How telepathicinstruments.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/telepathicinstruments.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/telepathicinstruments.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Shop All collection page showing product grid with Orchid instrument, apparel, and accessories on white background with pill-shaped category filters](https://pin.fontofweb.com/1787?format=jpg)](https://design.withfudge.com/share/pin-1787)
+[![Shop All collection page showing product grid with Orchid instrument, apparel, and accessories on white background with pill-shaped category filters](https://pin.fontofweb.com/1787?format=jpg)](https://fudge.design/share/pin-1787)
 
-[Shop All collection page showing product grid with Orchid instrument, apparel, and accessories on white background with pill-shaped category filters](https://design.withfudge.com/share/pin-1787)
+[Shop All collection page showing product grid with Orchid instrument, apparel, and accessories on white background with pill-shaped category filters](https://fudge.design/share/pin-1787)
 
-[![Enter the Garden community section with dark green left panel, serif headline, and testimonial cards over outdoor photography](https://pin.fontofweb.com/1786?format=jpg)](https://design.withfudge.com/share/pin-1786)
+[![Enter the Garden community section with dark green left panel, serif headline, and testimonial cards over outdoor photography](https://pin.fontofweb.com/1786?format=jpg)](https://fudge.design/share/pin-1786)
 
-[Enter the Garden community section with dark green left panel, serif headline, and testimonial cards over outdoor photography](https://design.withfudge.com/share/pin-1786)
+[Enter the Garden community section with dark green left panel, serif headline, and testimonial cards over outdoor photography](https://fudge.design/share/pin-1786)
 
-[![Product specifications section on near-black background with four-column technical details and outlined product cards](https://pin.fontofweb.com/1785?format=jpg)](https://design.withfudge.com/share/pin-1785)
+[![Product specifications section on near-black background with four-column technical details and outlined product cards](https://pin.fontofweb.com/1785?format=jpg)](https://fudge.design/share/pin-1785)
 
-[Product specifications section on near-black background with four-column technical details and outlined product cards](https://design.withfudge.com/share/pin-1785)
+[Product specifications section on near-black background with four-column technical details and outlined product cards](https://fudge.design/share/pin-1785)
 
-[![How do you play E Flat Major section with cream left panel, large serif headline, and hands playing Orchid over flower field](https://pin.fontofweb.com/1784?format=jpg)](https://design.withfudge.com/share/pin-1784)
+[![How do you play E Flat Major section with cream left panel, large serif headline, and hands playing Orchid over flower field](https://pin.fontofweb.com/1784?format=jpg)](https://fudge.design/share/pin-1784)
 
-[How do you play E Flat Major section with cream left panel, large serif headline, and hands playing Orchid over flower field](https://design.withfudge.com/share/pin-1784)
+[How do you play E Flat Major section with cream left panel, large serif headline, and hands playing Orchid over flower field](https://fudge.design/share/pin-1784)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Typography scales down proportionally: hero-display should reduce to approximate
 ## Scope note
 
 This guide covers the homepage, product detail page, and collection page surfaces visible in the supplied images. Checkout flows, account pages, mobile navigation patterns, and animation behaviors are not represented. Footer content, search interfaces, and additional product categories beyond those shown are outside the current scope. Measurements are practical adaptation targets derived from visual inspection of the supplied imagery.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

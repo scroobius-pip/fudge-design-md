@@ -1,26 +1,26 @@
 # How jiddo.ca is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jiddo.ca-design)
+[Open the live Fudge conversation](https://fudge.design/share/jiddo.ca-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with seven colorful tea canisters and orange product typography](https://pin.fontofweb.com/3506?format=jpg)](https://design.withfudge.com/share/pin-3506)
+[![Homepage hero with seven colorful tea canisters and orange product typography](https://pin.fontofweb.com/3506?format=jpg)](https://fudge.design/share/pin-3506)
 
-[Homepage hero with seven colorful tea canisters and orange product typography](https://design.withfudge.com/share/pin-3506)
+[Homepage hero with seven colorful tea canisters and orange product typography](https://fudge.design/share/pin-3506)
 
-[![Footer with gold floral illustration, social icons, and orange JIDDO wordmark](https://pin.fontofweb.com/3505?format=jpg)](https://design.withfudge.com/share/pin-3505)
+[![Footer with gold floral illustration, social icons, and orange JIDDO wordmark](https://pin.fontofweb.com/3505?format=jpg)](https://fudge.design/share/pin-3505)
 
-[Footer with gold floral illustration, social icons, and orange JIDDO wordmark](https://design.withfudge.com/share/pin-3505)
+[Footer with gold floral illustration, social icons, and orange JIDDO wordmark](https://fudge.design/share/pin-3505)
 
-[![Shopping cart page with empty-state banner and breadcrumb navigation](https://pin.fontofweb.com/3508?format=jpg)](https://design.withfudge.com/share/pin-3508)
+[![Shopping cart page with empty-state banner and breadcrumb navigation](https://pin.fontofweb.com/3508?format=jpg)](https://fudge.design/share/pin-3508)
 
-[Shopping cart page with empty-state banner and breadcrumb navigation](https://design.withfudge.com/share/pin-3508)
+[Shopping cart page with empty-state banner and breadcrumb navigation](https://fudge.design/share/pin-3508)
 
-[![Login form with orange pill button, focused email field, and centered layout](https://pin.fontofweb.com/3507?format=jpg)](https://design.withfudge.com/share/pin-3507)
+[![Login form with orange pill button, focused email field, and centered layout](https://pin.fontofweb.com/3507?format=jpg)](https://fudge.design/share/pin-3507)
 
-[Login form with orange pill button, focused email field, and centered layout](https://design.withfudge.com/share/pin-3507)
+[Login form with orange pill button, focused email field, and centered layout](https://fudge.design/share/pin-3507)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Typography scales should reduce by approximately 15-20% on small screens to pres
 ## Scope note
 
 This guide covers the homepage, authentication, and cart surfaces visible in the supplied images. Product detail pages, checkout flow beyond the cart, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. Motion, sound, and dynamic states such as loading or error conditions are not documented. Verify licensing for Pp Gatwick, Pp Fragment-Sans Regular, and Varela Round before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How henry.codes is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/henry.codes-design)
+[Open the live Fudge conversation](https://fudge.design/share/henry.codes-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body with italic section headings and justified body text on warm off-white canvas](https://pin.fontofweb.com/5752?format=jpg)](https://design.withfudge.com/share/pin-5752)
+[![Article body with italic section headings and justified body text on warm off-white canvas](https://pin.fontofweb.com/5752?format=jpg)](https://fudge.design/share/pin-5752)
 
-[Article body with italic section headings and justified body text on warm off-white canvas](https://design.withfudge.com/share/pin-5752)
+[Article body with italic section headings and justified body text on warm off-white canvas](https://fudge.design/share/pin-5752)
 
-[![Hero display with large mixed-weight italic title, book cover image, and pull-quote with arrow divider](https://pin.fontofweb.com/5751?format=jpg)](https://design.withfudge.com/share/pin-5751)
+[![Hero display with large mixed-weight italic title, book cover image, and pull-quote with arrow divider](https://pin.fontofweb.com/5751?format=jpg)](https://fudge.design/share/pin-5751)
 
-[Hero display with large mixed-weight italic title, book cover image, and pull-quote with arrow divider](https://design.withfudge.com/share/pin-5751)
+[Hero display with large mixed-weight italic title, book cover image, and pull-quote with arrow divider](https://fudge.design/share/pin-5751)
 
-[![Works Cited section with centered heading and numbered bibliography in italic text](https://pin.fontofweb.com/5750?format=jpg)](https://design.withfudge.com/share/pin-5750)
+[![Works Cited section with centered heading and numbered bibliography in italic text](https://pin.fontofweb.com/5750?format=jpg)](https://fudge.design/share/pin-5750)
 
-[Works Cited section with centered heading and numbered bibliography in italic text](https://design.withfudge.com/share/pin-5750)
+[Works Cited section with centered heading and numbered bibliography in italic text](https://fudge.design/share/pin-5750)
 
-[![Disclaimer banner with oversized italic display text inside thin border frame and centered body paragraph](https://pin.fontofweb.com/5749?format=jpg)](https://design.withfudge.com/share/pin-5749)
+[![Disclaimer banner with oversized italic display text inside thin border frame and centered body paragraph](https://pin.fontofweb.com/5749?format=jpg)](https://fudge.design/share/pin-5749)
 
-[Disclaimer banner with oversized italic display text inside thin border frame and centered body paragraph](https://design.withfudge.com/share/pin-5749)
+[Disclaimer banner with oversized italic display text inside thin border frame and centered body paragraph](https://fudge.design/share/pin-5749)
 
 ## Overview
 
@@ -145,3 +145,18 @@ Body text should remain at 1rem minimum for accessibility; the generous line hei
 ## Scope note
 
 This guide covers the long-form article reading experience visible in the supplied images. Navigation, homepage, archive listings, and interactive states are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, hover states, and mobile-specific layouts were not captured and should be designed to maintain the system's restrained editorial character.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

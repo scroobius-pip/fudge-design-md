@@ -1,26 +1,26 @@
 # How oreilly.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oreilly.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/oreilly.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing hero with blue-to-purple gradient, three white plan cards, and blue CTA buttons](https://pin.fontofweb.com/3736?format=jpg)](https://design.withfudge.com/share/pin-3736)
+[![Pricing hero with blue-to-purple gradient, three white plan cards, and blue CTA buttons](https://pin.fontofweb.com/3736?format=jpg)](https://fudge.design/share/pin-3736)
 
-[Pricing hero with blue-to-purple gradient, three white plan cards, and blue CTA buttons](https://design.withfudge.com/share/pin-3736)
+[Pricing hero with blue-to-purple gradient, three white plan cards, and blue CTA buttons](https://fudge.design/share/pin-3736)
 
-[![Dark gradient awards banner with 3D trophy illustration and blue action button](https://pin.fontofweb.com/3734?format=jpg)](https://design.withfudge.com/share/pin-3734)
+[![Dark gradient awards banner with 3D trophy illustration and blue action button](https://pin.fontofweb.com/3734?format=jpg)](https://fudge.design/share/pin-3734)
 
-[Dark gradient awards banner with 3D trophy illustration and blue action button](https://design.withfudge.com/share/pin-3734)
+[Dark gradient awards banner with 3D trophy illustration and blue action button](https://fudge.design/share/pin-3734)
 
-[![Feature comparison table with blue inclusion indicators and alternating row backgrounds](https://pin.fontofweb.com/3737?format=jpg)](https://design.withfudge.com/share/pin-3737)
+[![Feature comparison table with blue inclusion indicators and alternating row backgrounds](https://pin.fontofweb.com/3737?format=jpg)](https://fudge.design/share/pin-3737)
 
-[Feature comparison table with blue inclusion indicators and alternating row backgrounds](https://design.withfudge.com/share/pin-3737)
+[Feature comparison table with blue inclusion indicators and alternating row backgrounds](https://fudge.design/share/pin-3737)
 
-[![Footer with blue-to-purple gradient CTA bar, multi-column links, and red O'Reilly wordmark](https://pin.fontofweb.com/3735?format=jpg)](https://design.withfudge.com/share/pin-3735)
+[![Footer with blue-to-purple gradient CTA bar, multi-column links, and red O'Reilly wordmark](https://pin.fontofweb.com/3735?format=jpg)](https://fudge.design/share/pin-3735)
 
-[Footer with blue-to-purple gradient CTA bar, multi-column links, and red O'Reilly wordmark](https://design.withfudge.com/share/pin-3735)
+[Footer with blue-to-purple gradient CTA bar, multi-column links, and red O'Reilly wordmark](https://fudge.design/share/pin-3735)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Feature table indicators may benefit from row-based repetition of plan names on 
 ## Scope note
 
 This guide covers the pricing page and homepage footer surfaces visible in the supplied images, including gradient hero systems, pricing cards, feature comparison tables, and footer architecture. Navigation header, mobile layouts, form interactions, search functionality, account dashboards, and content player interfaces are not represented. Motion behavior, hover states, and loading patterns are not documented. Measurements are practical adaptation targets derived from visible relationships in the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Purple hue](/share/designs-with-color.hue.purple)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

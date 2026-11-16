@@ -1,26 +1,26 @@
 # How hugeicons.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hugeicons.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hugeicons.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with animated word 'Developer' in green, followed by a horizontal scroll of UI mockups showing icons in dark and light interface contexts on black, white, yellow, and](https://pin.fontofweb.com/6629?format=jpg)](https://design.withfudge.com/share/pin-6629)
+[![Hero section with animated word 'Developer' in green, followed by a horizontal scroll of UI mockups showing icons in dark and light interface contexts on black, white, yellow, and](https://pin.fontofweb.com/6629?format=jpg)](https://fudge.design/share/pin-6629)
 
-[Hero section with animated word 'Developer' in green, followed by a horizontal scroll of UI mockups showing icons in dark and light interface contexts on black, white, yellow, and](https://design.withfudge.com/share/pin-6629)
+[Hero section with animated word 'Developer' in green, followed by a horizontal scroll of UI mockups showing icons in dark and light interface contexts on black, white, yellow, and](https://fudge.design/share/pin-6629)
 
-[![Feature cards for Figma flexibility and multi-software compatibility, showing outlined house icons with purple labels and green 'Buy now' buttons against a warm off-white](https://pin.fontofweb.com/6628?format=jpg)](https://design.withfudge.com/share/pin-6628)
+[![Feature cards for Figma flexibility and multi-software compatibility, showing outlined house icons with purple labels and green 'Buy now' buttons against a warm off-white](https://pin.fontofweb.com/6628?format=jpg)](https://fudge.design/share/pin-6628)
 
-[Feature cards for Figma flexibility and multi-software compatibility, showing outlined house icons with purple labels and green 'Buy now' buttons against a warm off-white](https://design.withfudge.com/share/pin-6628)
+[Feature cards for Figma flexibility and multi-software compatibility, showing outlined house icons with purple labels and green 'Buy now' buttons against a warm off-white](https://fudge.design/share/pin-6628)
 
-[![Framer plugin demonstration with a dark interface panel displaying a searchable icon grid, green house icon, and lime play button, with green action buttons below.](https://pin.fontofweb.com/6627?format=jpg)](https://design.withfudge.com/share/pin-6627)
+[![Framer plugin demonstration with a dark interface panel displaying a searchable icon grid, green house icon, and lime play button, with green action buttons below.](https://pin.fontofweb.com/6627?format=jpg)](https://fudge.design/share/pin-6627)
 
-[Framer plugin demonstration with a dark interface panel displaying a searchable icon grid, green house icon, and lime play button, with green action buttons below.](https://design.withfudge.com/share/pin-6627)
+[Framer plugin demonstration with a dark interface panel displaying a searchable icon grid, green house icon, and lime play button, with green action buttons below.](https://fudge.design/share/pin-6627)
 
-[![Integration section with pale sage green background, white rounded squares containing colorful framework logos, and faint decorative line icons scattered across the surface.](https://pin.fontofweb.com/6626?format=jpg)](https://design.withfudge.com/share/pin-6626)
+[![Integration section with pale sage green background, white rounded squares containing colorful framework logos, and faint decorative line icons scattered across the surface.](https://pin.fontofweb.com/6626?format=jpg)](https://fudge.design/share/pin-6626)
 
-[Integration section with pale sage green background, white rounded squares containing colorful framework logos, and faint decorative line icons scattered across the surface.](https://design.withfudge.com/share/pin-6626)
+[Integration section with pale sage green background, white rounded squares containing colorful framework logos, and faint decorative line icons scattered across the surface.](https://fudge.design/share/pin-6626)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Font sizes should scale down modestly: hero-display to 2rem on tablet and 1.75re
 ## Scope note
 
 This guide covers the marketing homepage visible in the supplied images, including hero, feature, plugin, and integration sections. Pricing pages, icon browsing interfaces, documentation, account dashboards, and mobile-specific layouts are not represented. Footer content, navigation behavior, and search functionality are not visible in the provided materials. Motion specifications for the headline word animation and horizontal scroll behavior are not detailed here and should be defined during implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

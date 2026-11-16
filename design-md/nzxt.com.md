@@ -1,26 +1,26 @@
 # How nzxt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nzxt.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nzxt.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with dark gradient background, white headline 'Built on Balance', purple pill buttons, and product photography of compact PC case with RGB display](https://pin.fontofweb.com/7090?format=jpg)](https://design.withfudge.com/share/pin-7090)
+[![Hero banner with dark gradient background, white headline 'Built on Balance', purple pill buttons, and product photography of compact PC case with RGB display](https://pin.fontofweb.com/7090?format=jpg)](https://fudge.design/share/pin-7090)
 
-[Hero banner with dark gradient background, white headline 'Built on Balance', purple pill buttons, and product photography of compact PC case with RGB display](https://design.withfudge.com/share/pin-7090)
+[Hero banner with dark gradient background, white headline 'Built on Balance', purple pill buttons, and product photography of compact PC case with RGB display](https://fudge.design/share/pin-7090)
 
-[![Product detail page for H2 Flow Mini-ITX case with light gray gallery background, black product photography, and accordion specifications panel](https://pin.fontofweb.com/7089?format=jpg)](https://design.withfudge.com/share/pin-7089)
+[![Product detail page for H2 Flow Mini-ITX case with light gray gallery background, black product photography, and accordion specifications panel](https://pin.fontofweb.com/7089?format=jpg)](https://fudge.design/share/pin-7089)
 
-[Product detail page for H2 Flow Mini-ITX case with light gray gallery background, black product photography, and accordion specifications panel](https://design.withfudge.com/share/pin-7089)
+[Product detail page for H2 Flow Mini-ITX case with light gray gallery background, black product photography, and accordion specifications panel](https://fudge.design/share/pin-7089)
 
-[![Comparison table contrasting Build vs Prebuild features with purple CTA buttons and 'Ready to Size Down?' product grid section](https://pin.fontofweb.com/7091?format=jpg)](https://design.withfudge.com/share/pin-7091)
+[![Comparison table contrasting Build vs Prebuild features with purple CTA buttons and 'Ready to Size Down?' product grid section](https://pin.fontofweb.com/7091?format=jpg)](https://fudge.design/share/pin-7091)
 
-[Comparison table contrasting Build vs Prebuild features with purple CTA buttons and 'Ready to Size Down?' product grid section](https://design.withfudge.com/share/pin-7091)
+[Comparison table contrasting Build vs Prebuild features with purple CTA buttons and 'Ready to Size Down?' product grid section](https://fudge.design/share/pin-7091)
 
-[![Dark footer with four-column link layout, social media icons, language selector, and purple chat bubble floating action button](https://pin.fontofweb.com/7092?format=jpg)](https://design.withfudge.com/share/pin-7092)
+[![Dark footer with four-column link layout, social media icons, language selector, and purple chat bubble floating action button](https://pin.fontofweb.com/7092?format=jpg)](https://fudge.design/share/pin-7092)
 
-[Dark footer with four-column link layout, social media icons, language selector, and purple chat bubble floating action button](https://design.withfudge.com/share/pin-7092)
+[Dark footer with four-column link layout, social media icons, language selector, and purple chat bubble floating action button](https://fudge.design/share/pin-7092)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Typography scales should reduce proportionally: hero-display may drop to section
 ## Scope note
 
 This guide covers the NZXT commerce and product marketing surfaces visible in the supplied pages, including the Small Form Factor collection page and H2 Flow product detail page. Mobile breakpoints, checkout flows, account dashboards, and motion behaviors are not represented. The NZXT CAM software interface and community features fall outside this scope. Measurements are derived from the exact values provided.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

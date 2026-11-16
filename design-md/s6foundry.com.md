@@ -1,26 +1,26 @@
 # How s6foundry.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/s6foundry.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/s6foundry.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact page with black background, portrait photography, and outlined CTA button with coral text links](https://pin.fontofweb.com/1603?format=jpg)](https://design.withfudge.com/share/pin-1603)
+[![Contact page with black background, portrait photography, and outlined CTA button with coral text links](https://pin.fontofweb.com/1603?format=jpg)](https://fudge.design/share/pin-1603)
 
-[Contact page with black background, portrait photography, and outlined CTA button with coral text links](https://design.withfudge.com/share/pin-1603)
+[Contact page with black background, portrait photography, and outlined CTA button with coral text links](https://fudge.design/share/pin-1603)
 
-[![Minimal footer with white text on black, horizontal rule, and multi-column retail font partner links](https://pin.fontofweb.com/1602?format=jpg)](https://design.withfudge.com/share/pin-1602)
+[![Minimal footer with white text on black, horizontal rule, and multi-column retail font partner links](https://pin.fontofweb.com/1602?format=jpg)](https://fudge.design/share/pin-1602)
 
-[Minimal footer with white text on black, horizontal rule, and multi-column retail font partner links](https://design.withfudge.com/share/pin-1602)
+[Minimal footer with white text on black, horizontal rule, and multi-column retail font partner links](https://fudge.design/share/pin-1602)
 
-[![Type specimen carousel showing Rotary Sans and RNA Sans with orange weight labels and large white glyphs](https://pin.fontofweb.com/1601?format=jpg)](https://design.withfudge.com/share/pin-1601)
+[![Type specimen carousel showing Rotary Sans and RNA Sans with orange weight labels and large white glyphs](https://pin.fontofweb.com/1601?format=jpg)](https://fudge.design/share/pin-1601)
 
-[Type specimen carousel showing Rotary Sans and RNA Sans with orange weight labels and large white glyphs](https://design.withfudge.com/share/pin-1601)
+[Type specimen carousel showing Rotary Sans and RNA Sans with orange weight labels and large white glyphs](https://fudge.design/share/pin-1601)
 
-[![Hupla Metric specimen with blue accent panel and variable weight axis visualization on white surface](https://pin.fontofweb.com/1600?format=jpg)](https://design.withfudge.com/share/pin-1600)
+[![Hupla Metric specimen with blue accent panel and variable weight axis visualization on white surface](https://pin.fontofweb.com/1600?format=jpg)](https://fudge.design/share/pin-1600)
 
-[Hupla Metric specimen with blue accent panel and variable weight axis visualization on white surface](https://design.withfudge.com/share/pin-1600)
+[Hupla Metric specimen with blue accent panel and variable weight axis visualization on white surface](https://fudge.design/share/pin-1600)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The black canvas and white text combination maintains sufficient contrast at all
 ## Scope note
 
 This guide covers the homepage type specimen carousel, contact page, and footer as visible in desktop-width captures. Mobile breakpoints, hover states, form validation, and e-commerce or font-purchase flows are not represented in the supplied material. Measurements are practical adaptation targets. The Fontutti and Roboto families appear in the source but are not visibly used in the captured interface surfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Agency](/share/designs-with-offering.agency)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How northendboutique.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/northendboutique.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/northendboutique.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed homepage with hero image, product grid, and open cart drawer showing empty state with shop now button](https://pin.fontofweb.com/9936?format=jpg)](https://design.withfudge.com/share/pin-9936)
+[![Dark-themed homepage with hero image, product grid, and open cart drawer showing empty state with shop now button](https://pin.fontofweb.com/9936?format=jpg)](https://fudge.design/share/pin-9936)
 
-[Dark-themed homepage with hero image, product grid, and open cart drawer showing empty state with shop now button](https://design.withfudge.com/share/pin-9936)
+[Dark-themed homepage with hero image, product grid, and open cart drawer showing empty state with shop now button](https://fudge.design/share/pin-9936)
 
-[![Full dark mode homepage with navigation bar, hero banner with learn more button, and new arrivals product grid](https://pin.fontofweb.com/9935?format=jpg)](https://design.withfudge.com/share/pin-9935)
+[![Full dark mode homepage with navigation bar, hero banner with learn more button, and new arrivals product grid](https://pin.fontofweb.com/9935?format=jpg)](https://fudge.design/share/pin-9935)
 
-[Full dark mode homepage with navigation bar, hero banner with learn more button, and new arrivals product grid](https://design.withfudge.com/share/pin-9935)
+[Full dark mode homepage with navigation bar, hero banner with learn more button, and new arrivals product grid](https://fudge.design/share/pin-9935)
 
-[![Light-themed mobile navigation overlay with category links and close button on white background](https://pin.fontofweb.com/9934?format=jpg)](https://design.withfudge.com/share/pin-9934)
+[![Light-themed mobile navigation overlay with category links and close button on white background](https://pin.fontofweb.com/9934?format=jpg)](https://fudge.design/share/pin-9934)
 
-[Light-themed mobile navigation overlay with category links and close button on white background](https://design.withfudge.com/share/pin-9934)
+[Light-themed mobile navigation overlay with category links and close button on white background](https://fudge.design/share/pin-9934)
 
-[![Light mode footer with marquee brand text, about section, payment icons, email subscription form, and social links](https://pin.fontofweb.com/9933?format=jpg)](https://design.withfudge.com/share/pin-9933)
+[![Light mode footer with marquee brand text, about section, payment icons, email subscription form, and social links](https://pin.fontofweb.com/9933?format=jpg)](https://fudge.design/share/pin-9933)
 
-[Light mode footer with marquee brand text, about section, payment icons, email subscription form, and social links](https://design.withfudge.com/share/pin-9933)
+[Light mode footer with marquee brand text, about section, payment icons, email subscription form, and social links](https://fudge.design/share/pin-9933)
 
 ## Overview
 
@@ -197,3 +197,18 @@ Footer columns stack vertically on narrow screens, with the email subscription f
 ## Scope note
 
 This guide covers the homepage, cart drawer, navigation overlay, and footer as visible in the supplied captures. Product detail pages, checkout flow, account dashboards, and collection filtering interfaces are not represented. Motion behavior for mode transitions, hover states, and cart interactions should be defined during implementation. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

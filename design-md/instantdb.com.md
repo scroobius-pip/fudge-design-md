@@ -1,26 +1,26 @@
 # How instantdb.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/instantdb.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/instantdb.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with four-tier card layout showing Free, Pro, Startup, and Enterprise plans with orange-highlighted CTA and checkmark feature lists](https://pin.fontofweb.com/8779?format=jpg)](https://design.withfudge.com/share/pin-8779)
+[![Pricing page with four-tier card layout showing Free, Pro, Startup, and Enterprise plans with orange-highlighted CTA and checkmark feature lists](https://pin.fontofweb.com/8779?format=jpg)](https://fudge.design/share/pin-8779)
 
-[Pricing page with four-tier card layout showing Free, Pro, Startup, and Enterprise plans with orange-highlighted CTA and checkmark feature lists](https://design.withfudge.com/share/pin-8779)
+[Pricing page with four-tier card layout showing Free, Pro, Startup, and Enterprise plans with orange-highlighted CTA and checkmark feature lists](https://fudge.design/share/pin-8779)
 
-[![Homepage hero with warm gradient background, terminal-style install command, orange primary button, video thumbnail, and monospace statistics row](https://pin.fontofweb.com/8778?format=jpg)](https://design.withfudge.com/share/pin-8778)
+[![Homepage hero with warm gradient background, terminal-style install command, orange primary button, video thumbnail, and monospace statistics row](https://pin.fontofweb.com/8778?format=jpg)](https://fudge.design/share/pin-8778)
 
-[Homepage hero with warm gradient background, terminal-style install command, orange primary button, video thumbnail, and monospace statistics row](https://design.withfudge.com/share/pin-8778)
+[Homepage hero with warm gradient background, terminal-style install command, orange primary button, video thumbnail, and monospace statistics row](https://fudge.design/share/pin-8778)
 
-[![Minimal login modal with email input, lavender send button, Google OAuth option, and monospace logo mark](https://pin.fontofweb.com/1705?format=jpg)](https://design.withfudge.com/share/pin-1705)
+[![Minimal login modal with email input, lavender send button, Google OAuth option, and monospace logo mark](https://pin.fontofweb.com/1705?format=jpg)](https://fudge.design/share/pin-1705)
 
-[Minimal login modal with email input, lavender send button, Google OAuth option, and monospace logo mark](https://design.withfudge.com/share/pin-1705)
+[Minimal login modal with email input, lavender send button, Google OAuth option, and monospace logo mark](https://fudge.design/share/pin-1705)
 
-[![About section with monospace heading, two-column investor list, orange Start Building CTA, and monospace footer metadata](https://pin.fontofweb.com/1704?format=jpg)](https://design.withfudge.com/share/pin-1704)
+[![About section with monospace heading, two-column investor list, orange Start Building CTA, and monospace footer metadata](https://pin.fontofweb.com/1704?format=jpg)](https://fudge.design/share/pin-1704)
 
-[About section with monospace heading, two-column investor list, orange Start Building CTA, and monospace footer metadata](https://design.withfudge.com/share/pin-1704)
+[About section with monospace heading, two-column investor list, orange Start Building CTA, and monospace footer metadata](https://fudge.design/share/pin-1704)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Ensure the orange action color meets contrast requirements against white text at
 ## Scope note
 
 This guide covers the marketing site surfaces visible on the homepage, pricing page, about section, and authentication modal. Dashboard internals, mobile breakpoints, dark mode, loading states, and motion behaviors are not represented in the supplied material. The IBM Plex Sans family appears in the font inventory but is not visibly used in the captured interfaces; verify whether it serves a specific functional role before including in production builds. The authentication modal's button color is described from visual interpretation of the supplied image and should be verified against live implementation.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How theastralfrontier.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/theastralfrontier.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/theastralfrontier.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Quiz interface with large geometric display type and dashed-border answer cards against a dark starfield with orbital grid lines](https://pin.fontofweb.com/639?format=jpg)](https://design.withfudge.com/share/pin-639)
+[![Quiz interface with large geometric display type and dashed-border answer cards against a dark starfield with orbital grid lines](https://pin.fontofweb.com/639?format=jpg)](https://fudge.design/share/pin-639)
 
-[Quiz interface with large geometric display type and dashed-border answer cards against a dark starfield with orbital grid lines](https://design.withfudge.com/share/pin-639)
+[Quiz interface with large geometric display type and dashed-border answer cards against a dark starfield with orbital grid lines](https://fudge.design/share/pin-639)
 
-[![Hero landing page featuring a massive armillary sphere, slide-to-explore control, and wide-tracked label typography on deep black](https://pin.fontofweb.com/638?format=jpg)](https://design.withfudge.com/share/pin-638)
+[![Hero landing page featuring a massive armillary sphere, slide-to-explore control, and wide-tracked label typography on deep black](https://pin.fontofweb.com/638?format=jpg)](https://fudge.design/share/pin-638)
 
-[Hero landing page featuring a massive armillary sphere, slide-to-explore control, and wide-tracked label typography on deep black](https://design.withfudge.com/share/pin-638)
+[Hero landing page featuring a massive armillary sphere, slide-to-explore control, and wide-tracked label typography on deep black](https://fudge.design/share/pin-638)
 
-[![Info modal showing a desert sci-fi landscape with warm harvester architecture, copper accent rules, and a dashed close button](https://pin.fontofweb.com/636?format=jpg)](https://design.withfudge.com/share/pin-636)
+[![Info modal showing a desert sci-fi landscape with warm harvester architecture, copper accent rules, and a dashed close button](https://pin.fontofweb.com/636?format=jpg)](https://fudge.design/share/pin-636)
 
-[Info modal showing a desert sci-fi landscape with warm harvester architecture, copper accent rules, and a dashed close button](https://design.withfudge.com/share/pin-636)
+[Info modal showing a desert sci-fi landscape with warm harvester architecture, copper accent rules, and a dashed close button](https://fudge.design/share/pin-636)
 
-[![Planet explorer view with a large rendered sphere, red-orange display numerals, technical data readout, and thumbnail navigation pills](https://pin.fontofweb.com/635?format=jpg)](https://design.withfudge.com/share/pin-635)
+[![Planet explorer view with a large rendered sphere, red-orange display numerals, technical data readout, and thumbnail navigation pills](https://pin.fontofweb.com/635?format=jpg)](https://fudge.design/share/pin-635)
 
-[Planet explorer view with a large rendered sphere, red-orange display numerals, technical data readout, and thumbnail navigation pills](https://design.withfudge.com/share/pin-635)
+[Planet explorer view with a large rendered sphere, red-orange display numerals, technical data readout, and thumbnail navigation pills](https://fudge.design/share/pin-635)
 
 ## Overview
 
@@ -138,3 +138,18 @@ The interface appears designed for immersive desktop viewing given its cinematic
 ## Scope note
 
 This guide covers the landing experience, planet explorer, quiz interface, and info modal surfaces visible in the supplied imagery. Mobile layouts, animation specifications, additional interior pages, and form validation states are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Image background](/share/designs-with-visual.background.image)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

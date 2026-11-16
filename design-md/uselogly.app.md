@@ -1,26 +1,26 @@
 # How uselogly.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/uselogly.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/uselogly.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with Logly logo, tagline, product and legal links, social links, and decorative food line illustrations on warm off-white background](https://pin.fontofweb.com/6915?format=jpg)](https://design.withfudge.com/share/pin-6915)
+[![Footer with Logly logo, tagline, product and legal links, social links, and decorative food line illustrations on warm off-white background](https://pin.fontofweb.com/6915?format=jpg)](https://fudge.design/share/pin-6915)
 
-[Footer with Logly logo, tagline, product and legal links, social links, and decorative food line illustrations on warm off-white background](https://design.withfudge.com/share/pin-6915)
+[Footer with Logly logo, tagline, product and legal links, social links, and decorative food line illustrations on warm off-white background](https://fudge.design/share/pin-6915)
 
-[![Dark hero section with Iowan Old Style headline, muted body text, pill-shaped download button, and chef illustration with golden bowl accent](https://pin.fontofweb.com/6914?format=jpg)](https://design.withfudge.com/share/pin-6914)
+[![Dark hero section with Iowan Old Style headline, muted body text, pill-shaped download button, and chef illustration with golden bowl accent](https://pin.fontofweb.com/6914?format=jpg)](https://fudge.design/share/pin-6914)
 
-[Dark hero section with Iowan Old Style headline, muted body text, pill-shaped download button, and chef illustration with golden bowl accent](https://design.withfudge.com/share/pin-6914)
+[Dark hero section with Iowan Old Style headline, muted body text, pill-shaped download button, and chef illustration with golden bowl accent](https://fudge.design/share/pin-6914)
 
-[![Testimonials section with three quote cards featuring serif italic quotes, avatar initials, and attribution on warm off-white background](https://pin.fontofweb.com/6913?format=jpg)](https://design.withfudge.com/share/pin-6913)
+[![Testimonials section with three quote cards featuring serif italic quotes, avatar initials, and attribution on warm off-white background](https://pin.fontofweb.com/6913?format=jpg)](https://fudge.design/share/pin-6913)
 
-[Testimonials section with three quote cards featuring serif italic quotes, avatar initials, and attribution on warm off-white background](https://design.withfudge.com/share/pin-6913)
+[Testimonials section with three quote cards featuring serif italic quotes, avatar initials, and attribution on warm off-white background](https://fudge.design/share/pin-6913)
 
-[![Feature section with phone mockups showing weight tracking and nutrition goals interfaces, with serif headings and sans-serif body text](https://pin.fontofweb.com/6912?format=jpg)](https://design.withfudge.com/share/pin-6912)
+[![Feature section with phone mockups showing weight tracking and nutrition goals interfaces, with serif headings and sans-serif body text](https://pin.fontofweb.com/6912?format=jpg)](https://fudge.design/share/pin-6912)
 
-[Feature section with phone mockups showing weight tracking and nutrition goals interfaces, with serif headings and sans-serif body text](https://design.withfudge.com/share/pin-6912)
+[Feature section with phone mockups showing weight tracking and nutrition goals interfaces, with serif headings and sans-serif body text](https://fudge.design/share/pin-6912)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Type sizes should scale down proportionally: the 60px hero headline may reduce t
 ## Scope note
 
 This guide covers the Logly marketing landing page as captured, including the hero, testimonials, feature showcases with phone mockups, and footer. Pricing pages, app interface internals, authentication flows, and mobile navigation patterns are not represented in the supplied material. Motion, hover states, and form interactions are not documented. Measurements reflect the desktop viewport captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

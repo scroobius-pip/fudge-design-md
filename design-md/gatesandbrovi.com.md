@@ -1,26 +1,26 @@
 # How gatesandbrovi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gatesandbrovi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/gatesandbrovi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with hanging glass mugs, distressed typographic poster reading WHERE ALL PATHS LEAD, and teal footer with speckled texture](https://pin.fontofweb.com/1478?format=jpg)](https://design.withfudge.com/share/pin-1478)
+[![Homepage hero with hanging glass mugs, distressed typographic poster reading WHERE ALL PATHS LEAD, and teal footer with speckled texture](https://pin.fontofweb.com/1478?format=jpg)](https://fudge.design/share/pin-1478)
 
-[Homepage hero with hanging glass mugs, distressed typographic poster reading WHERE ALL PATHS LEAD, and teal footer with speckled texture](https://design.withfudge.com/share/pin-1478)
+[Homepage hero with hanging glass mugs, distressed typographic poster reading WHERE ALL PATHS LEAD, and teal footer with speckled texture](https://fudge.design/share/pin-1478)
 
-[![Dinner menu page with cream background, red ORDER ONLINE button, monospace menu items, and food photography with checkered tablecloth](https://pin.fontofweb.com/1479?format=jpg)](https://design.withfudge.com/share/pin-1479)
+[![Dinner menu page with cream background, red ORDER ONLINE button, monospace menu items, and food photography with checkered tablecloth](https://pin.fontofweb.com/1479?format=jpg)](https://fudge.design/share/pin-1479)
 
-[Dinner menu page with cream background, red ORDER ONLINE button, monospace menu items, and food photography with checkered tablecloth](https://design.withfudge.com/share/pin-1479)
+[Dinner menu page with cream background, red ORDER ONLINE button, monospace menu items, and food photography with checkered tablecloth](https://fudge.design/share/pin-1479)
 
-[![Footer section with teal speckled background, red ORDER ONLINE button, address text in monospace, and red G&B logo mark](https://pin.fontofweb.com/1480?format=jpg)](https://design.withfudge.com/share/pin-1480)
+[![Footer section with teal speckled background, red ORDER ONLINE button, address text in monospace, and red G&B logo mark](https://pin.fontofweb.com/1480?format=jpg)](https://fudge.design/share/pin-1480)
 
-[Footer section with teal speckled background, red ORDER ONLINE button, address text in monospace, and red G&B logo mark](https://design.withfudge.com/share/pin-1480)
+[Footer section with teal speckled background, red ORDER ONLINE button, address text in monospace, and red G&B logo mark](https://fudge.design/share/pin-1480)
 
-[![Homepage hero close-up showing red and dark green layered typography on poster with directional arrows and neighborhood names](https://pin.fontofweb.com/1477?format=jpg)](https://design.withfudge.com/share/pin-1477)
+[![Homepage hero close-up showing red and dark green layered typography on poster with directional arrows and neighborhood names](https://pin.fontofweb.com/1477?format=jpg)](https://fudge.design/share/pin-1477)
 
-[Homepage hero close-up showing red and dark green layered typography on poster with directional arrows and neighborhood names](https://design.withfudge.com/share/pin-1477)
+[Homepage hero close-up showing red and dark green layered typography on poster with directional arrows and neighborhood names](https://fudge.design/share/pin-1477)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The footer content, already minimal and centered, should remain readable without
 ## Scope note
 
 This guide covers the homepage and dinner menu page surfaces visible in the supplied images. Mobile layouts, additional interior pages, hover and focus states, loading behavior, and animation are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

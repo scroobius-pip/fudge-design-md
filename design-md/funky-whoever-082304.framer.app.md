@@ -1,18 +1,18 @@
 # How funky-whoever-082304.framer.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/funky-whoever-082304.framer.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/funky-whoever-082304.framer.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark canvas with staggered portrait cards in warm orange and cool blue tones, showing labels like Being Tangoed and Vibrant Wall with a large white nf mark centered](https://pin.fontofweb.com/3871?format=jpg)](https://design.withfudge.com/share/pin-3871)
+[![Dark canvas with staggered portrait cards in warm orange and cool blue tones, showing labels like Being Tangoed and Vibrant Wall with a large white nf mark centered](https://pin.fontofweb.com/3871?format=jpg)](https://fudge.design/share/pin-3871)
 
-[Dark canvas with staggered portrait cards in warm orange and cool blue tones, showing labels like Being Tangoed and Vibrant Wall with a large white nf mark centered](https://design.withfudge.com/share/pin-3871)
+[Dark canvas with staggered portrait cards in warm orange and cool blue tones, showing labels like Being Tangoed and Vibrant Wall with a large white nf mark centered](https://fudge.design/share/pin-3871)
 
-[![Similar dark canvas with portrait cards arranged in two rows, featuring labels like Sunny Side Up and Earths Elixir with a large white te mark centered between cards](https://pin.fontofweb.com/3870?format=jpg)](https://design.withfudge.com/share/pin-3870)
+[![Similar dark canvas with portrait cards arranged in two rows, featuring labels like Sunny Side Up and Earths Elixir with a large white te mark centered between cards](https://pin.fontofweb.com/3870?format=jpg)](https://fudge.design/share/pin-3870)
 
-[Similar dark canvas with portrait cards arranged in two rows, featuring labels like Sunny Side Up and Earths Elixir with a large white te mark centered between cards](https://design.withfudge.com/share/pin-3870)
+[Similar dark canvas with portrait cards arranged in two rows, featuring labels like Sunny Side Up and Earths Elixir with a large white te mark centered between cards](https://fudge.design/share/pin-3870)
 
 ## Overview
 
@@ -145,3 +145,18 @@ Touch scrolling should feel continuous and momentum-based, matching the infinite
 ## Scope note
 
 This guide covers the visible infinite-scrolling grid page with its portrait card system and typographic interruptions. Measurements are practical adaptation targets. Mobile layouts, loading states, hover interactions, filtering behavior, and any additional page types beyond this single scroll experience are not represented in the supplied material. The full typographic alphabet or animation timing for the hero marks is not visible.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

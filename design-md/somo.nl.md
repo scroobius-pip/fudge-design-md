@@ -1,26 +1,26 @@
 # How somo.nl is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/somo.nl-design)
+[Open the live Fudge conversation](https://fudge.design/share/somo.nl-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Primary navigation bar with red SOMO logo mark on mustard yellow background, featuring dropdown menus and language selector](https://pin.fontofweb.com/5363?format=jpg)](https://design.withfudge.com/share/pin-5363)
+[![Primary navigation bar with red SOMO logo mark on mustard yellow background, featuring dropdown menus and language selector](https://pin.fontofweb.com/5363?format=jpg)](https://fudge.design/share/pin-5363)
 
-[Primary navigation bar with red SOMO logo mark on mustard yellow background, featuring dropdown menus and language selector](https://design.withfudge.com/share/pin-5363)
+[Primary navigation bar with red SOMO logo mark on mustard yellow background, featuring dropdown menus and language selector](https://fudge.design/share/pin-5363)
 
-[![Latest updates section with teal background, article cards in white and warm gray with category tags and author avatars](https://pin.fontofweb.com/5362?format=jpg)](https://design.withfudge.com/share/pin-5362)
+[![Latest updates section with teal background, article cards in white and warm gray with category tags and author avatars](https://pin.fontofweb.com/5362?format=jpg)](https://fudge.design/share/pin-5362)
 
-[Latest updates section with teal background, article cards in white and warm gray with category tags and author avatars](https://design.withfudge.com/share/pin-5362)
+[Latest updates section with teal background, article cards in white and warm gray with category tags and author avatars](https://fudge.design/share/pin-5362)
 
-[![Footer with mustard yellow background, four-column contact information layout, social icons, and certification badges on gray strip](https://pin.fontofweb.com/5361?format=jpg)](https://design.withfudge.com/share/pin-5361)
+[![Footer with mustard yellow background, four-column contact information layout, social icons, and certification badges on gray strip](https://pin.fontofweb.com/5361?format=jpg)](https://fudge.design/share/pin-5361)
 
-[Footer with mustard yellow background, four-column contact information layout, social icons, and certification badges on gray strip](https://design.withfudge.com/share/pin-5361)
+[Footer with mustard yellow background, four-column contact information layout, social icons, and certification badges on gray strip](https://fudge.design/share/pin-5361)
 
-[![Cookie consent banner with olive green OK button, white Customise button, and SOMO logo on light gray-green background](https://pin.fontofweb.com/5360?format=jpg)](https://design.withfudge.com/share/pin-5360)
+[![Cookie consent banner with olive green OK button, white Customise button, and SOMO logo on light gray-green background](https://pin.fontofweb.com/5360?format=jpg)](https://fudge.design/share/pin-5360)
 
-[Cookie consent banner with olive green OK button, white Customise button, and SOMO logo on light gray-green background](https://design.withfudge.com/share/pin-5360)
+[Cookie consent banner with olive green OK button, white Customise button, and SOMO logo on light gray-green background](https://fudge.design/share/pin-5360)
 
 ## Overview
 
@@ -203,3 +203,18 @@ The bold color fields work at any width but may benefit from reduced section pad
 ## Scope note
 
 This guide covers the homepage surface including header navigation, latest updates section, cookie consent banner, and footer. Measurements are practical adaptation targets. Mobile breakpoints, hover states, form components, interior page templates, and motion behavior are not represented in the supplied material.
+
+## Related design patterns
+
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Public service](/share/designs-with-offering.public_service)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Public and nonprofit](/share/designs-with-industry.public_nonprofit)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

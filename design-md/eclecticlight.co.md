@@ -1,18 +1,18 @@
 # How eclecticlight.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/eclecticlight.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/eclecticlight.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Minimal search overlay with large serif query text and right-edge utility icons](https://pin.fontofweb.com/5692?format=jpg)](https://design.withfudge.com/share/pin-5692)
+[![Minimal search overlay with large serif query text and right-edge utility icons](https://pin.fontofweb.com/5692?format=jpg)](https://fudge.design/share/pin-5692)
 
-[Minimal search overlay with large serif query text and right-edge utility icons](https://design.withfudge.com/share/pin-5692)
+[Minimal search overlay with large serif query text and right-edge utility icons](https://fudge.design/share/pin-5692)
 
-[![Homepage masthead with circular logo, red feature cards, and multi-column article grid with classical paintings](https://pin.fontofweb.com/5691?format=jpg)](https://design.withfudge.com/share/pin-5691)
+[![Homepage masthead with circular logo, red feature cards, and multi-column article grid with classical paintings](https://pin.fontofweb.com/5691?format=jpg)](https://fudge.design/share/pin-5691)
 
-[Homepage masthead with circular logo, red feature cards, and multi-column article grid with classical paintings](https://design.withfudge.com/share/pin-5691)
+[Homepage masthead with circular logo, red feature cards, and multi-column article grid with classical paintings](https://fudge.design/share/pin-5691)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The multi-column grid should collapse to single-column stacking on narrower view
 ## Scope note
 
 This guide covers the homepage and search overlay surfaces visible in the supplied images. Interior article pages, archive listings, comment sections, and footer areas are not represented. Measurements are practical adaptation targets derived from visual inspection. No mobile-specific layouts, dark mode, loading states, or form validation patterns are documented. Verify licensing for Playfair, Droid Serif, and Font Awesome before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

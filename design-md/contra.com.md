@@ -1,26 +1,26 @@
 # How contra.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/contra.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/contra.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Vertical navigation sidebar with workspace switcher, icon-based menu items, and promotional footer card on light background](https://pin.fontofweb.com/5140?format=jpg)](https://design.withfudge.com/share/pin-5140)
+[![Vertical navigation sidebar with workspace switcher, icon-based menu items, and promotional footer card on light background](https://pin.fontofweb.com/5140?format=jpg)](https://fudge.design/share/pin-5140)
 
-[Vertical navigation sidebar with workspace switcher, icon-based menu items, and promotional footer card on light background](https://design.withfudge.com/share/pin-5140)
+[Vertical navigation sidebar with workspace switcher, icon-based menu items, and promotional footer card on light background](https://fudge.design/share/pin-5140)
 
-[![Rounded content creation input with avatar, media attachment icons, tag button, and dark pill-shaped Post action](https://pin.fontofweb.com/5139?format=jpg)](https://design.withfudge.com/share/pin-5139)
+[![Rounded content creation input with avatar, media attachment icons, tag button, and dark pill-shaped Post action](https://pin.fontofweb.com/5139?format=jpg)](https://fudge.design/share/pin-5139)
 
-[Rounded content creation input with avatar, media attachment icons, tag button, and dark pill-shaped Post action](https://design.withfudge.com/share/pin-5139)
+[Rounded content creation input with avatar, media attachment icons, tag button, and dark pill-shaped Post action](https://fudge.design/share/pin-5139)
 
-[![Pricing page with two plan cards, toggle switch, feature lists, and dark primary upgrade button with Pro badge](https://pin.fontofweb.com/5138?format=jpg)](https://design.withfudge.com/share/pin-5138)
+[![Pricing page with two plan cards, toggle switch, feature lists, and dark primary upgrade button with Pro badge](https://pin.fontofweb.com/5138?format=jpg)](https://fudge.design/share/pin-5138)
 
-[Pricing page with two plan cards, toggle switch, feature lists, and dark primary upgrade button with Pro badge](https://design.withfudge.com/share/pin-5138)
+[Pricing page with two plan cards, toggle switch, feature lists, and dark primary upgrade button with Pro badge](https://fudge.design/share/pin-5138)
 
-[![Split authentication screen with verification code entry, success indicator, testimonial quote, and trusted-by logo grid](https://pin.fontofweb.com/5137?format=jpg)](https://design.withfudge.com/share/pin-5137)
+[![Split authentication screen with verification code entry, success indicator, testimonial quote, and trusted-by logo grid](https://pin.fontofweb.com/5137?format=jpg)](https://fudge.design/share/pin-5137)
 
-[Split authentication screen with verification code entry, success indicator, testimonial quote, and trusted-by logo grid](https://design.withfudge.com/share/pin-5137)
+[Split authentication screen with verification code entry, success indicator, testimonial quote, and trusted-by logo grid](https://fudge.design/share/pin-5137)
 
 ## Overview
 
@@ -195,3 +195,18 @@ The sidebar navigation should collapse to a top bar or icon-only rail on viewpor
 ## Scope note
 
 This guide covers the authenticated navigation, content creation, plan selection, and authentication surfaces visible in the supplied images. Mobile layouts, dark mode, loading states, error handling, and notification systems are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

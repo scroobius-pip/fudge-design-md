@@ -1,22 +1,22 @@
 # How monosketch.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/monosketch.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/monosketch.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Light-themed Contribution section with coral-outlined GitHub button, pill-shaped sponsor badges, and ASCII cat illustration on white canvas](https://pin.fontofweb.com/6500?format=jpg)](https://design.withfudge.com/share/pin-6500)
+[![Light-themed Contribution section with coral-outlined GitHub button, pill-shaped sponsor badges, and ASCII cat illustration on white canvas](https://pin.fontofweb.com/6500?format=jpg)](https://fudge.design/share/pin-6500)
 
-[Light-themed Contribution section with coral-outlined GitHub button, pill-shaped sponsor badges, and ASCII cat illustration on white canvas](https://design.withfudge.com/share/pin-6500)
+[Light-themed Contribution section with coral-outlined GitHub button, pill-shaped sponsor badges, and ASCII cat illustration on white canvas](https://fudge.design/share/pin-6500)
 
-[![Dark terracotta hero slide showing ASCII system architecture diagram with white line-art boxes and monospace labels](https://pin.fontofweb.com/6499?format=jpg)](https://design.withfudge.com/share/pin-6499)
+[![Dark terracotta hero slide showing ASCII system architecture diagram with white line-art boxes and monospace labels](https://pin.fontofweb.com/6499?format=jpg)](https://fudge.design/share/pin-6499)
 
-[Dark terracotta hero slide showing ASCII system architecture diagram with white line-art boxes and monospace labels](https://design.withfudge.com/share/pin-6499)
+[Dark terracotta hero slide showing ASCII system architecture diagram with white line-art boxes and monospace labels](https://fudge.design/share/pin-6499)
 
-[![Dark slate-blue hero with white ASCII circuit diagram, teal primary action button, and left-aligned product headline](https://pin.fontofweb.com/6498?format=jpg)](https://design.withfudge.com/share/pin-6498)
+[![Dark slate-blue hero with white ASCII circuit diagram, teal primary action button, and left-aligned product headline](https://pin.fontofweb.com/6498?format=jpg)](https://fudge.design/share/pin-6498)
 
-[Dark slate-blue hero with white ASCII circuit diagram, teal primary action button, and left-aligned product headline](https://design.withfudge.com/share/pin-6498)
+[Dark slate-blue hero with white ASCII circuit diagram, teal primary action button, and left-aligned product headline](https://fudge.design/share/pin-6498)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The design should maintain its monospace character across viewport sizes. The na
 ## Scope note
 
 This guide covers the marketing page surface of MonoSketch, including the dark hero slides and light content sections for contribution and support information. Mobile layouts, interactive states beyond the static visible presentation, form components, and the sketching application interface itself are not included. The ASCII artwork shown is representative of the product's output style but specific diagram content will vary.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

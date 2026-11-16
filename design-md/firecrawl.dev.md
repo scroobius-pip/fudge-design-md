@@ -1,26 +1,26 @@
 # How firecrawl.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firecrawl.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/firecrawl.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero CTA section with orange dot-matrix illustrations and primary action buttons on light canvas](https://pin.fontofweb.com/7576?format=jpg)](https://design.withfudge.com/share/pin-7576)
+[![Hero CTA section with orange dot-matrix illustrations and primary action buttons on light canvas](https://pin.fontofweb.com/7576?format=jpg)](https://fudge.design/share/pin-7576)
 
-[Hero CTA section with orange dot-matrix illustrations and primary action buttons on light canvas](https://design.withfudge.com/share/pin-7576)
+[Hero CTA section with orange dot-matrix illustrations and primary action buttons on light canvas](https://fudge.design/share/pin-7576)
 
-[![Footer with product links, social proof badges, and orange ASCII art landscape](https://pin.fontofweb.com/7575?format=jpg)](https://design.withfudge.com/share/pin-7575)
+[![Footer with product links, social proof badges, and orange ASCII art landscape](https://pin.fontofweb.com/7575?format=jpg)](https://fudge.design/share/pin-7575)
 
-[Footer with product links, social proof badges, and orange ASCII art landscape](https://design.withfudge.com/share/pin-7575)
+[Footer with product links, social proof badges, and orange ASCII art landscape](https://fudge.design/share/pin-7575)
 
-[![FAQ accordion with orange-accented headings and categorized question groups](https://pin.fontofweb.com/7574?format=jpg)](https://design.withfudge.com/share/pin-7574)
+[![FAQ accordion with orange-accented headings and categorized question groups](https://pin.fontofweb.com/7574?format=jpg)](https://fudge.design/share/pin-7574)
 
-[FAQ accordion with orange-accented headings and categorized question groups](https://design.withfudge.com/share/pin-7574)
+[FAQ accordion with orange-accented headings and categorized question groups](https://fudge.design/share/pin-7574)
 
-[![Pricing page with orange numerals, tier cards, and code parameter callouts](https://pin.fontofweb.com/7573?format=jpg)](https://design.withfudge.com/share/pin-7573)
+[![Pricing page with orange numerals, tier cards, and code parameter callouts](https://pin.fontofweb.com/7573?format=jpg)](https://fudge.design/share/pin-7573)
 
-[Pricing page with orange numerals, tier cards, and code parameter callouts](https://design.withfudge.com/share/pin-7573)
+[Pricing page with orange numerals, tier cards, and code parameter callouts](https://fudge.design/share/pin-7573)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Touch targets maintain minimum 44px height for buttons and navigation items. Cod
 ## Scope note
 
 This guide covers the marketing site surfaces including homepage, agent product page, pricing, and onboarding flows. Dashboard interfaces, API documentation rendering, and authenticated application states are not represented in the supplied material. Motion behavior for the dot-matrix illustrations and exact hover transition timing were not captured. The orange accent color values are interpreted from image palettes and gradient stops rather than direct interface color declarations.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

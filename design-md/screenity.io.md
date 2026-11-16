@@ -1,26 +1,26 @@
 # How screenity.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/screenity.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/screenity.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, blue gradient CTA button, product screenshot, social proof avatars and star rating, and three-column feature grid with icons](https://pin.fontofweb.com/6742?format=jpg)](https://design.withfudge.com/share/pin-6742)
+[![Hero section with large display headline, blue gradient CTA button, product screenshot, social proof avatars and star rating, and three-column feature grid with icons](https://pin.fontofweb.com/6742?format=jpg)](https://fudge.design/share/pin-6742)
 
-[Hero section with large display headline, blue gradient CTA button, product screenshot, social proof avatars and star rating, and three-column feature grid with icons](https://design.withfudge.com/share/pin-6742)
+[Hero section with large display headline, blue gradient CTA button, product screenshot, social proof avatars and star rating, and three-column feature grid with icons](https://fudge.design/share/pin-6742)
 
-[![Pro upgrade section with video editor screenshot, feature checklist with checkmarks, dark pill CTA button, and two-column FAQ accordion with expand icons](https://pin.fontofweb.com/6744?format=jpg)](https://design.withfudge.com/share/pin-6744)
+[![Pro upgrade section with video editor screenshot, feature checklist with checkmarks, dark pill CTA button, and two-column FAQ accordion with expand icons](https://pin.fontofweb.com/6744?format=jpg)](https://fudge.design/share/pin-6744)
 
-[Pro upgrade section with video editor screenshot, feature checklist with checkmarks, dark pill CTA button, and two-column FAQ accordion with expand icons](https://design.withfudge.com/share/pin-6744)
+[Pro upgrade section with video editor screenshot, feature checklist with checkmarks, dark pill CTA button, and two-column FAQ accordion with expand icons](https://fudge.design/share/pin-6744)
 
-[![Newsletter signup section with centered heading, email input with mail icon, floating product screenshots, and footer with Product Hunt badge and legal links](https://pin.fontofweb.com/6743?format=jpg)](https://design.withfudge.com/share/pin-6743)
+[![Newsletter signup section with centered heading, email input with mail icon, floating product screenshots, and footer with Product Hunt badge and legal links](https://pin.fontofweb.com/6743?format=jpg)](https://fudge.design/share/pin-6743)
 
-[Newsletter signup section with centered heading, email input with mail icon, floating product screenshots, and footer with Product Hunt badge and legal links](https://design.withfudge.com/share/pin-6743)
+[Newsletter signup section with centered heading, email input with mail icon, floating product screenshots, and footer with Product Hunt badge and legal links](https://fudge.design/share/pin-6743)
 
-[![Alternative hero view showing navigation bar with logo, Help/GitHub/Pro links, language selector, and hero with blue gradient button on light patterned background](https://pin.fontofweb.com/5113?format=jpg)](https://design.withfudge.com/share/pin-5113)
+[![Alternative hero view showing navigation bar with logo, Help/GitHub/Pro links, language selector, and hero with blue gradient button on light patterned background](https://pin.fontofweb.com/5113?format=jpg)](https://fudge.design/share/pin-5113)
 
-[Alternative hero view showing navigation bar with logo, Help/GitHub/Pro links, language selector, and hero with blue gradient button on light patterned background](https://design.withfudge.com/share/pin-5113)
+[Alternative hero view showing navigation bar with logo, Help/GitHub/Pro links, language selector, and hero with blue gradient button on light patterned background](https://fudge.design/share/pin-5113)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Touch targets maintain minimum 44px height throughout. The primary gradient butt
 ## Scope note
 
 This guide covers the desktop landing page experience for Screenity's marketing site. Mobile layouts, component hover states, form validation, and any dashboard or application interfaces are not represented in the supplied materials. The geometric background pattern's exact SVG or generation method is not specified.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Landing page](/share/designs-with-page.marketing.landing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

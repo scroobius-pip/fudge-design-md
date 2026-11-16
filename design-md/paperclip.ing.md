@@ -1,22 +1,22 @@
 # How paperclip.ing is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/paperclip.ing-design)
+[Open the live Fudge conversation](https://fudge.design/share/paperclip.ing-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large serif headline over illustrated pink flamingos and floating pill navigation bar](https://pin.fontofweb.com/8403?format=jpg)](https://design.withfudge.com/share/pin-8403)
+[![Hero section with large serif headline over illustrated pink flamingos and floating pill navigation bar](https://pin.fontofweb.com/8403?format=jpg)](https://fudge.design/share/pin-8403)
 
-[Hero section with large serif headline over illustrated pink flamingos and floating pill navigation bar](https://design.withfudge.com/share/pin-8403)
+[Hero section with large serif headline over illustrated pink flamingos and floating pill navigation bar](https://fudge.design/share/pin-8403)
 
-[![Features grid with nine bordered cards, small icons, and section heading in serif type](https://pin.fontofweb.com/8404?format=jpg)](https://design.withfudge.com/share/pin-8404)
+[![Features grid with nine bordered cards, small icons, and section heading in serif type](https://pin.fontofweb.com/8404?format=jpg)](https://fudge.design/share/pin-8404)
 
-[Features grid with nine bordered cards, small icons, and section heading in serif type](https://design.withfudge.com/share/pin-8404)
+[Features grid with nine bordered cards, small icons, and section heading in serif type](https://fudge.design/share/pin-8404)
 
-[![Bring your own bot section with org-chart diagram and agent integration icons](https://pin.fontofweb.com/8405?format=jpg)](https://design.withfudge.com/share/pin-8405)
+[![Bring your own bot section with org-chart diagram and agent integration icons](https://pin.fontofweb.com/8405?format=jpg)](https://fudge.design/share/pin-8405)
 
-[Bring your own bot section with org-chart diagram and agent integration icons](https://design.withfudge.com/share/pin-8405)
+[Bring your own bot section with org-chart diagram and agent integration icons](https://fudge.design/share/pin-8405)
 
 ## Overview
 
@@ -187,3 +187,18 @@ The asymmetric two-column org chart section should stack vertically on mobile, w
 ## Scope note
 
 This guide covers the landing page hero, features grid, and org chart sections visible in the supplied material. Footer content, additional interior pages, mobile layouts, and interactive states such as hover, focus, loading, or error conditions are not represented. Motion, animation, and dark mode variants are not documented. Measurements are drawn from the exact values provided.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

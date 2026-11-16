@@ -1,18 +1,18 @@
 # How selkie.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/selkie.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/selkie.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Substage product page showing six feature cards with emoji icons on deep navy background, featuring cream text and a subtle top border gradient bar](https://pin.fontofweb.com/8748?format=jpg)](https://design.withfudge.com/share/pin-8748)
+[![Substage product page showing six feature cards with emoji icons on deep navy background, featuring cream text and a subtle top border gradient bar](https://pin.fontofweb.com/8748?format=jpg)](https://fudge.design/share/pin-8748)
 
-[Substage product page showing six feature cards with emoji icons on deep navy background, featuring cream text and a subtle top border gradient bar](https://design.withfudge.com/share/pin-8748)
+[Substage product page showing six feature cards with emoji icons on deep navy background, featuring cream text and a subtle top border gradient bar](https://fudge.design/share/pin-8748)
 
-[![Selkie Design homepage with two app showcase cards against a teal-to-blue gradient, featuring rounded app icons and white pill-shaped Learn more buttons](https://pin.fontofweb.com/8700?format=jpg)](https://design.withfudge.com/share/pin-8700)
+[![Selkie Design homepage with two app showcase cards against a teal-to-blue gradient, featuring rounded app icons and white pill-shaped Learn more buttons](https://pin.fontofweb.com/8700?format=jpg)](https://fudge.design/share/pin-8700)
 
-[Selkie Design homepage with two app showcase cards against a teal-to-blue gradient, featuring rounded app icons and white pill-shaped Learn more buttons](https://design.withfudge.com/share/pin-8700)
+[Selkie Design homepage with two app showcase cards against a teal-to-blue gradient, featuring rounded app icons and white pill-shaped Learn more buttons](https://fudge.design/share/pin-8700)
 
 ## Overview
 
@@ -146,3 +146,18 @@ The gradient accent bar should remain full-width at all breakpoints, as it funct
 ## Scope note
 
 This guide covers the Selkie Design homepage and Substage product page surfaces. Mobile breakpoints, animation, hover states, form components, and additional product pages are not represented in the supplied materials. The font size of 18.72px for label tokens reflects an exact extracted value that may derive from browser rendering of a relative size.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

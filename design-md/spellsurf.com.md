@@ -1,18 +1,18 @@
 # How spellsurf.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/spellsurf.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/spellsurf.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Main application interface showing the full Spellsurf word-combination tool with left and right control sidebars, central display area with merged word 'discoursebellerophon', and](https://pin.fontofweb.com/10166?format=jpg)](https://design.withfudge.com/share/pin-10166)
+[![Main application interface showing the full Spellsurf word-combination tool with left and right control sidebars, central display area with merged word 'discoursebellerophon', and](https://pin.fontofweb.com/10166?format=jpg)](https://fudge.design/share/pin-10166)
 
-[Main application interface showing the full Spellsurf word-combination tool with left and right control sidebars, central display area with merged word 'discoursebellerophon', and](https://design.withfudge.com/share/pin-10166)
+[Main application interface showing the full Spellsurf word-combination tool with left and right control sidebars, central display area with merged word 'discoursebellerophon', and](https://fudge.design/share/pin-10166)
 
-[![Clean focused view of the central word display showing merged word 'crumtion' with source words 'crumpet' and 'questionnaire' in a two-column etymology-style layout with](https://pin.fontofweb.com/10165?format=jpg)](https://design.withfudge.com/share/pin-10165)
+[![Clean focused view of the central word display showing merged word 'crumtion' with source words 'crumpet' and 'questionnaire' in a two-column etymology-style layout with](https://pin.fontofweb.com/10165?format=jpg)](https://fudge.design/share/pin-10165)
 
-[Clean focused view of the central word display showing merged word 'crumtion' with source words 'crumpet' and 'questionnaire' in a two-column etymology-style layout with](https://design.withfudge.com/share/pin-10165)
+[Clean focused view of the central word display showing merged word 'crumtion' with source words 'crumpet' and 'questionnaire' in a two-column etymology-style layout with](https://fudge.design/share/pin-10165)
 
 ## Overview
 
@@ -147,3 +147,18 @@ Bottom action bar controls should wrap or compress, with history timeline potent
 ## Scope note
 
 This guide covers the desktop workspace visible on the Spellsurf homepage with word generation and etymology display. Mobile layouts, breakpoint-specific adaptations, loading states, error handling, and account or history management screens are not represented in the supplied material. The phonetic notation and part-of-speech tagging systems are described visually but their underlying data structures are not specified. Applesystem, Iowan Old Style, and System-Uisansserif appear in the source font inventory without visible dedicated roles in the main interface; verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

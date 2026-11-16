@@ -1,26 +1,26 @@
 # How outthere.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/outthere.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/outthere.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Large black display typography on vivid orange background with two-column services list below](https://pin.fontofweb.com/7360?format=jpg)](https://design.withfudge.com/share/pin-7360)
+[![Large black display typography on vivid orange background with two-column services list below](https://pin.fontofweb.com/7360?format=jpg)](https://fudge.design/share/pin-7360)
 
-[Large black display typography on vivid orange background with two-column services list below](https://design.withfudge.com/share/pin-7360)
+[Large black display typography on vivid orange background with two-column services list below](https://fudge.design/share/pin-7360)
 
-[![Massive OutThere wordmark spanning full width with project thumbnails and right sidebar navigation](https://pin.fontofweb.com/7359?format=jpg)](https://design.withfudge.com/share/pin-7359)
+[![Massive OutThere wordmark spanning full width with project thumbnails and right sidebar navigation](https://pin.fontofweb.com/7359?format=jpg)](https://fudge.design/share/pin-7359)
 
-[Massive OutThere wordmark spanning full width with project thumbnails and right sidebar navigation](https://design.withfudge.com/share/pin-7359)
+[Massive OutThere wordmark spanning full width with project thumbnails and right sidebar navigation](https://fudge.design/share/pin-7359)
 
-[![Urban furniture photography with orange duotone treatment and numbered project captions in corner](https://pin.fontofweb.com/7358?format=jpg)](https://design.withfudge.com/share/pin-7358)
+[![Urban furniture photography with orange duotone treatment and numbered project captions in corner](https://pin.fontofweb.com/7358?format=jpg)](https://fudge.design/share/pin-7358)
 
-[Urban furniture photography with orange duotone treatment and numbered project captions in corner](https://design.withfudge.com/share/pin-7358)
+[Urban furniture photography with orange duotone treatment and numbered project captions in corner](https://fudge.design/share/pin-7358)
 
-[![Contact section with rounded message button, heart icon, and footer columns on orange canvas](https://pin.fontofweb.com/7357?format=jpg)](https://design.withfudge.com/share/pin-7357)
+[![Contact section with rounded message button, heart icon, and footer columns on orange canvas](https://pin.fontofweb.com/7357?format=jpg)](https://fudge.design/share/pin-7357)
 
-[Contact section with rounded message button, heart icon, and footer columns on orange canvas](https://design.withfudge.com/share/pin-7357)
+[Contact section with rounded message button, heart icon, and footer columns on orange canvas](https://fudge.design/share/pin-7357)
 
 ## Overview
 
@@ -164,3 +164,18 @@ The design's desktop layout relies on a fixed sidebar and full-bleed main conten
 ## Scope note
 
 This guide covers the OutThere Studio homepage including the hero, project showcase, services, and contact sections. Interior pages, mobile layouts, hover states, form validation, and motion behavior are not represented in the supplied material. The rounded message button and sidebar navigation suggest interactive functionality not fully demonstrated in static view. Measurements derive from the documented interface values and render at the specified pixel equivalents.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Agency](/share/designs-with-offering.agency)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

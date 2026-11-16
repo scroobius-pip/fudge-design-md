@@ -1,26 +1,26 @@
 # How eagle.cool is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/eagle.cool-design)
+[Open the live Fudge conversation](https://fudge.design/share/eagle.cool-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero trial section with glowing app icon, gradient headline, and dark download button on black background](https://pin.fontofweb.com/3698?format=jpg)](https://design.withfudge.com/share/pin-3698)
+[![Hero trial section with glowing app icon, gradient headline, and dark download button on black background](https://pin.fontofweb.com/3698?format=jpg)](https://fudge.design/share/pin-3698)
 
-[Hero trial section with glowing app icon, gradient headline, and dark download button on black background](https://design.withfudge.com/share/pin-3698)
+[Hero trial section with glowing app icon, gradient headline, and dark download button on black background](https://fudge.design/share/pin-3698)
 
-[![Testimonials grid with yellow accent label, cream display type, and dark elevated cards with avatars](https://pin.fontofweb.com/3697?format=jpg)](https://design.withfudge.com/share/pin-3697)
+[![Testimonials grid with yellow accent label, cream display type, and dark elevated cards with avatars](https://pin.fontofweb.com/3697?format=jpg)](https://fudge.design/share/pin-3697)
 
-[Testimonials grid with yellow accent label, cream display type, and dark elevated cards with avatars](https://design.withfudge.com/share/pin-3697)
+[Testimonials grid with yellow accent label, cream display type, and dark elevated cards with avatars](https://fudge.design/share/pin-3697)
 
-[![Features section with pink gradient headline, dark cards with app icons, and icon-grid feature list](https://pin.fontofweb.com/3696?format=jpg)](https://design.withfudge.com/share/pin-3696)
+[![Features section with pink gradient headline, dark cards with app icons, and icon-grid feature list](https://pin.fontofweb.com/3696?format=jpg)](https://fudge.design/share/pin-3696)
 
-[Features section with pink gradient headline, dark cards with app icons, and icon-grid feature list](https://design.withfudge.com/share/pin-3696)
+[Features section with pink gradient headline, dark cards with app icons, and icon-grid feature list](https://fudge.design/share/pin-3696)
 
-[![Browser extension showcase with dark interface mockup, browser icons, and tabbed navigation bar](https://pin.fontofweb.com/3695?format=jpg)](https://design.withfudge.com/share/pin-3695)
+[![Browser extension showcase with dark interface mockup, browser icons, and tabbed navigation bar](https://pin.fontofweb.com/3695?format=jpg)](https://fudge.design/share/pin-3695)
 
-[Browser extension showcase with dark interface mockup, browser icons, and tabbed navigation bar](https://design.withfudge.com/share/pin-3695)
+[Browser extension showcase with dark interface mockup, browser icons, and tabbed navigation bar](https://fudge.design/share/pin-3695)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Text sizes should maintain hierarchy while scaling down: hero-display may reduce
 ## Scope note
 
 This guide covers the Eagle landing page's dark-mode marketing surface including hero, features, testimonials, and browser extension sections. Navigation header, footer, pricing tables, documentation pages, and application interface itself are not represented in the supplied images. Motion behavior, hover states, and mobile-specific layouts are not documented. Measurements are practical adaptation targets based on visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

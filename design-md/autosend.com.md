@@ -1,22 +1,22 @@
 # How autosend.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/autosend.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/autosend.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered envelope icon, italic serif headline 'Email for Developers & Marketers', and dual CTA buttons on light background](https://pin.fontofweb.com/5430?format=jpg)](https://design.withfudge.com/share/pin-5430)
+[![Hero section with centered envelope icon, italic serif headline 'Email for Developers & Marketers', and dual CTA buttons on light background](https://pin.fontofweb.com/5430?format=jpg)](https://fudge.design/share/pin-5430)
 
-[Hero section with centered envelope icon, italic serif headline 'Email for Developers & Marketers', and dual CTA buttons on light background](https://design.withfudge.com/share/pin-5430)
+[Hero section with centered envelope icon, italic serif headline 'Email for Developers & Marketers', and dual CTA buttons on light background](https://fudge.design/share/pin-5430)
 
-[![Email insights dashboard with green deliverability flow chart, status cards with colored borders, and week/month toggle](https://pin.fontofweb.com/5431?format=jpg)](https://design.withfudge.com/share/pin-5431)
+[![Email insights dashboard with green deliverability flow chart, status cards with colored borders, and week/month toggle](https://pin.fontofweb.com/5431?format=jpg)](https://fudge.design/share/pin-5431)
 
-[Email insights dashboard with green deliverability flow chart, status cards with colored borders, and week/month toggle](https://design.withfudge.com/share/pin-5431)
+[Email insights dashboard with green deliverability flow chart, status cards with colored borders, and week/month toggle](https://fudge.design/share/pin-5431)
 
-[![Footer area with red mailbox illustration, 'Start sending better emails' CTA band, four-column link grid, and large monospace counter](https://pin.fontofweb.com/5432?format=jpg)](https://design.withfudge.com/share/pin-5432)
+[![Footer area with red mailbox illustration, 'Start sending better emails' CTA band, four-column link grid, and large monospace counter](https://pin.fontofweb.com/5432?format=jpg)](https://fudge.design/share/pin-5432)
 
-[Footer area with red mailbox illustration, 'Start sending better emails' CTA band, four-column link grid, and large monospace counter](https://design.withfudge.com/share/pin-5432)
+[Footer area with red mailbox illustration, 'Start sending better emails' CTA band, four-column link grid, and large monospace counter](https://fudge.design/share/pin-5432)
 
 ## Overview
 
@@ -198,3 +198,18 @@ The large monospace counter in the footer may require reduced scale on smaller s
 ## Scope note
 
 This guide covers the AutoSend marketing homepage visible in the supplied images, including hero, feature overview, email insights dashboard, and footer sections. Pricing pages, documentation, authenticated application interfaces, and mobile-specific layouts are not represented. Interactive states including hover, focus, loading, and error conditions are not visible in still images and should be designed with accessibility best practices. Measurements are practical adaptation targets derived from the 4px grid system.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

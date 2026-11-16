@@ -1,26 +1,26 @@
 # How tailscale.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tailscale.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tailscale.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Documentation quickstart page with left navigation sidebar, embedded YouTube video, and step-by-step numbered instructions with inline code styling](https://pin.fontofweb.com/2177?format=jpg)](https://design.withfudge.com/share/pin-2177)
+[![Documentation quickstart page with left navigation sidebar, embedded YouTube video, and step-by-step numbered instructions with inline code styling](https://pin.fontofweb.com/2177?format=jpg)](https://fudge.design/share/pin-2177)
 
-[Documentation quickstart page with left navigation sidebar, embedded YouTube video, and step-by-step numbered instructions with inline code styling](https://design.withfudge.com/share/pin-2177)
+[Documentation quickstart page with left navigation sidebar, embedded YouTube video, and step-by-step numbered instructions with inline code styling](https://fudge.design/share/pin-2177)
 
-[![Why Tailscale security section with large heading, body text with underlined inline links, and clean white background with generous line spacing](https://pin.fontofweb.com/2176?format=jpg)](https://design.withfudge.com/share/pin-2176)
+[![Why Tailscale security section with large heading, body text with underlined inline links, and clean white background with generous line spacing](https://pin.fontofweb.com/2176?format=jpg)](https://fudge.design/share/pin-2176)
 
-[Why Tailscale security section with large heading, body text with underlined inline links, and clean white background with generous line spacing](https://design.withfudge.com/share/pin-2176)
+[Why Tailscale security section with large heading, body text with underlined inline links, and clean white background with generous line spacing](https://fudge.design/share/pin-2176)
 
-[![Dark green promotional card with geometric shapes, split into free trial CTA with white button and demo scheduling section with dark button on green background](https://pin.fontofweb.com/2175?format=jpg)](https://design.withfudge.com/share/pin-2175)
+[![Dark green promotional card with geometric shapes, split into free trial CTA with white button and demo scheduling section with dark button on green background](https://pin.fontofweb.com/2175?format=jpg)](https://fudge.design/share/pin-2175)
 
-[Dark green promotional card with geometric shapes, split into free trial CTA with white button and demo scheduling section with dark button on green background](https://design.withfudge.com/share/pin-2175)
+[Dark green promotional card with geometric shapes, split into free trial CTA with white button and demo scheduling section with dark button on green background](https://fudge.design/share/pin-2175)
 
-[![Why Tailscale hero with large centered display heading, descriptive paragraph with multiple underlined links, and decorative dot grid pattern below](https://pin.fontofweb.com/2174?format=jpg)](https://design.withfudge.com/share/pin-2174)
+[![Why Tailscale hero with large centered display heading, descriptive paragraph with multiple underlined links, and decorative dot grid pattern below](https://pin.fontofweb.com/2174?format=jpg)](https://fudge.design/share/pin-2174)
 
-[Why Tailscale hero with large centered display heading, descriptive paragraph with multiple underlined links, and decorative dot grid pattern below](https://design.withfudge.com/share/pin-2174)
+[Why Tailscale hero with large centered display heading, descriptive paragraph with multiple underlined links, and decorative dot grid pattern below](https://fudge.design/share/pin-2174)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Content max-width constraints should remain in effect across breakpoints, preven
 ## Scope note
 
 This guide covers the marketing and documentation surfaces visible in the supplied images, including the homepage, Why Tailscale, documentation quickstart, and related promotional components. Mobile layouts, animation behavior, form components beyond buttons, and dark mode variations are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How broadcom.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/broadcom.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/broadcom.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Broadcom homepage with expanded Products mega-menu showing Storage and Systems categories, left sidebar navigation, and circuit board hero imagery](https://pin.fontofweb.com/2322?format=jpg)](https://design.withfudge.com/share/pin-2322)
+[![Broadcom homepage with expanded Products mega-menu showing Storage and Systems categories, left sidebar navigation, and circuit board hero imagery](https://pin.fontofweb.com/2322?format=jpg)](https://fudge.design/share/pin-2322)
 
-[Broadcom homepage with expanded Products mega-menu showing Storage and Systems categories, left sidebar navigation, and circuit board hero imagery](https://design.withfudge.com/share/pin-2322)
+[Broadcom homepage with expanded Products mega-menu showing Storage and Systems categories, left sidebar navigation, and circuit board hero imagery](https://fudge.design/share/pin-2322)
 
-[![Three-column feature section with Latest Products, News, and Connecting Everything video thumbnail with red circular icons](https://pin.fontofweb.com/2321?format=jpg)](https://design.withfudge.com/share/pin-2321)
+[![Three-column feature section with Latest Products, News, and Connecting Everything video thumbnail with red circular icons](https://pin.fontofweb.com/2321?format=jpg)](https://fudge.design/share/pin-2321)
 
-[Three-column feature section with Latest Products, News, and Connecting Everything video thumbnail with red circular icons](https://design.withfudge.com/share/pin-2321)
+[Three-column feature section with Latest Products, News, and Connecting Everything video thumbnail with red circular icons](https://fudge.design/share/pin-2321)
 
-[![What Are You Designing Today section with six blue circular solution icons and three resource portal buttons](https://pin.fontofweb.com/2320?format=jpg)](https://design.withfudge.com/share/pin-2320)
+[![What Are You Designing Today section with six blue circular solution icons and three resource portal buttons](https://pin.fontofweb.com/2320?format=jpg)](https://fudge.design/share/pin-2320)
 
-[What Are You Designing Today section with six blue circular solution icons and three resource portal buttons](https://design.withfudge.com/share/pin-2320)
+[What Are You Designing Today section with six blue circular solution icons and three resource portal buttons](https://fudge.design/share/pin-2320)
 
-[![Broadcom header navigation bar with logo, primary nav items, search field, and red accent underline](https://pin.fontofweb.com/2319?format=jpg)](https://design.withfudge.com/share/pin-2319)
+[![Broadcom header navigation bar with logo, primary nav items, search field, and red accent underline](https://pin.fontofweb.com/2319?format=jpg)](https://fudge.design/share/pin-2319)
 
-[Broadcom header navigation bar with logo, primary nav items, search field, and red accent underline](https://design.withfudge.com/share/pin-2319)
+[Broadcom header navigation bar with logo, primary nav items, search field, and red accent underline](https://fudge.design/share/pin-2319)
 
 ## Overview
 
@@ -156,3 +156,18 @@ Touch considerations include expanding the solution icon hit areas beyond their 
 ## Scope note
 
 This guide covers the Broadcom homepage and its primary navigation, solution categories, resource portals, and content card patterns. Mega-menu interior pages, product detail templates, documentation pages, and footer components are not represented in the supplied images. Motion behavior, mobile-specific layouts, form validation states, and e-commerce checkout flows are not documented. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

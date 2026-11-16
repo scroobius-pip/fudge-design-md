@@ -1,26 +1,26 @@
 # How posthog.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/posthog.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/posthog.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing FAQ section with search input and threaded avatar-answered questions on off-white background](https://pin.fontofweb.com/1817?format=jpg)](https://design.withfudge.com/share/pin-1817)
+[![Pricing FAQ section with search input and threaded avatar-answered questions on off-white background](https://pin.fontofweb.com/1817?format=jpg)](https://fudge.design/share/pin-1817)
 
-[Pricing FAQ section with search input and threaded avatar-answered questions on off-white background](https://design.withfudge.com/share/pin-1817)
+[Pricing FAQ section with search input and threaded avatar-answered questions on off-white background](https://fudge.design/share/pin-1817)
 
-[![Retro software box CTA with orange starburst badge, cloud selector pills, and large orange action button](https://pin.fontofweb.com/1816?format=jpg)](https://design.withfudge.com/share/pin-1816)
+[![Retro software box CTA with orange starburst badge, cloud selector pills, and large orange action button](https://pin.fontofweb.com/1816?format=jpg)](https://fudge.design/share/pin-1816)
 
-[Retro software box CTA with orange starburst badge, cloud selector pills, and large orange action button](https://design.withfudge.com/share/pin-1816)
+[Retro software box CTA with orange starburst badge, cloud selector pills, and large orange action button](https://fudge.design/share/pin-1816)
 
-[![G2 review section with star ratings, bold review headings, and long-form customer testimonial paragraphs](https://pin.fontofweb.com/1815?format=jpg)](https://design.withfudge.com/share/pin-1815)
+[![G2 review section with star ratings, bold review headings, and long-form customer testimonial paragraphs](https://pin.fontofweb.com/1815?format=jpg)](https://fudge.design/share/pin-1815)
 
-[G2 review section with star ratings, bold review headings, and long-form customer testimonial paragraphs](https://design.withfudge.com/share/pin-1815)
+[G2 review section with star ratings, bold review headings, and long-form customer testimonial paragraphs](https://fudge.design/share/pin-1815)
 
-[![Partner product cards in horizontal row with logo icons, bold names, and muted descriptions with light borders](https://pin.fontofweb.com/1814?format=jpg)](https://design.withfudge.com/share/pin-1814)
+[![Partner product cards in horizontal row with logo icons, bold names, and muted descriptions with light borders](https://pin.fontofweb.com/1814?format=jpg)](https://fudge.design/share/pin-1814)
 
-[Partner product cards in horizontal row with logo icons, bold names, and muted descriptions with light borders](https://design.withfudge.com/share/pin-1814)
+[Partner product cards in horizontal row with logo icons, bold names, and muted descriptions with light borders](https://fudge.design/share/pin-1814)
 
 ## Overview
 
@@ -208,3 +208,18 @@ Typography scales down modestly: hero-display may reduce to 2.5rem on tablet and
 ## Scope note
 
 This guide covers the pricing page and homepage surfaces visible in the supplied images, including FAQ, reviews, partner integrations, and CTA sections. Navigation, footer, homepage hero animation, mobile layouts, dark mode, form validation states, and interactive hover behaviors are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

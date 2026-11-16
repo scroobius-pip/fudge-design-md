@@ -1,22 +1,22 @@
 # How thelocal.no is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thelocal.no-design)
+[Open the live Fudge conversation](https://fudge.design/share/thelocal.no-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with masthead navigation, hero image of wheelbarrow in garden, orange logo, and sign-up gate with topic tags](https://pin.fontofweb.com/9147?format=jpg)](https://design.withfudge.com/share/pin-9147)
+[![Article page with masthead navigation, hero image of wheelbarrow in garden, orange logo, and sign-up gate with topic tags](https://pin.fontofweb.com/9147?format=jpg)](https://fudge.design/share/pin-9147)
 
-[Article page with masthead navigation, hero image of wheelbarrow in garden, orange logo, and sign-up gate with topic tags](https://design.withfudge.com/share/pin-9147)
+[Article page with masthead navigation, hero image of wheelbarrow in garden, orange logo, and sign-up gate with topic tags](https://fudge.design/share/pin-9147)
 
-[![Close-up of article body showing Eb Garamond serif lead paragraph with orange attribution link and clean white background](https://pin.fontofweb.com/9145?format=jpg)](https://design.withfudge.com/share/pin-9145)
+[![Close-up of article body showing Eb Garamond serif lead paragraph with orange attribution link and clean white background](https://pin.fontofweb.com/9145?format=jpg)](https://fudge.design/share/pin-9145)
 
-[Close-up of article body showing Eb Garamond serif lead paragraph with orange attribution link and clean white background](https://design.withfudge.com/share/pin-9145)
+[Close-up of article body showing Eb Garamond serif lead paragraph with orange attribution link and clean white background](https://fudge.design/share/pin-9145)
 
-[![Article excerpt with serif lead paragraph, orange photographer credit, and bold sans-serif sign-up prompt below](https://pin.fontofweb.com/9144?format=jpg)](https://design.withfudge.com/share/pin-9144)
+[![Article excerpt with serif lead paragraph, orange photographer credit, and bold sans-serif sign-up prompt below](https://pin.fontofweb.com/9144?format=jpg)](https://fudge.design/share/pin-9144)
 
-[Article excerpt with serif lead paragraph, orange photographer credit, and bold sans-serif sign-up prompt below](https://design.withfudge.com/share/pin-9144)
+[Article excerpt with serif lead paragraph, orange photographer credit, and bold sans-serif sign-up prompt below](https://fudge.design/share/pin-9144)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The design appears optimized for desktop reading with a constrained content colu
 ## Scope note
 
 This guide covers the article page experience visible in the supplied images, including masthead navigation, hero imagery, article body typography, sign-up gates, and topic tags. Footer components, article listing pages, comment systems, social sharing widgets, and mobile-specific layouts are not represented. The radius scale is empty in source records; no rounded corners are used in visible components.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

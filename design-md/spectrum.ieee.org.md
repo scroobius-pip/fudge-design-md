@@ -1,26 +1,26 @@
 # How spectrum.ieee.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/spectrum.ieee.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/spectrum.ieee.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with red circuit board hero image, serif headline, and dark Related Stories sidebar with orange category labels](https://pin.fontofweb.com/10431?format=jpg)](https://design.withfudge.com/share/pin-10431)
+[![Article page with red circuit board hero image, serif headline, and dark Related Stories sidebar with orange category labels](https://pin.fontofweb.com/10431?format=jpg)](https://fudge.design/share/pin-10431)
 
-[Article page with red circuit board hero image, serif headline, and dark Related Stories sidebar with orange category labels](https://design.withfudge.com/share/pin-10431)
+[Article page with red circuit board hero image, serif headline, and dark Related Stories sidebar with orange category labels](https://fudge.design/share/pin-10431)
 
-[![Article body with social share icons, monospace tags, and body text with inline links and right sidebar ads](https://pin.fontofweb.com/10416?format=jpg)](https://design.withfudge.com/share/pin-10416)
+[![Article body with social share icons, monospace tags, and body text with inline links and right sidebar ads](https://pin.fontofweb.com/10416?format=jpg)](https://fudge.design/share/pin-10416)
 
-[Article body with social share icons, monospace tags, and body text with inline links and right sidebar ads](https://design.withfudge.com/share/pin-10416)
+[Article body with social share icons, monospace tags, and body text with inline links and right sidebar ads](https://fudge.design/share/pin-10416)
 
-[![Article page with large hardware photograph, serif headline, and dark sidebar with related computing stories](https://pin.fontofweb.com/10415?format=jpg)](https://design.withfudge.com/share/pin-10415)
+[![Article page with large hardware photograph, serif headline, and dark sidebar with related computing stories](https://pin.fontofweb.com/10415?format=jpg)](https://fudge.design/share/pin-10415)
 
-[Article page with large hardware photograph, serif headline, and dark sidebar with related computing stories](https://design.withfudge.com/share/pin-10415)
+[Article page with large hardware photograph, serif headline, and dark sidebar with related computing stories](https://fudge.design/share/pin-10415)
 
-[![Darkened page with subscription modal overlay featuring orange CTA button and cookie consent banner](https://pin.fontofweb.com/10414?format=jpg)](https://design.withfudge.com/share/pin-10414)
+[![Darkened page with subscription modal overlay featuring orange CTA button and cookie consent banner](https://pin.fontofweb.com/10414?format=jpg)](https://fudge.design/share/pin-10414)
 
-[Darkened page with subscription modal overlay featuring orange CTA button and cookie consent banner](https://design.withfudge.com/share/pin-10414)
+[Darkened page with subscription modal overlay featuring orange CTA button and cookie consent banner](https://fudge.design/share/pin-10414)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Typography should maintain its relative proportions across breakpoints, with bod
 ## Scope note
 
 This guide covers the article page template and its associated components as visible in the supplied images. Homepage layouts, category landing pages, search results, user account interfaces, and video player implementations are not represented. Mobile breakpoint behavior and interactive states beyond the visible static images should be validated during implementation. Motion design, loading states, and error handling patterns are not documented here.
+
+## Related design patterns
+
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Article page](/share/designs-with-page.content.article)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

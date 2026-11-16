@@ -1,26 +1,26 @@
 # How spotify.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/spotify.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/spotify.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large white headline, pink pill button, and colorful album-art collage on black background](https://pin.fontofweb.com/5109?format=jpg)](https://design.withfudge.com/share/pin-5109)
+[![Hero section with large white headline, pink pill button, and colorful album-art collage on black background](https://pin.fontofweb.com/5109?format=jpg)](https://fudge.design/share/pin-5109)
 
-[Hero section with large white headline, pink pill button, and colorful album-art collage on black background](https://design.withfudge.com/share/pin-5109)
+[Hero section with large white headline, pink pill button, and colorful album-art collage on black background](https://fudge.design/share/pin-5109)
 
-[![Pricing grid with four plan cards in pink, purple, yellow, and blue on dark background with payment icons](https://pin.fontofweb.com/5110?format=jpg)](https://design.withfudge.com/share/pin-5110)
+[![Pricing grid with four plan cards in pink, purple, yellow, and blue on dark background with payment icons](https://pin.fontofweb.com/5110?format=jpg)](https://fudge.design/share/pin-5110)
 
-[Pricing grid with four plan cards in pink, purple, yellow, and blue on dark background with payment icons](https://design.withfudge.com/share/pin-5110)
+[Pricing grid with four plan cards in pink, purple, yellow, and blue on dark background with payment icons](https://fudge.design/share/pin-5110)
 
-[![FAQ accordion with expanded dark gray panel and collapsed items with chevron icons on black background](https://pin.fontofweb.com/5111?format=jpg)](https://design.withfudge.com/share/pin-5111)
+[![FAQ accordion with expanded dark gray panel and collapsed items with chevron icons on black background](https://pin.fontofweb.com/5111?format=jpg)](https://fudge.design/share/pin-5111)
 
-[FAQ accordion with expanded dark gray panel and collapsed items with chevron icons on black background](https://design.withfudge.com/share/pin-5111)
+[FAQ accordion with expanded dark gray panel and collapsed items with chevron icons on black background](https://fudge.design/share/pin-5111)
 
-[![Feature section with 3D abstract sculpture, bold white display type, and bright blue rounded panel below](https://pin.fontofweb.com/5108?format=jpg)](https://design.withfudge.com/share/pin-5108)
+[![Feature section with 3D abstract sculpture, bold white display type, and bright blue rounded panel below](https://pin.fontofweb.com/5108?format=jpg)](https://fudge.design/share/pin-5108)
 
-[Feature section with 3D abstract sculpture, bold white display type, and bright blue rounded panel below](https://design.withfudge.com/share/pin-5108)
+[Feature section with 3D abstract sculpture, bold white display type, and bright blue rounded panel below](https://fudge.design/share/pin-5108)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Type scale should reduce proportionally: hero-display may drop to 2rem on small 
 ## Scope note
 
 This guide covers the Spotify Premium marketing page's desktop presentation, including hero, plan selection, feature comparison, and FAQ sections. Mobile breakpoints, navigation header, footer, checkout flow, and account management interfaces are not represented in the supplied materials. Motion behavior, hover states, and loading sequences are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

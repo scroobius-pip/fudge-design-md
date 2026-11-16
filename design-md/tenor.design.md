@@ -1,18 +1,18 @@
 # How tenor.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tenor.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/tenor.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed UI component gallery showing radio tuner, team invite modal, folder selection dialog, and sound settings panel with rounded cards and subtle borders](https://pin.fontofweb.com/9034?format=jpg)](https://design.withfudge.com/share/pin-9034)
+[![Dark-themed UI component gallery showing radio tuner, team invite modal, folder selection dialog, and sound settings panel with rounded cards and subtle borders](https://pin.fontofweb.com/9034?format=jpg)](https://fudge.design/share/pin-9034)
 
-[Dark-themed UI component gallery showing radio tuner, team invite modal, folder selection dialog, and sound settings panel with rounded cards and subtle borders](https://design.withfudge.com/share/pin-9034)
+[Dark-themed UI component gallery showing radio tuner, team invite modal, folder selection dialog, and sound settings panel with rounded cards and subtle borders](https://fudge.design/share/pin-9034)
 
-[![Hero section with AI-native UI design tagline above a large product screenshot showing Smart Light Control interface with layers panel and properties sidebar](https://pin.fontofweb.com/9033?format=jpg)](https://design.withfudge.com/share/pin-9033)
+[![Hero section with AI-native UI design tagline above a large product screenshot showing Smart Light Control interface with layers panel and properties sidebar](https://pin.fontofweb.com/9033?format=jpg)](https://fudge.design/share/pin-9033)
 
-[Hero section with AI-native UI design tagline above a large product screenshot showing Smart Light Control interface with layers panel and properties sidebar](https://design.withfudge.com/share/pin-9033)
+[Hero section with AI-native UI design tagline above a large product screenshot showing Smart Light Control interface with layers panel and properties sidebar](https://fudge.design/share/pin-9033)
 
 ## Overview
 
@@ -226,3 +226,18 @@ Touch targets should maintain minimum 44px tap areas, requiring button and list 
 ## Scope note
 
 This guide covers the Tenor landing page and its component gallery surfaces. Motion behavior, additional breakpoints, form validation states, and full component documentation beyond the visible examples are not included. The spacing and radius values derive from the retained exact measurements; implementers should verify fit against their target viewport range.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

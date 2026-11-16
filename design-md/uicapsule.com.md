@@ -1,22 +1,22 @@
 # How uicapsule.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/uicapsule.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/uicapsule.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage grid showing dark-themed UI component library with ASCII renderer, 3D carousel, and iOS volume slider cards in a masonry layout](https://pin.fontofweb.com/8762?format=jpg)](https://design.withfudge.com/share/pin-8762)
+[![Homepage grid showing dark-themed UI component library with ASCII renderer, 3D carousel, and iOS volume slider cards in a masonry layout](https://pin.fontofweb.com/8762?format=jpg)](https://fudge.design/share/pin-8762)
 
-[Homepage grid showing dark-themed UI component library with ASCII renderer, 3D carousel, and iOS volume slider cards in a masonry layout](https://design.withfudge.com/share/pin-8762)
+[Homepage grid showing dark-themed UI component library with ASCII renderer, 3D carousel, and iOS volume slider cards in a masonry layout](https://fudge.design/share/pin-8762)
 
-[![iOS Volume Slider detail page with centered dark preview canvas, right sidebar metadata panel, and pill-shaped action buttons](https://pin.fontofweb.com/8761?format=jpg)](https://design.withfudge.com/share/pin-8761)
+[![iOS Volume Slider detail page with centered dark preview canvas, right sidebar metadata panel, and pill-shaped action buttons](https://pin.fontofweb.com/8761?format=jpg)](https://fudge.design/share/pin-8761)
 
-[iOS Volume Slider detail page with centered dark preview canvas, right sidebar metadata panel, and pill-shaped action buttons](https://design.withfudge.com/share/pin-8761)
+[iOS Volume Slider detail page with centered dark preview canvas, right sidebar metadata panel, and pill-shaped action buttons](https://fudge.design/share/pin-8761)
 
-[![Homepage grid variant with filter bar highlighted in orange, showing component cards with category tags and numerical identifiers](https://pin.fontofweb.com/8760?format=jpg)](https://design.withfudge.com/share/pin-8760)
+[![Homepage grid variant with filter bar highlighted in orange, showing component cards with category tags and numerical identifiers](https://pin.fontofweb.com/8760?format=jpg)](https://fudge.design/share/pin-8760)
 
-[Homepage grid variant with filter bar highlighted in orange, showing component cards with category tags and numerical identifiers](https://design.withfudge.com/share/pin-8760)
+[Homepage grid variant with filter bar highlighted in orange, showing component cards with category tags and numerical identifiers](https://fudge.design/share/pin-8760)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Touch targets for buttons and cards appear adequately sized for interaction, tho
 ## Scope note
 
 This guide covers the homepage grid and component detail page surfaces visible in the supplied material. Mobile breakpoints, hover and focus states, loading skeletons, error pages, and checkout or authentication flows are not represented. The filter dropdown menus and search results interface are implied but not documented in detail. Measurements are derived from the retained exact values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

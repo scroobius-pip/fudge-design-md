@@ -1,26 +1,26 @@
 # How lexingtonthemes.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lexingtonthemes.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lexingtonthemes.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Bastion template detail page showing construction theme preview with sidebar metadata, pricing tiers, and expandable sections on a clean white background.](https://pin.fontofweb.com/7744?format=jpg)](https://design.withfudge.com/share/pin-7744)
+[![Bastion template detail page showing construction theme preview with sidebar metadata, pricing tiers, and expandable sections on a clean white background.](https://pin.fontofweb.com/7744?format=jpg)](https://fudge.design/share/pin-7744)
 
-[Bastion template detail page showing construction theme preview with sidebar metadata, pricing tiers, and expandable sections on a clean white background.](https://design.withfudge.com/share/pin-7744)
+[Bastion template detail page showing construction theme preview with sidebar metadata, pricing tiers, and expandable sections on a clean white background.](https://fudge.design/share/pin-7744)
 
-[![Trendspotter template detail page featuring a curation directory theme with grid thumbnails, category filters, and structured page lists in the right sidebar.](https://pin.fontofweb.com/7076?format=jpg)](https://design.withfudge.com/share/pin-7076)
+[![Trendspotter template detail page featuring a curation directory theme with grid thumbnails, category filters, and structured page lists in the right sidebar.](https://pin.fontofweb.com/7076?format=jpg)](https://fudge.design/share/pin-7076)
 
-[Trendspotter template detail page featuring a curation directory theme with grid thumbnails, category filters, and structured page lists in the right sidebar.](https://design.withfudge.com/share/pin-7076)
+[Trendspotter template detail page featuring a curation directory theme with grid thumbnails, category filters, and structured page lists in the right sidebar.](https://fudge.design/share/pin-7076)
 
-[![Minimal 404 error page with halftone dot-pattern Lexington logo, large serif numerals, centered apology text, and a dark return-home button.](https://pin.fontofweb.com/6873?format=jpg)](https://design.withfudge.com/share/pin-6873)
+[![Minimal 404 error page with halftone dot-pattern Lexington logo, large serif numerals, centered apology text, and a dark return-home button.](https://pin.fontofweb.com/6873?format=jpg)](https://fudge.design/share/pin-6873)
 
-[Minimal 404 error page with halftone dot-pattern Lexington logo, large serif numerals, centered apology text, and a dark return-home button.](https://design.withfudge.com/share/pin-6873)
+[Minimal 404 error page with halftone dot-pattern Lexington logo, large serif numerals, centered apology text, and a dark return-home button.](https://fudge.design/share/pin-6873)
 
-[![Homepage hero with massive serif headline, category filter pills, and three-column theme preview grid showing Mulberry, Bastion, and Newport templates.](https://pin.fontofweb.com/6278?format=jpg)](https://design.withfudge.com/share/pin-6278)
+[![Homepage hero with massive serif headline, category filter pills, and three-column theme preview grid showing Mulberry, Bastion, and Newport templates.](https://pin.fontofweb.com/6278?format=jpg)](https://fudge.design/share/pin-6278)
 
-[Homepage hero with massive serif headline, category filter pills, and three-column theme preview grid showing Mulberry, Bastion, and Newport templates.](https://design.withfudge.com/share/pin-6278)
+[Homepage hero with massive serif headline, category filter pills, and three-column theme preview grid showing Mulberry, Bastion, and Newport templates.](https://fudge.design/share/pin-6278)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Touch targets maintain minimum 44px height for all interactive elements. Button 
 ## Scope note
 
 This guide covers the homepage, template detail pages, and error page surfaces visible in the supplied images. Pricing tables, checkout flows, dashboard interfaces, and documentation pages are not represented. Footer behavior and mobile navigation patterns require additional reference. The spacing and type scales reflect exact values from the retained interface measurements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

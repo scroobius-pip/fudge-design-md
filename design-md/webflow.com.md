@@ -1,26 +1,26 @@
 # How webflow.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/webflow.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/webflow.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing table comparing CMS and Business plans with feature lists and blue call-to-action buttons on dark background](https://pin.fontofweb.com/6023?format=jpg)](https://design.withfudge.com/share/pin-6023)
+[![Pricing table comparing CMS and Business plans with feature lists and blue call-to-action buttons on dark background](https://pin.fontofweb.com/6023?format=jpg)](https://fudge.design/share/pin-6023)
 
-[Pricing table comparing CMS and Business plans with feature lists and blue call-to-action buttons on dark background](https://design.withfudge.com/share/pin-6023)
+[Pricing table comparing CMS and Business plans with feature lists and blue call-to-action buttons on dark background](https://fudge.design/share/pin-6023)
 
-[![Starter plan card showing free tier with publishing and hosting features in vertical layout](https://pin.fontofweb.com/6022?format=jpg)](https://design.withfudge.com/share/pin-6022)
+[![Starter plan card showing free tier with publishing and hosting features in vertical layout](https://pin.fontofweb.com/6022?format=jpg)](https://fudge.design/share/pin-6022)
 
-[Starter plan card showing free tier with publishing and hosting features in vertical layout](https://design.withfudge.com/share/pin-6022)
+[Starter plan card showing free tier with publishing and hosting features in vertical layout](https://fudge.design/share/pin-6022)
 
-[![Solutions dropdown menu with audience categories and promotional card for Answer Engine Optimization](https://pin.fontofweb.com/6021?format=jpg)](https://design.withfudge.com/share/pin-6021)
+[![Solutions dropdown menu with audience categories and promotional card for Answer Engine Optimization](https://pin.fontofweb.com/6021?format=jpg)](https://fudge.design/share/pin-6021)
 
-[Solutions dropdown menu with audience categories and promotional card for Answer Engine Optimization](https://design.withfudge.com/share/pin-6021)
+[Solutions dropdown menu with audience categories and promotional card for Answer Engine Optimization](https://fudge.design/share/pin-6021)
 
-[![Hero section with large display headline, partner logo strip, and dual call-to-action buttons](https://pin.fontofweb.com/6020?format=jpg)](https://design.withfudge.com/share/pin-6020)
+[![Hero section with large display headline, partner logo strip, and dual call-to-action buttons](https://pin.fontofweb.com/6020?format=jpg)](https://fudge.design/share/pin-6020)
 
-[Hero section with large display headline, partner logo strip, and dual call-to-action buttons](https://design.withfudge.com/share/pin-6020)
+[Hero section with large display headline, partner logo strip, and dual call-to-action buttons](https://fudge.design/share/pin-6020)
 
 ## Overview
 
@@ -183,3 +183,18 @@ The design system appears optimized for desktop presentation, with the pricing p
 ## Scope note
 
 This guide covers the pricing page and related marketing surfaces visible in the supplied images.Motion behavior, form interactions, mobile navigation patterns, and checkout flows are not described. The spacing and sizing values reflect desktop presentation; responsive adaptations are recommended targets rather than verified implementations.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

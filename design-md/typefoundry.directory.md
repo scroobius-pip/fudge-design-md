@@ -1,26 +1,26 @@
 # How typefoundry.directory is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typefoundry.directory-design)
+[Open the live Fudge conversation](https://fudge.design/share/typefoundry.directory-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sponsor page contact section with dark pill email button and centered footer on white canvas](https://pin.fontofweb.com/5309?format=jpg)](https://design.withfudge.com/share/pin-5309)
+[![Sponsor page contact section with dark pill email button and centered footer on white canvas](https://pin.fontofweb.com/5309?format=jpg)](https://fudge.design/share/pin-5309)
 
-[Sponsor page contact section with dark pill email button and centered footer on white canvas](https://design.withfudge.com/share/pin-5309)
+[Sponsor page contact section with dark pill email button and centered footer on white canvas](https://fudge.design/share/pin-5309)
 
-[![Morning Type Sunrise Scholarship section with green and yellow rounded cards containing black illustrations](https://pin.fontofweb.com/5308?format=jpg)](https://design.withfudge.com/share/pin-5308)
+[![Morning Type Sunrise Scholarship section with green and yellow rounded cards containing black illustrations](https://pin.fontofweb.com/5308?format=jpg)](https://fudge.design/share/pin-5308)
 
-[Morning Type Sunrise Scholarship section with green and yellow rounded cards containing black illustrations](https://design.withfudge.com/share/pin-5308)
+[Morning Type Sunrise Scholarship section with green and yellow rounded cards containing black illustrations](https://fudge.design/share/pin-5308)
 
-[![Limitations section with three light gray rounded cards showing black line-art icons and descriptive text](https://pin.fontofweb.com/5307?format=jpg)](https://design.withfudge.com/share/pin-5307)
+[![Limitations section with three light gray rounded cards showing black line-art icons and descriptive text](https://pin.fontofweb.com/5307?format=jpg)](https://fudge.design/share/pin-5307)
 
-[Limitations section with three light gray rounded cards showing black line-art icons and descriptive text](https://design.withfudge.com/share/pin-5307)
+[Limitations section with three light gray rounded cards showing black line-art icons and descriptive text](https://fudge.design/share/pin-5307)
 
-[![Testimonial carousel with multicolored rounded cards in pink, green, yellow, dark gray, and blue](https://pin.fontofweb.com/5306?format=jpg)](https://design.withfudge.com/share/pin-5306)
+[![Testimonial carousel with multicolored rounded cards in pink, green, yellow, dark gray, and blue](https://pin.fontofweb.com/5306?format=jpg)](https://fudge.design/share/pin-5306)
 
-[Testimonial carousel with multicolored rounded cards in pink, green, yellow, dark gray, and blue](https://design.withfudge.com/share/pin-5306)
+[Testimonial carousel with multicolored rounded cards in pink, green, yellow, dark gray, and blue](https://fudge.design/share/pin-5306)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The layout appears optimized for desktop viewing based on the visible material. 
 ## Scope note
 
 This guide covers the sponsor page surface of Type Foundry Directory as visible in the supplied material. The directory listing pages, individual foundry profiles, navigation header, and mobile breakpoint behavior are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

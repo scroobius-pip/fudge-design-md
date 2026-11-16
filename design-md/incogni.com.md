@@ -1,22 +1,22 @@
 # How incogni.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/incogni.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/incogni.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Three-step process section with numbered timeline, bold headings, and blue accent dots on light gray background](https://pin.fontofweb.com/10801?format=jpg)](https://design.withfudge.com/share/pin-10801)
+[![Three-step process section with numbered timeline, bold headings, and blue accent dots on light gray background](https://pin.fontofweb.com/10801?format=jpg)](https://fudge.design/share/pin-10801)
 
-[Three-step process section with numbered timeline, bold headings, and blue accent dots on light gray background](https://design.withfudge.com/share/pin-10801)
+[Three-step process section with numbered timeline, bold headings, and blue accent dots on light gray background](https://fudge.design/share/pin-10801)
 
-[![Money-back guarantee banner with floating currency illustrations, centered headline, and blue CTA button on pale blue background](https://pin.fontofweb.com/10800?format=jpg)](https://design.withfudge.com/share/pin-10800)
+[![Money-back guarantee banner with floating currency illustrations, centered headline, and blue CTA button on pale blue background](https://pin.fontofweb.com/10800?format=jpg)](https://fudge.design/share/pin-10800)
 
-[Money-back guarantee banner with floating currency illustrations, centered headline, and blue CTA button on pale blue background](https://design.withfudge.com/share/pin-10800)
+[Money-back guarantee banner with floating currency illustrations, centered headline, and blue CTA button on pale blue background](https://fudge.design/share/pin-10800)
 
-[![Social proof section with tabbed navigation, media partner logos, and trust badge with shield icon on white background](https://pin.fontofweb.com/10799?format=jpg)](https://design.withfudge.com/share/pin-10799)
+[![Social proof section with tabbed navigation, media partner logos, and trust badge with shield icon on white background](https://pin.fontofweb.com/10799?format=jpg)](https://fudge.design/share/pin-10799)
 
-[Social proof section with tabbed navigation, media partner logos, and trust badge with shield icon on white background](https://design.withfudge.com/share/pin-10799)
+[Social proof section with tabbed navigation, media partner logos, and trust badge with shield icon on white background](https://fudge.design/share/pin-10799)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Button widths should expand to full container on smallest viewports for touch ac
 ## Scope note
 
 This guide covers the economics and proof sections of the Incogni marketing site as visible in desktop layouts. Mobile layouts, navigation header, footer, form interactions, and checkout flows are not represented. Motion behavior, hover states, and dark mode variants were not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Paired type system](/share/designs-with-typography.system_size.paired)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

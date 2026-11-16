@@ -1,26 +1,26 @@
 # How plasticity.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plasticity.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/plasticity.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with black background, large white headline, cyan CTA buttons, and colorful category tabs with neon accents](https://pin.fontofweb.com/3494?format=jpg)](https://design.withfudge.com/share/pin-3494)
+[![Hero section with black background, large white headline, cyan CTA buttons, and colorful category tabs with neon accents](https://pin.fontofweb.com/3494?format=jpg)](https://fudge.design/share/pin-3494)
 
-[Hero section with black background, large white headline, cyan CTA buttons, and colorful category tabs with neon accents](https://design.withfudge.com/share/pin-3494)
+[Hero section with black background, large white headline, cyan CTA buttons, and colorful category tabs with neon accents](https://fudge.design/share/pin-3494)
 
-[![Footer area with purple geometric banner, green outlined link tree, and neon green UI accents on black](https://pin.fontofweb.com/3471?format=jpg)](https://design.withfudge.com/share/pin-3471)
+[![Footer area with purple geometric banner, green outlined link tree, and neon green UI accents on black](https://pin.fontofweb.com/3471?format=jpg)](https://fudge.design/share/pin-3471)
 
-[Footer area with purple geometric banner, green outlined link tree, and neon green UI accents on black](https://design.withfudge.com/share/pin-3471)
+[Footer area with purple geometric banner, green outlined link tree, and neon green UI accents on black](https://fudge.design/share/pin-3471)
 
-[![FAQ section with three-column card grid, white headings on dark cards, and cyan text link button](https://pin.fontofweb.com/3470?format=jpg)](https://design.withfudge.com/share/pin-3470)
+[![FAQ section with three-column card grid, white headings on dark cards, and cyan text link button](https://pin.fontofweb.com/3470?format=jpg)](https://fudge.design/share/pin-3470)
 
-[FAQ section with three-column card grid, white headings on dark cards, and cyan text link button](https://design.withfudge.com/share/pin-3470)
+[FAQ section with three-column card grid, white headings on dark cards, and cyan text link button](https://fudge.design/share/pin-3470)
 
-[![Testimonials grid with nine dark cards, avatar images, and white body text with usernames in mono](https://pin.fontofweb.com/3469?format=jpg)](https://design.withfudge.com/share/pin-3469)
+[![Testimonials grid with nine dark cards, avatar images, and white body text with usernames in mono](https://pin.fontofweb.com/3469?format=jpg)](https://fudge.design/share/pin-3469)
 
-[Testimonials grid with nine dark cards, avatar images, and white body text with usernames in mono](https://design.withfudge.com/share/pin-3469)
+[Testimonials grid with nine dark cards, avatar images, and white body text with usernames in mono](https://fudge.design/share/pin-3469)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The navigation bar, visible in the hero image with multiple category pills, shou
 ## Scope note
 
 This guide covers the desktop homepage and its visible sections: hero, FAQ, testimonials, promotional banner, and footer. Mobile breakpoints, animation, form states, and checkout flows are not represented in the available material. The color values for accent-green and accent-purple are practical adaptation targets derived from image analysis. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

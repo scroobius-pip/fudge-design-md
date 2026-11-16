@@ -1,26 +1,26 @@
 # How landonorris.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/landonorris.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/landonorris.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with neon yellow helmet, ON TRACK/OFF TRACK split typography, and lime action buttons on off-white background with abstract line art](https://pin.fontofweb.com/4527?format=jpg)](https://design.withfudge.com/share/pin-4527)
+[![Hero section with neon yellow helmet, ON TRACK/OFF TRACK split typography, and lime action buttons on off-white background with abstract line art](https://pin.fontofweb.com/4527?format=jpg)](https://fudge.design/share/pin-4527)
 
-[Hero section with neon yellow helmet, ON TRACK/OFF TRACK split typography, and lime action buttons on off-white background with abstract line art](https://design.withfudge.com/share/pin-4527)
+[Hero section with neon yellow helmet, ON TRACK/OFF TRACK split typography, and lime action buttons on off-white background with abstract line art](https://fudge.design/share/pin-4527)
 
-[![Portrait section with centered subject, LN monogram logo above, and subtle curved line decorations on clean white background](https://pin.fontofweb.com/4526?format=jpg)](https://design.withfudge.com/share/pin-4526)
+[![Portrait section with centered subject, LN monogram logo above, and subtle curved line decorations on clean white background](https://pin.fontofweb.com/4526?format=jpg)](https://fudge.design/share/pin-4526)
 
-[Portrait section with centered subject, LN monogram logo above, and subtle curved line decorations on clean white background](https://design.withfudge.com/share/pin-4526)
+[Portrait section with centered subject, LN monogram logo above, and subtle curved line decorations on clean white background](https://fudge.design/share/pin-4526)
 
-[![Dark grid gallery of racing helmets with neon yellow accents, rounded card frames, and year labels in lime text](https://pin.fontofweb.com/4009?format=jpg)](https://design.withfudge.com/share/pin-4009)
+[![Dark grid gallery of racing helmets with neon yellow accents, rounded card frames, and year labels in lime text](https://pin.fontofweb.com/4009?format=jpg)](https://fudge.design/share/pin-4009)
 
-[Dark grid gallery of racing helmets with neon yellow accents, rounded card frames, and year labels in lime text](https://design.withfudge.com/share/pin-4009)
+[Dark grid gallery of racing helmets with neon yellow accents, rounded card frames, and year labels in lime text](https://fudge.design/share/pin-4009)
 
-[![Footer overlay with neon yellow border, dark charcoal panel, ALWAYS BRINGING THE FIGHT headline, navigation links, and sponsor logo strip](https://pin.fontofweb.com/4008?format=jpg)](https://design.withfudge.com/share/pin-4008)
+[![Footer overlay with neon yellow border, dark charcoal panel, ALWAYS BRINGING THE FIGHT headline, navigation links, and sponsor logo strip](https://pin.fontofweb.com/4008?format=jpg)](https://fudge.design/share/pin-4008)
 
-[Footer overlay with neon yellow border, dark charcoal panel, ALWAYS BRINGING THE FIGHT headline, navigation links, and sponsor logo strip](https://design.withfudge.com/share/pin-4008)
+[Footer overlay with neon yellow border, dark charcoal panel, ALWAYS BRINGING THE FIGHT headline, navigation links, and sponsor logo strip](https://fudge.design/share/pin-4008)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The asymmetric hero layout should stack vertically on narrow viewports, with ima
 ## Scope note
 
 This guide covers the homepage and visible gallery surfaces. Interior pages, mobile-specific layouts, hover states, loading sequences, and form interactions are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

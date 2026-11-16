@@ -1,18 +1,18 @@
 # How open.spotify.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/open.spotify.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/open.spotify.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Discover Weekly playlist hero with bold white title on dark canvas, geometric gradient artwork in coral and violet, and green playback controls in the bottom player bar.](https://pin.fontofweb.com/1473?format=jpg)](https://design.withfudge.com/share/pin-1473)
+[![Discover Weekly playlist hero with bold white title on dark canvas, geometric gradient artwork in coral and violet, and green playback controls in the bottom player bar.](https://pin.fontofweb.com/1473?format=jpg)](https://fudge.design/share/pin-1473)
 
-[Discover Weekly playlist hero with bold white title on dark canvas, geometric gradient artwork in coral and violet, and green playback controls in the bottom player bar.](https://design.withfudge.com/share/pin-1473)
+[Discover Weekly playlist hero with bold white title on dark canvas, geometric gradient artwork in coral and violet, and green playback controls in the bottom player bar.](https://fudge.design/share/pin-1473)
 
-[![Collapsed left sidebar showing Spotify logo, navigation icons, library shortcuts, and stacked album cover thumbnails against a near-black background with rounded square containers.](https://pin.fontofweb.com/1472?format=jpg)](https://design.withfudge.com/share/pin-1472)
+[![Collapsed left sidebar showing Spotify logo, navigation icons, library shortcuts, and stacked album cover thumbnails against a near-black background with rounded square containers.](https://pin.fontofweb.com/1472?format=jpg)](https://fudge.design/share/pin-1472)
 
-[Collapsed left sidebar showing Spotify logo, navigation icons, library shortcuts, and stacked album cover thumbnails against a near-black background with rounded square containers.](https://design.withfudge.com/share/pin-1472)
+[Collapsed left sidebar showing Spotify logo, navigation icons, library shortcuts, and stacked album cover thumbnails against a near-black background with rounded square containers.](https://fudge.design/share/pin-1472)
 
 ## Overview
 
@@ -138,3 +138,18 @@ Touch targets throughout should meet minimum 44px dimensions, with the circular 
 ## Scope note
 
 This guide covers the playlist view and global navigation shell visible in the supplied images. Album detail views, search results, artist pages, settings panels, and mobile-native layouts are not represented. The dark mode presented appears to be the sole visible mode; no light variant is documented. Measurements are practical adaptation targets derived from the visible interface proportions.
+
+## Related design patterns
+
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Application page](/share/designs-with-page.application)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

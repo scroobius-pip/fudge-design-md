@@ -1,26 +1,26 @@
 # How modular.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/modular.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/modular.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, product dashboard screenshot, and navigation bar with announcement banner](https://pin.fontofweb.com/8627?format=jpg)](https://design.withfudge.com/share/pin-8627)
+[![Hero section with large display headline, product dashboard screenshot, and navigation bar with announcement banner](https://pin.fontofweb.com/8627?format=jpg)](https://fudge.design/share/pin-8627)
 
-[Hero section with large display headline, product dashboard screenshot, and navigation bar with announcement banner](https://design.withfudge.com/share/pin-8627)
+[Hero section with large display headline, product dashboard screenshot, and navigation bar with announcement banner](https://fudge.design/share/pin-8627)
 
-[![Dark call-to-action section with large white heading, demo request card, and abstract geometric shapes](https://pin.fontofweb.com/8629?format=jpg)](https://design.withfudge.com/share/pin-8629)
+[![Dark call-to-action section with large white heading, demo request card, and abstract geometric shapes](https://pin.fontofweb.com/8629?format=jpg)](https://fudge.design/share/pin-8629)
 
-[Dark call-to-action section with large white heading, demo request card, and abstract geometric shapes](https://design.withfudge.com/share/pin-8629)
+[Dark call-to-action section with large white heading, demo request card, and abstract geometric shapes](https://fudge.design/share/pin-8629)
 
-[![Hardware scaling section with diagram showing GPU targets and feature subheadings on white background](https://pin.fontofweb.com/8628?format=jpg)](https://design.withfudge.com/share/pin-8628)
+[![Hardware scaling section with diagram showing GPU targets and feature subheadings on white background](https://pin.fontofweb.com/8628?format=jpg)](https://fudge.design/share/pin-8628)
 
-[Hardware scaling section with diagram showing GPU targets and feature subheadings on white background](https://design.withfudge.com/share/pin-8628)
+[Hardware scaling section with diagram showing GPU targets and feature subheadings on white background](https://fudge.design/share/pin-8628)
 
-[![Three-column pricing cards with tiered editions, feature lists, and purple call-to-action buttons](https://pin.fontofweb.com/8630?format=jpg)](https://design.withfudge.com/share/pin-8630)
+[![Three-column pricing cards with tiered editions, feature lists, and purple call-to-action buttons](https://pin.fontofweb.com/8630?format=jpg)](https://fudge.design/share/pin-8630)
 
-[Three-column pricing cards with tiered editions, feature lists, and purple call-to-action buttons](https://design.withfudge.com/share/pin-8630)
+[Three-column pricing cards with tiered editions, feature lists, and purple call-to-action buttons](https://fudge.design/share/pin-8630)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Button groups in hero sections should stack vertically on mobile, with the prima
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Footer content, mobile navigation behavior, form validation states, loading indicators, and animation specifications are not included. The documentation reflects desktop viewport measurements; responsive adaptations are recommended targets rather than verified implementations.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

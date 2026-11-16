@@ -1,26 +1,26 @@
 # How range.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/range.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/range.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion modal showing expert qualifications with bullet list and close button on white background](https://pin.fontofweb.com/8933?format=jpg)](https://design.withfudge.com/share/pin-8933)
+[![FAQ accordion modal showing expert qualifications with bullet list and close button on white background](https://pin.fontofweb.com/8933?format=jpg)](https://fudge.design/share/pin-8933)
 
-[FAQ accordion modal showing expert qualifications with bullet list and close button on white background](https://design.withfudge.com/share/pin-8933)
+[FAQ accordion modal showing expert qualifications with bullet list and close button on white background](https://fudge.design/share/pin-8933)
 
-[![Footer section with dark background, legal disclaimers, and navigation links in small text](https://pin.fontofweb.com/8932?format=jpg)](https://design.withfudge.com/share/pin-8932)
+[![Footer section with dark background, legal disclaimers, and navigation links in small text](https://pin.fontofweb.com/8932?format=jpg)](https://fudge.design/share/pin-8932)
 
-[Footer section with dark background, legal disclaimers, and navigation links in small text](https://design.withfudge.com/share/pin-8932)
+[Footer section with dark background, legal disclaimers, and navigation links in small text](https://fudge.design/share/pin-8932)
 
-[![Pricing section with large dark card featuring white headline and gradient line chart with green accent](https://pin.fontofweb.com/8931?format=jpg)](https://design.withfudge.com/share/pin-8931)
+[![Pricing section with large dark card featuring white headline and gradient line chart with green accent](https://pin.fontofweb.com/8931?format=jpg)](https://fudge.design/share/pin-8931)
 
-[Pricing section with large dark card featuring white headline and gradient line chart with green accent](https://design.withfudge.com/share/pin-8931)
+[Pricing section with large dark card featuring white headline and gradient line chart with green accent](https://fudge.design/share/pin-8931)
 
-[![Split feature cards with yellow background display headline and dark card with yellow accent text](https://pin.fontofweb.com/8930?format=jpg)](https://design.withfudge.com/share/pin-8930)
+[![Split feature cards with yellow background display headline and dark card with yellow accent text](https://pin.fontofweb.com/8930?format=jpg)](https://fudge.design/share/pin-8930)
 
-[Split feature cards with yellow background display headline and dark card with yellow accent text](https://design.withfudge.com/share/pin-8930)
+[Split feature cards with yellow background display headline and dark card with yellow accent text](https://fudge.design/share/pin-8930)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Chart and data visualization elements require horizontal scroll or simplified re
 ## Scope note
 
 This guide covers the Range.com homepage and visible landing sections including navigation, feature cards, pricing panels, FAQ interactions, and footer. Interior application screens, authenticated dashboards, and mobile-specific layouts are not represented in the supplied material. Motion behavior, form validation states, and additional breakpoint refinements should be developed from live site analysis.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

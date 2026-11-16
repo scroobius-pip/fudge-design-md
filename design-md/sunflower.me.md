@@ -1,26 +1,26 @@
 # How sunflower.me is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sunflower.me-design)
+[Open the live Fudge conversation](https://fudge.design/share/sunflower.me-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Success page with oversized Albra Light headline 'You're on the list.' on warm cream background with 3D sunflower seed elements and dark return button](https://pin.fontofweb.com/6008?format=jpg)](https://design.withfudge.com/share/pin-6008)
+[![Success page with oversized Albra Light headline 'You're on the list.' on warm cream background with 3D sunflower seed elements and dark return button](https://pin.fontofweb.com/6008?format=jpg)](https://fudge.design/share/pin-6008)
 
-[Success page with oversized Albra Light headline 'You're on the list.' on warm cream background with 3D sunflower seed elements and dark return button](https://design.withfudge.com/share/pin-6008)
+[Success page with oversized Albra Light headline 'You're on the list.' on warm cream background with 3D sunflower seed elements and dark return button](https://fudge.design/share/pin-6008)
 
-[![Dark hero section with glowing particle sunflower illustration and cream-colored Albra Light text with yellow accent words on deep navy background](https://pin.fontofweb.com/6007?format=jpg)](https://design.withfudge.com/share/pin-6007)
+[![Dark hero section with glowing particle sunflower illustration and cream-colored Albra Light text with yellow accent words on deep navy background](https://pin.fontofweb.com/6007?format=jpg)](https://fudge.design/share/pin-6007)
 
-[Dark hero section with glowing particle sunflower illustration and cream-colored Albra Light text with yellow accent words on deep navy background](https://design.withfudge.com/share/pin-6007)
+[Dark hero section with glowing particle sunflower illustration and cream-colored Albra Light text with yellow accent words on deep navy background](https://fudge.design/share/pin-6007)
 
-[![Full-bleed dark hero with particle-system sunflower and centered serif typography introducing the product philosophy](https://pin.fontofweb.com/6006?format=jpg)](https://design.withfudge.com/share/pin-6006)
+[![Full-bleed dark hero with particle-system sunflower and centered serif typography introducing the product philosophy](https://pin.fontofweb.com/6006?format=jpg)](https://fudge.design/share/pin-6006)
 
-[Full-bleed dark hero with particle-system sunflower and centered serif typography introducing the product philosophy](https://design.withfudge.com/share/pin-6006)
+[Full-bleed dark hero with particle-system sunflower and centered serif typography introducing the product philosophy](https://fudge.design/share/pin-6006)
 
-[![Light manifesto section with 3D metallic sunflower icon and stacked Albra Light statements in warm gray tones on cream background](https://pin.fontofweb.com/6005?format=jpg)](https://design.withfudge.com/share/pin-6005)
+[![Light manifesto section with 3D metallic sunflower icon and stacked Albra Light statements in warm gray tones on cream background](https://pin.fontofweb.com/6005?format=jpg)](https://fudge.design/share/pin-6005)
 
-[Light manifesto section with 3D metallic sunflower icon and stacked Albra Light statements in warm gray tones on cream background](https://design.withfudge.com/share/pin-6005)
+[Light manifesto section with 3D metallic sunflower icon and stacked Albra Light statements in warm gray tones on cream background](https://fudge.design/share/pin-6005)
 
 ## Overview
 
@@ -151,3 +151,18 @@ No mobile-specific layouts are visible in the supplied material. Implementations
 ## Scope note
 
 This guide covers the landing page and success page surfaces visible in the supplied material. Mobile layouts, form validation states, loading sequences, and the complete email capture interaction flow are not represented. The footer, additional product feature sections, and any dashboard or application interface beyond the marketing site remain outside the current scope. Measurements derive from the documented interface values and resolve to the 2px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How sundaecreative.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sundaecreative.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sundaecreative.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with email subscription, social circles, and three-column city addresses on near-black background](https://pin.fontofweb.com/298?format=jpg)](https://design.withfudge.com/share/pin-298)
+[![Dark footer with email subscription, social circles, and three-column city addresses on near-black background](https://pin.fontofweb.com/298?format=jpg)](https://fudge.design/share/pin-298)
 
-[Dark footer with email subscription, social circles, and three-column city addresses on near-black background](https://design.withfudge.com/share/pin-298)
+[Dark footer with email subscription, social circles, and three-column city addresses on near-black background](https://fudge.design/share/pin-298)
 
-[![Contact section with large condensed headline, topic selection cards with corner notches, and outlined button](https://pin.fontofweb.com/297?format=jpg)](https://design.withfudge.com/share/pin-297)
+[![Contact section with large condensed headline, topic selection cards with corner notches, and outlined button](https://pin.fontofweb.com/297?format=jpg)](https://fudge.design/share/pin-297)
 
-[Contact section with large condensed headline, topic selection cards with corner notches, and outlined button](https://design.withfudge.com/share/pin-297)
+[Contact section with large condensed headline, topic selection cards with corner notches, and outlined button](https://fudge.design/share/pin-297)
 
-[![Featured article card with coral date and read-more labels, white italic display title on dark surface](https://pin.fontofweb.com/296?format=jpg)](https://design.withfudge.com/share/pin-296)
+[![Featured article card with coral date and read-more labels, white italic display title on dark surface](https://pin.fontofweb.com/296?format=jpg)](https://fudge.design/share/pin-296)
 
-[Featured article card with coral date and read-more labels, white italic display title on dark surface](https://design.withfudge.com/share/pin-296)
+[Featured article card with coral date and read-more labels, white italic display title on dark surface](https://fudge.design/share/pin-296)
 
-[![Articles list section with black condensed heading, coral metadata labels, and alternating dark and light article rows](https://pin.fontofweb.com/295?format=jpg)](https://design.withfudge.com/share/pin-295)
+[![Articles list section with black condensed heading, coral metadata labels, and alternating dark and light article rows](https://pin.fontofweb.com/295?format=jpg)](https://fudge.design/share/pin-295)
 
-[Articles list section with black condensed heading, coral metadata labels, and alternating dark and light article rows](https://design.withfudge.com/share/pin-295)
+[Articles list section with black condensed heading, coral metadata labels, and alternating dark and light article rows](https://fudge.design/share/pin-295)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Typography should maintain its relative hierarchy across breakpoints, with hero-
 ## Scope note
 
 This guide covers the homepage surface including the contact section, article list, and footer. Interior pages, mobile navigation behavior, hover and focus states, loading conditions, and motion design are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How blitzreels.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/blitzreels.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/blitzreels.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with multi-column navigation, social icons, and language toggle with green accent border](https://pin.fontofweb.com/5268?format=jpg)](https://design.withfudge.com/share/pin-5268)
+[![Dark footer with multi-column navigation, social icons, and language toggle with green accent border](https://pin.fontofweb.com/5268?format=jpg)](https://fudge.design/share/pin-5268)
 
-[Dark footer with multi-column navigation, social icons, and language toggle with green accent border](https://design.withfudge.com/share/pin-5268)
+[Dark footer with multi-column navigation, social icons, and language toggle with green accent border](https://fudge.design/share/pin-5268)
 
-[![Comparison section contrasting negative and positive feature lists with green checkmarks and dark cards](https://pin.fontofweb.com/5267?format=jpg)](https://design.withfudge.com/share/pin-5267)
+[![Comparison section contrasting negative and positive feature lists with green checkmarks and dark cards](https://pin.fontofweb.com/5267?format=jpg)](https://fudge.design/share/pin-5267)
 
-[Comparison section contrasting negative and positive feature lists with green checkmarks and dark cards](https://design.withfudge.com/share/pin-5267)
+[Comparison section contrasting negative and positive feature lists with green checkmarks and dark cards](https://fudge.design/share/pin-5267)
 
-[![Hero section with large white headline, green primary button, and three video preview cards showing creator content](https://pin.fontofweb.com/5266?format=jpg)](https://design.withfudge.com/share/pin-5266)
+[![Hero section with large white headline, green primary button, and three video preview cards showing creator content](https://pin.fontofweb.com/5266?format=jpg)](https://fudge.design/share/pin-5266)
 
-[Hero section with large white headline, green primary button, and three video preview cards showing creator content](https://design.withfudge.com/share/pin-5266)
+[Hero section with large white headline, green primary button, and three video preview cards showing creator content](https://fudge.design/share/pin-5266)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The three-column video preview grid should collapse to a single column on narrow
 ## Scope note
 
 This guide covers the BlitzReels homepage including hero, social proof, comparison, and footer surfaces. Pricing pages, dashboard interfaces, and authenticated tool workflows are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion behavior, mobile breakpoints, and form validation states are not documented.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

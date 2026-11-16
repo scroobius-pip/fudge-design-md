@@ -1,26 +1,26 @@
 # How hyperfoundation.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hyperfoundation.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/hyperfoundation.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark green gradient background, large serif headline, and mint accent logo mark](https://pin.fontofweb.com/3491?format=jpg)](https://design.withfudge.com/share/pin-3491)
+[![Hero section with dark green gradient background, large serif headline, and mint accent logo mark](https://pin.fontofweb.com/3491?format=jpg)](https://fudge.design/share/pin-3491)
 
-[Hero section with dark green gradient background, large serif headline, and mint accent logo mark](https://design.withfudge.com/share/pin-3491)
+[Hero section with dark green gradient background, large serif headline, and mint accent logo mark](https://fudge.design/share/pin-3491)
 
-[![Full hero viewport with centered headline, body text, and two pill buttons on deep green backdrop](https://pin.fontofweb.com/3489?format=jpg)](https://design.withfudge.com/share/pin-3489)
+[![Full hero viewport with centered headline, body text, and two pill buttons on deep green backdrop](https://pin.fontofweb.com/3489?format=jpg)](https://fudge.design/share/pin-3489)
 
-[Full hero viewport with centered headline, body text, and two pill buttons on deep green backdrop](https://design.withfudge.com/share/pin-3489)
+[Full hero viewport with centered headline, body text, and two pill buttons on deep green backdrop](https://fudge.design/share/pin-3489)
 
-[![Footer area with large Hyperliquid wordmark in mixed roman and italic serif on pale mint background](https://pin.fontofweb.com/3488?format=jpg)](https://design.withfudge.com/share/pin-3488)
+[![Footer area with large Hyperliquid wordmark in mixed roman and italic serif on pale mint background](https://pin.fontofweb.com/3488?format=jpg)](https://fudge.design/share/pin-3488)
 
-[Footer area with large Hyperliquid wordmark in mixed roman and italic serif on pale mint background](https://design.withfudge.com/share/pin-3488)
+[Footer area with large Hyperliquid wordmark in mixed roman and italic serif on pale mint background](https://fudge.design/share/pin-3488)
 
-[![Close-up of Hyperliquid wordmark showing serif and italic type contrast with dark green logomark](https://pin.fontofweb.com/3487?format=jpg)](https://design.withfudge.com/share/pin-3487)
+[![Close-up of Hyperliquid wordmark showing serif and italic type contrast with dark green logomark](https://pin.fontofweb.com/3487?format=jpg)](https://fudge.design/share/pin-3487)
 
-[Close-up of Hyperliquid wordmark showing serif and italic type contrast with dark green logomark](https://design.withfudge.com/share/pin-3487)
+[Close-up of Hyperliquid wordmark showing serif and italic type contrast with dark green logomark](https://fudge.design/share/pin-3487)
 
 ## Overview
 
@@ -160,3 +160,18 @@ Button pairs in the hero should stack vertically on mobile with full-width treat
 ## Scope note
 
 This guide covers the landing page hero and footer surfaces visible in the supplied images. Interior pages, additional components, motion behavior, and form patterns are not represented. Measurements are practical adaptation targets derived from visual inspection. Verify licensing for Inter and Teodor before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

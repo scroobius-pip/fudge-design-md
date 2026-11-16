@@ -1,26 +1,26 @@
 # How sandwich.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sandwich.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/sandwich.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark FAQ teaser panel with yellow-green left border, white question text, and toast icon with SEE ALL FAQS link](https://pin.fontofweb.com/690?format=jpg)](https://design.withfudge.com/share/pin-690)
+[![Dark FAQ teaser panel with yellow-green left border, white question text, and toast icon with SEE ALL FAQS link](https://pin.fontofweb.com/690?format=jpg)](https://fudge.design/share/pin-690)
 
-[Dark FAQ teaser panel with yellow-green left border, white question text, and toast icon with SEE ALL FAQS link](https://design.withfudge.com/share/pin-690)
+[Dark FAQ teaser panel with yellow-green left border, white question text, and toast icon with SEE ALL FAQS link](https://fudge.design/share/pin-690)
 
-[![Contact page with large Say hello heading, email callout with yellow underline, and split photo-map footer with black address card](https://pin.fontofweb.com/689?format=jpg)](https://design.withfudge.com/share/pin-689)
+[![Contact page with large Say hello heading, email callout with yellow underline, and split photo-map footer with black address card](https://pin.fontofweb.com/689?format=jpg)](https://fudge.design/share/pin-689)
 
-[Contact page with large Say hello heading, email callout with yellow underline, and split photo-map footer with black address card](https://design.withfudge.com/share/pin-689)
+[Contact page with large Say hello heading, email callout with yellow underline, and split photo-map footer with black address card](https://fudge.design/share/pin-689)
 
-[![FAQ page with bold FAQ title, color-bar question markers in blue magenta and red, and thin answer body text](https://pin.fontofweb.com/688?format=jpg)](https://design.withfudge.com/share/pin-688)
+[![FAQ page with bold FAQ title, color-bar question markers in blue magenta and red, and thin answer body text](https://pin.fontofweb.com/688?format=jpg)](https://fudge.design/share/pin-688)
 
-[FAQ page with bold FAQ title, color-bar question markers in blue magenta and red, and thin answer body text](https://design.withfudge.com/share/pin-688)
+[FAQ page with bold FAQ title, color-bar question markers in blue magenta and red, and thin answer body text](https://fudge.design/share/pin-688)
 
-[![About page with brick building photo and Looking to grow heading with magenta-red and teal-blue underlines plus jobs link](https://pin.fontofweb.com/687?format=jpg)](https://design.withfudge.com/share/pin-687)
+[![About page with brick building photo and Looking to grow heading with magenta-red and teal-blue underlines plus jobs link](https://pin.fontofweb.com/687?format=jpg)](https://fudge.design/share/pin-687)
 
-[About page with brick building photo and Looking to grow heading with magenta-red and teal-blue underlines plus jobs link](https://design.withfudge.com/share/pin-687)
+[About page with brick building photo and Looking to grow heading with magenta-red and teal-blue underlines plus jobs link](https://fudge.design/share/pin-687)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The layout should maintain its asymmetric character at all widths. At narrower v
 ## Scope note
 
 This guide covers the about, FAQ, and contact page surfaces visible in the supplied images. The home page, navigation header, footer, and any motion or interaction patterns are not represented. Measurements are practical adaptation targets. Verify licensing for Averta Pe and Brix Sans Regular before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Agency](/share/designs-with-offering.agency)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

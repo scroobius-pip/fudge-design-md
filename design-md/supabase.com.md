@@ -1,26 +1,26 @@
 # How supabase.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/supabase.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/supabase.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Split-screen sign-in page with dark left panel containing email form and green primary button, right panel showing large testimonial quote with decorative quotation mark.](https://pin.fontofweb.com/6639?format=jpg)](https://design.withfudge.com/share/pin-6639)
+[![Split-screen sign-in page with dark left panel containing email form and green primary button, right panel showing large testimonial quote with decorative quotation mark.](https://pin.fontofweb.com/6639?format=jpg)](https://fudge.design/share/pin-6639)
 
-[Split-screen sign-in page with dark left panel containing email form and green primary button, right panel showing large testimonial quote with decorative quotation mark.](https://design.withfudge.com/share/pin-6639)
+[Split-screen sign-in page with dark left panel containing email form and green primary button, right panel showing large testimonial quote with decorative quotation mark.](https://fudge.design/share/pin-6639)
 
-[![Full-width footer with five-column link grid, security compliance badges, social icons, and dark near-black background with subtle top border.](https://pin.fontofweb.com/6638?format=jpg)](https://design.withfudge.com/share/pin-6638)
+[![Full-width footer with five-column link grid, security compliance badges, social icons, and dark near-black background with subtle top border.](https://pin.fontofweb.com/6638?format=jpg)](https://fudge.design/share/pin-6638)
 
-[Full-width footer with five-column link grid, security compliance badges, social icons, and dark near-black background with subtle top border.](https://design.withfudge.com/share/pin-6638)
+[Full-width footer with five-column link grid, security compliance badges, social icons, and dark near-black background with subtle top border.](https://fudge.design/share/pin-6638)
 
-[![Community section with centered heading, Discord CTA pill button, and staggered masonry grid of testimonial cards with avatars and muted text.](https://pin.fontofweb.com/6637?format=jpg)](https://design.withfudge.com/share/pin-6637)
+[![Community section with centered heading, Discord CTA pill button, and staggered masonry grid of testimonial cards with avatars and muted text.](https://pin.fontofweb.com/6637?format=jpg)](https://fudge.design/share/pin-6637)
 
-[Community section with centered heading, Discord CTA pill button, and staggered masonry grid of testimonial cards with avatars and muted text.](https://design.withfudge.com/share/pin-6637)
+[Community section with centered heading, Discord CTA pill button, and staggered masonry grid of testimonial cards with avatars and muted text.](https://fudge.design/share/pin-6637)
 
-[![Product feature section with tabbed interface selector, checkmark feature list, and large dashboard screenshot with rounded frame and inner shadow.](https://pin.fontofweb.com/6636?format=jpg)](https://design.withfudge.com/share/pin-6636)
+[![Product feature section with tabbed interface selector, checkmark feature list, and large dashboard screenshot with rounded frame and inner shadow.](https://pin.fontofweb.com/6636?format=jpg)](https://fudge.design/share/pin-6636)
 
-[Product feature section with tabbed interface selector, checkmark feature list, and large dashboard screenshot with rounded frame and inner shadow.](https://design.withfudge.com/share/pin-6636)
+[Product feature section with tabbed interface selector, checkmark feature list, and large dashboard screenshot with rounded frame and inner shadow.](https://fudge.design/share/pin-6636)
 
 ## Overview
 
@@ -191,3 +191,18 @@ The system appears optimized for desktop viewing with substantial margins and mu
 ## Scope note
 
 This guide covers the marketing site and authentication interface as visible in the supplied images. Dashboard UI, mobile layouts, loading states, error handling, and interactive animations are not represented. Pricing page structures from legacy captures are excluded. The Custom Font family appears only on the sign-in page and lacks designer or vendor attribution in the available records. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How maxibestof.one is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/maxibestof.one-design)
+[Open the live Fudge conversation](https://fudge.design/share/maxibestof.one-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Mobile navigation drawer with stacked menu categories, utility links, and social icon buttons at the bottom.](https://pin.fontofweb.com/6226?format=jpg)](https://design.withfudge.com/share/pin-6226)
+[![Mobile navigation drawer with stacked menu categories, utility links, and social icon buttons at the bottom.](https://pin.fontofweb.com/6226?format=jpg)](https://fudge.design/share/pin-6226)
 
-[Mobile navigation drawer with stacked menu categories, utility links, and social icon buttons at the bottom.](https://design.withfudge.com/share/pin-6226)
+[Mobile navigation drawer with stacked menu categories, utility links, and social icon buttons at the bottom.](https://fudge.design/share/pin-6226)
 
-[![Footer area with FAQ accordion, multi-column link grid, project attribution, and social media row.](https://pin.fontofweb.com/6225?format=jpg)](https://design.withfudge.com/share/pin-6225)
+[![Footer area with FAQ accordion, multi-column link grid, project attribution, and social media row.](https://pin.fontofweb.com/6225?format=jpg)](https://fudge.design/share/pin-6225)
 
-[Footer area with FAQ accordion, multi-column link grid, project attribution, and social media row.](https://design.withfudge.com/share/pin-6225)
+[Footer area with FAQ accordion, multi-column link grid, project attribution, and social media row.](https://fudge.design/share/pin-6225)
 
-[![Promotional modal card with portrait collage, red headline, and primary action button.](https://pin.fontofweb.com/6224?format=jpg)](https://design.withfudge.com/share/pin-6224)
+[![Promotional modal card with portrait collage, red headline, and primary action button.](https://pin.fontofweb.com/6224?format=jpg)](https://fudge.design/share/pin-6224)
 
-[Promotional modal card with portrait collage, red headline, and primary action button.](https://design.withfudge.com/share/pin-6224)
+[Promotional modal card with portrait collage, red headline, and primary action button.](https://fudge.design/share/pin-6224)
 
-[![Pricing page with two-tier plan cards, yearly-monthly toggle, and persuasive body copy below.](https://pin.fontofweb.com/6223?format=jpg)](https://design.withfudge.com/share/pin-6223)
+[![Pricing page with two-tier plan cards, yearly-monthly toggle, and persuasive body copy below.](https://pin.fontofweb.com/6223?format=jpg)](https://fudge.design/share/pin-6223)
 
-[Pricing page with two-tier plan cards, yearly-monthly toggle, and persuasive body copy below.](https://design.withfudge.com/share/pin-6223)
+[Pricing page with two-tier plan cards, yearly-monthly toggle, and persuasive body copy below.](https://fudge.design/share/pin-6223)
 
 ## Overview
 
@@ -173,3 +173,18 @@ When implementing, ensure the two-column pricing grid collapses at approximately
 ## Scope note
 
 This guide covers the supporter page, pricing interface, promotional modal, and navigation drawer as visible in the supplied images. The main feed page, website detail views, search functionality, and any authenticated states are not represented. Motion, loading states, and form validation patterns are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How helloaxel.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/helloaxel.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/helloaxel.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with pink axolotl mascot, savings counter, phone mockup, and investor logo bar on white background](https://pin.fontofweb.com/5236?format=jpg)](https://design.withfudge.com/share/pin-5236)
+[![Hero section with pink axolotl mascot, savings counter, phone mockup, and investor logo bar on white background](https://pin.fontofweb.com/5236?format=jpg)](https://fudge.design/share/pin-5236)
 
-[Hero section with pink axolotl mascot, savings counter, phone mockup, and investor logo bar on white background](https://design.withfudge.com/share/pin-5236)
+[Hero section with pink axolotl mascot, savings counter, phone mockup, and investor logo bar on white background](https://fudge.design/share/pin-5236)
 
-[![Testimonials carousel with green savings badges, pink read-more links, and member attribution cards on white background](https://pin.fontofweb.com/5237?format=jpg)](https://design.withfudge.com/share/pin-5237)
+[![Testimonials carousel with green savings badges, pink read-more links, and member attribution cards on white background](https://pin.fontofweb.com/5237?format=jpg)](https://fudge.design/share/pin-5237)
 
-[Testimonials carousel with green savings badges, pink read-more links, and member attribution cards on white background](https://design.withfudge.com/share/pin-5237)
+[Testimonials carousel with green savings badges, pink read-more links, and member attribution cards on white background](https://fudge.design/share/pin-5237)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Button widths should remain full-container within the hero panel across breakpoi
 ## Scope note
 
 This guide covers the helloaxel.com landing page hero, testimonials, and navigation as visible in the supplied images. Footer content, additional sections below "How repricing works," mobile layouts, form interactions, and authenticated app interfaces are not represented. Motion behavior, hover states, and the full investor logo set are inferred from partial visibility. Measurements are practical adaptation targets derived from visual estimation against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Travel and hospitality](/share/designs-with-industry.travel_hospitality)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Testimonials section](/share/designs-with-section.marketing.testimonials)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

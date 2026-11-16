@@ -1,26 +1,26 @@
 # How redo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/redo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/redo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with serif headline, orange CTA button, and multi-column navigation links on near-black background](https://pin.fontofweb.com/5429?format=jpg)](https://design.withfudge.com/share/pin-5429)
+[![Dark footer with serif headline, orange CTA button, and multi-column navigation links on near-black background](https://pin.fontofweb.com/5429?format=jpg)](https://fudge.design/share/pin-5429)
 
-[Dark footer with serif headline, orange CTA button, and multi-column navigation links on near-black background](https://design.withfudge.com/share/pin-5429)
+[Dark footer with serif headline, orange CTA button, and multi-column navigation links on near-black background](https://fudge.design/share/pin-5429)
 
-[![FAQ accordion section with large serif heading and expandable questions with plus icons on dark background](https://pin.fontofweb.com/5428?format=jpg)](https://design.withfudge.com/share/pin-5428)
+[![FAQ accordion section with large serif heading and expandable questions with plus icons on dark background](https://pin.fontofweb.com/5428?format=jpg)](https://fudge.design/share/pin-5428)
 
-[FAQ accordion section with large serif heading and expandable questions with plus icons on dark background](https://design.withfudge.com/share/pin-5428)
+[FAQ accordion section with large serif heading and expandable questions with plus icons on dark background](https://fudge.design/share/pin-5428)
 
-[![Product feature carousel showing Returns, Claims, Shipping, and Warranties cards with UI screenshots and orange CTA button](https://pin.fontofweb.com/5427?format=jpg)](https://design.withfudge.com/share/pin-5427)
+[![Product feature carousel showing Returns, Claims, Shipping, and Warranties cards with UI screenshots and orange CTA button](https://pin.fontofweb.com/5427?format=jpg)](https://fudge.design/share/pin-5427)
 
-[Product feature carousel showing Returns, Claims, Shipping, and Warranties cards with UI screenshots and orange CTA button](https://design.withfudge.com/share/pin-5427)
+[Product feature carousel showing Returns, Claims, Shipping, and Warranties cards with UI screenshots and orange CTA button](https://fudge.design/share/pin-5427)
 
-[![Bento-style social proof grid with statistics, brand logos, and testimonial quotes on dark background](https://pin.fontofweb.com/5426?format=jpg)](https://design.withfudge.com/share/pin-5426)
+[![Bento-style social proof grid with statistics, brand logos, and testimonial quotes on dark background](https://pin.fontofweb.com/5426?format=jpg)](https://fudge.design/share/pin-5426)
 
-[Bento-style social proof grid with statistics, brand logos, and testimonial quotes on dark background](https://design.withfudge.com/share/pin-5426)
+[Bento-style social proof grid with statistics, brand logos, and testimonial quotes on dark background](https://fudge.design/share/pin-5426)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The dark canvas benefits all viewport sizes by reducing eye strain, but ensure o
 ## Scope note
 
 This guide covers the marketing and product category surfaces visible in the supplied images, including the operations category page, FAQ section, feature carousel, and footer patterns. Pricing pages, mobile layouts, form interactions, loading states, and animation specifications are not represented in the available material. Measurements are practical adaptation targets based on visual analysis of the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

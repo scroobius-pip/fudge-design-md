@@ -1,18 +1,18 @@
 # How staples.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/staples.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/staples.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Staples homepage with red promotional hero banner featuring 'easy DEAL DAYS' display typography, product grid with pricing, and red header with search bar and navigation](https://pin.fontofweb.com/9816?format=jpg)](https://design.withfudge.com/share/pin-9816)
+[![Staples homepage with red promotional hero banner featuring 'easy DEAL DAYS' display typography, product grid with pricing, and red header with search bar and navigation](https://pin.fontofweb.com/9816?format=jpg)](https://fudge.design/share/pin-9816)
 
-[Staples homepage with red promotional hero banner featuring 'easy DEAL DAYS' display typography, product grid with pricing, and red header with search bar and navigation](https://design.withfudge.com/share/pin-9816)
+[Staples homepage with red promotional hero banner featuring 'easy DEAL DAYS' display typography, product grid with pricing, and red header with search bar and navigation](https://fudge.design/share/pin-9816)
 
-[![Staples homepage showing full layout with top promotional ticker, red header with store pickup and search, navigation menu, and product deal cards with percentage savings](https://pin.fontofweb.com/9815?format=jpg)](https://design.withfudge.com/share/pin-9815)
+[![Staples homepage showing full layout with top promotional ticker, red header with store pickup and search, navigation menu, and product deal cards with percentage savings](https://pin.fontofweb.com/9815?format=jpg)](https://fudge.design/share/pin-9815)
 
-[Staples homepage showing full layout with top promotional ticker, red header with store pickup and search, navigation menu, and product deal cards with percentage savings](https://design.withfudge.com/share/pin-9815)
+[Staples homepage showing full layout with top promotional ticker, red header with store pickup and search, navigation menu, and product deal cards with percentage savings](https://fudge.design/share/pin-9815)
 
 ## Overview
 
@@ -184,3 +184,18 @@ The top promotional ticker, with three evenly distributed offers, should stack v
 ## Scope note
 
 This guide covers the Staples.com homepage promotional and product grid surfaces visible in the supplied desktop viewport images. Mobile breakpoints, checkout flows, account dashboards, product detail pages, and interactive states including hover, focus, and loading are not represented. Motion behavior for carousels, dropdown navigation, and promotional tickers is not documented.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

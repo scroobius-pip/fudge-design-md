@@ -1,22 +1,22 @@
 # How llmrefs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/llmrefs.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/llmrefs.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with search input, orange CTA button, floating brand icons, and social proof logo bar on light gray background](https://pin.fontofweb.com/6281?format=jpg)](https://design.withfudge.com/share/pin-6281)
+[![Hero section with search input, orange CTA button, floating brand icons, and social proof logo bar on light gray background](https://pin.fontofweb.com/6281?format=jpg)](https://fudge.design/share/pin-6281)
 
-[Hero section with search input, orange CTA button, floating brand icons, and social proof logo bar on light gray background](https://design.withfudge.com/share/pin-6281)
+[Hero section with search input, orange CTA button, floating brand icons, and social proof logo bar on light gray background](https://fudge.design/share/pin-6281)
 
-[![Founder message section with large display headline, body paragraphs, and signed attribution with avatar portrait](https://pin.fontofweb.com/6280?format=jpg)](https://design.withfudge.com/share/pin-6280)
+[![Founder message section with large display headline, body paragraphs, and signed attribution with avatar portrait](https://pin.fontofweb.com/6280?format=jpg)](https://fudge.design/share/pin-6280)
 
-[Founder message section with large display headline, body paragraphs, and signed attribution with avatar portrait](https://design.withfudge.com/share/pin-6280)
+[Founder message section with large display headline, body paragraphs, and signed attribution with avatar portrait](https://fudge.design/share/pin-6280)
 
-[![Pricing card with black CTA button, feature checklist grid, and testimonial quote with star rating](https://pin.fontofweb.com/6279?format=jpg)](https://design.withfudge.com/share/pin-6279)
+[![Pricing card with black CTA button, feature checklist grid, and testimonial quote with star rating](https://pin.fontofweb.com/6279?format=jpg)](https://fudge.design/share/pin-6279)
 
-[Pricing card with black CTA button, feature checklist grid, and testimonial quote with star rating](https://design.withfudge.com/share/pin-6279)
+[Pricing card with black CTA button, feature checklist grid, and testimonial quote with star rating](https://fudge.design/share/pin-6279)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The social proof logo bar should scroll horizontally on mobile or reduce to 4-5 
 ## Scope note
 
 This guide covers the LLMrefs marketing homepage including the hero search interface, founder message section, and pricing card. Footer content, interior dashboard interfaces, mobile navigation patterns, and animation behaviors are not represented in the supplied materials. The testimonial quote and star rating appear in a partial state and may have additional layout variants not documented here.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

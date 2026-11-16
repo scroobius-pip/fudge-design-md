@@ -1,26 +1,26 @@
 # How revolut.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/revolut.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/revolut.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Crypto conversion hero with dark background, floating 3D coin renders, and a compact conversion calculator card overlaying the right side.](https://pin.fontofweb.com/7775?format=jpg)](https://design.withfudge.com/share/pin-7775)
+[![Crypto conversion hero with dark background, floating 3D coin renders, and a compact conversion calculator card overlaying the right side.](https://pin.fontofweb.com/7775?format=jpg)](https://fudge.design/share/pin-7775)
 
-[Crypto conversion hero with dark background, floating 3D coin renders, and a compact conversion calculator card overlaying the right side.](https://design.withfudge.com/share/pin-7775)
+[Crypto conversion hero with dark background, floating 3D coin renders, and a compact conversion calculator card overlaying the right side.](https://fudge.design/share/pin-7775)
 
-[![Dark footer with multi-column link grid, Revolut logo, social icons, and regulatory disclaimers in muted gray text.](https://pin.fontofweb.com/7748?format=jpg)](https://design.withfudge.com/share/pin-7748)
+[![Dark footer with multi-column link grid, Revolut logo, social icons, and regulatory disclaimers in muted gray text.](https://pin.fontofweb.com/7748?format=jpg)](https://fudge.design/share/pin-7748)
 
-[Dark footer with multi-column link grid, Revolut logo, social icons, and regulatory disclaimers in muted gray text.](https://design.withfudge.com/share/pin-7748)
+[Dark footer with multi-column link grid, Revolut logo, social icons, and regulatory disclaimers in muted gray text.](https://fudge.design/share/pin-7748)
 
-[![FAQ accordion section on black background with expanded answer revealing card types and a subtle plus-minus toggle.](https://pin.fontofweb.com/7747?format=jpg)](https://design.withfudge.com/share/pin-7747)
+[![FAQ accordion section on black background with expanded answer revealing card types and a subtle plus-minus toggle.](https://pin.fontofweb.com/7747?format=jpg)](https://fudge.design/share/pin-7747)
 
-[FAQ accordion section on black background with expanded answer revealing card types and a subtle plus-minus toggle.](https://design.withfudge.com/share/pin-7747)
+[FAQ accordion section on black background with expanded answer revealing card types and a subtle plus-minus toggle.](https://fudge.design/share/pin-7747)
 
-[![Corporate cards hero with dramatic 3D card stack renders in metallic finishes and two pill-shaped call-to-action buttons.](https://pin.fontofweb.com/7746?format=jpg)](https://design.withfudge.com/share/pin-7746)
+[![Corporate cards hero with dramatic 3D card stack renders in metallic finishes and two pill-shaped call-to-action buttons.](https://pin.fontofweb.com/7746?format=jpg)](https://fudge.design/share/pin-7746)
 
-[Corporate cards hero with dramatic 3D card stack renders in metallic finishes and two pill-shaped call-to-action buttons.](https://design.withfudge.com/share/pin-7746)
+[Corporate cards hero with dramatic 3D card stack renders in metallic finishes and two pill-shaped call-to-action buttons.](https://fudge.design/share/pin-7746)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The system appears optimized for desktop presentation in the supplied material. 
 ## Scope note
 
 This guide covers the marketing and product page surfaces visible in the supplied images, including the crypto conversion experience, corporate cards landing page, and homepage hero system. Mobile breakpoints, interactive states beyond the visible static view, form validation, loading skeletons, and account dashboard interfaces are not represented. The 3D product renders and cryptocurrency coin illustrations are photographic assets rather than UI components. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

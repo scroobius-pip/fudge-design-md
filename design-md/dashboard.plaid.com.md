@@ -1,18 +1,18 @@
 # How dashboard.plaid.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dashboard.plaid.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/dashboard.plaid.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Signup page with black left panel, white right panel, and three selectable role cards with illustrations](https://pin.fontofweb.com/4325?format=jpg)](https://design.withfudge.com/share/pin-4325)
+[![Signup page with black left panel, white right panel, and three selectable role cards with illustrations](https://pin.fontofweb.com/4325?format=jpg)](https://fudge.design/share/pin-4325)
 
-[Signup page with black left panel, white right panel, and three selectable role cards with illustrations](https://design.withfudge.com/share/pin-4325)
+[Signup page with black left panel, white right panel, and three selectable role cards with illustrations](https://fudge.design/share/pin-4325)
 
-[![Signin page with email input field, error state, gray continue button, and colorful geometric illustration on right side](https://pin.fontofweb.com/4324?format=jpg)](https://design.withfudge.com/share/pin-4324)
+[![Signin page with email input field, error state, gray continue button, and colorful geometric illustration on right side](https://pin.fontofweb.com/4324?format=jpg)](https://fudge.design/share/pin-4324)
 
-[Signin page with email input field, error state, gray continue button, and colorful geometric illustration on right side](https://design.withfudge.com/share/pin-4324)
+[Signin page with email input field, error state, gray continue button, and colorful geometric illustration on right side](https://fudge.design/share/pin-4324)
 
 ## Overview
 
@@ -153,3 +153,18 @@ Button full-width behavior in forms should maintain on mobile for thumb reachabi
 ## Scope note
 
 This guide covers the signup and signin entry surfaces of the Plaid Dashboard. Dashboard interior pages, data visualization, table components, and mobile-specific layouts are not represented in the supplied material. Motion, loading states, and success confirmations are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How smithsonianmag.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/smithsonianmag.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/smithsonianmag.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with dark navigation overlay, serif headline, and subscription banner featuring yellow accent](https://pin.fontofweb.com/9548?format=jpg)](https://design.withfudge.com/share/pin-9548)
+[![Article page with dark navigation overlay, serif headline, and subscription banner featuring yellow accent](https://pin.fontofweb.com/9548?format=jpg)](https://fudge.design/share/pin-9548)
 
-[Article page with dark navigation overlay, serif headline, and subscription banner featuring yellow accent](https://design.withfudge.com/share/pin-9548)
+[Article page with dark navigation overlay, serif headline, and subscription banner featuring yellow accent](https://fudge.design/share/pin-9548)
 
-[![Homepage section grid showing History and Science category cards with large photography and condensed serif titles](https://pin.fontofweb.com/9547?format=jpg)](https://design.withfudge.com/share/pin-9547)
+[![Homepage section grid showing History and Science category cards with large photography and condensed serif titles](https://pin.fontofweb.com/9547?format=jpg)](https://fudge.design/share/pin-9547)
 
-[Homepage section grid showing History and Science category cards with large photography and condensed serif titles](https://design.withfudge.com/share/pin-9547)
+[Homepage section grid showing History and Science category cards with large photography and condensed serif titles](https://fudge.design/share/pin-9547)
 
-[![Current issue preview with stacked article thumbnails, category labels, and dark call-to-action button](https://pin.fontofweb.com/9546?format=jpg)](https://design.withfudge.com/share/pin-9546)
+[![Current issue preview with stacked article thumbnails, category labels, and dark call-to-action button](https://pin.fontofweb.com/9546?format=jpg)](https://fudge.design/share/pin-9546)
 
-[Current issue preview with stacked article thumbnails, category labels, and dark call-to-action button](https://design.withfudge.com/share/pin-9546)
+[Current issue preview with stacked article thumbnails, category labels, and dark call-to-action button](https://fudge.design/share/pin-9546)
 
-[![Magazine subscription panel with dark background, yellow subscribe button, and cover image display](https://pin.fontofweb.com/9545?format=jpg)](https://design.withfudge.com/share/pin-9545)
+[![Magazine subscription panel with dark background, yellow subscribe button, and cover image display](https://pin.fontofweb.com/9545?format=jpg)](https://fudge.design/share/pin-9545)
 
-[Magazine subscription panel with dark background, yellow subscribe button, and cover image display](https://design.withfudge.com/share/pin-9545)
+[Magazine subscription panel with dark background, yellow subscribe button, and cover image display](https://fudge.design/share/pin-9545)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Image aspect ratios remain constant across breakpoints, with cards reflowing aro
 ## Scope note
 
 This guide covers the homepage, article page, and subscription surfaces visible in the supplied materials. Footer components, comment systems, video players, and mobile-specific navigation patterns are not represented. Print-specific styles and email newsletter templates fall outside this scope. Measurements reflect the desktop viewport state captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How florafauna.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/florafauna.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/florafauna.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with italic serif tagline, social icons, and multi-column link grid over dark floral photography](https://pin.fontofweb.com/3228?format=jpg)](https://design.withfudge.com/share/pin-3228)
+[![Footer section with italic serif tagline, social icons, and multi-column link grid over dark floral photography](https://pin.fontofweb.com/3228?format=jpg)](https://fudge.design/share/pin-3228)
 
-[Footer section with italic serif tagline, social icons, and multi-column link grid over dark floral photography](https://design.withfudge.com/share/pin-3228)
+[Footer section with italic serif tagline, social icons, and multi-column link grid over dark floral photography](https://fudge.design/share/pin-3228)
 
-[![Hero section with italic speed-of-thought headline and three-step feature cards showing UI screenshots](https://pin.fontofweb.com/3227?format=jpg)](https://design.withfudge.com/share/pin-3227)
+[![Hero section with italic speed-of-thought headline and three-step feature cards showing UI screenshots](https://pin.fontofweb.com/3227?format=jpg)](https://fudge.design/share/pin-3227)
 
-[Hero section with italic speed-of-thought headline and three-step feature cards showing UI screenshots](https://design.withfudge.com/share/pin-3227)
+[Hero section with italic speed-of-thought headline and three-step feature cards showing UI screenshots](https://fudge.design/share/pin-3227)
 
-[![Model showcase grid with partner logos and cinematic photography cards on near-black background](https://pin.fontofweb.com/3226?format=jpg)](https://design.withfudge.com/share/pin-3226)
+[![Model showcase grid with partner logos and cinematic photography cards on near-black background](https://pin.fontofweb.com/3226?format=jpg)](https://fudge.design/share/pin-3226)
 
-[Model showcase grid with partner logos and cinematic photography cards on near-black background](https://design.withfudge.com/share/pin-3226)
+[Model showcase grid with partner logos and cinematic photography cards on near-black background](https://fudge.design/share/pin-3226)
 
-[![Manifesto page with large sans-serif statement and dense body copy on pure black background](https://pin.fontofweb.com/2070?format=jpg)](https://design.withfudge.com/share/pin-2070)
+[![Manifesto page with large sans-serif statement and dense body copy on pure black background](https://pin.fontofweb.com/2070?format=jpg)](https://fudge.design/share/pin-2070)
 
-[Manifesto page with large sans-serif statement and dense body copy on pure black background](https://design.withfudge.com/share/pin-2070)
+[Manifesto page with large sans-serif statement and dense body copy on pure black background](https://fudge.design/share/pin-2070)
 
 ## Overview
 
@@ -166,3 +166,18 @@ The current interface is documented at desktop width. Implementation should cons
 ## Scope note
 
 This guide covers the homepage, model showcase, and manifesto page surfaces of florafauna.ai. Pricing page structures, mobile layouts, motion behavior, form interactions, and loading states are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection of desktop screenshots.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

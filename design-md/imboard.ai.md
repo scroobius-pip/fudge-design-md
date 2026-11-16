@@ -1,26 +1,26 @@
 # How imboard.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/imboard.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/imboard.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with three-tier card layout showing Startup, Growth, and Expansion plans with orange accent labels and navy typography](https://pin.fontofweb.com/1099?format=jpg)](https://design.withfudge.com/share/pin-1099)
+[![Pricing page hero with three-tier card layout showing Startup, Growth, and Expansion plans with orange accent labels and navy typography](https://pin.fontofweb.com/1099?format=jpg)](https://fudge.design/share/pin-1099)
 
-[Pricing page hero with three-tier card layout showing Startup, Growth, and Expansion plans with orange accent labels and navy typography](https://design.withfudge.com/share/pin-1099)
+[Pricing page hero with three-tier card layout showing Startup, Growth, and Expansion plans with orange accent labels and navy typography](https://fudge.design/share/pin-1099)
 
-[![Feature grid section with six icon-led items including Secure Platform, Mobile Access, and Meeting Tools with navy headings on white background](https://pin.fontofweb.com/1100?format=jpg)](https://design.withfudge.com/share/pin-1100)
+[![Feature grid section with six icon-led items including Secure Platform, Mobile Access, and Meeting Tools with navy headings on white background](https://pin.fontofweb.com/1100?format=jpg)](https://fudge.design/share/pin-1100)
 
-[Feature grid section with six icon-led items including Secure Platform, Mobile Access, and Meeting Tools with navy headings on white background](https://design.withfudge.com/share/pin-1100)
+[Feature grid section with six icon-led items including Secure Platform, Mobile Access, and Meeting Tools with navy headings on white background](https://fudge.design/share/pin-1100)
 
-[![FAQ accordion section with two-column layout, orange section label, and expandable question items with navy chevron indicators](https://pin.fontofweb.com/1101?format=jpg)](https://design.withfudge.com/share/pin-1101)
+[![FAQ accordion section with two-column layout, orange section label, and expandable question items with navy chevron indicators](https://pin.fontofweb.com/1101?format=jpg)](https://fudge.design/share/pin-1101)
 
-[FAQ accordion section with two-column layout, orange section label, and expandable question items with navy chevron indicators](https://design.withfudge.com/share/pin-1101)
+[FAQ accordion section with two-column layout, orange section label, and expandable question items with navy chevron indicators](https://fudge.design/share/pin-1101)
 
-[![Bottom call-to-action banner with centered navy headline, muted subtext, and full-pill orange button with external-link icon](https://pin.fontofweb.com/1102?format=jpg)](https://design.withfudge.com/share/pin-1102)
+[![Bottom call-to-action banner with centered navy headline, muted subtext, and full-pill orange button with external-link icon](https://pin.fontofweb.com/1102?format=jpg)](https://fudge.design/share/pin-1102)
 
-[Bottom call-to-action banner with centered navy headline, muted subtext, and full-pill orange button with external-link icon](https://design.withfudge.com/share/pin-1102)
+[Bottom call-to-action banner with centered navy headline, muted subtext, and full-pill orange button with external-link icon](https://fudge.design/share/pin-1102)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The pill-shaped primary button should remain fully rounded at all widths, with t
 ## Scope note
 
 This guide covers the pricing page and visible homepage sections of I'mBoard as represented in the supplied images. Navigation, footer, mobile breakpoints, form states, animation, and dark mode are not included. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

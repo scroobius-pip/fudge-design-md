@@ -1,26 +1,26 @@
 # How postnext.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/postnext.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/postnext.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with navigation bar, purple script accent text, large bold headline, and gradient CTA button on light gray background](https://pin.fontofweb.com/7496?format=jpg)](https://design.withfudge.com/share/pin-7496)
+[![Hero section with navigation bar, purple script accent text, large bold headline, and gradient CTA button on light gray background](https://pin.fontofweb.com/7496?format=jpg)](https://fudge.design/share/pin-7496)
 
-[Hero section with navigation bar, purple script accent text, large bold headline, and gradient CTA button on light gray background](https://design.withfudge.com/share/pin-7496)
+[Hero section with navigation bar, purple script accent text, large bold headline, and gradient CTA button on light gray background](https://fudge.design/share/pin-7496)
 
-[![Social media platform grid showing six white rounded cards with platform icons on light gray background](https://pin.fontofweb.com/7497?format=jpg)](https://design.withfudge.com/share/pin-7497)
+[![Social media platform grid showing six white rounded cards with platform icons on light gray background](https://pin.fontofweb.com/7497?format=jpg)](https://fudge.design/share/pin-7497)
 
-[Social media platform grid showing six white rounded cards with platform icons on light gray background](https://design.withfudge.com/share/pin-7497)
+[Social media platform grid showing six white rounded cards with platform icons on light gray background](https://fudge.design/share/pin-7497)
 
-[![Feature section with script category label, stacked feature cards with icons, and bottom CTA link](https://pin.fontofweb.com/7498?format=jpg)](https://design.withfudge.com/share/pin-7498)
+[![Feature section with script category label, stacked feature cards with icons, and bottom CTA link](https://pin.fontofweb.com/7498?format=jpg)](https://fudge.design/share/pin-7498)
 
-[Feature section with script category label, stacked feature cards with icons, and bottom CTA link](https://design.withfudge.com/share/pin-7498)
+[Feature section with script category label, stacked feature cards with icons, and bottom CTA link](https://fudge.design/share/pin-7498)
 
-[![Pricing page with three-tier card layout, toggle switch, and purple gradient action buttons](https://pin.fontofweb.com/7495?format=jpg)](https://design.withfudge.com/share/pin-7495)
+[![Pricing page with three-tier card layout, toggle switch, and purple gradient action buttons](https://pin.fontofweb.com/7495?format=jpg)](https://fudge.design/share/pin-7495)
 
-[Pricing page with three-tier card layout, toggle switch, and purple gradient action buttons](https://design.withfudge.com/share/pin-7495)
+[Pricing page with three-tier card layout, toggle switch, and purple gradient action buttons](https://fudge.design/share/pin-7495)
 
 ## Overview
 
@@ -220,3 +220,18 @@ Card padding reduces by approximately 30% on mobile: pricing card padding from 5
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces visible in the supplied images. Dashboard interfaces, mobile navigation patterns, form validation states, loading skeletons, and dark mode are not represented. Measurements are practical adaptation targets derived from the documented pixel values. Motion, micro-interactions, and hover states require additional research beyond static view.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

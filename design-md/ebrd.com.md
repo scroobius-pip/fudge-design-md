@@ -1,18 +1,18 @@
 # How ebrd.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ebrd.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ebrd.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Cookie consent banner with dark navy background, lime green primary button, and outlined secondary button showing clear two-tone action pattern](https://pin.fontofweb.com/2619?format=jpg)](https://design.withfudge.com/share/pin-2619)
+[![Cookie consent banner with dark navy background, lime green primary button, and outlined secondary button showing clear two-tone action pattern](https://pin.fontofweb.com/2619?format=jpg)](https://fudge.design/share/pin-2619)
 
-[Cookie consent banner with dark navy background, lime green primary button, and outlined secondary button showing clear two-tone action pattern](https://design.withfudge.com/share/pin-2619)
+[Cookie consent banner with dark navy background, lime green primary button, and outlined secondary button showing clear two-tone action pattern](https://fudge.design/share/pin-2619)
 
-[![Homepage hero with large display typography, architectural photography with rounded corners, statistics with green accent bars, and full navigation header](https://pin.fontofweb.com/2618?format=jpg)](https://design.withfudge.com/share/pin-2618)
+[![Homepage hero with large display typography, architectural photography with rounded corners, statistics with green accent bars, and full navigation header](https://pin.fontofweb.com/2618?format=jpg)](https://fudge.design/share/pin-2618)
 
-[Homepage hero with large display typography, architectural photography with rounded corners, statistics with green accent bars, and full navigation header](https://design.withfudge.com/share/pin-2618)
+[Homepage hero with large display typography, architectural photography with rounded corners, statistics with green accent bars, and full navigation header](https://fudge.design/share/pin-2618)
 
 ## Overview
 
@@ -162,3 +162,18 @@ Type sizes should scale down modestly: hero-display may reduce to 2.5rem, sectio
 ## Scope note
 
 This guide covers the homepage hero, navigation, cookie consent, and statistics components visible in the supplied images. Interior pages, additional components, form patterns, table styles, and footer content are not represented. Motion behavior, hover states, focus indicators, and mobile-specific layouts were not captured and should be designed to complement the visible system. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

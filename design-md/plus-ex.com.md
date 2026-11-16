@@ -1,26 +1,26 @@
 # How plus-ex.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plus-ex.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/plus-ex.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Samsung Fire annual report portfolio spread showing gradient bookmark and clean white layout with SHARE THIS button](https://pin.fontofweb.com/10243?format=jpg)](https://design.withfudge.com/share/pin-10243)
+[![Samsung Fire annual report portfolio spread showing gradient bookmark and clean white layout with SHARE THIS button](https://pin.fontofweb.com/10243?format=jpg)](https://fudge.design/share/pin-10243)
 
-[Samsung Fire annual report portfolio spread showing gradient bookmark and clean white layout with SHARE THIS button](https://design.withfudge.com/share/pin-10243)
+[Samsung Fire annual report portfolio spread showing gradient bookmark and clean white layout with SHARE THIS button](https://fudge.design/share/pin-10243)
 
-[![Close-up of embossed white book covers with Like the Air title and minimal spine typography](https://pin.fontofweb.com/10242?format=jpg)](https://design.withfudge.com/share/pin-10242)
+[![Close-up of embossed white book covers with Like the Air title and minimal spine typography](https://pin.fontofweb.com/10242?format=jpg)](https://fudge.design/share/pin-10242)
 
-[Close-up of embossed white book covers with Like the Air title and minimal spine typography](https://design.withfudge.com/share/pin-10242)
+[Close-up of embossed white book covers with Like the Air title and minimal spine typography](https://fudge.design/share/pin-10242)
 
-[![Financial data tables with light blue row highlights and extensive white space padding](https://pin.fontofweb.com/10241?format=jpg)](https://design.withfudge.com/share/pin-10241)
+[![Financial data tables with light blue row highlights and extensive white space padding](https://pin.fontofweb.com/10241?format=jpg)](https://fudge.design/share/pin-10241)
 
-[Financial data tables with light blue row highlights and extensive white space padding](https://design.withfudge.com/share/pin-10241)
+[Financial data tables with light blue row highlights and extensive white space padding](https://fudge.design/share/pin-10241)
 
-[![China and USA map infographics with coral and teal architectural illustrations and large display numerals](https://pin.fontofweb.com/10240?format=jpg)](https://design.withfudge.com/share/pin-10240)
+[![China and USA map infographics with coral and teal architectural illustrations and large display numerals](https://pin.fontofweb.com/10240?format=jpg)](https://fudge.design/share/pin-10240)
 
-[China and USA map infographics with coral and teal architectural illustrations and large display numerals](https://design.withfudge.com/share/pin-10240)
+[China and USA map infographics with coral and teal architectural illustrations and large display numerals](https://fudge.design/share/pin-10240)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Experience page containers with 140px top padding should reduce to 80px or 60px 
 ## Scope note
 
 This guide covers the portfolio presentation system and experience page structure visible in the supplied materials. Navigation patterns, mobile breakpoints, hover states, loading sequences, and form interactions beyond the single experience button are not represented. The 6.7px and 10.05px Pretendard Std sizes appear in dense information contexts but may require verification for production legibility. Measurements are practical adaptation targets based on the extracted interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How taito.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/taito.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/taito.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with split layout showing product UI screenshot and large display typography for people operations automation](https://pin.fontofweb.com/9514?format=jpg)](https://design.withfudge.com/share/pin-9514)
+[![Hero section with split layout showing product UI screenshot and large display typography for people operations automation](https://pin.fontofweb.com/9514?format=jpg)](https://fudge.design/share/pin-9514)
 
-[Hero section with split layout showing product UI screenshot and large display typography for people operations automation](https://design.withfudge.com/share/pin-9514)
+[Hero section with split layout showing product UI screenshot and large display typography for people operations automation](https://fudge.design/share/pin-9514)
 
-[![Three-column feature grid with product screenshots showing onboarding, integrations, and regional compliance cards](https://pin.fontofweb.com/9515?format=jpg)](https://design.withfudge.com/share/pin-9515)
+[![Three-column feature grid with product screenshots showing onboarding, integrations, and regional compliance cards](https://pin.fontofweb.com/9515?format=jpg)](https://fudge.design/share/pin-9515)
 
-[Three-column feature grid with product screenshots showing onboarding, integrations, and regional compliance cards](https://design.withfudge.com/share/pin-9515)
+[Three-column feature grid with product screenshots showing onboarding, integrations, and regional compliance cards](https://fudge.design/share/pin-9515)
 
-[![Performance review feature section with left-side product mockup and right-side feature list with icon markers](https://pin.fontofweb.com/9516?format=jpg)](https://design.withfudge.com/share/pin-9516)
+[![Performance review feature section with left-side product mockup and right-side feature list with icon markers](https://pin.fontofweb.com/9516?format=jpg)](https://fudge.design/share/pin-9516)
 
-[Performance review feature section with left-side product mockup and right-side feature list with icon markers](https://design.withfudge.com/share/pin-9516)
+[Performance review feature section with left-side product mockup and right-side feature list with icon markers](https://fudge.design/share/pin-9516)
 
-[![Statistics section with horizontal rule separators and right-aligned large numerals for HR automation metrics](https://pin.fontofweb.com/9517?format=jpg)](https://design.withfudge.com/share/pin-9517)
+[![Statistics section with horizontal rule separators and right-aligned large numerals for HR automation metrics](https://pin.fontofweb.com/9517?format=jpg)](https://fudge.design/share/pin-9517)
 
-[Statistics section with horizontal rule separators and right-aligned large numerals for HR automation metrics](https://design.withfudge.com/share/pin-9517)
+[Statistics section with horizontal rule separators and right-aligned large numerals for HR automation metrics](https://fudge.design/share/pin-9517)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Typography scales down proportionally: hero-display to section-display at tablet
 ## Scope note
 
 This guide covers the Taito.ai homepage landing experience including hero, feature sections, statistics, and navigation. Pricing pages, blog templates, authentication flows, and mobile menu interactions are not represented in the supplied material. Motion, hover states, and form validation patterns are not documented. The Applesystem family appears in extracted data as a 14px fallback in unknown regions but is not part of the intentional design system. The 102.5px margin value appears in extracted data but should be normalized to standard container widths in production implementations.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

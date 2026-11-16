@@ -1,18 +1,18 @@
 # How warbl.tw is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/warbl.tw-design)
+[Open the live Fudge conversation](https://fudge.design/share/warbl.tw-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with gradient headline, product mockup card, and teal primary action button on near-black background](https://pin.fontofweb.com/7680?format=jpg)](https://design.withfudge.com/share/pin-7680)
+[![Hero section with gradient headline, product mockup card, and teal primary action button on near-black background](https://pin.fontofweb.com/7680?format=jpg)](https://fudge.design/share/pin-7680)
 
-[Hero section with gradient headline, product mockup card, and teal primary action button on near-black background](https://design.withfudge.com/share/pin-7680)
+[Hero section with gradient headline, product mockup card, and teal primary action button on near-black background](https://fudge.design/share/pin-7680)
 
-[![Founder story section with gradient border card, large quote typography, and social proof metrics on dark canvas](https://pin.fontofweb.com/7679?format=jpg)](https://design.withfudge.com/share/pin-7679)
+[![Founder story section with gradient border card, large quote typography, and social proof metrics on dark canvas](https://pin.fontofweb.com/7679?format=jpg)](https://fudge.design/share/pin-7679)
 
-[Founder story section with gradient border card, large quote typography, and social proof metrics on dark canvas](https://design.withfudge.com/share/pin-7679)
+[Founder story section with gradient border card, large quote typography, and social proof metrics on dark canvas](https://fudge.design/share/pin-7679)
 
 ## Overview
 
@@ -202,3 +202,18 @@ The gradient headline treatment must remain legible at all sizes; test contrast 
 ## Scope note
 
 This guide covers the Warbl landing page hero and founder story sections visible in the supplied images. Pricing, FAQ, and feature detail pages are not represented. Mobile breakpoints, form interactions, and extension onboarding flows are not documented. Motion behavior and hover states are inferred from static images and should be validated in implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Landing page](/share/designs-with-page.marketing.landing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

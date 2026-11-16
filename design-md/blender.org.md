@@ -1,26 +1,26 @@
 # How blender.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/blender.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/blender.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Experimental builds section with crimson background, white typography, and rocket icon on the download page](https://pin.fontofweb.com/838?format=jpg)](https://design.withfudge.com/share/pin-838)
+[![Experimental builds section with crimson background, white typography, and rocket icon on the download page](https://pin.fontofweb.com/838?format=jpg)](https://fudge.design/share/pin-838)
 
-[Experimental builds section with crimson background, white typography, and rocket icon on the download page](https://design.withfudge.com/share/pin-838)
+[Experimental builds section with crimson background, white typography, and rocket icon on the download page](https://fudge.design/share/pin-838)
 
-[![What's New feature section with diagonal split layout showing snowman render and purple-blue gradient panel](https://pin.fontofweb.com/837?format=jpg)](https://design.withfudge.com/share/pin-837)
+[![What's New feature section with diagonal split layout showing snowman render and purple-blue gradient panel](https://pin.fontofweb.com/837?format=jpg)](https://fudge.design/share/pin-837)
 
-[What's New feature section with diagonal split layout showing snowman render and purple-blue gradient panel](https://design.withfudge.com/share/pin-837)
+[What's New feature section with diagonal split layout showing snowman render and purple-blue gradient panel](https://fudge.design/share/pin-837)
 
-[![Hero banner with space scene background, centered white headline, and blue download button with platform selector](https://pin.fontofweb.com/836?format=jpg)](https://design.withfudge.com/share/pin-836)
+[![Hero banner with space scene background, centered white headline, and blue download button with platform selector](https://pin.fontofweb.com/836?format=jpg)](https://fudge.design/share/pin-836)
 
-[Hero banner with space scene background, centered white headline, and blue download button with platform selector](https://design.withfudge.com/share/pin-836)
+[Hero banner with space scene background, centered white headline, and blue download button with platform selector](https://fudge.design/share/pin-836)
 
-[![Footer with dark charcoal background, multi-column link grid, social icons, and blue Donate button](https://pin.fontofweb.com/835?format=jpg)](https://design.withfudge.com/share/pin-835)
+[![Footer with dark charcoal background, multi-column link grid, social icons, and blue Donate button](https://pin.fontofweb.com/835?format=jpg)](https://fudge.design/share/pin-835)
 
-[Footer with dark charcoal background, multi-column link grid, social icons, and blue Donate button](https://design.withfudge.com/share/pin-835)
+[Footer with dark charcoal background, multi-column link grid, social icons, and blue Donate button](https://fudge.design/share/pin-835)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Typography scales down by approximately 15-20% on mobile, with hero display redu
 ## Scope note
 
 This guide covers the homepage and download page surfaces visible in the supplied images, including hero sections, feature announcements, experimental builds, and footer architecture. Measurements are practical adaptation targets. Mobile breakpoints, animation specifications, form components, documentation pages, and community forum interfaces are not represented in the current material. The icon font Fontutti requires separate licensing verification for production deployment.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

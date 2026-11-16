@@ -1,26 +1,26 @@
 # How notion.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/notion.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/notion.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark workspace page with left sidebar navigation, page title 'Font of Web', and structured content blocks including checklists and embedded links.](https://pin.fontofweb.com/9217?format=jpg)](https://design.withfudge.com/share/pin-9217)
+[![Dark workspace page with left sidebar navigation, page title 'Font of Web', and structured content blocks including checklists and embedded links.](https://pin.fontofweb.com/9217?format=jpg)](https://fudge.design/share/pin-9217)
 
-[Dark workspace page with left sidebar navigation, page title 'Font of Web', and structured content blocks including checklists and embedded links.](https://design.withfudge.com/share/pin-9217)
+[Dark workspace page with left sidebar navigation, page title 'Font of Web', and structured content blocks including checklists and embedded links.](https://fudge.design/share/pin-9217)
 
-[![Minimal dark page header showing 'Whisp OS' title with dotted underline decoration and breadcrumb navigation.](https://pin.fontofweb.com/9062?format=jpg)](https://design.withfudge.com/share/pin-9062)
+[![Minimal dark page header showing 'Whisp OS' title with dotted underline decoration and breadcrumb navigation.](https://pin.fontofweb.com/9062?format=jpg)](https://fudge.design/share/pin-9062)
 
-[Minimal dark page header showing 'Whisp OS' title with dotted underline decoration and breadcrumb navigation.](https://design.withfudge.com/share/pin-9062)
+[Minimal dark page header showing 'Whisp OS' title with dotted underline decoration and breadcrumb navigation.](https://fudge.design/share/pin-9062)
 
-[![Home dashboard with greeting, recently visited page cards, calendar events panel, database view preview, and tutorial content cards.](https://pin.fontofweb.com/6779?format=jpg)](https://design.withfudge.com/share/pin-6779)
+[![Home dashboard with greeting, recently visited page cards, calendar events panel, database view preview, and tutorial content cards.](https://pin.fontofweb.com/6779?format=jpg)](https://fudge.design/share/pin-6779)
 
-[Home dashboard with greeting, recently visited page cards, calendar events panel, database view preview, and tutorial content cards.](https://design.withfudge.com/share/pin-6779)
+[Home dashboard with greeting, recently visited page cards, calendar events panel, database view preview, and tutorial content cards.](https://fudge.design/share/pin-6779)
 
-[![Desktop app promotion modal with centered Notion logo, feature list, and blue primary action button on dark background.](https://pin.fontofweb.com/5254?format=jpg)](https://design.withfudge.com/share/pin-5254)
+[![Desktop app promotion modal with centered Notion logo, feature list, and blue primary action button on dark background.](https://pin.fontofweb.com/5254?format=jpg)](https://fudge.design/share/pin-5254)
 
-[Desktop app promotion modal with centered Notion logo, feature list, and blue primary action button on dark background.](https://design.withfudge.com/share/pin-5254)
+[Desktop app promotion modal with centered Notion logo, feature list, and blue primary action button on dark background.](https://fudge.design/share/pin-5254)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Touch targets maintain minimum 44px height for all interactive elements. Dense d
 ## Scope note
 
 This guide covers the authenticated workspace interface including sidebar navigation, page content, dashboard home, and modal dialogs. Marketing pages, public share views, and mobile applications are not represented. The onboarding flow and desktop app promotion appear as isolated modal surfaces. Measurements reflect the desktop interface at standard resolution; viewport scaling may require proportional adjustment of spacing tokens.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

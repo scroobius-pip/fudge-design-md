@@ -1,22 +1,22 @@
 # How typotheque.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typotheque.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/typotheque.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-mode article section with white November Site headings, Lava Site body text, and full-width Zed Display specimen showing width transitions from compressed to wide.](https://pin.fontofweb.com/6828?format=jpg)](https://design.withfudge.com/share/pin-6828)
+[![Dark-mode article section with white November Site headings, Lava Site body text, and full-width Zed Display specimen showing width transitions from compressed to wide.](https://pin.fontofweb.com/6828?format=jpg)](https://fudge.design/share/pin-6828)
 
-[Dark-mode article section with white November Site headings, Lava Site body text, and full-width Zed Display specimen showing width transitions from compressed to wide.](https://design.withfudge.com/share/pin-6828)
+[Dark-mode article section with white November Site headings, Lava Site body text, and full-width Zed Display specimen showing width transitions from compressed to wide.](https://fudge.design/share/pin-6828)
 
-[![Light-mode navigation overlay with orange TP logo, five-column menu grid, newsletter signup, social links, and dark article continuation with large bold Zed Display specimen.](https://pin.fontofweb.com/6827?format=jpg)](https://design.withfudge.com/share/pin-6827)
+[![Light-mode navigation overlay with orange TP logo, five-column menu grid, newsletter signup, social links, and dark article continuation with large bold Zed Display specimen.](https://pin.fontofweb.com/6827?format=jpg)](https://fudge.design/share/pin-6827)
 
-[Light-mode navigation overlay with orange TP logo, five-column menu grid, newsletter signup, social links, and dark article continuation with large bold Zed Display specimen.](https://design.withfudge.com/share/pin-6827)
+[Light-mode navigation overlay with orange TP logo, five-column menu grid, newsletter signup, social links, and dark article continuation with large bold Zed Display specimen.](https://fudge.design/share/pin-6827)
 
-[![Dark-mode pricing table with four tiered rows showing font build configurations, file sizes in white and muted gray, with subtle background depth layers.](https://pin.fontofweb.com/6826?format=jpg)](https://design.withfudge.com/share/pin-6826)
+[![Dark-mode pricing table with four tiered rows showing font build configurations, file sizes in white and muted gray, with subtle background depth layers.](https://pin.fontofweb.com/6826?format=jpg)](https://fudge.design/share/pin-6826)
 
-[Dark-mode pricing table with four tiered rows showing font build configurations, file sizes in white and muted gray, with subtle background depth layers.](https://design.withfudge.com/share/pin-6826)
+[Dark-mode pricing table with four tiered rows showing font build configurations, file sizes in white and muted gray, with subtle background depth layers.](https://fudge.design/share/pin-6826)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Dark mode should remain the default for article content; the light-mode navigati
 ## Scope note
 
 This guide covers the article page and navigation overlay surfaces visible in the supplied images. Footer elements, type specimen browsing interfaces, e-commerce flows, and mobile-specific layouts are not represented. The radius token set is empty; no rounded corners beyond pill buttons are confirmed in the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

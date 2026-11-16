@@ -1,18 +1,18 @@
 # How cryptix.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cryptix.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/cryptix.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered tagline, navigation bar with neon green CTA button, and four-column feature grid with circular icon containers on dark background](https://pin.fontofweb.com/5560?format=jpg)](https://design.withfudge.com/share/pin-5560)
+[![Hero section with centered tagline, navigation bar with neon green CTA button, and four-column feature grid with circular icon containers on dark background](https://pin.fontofweb.com/5560?format=jpg)](https://fudge.design/share/pin-5560)
 
-[Hero section with centered tagline, navigation bar with neon green CTA button, and four-column feature grid with circular icon containers on dark background](https://design.withfudge.com/share/pin-5560)
+[Hero section with centered tagline, navigation bar with neon green CTA button, and four-column feature grid with circular icon containers on dark background](https://fudge.design/share/pin-5560)
 
-[![Complete landing page view showing hero typography, Why Choose Cryptix section heading, and feature cards with shield, lightning, arrows, and monitor icons in circular frames](https://pin.fontofweb.com/5559?format=jpg)](https://design.withfudge.com/share/pin-5559)
+[![Complete landing page view showing hero typography, Why Choose Cryptix section heading, and feature cards with shield, lightning, arrows, and monitor icons in circular frames](https://pin.fontofweb.com/5559?format=jpg)](https://fudge.design/share/pin-5559)
 
-[Complete landing page view showing hero typography, Why Choose Cryptix section heading, and feature cards with shield, lightning, arrows, and monitor icons in circular frames](https://design.withfudge.com/share/pin-5559)
+[Complete landing page view showing hero typography, Why Choose Cryptix section heading, and feature cards with shield, lightning, arrows, and monitor icons in circular frames](https://fudge.design/share/pin-5559)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The desktop layout visible in the images shows a four-column feature grid and a 
 ## Scope note
 
 This guide covers the landing page hero and benefits section visible in the supplied images. The complete site likely contains additional sections such as pricing, testimonials, FAQ, and footer content not shown here. Measurements are practical adaptation targets. No mobile layouts, hover states, form interactions, or animation behavior are documented. The design system should be extended as additional surfaces are verified.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Marketing page](/share/designs-with-page.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How duetnightabyss.dna-panstudio.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/duetnightabyss.dna-panstudio.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/duetnightabyss.dna-panstudio.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Character detail page for Sibylle showing diagonal split composition with purple-haired figure against black void, faction navigation on left, and large gradient typography](https://pin.fontofweb.com/4221?format=jpg)](https://design.withfudge.com/share/pin-4221)
+[![Character detail page for Sibylle showing diagonal split composition with purple-haired figure against black void, faction navigation on left, and large gradient typography](https://pin.fontofweb.com/4221?format=jpg)](https://fudge.design/share/pin-4221)
 
-[Character detail page for Sibylle showing diagonal split composition with purple-haired figure against black void, faction navigation on left, and large gradient typography](https://design.withfudge.com/share/pin-4221)
+[Character detail page for Sibylle showing diagonal split composition with purple-haired figure against black void, faction navigation on left, and large gradient typography](https://fudge.design/share/pin-4221)
 
-[![Near-identical Sibylle character page with expanded Hyperborean Empire faction selected, showing diamond pagination and voice actor metadata.](https://pin.fontofweb.com/4220?format=jpg)](https://design.withfudge.com/share/pin-4220)
+[![Near-identical Sibylle character page with expanded Hyperborean Empire faction selected, showing diamond pagination and voice actor metadata.](https://pin.fontofweb.com/4220?format=jpg)](https://fudge.design/share/pin-4220)
 
-[Near-identical Sibylle character page with expanded Hyperborean Empire faction selected, showing diamond pagination and voice actor metadata.](https://design.withfudge.com/share/pin-4220)
+[Near-identical Sibylle character page with expanded Hyperborean Empire faction selected, showing diamond pagination and voice actor metadata.](https://fudge.design/share/pin-4220)
 
-[![Characters index with five diagonal portrait strips arranged in staggered overlapping formation, faction filter sidebar, and faint DAIMON watermark.](https://pin.fontofweb.com/4219?format=jpg)](https://design.withfudge.com/share/pin-4219)
+[![Characters index with five diagonal portrait strips arranged in staggered overlapping formation, faction filter sidebar, and faint DAIMON watermark.](https://pin.fontofweb.com/4219?format=jpg)](https://fudge.design/share/pin-4219)
 
-[Characters index with five diagonal portrait strips arranged in staggered overlapping formation, faction filter sidebar, and faint DAIMON watermark.](https://design.withfudge.com/share/pin-4219)
+[Characters index with five diagonal portrait strips arranged in staggered overlapping formation, faction filter sidebar, and faint DAIMON watermark.](https://fudge.design/share/pin-4219)
 
-[![Dark cinematic homepage hero with gold italic display type, video play button, download platform badges, and navigation bar with social icons.](https://pin.fontofweb.com/4218?format=jpg)](https://design.withfudge.com/share/pin-4218)
+[![Dark cinematic homepage hero with gold italic display type, video play button, download platform badges, and navigation bar with social icons.](https://pin.fontofweb.com/4218?format=jpg)](https://fudge.design/share/pin-4218)
 
-[Dark cinematic homepage hero with gold italic display type, video play button, download platform badges, and navigation bar with social icons.](https://design.withfudge.com/share/pin-4218)
+[Dark cinematic homepage hero with gold italic display type, video play button, download platform badges, and navigation bar with social icons.](https://fudge.design/share/pin-4218)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Touch targets for the diamond pagination and play button should maintain minimum
 ## Scope note
 
 This guide covers the homepage hero and character showcase surfaces visible in the supplied images. The weapons section, news pages, Atlasia map interface, account systems, and TOP-UP flow are not represented. Mobile layouts, hover states, loading sequences, and motion behavior were not captured and should be designed with the established visual principles. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

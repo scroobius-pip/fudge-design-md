@@ -1,26 +1,26 @@
 # How basement.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/basement.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/basement.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact form overlay styled as retro radio device with orange neon text on black screen, hands holding hardware interface](https://pin.fontofweb.com/5122?format=jpg)](https://design.withfudge.com/share/pin-5122)
+[![Contact form overlay styled as retro radio device with orange neon text on black screen, hands holding hardware interface](https://pin.fontofweb.com/5122?format=jpg)](https://fudge.design/share/pin-5122)
 
-[Contact form overlay styled as retro radio device with orange neon text on black screen, hands holding hardware interface](https://design.withfudge.com/share/pin-5122)
+[Contact form overlay styled as retro radio device with orange neon text on black screen, hands holding hardware interface](https://fudge.design/share/pin-5122)
 
-[![Massive BSMT.25 display type spanning viewport width above minimal footer with newsletter signup and navigation links](https://pin.fontofweb.com/5121?format=jpg)](https://design.withfudge.com/share/pin-5121)
+[![Massive BSMT.25 display type spanning viewport width above minimal footer with newsletter signup and navigation links](https://pin.fontofweb.com/5121?format=jpg)](https://fudge.design/share/pin-5121)
 
-[Massive BSMT.25 display type spanning viewport width above minimal footer with newsletter signup and navigation links](https://design.withfudge.com/share/pin-5121)
+[Massive BSMT.25 display type spanning viewport width above minimal footer with newsletter signup and navigation links](https://fudge.design/share/pin-5121)
 
-[![Capabilities section with large italic manifesto text and four-column service grid with pill tags on black background](https://pin.fontofweb.com/5120?format=jpg)](https://design.withfudge.com/share/pin-5120)
+[![Capabilities section with large italic manifesto text and four-column service grid with pill tags on black background](https://pin.fontofweb.com/5120?format=jpg)](https://fudge.design/share/pin-5120)
 
-[Capabilities section with large italic manifesto text and four-column service grid with pill tags on black background](https://design.withfudge.com/share/pin-5120)
+[Capabilities section with large italic manifesto text and four-column service grid with pill tags on black background](https://fudge.design/share/pin-5120)
 
-[![Hero section with architectural photography, studio tagline, and dense logo grid of client brands in bordered cells](https://pin.fontofweb.com/5119?format=jpg)](https://design.withfudge.com/share/pin-5119)
+[![Hero section with architectural photography, studio tagline, and dense logo grid of client brands in bordered cells](https://pin.fontofweb.com/5119?format=jpg)](https://fudge.design/share/pin-5119)
 
-[Hero section with architectural photography, studio tagline, and dense logo grid of client brands in bordered cells](https://design.withfudge.com/share/pin-5119)
+[Hero section with architectural photography, studio tagline, and dense logo grid of client brands in bordered cells](https://fudge.design/share/pin-5119)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Touch targets for navigation and the submit action should maintain minimum 44px 
 ## Scope note
 
 This guide covers the homepage surface including hero, capabilities, logo grid, footer, and the retro-styled contact overlay. Interior pages, mobile-specific layouts, motion behavior, hover states, and loading sequences are not represented in the supplied material. Measurements are practical adaptation targets derived from the visible desktop compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

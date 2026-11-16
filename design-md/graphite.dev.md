@@ -1,26 +1,26 @@
 # How graphite.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/graphite.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/graphite.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact page with dark gradient background, two-column layout containing a sales form with floating labels and a support information panel with monospace command references.](https://pin.fontofweb.com/1151?format=jpg)](https://design.withfudge.com/share/pin-1151)
+[![Contact page with dark gradient background, two-column layout containing a sales form with floating labels and a support information panel with monospace command references.](https://pin.fontofweb.com/1151?format=jpg)](https://fudge.design/share/pin-1151)
 
-[Contact page with dark gradient background, two-column layout containing a sales form with floating labels and a support information panel with monospace command references.](https://design.withfudge.com/share/pin-1151)
+[Contact page with dark gradient background, two-column layout containing a sales form with floating labels and a support information panel with monospace command references.](https://fudge.design/share/pin-1151)
 
-[![Features section showcasing the Graphite CLI with a terminal code preview, six feature cards in a grid, and a glowing primary action button with arrow icon.](https://pin.fontofweb.com/1150?format=jpg)](https://design.withfudge.com/share/pin-1150)
+[![Features section showcasing the Graphite CLI with a terminal code preview, six feature cards in a grid, and a glowing primary action button with arrow icon.](https://pin.fontofweb.com/1150?format=jpg)](https://fudge.design/share/pin-1150)
 
-[Features section showcasing the Graphite CLI with a terminal code preview, six feature cards in a grid, and a glowing primary action button with arrow icon.](https://design.withfudge.com/share/pin-1150)
+[Features section showcasing the Graphite CLI with a terminal code preview, six feature cards in a grid, and a glowing primary action button with arrow icon.](https://fudge.design/share/pin-1150)
 
-[![Graphite Merge Queue feature with a tilted product screenshot, three translucent glassmorphism benefit cards, and a centered pill-shaped CTA with cyan-purple glow.](https://pin.fontofweb.com/1149?format=jpg)](https://design.withfudge.com/share/pin-1149)
+[![Graphite Merge Queue feature with a tilted product screenshot, three translucent glassmorphism benefit cards, and a centered pill-shaped CTA with cyan-purple glow.](https://pin.fontofweb.com/1149?format=jpg)](https://fudge.design/share/pin-1149)
 
-[Graphite Merge Queue feature with a tilted product screenshot, three translucent glassmorphism benefit cards, and a centered pill-shaped CTA with cyan-purple glow.](https://design.withfudge.com/share/pin-1149)
+[Graphite Merge Queue feature with a tilted product screenshot, three translucent glassmorphism benefit cards, and a centered pill-shaped CTA with cyan-purple glow.](https://fudge.design/share/pin-1149)
 
-[![Graphite Insights section with a dark analytics dashboard mockup, three frosted overlay cards describing metrics capabilities, and a softly illuminated action button.](https://pin.fontofweb.com/1148?format=jpg)](https://design.withfudge.com/share/pin-1148)
+[![Graphite Insights section with a dark analytics dashboard mockup, three frosted overlay cards describing metrics capabilities, and a softly illuminated action button.](https://pin.fontofweb.com/1148?format=jpg)](https://fudge.design/share/pin-1148)
 
-[Graphite Insights section with a dark analytics dashboard mockup, three frosted overlay cards describing metrics capabilities, and a softly illuminated action button.](https://design.withfudge.com/share/pin-1148)
+[Graphite Insights section with a dark analytics dashboard mockup, three frosted overlay cards describing metrics capabilities, and a softly illuminated action button.](https://fudge.design/share/pin-1148)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The layout appears optimized for desktop presentation in the supplied images. Th
 ## Scope note
 
 This guide covers the homepage, features, and contact page surfaces visible in the supplied images. Pricing page structure, blog layouts, mobile breakpoints, animation behavior, hover states, and form validation styling are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How meta.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/meta.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/meta.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Four rounded media cards showing Quest 3 use cases with overlaid category labels and plus buttons on dark imagery](https://pin.fontofweb.com/4006?format=jpg)](https://design.withfudge.com/share/pin-4006)
+[![Four rounded media cards showing Quest 3 use cases with overlaid category labels and plus buttons on dark imagery](https://pin.fontofweb.com/4006?format=jpg)](https://fudge.design/share/pin-4006)
 
-[Four rounded media cards showing Quest 3 use cases with overlaid category labels and plus buttons on dark imagery](https://design.withfudge.com/share/pin-4006)
+[Four rounded media cards showing Quest 3 use cases with overlaid category labels and plus buttons on dark imagery](https://fudge.design/share/pin-4006)
 
-[![Account orders page with left sidebar navigation, Meta logo, and clean white content area with blue links](https://pin.fontofweb.com/4004?format=jpg)](https://design.withfudge.com/share/pin-4004)
+[![Account orders page with left sidebar navigation, Meta logo, and clean white content area with blue links](https://pin.fontofweb.com/4004?format=jpg)](https://fudge.design/share/pin-4004)
 
-[Account orders page with left sidebar navigation, Meta logo, and clean white content area with blue links](https://design.withfudge.com/share/pin-4004)
+[Account orders page with left sidebar navigation, Meta logo, and clean white content area with blue links](https://fudge.design/share/pin-4004)
 
-[![People section with large display heading, carousel navigation dots, and three article cards with rounded images](https://pin.fontofweb.com/2318?format=jpg)](https://design.withfudge.com/share/pin-2318)
+[![People section with large display heading, carousel navigation dots, and three article cards with rounded images](https://pin.fontofweb.com/2318?format=jpg)](https://fudge.design/share/pin-2318)
 
-[People section with large display heading, carousel navigation dots, and three article cards with rounded images](https://design.withfudge.com/share/pin-2318)
+[People section with large display heading, carousel navigation dots, and three article cards with rounded images](https://fudge.design/share/pin-2318)
 
-[![Company history timeline with centered heading, horizontal year axis with app icons, and dated milestone cards](https://pin.fontofweb.com/2317?format=jpg)](https://design.withfudge.com/share/pin-2317)
+[![Company history timeline with centered heading, horizontal year axis with app icons, and dated milestone cards](https://pin.fontofweb.com/2317?format=jpg)](https://fudge.design/share/pin-2317)
 
-[Company history timeline with centered heading, horizontal year axis with app icons, and dated milestone cards](https://design.withfudge.com/share/pin-2317)
+[Company history timeline with centered heading, horizontal year axis with app icons, and dated milestone cards](https://fudge.design/share/pin-2317)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Touch targets for interactive elements should maintain minimum 44px dimensions. 
 ## Scope note
 
 This guide covers the Meta Store product marketing pages and account management interface as visible in supplied imagery. Mobile layouts, checkout flows, search results, and interactive states including hover, focus, loading, and error conditions are not represented. Motion design, video treatment, and dark mode variants fall outside the current scope. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

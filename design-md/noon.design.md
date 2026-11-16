@@ -1,26 +1,26 @@
 # How noon.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/noon.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/noon.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered headline, orange accent words, and dotted grid background on near-black canvas](https://pin.fontofweb.com/8620?format=jpg)](https://design.withfudge.com/share/pin-8620)
+[![Hero section with centered headline, orange accent words, and dotted grid background on near-black canvas](https://pin.fontofweb.com/8620?format=jpg)](https://fudge.design/share/pin-8620)
 
-[Hero section with centered headline, orange accent words, and dotted grid background on near-black canvas](https://design.withfudge.com/share/pin-8620)
+[Hero section with centered headline, orange accent words, and dotted grid background on near-black canvas](https://fudge.design/share/pin-8620)
 
-[![Large split headline 'Let design build.' with body copy and floating UI component previews](https://pin.fontofweb.com/8619?format=jpg)](https://design.withfudge.com/share/pin-8619)
+[![Large split headline 'Let design build.' with body copy and floating UI component previews](https://pin.fontofweb.com/8619?format=jpg)](https://fudge.design/share/pin-8619)
 
-[Large split headline 'Let design build.' with body copy and floating UI component previews](https://design.withfudge.com/share/pin-8619)
+[Large split headline 'Let design build.' with body copy and floating UI component previews](https://fudge.design/share/pin-8619)
 
-[![Component showcase with headline block, scroll progress, theme toggle, and one-time password inputs](https://pin.fontofweb.com/8618?format=jpg)](https://design.withfudge.com/share/pin-8618)
+[![Component showcase with headline block, scroll progress, theme toggle, and one-time password inputs](https://pin.fontofweb.com/8618?format=jpg)](https://fudge.design/share/pin-8618)
 
-[Component showcase with headline block, scroll progress, theme toggle, and one-time password inputs](https://design.withfudge.com/share/pin-8618)
+[Component showcase with headline block, scroll progress, theme toggle, and one-time password inputs](https://fudge.design/share/pin-8618)
 
-[![Three staggered draggable text blocks with orange selection borders and dimensional labels](https://pin.fontofweb.com/8617?format=jpg)](https://design.withfudge.com/share/pin-8617)
+[![Three staggered draggable text blocks with orange selection borders and dimensional labels](https://pin.fontofweb.com/8617?format=jpg)](https://fudge.design/share/pin-8617)
 
-[Three staggered draggable text blocks with orange selection borders and dimensional labels](https://design.withfudge.com/share/pin-8617)
+[Three staggered draggable text blocks with orange selection borders and dimensional labels](https://fudge.design/share/pin-8617)
 
 ## Overview
 
@@ -189,3 +189,18 @@ The dot grid background should scale proportionally or fade at smaller sizes to 
 ## Scope note
 
 This guide covers the Noon landing page as a desktop marketing experience. Mobile layouts, component interaction states beyond selection, form validation, authentication flows, and the actual design tool interface are not represented in the supplied material. The floating UI components are demonstrative previews rather than functional inputs within this context. Times and Arial appear as detected system-level families but are not part of the intentional design typography.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

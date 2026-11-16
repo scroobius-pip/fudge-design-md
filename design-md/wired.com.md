@@ -1,18 +1,18 @@
 # How wired.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wired.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wired.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with WIRED logo, navigation bar, hero illustration of muscular figures with skyscraper, headline in condensed slab serif, author byline, and subscription prompt](https://pin.fontofweb.com/6786?format=jpg)](https://design.withfudge.com/share/pin-6786)
+[![Article page with WIRED logo, navigation bar, hero illustration of muscular figures with skyscraper, headline in condensed slab serif, author byline, and subscription prompt](https://pin.fontofweb.com/6786?format=jpg)](https://fudge.design/share/pin-6786)
 
-[Article page with WIRED logo, navigation bar, hero illustration of muscular figures with skyscraper, headline in condensed slab serif, author byline, and subscription prompt](https://design.withfudge.com/share/pin-6786)
+[Article page with WIRED logo, navigation bar, hero illustration of muscular figures with skyscraper, headline in condensed slab serif, author byline, and subscription prompt](https://fudge.design/share/pin-6786)
 
-[![Full-bleed hero illustration showing muscular torsos against blue sky with glass skyscraper, demonstrating the bold editorial photography treatment](https://pin.fontofweb.com/6785?format=jpg)](https://design.withfudge.com/share/pin-6785)
+[![Full-bleed hero illustration showing muscular torsos against blue sky with glass skyscraper, demonstrating the bold editorial photography treatment](https://pin.fontofweb.com/6785?format=jpg)](https://fudge.design/share/pin-6785)
 
-[Full-bleed hero illustration showing muscular torsos against blue sky with glass skyscraper, demonstrating the bold editorial photography treatment](https://design.withfudge.com/share/pin-6785)
+[Full-bleed hero illustration showing muscular torsos against blue sky with glass skyscraper, demonstrating the bold editorial photography treatment](https://fudge.design/share/pin-6785)
 
 ## Overview
 
@@ -149,3 +149,18 @@ Body text at 1.1875rem remains comfortable for mobile reading without adjustment
 ## Scope note
 
 This guide covers the article page template visible in the supplied images, including navigation, hero imagery, headline treatment, metadata, audio integration, subscription prompts, and body content opening. Footer components, article body continuation, related content modules, comment systems, and mobile-specific layouts are not represented. Interactive states including hover, active, focus, and loading are not visible in the still images. Measurements reflect the desktop viewport shown.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Image background](/share/designs-with-visual.background.image)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

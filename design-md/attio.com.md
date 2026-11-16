@@ -1,26 +1,26 @@
 # How attio.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/attio.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/attio.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blue CTA banner with geometric wireframe shapes above a dark footer containing categorized navigation links and social icons.](https://pin.fontofweb.com/5045?format=jpg)](https://design.withfudge.com/share/pin-5045)
+[![Blue CTA banner with geometric wireframe shapes above a dark footer containing categorized navigation links and social icons.](https://pin.fontofweb.com/5045?format=jpg)](https://fudge.design/share/pin-5045)
 
-[Blue CTA banner with geometric wireframe shapes above a dark footer containing categorized navigation links and social icons.](https://design.withfudge.com/share/pin-5045)
+[Blue CTA banner with geometric wireframe shapes above a dark footer containing categorized navigation links and social icons.](https://fudge.design/share/pin-5045)
 
-[![FAQ accordion section with large serif heading, collapsed items with plus icons, and an expanded answer with detailed plan descriptions.](https://pin.fontofweb.com/5044?format=jpg)](https://design.withfudge.com/share/pin-5044)
+[![FAQ accordion section with large serif heading, collapsed items with plus icons, and an expanded answer with detailed plan descriptions.](https://pin.fontofweb.com/5044?format=jpg)](https://fudge.design/share/pin-5044)
 
-[FAQ accordion section with large serif heading, collapsed items with plus icons, and an expanded answer with detailed plan descriptions.](https://design.withfudge.com/share/pin-5044)
+[FAQ accordion section with large serif heading, collapsed items with plus icons, and an expanded answer with detailed plan descriptions.](https://fudge.design/share/pin-5044)
 
-[![Social proof masonry grid displaying tweet-style testimonials with profile avatars, usernames, timestamps, and highlighted @attio mentions.](https://pin.fontofweb.com/5043?format=jpg)](https://design.withfudge.com/share/pin-5043)
+[![Social proof masonry grid displaying tweet-style testimonials with profile avatars, usernames, timestamps, and highlighted @attio mentions.](https://pin.fontofweb.com/5043?format=jpg)](https://fudge.design/share/pin-5043)
 
-[Social proof masonry grid displaying tweet-style testimonials with profile avatars, usernames, timestamps, and highlighted @attio mentions.](https://design.withfudge.com/share/pin-5043)
+[Social proof masonry grid displaying tweet-style testimonials with profile avatars, usernames, timestamps, and highlighted @attio mentions.](https://fudge.design/share/pin-5043)
 
-[![Four-column pricing table with tier cards showing prices, feature checklists, and primary and secondary action buttons with a monthly/annual toggle.](https://pin.fontofweb.com/5042?format=jpg)](https://design.withfudge.com/share/pin-5042)
+[![Four-column pricing table with tier cards showing prices, feature checklists, and primary and secondary action buttons with a monthly/annual toggle.](https://pin.fontofweb.com/5042?format=jpg)](https://fudge.design/share/pin-5042)
 
-[Four-column pricing table with tier cards showing prices, feature checklists, and primary and secondary action buttons with a monthly/annual toggle.](https://design.withfudge.com/share/pin-5042)
+[Four-column pricing table with tier cards showing prices, feature checklists, and primary and secondary action buttons with a monthly/annual toggle.](https://fudge.design/share/pin-5042)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Navigation should collapse to a hamburger menu or simplified icon set, with foot
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage hero and social proof sections, pricing page with tier comparison and FAQ accordion, and the shared footer with navigation links. The Attio application interface, mobile-specific layouts, animation behaviors, form validation states, and dark mode variants are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection of the supplied screenshots.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

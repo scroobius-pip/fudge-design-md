@@ -1,18 +1,18 @@
 # How dmitrybrant.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dmitrybrant.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/dmitrybrant.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full blog layout with left sidebar navigation, author header, serif body text, and centered tape cartridge photograph in article content area](https://pin.fontofweb.com/1475?format=jpg)](https://design.withfudge.com/share/pin-1475)
+[![Full blog layout with left sidebar navigation, author header, serif body text, and centered tape cartridge photograph in article content area](https://pin.fontofweb.com/1475?format=jpg)](https://fudge.design/share/pin-1475)
 
-[Full blog layout with left sidebar navigation, author header, serif body text, and centered tape cartridge photograph in article content area](https://design.withfudge.com/share/pin-1475)
+[Full blog layout with left sidebar navigation, author header, serif body text, and centered tape cartridge photograph in article content area](https://fudge.design/share/pin-1475)
 
-[![Close-up of article header in typewriter-style font with serif body paragraph and centered QIC-80 tape cartridge image on white background](https://pin.fontofweb.com/1474?format=jpg)](https://design.withfudge.com/share/pin-1474)
+[![Close-up of article header in typewriter-style font with serif body paragraph and centered QIC-80 tape cartridge image on white background](https://pin.fontofweb.com/1474?format=jpg)](https://fudge.design/share/pin-1474)
 
-[Close-up of article header in typewriter-style font with serif body paragraph and centered QIC-80 tape cartridge image on white background](https://design.withfudge.com/share/pin-1474)
+[Close-up of article header in typewriter-style font with serif body paragraph and centered QIC-80 tape cartridge image on white background](https://fudge.design/share/pin-1474)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Image handling should preserve centered presentation and natural aspect ratio ac
 ## Scope note
 
 This guide covers the blog article and sidebar layout visible on the supplied page. Measurements are practical adaptation targets. The search functionality, archive pages, comment system, and any dark mode variant are not represented in the available material. Mobile breakpoint behavior and interactive states such as hover, focus, and active are inferred from the still view and should be verified in implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

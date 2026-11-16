@@ -1,26 +1,26 @@
 # How firsty.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firsty.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/firsty.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with teal card showing phone mockup and 'STAYING ONLINE, MADE EASY' headline with numbered step indicator](https://pin.fontofweb.com/4525?format=jpg)](https://design.withfudge.com/share/pin-4525)
+[![Hero section with teal card showing phone mockup and 'STAYING ONLINE, MADE EASY' headline with numbered step indicator](https://pin.fontofweb.com/4525?format=jpg)](https://fudge.design/share/pin-4525)
 
-[Hero section with teal card showing phone mockup and 'STAYING ONLINE, MADE EASY' headline with numbered step indicator](https://design.withfudge.com/share/pin-4525)
+[Hero section with teal card showing phone mockup and 'STAYING ONLINE, MADE EASY' headline with numbered step indicator](https://fudge.design/share/pin-4525)
 
-[![Footer with lime-green globe icon, dark pill logo, multi-column link grid, social icons, and QR code with lime border](https://pin.fontofweb.com/4505?format=jpg)](https://design.withfudge.com/share/pin-4505)
+[![Footer with lime-green globe icon, dark pill logo, multi-column link grid, social icons, and QR code with lime border](https://pin.fontofweb.com/4505?format=jpg)](https://fudge.design/share/pin-4505)
 
-[Footer with lime-green globe icon, dark pill logo, multi-column link grid, social icons, and QR code with lime border](https://design.withfudge.com/share/pin-4505)
+[Footer with lime-green globe icon, dark pill logo, multi-column link grid, social icons, and QR code with lime border](https://fudge.design/share/pin-4505)
 
-[![Stacked feature cards in teal, lime, dark purple, and magenta with phone mockups showing app interface tiers](https://pin.fontofweb.com/4504?format=jpg)](https://design.withfudge.com/share/pin-4504)
+[![Stacked feature cards in teal, lime, dark purple, and magenta with phone mockups showing app interface tiers](https://pin.fontofweb.com/4504?format=jpg)](https://fudge.design/share/pin-4504)
 
-[Stacked feature cards in teal, lime, dark purple, and magenta with phone mockups showing app interface tiers](https://design.withfudge.com/share/pin-4504)
+[Stacked feature cards in teal, lime, dark purple, and magenta with phone mockups showing app interface tiers](https://fudge.design/share/pin-4504)
 
-[![Testimonial carousel with star ratings, user names, dates, and review cards on light gray rounded panels](https://pin.fontofweb.com/4503?format=jpg)](https://design.withfudge.com/share/pin-4503)
+[![Testimonial carousel with star ratings, user names, dates, and review cards on light gray rounded panels](https://pin.fontofweb.com/4503?format=jpg)](https://fudge.design/share/pin-4503)
 
-[Testimonial carousel with star ratings, user names, dates, and review cards on light gray rounded panels](https://design.withfudge.com/share/pin-4503)
+[Testimonial carousel with star ratings, user names, dates, and review cards on light gray rounded panels](https://fudge.design/share/pin-4503)
 
 ## Overview
 
@@ -184,3 +184,18 @@ The stacked card effect with overlapping edges will likely flatten to simple ver
 ## Scope note
 
 This guide covers the marketing homepage visible in the supplied images, including the hero feature cards, testimonial section, and footer. Navigation header, pricing tables, checkout flows, and in-app interfaces beyond the mockups shown are not represented. Motion behavior, hover states, and mobile-specific layouts were not captured and should be designed as needed. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

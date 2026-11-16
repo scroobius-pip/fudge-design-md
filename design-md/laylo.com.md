@@ -1,26 +1,26 @@
 # How laylo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/laylo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/laylo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Settings page showing account login, phone number, custom policies, and Laylo affiliates sections with sidebar navigation and chat widget.](https://pin.fontofweb.com/10031?format=jpg)](https://design.withfudge.com/share/pin-10031)
+[![Settings page showing account login, phone number, custom policies, and Laylo affiliates sections with sidebar navigation and chat widget.](https://pin.fontofweb.com/10031?format=jpg)](https://fudge.design/share/pin-10031)
 
-[Settings page showing account login, phone number, custom policies, and Laylo affiliates sections with sidebar navigation and chat widget.](https://design.withfudge.com/share/pin-10031)
+[Settings page showing account login, phone number, custom policies, and Laylo affiliates sections with sidebar navigation and chat widget.](https://fudge.design/share/pin-10031)
 
-[![Agents page displaying inactive agent cards for abandoned cart, ticket sales, and UGC with integration options and recent activity panel.](https://pin.fontofweb.com/10030?format=jpg)](https://design.withfudge.com/share/pin-10030)
+[![Agents page displaying inactive agent cards for abandoned cart, ticket sales, and UGC with integration options and recent activity panel.](https://pin.fontofweb.com/10030?format=jpg)](https://fudge.design/share/pin-10030)
 
-[Agents page displaying inactive agent cards for abandoned cart, ticket sales, and UGC with integration options and recent activity panel.](https://design.withfudge.com/share/pin-10030)
+[Agents page displaying inactive agent cards for abandoned cart, ticket sales, and UGC with integration options and recent activity panel.](https://fudge.design/share/pin-10030)
 
-[![Messages composer interface with fan messaging form, phone number notice, email settings, scheduled messages, and mobile preview.](https://pin.fontofweb.com/10029?format=jpg)](https://design.withfudge.com/share/pin-10029)
+[![Messages composer interface with fan messaging form, phone number notice, email settings, scheduled messages, and mobile preview.](https://pin.fontofweb.com/10029?format=jpg)](https://fudge.design/share/pin-10029)
 
-[Messages composer interface with fan messaging form, phone number notice, email settings, scheduled messages, and mobile preview.](https://design.withfudge.com/share/pin-10029)
+[Messages composer interface with fan messaging form, phone number notice, email settings, scheduled messages, and mobile preview.](https://fudge.design/share/pin-10029)
 
-[![Profile customization page with details section, style options including color picker, font selector, gradient themes, and fan-facing preview.](https://pin.fontofweb.com/10028?format=jpg)](https://design.withfudge.com/share/pin-10028)
+[![Profile customization page with details section, style options including color picker, font selector, gradient themes, and fan-facing preview.](https://pin.fontofweb.com/10028?format=jpg)](https://fudge.design/share/pin-10028)
 
-[Profile customization page with details section, style options including color picker, font selector, gradient themes, and fan-facing preview.](https://design.withfudge.com/share/pin-10028)
+[Profile customization page with details section, style options including color picker, font selector, gradient themes, and fan-facing preview.](https://fudge.design/share/pin-10028)
 
 ## Overview
 
@@ -224,3 +224,18 @@ Font sizes should maintain their rem-based scale across viewport sizes, ensuring
 ## Scope note
 
 This guide covers the creator dashboard interface for Settings, Agents, Messages, and Profile pages, plus visible marketing page elements. Onboarding flows, pricing page details, and dark-mode marketing site specifics are partially represented. Mobile layouts, animation specifications, and error state variations are not included. The complete type inventory includes Bricolage Grotesque, Inter, Inter-600, Inter-800, Inter-900, Marcellus, Museo Moderno, Stardos Stencil, Oldenburg, Shrikhand, Bad Script, Junge, Quantico, Applesystem, Interf 367 F 3, System-Sansserif, and System-Systemui. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

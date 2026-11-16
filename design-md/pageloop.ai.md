@@ -1,26 +1,26 @@
 # How pageloop.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pageloop.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/pageloop.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog landing page with serif hero title, featured article card with Impressionist painting, and three-column article grid with soft gray borders](https://pin.fontofweb.com/7083?format=jpg)](https://design.withfudge.com/share/pin-7083)
+[![Blog landing page with serif hero title, featured article card with Impressionist painting, and three-column article grid with soft gray borders](https://pin.fontofweb.com/7083?format=jpg)](https://fudge.design/share/pin-7083)
 
-[Blog landing page with serif hero title, featured article card with Impressionist painting, and three-column article grid with soft gray borders](https://design.withfudge.com/share/pin-7083)
+[Blog landing page with serif hero title, featured article card with Impressionist painting, and three-column article grid with soft gray borders](https://fudge.design/share/pin-7083)
 
-[![Product UI screenshot showing update checklist panel above centered serif headline with italic emphasis and dark CTA button on near-white gradient background](https://pin.fontofweb.com/7082?format=jpg)](https://design.withfudge.com/share/pin-7082)
+[![Product UI screenshot showing update checklist panel above centered serif headline with italic emphasis and dark CTA button on near-white gradient background](https://pin.fontofweb.com/7082?format=jpg)](https://fudge.design/share/pin-7082)
 
-[Product UI screenshot showing update checklist panel above centered serif headline with italic emphasis and dark CTA button on near-white gradient background](https://design.withfudge.com/share/pin-7082)
+[Product UI screenshot showing update checklist panel above centered serif headline with italic emphasis and dark CTA button on near-white gradient background](https://fudge.design/share/pin-7082)
 
-[![Feature section with left-aligned Inter headings, right-floating browser mockup with blue tint, and pill-shaped action buttons with star and close icons](https://pin.fontofweb.com/7081?format=jpg)](https://design.withfudge.com/share/pin-7081)
+[![Feature section with left-aligned Inter headings, right-floating browser mockup with blue tint, and pill-shaped action buttons with star and close icons](https://pin.fontofweb.com/7081?format=jpg)](https://fudge.design/share/pin-7081)
 
-[Feature section with left-aligned Inter headings, right-floating browser mockup with blue tint, and pill-shaped action buttons with star and close icons](https://design.withfudge.com/share/pin-7081)
+[Feature section with left-aligned Inter headings, right-floating browser mockup with blue tint, and pill-shaped action buttons with star and close icons](https://fudge.design/share/pin-7081)
 
-[![Minimal testimonial quote centered in light blue radial gradient with company logo and role attribution below](https://pin.fontofweb.com/7080?format=jpg)](https://design.withfudge.com/share/pin-7080)
+[![Minimal testimonial quote centered in light blue radial gradient with company logo and role attribution below](https://pin.fontofweb.com/7080?format=jpg)](https://fudge.design/share/pin-7080)
 
-[Minimal testimonial quote centered in light blue radial gradient with company logo and role attribution below](https://design.withfudge.com/share/pin-7080)
+[Minimal testimonial quote centered in light blue radial gradient with company logo and role attribution below](https://fudge.design/share/pin-7080)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The generous whitespace and centered compositions provide natural flexibility; t
 ## Scope note
 
 This guide covers the Pageloop marketing site homepage and blog landing page as captured. Pricing pages, documentation, authenticated application interfaces, and mobile breakpoints are not represented. Motion, hover states, form validation, and loading patterns are not visible in the supplied surfaces. Measurements derive from the exact values provided in the design facts.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How soundcloud.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/soundcloud.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/soundcloud.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Track player page showing waveform visualization with orange progress bar, track artwork, and engagement metrics below a dark header with play controls.](https://pin.fontofweb.com/8707?format=jpg)](https://design.withfudge.com/share/pin-8707)
+[![Track player page showing waveform visualization with orange progress bar, track artwork, and engagement metrics below a dark header with play controls.](https://pin.fontofweb.com/8707?format=jpg)](https://fudge.design/share/pin-8707)
 
-[Track player page showing waveform visualization with orange progress bar, track artwork, and engagement metrics below a dark header with play controls.](https://design.withfudge.com/share/pin-8707)
+[Track player page showing waveform visualization with orange progress bar, track artwork, and engagement metrics below a dark header with play controls.](https://fudge.design/share/pin-8707)
 
-[![Account creation footer section with centered headline, white button on dark background, and dense legal link row.](https://pin.fontofweb.com/5215?format=jpg)](https://design.withfudge.com/share/pin-5215)
+[![Account creation footer section with centered headline, white button on dark background, and dense legal link row.](https://pin.fontofweb.com/5215?format=jpg)](https://fudge.design/share/pin-5215)
 
-[Account creation footer section with centered headline, white button on dark background, and dense legal link row.](https://design.withfudge.com/share/pin-5215)
+[Account creation footer section with centered headline, white button on dark background, and dense legal link row.](https://fudge.design/share/pin-5215)
 
-[![Marketing page split into light app showcase section and dark creator call-to-action with colorful editorial imagery.](https://pin.fontofweb.com/5214?format=jpg)](https://design.withfudge.com/share/pin-5214)
+[![Marketing page split into light app showcase section and dark creator call-to-action with colorful editorial imagery.](https://pin.fontofweb.com/5214?format=jpg)](https://fudge.design/share/pin-5214)
 
-[Marketing page split into light app showcase section and dark creator call-to-action with colorful editorial imagery.](https://design.withfudge.com/share/pin-5214)
+[Marketing page split into light app showcase section and dark creator call-to-action with colorful editorial imagery.](https://fudge.design/share/pin-5214)
 
-[![Hero banner with full-bleed artist photography, large white headline overlay, and pill-shaped navigation buttons in the corner.](https://pin.fontofweb.com/5213?format=jpg)](https://design.withfudge.com/share/pin-5213)
+[![Hero banner with full-bleed artist photography, large white headline overlay, and pill-shaped navigation buttons in the corner.](https://pin.fontofweb.com/5213?format=jpg)](https://fudge.design/share/pin-5213)
 
-[Hero banner with full-bleed artist photography, large white headline overlay, and pill-shaped navigation buttons in the corner.](https://design.withfudge.com/share/pin-5213)
+[Hero banner with full-bleed artist photography, large white headline overlay, and pill-shaped navigation buttons in the corner.](https://fudge.design/share/pin-5213)
 
 ## Overview
 
@@ -191,3 +191,18 @@ The design system prioritizes desktop experience in the supplied images, with cl
 ## Scope note
 
 This guide covers the public-facing track player, marketing pages, and account creation flows visible in the supplied images. Mobile layouts, upload workflows, artist dashboards, notification systems, and audio visualization alternatives are not represented. The design facts identify Söhne-Buch, Söhne-Halbfett, and Söhne-Dreiviertelfett as deployed weights; verify licensing for these families before production use. Measurements are exact where extracted from the interface; inferred values follow the 2px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

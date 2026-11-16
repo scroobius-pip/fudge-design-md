@@ -1,26 +1,26 @@
 # How athas.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/athas.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/athas.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Roadmap page with two-column card grid showing feature status badges in blue and green against dark charcoal cards on near-black background](https://pin.fontofweb.com/5503?format=jpg)](https://design.withfudge.com/share/pin-5503)
+[![Roadmap page with two-column card grid showing feature status badges in blue and green against dark charcoal cards on near-black background](https://pin.fontofweb.com/5503?format=jpg)](https://fudge.design/share/pin-5503)
 
-[Roadmap page with two-column card grid showing feature status badges in blue and green against dark charcoal cards on near-black background](https://design.withfudge.com/share/pin-5503)
+[Roadmap page with two-column card grid showing feature status badges in blue and green against dark charcoal cards on near-black background](https://fudge.design/share/pin-5503)
 
-[![FAQ section with stacked accordion cards using serif headings and sans-serif body text on dark theme with subtle borders](https://pin.fontofweb.com/5502?format=jpg)](https://design.withfudge.com/share/pin-5502)
+[![FAQ section with stacked accordion cards using serif headings and sans-serif body text on dark theme with subtle borders](https://pin.fontofweb.com/5502?format=jpg)](https://fudge.design/share/pin-5502)
 
-[FAQ section with stacked accordion cards using serif headings and sans-serif body text on dark theme with subtle borders](https://design.withfudge.com/share/pin-5502)
+[FAQ section with stacked accordion cards using serif headings and sans-serif body text on dark theme with subtle borders](https://fudge.design/share/pin-5502)
 
-[![Download call-to-action panel with blue primary button and outlined secondary button on elevated dark surface](https://pin.fontofweb.com/5501?format=jpg)](https://design.withfudge.com/share/pin-5501)
+[![Download call-to-action panel with blue primary button and outlined secondary button on elevated dark surface](https://pin.fontofweb.com/5501?format=jpg)](https://fudge.design/share/pin-5501)
 
-[Download call-to-action panel with blue primary button and outlined secondary button on elevated dark surface](https://design.withfudge.com/share/pin-5501)
+[Download call-to-action panel with blue primary button and outlined secondary button on elevated dark surface](https://fudge.design/share/pin-5501)
 
-[![Sponsor section with gradient blue-to-dark card, heart icon, and blue sponsor button with dark background](https://pin.fontofweb.com/5500?format=jpg)](https://design.withfudge.com/share/pin-5500)
+[![Sponsor section with gradient blue-to-dark card, heart icon, and blue sponsor button with dark background](https://pin.fontofweb.com/5500?format=jpg)](https://fudge.design/share/pin-5500)
 
-[Sponsor section with gradient blue-to-dark card, heart icon, and blue sponsor button with dark background](https://design.withfudge.com/share/pin-5500)
+[Sponsor section with gradient blue-to-dark card, heart icon, and blue sponsor button with dark background](https://fudge.design/share/pin-5500)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The gradient sponsor card and download panel should remain full-width with maint
 ## Scope note
 
 This guide covers the marketing and product pages visible in the supplied images, including the homepage, FAQ, roadmap, and sponsor sections. Measurements are practical adaptation targets. Mobile breakpoints, form validation states, loading skeletons, and code editor interface chrome are not represented. Verify licensing for Copse, Space Grotesk, and Remixicon before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

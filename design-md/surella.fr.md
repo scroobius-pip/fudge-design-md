@@ -1,26 +1,26 @@
 # How surella.fr is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/surella.fr-design)
+[Open the live Fudge conversation](https://fudge.design/share/surella.fr-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with oversized 'SURELLA' wordmark in cream on vivid orange-red, circular line-art portraits, and legal links with wavy underlines](https://pin.fontofweb.com/3726?format=jpg)](https://design.withfudge.com/share/pin-3726)
+[![Footer section with oversized 'SURELLA' wordmark in cream on vivid orange-red, circular line-art portraits, and legal links with wavy underlines](https://pin.fontofweb.com/3726?format=jpg)](https://fudge.design/share/pin-3726)
 
-[Footer section with oversized 'SURELLA' wordmark in cream on vivid orange-red, circular line-art portraits, and legal links with wavy underlines](https://design.withfudge.com/share/pin-3726)
+[Footer section with oversized 'SURELLA' wordmark in cream on vivid orange-red, circular line-art portraits, and legal links with wavy underlines](https://fudge.design/share/pin-3726)
 
-[![Minimal cream canvas with bold black ink illustration of two hands clinking wine glasses, orange-red top border, and floating circular review button](https://pin.fontofweb.com/3725?format=jpg)](https://design.withfudge.com/share/pin-3725)
+[![Minimal cream canvas with bold black ink illustration of two hands clinking wine glasses, orange-red top border, and floating circular review button](https://pin.fontofweb.com/3725?format=jpg)](https://fudge.design/share/pin-3725)
 
-[Minimal cream canvas with bold black ink illustration of two hands clinking wine glasses, orange-red top border, and floating circular review button](https://design.withfudge.com/share/pin-3725)
+[Minimal cream canvas with bold black ink illustration of two hands clinking wine glasses, orange-red top border, and floating circular review button](https://fudge.design/share/pin-3725)
 
-[![Contact reservation section with stacked white display type 'UNE RÉSA ? UNE QUESTION ?' on orange-red, minimal form fields, and cream circular send button](https://pin.fontofweb.com/3724?format=jpg)](https://design.withfudge.com/share/pin-3724)
+[![Contact reservation section with stacked white display type 'UNE RÉSA ? UNE QUESTION ?' on orange-red, minimal form fields, and cream circular send button](https://pin.fontofweb.com/3724?format=jpg)](https://fudge.design/share/pin-3724)
 
-[Contact reservation section with stacked white display type 'UNE RÉSA ? UNE QUESTION ?' on orange-red, minimal form fields, and cream circular send button](https://design.withfudge.com/share/pin-3724)
+[Contact reservation section with stacked white display type 'UNE RÉSA ? UNE QUESTION ?' on orange-red, minimal form fields, and cream circular send button](https://fudge.design/share/pin-3724)
 
-[![About section with interior photograph of wooden bar and 'CAISSE' sign, paired with orange-red body text and signature 'Lisa et Lucie' on cream background](https://pin.fontofweb.com/3723?format=jpg)](https://design.withfudge.com/share/pin-3723)
+[![About section with interior photograph of wooden bar and 'CAISSE' sign, paired with orange-red body text and signature 'Lisa et Lucie' on cream background](https://pin.fontofweb.com/3723?format=jpg)](https://fudge.design/share/pin-3723)
 
-[About section with interior photograph of wooden bar and 'CAISSE' sign, paired with orange-red body text and signature 'Lisa et Lucie' on cream background](https://design.withfudge.com/share/pin-3723)
+[About section with interior photograph of wooden bar and 'CAISSE' sign, paired with orange-red body text and signature 'Lisa et Lucie' on cream background](https://fudge.design/share/pin-3723)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Form fields in the contact section should expand to full width on narrow viewpor
 ## Scope note
 
 This guide covers the visible landing and contact page surfaces of surella.fr, including the footer, about narrative, reservation form, and persistent review action. Interior pages, menu presentations, mobile-specific layouts, hover and focus states, and loading behavior are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

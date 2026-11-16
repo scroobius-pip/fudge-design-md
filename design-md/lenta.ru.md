@@ -1,26 +1,26 @@
 # How lenta.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lenta.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/lenta.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with large Lato Black headline, author byline with avatar, body text in serif, and inline image with caption credit line](https://pin.fontofweb.com/9088?format=jpg)](https://design.withfudge.com/share/pin-9088)
+[![Article page with large Lato Black headline, author byline with avatar, body text in serif, and inline image with caption credit line](https://pin.fontofweb.com/9088?format=jpg)](https://fudge.design/share/pin-9088)
 
-[Article page with large Lato Black headline, author byline with avatar, body text in serif, and inline image with caption credit line](https://design.withfudge.com/share/pin-9088)
+[Article page with large Lato Black headline, author byline with avatar, body text in serif, and inline image with caption credit line](https://fudge.design/share/pin-9088)
 
-[![Weather article showing section label, editor credit, body paragraphs with embedded photo of pedestrians in snow, and minimal sidebar](https://pin.fontofweb.com/9087?format=jpg)](https://design.withfudge.com/share/pin-9087)
+[![Weather article showing section label, editor credit, body paragraphs with embedded photo of pedestrians in snow, and minimal sidebar](https://pin.fontofweb.com/9087?format=jpg)](https://fudge.design/share/pin-9087)
 
-[Weather article showing section label, editor credit, body paragraphs with embedded photo of pedestrians in snow, and minimal sidebar](https://design.withfudge.com/share/pin-9087)
+[Weather article showing section label, editor credit, body paragraphs with embedded photo of pedestrians in snow, and minimal sidebar](https://fudge.design/share/pin-9087)
 
-[![Long-form weather report with multi-line headline, pull quote with red quotation marks, and centered attribution to Hydrometeorological Center](https://pin.fontofweb.com/9078?format=jpg)](https://design.withfudge.com/share/pin-9078)
+[![Long-form weather report with multi-line headline, pull quote with red quotation marks, and centered attribution to Hydrometeorological Center](https://pin.fontofweb.com/9078?format=jpg)](https://fudge.design/share/pin-9078)
 
-[Long-form weather report with multi-line headline, pull quote with red quotation marks, and centered attribution to Hydrometeorological Center](https://design.withfudge.com/share/pin-9078)
+[Long-form weather report with multi-line headline, pull quote with red quotation marks, and centered attribution to Hydrometeorological Center](https://fudge.design/share/pin-9078)
 
-[![Sports article with reaction widget showing emoji counters, inline source link in red, and football player photograph with agency credit](https://pin.fontofweb.com/9077?format=jpg)](https://design.withfudge.com/share/pin-9077)
+[![Sports article with reaction widget showing emoji counters, inline source link in red, and football player photograph with agency credit](https://pin.fontofweb.com/9077?format=jpg)](https://fudge.design/share/pin-9077)
 
-[Sports article with reaction widget showing emoji counters, inline source link in red, and football player photograph with agency credit](https://design.withfudge.com/share/pin-9077)
+[Sports article with reaction widget showing emoji counters, inline source link in red, and football player photograph with agency credit](https://fudge.design/share/pin-9077)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The generous paragraph spacing of 1.25rem supports readability across viewport s
 ## Scope note
 
 This guide covers the article page surface visible in the supplied material: headline, byline, body text, inline images, pull quotes, and reaction widgets. Navigation headers, footers, homepage layouts, search interfaces, and mobile-specific adaptations are not represented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

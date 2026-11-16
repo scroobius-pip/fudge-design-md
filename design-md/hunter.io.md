@@ -1,26 +1,26 @@
 # How hunter.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hunter.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/hunter.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with left-aligned heading and right-aligned expandable question list on light gray background](https://pin.fontofweb.com/2902?format=jpg)](https://design.withfudge.com/share/pin-2902)
+[![FAQ accordion section with left-aligned heading and right-aligned expandable question list on light gray background](https://pin.fontofweb.com/2902?format=jpg)](https://fudge.design/share/pin-2902)
 
-[FAQ accordion section with left-aligned heading and right-aligned expandable question list on light gray background](https://design.withfudge.com/share/pin-2902)
+[FAQ accordion section with left-aligned heading and right-aligned expandable question list on light gray background](https://fudge.design/share/pin-2902)
 
-[![Three-column feature grid with teal icons, orange accent links, and outbound platform headline](https://pin.fontofweb.com/2901?format=jpg)](https://design.withfudge.com/share/pin-2901)
+[![Three-column feature grid with teal icons, orange accent links, and outbound platform headline](https://pin.fontofweb.com/2901?format=jpg)](https://fudge.design/share/pin-2901)
 
-[Three-column feature grid with teal icons, orange accent links, and outbound platform headline](https://design.withfudge.com/share/pin-2901)
+[Three-column feature grid with teal icons, orange accent links, and outbound platform headline](https://fudge.design/share/pin-2901)
 
-[![Hero section with orange headline accent, dark pill-shaped tags, and prominent orange CTA button](https://pin.fontofweb.com/2900?format=jpg)](https://design.withfudge.com/share/pin-2900)
+[![Hero section with orange headline accent, dark pill-shaped tags, and prominent orange CTA button](https://pin.fontofweb.com/2900?format=jpg)](https://fudge.design/share/pin-2900)
 
-[Hero section with orange headline accent, dark pill-shaped tags, and prominent orange CTA button](https://design.withfudge.com/share/pin-2900)
+[Hero section with orange headline accent, dark pill-shaped tags, and prominent orange CTA button](https://fudge.design/share/pin-2900)
 
-[![Feature showcase with email editor mockup, six icon-labeled capabilities, and orange primary action button](https://pin.fontofweb.com/2899?format=jpg)](https://design.withfudge.com/share/pin-2899)
+[![Feature showcase with email editor mockup, six icon-labeled capabilities, and orange primary action button](https://pin.fontofweb.com/2899?format=jpg)](https://fudge.design/share/pin-2899)
 
-[Feature showcase with email editor mockup, six icon-labeled capabilities, and orange primary action button](https://design.withfudge.com/share/pin-2899)
+[Feature showcase with email editor mockup, six icon-labeled capabilities, and orange primary action button](https://fudge.design/share/pin-2899)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The pill tag arrays in comparison sections should wrap naturally, maintaining ho
 ## Scope note
 
 This guide covers the marketing and feature pages of Hunter.io, including the AI Writing Assistant landing page and pricing surfaces. Mobile breakpoints, animation behavior, form validation states, and the authenticated application interface are not represented in the supplied materials. Measurements are practical adaptation targets derived from visible desktop compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How friend.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/friend.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/friend.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ section with accordion list beneath a large video hero showing the word 'friend' overlaid on lush green foliage](https://pin.fontofweb.com/5604?format=jpg)](https://design.withfudge.com/share/pin-5604)
+[![FAQ section with accordion list beneath a large video hero showing the word 'friend' overlaid on lush green foliage](https://pin.fontofweb.com/5604?format=jpg)](https://fudge.design/share/pin-5604)
 
-[FAQ section with accordion list beneath a large video hero showing the word 'friend' overlaid on lush green foliage](https://design.withfudge.com/share/pin-5604)
+[FAQ section with accordion list beneath a large video hero showing the word 'friend' overlaid on lush green foliage](https://fudge.design/share/pin-5604)
 
-[![Product hero with serif 'friend' wordmark, iPhone mockup showing app interface, and black pill-shaped order button on white background](https://pin.fontofweb.com/5603?format=jpg)](https://design.withfudge.com/share/pin-5603)
+[![Product hero with serif 'friend' wordmark, iPhone mockup showing app interface, and black pill-shaped order button on white background](https://pin.fontofweb.com/5603?format=jpg)](https://fudge.design/share/pin-5603)
 
-[Product hero with serif 'friend' wordmark, iPhone mockup showing app interface, and black pill-shaped order button on white background](https://design.withfudge.com/share/pin-5603)
+[Product hero with serif 'friend' wordmark, iPhone mockup showing app interface, and black pill-shaped order button on white background](https://fudge.design/share/pin-5603)
 
 ## Overview
 
@@ -143,3 +143,18 @@ The pill button maintains its proportions across contexts, though touch targets 
 ## Scope note
 
 This guide covers the Friend product marketing page including the hero presentation, FAQ section, and video content area. Mobile breakpoints, navigation systems beyond the visible scroll-to-top control, form components, checkout flows, and footer content are not represented in the supplied materials. Motion behavior, hover states, and loading sequences are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

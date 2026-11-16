@@ -1,26 +1,26 @@
 # How kigen.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kigen.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/kigen.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing section with three-tier card layout showing Personal, Team, and Enterprise plans with feature checklists and black primary buttons](https://pin.fontofweb.com/8718?format=jpg)](https://design.withfudge.com/share/pin-8718)
+[![Pricing section with three-tier card layout showing Personal, Team, and Enterprise plans with feature checklists and black primary buttons](https://pin.fontofweb.com/8718?format=jpg)](https://fudge.design/share/pin-8718)
 
-[Pricing section with three-tier card layout showing Personal, Team, and Enterprise plans with feature checklists and black primary buttons](https://design.withfudge.com/share/pin-8718)
+[Pricing section with three-tier card layout showing Personal, Team, and Enterprise plans with feature checklists and black primary buttons](https://fudge.design/share/pin-8718)
 
-[![Dark and light mode comparison showing a task management interface with themed columns and a central toggle switch](https://pin.fontofweb.com/8717?format=jpg)](https://design.withfudge.com/share/pin-8717)
+[![Dark and light mode comparison showing a task management interface with themed columns and a central toggle switch](https://pin.fontofweb.com/8717?format=jpg)](https://fudge.design/share/pin-8717)
 
-[Dark and light mode comparison showing a task management interface with themed columns and a central toggle switch](https://design.withfudge.com/share/pin-8717)
+[Dark and light mode comparison showing a task management interface with themed columns and a central toggle switch](https://fudge.design/share/pin-8717)
 
-[![Feature grid with six cards showcasing color tokens, dark mode, typography, auto layout, dev handoff, and accessibility standards](https://pin.fontofweb.com/8716?format=jpg)](https://design.withfudge.com/share/pin-8716)
+[![Feature grid with six cards showcasing color tokens, dark mode, typography, auto layout, dev handoff, and accessibility standards](https://pin.fontofweb.com/8716?format=jpg)](https://fudge.design/share/pin-8716)
 
-[Feature grid with six cards showcasing color tokens, dark mode, typography, auto layout, dev handoff, and accessibility standards](https://design.withfudge.com/share/pin-8716)
+[Feature grid with six cards showcasing color tokens, dark mode, typography, auto layout, dev handoff, and accessibility standards](https://fudge.design/share/pin-8716)
 
-[![Hero section with large display typography, rainbow gradient underline, and floating UI component previews including calendar and user menu](https://pin.fontofweb.com/8715?format=jpg)](https://design.withfudge.com/share/pin-8715)
+[![Hero section with large display typography, rainbow gradient underline, and floating UI component previews including calendar and user menu](https://pin.fontofweb.com/8715?format=jpg)](https://fudge.design/share/pin-8715)
 
-[Hero section with large display typography, rainbow gradient underline, and floating UI component previews including calendar and user menu](https://design.withfudge.com/share/pin-8715)
+[Hero section with large display typography, rainbow gradient underline, and floating UI component previews including calendar and user menu](https://fudge.design/share/pin-8715)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Navigation should collapse to a hamburger menu on narrow viewports, preserving t
 ## Scope note
 
 This guide covers the Kigen Design System landing page as visible in the supplied imagery, including the hero, feature grid, pricing section, and component preview gallery. Mobile layouts, animation specifications, checkout flows, and the actual Figma plugin interface are not represented. The documentation pages and community features referenced in navigation are outside the scope of this guide.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

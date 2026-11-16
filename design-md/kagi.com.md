@@ -1,26 +1,26 @@
 # How kagi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kagi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kagi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full pricing page showing four-tier card layout with Trial, Starter, Professional, and Ultimate plans against a split dark-and-yellow background with pill-shaped toggle controls.](https://pin.fontofweb.com/9410?format=jpg)](https://design.withfudge.com/share/pin-9410)
+[![Full pricing page showing four-tier card layout with Trial, Starter, Professional, and Ultimate plans against a split dark-and-yellow background with pill-shaped toggle controls.](https://pin.fontofweb.com/9410?format=jpg)](https://fudge.design/share/pin-9410)
 
-[Full pricing page showing four-tier card layout with Trial, Starter, Professional, and Ultimate plans against a split dark-and-yellow background with pill-shaped toggle controls.](https://design.withfudge.com/share/pin-9410)
+[Full pricing page showing four-tier card layout with Trial, Starter, Professional, and Ultimate plans against a split dark-and-yellow background with pill-shaped toggle controls.](https://fudge.design/share/pin-9410)
 
-[![Family and Duo plan pricing cards with warm yellow lower background, featuring illustrated dog mascots and per-month pricing with feature bullet lists.](https://pin.fontofweb.com/9412?format=jpg)](https://design.withfudge.com/share/pin-9412)
+[![Family and Duo plan pricing cards with warm yellow lower background, featuring illustrated dog mascots and per-month pricing with feature bullet lists.](https://pin.fontofweb.com/9412?format=jpg)](https://fudge.design/share/pin-9412)
 
-[Family and Duo plan pricing cards with warm yellow lower background, featuring illustrated dog mascots and per-month pricing with feature bullet lists.](https://design.withfudge.com/share/pin-9412)
+[Family and Duo plan pricing cards with warm yellow lower background, featuring illustrated dog mascots and per-month pricing with feature bullet lists.](https://fudge.design/share/pin-9412)
 
-[![Team plan tab selected showing Professional and Ultimate tier cards with per-user pricing and AI feature callouts on the yellow-accented pricing page.](https://pin.fontofweb.com/9411?format=jpg)](https://design.withfudge.com/share/pin-9411)
+[![Team plan tab selected showing Professional and Ultimate tier cards with per-user pricing and AI feature callouts on the yellow-accented pricing page.](https://pin.fontofweb.com/9411?format=jpg)](https://fudge.design/share/pin-9411)
 
-[Team plan tab selected showing Professional and Ultimate tier cards with per-user pricing and AI feature callouts on the yellow-accented pricing page.](https://design.withfudge.com/share/pin-9411)
+[Team plan tab selected showing Professional and Ultimate tier cards with per-user pricing and AI feature callouts on the yellow-accented pricing page.](https://fudge.design/share/pin-9411)
 
-[![Fair Pricing section with large curved yellow-to-dark gradient divider, playful seesaw illustration with dog mascot, and centered policy explanation text.](https://pin.fontofweb.com/9413?format=jpg)](https://design.withfudge.com/share/pin-9413)
+[![Fair Pricing section with large curved yellow-to-dark gradient divider, playful seesaw illustration with dog mascot, and centered policy explanation text.](https://pin.fontofweb.com/9413?format=jpg)](https://fudge.design/share/pin-9413)
 
-[Fair Pricing section with large curved yellow-to-dark gradient divider, playful seesaw illustration with dog mascot, and centered policy explanation text.](https://design.withfudge.com/share/pin-9413)
+[Fair Pricing section with large curved yellow-to-dark gradient divider, playful seesaw illustration with dog mascot, and centered policy explanation text.](https://fudge.design/share/pin-9413)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Navigation collapses to a hamburger menu or simplified icon set on narrow viewpo
 ## Scope note
 
 This guide covers the pricing page and homepage surfaces visible in the supplied images. Mobile layouts, animation behavior, form validation states, and checkout flows are not represented. The footer area appears in limited detail; its full structure and link organization would require additional reference. Measurements are exact where retained in the design facts; adapted values follow the documented relative unit scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

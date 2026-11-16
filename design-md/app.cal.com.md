@@ -1,26 +1,26 @@
 # How app.cal.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.cal.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.cal.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark onboarding screen with calendar provider list and step progress indicator showing two completed steps out of five](https://pin.fontofweb.com/5535?format=jpg)](https://design.withfudge.com/share/pin-5535)
+[![Dark onboarding screen with calendar provider list and step progress indicator showing two completed steps out of five](https://pin.fontofweb.com/5535?format=jpg)](https://fudge.design/share/pin-5535)
 
-[Dark onboarding screen with calendar provider list and step progress indicator showing two completed steps out of five](https://design.withfudge.com/share/pin-5535)
+[Dark onboarding screen with calendar provider list and step progress indicator showing two completed steps out of five](https://fudge.design/share/pin-5535)
 
-[![Centered email verification card with envelope icon on dark background and resend link](https://pin.fontofweb.com/5534?format=jpg)](https://design.withfudge.com/share/pin-5534)
+[![Centered email verification card with envelope icon on dark background and resend link](https://pin.fontofweb.com/5534?format=jpg)](https://fudge.design/share/pin-5534)
 
-[Centered email verification card with envelope icon on dark background and resend link](https://design.withfudge.com/share/pin-5534)
+[Centered email verification card with envelope icon on dark background and resend link](https://fudge.design/share/pin-5534)
 
-[![Split-panel signup form with account creation fields and interactive calendar booking preview on right](https://pin.fontofweb.com/5533?format=jpg)](https://design.withfudge.com/share/pin-5533)
+[![Split-panel signup form with account creation fields and interactive calendar booking preview on right](https://pin.fontofweb.com/5533?format=jpg)](https://fudge.design/share/pin-5533)
 
-[Split-panel signup form with account creation fields and interactive calendar booking preview on right](https://design.withfudge.com/share/pin-5533)
+[Split-panel signup form with account creation fields and interactive calendar booking preview on right](https://fudge.design/share/pin-5533)
 
-[![Signup page with social authentication buttons and product award badges above calendar preview](https://pin.fontofweb.com/4811?format=jpg)](https://design.withfudge.com/share/pin-4811)
+[![Signup page with social authentication buttons and product award badges above calendar preview](https://pin.fontofweb.com/4811?format=jpg)](https://fudge.design/share/pin-4811)
 
-[Signup page with social authentication buttons and product award badges above calendar preview](https://design.withfudge.com/share/pin-4811)
+[Signup page with social authentication buttons and product award badges above calendar preview](https://fudge.design/share/pin-4811)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The progress indicator segments should remain horizontally scrollable or compres
 ## Scope note
 
 This guide covers the authentication, email verification, and calendar onboarding surfaces visible in the supplied material. Dashboard, settings, booking management, and mobile-specific layouts are not represented. Motion, hover states, focus styles, and error messaging beyond password validation were not captured. Measurements are practical adaptation targets derived from visual inspection against a 0.25rem relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

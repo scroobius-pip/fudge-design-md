@@ -1,22 +1,22 @@
 # How busy.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/busy.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/busy.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with Flipper Devices logo, navigation columns, social icons, and app store badges on pure black background](https://pin.fontofweb.com/5901?format=jpg)](https://design.withfudge.com/share/pin-5901)
+[![Footer with Flipper Devices logo, navigation columns, social icons, and app store badges on pure black background](https://pin.fontofweb.com/5901?format=jpg)](https://fudge.design/share/pin-5901)
 
-[Footer with Flipper Devices logo, navigation columns, social icons, and app store badges on pure black background](https://design.withfudge.com/share/pin-5901)
+[Footer with Flipper Devices logo, navigation columns, social icons, and app store badges on pure black background](https://fudge.design/share/pin-5901)
 
-[![Desktop App section showing laptop with BUSY Bar device, macOS and Windows platform icons, and COMING SOON pill button](https://pin.fontofweb.com/5900?format=jpg)](https://design.withfudge.com/share/pin-5900)
+[![Desktop App section showing laptop with BUSY Bar device, macOS and Windows platform icons, and COMING SOON pill button](https://pin.fontofweb.com/5900?format=jpg)](https://fudge.design/share/pin-5900)
 
-[Desktop App section showing laptop with BUSY Bar device, macOS and Windows platform icons, and COMING SOON pill button](https://design.withfudge.com/share/pin-5900)
+[Desktop App section showing laptop with BUSY Bar device, macOS and Windows platform icons, and COMING SOON pill button](https://fudge.design/share/pin-5900)
 
-[![Mobile App section with phone mockup, Bluetooth and WiFi connection icons, red LED BUSY Bar display, and app store download badges](https://pin.fontofweb.com/5899?format=jpg)](https://design.withfudge.com/share/pin-5899)
+[![Mobile App section with phone mockup, Bluetooth and WiFi connection icons, red LED BUSY Bar display, and app store download badges](https://pin.fontofweb.com/5899?format=jpg)](https://fudge.design/share/pin-5899)
 
-[Mobile App section with phone mockup, Bluetooth and WiFi connection icons, red LED BUSY Bar display, and app store download badges](https://design.withfudge.com/share/pin-5899)
+[Mobile App section with phone mockup, Bluetooth and WiFi connection icons, red LED BUSY Bar display, and app store download badges](https://fudge.design/share/pin-5899)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Touch targets for footer links and app store badges should maintain minimum 44px
 ## Scope note
 
 This guide covers the BUSY.app downloads page surface as captured: product sections for Desktop and Mobile apps, platform availability indicators, and the comprehensive footer. Measurements are practical adaptation targets. Mobile breakpoints, navigation header, hover and focus states, loading skeletons, and checkout or purchase flows are not represented in the supplied material. The hardware device's LED animation states and companion app interfaces are outside this page's scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

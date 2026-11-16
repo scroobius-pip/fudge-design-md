@@ -1,26 +1,26 @@
 # How grokipedia.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/grokipedia.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/grokipedia.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/share/pin-9678)
+[![Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://pin.fontofweb.com/9678?format=jpg)](https://fudge.design/share/pin-9678)
 
-[Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://design.withfudge.com/share/pin-9678)
+[Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://fudge.design/share/pin-9678)
 
-[![Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/share/pin-9677)
+[![Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://pin.fontofweb.com/9677?format=jpg)](https://fudge.design/share/pin-9677)
 
-[Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://design.withfudge.com/share/pin-9677)
+[Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://fudge.design/share/pin-9677)
 
-[![Article body showing inline code tokens with orange background and citation links in muted blue](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/share/pin-9649)
+[![Article body showing inline code tokens with orange background and citation links in muted blue](https://pin.fontofweb.com/9649?format=jpg)](https://fudge.design/share/pin-9649)
 
-[Article body showing inline code tokens with orange background and citation links in muted blue](https://design.withfudge.com/share/pin-9649)
+[Article body showing inline code tokens with orange background and citation links in muted blue](https://fudge.design/share/pin-9649)
 
-[![Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/share/pin-9343)
+[![Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://pin.fontofweb.com/9343?format=jpg)](https://fudge.design/share/pin-9343)
 
-[Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://design.withfudge.com/share/pin-9343)
+[Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://fudge.design/share/pin-9343)
 
 ## Overview
 
@@ -210,3 +210,18 @@ Touch targets for buttons and links should maintain a minimum 44px tap area, wit
 ## Scope note
 
 This guide covers the article reading experience, search interface, and homepage as visible on desktop viewports. Mobile breakpoints, animation behavior, loading states, and error surfaces are not represented in the source material. The IBM Plex Mono and Universal Sans-400 families appear in sources but are not visibly applied in the captured interface; their intended roles are not covered here. Measurements are exact where retained and practical adaptation targets where inferred from visual proportion.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

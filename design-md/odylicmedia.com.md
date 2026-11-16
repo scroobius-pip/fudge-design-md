@@ -1,26 +1,26 @@
 # How odylicmedia.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/odylicmedia.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/odylicmedia.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with light gray background, I Hydro display headings, and Open Sans body text showing expandable pricing questions](https://pin.fontofweb.com/8159?format=jpg)](https://design.withfudge.com/share/pin-8159)
+[![FAQ accordion section with light gray background, I Hydro display headings, and Open Sans body text showing expandable pricing questions](https://pin.fontofweb.com/8159?format=jpg)](https://fudge.design/share/pin-8159)
 
-[FAQ accordion section with light gray background, I Hydro display headings, and Open Sans body text showing expandable pricing questions](https://design.withfudge.com/share/pin-8159)
+[FAQ accordion section with light gray background, I Hydro display headings, and Open Sans body text showing expandable pricing questions](https://fudge.design/share/pin-8159)
 
-[![Dark protocol section with large white I Hydro step numerals, gray step labels, and burnt orange CTA button for toolkit access](https://pin.fontofweb.com/8158?format=jpg)](https://design.withfudge.com/share/pin-8158)
+[![Dark protocol section with large white I Hydro step numerals, gray step labels, and burnt orange CTA button for toolkit access](https://pin.fontofweb.com/8158?format=jpg)](https://fudge.design/share/pin-8158)
 
-[Dark protocol section with large white I Hydro step numerals, gray step labels, and burnt orange CTA button for toolkit access](https://design.withfudge.com/share/pin-8158)
+[Dark protocol section with large white I Hydro step numerals, gray step labels, and burnt orange CTA button for toolkit access](https://fudge.design/share/pin-8158)
 
-[![Case study grid with jewelry and home goods photography, revenue statistics in I Hydro, and category tags with orange borders](https://pin.fontofweb.com/8157?format=jpg)](https://design.withfudge.com/share/pin-8157)
+[![Case study grid with jewelry and home goods photography, revenue statistics in I Hydro, and category tags with orange borders](https://pin.fontofweb.com/8157?format=jpg)](https://fudge.design/share/pin-8157)
 
-[Case study grid with jewelry and home goods photography, revenue statistics in I Hydro, and category tags with orange borders](https://design.withfudge.com/share/pin-8157)
+[Case study grid with jewelry and home goods photography, revenue statistics in I Hydro, and category tags with orange borders](https://fudge.design/share/pin-8157)
 
-[![Modal overlay with dark backdrop, Essential Toolkit headline, stacked spreadsheet preview images, and orange Submit button](https://pin.fontofweb.com/8156?format=jpg)](https://design.withfudge.com/share/pin-8156)
+[![Modal overlay with dark backdrop, Essential Toolkit headline, stacked spreadsheet preview images, and orange Submit button](https://pin.fontofweb.com/8156?format=jpg)](https://fudge.design/share/pin-8156)
 
-[Modal overlay with dark backdrop, Essential Toolkit headline, stacked spreadsheet preview images, and orange Submit button](https://design.withfudge.com/share/pin-8156)
+[Modal overlay with dark backdrop, Essential Toolkit headline, stacked spreadsheet preview images, and orange Submit button](https://fudge.design/share/pin-8156)
 
 ## Overview
 
@@ -200,3 +200,18 @@ The accordion section appears naturally responsive due to its single-column stru
 ## Scope note
 
 This guide covers the homepage and visible landing sections including the protocol, case studies, FAQ accordion, and toolkit modal. Footer, navigation dropdowns, additional interior pages, and mobile-specific layouts are not represented in the supplied material. Form validation states, loading indicators, and error messaging were not visible and should be designed to extend the existing accent and surface color logic.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Agency](/share/designs-with-offering.agency)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How icpay.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/icpay.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/icpay.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dashboard explore page showing project grid with sidebar navigation, filter pills, and card-based integrations for WordPress, WooCommerce, and blockchain networks.](https://pin.fontofweb.com/7760?format=jpg)](https://design.withfudge.com/share/pin-7760)
+[![Dashboard explore page showing project grid with sidebar navigation, filter pills, and card-based integrations for WordPress, WooCommerce, and blockchain networks.](https://pin.fontofweb.com/7760?format=jpg)](https://fudge.design/share/pin-7760)
 
-[Dashboard explore page showing project grid with sidebar navigation, filter pills, and card-based integrations for WordPress, WooCommerce, and blockchain networks.](https://design.withfudge.com/share/pin-7760)
+[Dashboard explore page showing project grid with sidebar navigation, filter pills, and card-based integrations for WordPress, WooCommerce, and blockchain networks.](https://fudge.design/share/pin-7760)
 
-[![Minimal signup form centered on white canvas with Google SSO, name and email fields, black primary button, and muted legal footer text.](https://pin.fontofweb.com/7758?format=jpg)](https://design.withfudge.com/share/pin-7758)
+[![Minimal signup form centered on white canvas with Google SSO, name and email fields, black primary button, and muted legal footer text.](https://pin.fontofweb.com/7758?format=jpg)](https://fudge.design/share/pin-7758)
 
-[Minimal signup form centered on white canvas with Google SSO, name and email fields, black primary button, and muted legal footer text.](https://design.withfudge.com/share/pin-7758)
+[Minimal signup form centered on white canvas with Google SSO, name and email fields, black primary button, and muted legal footer text.](https://fudge.design/share/pin-7758)
 
-[![Personalized setup results page displaying four recommendation cards for API integration, chain support, monthly savings, and go-live timeline with a black CTA button.](https://pin.fontofweb.com/7757?format=jpg)](https://design.withfudge.com/share/pin-7757)
+[![Personalized setup results page displaying four recommendation cards for API integration, chain support, monthly savings, and go-live timeline with a black CTA button.](https://pin.fontofweb.com/7757?format=jpg)](https://fudge.design/share/pin-7757)
 
-[Personalized setup results page displaying four recommendation cards for API integration, chain support, monthly savings, and go-live timeline with a black CTA button.](https://design.withfudge.com/share/pin-7757)
+[Personalized setup results page displaying four recommendation cards for API integration, chain support, monthly savings, and go-live timeline with a black CTA button.](https://fudge.design/share/pin-7757)
 
-[![Onboarding quiz step one showing progress indicator, question heading, and four selectable gray option rows with previous navigation.](https://pin.fontofweb.com/7756?format=jpg)](https://design.withfudge.com/share/pin-7756)
+[![Onboarding quiz step one showing progress indicator, question heading, and four selectable gray option rows with previous navigation.](https://pin.fontofweb.com/7756?format=jpg)](https://fudge.design/share/pin-7756)
 
-[Onboarding quiz step one showing progress indicator, question heading, and four selectable gray option rows with previous navigation.](https://design.withfudge.com/share/pin-7756)
+[Onboarding quiz step one showing progress indicator, question heading, and four selectable gray option rows with previous navigation.](https://fudge.design/share/pin-7756)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The layout appears optimized for desktop viewing with a fixed sidebar and main c
 ## Scope note
 
 This guide covers the authenticated dashboard, onboarding quiz, signup flow, and explore surfaces visible in the supplied images. Marketing pages, mobile layouts, dark mode, loading states, error pages, and animation behavior are not represented. Payment processing interfaces and transaction detail views are outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

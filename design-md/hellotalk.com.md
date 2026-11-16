@@ -1,26 +1,26 @@
 # How hellotalk.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hellotalk.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hellotalk.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with bold headline, purple primary button, and expansive multi-column footer on light background](https://pin.fontofweb.com/5354?format=jpg)](https://design.withfudge.com/share/pin-5354)
+[![Hero section with bold headline, purple primary button, and expansive multi-column footer on light background](https://pin.fontofweb.com/5354?format=jpg)](https://fudge.design/share/pin-5354)
 
-[Hero section with bold headline, purple primary button, and expansive multi-column footer on light background](https://design.withfudge.com/share/pin-5354)
+[Hero section with bold headline, purple primary button, and expansive multi-column footer on light background](https://fudge.design/share/pin-5354)
 
-[![Global community section with dotted world map, circular avatars, and purple-accented Search heading](https://pin.fontofweb.com/5352?format=jpg)](https://design.withfudge.com/share/pin-5352)
+[![Global community section with dotted world map, circular avatars, and purple-accented Search heading](https://pin.fontofweb.com/5352?format=jpg)](https://fudge.design/share/pin-5352)
 
-[Global community section with dotted world map, circular avatars, and purple-accented Search heading](https://design.withfudge.com/share/pin-5352)
+[Global community section with dotted world map, circular avatars, and purple-accented Search heading](https://fudge.design/share/pin-5352)
 
-[![Voicerooms feature section with phone mockup, NEW label, and dark UI with purple accents](https://pin.fontofweb.com/5351?format=jpg)](https://design.withfudge.com/share/pin-5351)
+[![Voicerooms feature section with phone mockup, NEW label, and dark UI with purple accents](https://pin.fontofweb.com/5351?format=jpg)](https://fudge.design/share/pin-5351)
 
-[Voicerooms feature section with phone mockup, NEW label, and dark UI with purple accents](https://design.withfudge.com/share/pin-5351)
+[Voicerooms feature section with phone mockup, NEW label, and dark UI with purple accents](https://fudge.design/share/pin-5351)
 
-[![Detailed footer layout with QR code, app store badges, and categorized link columns](https://pin.fontofweb.com/5353?format=jpg)](https://design.withfudge.com/share/pin-5353)
+[![Detailed footer layout with QR code, app store badges, and categorized link columns](https://pin.fontofweb.com/5353?format=jpg)](https://fudge.design/share/pin-5353)
 
-[Detailed footer layout with QR code, app store badges, and categorized link columns](https://design.withfudge.com/share/pin-5353)
+[Detailed footer layout with QR code, app store badges, and categorized link columns](https://fudge.design/share/pin-5353)
 
 ## Overview
 
@@ -161,3 +161,18 @@ Button pairs should stack vertically on mobile with full-width treatment, preser
 ## Scope note
 
 This guide covers the HelloTalk marketing homepage visible in the supplied images, including the hero, community features, Voicerooms section, and footer. Navigation bar, mobile menu, form interactions, and additional interior pages are not represented. Motion, hover states, and dark-mode toggle behavior are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

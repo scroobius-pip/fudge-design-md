@@ -1,26 +1,26 @@
 # How trycoast.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trycoast.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/trycoast.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark navy footer and CTA section with purple gradient buttons, Coast logo, and multi-column link navigation](https://pin.fontofweb.com/4402?format=jpg)](https://design.withfudge.com/share/pin-4402)
+[![Dark navy footer and CTA section with purple gradient buttons, Coast logo, and multi-column link navigation](https://pin.fontofweb.com/4402?format=jpg)](https://fudge.design/share/pin-4402)
 
-[Dark navy footer and CTA section with purple gradient buttons, Coast logo, and multi-column link navigation](https://design.withfudge.com/share/pin-4402)
+[Dark navy footer and CTA section with purple gradient buttons, Coast logo, and multi-column link navigation](https://fudge.design/share/pin-4402)
 
-[![Customer testimonials in a three-column masonry layout with company logos and purple-accented section heading](https://pin.fontofweb.com/4401?format=jpg)](https://design.withfudge.com/share/pin-4401)
+[![Customer testimonials in a three-column masonry layout with company logos and purple-accented section heading](https://pin.fontofweb.com/4401?format=jpg)](https://fudge.design/share/pin-4401)
 
-[Customer testimonials in a three-column masonry layout with company logos and purple-accented section heading](https://design.withfudge.com/share/pin-4401)
+[Customer testimonials in a three-column masonry layout with company logos and purple-accented section heading](https://fudge.design/share/pin-4401)
 
-[![Light-background feature section with purple-accented heading and stacked capability list with hairline separators](https://pin.fontofweb.com/4400?format=jpg)](https://design.withfudge.com/share/pin-4400)
+[![Light-background feature section with purple-accented heading and stacked capability list with hairline separators](https://pin.fontofweb.com/4400?format=jpg)](https://fudge.design/share/pin-4400)
 
-[Light-background feature section with purple-accented heading and stacked capability list with hairline separators](https://design.withfudge.com/share/pin-4400)
+[Light-background feature section with purple-accented heading and stacked capability list with hairline separators](https://fudge.design/share/pin-4400)
 
-[![Hero section with product mockup showing mobile payment UI, purple gradient text, and use-case accordion list](https://pin.fontofweb.com/4399?format=jpg)](https://design.withfudge.com/share/pin-4399)
+[![Hero section with product mockup showing mobile payment UI, purple gradient text, and use-case accordion list](https://pin.fontofweb.com/4399?format=jpg)](https://fudge.design/share/pin-4399)
 
-[Hero section with product mockup showing mobile payment UI, purple gradient text, and use-case accordion list](https://design.withfudge.com/share/pin-4399)
+[Hero section with product mockup showing mobile payment UI, purple gradient text, and use-case accordion list](https://fudge.design/share/pin-4399)
 
 ## Overview
 
@@ -160,3 +160,18 @@ The gradient text treatment requires careful implementation across browsers; ens
 ## Scope note
 
 This guide covers the Coast homepage landing experience visible in the supplied images: hero section, feature capabilities, customer testimonials, and footer CTA. Navigation header, additional interior pages, mobile layouts, form interactions, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

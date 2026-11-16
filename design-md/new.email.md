@@ -1,26 +1,26 @@
 # How new.email is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/new.email-design)
+[Open the live Fudge conversation](https://fudge.design/share/new.email-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Chat interface with code preview showing a split-pane layout with dark theme, syntax-highlighted code, and message bubbles with brand kit tags](https://pin.fontofweb.com/7201?format=jpg)](https://design.withfudge.com/share/pin-7201)
+[![Chat interface with code preview showing a split-pane layout with dark theme, syntax-highlighted code, and message bubbles with brand kit tags](https://pin.fontofweb.com/7201?format=jpg)](https://fudge.design/share/pin-7201)
 
-[Chat interface with code preview showing a split-pane layout with dark theme, syntax-highlighted code, and message bubbles with brand kit tags](https://design.withfudge.com/share/pin-7201)
+[Chat interface with code preview showing a split-pane layout with dark theme, syntax-highlighted code, and message bubbles with brand kit tags](https://fudge.design/share/pin-7201)
 
-[![Hero landing page with centered headline, dark background with moon imagery, prompt input field, and template category pills](https://pin.fontofweb.com/7200?format=jpg)](https://design.withfudge.com/share/pin-7200)
+[![Hero landing page with centered headline, dark background with moon imagery, prompt input field, and template category pills](https://pin.fontofweb.com/7200?format=jpg)](https://fudge.design/share/pin-7200)
 
-[Hero landing page with centered headline, dark background with moon imagery, prompt input field, and template category pills](https://design.withfudge.com/share/pin-7200)
+[Hero landing page with centered headline, dark background with moon imagery, prompt input field, and template category pills](https://fudge.design/share/pin-7200)
 
-[![Full landing page with left sidebar navigation, hero section with prompt input, and footer attribution to Resend](https://pin.fontofweb.com/7199?format=jpg)](https://design.withfudge.com/share/pin-7199)
+[![Full landing page with left sidebar navigation, hero section with prompt input, and footer attribution to Resend](https://pin.fontofweb.com/7199?format=jpg)](https://fudge.design/share/pin-7199)
 
-[Full landing page with left sidebar navigation, hero section with prompt input, and footer attribution to Resend](https://design.withfudge.com/share/pin-7199)
+[Full landing page with left sidebar navigation, hero section with prompt input, and footer attribution to Resend](https://fudge.design/share/pin-7199)
 
-[![Pricing modal overlay with three-tier plan cards featuring gradient borders, feature lists, and testimonial quote below](https://pin.fontofweb.com/7198?format=jpg)](https://design.withfudge.com/share/pin-7198)
+[![Pricing modal overlay with three-tier plan cards featuring gradient borders, feature lists, and testimonial quote below](https://pin.fontofweb.com/7198?format=jpg)](https://fudge.design/share/pin-7198)
 
-[Pricing modal overlay with three-tier plan cards featuring gradient borders, feature lists, and testimonial quote below](https://design.withfudge.com/share/pin-7198)
+[Pricing modal overlay with three-tier plan cards featuring gradient borders, feature lists, and testimonial quote below](https://fudge.design/share/pin-7198)
 
 ## Overview
 
@@ -211,3 +211,18 @@ The split-pane chat interface should collapse to a single column on viewports be
 ## Scope note
 
 This guide covers the landing page, chat interface, and pricing modal visible in the supplied images. The sign-up flow, brand kit management pages, and mobile-specific adaptations are not fully represented. Email template rendering and export functionality fall outside the current scope. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

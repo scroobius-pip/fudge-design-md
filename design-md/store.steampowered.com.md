@@ -1,18 +1,18 @@
 # How store.steampowered.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/store.steampowered.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/store.steampowered.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Steam Hardware family arrangement with VR headset, Steam Deck, controllers, and Steam Machine on warm beige background with centered headline and body copy](https://pin.fontofweb.com/4616?format=jpg)](https://design.withfudge.com/share/pin-4616)
+[![Steam Hardware family arrangement with VR headset, Steam Deck, controllers, and Steam Machine on warm beige background with centered headline and body copy](https://pin.fontofweb.com/4616?format=jpg)](https://fudge.design/share/pin-4616)
 
-[Steam Hardware family arrangement with VR headset, Steam Deck, controllers, and Steam Machine on warm beige background with centered headline and body copy](https://design.withfudge.com/share/pin-4616)
+[Steam Hardware family arrangement with VR headset, Steam Deck, controllers, and Steam Machine on warm beige background with centered headline and body copy](https://fudge.design/share/pin-4616)
 
-[![Steam Hardware hero section with VR headset product shot, bright blue navigation bar, COMING IN 2026 announcement, and tan cardboard-textured lower section with family expansion](https://pin.fontofweb.com/4615?format=jpg)](https://design.withfudge.com/share/pin-4615)
+[![Steam Hardware hero section with VR headset product shot, bright blue navigation bar, COMING IN 2026 announcement, and tan cardboard-textured lower section with family expansion](https://pin.fontofweb.com/4615?format=jpg)](https://fudge.design/share/pin-4615)
 
-[Steam Hardware hero section with VR headset product shot, bright blue navigation bar, COMING IN 2026 announcement, and tan cardboard-textured lower section with family expansion](https://design.withfudge.com/share/pin-4615)
+[Steam Hardware hero section with VR headset product shot, bright blue navigation bar, COMING IN 2026 announcement, and tan cardboard-textured lower section with family expansion](https://fudge.design/share/pin-4615)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The warm neutral backgrounds remain constant across breakpoints, preserving the 
 ## Scope note
 
 This guide covers the Steam Hardware marketing page surface visible in the supplied images, specifically the hero announcement and product family arrangement sections. Global Steam store navigation, footer elements, checkout flows, and interactive states such as hover, focus, loading, and error conditions are not represented. Motion behavior, responsive breakpoints, and additional hardware product pages are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

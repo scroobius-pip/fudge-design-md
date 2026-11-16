@@ -1,26 +1,26 @@
 # How photon.codes is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/photon.codes-design)
+[Open the live Fudge conversation](https://fudge.design/share/photon.codes-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with split layout showing orange italic headline on black background and illustrated Golden Gate Bridge scene](https://pin.fontofweb.com/6515?format=jpg)](https://design.withfudge.com/share/pin-6515)
+[![Hero section with split layout showing orange italic headline on black background and illustrated Golden Gate Bridge scene](https://pin.fontofweb.com/6515?format=jpg)](https://fudge.design/share/pin-6515)
 
-[Hero section with split layout showing orange italic headline on black background and illustrated Golden Gate Bridge scene](https://design.withfudge.com/share/pin-6515)
+[Hero section with split layout showing orange italic headline on black background and illustrated Golden Gate Bridge scene](https://fudge.design/share/pin-6515)
 
-[![FAQ section with centered typography and Apply Now call-to-action with orange underline accent](https://pin.fontofweb.com/6514?format=jpg)](https://design.withfudge.com/share/pin-6514)
+[![FAQ section with centered typography and Apply Now call-to-action with orange underline accent](https://pin.fontofweb.com/6514?format=jpg)](https://fudge.design/share/pin-6514)
 
-[FAQ section with centered typography and Apply Now call-to-action with orange underline accent](https://design.withfudge.com/share/pin-6514)
+[FAQ section with centered typography and Apply Now call-to-action with orange underline accent](https://fudge.design/share/pin-6514)
 
-[![White section with 3D isometric illustrations of travel items and centered gray body text](https://pin.fontofweb.com/6513?format=jpg)](https://design.withfudge.com/share/pin-6513)
+[![White section with 3D isometric illustrations of travel items and centered gray body text](https://pin.fontofweb.com/6513?format=jpg)](https://fudge.design/share/pin-6513)
 
-[White section with 3D isometric illustrations of travel items and centered gray body text](https://design.withfudge.com/share/pin-6513)
+[White section with 3D isometric illustrations of travel items and centered gray body text](https://fudge.design/share/pin-6513)
 
-[![Three-column role cards with vintage computer illustrations on warm gray rounded panels](https://pin.fontofweb.com/6512?format=jpg)](https://design.withfudge.com/share/pin-6512)
+[![Three-column role cards with vintage computer illustrations on warm gray rounded panels](https://pin.fontofweb.com/6512?format=jpg)](https://fudge.design/share/pin-6512)
 
-[Three-column role cards with vintage computer illustrations on warm gray rounded panels](https://design.withfudge.com/share/pin-6512)
+[Three-column role cards with vintage computer illustrations on warm gray rounded panels](https://fudge.design/share/pin-6512)
 
 ## Overview
 
@@ -171,3 +171,18 @@ Navigation should remain visible and accessible, potentially collapsing to a sim
 ## Scope note
 
 This guide covers the Residency landing page and its visible components: hero, role cards, FAQ, and footer. The Spectrum product page uses a separate dark-mode system with different typography (Aspekta-600, Inter, Geist Mono, Sf Pro, System-Sansserif) and is not documented here. Motion, hover states, form interactions, and mobile-specific layouts are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

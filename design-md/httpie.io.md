@@ -1,26 +1,26 @@
 # How httpie.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/httpie.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/httpie.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Desktop download page with bold condensed headline, white pills on dark ground, and mint-green blob behind app screenshot](https://pin.fontofweb.com/3953?format=jpg)](https://design.withfudge.com/share/pin-3953)
+[![Desktop download page with bold condensed headline, white pills on dark ground, and mint-green blob behind app screenshot](https://pin.fontofweb.com/3953?format=jpg)](https://fudge.design/share/pin-3953)
 
-[Desktop download page with bold condensed headline, white pills on dark ground, and mint-green blob behind app screenshot](https://design.withfudge.com/share/pin-3953)
+[Desktop download page with bold condensed headline, white pills on dark ground, and mint-green blob behind app screenshot](https://fudge.design/share/pin-3953)
 
-[![CLI documentation section showing code blocks with purple prompt symbols, underlined links, and dark surface cards](https://pin.fontofweb.com/3952?format=jpg)](https://design.withfudge.com/share/pin-3952)
+[![CLI documentation section showing code blocks with purple prompt symbols, underlined links, and dark surface cards](https://pin.fontofweb.com/3952?format=jpg)](https://fudge.design/share/pin-3952)
 
-[CLI documentation section showing code blocks with purple prompt symbols, underlined links, and dark surface cards](https://design.withfudge.com/share/pin-3952)
+[CLI documentation section showing code blocks with purple prompt symbols, underlined links, and dark surface cards](https://fudge.design/share/pin-3952)
 
-[![AI feature page with concentric circle pattern, pink-accented HTTPie AI wordmark, and email capture field](https://pin.fontofweb.com/3951?format=jpg)](https://design.withfudge.com/share/pin-3951)
+[![AI feature page with concentric circle pattern, pink-accented HTTPie AI wordmark, and email capture field](https://pin.fontofweb.com/3951?format=jpg)](https://fudge.design/share/pin-3951)
 
-[AI feature page with concentric circle pattern, pink-accented HTTPie AI wordmark, and email capture field](https://design.withfudge.com/share/pin-3951)
+[AI feature page with concentric circle pattern, pink-accented HTTPie AI wordmark, and email capture field](https://fudge.design/share/pin-3951)
 
-[![Community footer with blue gradient background, stacked pill-shaped taglines, social buttons, and dark footer columns](https://pin.fontofweb.com/3950?format=jpg)](https://design.withfudge.com/share/pin-3950)
+[![Community footer with blue gradient background, stacked pill-shaped taglines, social buttons, and dark footer columns](https://pin.fontofweb.com/3950?format=jpg)](https://fudge.design/share/pin-3950)
 
-[Community footer with blue gradient background, stacked pill-shaped taglines, social buttons, and dark footer columns](https://design.withfudge.com/share/pin-3950)
+[Community footer with blue gradient background, stacked pill-shaped taglines, social buttons, and dark footer columns](https://fudge.design/share/pin-3950)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Pill button groups, particularly the platform download buttons, should wrap to m
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied homepage, CLI, AI, and download page captures. Mobile layouts, component hover states, form validation, loading indicators, and the desktop application interface itself are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

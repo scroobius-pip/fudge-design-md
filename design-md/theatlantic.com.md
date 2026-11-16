@@ -1,26 +1,26 @@
 # How theatlantic.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/theatlantic.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/theatlantic.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![World Edition homepage with red Atlantic logo, hamburger menu, navigation bar, and three-column article grid featuring photography and serif headlines](https://pin.fontofweb.com/8964?format=jpg)](https://design.withfudge.com/share/pin-8964)
+[![World Edition homepage with red Atlantic logo, hamburger menu, navigation bar, and three-column article grid featuring photography and serif headlines](https://pin.fontofweb.com/8964?format=jpg)](https://fudge.design/share/pin-8964)
 
-[World Edition homepage with red Atlantic logo, hamburger menu, navigation bar, and three-column article grid featuring photography and serif headlines](https://design.withfudge.com/share/pin-8964)
+[World Edition homepage with red Atlantic logo, hamburger menu, navigation bar, and three-column article grid featuring photography and serif headlines](https://fudge.design/share/pin-8964)
 
-[![Subscription modal with red SUBSCRIBE and START FREE TRIAL buttons, centered OR divider, and italic Atlantic branding in a clean white dialog](https://pin.fontofweb.com/6191?format=jpg)](https://design.withfudge.com/share/pin-6191)
+[![Subscription modal with red SUBSCRIBE and START FREE TRIAL buttons, centered OR divider, and italic Atlantic branding in a clean white dialog](https://pin.fontofweb.com/6191?format=jpg)](https://fudge.design/share/pin-6191)
 
-[Subscription modal with red SUBSCRIBE and START FREE TRIAL buttons, centered OR divider, and italic Atlantic branding in a clean white dialog](https://design.withfudge.com/share/pin-6191)
+[Subscription modal with red SUBSCRIBE and START FREE TRIAL buttons, centered OR divider, and italic Atlantic branding in a clean white dialog](https://fudge.design/share/pin-6191)
 
-[![Article paywall banner with red warning text, blue SIGN_IN link, and right-aligned Subscribe Now text with red underline on white background](https://pin.fontofweb.com/2764?format=jpg)](https://design.withfudge.com/share/pin-2764)
+[![Article paywall banner with red warning text, blue SIGN_IN link, and right-aligned Subscribe Now text with red underline on white background](https://pin.fontofweb.com/2764?format=jpg)](https://fudge.design/share/pin-2764)
 
-[Article paywall banner with red warning text, blue SIGN_IN link, and right-aligned Subscribe Now text with red underline on white background](https://design.withfudge.com/share/pin-2764)
+[Article paywall banner with red warning text, blue SIGN_IN link, and right-aligned Subscribe Now text with red underline on white background](https://fudge.design/share/pin-2764)
 
-[![Expanded paywall banner showing italic Atlantic branding, red SUBSCRIBE NOW button, and blue sign-in link with dropdown chevron](https://pin.fontofweb.com/2763?format=jpg)](https://design.withfudge.com/share/pin-2763)
+[![Expanded paywall banner showing italic Atlantic branding, red SUBSCRIBE NOW button, and blue sign-in link with dropdown chevron](https://pin.fontofweb.com/2763?format=jpg)](https://fudge.design/share/pin-2763)
 
-[Expanded paywall banner showing italic Atlantic branding, red SUBSCRIBE NOW button, and blue sign-in link with dropdown chevron](https://design.withfudge.com/share/pin-2763)
+[Expanded paywall banner showing italic Atlantic branding, red SUBSCRIBE NOW button, and blue sign-in link with dropdown chevron](https://fudge.design/share/pin-2763)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The three-column homepage grid should collapse to a single column on narrow view
 ## Scope note
 
 This guide covers the homepage, article cards, subscription surfaces, and paywall banners visible in the supplied images. Article body pages, comment systems, video players, newsletter signup forms, and mobile-specific navigation patterns are not represented. Footer components, search results, and author profile pages fall outside the current scope. The Applesystem family appears in the source data but is not used in any visible component described here.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

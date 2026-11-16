@@ -1,18 +1,18 @@
 # How rt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rt.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/rt.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with large black headline, gray subheadline, and white content area with right sidebar containing Top stories and image thumbnails](https://pin.fontofweb.com/8998?format=jpg)](https://design.withfudge.com/share/pin-8998)
+[![Article page with large black headline, gray subheadline, and white content area with right sidebar containing Top stories and image thumbnails](https://pin.fontofweb.com/8998?format=jpg)](https://fudge.design/share/pin-8998)
 
-[Article page with large black headline, gray subheadline, and white content area with right sidebar containing Top stories and image thumbnails](https://design.withfudge.com/share/pin-8998)
+[Article page with large black headline, gray subheadline, and white content area with right sidebar containing Top stories and image thumbnails](https://fudge.design/share/pin-8998)
 
-[![Homepage with black header, green RT logo, red breaking-news banner, and grid of story cards with image overlays and headline typography](https://pin.fontofweb.com/8997?format=jpg)](https://design.withfudge.com/share/pin-8997)
+[![Homepage with black header, green RT logo, red breaking-news banner, and grid of story cards with image overlays and headline typography](https://pin.fontofweb.com/8997?format=jpg)](https://fudge.design/share/pin-8997)
 
-[Homepage with black header, green RT logo, red breaking-news banner, and grid of story cards with image overlays and headline typography](https://design.withfudge.com/share/pin-8997)
+[Homepage with black header, green RT logo, red breaking-news banner, and grid of story cards with image overlays and headline typography](https://fudge.design/share/pin-8997)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Image aspect ratios in story cards should be preserved through `object-fit: cove
 ## Scope note
 
 This guide covers the homepage and article page surfaces visible in the supplied images. Mobile layouts, search results pages, video player interfaces, live blog templates, and account or subscription flows are not represented. Interactive states including hover, active, focus, and loading are inferred from static view and should be verified against a live environment.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

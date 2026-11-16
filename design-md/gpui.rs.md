@@ -1,26 +1,26 @@
 # How gpui.rs is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gpui.rs-design)
+[Open the live Fudge conversation](https://fudge.design/share/gpui.rs-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full landing page showing hero section with code block, navigation bar, contributor avatars grid, and two-column layout on black background](https://pin.fontofweb.com/4126?format=jpg)](https://design.withfudge.com/share/pin-4126)
+[![Full landing page showing hero section with code block, navigation bar, contributor avatars grid, and two-column layout on black background](https://pin.fontofweb.com/4126?format=jpg)](https://fudge.design/share/pin-4126)
 
-[Full landing page showing hero section with code block, navigation bar, contributor avatars grid, and two-column layout on black background](https://design.withfudge.com/share/pin-4126)
+[Full landing page showing hero section with code block, navigation bar, contributor avatars grid, and two-column layout on black background](https://fudge.design/share/pin-4126)
 
-[![Syntax-highlighted Rust code block with dark navy background, colorful tokens, and method chaining for UI construction](https://pin.fontofweb.com/4127?format=jpg)](https://design.withfudge.com/share/pin-4127)
+[![Syntax-highlighted Rust code block with dark navy background, colorful tokens, and method chaining for UI construction](https://pin.fontofweb.com/4127?format=jpg)](https://fudge.design/share/pin-4127)
 
-[Syntax-highlighted Rust code block with dark navy background, colorful tokens, and method chaining for UI construction](https://design.withfudge.com/share/pin-4127)
+[Syntax-highlighted Rust code block with dark navy background, colorful tokens, and method chaining for UI construction](https://fudge.design/share/pin-4127)
 
-[![Docs and Examples sections with monospace link labels, horizontal hairline dividers, and descriptive text in tabular layout](https://pin.fontofweb.com/4129?format=jpg)](https://design.withfudge.com/share/pin-4129)
+[![Docs and Examples sections with monospace link labels, horizontal hairline dividers, and descriptive text in tabular layout](https://pin.fontofweb.com/4129?format=jpg)](https://fudge.design/share/pin-4129)
 
-[Docs and Examples sections with monospace link labels, horizontal hairline dividers, and descriptive text in tabular layout](https://design.withfudge.com/share/pin-4129)
+[Docs and Examples sections with monospace link labels, horizontal hairline dividers, and descriptive text in tabular layout](https://fudge.design/share/pin-4129)
 
-[![Contributor avatar grid with rounded square images, contribution CTA link, and open-source project description text](https://pin.fontofweb.com/4128?format=jpg)](https://design.withfudge.com/share/pin-4128)
+[![Contributor avatar grid with rounded square images, contribution CTA link, and open-source project description text](https://pin.fontofweb.com/4128?format=jpg)](https://fudge.design/share/pin-4128)
 
-[Contributor avatar grid with rounded square images, contribution CTA link, and open-source project description text](https://design.withfudge.com/share/pin-4128)
+[Contributor avatar grid with rounded square images, contribution CTA link, and open-source project description text](https://fudge.design/share/pin-4128)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The two-column layout likely collapses to single column on narrower viewports, w
 ## Scope note
 
 This guide covers the gpui.rs landing page including its hero, code demonstration, documentation links, examples directory, and contributor section. Measurements are practical adaptation targets. Mobile layouts, hover states, focus styles, loading behavior, and additional interior pages are not represented in the supplied material. The syntax highlighting color set may extend beyond the three accent tokens identified; implement a complete theme for production code display.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

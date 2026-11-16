@@ -1,26 +1,26 @@
 # How aurorashouse.webflow.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/aurorashouse.webflow.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/aurorashouse.webflow.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About Me page with bold Helvetica hero heading, Lora body text, and pill-shaped dark navigation bar on white canvas](https://pin.fontofweb.com/518?format=jpg)](https://design.withfudge.com/share/pin-518)
+[![About Me page with bold Helvetica hero heading, Lora body text, and pill-shaped dark navigation bar on white canvas](https://pin.fontofweb.com/518?format=jpg)](https://fudge.design/share/pin-518)
 
-[About Me page with bold Helvetica hero heading, Lora body text, and pill-shaped dark navigation bar on white canvas](https://design.withfudge.com/share/pin-518)
+[About Me page with bold Helvetica hero heading, Lora body text, and pill-shaped dark navigation bar on white canvas](https://fudge.design/share/pin-518)
 
-[![Mothers project case study with full-bleed brick building photograph, serif description, and bold Next Project link with circular icon](https://pin.fontofweb.com/517?format=jpg)](https://design.withfudge.com/share/pin-517)
+[![Mothers project case study with full-bleed brick building photograph, serif description, and bold Next Project link with circular icon](https://pin.fontofweb.com/517?format=jpg)](https://fudge.design/share/pin-517)
 
-[Mothers project case study with full-bleed brick building photograph, serif description, and bold Next Project link with circular icon](https://design.withfudge.com/share/pin-517)
+[Mothers project case study with full-bleed brick building photograph, serif description, and bold Next Project link with circular icon](https://fudge.design/share/pin-517)
 
-[![Mothers project hero with oversized tight-tracking Helvetica display heading and Lora subheading on generous white space](https://pin.fontofweb.com/516?format=jpg)](https://design.withfudge.com/share/pin-516)
+[![Mothers project hero with oversized tight-tracking Helvetica display heading and Lora subheading on generous white space](https://pin.fontofweb.com/516?format=jpg)](https://fudge.design/share/pin-516)
 
-[Mothers project hero with oversized tight-tracking Helvetica display heading and Lora subheading on generous white space](https://design.withfudge.com/share/pin-516)
+[Mothers project hero with oversized tight-tracking Helvetica display heading and Lora subheading on generous white space](https://fudge.design/share/pin-516)
 
-[![Quest project card with vivid red background, white geometric star illustration, and pill-shaped category tag with arrow](https://pin.fontofweb.com/515?format=jpg)](https://design.withfudge.com/share/pin-515)
+[![Quest project card with vivid red background, white geometric star illustration, and pill-shaped category tag with arrow](https://pin.fontofweb.com/515?format=jpg)](https://fudge.design/share/pin-515)
 
-[Quest project card with vivid red background, white geometric star illustration, and pill-shaped category tag with arrow](https://design.withfudge.com/share/pin-515)
+[Quest project card with vivid red background, white geometric star illustration, and pill-shaped category tag with arrow](https://fudge.design/share/pin-515)
 
 ## Overview
 
@@ -167,3 +167,18 @@ No mobile layouts are visible in the supplied images. Based on the desktop-first
 ## Scope note
 
 This guide covers the About Me and project case study surfaces visible in the supplied images. The Mothers and Quest project pages represent the primary content types, but additional project templates, a homepage index, footer elements, form states, and mobile breakpoints are not included. Motion, hover states, and loading behavior are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How workspaces.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/workspaces.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/workspaces.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with newsletter subscription form, featured workspace photograph, and section labels in monospace caps](https://pin.fontofweb.com/10218?format=jpg)](https://design.withfudge.com/share/pin-10218)
+[![Homepage hero with newsletter subscription form, featured workspace photograph, and section labels in monospace caps](https://pin.fontofweb.com/10218?format=jpg)](https://fudge.design/share/pin-10218)
 
-[Homepage hero with newsletter subscription form, featured workspace photograph, and section labels in monospace caps](https://design.withfudge.com/share/pin-10218)
+[Homepage hero with newsletter subscription form, featured workspace photograph, and section labels in monospace caps](https://fudge.design/share/pin-10218)
 
-[![Grid of workspace setup cards with portrait photography, numbered badges, and category pill tags](https://pin.fontofweb.com/10219?format=jpg)](https://design.withfudge.com/share/pin-10219)
+[![Grid of workspace setup cards with portrait photography, numbered badges, and category pill tags](https://pin.fontofweb.com/10219?format=jpg)](https://fudge.design/share/pin-10219)
 
-[Grid of workspace setup cards with portrait photography, numbered badges, and category pill tags](https://design.withfudge.com/share/pin-10219)
+[Grid of workspace setup cards with portrait photography, numbered badges, and category pill tags](https://fudge.design/share/pin-10219)
 
-[![About page with dark header bar, statistics panel, and editorial body copy on warm off-white canvas](https://pin.fontofweb.com/10221?format=jpg)](https://design.withfudge.com/share/pin-10221)
+[![About page with dark header bar, statistics panel, and editorial body copy on warm off-white canvas](https://pin.fontofweb.com/10221?format=jpg)](https://fudge.design/share/pin-10221)
 
-[About page with dark header bar, statistics panel, and editorial body copy on warm off-white canvas](https://design.withfudge.com/share/pin-10221)
+[About page with dark header bar, statistics panel, and editorial body copy on warm off-white canvas](https://fudge.design/share/pin-10221)
 
-[![Dark footer with testimonial quote, multi-column navigation links, and social media row](https://pin.fontofweb.com/10220?format=jpg)](https://design.withfudge.com/share/pin-10220)
+[![Dark footer with testimonial quote, multi-column navigation links, and social media row](https://pin.fontofweb.com/10220?format=jpg)](https://fudge.design/share/pin-10220)
 
-[Dark footer with testimonial quote, multi-column navigation links, and social media row](https://design.withfudge.com/share/pin-10220)
+[Dark footer with testimonial quote, multi-column navigation links, and social media row](https://fudge.design/share/pin-10220)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Font sizes remain consistent across breakpoints—the hierarchy relies on spacin
 ## Scope note
 
 This guide covers the homepage, about page, and footer surfaces visible in the supplied images. Individual workspace detail pages, mobile navigation patterns, hover and focus states, loading skeletons, and error states are not included. The design system is built for a light-mode editorial experience; dark mode is limited to the footer inversion only. Applesystem and Times are listed in the source records but do not appear as active design fonts in the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

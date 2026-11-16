@@ -1,26 +1,26 @@
 # How rerun.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rerun.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/rerun.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Web Viewer dashboard showing multi-panel graph visualizations with node-link diagrams, bubble charts, lattice structures, and Markov chains against a dark interface with sidebar](https://pin.fontofweb.com/9394?format=jpg)](https://design.withfudge.com/share/pin-9394)
+[![Web Viewer dashboard showing multi-panel graph visualizations with node-link diagrams, bubble charts, lattice structures, and Markov chains against a dark interface with sidebar](https://pin.fontofweb.com/9394?format=jpg)](https://fudge.design/share/pin-9394)
 
-[Web Viewer dashboard showing multi-panel graph visualizations with node-link diagrams, bubble charts, lattice structures, and Markov chains against a dark interface with sidebar](https://design.withfudge.com/share/pin-9394)
+[Web Viewer dashboard showing multi-panel graph visualizations with node-link diagrams, bubble charts, lattice structures, and Markov chains against a dark interface with sidebar](https://fudge.design/share/pin-9394)
 
-[![Web Viewer displaying a 3D animated URDF robotic arm model with green grid environment, property inspector panel, and stream timeline at the bottom.](https://pin.fontofweb.com/9393?format=jpg)](https://design.withfudge.com/share/pin-9393)
+[![Web Viewer displaying a 3D animated URDF robotic arm model with green grid environment, property inspector panel, and stream timeline at the bottom.](https://pin.fontofweb.com/9393?format=jpg)](https://fudge.design/share/pin-9393)
 
-[Web Viewer displaying a 3D animated URDF robotic arm model with green grid environment, property inspector panel, and stream timeline at the bottom.](https://design.withfudge.com/share/pin-9393)
+[Web Viewer displaying a 3D animated URDF robotic arm model with green grid environment, property inspector panel, and stream timeline at the bottom.](https://fudge.design/share/pin-9393)
 
-[![Web Viewer welcome screen with onboarding cards for Send data, Explore data, Query data out, and Rerun Hub, plus a grid of example recording thumbnails including URDF, ARKit](https://pin.fontofweb.com/9392?format=jpg)](https://design.withfudge.com/share/pin-9392)
+[![Web Viewer welcome screen with onboarding cards for Send data, Explore data, Query data out, and Rerun Hub, plus a grid of example recording thumbnails including URDF, ARKit](https://pin.fontofweb.com/9392?format=jpg)](https://fudge.design/share/pin-9392)
 
-[Web Viewer welcome screen with onboarding cards for Send data, Explore data, Query data out, and Rerun Hub, plus a grid of example recording thumbnails including URDF, ARKit](https://design.withfudge.com/share/pin-9392)
+[Web Viewer welcome screen with onboarding cards for Send data, Explore data, Query data out, and Rerun Hub, plus a grid of example recording thumbnails including URDF, ARKit](https://fudge.design/share/pin-9392)
 
-[![Marketing homepage hero section with stacked isometric logo, Rerun Hub badge, large display heading, four-column feature grid, and gradient call-to-action button on a black](https://pin.fontofweb.com/9391?format=jpg)](https://design.withfudge.com/share/pin-9391)
+[![Marketing homepage hero section with stacked isometric logo, Rerun Hub badge, large display heading, four-column feature grid, and gradient call-to-action button on a black](https://pin.fontofweb.com/9391?format=jpg)](https://fudge.design/share/pin-9391)
 
-[Marketing homepage hero section with stacked isometric logo, Rerun Hub badge, large display heading, four-column feature grid, and gradient call-to-action button on a black](https://design.withfudge.com/share/pin-9391)
+[Marketing homepage hero section with stacked isometric logo, Rerun Hub badge, large display heading, four-column feature grid, and gradient call-to-action button on a black](https://fudge.design/share/pin-9391)
 
 ## Overview
 
@@ -224,3 +224,18 @@ Touch targets in the viewer should maintain minimum 44px dimensions even on desk
 ## Scope note
 
 This guide covers the marketing homepage and web viewer interface as visible in the supplied images. Mobile layouts, additional marketing pages, documentation site styling, and viewer plugin interfaces are not represented. Animation specifications, data visualization color palettes, and 3D rendering defaults are implementation concerns beyond this system.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Analytics](/share/designs-with-capability.analytics)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

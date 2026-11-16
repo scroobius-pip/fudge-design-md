@@ -1,26 +1,26 @@
 # How iamnoman.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/iamnoman.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/iamnoman.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with split layout showing biography text on the left and a vertical work history timeline on the right against a black background.](https://pin.fontofweb.com/1217?format=jpg)](https://design.withfudge.com/share/pin-1217)
+[![About page with split layout showing biography text on the left and a vertical work history timeline on the right against a black background.](https://pin.fontofweb.com/1217?format=jpg)](https://fudge.design/share/pin-1217)
 
-[About page with split layout showing biography text on the left and a vertical work history timeline on the right against a black background.](https://design.withfudge.com/share/pin-1217)
+[About page with split layout showing biography text on the left and a vertical work history timeline on the right against a black background.](https://fudge.design/share/pin-1217)
 
-[![About page in a narrower viewport with stacked biography and work history sections, maintaining the dark theme and typographic hierarchy.](https://pin.fontofweb.com/1216?format=jpg)](https://design.withfudge.com/share/pin-1216)
+[![About page in a narrower viewport with stacked biography and work history sections, maintaining the dark theme and typographic hierarchy.](https://pin.fontofweb.com/1216?format=jpg)](https://fudge.design/share/pin-1216)
 
-[About page in a narrower viewport with stacked biography and work history sections, maintaining the dark theme and typographic hierarchy.](https://design.withfudge.com/share/pin-1216)
+[About page in a narrower viewport with stacked biography and work history sections, maintaining the dark theme and typographic hierarchy.](https://fudge.design/share/pin-1216)
 
-[![Footer section with a large white signature mark centered on black, featuring a collaboration CTA and social links in the corners.](https://pin.fontofweb.com/1215?format=jpg)](https://design.withfudge.com/share/pin-1215)
+[![Footer section with a large white signature mark centered on black, featuring a collaboration CTA and social links in the corners.](https://pin.fontofweb.com/1215?format=jpg)](https://fudge.design/share/pin-1215)
 
-[Footer section with a large white signature mark centered on black, featuring a collaboration CTA and social links in the corners.](https://design.withfudge.com/share/pin-1215)
+[Footer section with a large white signature mark centered on black, featuring a collaboration CTA and social links in the corners.](https://fudge.design/share/pin-1215)
 
-[![Project showcase displaying light and dark mode UI cards for Bland, with colorful inline icons and a live project link.](https://pin.fontofweb.com/1214?format=jpg)](https://design.withfudge.com/share/pin-1214)
+[![Project showcase displaying light and dark mode UI cards for Bland, with colorful inline icons and a live project link.](https://pin.fontofweb.com/1214?format=jpg)](https://fudge.design/share/pin-1214)
 
-[Project showcase displaying light and dark mode UI cards for Bland, with colorful inline icons and a live project link.](https://design.withfudge.com/share/pin-1214)
+[Project showcase displaying light and dark mode UI cards for Bland, with colorful inline icons and a live project link.](https://fudge.design/share/pin-1214)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The signature mark scales to fit available width, never exceeding the viewport. 
 ## Scope note
 
 This guide covers the homepage and about page surfaces visible in the supplied images, including the header, biography, work history, project showcase, and footer with signature mark. Measurements are practical adaptation targets. Unseen interior pages, mobile breakpoints, hover states, form interactions, and motion behavior are not included.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Personal](/share/designs-with-industry.personal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Portfolio](/share/designs-with-offering.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

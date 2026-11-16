@@ -1,18 +1,18 @@
 # How gemini.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gemini.google.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/gemini.google.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-mode chat interface showing code response blocks with syntax highlighting, a collapsed reasoning section, and a bottom input bar with tools and model selector.](https://pin.fontofweb.com/8794?format=jpg)](https://design.withfudge.com/share/pin-8794)
+[![Dark-mode chat interface showing code response blocks with syntax highlighting, a collapsed reasoning section, and a bottom input bar with tools and model selector.](https://pin.fontofweb.com/8794?format=jpg)](https://fudge.design/share/pin-8794)
 
-[Dark-mode chat interface showing code response blocks with syntax highlighting, a collapsed reasoning section, and a bottom input bar with tools and model selector.](https://design.withfudge.com/share/pin-8794)
+[Dark-mode chat interface showing code response blocks with syntax highlighting, a collapsed reasoning section, and a bottom input bar with tools and model selector.](https://fudge.design/share/pin-8794)
 
-[![Minimal dark landing view with a greeting headline, a large rounded input field, and a row of pill-shaped suggestion chips on a near-black background.](https://pin.fontofweb.com/5688?format=jpg)](https://design.withfudge.com/share/pin-5688)
+[![Minimal dark landing view with a greeting headline, a large rounded input field, and a row of pill-shaped suggestion chips on a near-black background.](https://pin.fontofweb.com/5688?format=jpg)](https://fudge.design/share/pin-5688)
 
-[Minimal dark landing view with a greeting headline, a large rounded input field, and a row of pill-shaped suggestion chips on a near-black background.](https://design.withfudge.com/share/pin-5688)
+[Minimal dark landing view with a greeting headline, a large rounded input field, and a row of pill-shaped suggestion chips on a near-black background.](https://fudge.design/share/pin-5688)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Touch targets should maintain minimum 44px height even when typography scales do
 ## Scope note
 
 This guide covers the desktop chat interface and landing state of Google Gemini. Mobile layouts, animation transitions, voice input states, and the full settings or account surfaces are not represented in the source material. The upgrade flow and payment-related screens fall outside this documentation. Measurements reflect the extracted interface values where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Application page](/share/designs-with-page.application)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How docs.swmansion.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/docs.swmansion.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/docs.swmansion.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Software Mansion branding, navigation links, and large decorative TypeGPU watermark on white background](https://pin.fontofweb.com/4371?format=jpg)](https://design.withfudge.com/share/pin-4371)
+[![Footer section with Software Mansion branding, navigation links, and large decorative TypeGPU watermark on white background](https://pin.fontofweb.com/4371?format=jpg)](https://fudge.design/share/pin-4371)
 
-[Footer section with Software Mansion branding, navigation links, and large decorative TypeGPU watermark on white background](https://design.withfudge.com/share/pin-4371)
+[Footer section with Software Mansion branding, navigation links, and large decorative TypeGPU watermark on white background](https://fudge.design/share/pin-4371)
 
-[![Hero call-to-action with gradient purple-blue button, abstract geometric shapes, and soft lavender background](https://pin.fontofweb.com/4370?format=jpg)](https://design.withfudge.com/share/pin-4370)
+[![Hero call-to-action with gradient purple-blue button, abstract geometric shapes, and soft lavender background](https://pin.fontofweb.com/4370?format=jpg)](https://fudge.design/share/pin-4370)
 
-[Hero call-to-action with gradient purple-blue button, abstract geometric shapes, and soft lavender background](https://design.withfudge.com/share/pin-4370)
+[Hero call-to-action with gradient purple-blue button, abstract geometric shapes, and soft lavender background](https://fudge.design/share/pin-4370)
 
-[![Roadmap timeline with hexagonal icons, purple connector lines, and version release badges](https://pin.fontofweb.com/4369?format=jpg)](https://design.withfudge.com/share/pin-4369)
+[![Roadmap timeline with hexagonal icons, purple connector lines, and version release badges](https://pin.fontofweb.com/4369?format=jpg)](https://fudge.design/share/pin-4369)
 
-[Roadmap timeline with hexagonal icons, purple connector lines, and version release badges](https://design.withfudge.com/share/pin-4369)
+[Roadmap timeline with hexagonal icons, purple connector lines, and version release badges](https://fudge.design/share/pin-4369)
 
-[![Feature cards grid with rounded white panels, purple gradient icons, and lavender background](https://pin.fontofweb.com/4368?format=jpg)](https://design.withfudge.com/share/pin-4368)
+[![Feature cards grid with rounded white panels, purple gradient icons, and lavender background](https://pin.fontofweb.com/4368?format=jpg)](https://fudge.design/share/pin-4368)
 
-[Feature cards grid with rounded white panels, purple gradient icons, and lavender background](https://design.withfudge.com/share/pin-4368)
+[Feature cards grid with rounded white panels, purple gradient icons, and lavender background](https://fudge.design/share/pin-4368)
 
 ## Overview
 
@@ -149,3 +149,18 @@ Footer navigation columns should stack vertically on mobile, with each link grou
 ## Scope note
 
 This guide covers the TypeGPU marketing and documentation landing page visible in the supplied images. The documentation interior pages, API reference layouts, code block styling, and mobile navigation patterns are not represented. Interactive states including hover, focus, active, and disabled variations were not captured and should be designed to complement the visible system. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

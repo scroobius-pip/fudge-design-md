@@ -1,18 +1,18 @@
 # How tradingview.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tradingview.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tradingview.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Economic Calendar page showing light-themed data table with country flags, time stamps, and forecast columns under a clean white header with pill-shaped category filters.](https://pin.fontofweb.com/9494?format=jpg)](https://design.withfudge.com/share/pin-9494)
+[![Economic Calendar page showing light-themed data table with country flags, time stamps, and forecast columns under a clean white header with pill-shaped category filters.](https://pin.fontofweb.com/9494?format=jpg)](https://fudge.design/share/pin-9494)
 
-[Economic Calendar page showing light-themed data table with country flags, time stamps, and forecast columns under a clean white header with pill-shaped category filters.](https://design.withfudge.com/share/pin-9494)
+[Economic Calendar page showing light-themed data table with country flags, time stamps, and forecast columns under a clean white header with pill-shaped category filters.](https://fudge.design/share/pin-9494)
 
-[![Pricing page with dark hero background featuring aurora imagery, large Swiss-type display headline, four-column pricing grid with gradient-accented cards, and monthly-annual](https://pin.fontofweb.com/9493?format=jpg)](https://design.withfudge.com/share/pin-9493)
+[![Pricing page with dark hero background featuring aurora imagery, large Swiss-type display headline, four-column pricing grid with gradient-accented cards, and monthly-annual](https://pin.fontofweb.com/9493?format=jpg)](https://fudge.design/share/pin-9493)
 
-[Pricing page with dark hero background featuring aurora imagery, large Swiss-type display headline, four-column pricing grid with gradient-accented cards, and monthly-annual](https://design.withfudge.com/share/pin-9493)
+[Pricing page with dark hero background featuring aurora imagery, large Swiss-type display headline, four-column pricing grid with gradient-accented cards, and monthly-annual](https://fudge.design/share/pin-9493)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Touch targets maintain minimum 44px height for all interactive elements. Table r
 ## Scope note
 
 This guide covers the desktop economic calendar and pricing subscription pages. Mobile layouts, charting interfaces, trading panels, and real-time data widgets are not represented in the supplied material. Motion design, loading states, and form validation patterns are not documented. Verify licensing for Applesystem and Font-Copyright C 2018 Swiss Typefaces Sarl All Rights Reserved before production use.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

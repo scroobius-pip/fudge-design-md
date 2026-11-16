@@ -1,26 +1,26 @@
 # How ren.tv is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ren.tv-design)
+[Open the live Fudge conversation](https://fudge.design/share/ren.tv-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with park photograph showing breadcrumb navigation, date, view count, serif headline, and bold lead paragraph on white background](https://pin.fontofweb.com/9069?format=jpg)](https://design.withfudge.com/share/pin-9069)
+[![Article page with park photograph showing breadcrumb navigation, date, view count, serif headline, and bold lead paragraph on white background](https://pin.fontofweb.com/9069?format=jpg)](https://fudge.design/share/pin-9069)
 
-[Article page with park photograph showing breadcrumb navigation, date, view count, serif headline, and bold lead paragraph on white background](https://design.withfudge.com/share/pin-9069)
+[Article page with park photograph showing breadcrumb navigation, date, view count, serif headline, and bold lead paragraph on white background](https://fudge.design/share/pin-9069)
 
-[![Article page with snowy Moscow traffic video player featuring orange play button, duration overlay, and photo credit line](https://pin.fontofweb.com/9068?format=jpg)](https://design.withfudge.com/share/pin-9068)
+[![Article page with snowy Moscow traffic video player featuring orange play button, duration overlay, and photo credit line](https://pin.fontofweb.com/9068?format=jpg)](https://fudge.design/share/pin-9068)
 
-[Article page with snowy Moscow traffic video player featuring orange play button, duration overlay, and photo credit line](https://design.withfudge.com/share/pin-9068)
+[Article page with snowy Moscow traffic video player featuring orange play button, duration overlay, and photo credit line](https://fudge.design/share/pin-9068)
 
-[![Article page with seismograph image showing breadcrumb, view count, and clean typography hierarchy](https://pin.fontofweb.com/9067?format=jpg)](https://design.withfudge.com/share/pin-9067)
+[![Article page with seismograph image showing breadcrumb, view count, and clean typography hierarchy](https://pin.fontofweb.com/9067?format=jpg)](https://fudge.design/share/pin-9067)
 
-[Article page with seismograph image showing breadcrumb, view count, and clean typography hierarchy](https://design.withfudge.com/share/pin-9067)
+[Article page with seismograph image showing breadcrumb, view count, and clean typography hierarchy](https://fudge.design/share/pin-9067)
 
-[![Article page with tanker ship photograph showing video player controls and share button in upper right corner](https://pin.fontofweb.com/9066?format=jpg)](https://design.withfudge.com/share/pin-9066)
+[![Article page with tanker ship photograph showing video player controls and share button in upper right corner](https://pin.fontofweb.com/9066?format=jpg)](https://fudge.design/share/pin-9066)
 
-[Article page with tanker ship photograph showing video player controls and share button in upper right corner](https://design.withfudge.com/share/pin-9066)
+[Article page with tanker ship photograph showing video player controls and share button in upper right corner](https://fudge.design/share/pin-9066)
 
 ## Overview
 
@@ -220,3 +220,18 @@ No mobile-specific navigation patterns, hamburger menus, or bottom bars appear i
 ## Scope note
 
 This guide covers article page surfaces from REN TV's news publishing platform. It does not include homepage layouts, section landing pages, search results, comment systems, or advertising integrations. Navigation beyond breadcrumbs, footer content, and subscription or login flows are not represented in the visible material. Video player behavior beyond the static chrome shown— including loading states, error handling, and playback progress—requires additional specification.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Slab serif](/share/designs-with-typography.generic.slab_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

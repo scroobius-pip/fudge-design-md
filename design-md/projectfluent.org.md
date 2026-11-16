@@ -1,22 +1,22 @@
 # How projectfluent.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/projectfluent.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/projectfluent.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered Fluent title, tagline, and outlined Learn more button on white background with script logo and minimal navigation](https://pin.fontofweb.com/5619?format=jpg)](https://design.withfudge.com/share/pin-5619)
+[![Hero section with centered Fluent title, tagline, and outlined Learn more button on white background with script logo and minimal navigation](https://pin.fontofweb.com/5619?format=jpg)](https://fudge.design/share/pin-5619)
 
-[Hero section with centered Fluent title, tagline, and outlined Learn more button on white background with script logo and minimal navigation](https://design.withfudge.com/share/pin-5619)
+[Hero section with centered Fluent title, tagline, and outlined Learn more button on white background with script logo and minimal navigation](https://fudge.design/share/pin-5619)
 
-[![Interactive walkthrough with syntax-highlighted code panel showing pluralization examples and explanatory body text with inline code styling](https://pin.fontofweb.com/5618?format=jpg)](https://design.withfudge.com/share/pin-5618)
+[![Interactive walkthrough with syntax-highlighted code panel showing pluralization examples and explanatory body text with inline code styling](https://pin.fontofweb.com/5618?format=jpg)](https://fudge.design/share/pin-5618)
 
-[Interactive walkthrough with syntax-highlighted code panel showing pluralization examples and explanatory body text with inline code styling](https://design.withfudge.com/share/pin-5618)
+[Interactive walkthrough with syntax-highlighted code panel showing pluralization examples and explanatory body text with inline code styling](https://fudge.design/share/pin-5618)
 
-[![Homepage with feature sections, live code playground demonstrating asymmetric localization with variable interpolation and gender cases](https://pin.fontofweb.com/5617?format=jpg)](https://design.withfudge.com/share/pin-5617)
+[![Homepage with feature sections, live code playground demonstrating asymmetric localization with variable interpolation and gender cases](https://pin.fontofweb.com/5617?format=jpg)](https://fudge.design/share/pin-5617)
 
-[Homepage with feature sections, live code playground demonstrating asymmetric localization with variable interpolation and gender cases](https://design.withfudge.com/share/pin-5617)
+[Homepage with feature sections, live code playground demonstrating asymmetric localization with variable interpolation and gender cases](https://fudge.design/share/pin-5617)
 
 ## Overview
 
@@ -186,3 +186,18 @@ The outlined button should maintain its proportions but may increase touch targe
 ## Scope note
 
 This guide covers the homepage and interactive walkthrough surfaces visible in the supplied images. Mobile breakpoints, additional interior pages, hover and focus states, loading indicators, and error handling are not represented. Measurements are practical adaptation targets derived from visible proportions rather than extracted values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

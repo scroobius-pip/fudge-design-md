@@ -1,18 +1,18 @@
 # How tortastudios.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tortastudios.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tortastudios.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Email signup section with bold Hagrid heading, mono italic caption, and orange button on warm cream background](https://pin.fontofweb.com/5813?format=jpg)](https://design.withfudge.com/share/pin-5813)
+[![Email signup section with bold Hagrid heading, mono italic caption, and orange button on warm cream background](https://pin.fontofweb.com/5813?format=jpg)](https://fudge.design/share/pin-5813)
 
-[Email signup section with bold Hagrid heading, mono italic caption, and orange button on warm cream background](https://design.withfudge.com/share/pin-5813)
+[Email signup section with bold Hagrid heading, mono italic caption, and orange button on warm cream background](https://fudge.design/share/pin-5813)
 
-[![Hero section with tilted device mockup, navigation, and orange accent heart on pale sage background](https://pin.fontofweb.com/5812?format=jpg)](https://design.withfudge.com/share/pin-5812)
+[![Hero section with tilted device mockup, navigation, and orange accent heart on pale sage background](https://pin.fontofweb.com/5812?format=jpg)](https://fudge.design/share/pin-5812)
 
-[Hero section with tilted device mockup, navigation, and orange accent heart on pale sage background](https://design.withfudge.com/share/pin-5812)
+[Hero section with tilted device mockup, navigation, and orange accent heart on pale sage background](https://fudge.design/share/pin-5812)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The combined email input and button should stack vertically on narrow viewports,
 ## Scope note
 
 This guide covers the homepage hero and email signup sections visible in the supplied images. Footer content, additional interior pages, mobile layouts, and interactive states such as form validation or button hover are not represented. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Agency](/share/designs-with-offering.agency)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

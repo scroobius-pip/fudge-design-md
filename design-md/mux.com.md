@@ -1,26 +1,26 @@
 # How mux.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mux.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mux.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero showing three-column video pipeline diagram with input, storage, and delivery pricing cards on light gray background](https://pin.fontofweb.com/6450?format=jpg)](https://design.withfudge.com/share/pin-6450)
+[![Pricing page hero showing three-column video pipeline diagram with input, storage, and delivery pricing cards on light gray background](https://pin.fontofweb.com/6450?format=jpg)](https://fudge.design/share/pin-6450)
 
-[Pricing page hero showing three-column video pipeline diagram with input, storage, and delivery pricing cards on light gray background](https://design.withfudge.com/share/pin-6450)
+[Pricing page hero showing three-column video pipeline diagram with input, storage, and delivery pricing cards on light gray background](https://fudge.design/share/pin-6450)
 
-[![Bright yellow call-to-action band with dark pill-shaped button and footer navigation on dark charcoal background](https://pin.fontofweb.com/6449?format=jpg)](https://design.withfudge.com/share/pin-6449)
+[![Bright yellow call-to-action band with dark pill-shaped button and footer navigation on dark charcoal background](https://pin.fontofweb.com/6449?format=jpg)](https://fudge.design/share/pin-6449)
 
-[Bright yellow call-to-action band with dark pill-shaped button and footer navigation on dark charcoal background](https://design.withfudge.com/share/pin-6449)
+[Bright yellow call-to-action band with dark pill-shaped button and footer navigation on dark charcoal background](https://fudge.design/share/pin-6449)
 
-[![Dark footer with multi-column link grid, social icons, and green standalone CTA button with status indicator](https://pin.fontofweb.com/6448?format=jpg)](https://design.withfudge.com/share/pin-6448)
+[![Dark footer with multi-column link grid, social icons, and green standalone CTA button with status indicator](https://pin.fontofweb.com/6448?format=jpg)](https://fudge.design/share/pin-6448)
 
-[Dark footer with multi-column link grid, social icons, and green standalone CTA button with status indicator](https://design.withfudge.com/share/pin-6448)
+[Dark footer with multi-column link grid, social icons, and green standalone CTA button with status indicator](https://fudge.design/share/pin-6448)
 
-[![Accordion-style feature panel showing video quality tiers with circular icons and expandable sections on off-white background](https://pin.fontofweb.com/6447?format=jpg)](https://design.withfudge.com/share/pin-6447)
+[![Accordion-style feature panel showing video quality tiers with circular icons and expandable sections on off-white background](https://pin.fontofweb.com/6447?format=jpg)](https://fudge.design/share/pin-6447)
 
-[Accordion-style feature panel showing video quality tiers with circular icons and expandable sections on off-white background](https://design.withfudge.com/share/pin-6447)
+[Accordion-style feature panel showing video quality tiers with circular icons and expandable sections on off-white background](https://fudge.design/share/pin-6447)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Typography should scale down by approximately 15% on tablet and 25% on mobile, w
 ## Scope note
 
 This guide covers the pricing page and footer surfaces of mux.com, including the video pipeline explanation, quality tier accordion, conversion band, and comprehensive footer navigation. The homepage hero, documentation pages, and dashboard interface are not represented in the supplied material. Motion behavior, mobile breakpoints, form validation states, and the video player component are not documented here. Measurements are derived from the exact values in the supplied interface data.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

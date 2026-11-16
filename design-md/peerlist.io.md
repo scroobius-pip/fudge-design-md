@@ -1,26 +1,26 @@
 # How peerlist.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/peerlist.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/peerlist.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Signup page with stacked avatar group, italic serif subhead, and rounded dark submit button in a shadowed card](https://pin.fontofweb.com/2702?format=jpg)](https://design.withfudge.com/share/pin-2702)
+[![Signup page with stacked avatar group, italic serif subhead, and rounded dark submit button in a shadowed card](https://pin.fontofweb.com/2702?format=jpg)](https://fudge.design/share/pin-2702)
 
-[Signup page with stacked avatar group, italic serif subhead, and rounded dark submit button in a shadowed card](https://design.withfudge.com/share/pin-2702)
+[Signup page with stacked avatar group, italic serif subhead, and rounded dark submit button in a shadowed card](https://fudge.design/share/pin-2702)
 
-[![Login page with gradient serif welcome text, Google SSO option, and pill-shaped dark login button](https://pin.fontofweb.com/2701?format=jpg)](https://design.withfudge.com/share/pin-2701)
+[![Login page with gradient serif welcome text, Google SSO option, and pill-shaped dark login button](https://pin.fontofweb.com/2701?format=jpg)](https://fudge.design/share/pin-2701)
 
-[Login page with gradient serif welcome text, Google SSO option, and pill-shaped dark login button](https://design.withfudge.com/share/pin-2701)
+[Login page with gradient serif welcome text, Google SSO option, and pill-shaped dark login button](https://fudge.design/share/pin-2701)
 
-[![Homepage footer with italic serif headline, username claim input with green icon, and multi-column link grid](https://pin.fontofweb.com/2700?format=jpg)](https://design.withfudge.com/share/pin-2700)
+[![Homepage footer with italic serif headline, username claim input with green icon, and multi-column link grid](https://pin.fontofweb.com/2700?format=jpg)](https://fudge.design/share/pin-2700)
 
-[Homepage footer with italic serif headline, username claim input with green icon, and multi-column link grid](https://design.withfudge.com/share/pin-2700)
+[Homepage footer with italic serif headline, username claim input with green icon, and multi-column link grid](https://fudge.design/share/pin-2700)
 
-[![FAQ section with bold question headings and muted gray body text in a narrow centered column](https://pin.fontofweb.com/2699?format=jpg)](https://design.withfudge.com/share/pin-2699)
+[![FAQ section with bold question headings and muted gray body text in a narrow centered column](https://pin.fontofweb.com/2699?format=jpg)](https://fudge.design/share/pin-2699)
 
-[FAQ section with bold question headings and muted gray body text in a narrow centered column](https://design.withfudge.com/share/pin-2699)
+[FAQ section with bold question headings and muted gray body text in a narrow centered column](https://fudge.design/share/pin-2699)
 
 ## Overview
 
@@ -182,3 +182,18 @@ When implementing responsive behavior, maintain the single-column card layout fo
 ## Scope note
 
 This guide covers the authentication flows and homepage footer visible in the supplied images. Navigation headers, profile pages, job listings, and interactive states such as hover, focus, loading, and error conditions are not represented. The dark mode presentation, if any exists, is not documented here. Measurements are practical adaptation targets derived from the visible surfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Hero section](/share/designs-with-section.marketing.hero)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How variant.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/variant.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/variant.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Community grid showing diverse generated designs including BRANDSYS album cover, architecture analysis engine dashboard, and radial spiral matrix with floating prompt bar](https://pin.fontofweb.com/8763?format=jpg)](https://design.withfudge.com/share/pin-8763)
+[![Community grid showing diverse generated designs including BRANDSYS album cover, architecture analysis engine dashboard, and radial spiral matrix with floating prompt bar](https://pin.fontofweb.com/8763?format=jpg)](https://fudge.design/share/pin-8763)
 
-[Community grid showing diverse generated designs including BRANDSYS album cover, architecture analysis engine dashboard, and radial spiral matrix with floating prompt bar](https://design.withfudge.com/share/pin-8763)
+[Community grid showing diverse generated designs including BRANDSYS album cover, architecture analysis engine dashboard, and radial spiral matrix with floating prompt bar](https://fudge.design/share/pin-8763)
 
-[![Chat interface with dark background showing search status messages and design exploration progress indicators](https://pin.fontofweb.com/8046?format=jpg)](https://design.withfudge.com/share/pin-8046)
+[![Chat interface with dark background showing search status messages and design exploration progress indicators](https://pin.fontofweb.com/8046?format=jpg)](https://fudge.design/share/pin-8046)
 
-[Chat interface with dark background showing search status messages and design exploration progress indicators](https://design.withfudge.com/share/pin-8046)
+[Chat interface with dark background showing search status messages and design exploration progress indicators](https://fudge.design/share/pin-8046)
 
-[![Community page with pricing modal overlay displaying Free, Pro, and Business tiers against design grid backdrop](https://pin.fontofweb.com/7234?format=jpg)](https://design.withfudge.com/share/pin-7234)
+[![Community page with pricing modal overlay displaying Free, Pro, and Business tiers against design grid backdrop](https://pin.fontofweb.com/7234?format=jpg)](https://fudge.design/share/pin-7234)
 
-[Community page with pricing modal overlay displaying Free, Pro, and Business tiers against design grid backdrop](https://design.withfudge.com/share/pin-7234)
+[Community page with pricing modal overlay displaying Free, Pro, and Business tiers against design grid backdrop](https://fudge.design/share/pin-7234)
 
-[![Empty new design canvas with dashed placeholder frames, left sidebar navigation, and bottom prompt input with suggestion chips](https://pin.fontofweb.com/6386?format=jpg)](https://design.withfudge.com/share/pin-6386)
+[![Empty new design canvas with dashed placeholder frames, left sidebar navigation, and bottom prompt input with suggestion chips](https://pin.fontofweb.com/6386?format=jpg)](https://fudge.design/share/pin-6386)
 
-[Empty new design canvas with dashed placeholder frames, left sidebar navigation, and bottom prompt input with suggestion chips](https://design.withfudge.com/share/pin-6386)
+[Empty new design canvas with dashed placeholder frames, left sidebar navigation, and bottom prompt input with suggestion chips](https://fudge.design/share/pin-6386)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Text sizes remain fixed across breakpoints, relying on the generous canvas to ma
 ## Scope note
 
 This guide covers the community browsing, chat interface, pricing, and new design canvas surfaces visible in the supplied images. Mobile layouts, animation specifications, and design generation internals are not included. The exact spacing values reflect the retained interface measurements; adapt as needed for responsive contexts.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How keyavadgama.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/keyavadgama.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/keyavadgama.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with circular avatar, name, role description, and horizontal pill navigation above a colorful bento grid of project cards.](https://pin.fontofweb.com/8028?format=jpg)](https://design.withfudge.com/share/pin-8028)
+[![Homepage hero with circular avatar, name, role description, and horizontal pill navigation above a colorful bento grid of project cards.](https://pin.fontofweb.com/8028?format=jpg)](https://fudge.design/share/pin-8028)
 
-[Homepage hero with circular avatar, name, role description, and horizontal pill navigation above a colorful bento grid of project cards.](https://design.withfudge.com/share/pin-8028)
+[Homepage hero with circular avatar, name, role description, and horizontal pill navigation above a colorful bento grid of project cards.](https://fudge.design/share/pin-8028)
 
-[![Footer area with a bold script logomark on the left and a right-aligned links column containing social links, email, copyright, and type credit.](https://pin.fontofweb.com/3625?format=jpg)](https://design.withfudge.com/share/pin-3625)
+[![Footer area with a bold script logomark on the left and a right-aligned links column containing social links, email, copyright, and type credit.](https://pin.fontofweb.com/3625?format=jpg)](https://fudge.design/share/pin-3625)
 
-[Footer area with a bold script logomark on the left and a right-aligned links column containing social links, email, copyright, and type credit.](https://design.withfudge.com/share/pin-3625)
+[Footer area with a bold script logomark on the left and a right-aligned links column containing social links, email, copyright, and type credit.](https://fudge.design/share/pin-3625)
 
-[![Mid-page bento grid showing project work including a purple security card, blue Builders Club card, photo strip, and large gradient card reading TWO YEARS LATER.](https://pin.fontofweb.com/3624?format=jpg)](https://design.withfudge.com/share/pin-3624)
+[![Mid-page bento grid showing project work including a purple security card, blue Builders Club card, photo strip, and large gradient card reading TWO YEARS LATER.](https://pin.fontofweb.com/3624?format=jpg)](https://fudge.design/share/pin-3624)
 
-[Mid-page bento grid showing project work including a purple security card, blue Builders Club card, photo strip, and large gradient card reading TWO YEARS LATER.](https://design.withfudge.com/share/pin-3624)
+[Mid-page bento grid showing project work including a purple security card, blue Builders Club card, photo strip, and large gradient card reading TWO YEARS LATER.](https://fudge.design/share/pin-3624)
 
-[![Extended homepage view with full bento grid revealing additional cards in green, yellow, dark green, and mint alongside the orange and red cards.](https://pin.fontofweb.com/3623?format=jpg)](https://design.withfudge.com/share/pin-3623)
+[![Extended homepage view with full bento grid revealing additional cards in green, yellow, dark green, and mint alongside the orange and red cards.](https://pin.fontofweb.com/3623?format=jpg)](https://fudge.design/share/pin-3623)
 
-[Extended homepage view with full bento grid revealing additional cards in green, yellow, dark green, and mint alongside the orange and red cards.](https://design.withfudge.com/share/pin-3623)
+[Extended homepage view with full bento grid revealing additional cards in green, yellow, dark green, and mint alongside the orange and red cards.](https://fudge.design/share/pin-3623)
 
 ## Overview
 
@@ -106,10 +106,10 @@ Photography and illustration within cards often feature warm, saturated tones th
 - **Spacing**: 20px internal padding; 12px gap between adjacent cards
 - **Composition**: Cards tile in irregular grid pattern with varying widths and heights; some cards span multiple grid columns
 - **Variants**:
-  - **Text card**: Cream or colored background with text content only, often with small label at bottom
-  - **Image card**: Photographic or illustrated content filling card, sometimes with text overlay
-  - **Feature card**: Larger size with more prominent heading and longer description
-  - **Dark card**: Deep green or red background with cream or white text for contrast
+ - **Text card**: Cream or colored background with text content only, often with small label at bottom
+ - **Image card**: Photographic or illustrated content filling card, sometimes with text overlay
+ - **Feature card**: Larger size with more prominent heading and longer description
+ - **Dark card**: Deep green or red background with cream or white text for contrast
 
 ### Footer
 
@@ -158,3 +158,18 @@ The bento grid should reflow from multi-column to single-column on narrower view
 ## Scope note
 
 This guide covers the homepage and its visible components including the profile header, category filters, bento project grid, and footer. Interior project pages, mobile-specific layouts, hover and focus states, and any motion or loading behaviors are not documented here. The exact spacing and sizing values derive from the desktop viewport as captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

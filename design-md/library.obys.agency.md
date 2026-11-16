@@ -1,26 +1,26 @@
 # How library.obys.agency is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/library.obys.agency-design)
+[Open the live Fudge conversation](https://fudge.design/share/library.obys.agency-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with halftone globe graphic, orange accent panel, and contact footer on textured gray background](https://pin.fontofweb.com/4666?format=jpg)](https://design.withfudge.com/share/pin-4666)
+[![About page with halftone globe graphic, orange accent panel, and contact footer on textured gray background](https://pin.fontofweb.com/4666?format=jpg)](https://fudge.design/share/pin-4666)
 
-[About page with halftone globe graphic, orange accent panel, and contact footer on textured gray background](https://design.withfudge.com/share/pin-4666)
+[About page with halftone globe graphic, orange accent panel, and contact footer on textured gray background](https://fudge.design/share/pin-4666)
 
-[![Books listing page with numbered rows, category tags, and large section heading on off-white background](https://pin.fontofweb.com/4664?format=jpg)](https://design.withfudge.com/share/pin-4664)
+[![Books listing page with numbered rows, category tags, and large section heading on off-white background](https://pin.fontofweb.com/4664?format=jpg)](https://fudge.design/share/pin-4664)
 
-[Books listing page with numbered rows, category tags, and large section heading on off-white background](https://design.withfudge.com/share/pin-4664)
+[Books listing page with numbered rows, category tags, and large section heading on off-white background](https://fudge.design/share/pin-4664)
 
-[![About page showing navigation dots, sidebar numbering, and decorative orange pixel pattern along right edge](https://pin.fontofweb.com/4663?format=jpg)](https://design.withfudge.com/share/pin-4663)
+[![About page showing navigation dots, sidebar numbering, and decorative orange pixel pattern along right edge](https://pin.fontofweb.com/4663?format=jpg)](https://fudge.design/share/pin-4663)
 
-[About page showing navigation dots, sidebar numbering, and decorative orange pixel pattern along right edge](https://design.withfudge.com/share/pin-4663)
+[About page showing navigation dots, sidebar numbering, and decorative orange pixel pattern along right edge](https://fudge.design/share/pin-4663)
 
-[![About page with bold manifesto text, halftone world map, and layered thumbnail navigation on black surround](https://pin.fontofweb.com/4662?format=jpg)](https://design.withfudge.com/share/pin-4662)
+[![About page with bold manifesto text, halftone world map, and layered thumbnail navigation on black surround](https://pin.fontofweb.com/4662?format=jpg)](https://fudge.design/share/pin-4662)
 
-[About page with bold manifesto text, halftone world map, and layered thumbnail navigation on black surround](https://design.withfudge.com/share/pin-4662)
+[About page with bold manifesto text, halftone world map, and layered thumbnail navigation on black surround](https://fudge.design/share/pin-4662)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Typography should scale down proportionally, with the section-display size reduc
 ## Scope note
 
 This guide covers the About and Books listing surfaces visible in the supplied images. The Books detail page, Credits page, Contacts form, and any menu overlay states are not represented. Motion behavior, hover states, and mobile adaptations are inferred from static images and should be validated in implementation. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

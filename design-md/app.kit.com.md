@@ -1,26 +1,26 @@
 # How app.kit.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.kit.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.kit.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dashboard overview with welcome header, Kit App Store banner, and new subscribers metric cards showing zero to 166 counts](https://pin.fontofweb.com/5178?format=jpg)](https://design.withfudge.com/share/pin-5178)
+[![Dashboard overview with welcome header, Kit App Store banner, and new subscribers metric cards showing zero to 166 counts](https://pin.fontofweb.com/5178?format=jpg)](https://fudge.design/share/pin-5178)
 
-[Dashboard overview with welcome header, Kit App Store banner, and new subscribers metric cards showing zero to 166 counts](https://design.withfudge.com/share/pin-5178)
+[Dashboard overview with welcome header, Kit App Store banner, and new subscribers metric cards showing zero to 166 counts](https://fudge.design/share/pin-5178)
 
-[![Empty subscribers state with centered illustration, three import option cards, and minimal page layout](https://pin.fontofweb.com/5172?format=jpg)](https://design.withfudge.com/share/pin-5172)
+[![Empty subscribers state with centered illustration, three import option cards, and minimal page layout](https://pin.fontofweb.com/5172?format=jpg)](https://fudge.design/share/pin-5172)
 
-[Empty subscribers state with centered illustration, three import option cards, and minimal page layout](https://design.withfudge.com/share/pin-5172)
+[Empty subscribers state with centered illustration, three import option cards, and minimal page layout](https://fudge.design/share/pin-5172)
 
-[![Full dashboard with recommendations section, creator match cards with avatars, and notification toast in corner](https://pin.fontofweb.com/5171?format=jpg)](https://design.withfudge.com/share/pin-5171)
+[![Full dashboard with recommendations section, creator match cards with avatars, and notification toast in corner](https://pin.fontofweb.com/5171?format=jpg)](https://fudge.design/share/pin-5171)
 
-[Full dashboard with recommendations section, creator match cards with avatars, and notification toast in corner](https://design.withfudge.com/share/pin-5171)
+[Full dashboard with recommendations section, creator match cards with avatars, and notification toast in corner](https://fudge.design/share/pin-5171)
 
-[![Onboarding audience size step with segmented option buttons, back and continue actions, and step indicator sidebar](https://pin.fontofweb.com/5170?format=jpg)](https://design.withfudge.com/share/pin-5170)
+[![Onboarding audience size step with segmented option buttons, back and continue actions, and step indicator sidebar](https://pin.fontofweb.com/5170?format=jpg)](https://fudge.design/share/pin-5170)
 
-[Onboarding audience size step with segmented option buttons, back and continue actions, and step indicator sidebar](https://design.withfudge.com/share/pin-5170)
+[Onboarding audience size step with segmented option buttons, back and continue actions, and step indicator sidebar](https://fudge.design/share/pin-5170)
 
 ## Overview
 
@@ -238,3 +238,18 @@ Page margins should compress from generous desktop whitespace to minimal safe-ar
 ## Scope note
 
 This guide covers the dashboard, subscribers, and onboarding surfaces visible in the supplied images. Mobile breakpoints, dark mode, loading states, error handling, and animation are not represented. Measurements are practical adaptation targets based on visual estimation from the provided screenshots.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

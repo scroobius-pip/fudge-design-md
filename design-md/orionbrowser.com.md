@@ -1,22 +1,22 @@
 # How orionbrowser.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/orionbrowser.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/orionbrowser.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Core features grid with four rounded cards showing privacy, customization, extensions, and Kagi services with line icons and purple accent buttons](https://pin.fontofweb.com/10434?format=jpg)](https://design.withfudge.com/share/pin-10434)
+[![Core features grid with four rounded cards showing privacy, customization, extensions, and Kagi services with line icons and purple accent buttons](https://pin.fontofweb.com/10434?format=jpg)](https://fudge.design/share/pin-10434)
 
-[Core features grid with four rounded cards showing privacy, customization, extensions, and Kagi services with line icons and purple accent buttons](https://design.withfudge.com/share/pin-10434)
+[Core features grid with four rounded cards showing privacy, customization, extensions, and Kagi services with line icons and purple accent buttons](https://fudge.design/share/pin-10434)
 
-[![Footer section with Orion Browser branding, Kagi mascot illustration, and multi-column download and support links on a light gradient background](https://pin.fontofweb.com/10433?format=jpg)](https://design.withfudge.com/share/pin-10433)
+[![Footer section with Orion Browser branding, Kagi mascot illustration, and multi-column download and support links on a light gradient background](https://pin.fontofweb.com/10433?format=jpg)](https://fudge.design/share/pin-10433)
 
-[Footer section with Orion Browser branding, Kagi mascot illustration, and multi-column download and support links on a light gradient background](https://design.withfudge.com/share/pin-10433)
+[Footer section with Orion Browser branding, Kagi mascot illustration, and multi-column download and support links on a light gradient background](https://fudge.design/share/pin-10433)
 
-[![Orion Plus promotional section with astronaut mascot illustration, purple gradient CTA button, and subscription messaging on a soft gray rounded panel](https://pin.fontofweb.com/10432?format=jpg)](https://design.withfudge.com/share/pin-10432)
+[![Orion Plus promotional section with astronaut mascot illustration, purple gradient CTA button, and subscription messaging on a soft gray rounded panel](https://pin.fontofweb.com/10432?format=jpg)](https://fudge.design/share/pin-10432)
 
-[Orion Plus promotional section with astronaut mascot illustration, purple gradient CTA button, and subscription messaging on a soft gray rounded panel](https://design.withfudge.com/share/pin-10432)
+[Orion Plus promotional section with astronaut mascot illustration, purple gradient CTA button, and subscription messaging on a soft gray rounded panel](https://fudge.design/share/pin-10432)
 
 ## Overview
 
@@ -203,3 +203,18 @@ Promotional panels with side illustrations should stack vertically on narrow scr
 ## Scope note
 
 This guide covers the Orion Browser marketing page's landing and promotional surfaces as visible in the supplied images. Navigation header behavior, mobile menu states, form interactions, download flows, and animation or motion design are not represented. Dark mode variants, additional interior pages, and browser extension UI are outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

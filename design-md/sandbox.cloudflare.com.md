@@ -1,26 +1,26 @@
 # How sandbox.cloudflare.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sandbox.cloudflare.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sandbox.cloudflare.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large 'sandbox' display type, wireframe decorative graphics, and code snippet panel on dark canvas](https://pin.fontofweb.com/3669?format=jpg)](https://design.withfudge.com/share/pin-3669)
+[![Hero section with large 'sandbox' display type, wireframe decorative graphics, and code snippet panel on dark canvas](https://pin.fontofweb.com/3669?format=jpg)](https://fudge.design/share/pin-3669)
 
-[Hero section with large 'sandbox' display type, wireframe decorative graphics, and code snippet panel on dark canvas](https://design.withfudge.com/share/pin-3669)
+[Hero section with large 'sandbox' display type, wireframe decorative graphics, and code snippet panel on dark canvas](https://fudge.design/share/pin-3669)
 
-[![Oval pill buttons showing 'Get Started' with arrow icon and 'npm i @cloudflare/sandbox' install command](https://pin.fontofweb.com/3668?format=jpg)](https://design.withfudge.com/share/pin-3668)
+[![Oval pill buttons showing 'Get Started' with arrow icon and 'npm i @cloudflare/sandbox' install command](https://pin.fontofweb.com/3668?format=jpg)](https://fudge.design/share/pin-3668)
 
-[Oval pill buttons showing 'Get Started' with arrow icon and 'npm i @cloudflare/sandbox' install command](https://design.withfudge.com/share/pin-3668)
+[Oval pill buttons showing 'Get Started' with arrow icon and 'npm i @cloudflare/sandbox' install command](https://fudge.design/share/pin-3668)
 
-[![Testimonials section with staggered quote cards, decorative quotation marks, and grid-line background pattern](https://pin.fontofweb.com/3667?format=jpg)](https://design.withfudge.com/share/pin-3667)
+[![Testimonials section with staggered quote cards, decorative quotation marks, and grid-line background pattern](https://pin.fontofweb.com/3667?format=jpg)](https://fudge.design/share/pin-3667)
 
-[Testimonials section with staggered quote cards, decorative quotation marks, and grid-line background pattern](https://design.withfudge.com/share/pin-3667)
+[Testimonials section with staggered quote cards, decorative quotation marks, and grid-line background pattern](https://fudge.design/share/pin-3667)
 
-[![Examples section with expandable sidebar navigation and syntax-highlighted code block in bordered panel](https://pin.fontofweb.com/3666?format=jpg)](https://design.withfudge.com/share/pin-3666)
+[![Examples section with expandable sidebar navigation and syntax-highlighted code block in bordered panel](https://pin.fontofweb.com/3666?format=jpg)](https://fudge.design/share/pin-3666)
 
-[Examples section with expandable sidebar navigation and syntax-highlighted code block in bordered panel](https://design.withfudge.com/share/pin-3666)
+[Examples section with expandable sidebar navigation and syntax-highlighted code block in bordered panel](https://fudge.design/share/pin-3666)
 
 ## Overview
 
@@ -191,3 +191,18 @@ The pill-shaped buttons and install commands maintain their proportions but may 
 ## Scope note
 
 This guide covers the Cloudflare Sandbox SDK marketing and documentation page as visible in the supplied images. Mobile layouts, animation behavior, form interactions, and additional interior pages are not represented. The wireframe decorative graphics and their responsive behavior require custom implementation. Measurements are practical adaptation targets derived from visual inspection of the grid-based composition.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How kilo.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kilo.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/kilo.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Comparison table with dark rows, yellow-green accent column, and monospace labels for Cline versus Kilo Code features](https://pin.fontofweb.com/6963?format=jpg)](https://design.withfudge.com/share/pin-6963)
+[![Comparison table with dark rows, yellow-green accent column, and monospace labels for Cline versus Kilo Code features](https://pin.fontofweb.com/6963?format=jpg)](https://fudge.design/share/pin-6963)
 
-[Comparison table with dark rows, yellow-green accent column, and monospace labels for Cline versus Kilo Code features](https://design.withfudge.com/share/pin-6963)
+[Comparison table with dark rows, yellow-green accent column, and monospace labels for Cline versus Kilo Code features](https://fudge.design/share/pin-6963)
 
-[![Platform grid showing IDE and tool icons in bordered cells under a centered monospace heading on near-black background](https://pin.fontofweb.com/6432?format=jpg)](https://design.withfudge.com/share/pin-6432)
+[![Platform grid showing IDE and tool icons in bordered cells under a centered monospace heading on near-black background](https://pin.fontofweb.com/6432?format=jpg)](https://fudge.design/share/pin-6432)
 
-[Platform grid showing IDE and tool icons in bordered cells under a centered monospace heading on near-black background](https://design.withfudge.com/share/pin-6432)
+[Platform grid showing IDE and tool icons in bordered cells under a centered monospace heading on near-black background](https://fudge.design/share/pin-6432)
 
-[![Install page with oversized yellow display heading, tab navigation, and yellow-filled primary action button on dark surface](https://pin.fontofweb.com/6430?format=jpg)](https://design.withfudge.com/share/pin-6430)
+[![Install page with oversized yellow display heading, tab navigation, and yellow-filled primary action button on dark surface](https://pin.fontofweb.com/6430?format=jpg)](https://fudge.design/share/pin-6430)
 
-[Install page with oversized yellow display heading, tab navigation, and yellow-filled primary action button on dark surface](https://design.withfudge.com/share/pin-6430)
+[Install page with oversized yellow display heading, tab navigation, and yellow-filled primary action button on dark surface](https://fudge.design/share/pin-6430)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The supplied images show desktop-width layouts. Based on the component structure
 ## Scope note
 
 This guide covers the homepage, installation page, and comparison page surfaces visible in the supplied images. Mobile breakpoints, animation, form validation states, and additional marketing pages are not represented. The Codicon symbol font is used for interface icons and is not documented as a typography family. Measurements are drawn from the exact values supplied for this domain.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

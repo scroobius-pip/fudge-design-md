@@ -1,26 +1,26 @@
 # How prismdata.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/prismdata.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/prismdata.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![CashScore feature grid with dark cards showing creditworthy applicant metrics, data category pills, and a CashScore 689 result card with reason codes.](https://pin.fontofweb.com/4462?format=jpg)](https://design.withfudge.com/share/pin-4462)
+[![CashScore feature grid with dark cards showing creditworthy applicant metrics, data category pills, and a CashScore 689 result card with reason codes.](https://pin.fontofweb.com/4462?format=jpg)](https://fudge.design/share/pin-4462)
 
-[CashScore feature grid with dark cards showing creditworthy applicant metrics, data category pills, and a CashScore 689 result card with reason codes.](https://design.withfudge.com/share/pin-4462)
+[CashScore feature grid with dark cards showing creditworthy applicant metrics, data category pills, and a CashScore 689 result card with reason codes.](https://fudge.design/share/pin-4462)
 
-[![CashScore predictive lift banner with 30% statistic, green upward arrow, and subtle rainbow gradient border on a dark rounded panel.](https://pin.fontofweb.com/4461?format=jpg)](https://design.withfudge.com/share/pin-4461)
+[![CashScore predictive lift banner with 30% statistic, green upward arrow, and subtle rainbow gradient border on a dark rounded panel.](https://pin.fontofweb.com/4461?format=jpg)](https://fudge.design/share/pin-4461)
 
-[CashScore predictive lift banner with 30% statistic, green upward arrow, and subtle rainbow gradient border on a dark rounded panel.](https://design.withfudge.com/share/pin-4461)
+[CashScore predictive lift banner with 30% statistic, green upward arrow, and subtle rainbow gradient border on a dark rounded panel.](https://fudge.design/share/pin-4461)
 
-[![Homepage metrics section with Approve more and Reduce losses headlines, three stat cards, and a colorful Prism CashScore rating bar chart with risk categories.](https://pin.fontofweb.com/4460?format=jpg)](https://design.withfudge.com/share/pin-4460)
+[![Homepage metrics section with Approve more and Reduce losses headlines, three stat cards, and a colorful Prism CashScore rating bar chart with risk categories.](https://pin.fontofweb.com/4460?format=jpg)](https://fudge.design/share/pin-4460)
 
-[Homepage metrics section with Approve more and Reduce losses headlines, three stat cards, and a colorful Prism CashScore rating bar chart with risk categories.](https://design.withfudge.com/share/pin-4460)
+[Homepage metrics section with Approve more and Reduce losses headlines, three stat cards, and a colorful Prism CashScore rating bar chart with risk categories.](https://fudge.design/share/pin-4460)
 
-[![Use cases carousel with three dark feature cards showing approval rates donut chart, risk radar visualization, and fraud detection panel with category pills below.](https://pin.fontofweb.com/4459?format=jpg)](https://design.withfudge.com/share/pin-4459)
+[![Use cases carousel with three dark feature cards showing approval rates donut chart, risk radar visualization, and fraud detection panel with category pills below.](https://pin.fontofweb.com/4459?format=jpg)](https://fudge.design/share/pin-4459)
 
-[Use cases carousel with three dark feature cards showing approval rates donut chart, risk radar visualization, and fraud detection panel with category pills below.](https://design.withfudge.com/share/pin-4459)
+[Use cases carousel with three dark feature cards showing approval rates donut chart, risk radar visualization, and fraud detection panel with category pills below.](https://fudge.design/share/pin-4459)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Touch targets for carousel navigation arrows and interactive pills should meet a
 ## Scope note
 
 This guide covers the homepage and CashScore product page surfaces visible in the supplied images. Navigation headers, footer content, form interactions, mobile layouts, and additional product pages are not represented. Motion behavior, hover states, and loading patterns are not documented. Measurements are practical adaptation targets based on visual analysis of the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How sinelaw.github.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sinelaw.github.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/sinelaw.github.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature section with three stacked blocks showing Discovery, Modern Extensibility, and Zero-Latency Performance with syntax-highlighted keywords on black background](https://pin.fontofweb.com/5313?format=jpg)](https://design.withfudge.com/share/pin-5313)
+[![Feature section with three stacked blocks showing Discovery, Modern Extensibility, and Zero-Latency Performance with syntax-highlighted keywords on black background](https://pin.fontofweb.com/5313?format=jpg)](https://fudge.design/share/pin-5313)
 
-[Feature section with three stacked blocks showing Discovery, Modern Extensibility, and Zero-Latency Performance with syntax-highlighted keywords on black background](https://design.withfudge.com/share/pin-5313)
+[Feature section with three stacked blocks showing Discovery, Modern Extensibility, and Zero-Latency Performance with syntax-highlighted keywords on black background](https://fudge.design/share/pin-5313)
 
-[![Hero section with large green pixel-art FRESH logo, tagline, installation methods grid, and embedded terminal editor screenshot with file explorer and Rust code](https://pin.fontofweb.com/5312?format=jpg)](https://design.withfudge.com/share/pin-5312)
+[![Hero section with large green pixel-art FRESH logo, tagline, installation methods grid, and embedded terminal editor screenshot with file explorer and Rust code](https://pin.fontofweb.com/5312?format=jpg)](https://fudge.design/share/pin-5312)
 
-[Hero section with large green pixel-art FRESH logo, tagline, installation methods grid, and embedded terminal editor screenshot with file explorer and Rust code](https://design.withfudge.com/share/pin-5312)
+[Hero section with large green pixel-art FRESH logo, tagline, installation methods grid, and embedded terminal editor screenshot with file explorer and Rust code](https://fudge.design/share/pin-5312)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Tag pills in the hero may wrap to multiple lines on very narrow screens. The ver
 ## Scope note
 
 This guide covers the landing page for Fresh as visible in the supplied images. The terminal screenshot's internal UI colors are described for visual context but not fully tokenized as site-wide values. Measurements are practical adaptation targets. No mobile layout, animation, form interactions, or additional pages are represented in the source material. The embedded editor's complete color theme, menu system behavior, and file explorer interactions are shown but not specified as reusable components.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Features section](/share/designs-with-section.marketing.features)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

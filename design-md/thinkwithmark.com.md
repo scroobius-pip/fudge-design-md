@@ -1,26 +1,26 @@
 # How thinkwithmark.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thinkwithmark.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/thinkwithmark.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with dark canvas, centered editorial portrait, and Copernicus body text in warm off-white](https://pin.fontofweb.com/9358?format=jpg)](https://design.withfudge.com/share/pin-9358)
+[![About page with dark canvas, centered editorial portrait, and Copernicus body text in warm off-white](https://pin.fontofweb.com/9358?format=jpg)](https://fudge.design/share/pin-9358)
 
-[About page with dark canvas, centered editorial portrait, and Copernicus body text in warm off-white](https://design.withfudge.com/share/pin-9358)
+[About page with dark canvas, centered editorial portrait, and Copernicus body text in warm off-white](https://fudge.design/share/pin-9358)
 
-[![FAQ accordion section with cream background, Copernicus display heading, and circular toggle icons](https://pin.fontofweb.com/9357?format=jpg)](https://design.withfudge.com/share/pin-9357)
+[![FAQ accordion section with cream background, Copernicus display heading, and circular toggle icons](https://pin.fontofweb.com/9357?format=jpg)](https://fudge.design/share/pin-9357)
 
-[FAQ accordion section with cream background, Copernicus display heading, and circular toggle icons](https://design.withfudge.com/share/pin-9357)
+[FAQ accordion section with cream background, Copernicus display heading, and circular toggle icons](https://fudge.design/share/pin-9357)
 
-[![Preorder page keynote video section with rounded media frame and specification grid in warm neutrals](https://pin.fontofweb.com/9356?format=jpg)](https://design.withfudge.com/share/pin-9356)
+[![Preorder page keynote video section with rounded media frame and specification grid in warm neutrals](https://pin.fontofweb.com/9356?format=jpg)](https://fudge.design/share/pin-9356)
 
-[Preorder page keynote video section with rounded media frame and specification grid in warm neutrals](https://design.withfudge.com/share/pin-9356)
+[Preorder page keynote video section with rounded media frame and specification grid in warm neutrals](https://fudge.design/share/pin-9356)
 
-[![Preorder page hero with product imagery, gradient pricing cards, and pill-shaped CTA buttons](https://pin.fontofweb.com/9355?format=jpg)](https://design.withfudge.com/share/pin-9355)
+[![Preorder page hero with product imagery, gradient pricing cards, and pill-shaped CTA buttons](https://pin.fontofweb.com/9355?format=jpg)](https://fudge.design/share/pin-9355)
 
-[Preorder page hero with product imagery, gradient pricing cards, and pill-shaped CTA buttons](https://design.withfudge.com/share/pin-9355)
+[Preorder page hero with product imagery, gradient pricing cards, and pill-shaped CTA buttons](https://fudge.design/share/pin-9355)
 
 ## Overview
 
@@ -201,3 +201,18 @@ The dark-to-light section transitions should remain, but vertical padding can co
 ## Scope note
 
 This guide covers the landing, about, and preorder page surfaces visible in the supplied images. Mobile breakpoints, checkout flows, form validation states, and email capture confirmation are not represented. The 0.125rem spacing unit derives from the extracted scale; measurements are practical adaptation targets for reconstruction.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

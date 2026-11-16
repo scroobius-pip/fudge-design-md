@@ -1,18 +1,18 @@
 # How symbl.space is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/symbl.space-design)
+[Open the live Fudge conversation](https://fudge.design/share/symbl.space-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-mode scale preview showing white logo marks at 256px, 128px, 64px, and 32px against near-black canvas with subtle scanline texture overlay](https://pin.fontofweb.com/8200?format=jpg)](https://design.withfudge.com/share/pin-8200)
+[![Dark-mode scale preview showing white logo marks at 256px, 128px, 64px, and 32px against near-black canvas with subtle scanline texture overlay](https://pin.fontofweb.com/8200?format=jpg)](https://fudge.design/share/pin-8200)
 
-[Dark-mode scale preview showing white logo marks at 256px, 128px, 64px, and 32px against near-black canvas with subtle scanline texture overlay](https://design.withfudge.com/share/pin-8200)
+[Dark-mode scale preview showing white logo marks at 256px, 128px, 64px, and 32px against near-black canvas with subtle scanline texture overlay](https://fudge.design/share/pin-8200)
 
-[![Full dashboard interface with light gray chrome, logo complexity analysis panel, multi-size scale preview, app icon variants, 3D extrusion render, and blur simulation sections](https://pin.fontofweb.com/8199?format=jpg)](https://design.withfudge.com/share/pin-8199)
+[![Full dashboard interface with light gray chrome, logo complexity analysis panel, multi-size scale preview, app icon variants, 3D extrusion render, and blur simulation sections](https://pin.fontofweb.com/8199?format=jpg)](https://fudge.design/share/pin-8199)
 
-[Full dashboard interface with light gray chrome, logo complexity analysis panel, multi-size scale preview, app icon variants, 3D extrusion render, and blur simulation sections](https://design.withfudge.com/share/pin-8199)
+[Full dashboard interface with light gray chrome, logo complexity analysis panel, multi-size scale preview, app icon variants, 3D extrusion render, and blur simulation sections](https://fudge.design/share/pin-8199)
 
 ## Overview
 
@@ -195,3 +195,18 @@ The monospace type system remains legible at standard browser zoom levels up to 
 ## Scope note
 
 This guide covers the logo evaluation dashboard interface visible on the Symbl homepage. The 3D extrusion rendering pipeline, blur simulation algorithms, and export functionality are described only as presented in the UI, not as underlying technical systems. Motion behavior, loading states, and mobile adaptations are not represented in the supplied material. Measurements are exact values from the retained interface specification.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Application page](/share/designs-with-page.application)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

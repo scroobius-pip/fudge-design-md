@@ -1,26 +1,26 @@
 # How n8n.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/n8n.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/n8n.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Careers hero with dark gradient background, orange accent label, and team photo card with rounded corners](https://pin.fontofweb.com/4022?format=jpg)](https://design.withfudge.com/share/pin-4022)
+[![Careers hero with dark gradient background, orange accent label, and team photo card with rounded corners](https://pin.fontofweb.com/4022?format=jpg)](https://fudge.design/share/pin-4022)
 
-[Careers hero with dark gradient background, orange accent label, and team photo card with rounded corners](https://design.withfudge.com/share/pin-4022)
+[Careers hero with dark gradient background, orange accent label, and team photo card with rounded corners](https://fudge.design/share/pin-4022)
 
-[![Testimonial carousel with dark translucent cards, gradient background, and avatar-name attribution rows](https://pin.fontofweb.com/4021?format=jpg)](https://design.withfudge.com/share/pin-4021)
+[![Testimonial carousel with dark translucent cards, gradient background, and avatar-name attribution rows](https://pin.fontofweb.com/4021?format=jpg)](https://fudge.design/share/pin-4021)
 
-[Testimonial carousel with dark translucent cards, gradient background, and avatar-name attribution rows](https://design.withfudge.com/share/pin-4021)
+[Testimonial carousel with dark translucent cards, gradient background, and avatar-name attribution rows](https://fudge.design/share/pin-4021)
 
-[![Feature section with dark navy background, lightning bolt icon in circular glow, and checkmark list items](https://pin.fontofweb.com/4020?format=jpg)](https://design.withfudge.com/share/pin-4020)
+[![Feature section with dark navy background, lightning bolt icon in circular glow, and checkmark list items](https://pin.fontofweb.com/4020?format=jpg)](https://fudge.design/share/pin-4020)
 
-[Feature section with dark navy background, lightning bolt icon in circular glow, and checkmark list items](https://design.withfudge.com/share/pin-4020)
+[Feature section with dark navy background, lightning bolt icon in circular glow, and checkmark list items](https://fudge.design/share/pin-4020)
 
-[![Split-screen feature with warm off-white background, code editor visualization, and angled device frame](https://pin.fontofweb.com/4019?format=jpg)](https://design.withfudge.com/share/pin-4019)
+[![Split-screen feature with warm off-white background, code editor visualization, and angled device frame](https://pin.fontofweb.com/4019?format=jpg)](https://fudge.design/share/pin-4019)
 
-[Split-screen feature with warm off-white background, code editor visualization, and angled device frame](https://design.withfudge.com/share/pin-4019)
+[Split-screen feature with warm off-white background, code editor visualization, and angled device frame](https://fudge.design/share/pin-4019)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The two-column feature layouts should stack vertically on narrower viewports, wi
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied homepage and careers page images, including hero sections, feature layouts, testimonial displays, and value proposition cards. Pricing tables, documentation interfaces, the actual workflow editor, mobile navigation patterns, and interactive states such as loading, error, or form validation are not represented in the available material. Measurements are practical adaptation targets derived from visible proportions in the supplied images.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

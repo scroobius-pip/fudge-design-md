@@ -1,26 +1,26 @@
 # How gemini.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gemini.google-design)
+[Open the live Fudge conversation](https://fudge.design/share/gemini.google-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Subscription benefits section with four-column feature grid, blue accent text, and pill-shaped plan toggle between Google AI Pro and Ultra.](https://pin.fontofweb.com/6640?format=jpg)](https://design.withfudge.com/share/pin-6640)
+[![Subscription benefits section with four-column feature grid, blue accent text, and pill-shaped plan toggle between Google AI Pro and Ultra.](https://pin.fontofweb.com/6640?format=jpg)](https://fudge.design/share/pin-6640)
 
-[Subscription benefits section with four-column feature grid, blue accent text, and pill-shaped plan toggle between Google AI Pro and Ultra.](https://design.withfudge.com/share/pin-6640)
+[Subscription benefits section with four-column feature grid, blue accent text, and pill-shaped plan toggle between Google AI Pro and Ultra.](https://fudge.design/share/pin-6640)
 
-[![Hero section for Nano Banana Pro with centered headline, blue gradient product name, body copy, and rounded blue primary action button.](https://pin.fontofweb.com/4978?format=jpg)](https://design.withfudge.com/share/pin-4978)
+[![Hero section for Nano Banana Pro with centered headline, blue gradient product name, body copy, and rounded blue primary action button.](https://pin.fontofweb.com/4978?format=jpg)](https://fudge.design/share/pin-4978)
 
-[Hero section for Nano Banana Pro with centered headline, blue gradient product name, body copy, and rounded blue primary action button.](https://design.withfudge.com/share/pin-4978)
+[Hero section for Nano Banana Pro with centered headline, blue gradient product name, body copy, and rounded blue primary action button.](https://fudge.design/share/pin-4978)
 
-[![Image generation showcase with large rounded photo frame, thumbnail selectors, and blue accent word in the section headline.](https://pin.fontofweb.com/4977?format=jpg)](https://design.withfudge.com/share/pin-4977)
+[![Image generation showcase with large rounded photo frame, thumbnail selectors, and blue accent word in the section headline.](https://pin.fontofweb.com/4977?format=jpg)](https://fudge.design/share/pin-4977)
 
-[Image generation showcase with large rounded photo frame, thumbnail selectors, and blue accent word in the section headline.](https://design.withfudge.com/share/pin-4977)
+[Image generation showcase with large rounded photo frame, thumbnail selectors, and blue accent word in the section headline.](https://fudge.design/share/pin-4977)
 
-[![FAQ accordion with left-aligned section title, chevron expand indicators, and blue inline text links within expanded answer content.](https://pin.fontofweb.com/4976?format=jpg)](https://design.withfudge.com/share/pin-4976)
+[![FAQ accordion with left-aligned section title, chevron expand indicators, and blue inline text links within expanded answer content.](https://pin.fontofweb.com/4976?format=jpg)](https://fudge.design/share/pin-4976)
 
-[FAQ accordion with left-aligned section title, chevron expand indicators, and blue inline text links within expanded answer content.](https://design.withfudge.com/share/pin-4976)
+[FAQ accordion with left-aligned section title, chevron expand indicators, and blue inline text links within expanded answer content.](https://fudge.design/share/pin-4976)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Type scale should reduce modestly: hero-display from 3rem to 2.25rem on tablet a
 ## Scope note
 
 This guide covers the subscription and feature-overview page surfaces visible in the supplied images. Navigation headers, footers, form interactions, mobile-specific layouts, loading states, and dark mode variants are not represented. Motion behavior for accordions, carousels, and toggle transitions are recommended but not documented from still images. Google Sans 18 Pt is present in source files but not visibly used in captured interface elements. Measurements are exact where retained in the source data.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

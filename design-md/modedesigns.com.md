@@ -1,26 +1,26 @@
 # How modedesigns.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/modedesigns.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/modedesigns.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark green header with MODE logo, navigation, and empty cart modal overlay showing 'Your cart is empty' message with Start Shopping button](https://pin.fontofweb.com/9123?format=jpg)](https://design.withfudge.com/share/pin-9123)
+[![Dark green header with MODE logo, navigation, and empty cart modal overlay showing 'Your cart is empty' message with Start Shopping button](https://pin.fontofweb.com/9123?format=jpg)](https://fudge.design/share/pin-9123)
 
-[Dark green header with MODE logo, navigation, and empty cart modal overlay showing 'Your cart is empty' message with Start Shopping button](https://design.withfudge.com/share/pin-9123)
+[Dark green header with MODE logo, navigation, and empty cart modal overlay showing 'Your cart is empty' message with Start Shopping button](https://fudge.design/share/pin-9123)
 
-[![Product configuration page showing switch selection options with product image, spec panel, and sticky bottom bar with build summary and price](https://pin.fontofweb.com/9122?format=jpg)](https://design.withfudge.com/share/pin-9122)
+[![Product configuration page showing switch selection options with product image, spec panel, and sticky bottom bar with build summary and price](https://pin.fontofweb.com/9122?format=jpg)](https://fudge.design/share/pin-9122)
 
-[Product configuration page showing switch selection options with product image, spec panel, and sticky bottom bar with build summary and price](https://design.withfudge.com/share/pin-9122)
+[Product configuration page showing switch selection options with product image, spec panel, and sticky bottom bar with build summary and price](https://fudge.design/share/pin-9122)
 
-[![Envoy keyboard product page with large hero image, edition selection, PCB type options, and plate material section on dark green background](https://pin.fontofweb.com/9121?format=jpg)](https://design.withfudge.com/share/pin-9121)
+[![Envoy keyboard product page with large hero image, edition selection, PCB type options, and plate material section on dark green background](https://pin.fontofweb.com/9121?format=jpg)](https://fudge.design/share/pin-9121)
 
-[Envoy keyboard product page with large hero image, edition selection, PCB type options, and plate material section on dark green background](https://design.withfudge.com/share/pin-9121)
+[Envoy keyboard product page with large hero image, edition selection, PCB type options, and plate material section on dark green background](https://fudge.design/share/pin-9121)
 
-[![Light cream collection grid page with large 'All' heading, product cards in five-column layout showing keyboards, PCBs, foam kits, and switches with prices](https://pin.fontofweb.com/9120?format=jpg)](https://design.withfudge.com/share/pin-9120)
+[![Light cream collection grid page with large 'All' heading, product cards in five-column layout showing keyboards, PCBs, foam kits, and switches with prices](https://pin.fontofweb.com/9120?format=jpg)](https://fudge.design/share/pin-9120)
 
-[Light cream collection grid page with large 'All' heading, product cards in five-column layout showing keyboards, PCBs, foam kits, and switches with prices](https://design.withfudge.com/share/pin-9120)
+[Light cream collection grid page with large 'All' heading, product cards in five-column layout showing keyboards, PCBs, foam kits, and switches with prices](https://fudge.design/share/pin-9120)
 
 ## Overview
 
@@ -206,3 +206,18 @@ Navigation collapses to a hamburger menu on mobile, with the "Build Yours" prima
 ## Scope note
 
 This guide covers the desktop e-commerce experience for product browsing, configuration, and cart management across the homepage, collection grids, and product detail pages. Mobile layouts, checkout flow, account pages, search functionality, and animation specifications are not represented in the supplied materials. Measurements are derived from the exact values provided in the design facts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

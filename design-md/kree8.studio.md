@@ -1,26 +1,26 @@
 # How kree8.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kree8.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/kree8.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Comparison table with rounded white cards, green checkmarks, and kree8 logo against light gray background](https://pin.fontofweb.com/3000?format=jpg)](https://design.withfudge.com/share/pin-3000)
+[![Comparison table with rounded white cards, green checkmarks, and kree8 logo against light gray background](https://pin.fontofweb.com/3000?format=jpg)](https://fudge.design/share/pin-3000)
 
-[Comparison table with rounded white cards, green checkmarks, and kree8 logo against light gray background](https://design.withfudge.com/share/pin-3000)
+[Comparison table with rounded white cards, green checkmarks, and kree8 logo against light gray background](https://fudge.design/share/pin-3000)
 
-[![Dark rounded hero banner with white pill button, marquee tags, and footer with social links](https://pin.fontofweb.com/2999?format=jpg)](https://design.withfudge.com/share/pin-2999)
+[![Dark rounded hero banner with white pill button, marquee tags, and footer with social links](https://pin.fontofweb.com/2999?format=jpg)](https://fudge.design/share/pin-2999)
 
-[Dark rounded hero banner with white pill button, marquee tags, and footer with social links](https://design.withfudge.com/share/pin-2999)
+[Dark rounded hero banner with white pill button, marquee tags, and footer with social links](https://fudge.design/share/pin-2999)
 
-[![FAQ accordion with chat-style bubbles, avatar thumbnails, and dark rounded action button](https://pin.fontofweb.com/2998?format=jpg)](https://design.withfudge.com/share/pin-2998)
+[![FAQ accordion with chat-style bubbles, avatar thumbnails, and dark rounded action button](https://pin.fontofweb.com/2998?format=jpg)](https://fudge.design/share/pin-2998)
 
-[FAQ accordion with chat-style bubbles, avatar thumbnails, and dark rounded action button](https://design.withfudge.com/share/pin-2998)
+[FAQ accordion with chat-style bubbles, avatar thumbnails, and dark rounded action button](https://fudge.design/share/pin-2998)
 
-[![FAQ section with expanded answer cards, circular minus icons, and centered section heading](https://pin.fontofweb.com/2997?format=jpg)](https://design.withfudge.com/share/pin-2997)
+[![FAQ section with expanded answer cards, circular minus icons, and centered section heading](https://pin.fontofweb.com/2997?format=jpg)](https://fudge.design/share/pin-2997)
 
-[FAQ section with expanded answer cards, circular minus icons, and centered section heading](https://design.withfudge.com/share/pin-2997)
+[FAQ section with expanded answer cards, circular minus icons, and centered section heading](https://fudge.design/share/pin-2997)
 
 ## Overview
 
@@ -151,3 +151,18 @@ Typography scales down by one step on mobile: `hero-display` to `2rem`, `section
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images: comparison table, FAQ accordion, dark CTA banner, and footer. Navigation, hero section, pricing tiers, and mobile breakpoints are not represented in the source material. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

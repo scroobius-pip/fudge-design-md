@@ -1,26 +1,26 @@
 # How invideo.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/invideo.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/invideo.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with six-column link grid on vibrant blue background, invideo logo, app store badges, and social icons](https://pin.fontofweb.com/6199?format=jpg)](https://design.withfudge.com/share/pin-6199)
+[![Footer section with six-column link grid on vibrant blue background, invideo logo, app store badges, and social icons](https://pin.fontofweb.com/6199?format=jpg)](https://fudge.design/share/pin-6199)
 
-[Footer section with six-column link grid on vibrant blue background, invideo logo, app store badges, and social icons](https://design.withfudge.com/share/pin-6199)
+[Footer section with six-column link grid on vibrant blue background, invideo logo, app store badges, and social icons](https://fudge.design/share/pin-6199)
 
-[![Full-bleed cinematic hero with vintage camera, bearded figure, and centered white pill-shaped Play button](https://pin.fontofweb.com/6198?format=jpg)](https://design.withfudge.com/share/pin-6198)
+[![Full-bleed cinematic hero with vintage camera, bearded figure, and centered white pill-shaped Play button](https://pin.fontofweb.com/6198?format=jpg)](https://fudge.design/share/pin-6198)
 
-[Full-bleed cinematic hero with vintage camera, bearded figure, and centered white pill-shaped Play button](https://design.withfudge.com/share/pin-6198)
+[Full-bleed cinematic hero with vintage camera, bearded figure, and centered white pill-shaped Play button](https://fudge.design/share/pin-6198)
 
-[![Two pricing cards showing Free and Enterprise tiers with rounded borders and blue action buttons](https://pin.fontofweb.com/6197?format=jpg)](https://design.withfudge.com/share/pin-6197)
+[![Two pricing cards showing Free and Enterprise tiers with rounded borders and blue action buttons](https://pin.fontofweb.com/6197?format=jpg)](https://fudge.design/share/pin-6197)
 
-[Two pricing cards showing Free and Enterprise tiers with rounded borders and blue action buttons](https://design.withfudge.com/share/pin-6197)
+[Two pricing cards showing Free and Enterprise tiers with rounded borders and blue action buttons](https://fudge.design/share/pin-6197)
 
-[![Four-column pricing grid with colorful plan headers, toggle switch, and feature comparison lists](https://pin.fontofweb.com/6196?format=jpg)](https://design.withfudge.com/share/pin-6196)
+[![Four-column pricing grid with colorful plan headers, toggle switch, and feature comparison lists](https://pin.fontofweb.com/6196?format=jpg)](https://fudge.design/share/pin-6196)
 
-[Four-column pricing grid with colorful plan headers, toggle switch, and feature comparison lists](https://design.withfudge.com/share/pin-6196)
+[Four-column pricing grid with colorful plan headers, toggle switch, and feature comparison lists](https://fudge.design/share/pin-6196)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Navigation should collapse to a hamburger menu on mobile, with the invideo logo 
 ## Scope note
 
 This guide covers the invideo.io homepage and pricing page surfaces visible in the supplied images, including the hero, pricing grid, and footer components. Navigation dropdowns, mobile menu states, checkout flows, and account dashboard interfaces are not represented. Motion behavior, hover transitions, and loading states are not documented from still images. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

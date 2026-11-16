@@ -1,26 +1,26 @@
 # How tinker.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tinker.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tinker.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with 'Follow your spark' headline, app store badges, and iPhone mockup showing Tinker app interface with Product Generator tool on green tiled background](https://pin.fontofweb.com/8576?format=jpg)](https://design.withfudge.com/share/pin-8576)
+[![Hero section with 'Follow your spark' headline, app store badges, and iPhone mockup showing Tinker app interface with Product Generator tool on green tiled background](https://pin.fontofweb.com/8576?format=jpg)](https://fudge.design/share/pin-8576)
 
-[Hero section with 'Follow your spark' headline, app store badges, and iPhone mockup showing Tinker app interface with Product Generator tool on green tiled background](https://design.withfudge.com/share/pin-8576)
+[Hero section with 'Follow your spark' headline, app store badges, and iPhone mockup showing Tinker app interface with Product Generator tool on green tiled background](https://fudge.design/share/pin-8576)
 
-[![Tools grid section with 'Tools or toys? Both.' headline, masonry layout of creative tool cards including Product Morph Video, 3D Floor Plan Generator, and Product Editorial Shot](https://pin.fontofweb.com/8575?format=jpg)](https://design.withfudge.com/share/pin-8575)
+[![Tools grid section with 'Tools or toys? Both.' headline, masonry layout of creative tool cards including Product Morph Video, 3D Floor Plan Generator, and Product Editorial Shot](https://pin.fontofweb.com/8575?format=jpg)](https://fudge.design/share/pin-8575)
 
-[Tools grid section with 'Tools or toys? Both.' headline, masonry layout of creative tool cards including Product Morph Video, 3D Floor Plan Generator, and Product Editorial Shot](https://design.withfudge.com/share/pin-8575)
+[Tools grid section with 'Tools or toys? Both.' headline, masonry layout of creative tool cards including Product Morph Video, 3D Floor Plan Generator, and Product Editorial Shot](https://fudge.design/share/pin-8575)
 
-[![Social proof section 'Tinker in the wild' with video player showing before/after jewelry content, floating decorative elements, and lime green 'Get the app' call-to-action](https://pin.fontofweb.com/8574?format=jpg)](https://design.withfudge.com/share/pin-8574)
+[![Social proof section 'Tinker in the wild' with video player showing before/after jewelry content, floating decorative elements, and lime green 'Get the app' call-to-action](https://pin.fontofweb.com/8574?format=jpg)](https://fudge.design/share/pin-8574)
 
-[Social proof section 'Tinker in the wild' with video player showing before/after jewelry content, floating decorative elements, and lime green 'Get the app' call-to-action](https://design.withfudge.com/share/pin-8574)
+[Social proof section 'Tinker in the wild' with video player showing before/after jewelry content, floating decorative elements, and lime green 'Get the app' call-to-action](https://fudge.design/share/pin-8574)
 
-[![Vibrant coral-red section with 'Play to learn' oversized display typography, hands-holding-phone video thumbnail, and lime green pill button in corner](https://pin.fontofweb.com/8573?format=jpg)](https://design.withfudge.com/share/pin-8573)
+[![Vibrant coral-red section with 'Play to learn' oversized display typography, hands-holding-phone video thumbnail, and lime green pill button in corner](https://pin.fontofweb.com/8573?format=jpg)](https://fudge.design/share/pin-8573)
 
-[Vibrant coral-red section with 'Play to learn' oversized display typography, hands-holding-phone video thumbnail, and lime green pill button in corner](https://design.withfudge.com/share/pin-8573)
+[Vibrant coral-red section with 'Play to learn' oversized display typography, hands-holding-phone video thumbnail, and lime green pill button in corner](https://fudge.design/share/pin-8573)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Touch targets for buttons must maintain minimum 44px height even as horizontal p
 ## Scope note
 
 This guide covers the Tinker marketing homepage visible in the supplied images, including the hero, tools grid, social proof, and educational sections. Footer content, additional interior pages, mobile-specific layouts, and motion or animation behavior are not represented in the available material. Measurements reflect the exact values from the desktop interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

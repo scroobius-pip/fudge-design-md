@@ -1,18 +1,18 @@
 # How ramen.haus is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ramen.haus-design)
+[Open the live Fudge conversation](https://fudge.design/share/ramen.haus-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Split-view portfolio layout with full-bleed ramen photography on the left and minimal white content panel on the right showing the RamenHaus wordmark and navigation controls.](https://pin.fontofweb.com/10558?format=jpg)](https://design.withfudge.com/share/pin-10558)
+[![Split-view portfolio layout with full-bleed ramen photography on the left and minimal white content panel on the right showing the RamenHaus wordmark and navigation controls.](https://pin.fontofweb.com/10558?format=jpg)](https://fudge.design/share/pin-10558)
 
-[Split-view portfolio layout with full-bleed ramen photography on the left and minimal white content panel on the right showing the RamenHaus wordmark and navigation controls.](https://design.withfudge.com/share/pin-10558)
+[Split-view portfolio layout with full-bleed ramen photography on the left and minimal white content panel on the right showing the RamenHaus wordmark and navigation controls.](https://fudge.design/share/pin-10558)
 
-[![Alternate angle of the Tonkotsu Ramen Shio dish showing bonito flakes and scallions with the same split-view composition and pill-shaped pagination buttons.](https://pin.fontofweb.com/10557?format=jpg)](https://design.withfudge.com/share/pin-10557)
+[![Alternate angle of the Tonkotsu Ramen Shio dish showing bonito flakes and scallions with the same split-view composition and pill-shaped pagination buttons.](https://pin.fontofweb.com/10557?format=jpg)](https://fudge.design/share/pin-10557)
 
-[Alternate angle of the Tonkotsu Ramen Shio dish showing bonito flakes and scallions with the same split-view composition and pill-shaped pagination buttons.](https://design.withfudge.com/share/pin-10557)
+[Alternate angle of the Tonkotsu Ramen Shio dish showing bonito flakes and scallions with the same split-view composition and pill-shaped pagination buttons.](https://fudge.design/share/pin-10557)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The pill-shaped buttons are well-suited to touch interaction due to their genero
 ## Scope note
 
 This guide covers the desktop homepage portfolio view as captured. Mobile breakpoints, additional pages, hover states, loading sequences, and motion transitions are not represented in the available material. The type scale uses exact values from the source interface with no rounding or adaptation needed.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

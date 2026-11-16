@@ -1,26 +1,26 @@
 # How preludesecurity.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/preludesecurity.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/preludesecurity.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with magnifying glass floral collage, purple CTA buttons, and cream background with geometric grid pattern](https://pin.fontofweb.com/5031?format=jpg)](https://design.withfudge.com/share/pin-5031)
+[![Hero section with magnifying glass floral collage, purple CTA buttons, and cream background with geometric grid pattern](https://pin.fontofweb.com/5031?format=jpg)](https://fudge.design/share/pin-5031)
 
-[Hero section with magnifying glass floral collage, purple CTA buttons, and cream background with geometric grid pattern](https://design.withfudge.com/share/pin-5031)
+[Hero section with magnifying glass floral collage, purple CTA buttons, and cream background with geometric grid pattern](https://fudge.design/share/pin-5031)
 
-[![Pricing page with tiered endpoint table, purple accent banner, and feature checklist with iconography](https://pin.fontofweb.com/5030?format=jpg)](https://design.withfudge.com/share/pin-5030)
+[![Pricing page with tiered endpoint table, purple accent banner, and feature checklist with iconography](https://pin.fontofweb.com/5030?format=jpg)](https://fudge.design/share/pin-5030)
 
-[Pricing page with tiered endpoint table, purple accent banner, and feature checklist with iconography](https://design.withfudge.com/share/pin-5030)
+[Pricing page with tiered endpoint table, purple accent banner, and feature checklist with iconography](https://fudge.design/share/pin-5030)
 
-[![Hero section with vintage newspaper collage, pocket watch, and lavender italic accent word on cream ground](https://pin.fontofweb.com/5029?format=jpg)](https://design.withfudge.com/share/pin-5029)
+[![Hero section with vintage newspaper collage, pocket watch, and lavender italic accent word on cream ground](https://pin.fontofweb.com/5029?format=jpg)](https://fudge.design/share/pin-5029)
 
-[Hero section with vintage newspaper collage, pocket watch, and lavender italic accent word on cream ground](https://design.withfudge.com/share/pin-5029)
+[Hero section with vintage newspaper collage, pocket watch, and lavender italic accent word on cream ground](https://fudge.design/share/pin-5029)
 
-[![Two-column comparison layout with dotted halftone textures, purple and green accent typography, and icon-led feature lists](https://pin.fontofweb.com/5028?format=jpg)](https://design.withfudge.com/share/pin-5028)
+[![Two-column comparison layout with dotted halftone textures, purple and green accent typography, and icon-led feature lists](https://pin.fontofweb.com/5028?format=jpg)](https://fudge.design/share/pin-5028)
 
-[Two-column comparison layout with dotted halftone textures, purple and green accent typography, and icon-led feature lists](https://design.withfudge.com/share/pin-5028)
+[Two-column comparison layout with dotted halftone textures, purple and green accent typography, and icon-led feature lists](https://fudge.design/share/pin-5028)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Type sizes should reduce proportionally: hero-display to 2.5rem, section-display
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage hero, platform feature pages, and pricing. Navigation, footer, form states, and authenticated application interfaces are not represented. Motion behavior, mobile-specific layouts, and dark mode variants are not documented. Measurements are practical adaptation targets derived from visual estimation against a 4px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

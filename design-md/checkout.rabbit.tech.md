@@ -1,22 +1,22 @@
 # How checkout.rabbit.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/checkout.rabbit.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/checkout.rabbit.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full two-column checkout layout showing rabbit logo, express checkout buttons, contact and delivery form fields, and order summary sidebar with product image and pricing.](https://pin.fontofweb.com/1572?format=jpg)](https://design.withfudge.com/share/pin-1572)
+[![Full two-column checkout layout showing rabbit logo, express checkout buttons, contact and delivery form fields, and order summary sidebar with product image and pricing.](https://pin.fontofweb.com/1572?format=jpg)](https://fudge.design/share/pin-1572)
 
-[Full two-column checkout layout showing rabbit logo, express checkout buttons, contact and delivery form fields, and order summary sidebar with product image and pricing.](https://design.withfudge.com/share/pin-1572)
+[Full two-column checkout layout showing rabbit logo, express checkout buttons, contact and delivery form fields, and order summary sidebar with product image and pricing.](https://fudge.design/share/pin-1572)
 
-[![Payment section with credit card form fields, PayPal option, Shop Pay save-info checkbox, orange Pay now button, and footer policy links.](https://pin.fontofweb.com/1573?format=jpg)](https://design.withfudge.com/share/pin-1573)
+[![Payment section with credit card form fields, PayPal option, Shop Pay save-info checkbox, orange Pay now button, and footer policy links.](https://pin.fontofweb.com/1573?format=jpg)](https://fudge.design/share/pin-1573)
 
-[Payment section with credit card form fields, PayPal option, Shop Pay save-info checkbox, orange Pay now button, and footer policy links.](https://design.withfudge.com/share/pin-1573)
+[Payment section with credit card form fields, PayPal option, Shop Pay save-info checkbox, orange Pay now button, and footer policy links.](https://fudge.design/share/pin-1573)
 
-[![Order summary panel with r1 device thumbnail, quantity stepper, discount code input, and subtotal through total pricing breakdown.](https://pin.fontofweb.com/1574?format=jpg)](https://design.withfudge.com/share/pin-1574)
+[![Order summary panel with r1 device thumbnail, quantity stepper, discount code input, and subtotal through total pricing breakdown.](https://pin.fontofweb.com/1574?format=jpg)](https://fudge.design/share/pin-1574)
 
-[Order summary panel with r1 device thumbnail, quantity stepper, discount code input, and subtotal through total pricing breakdown.](https://design.withfudge.com/share/pin-1574)
+[Order summary panel with r1 device thumbnail, quantity stepper, discount code input, and subtotal through total pricing breakdown.](https://fudge.design/share/pin-1574)
 
 ## Overview
 
@@ -166,3 +166,18 @@ The two-column layout should stack to single column on narrow viewports, with th
 ## Scope note
 
 This guide covers the desktop checkout flow for the Rabbit r1 device purchase. Measurements are practical adaptation targets. Unseen states including mobile breakpoint behavior, loading skeletons, error validation styling, confirmation page, and account creation post-purchase are not represented in the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Checkout](/share/designs-with-page.commerce.checkout)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

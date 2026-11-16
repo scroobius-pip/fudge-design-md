@@ -1,18 +1,18 @@
 # How subq.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/subq.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/subq.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Two-column product comparison with API and Code cards, featuring a light lavender left panel with blue accent and a near-black right panel with cream text.](https://pin.fontofweb.com/9662?format=jpg)](https://design.withfudge.com/share/pin-9662)
+[![Two-column product comparison with API and Code cards, featuring a light lavender left panel with blue accent and a near-black right panel with cream text.](https://pin.fontofweb.com/9662?format=jpg)](https://fudge.design/share/pin-9662)
 
-[Two-column product comparison with API and Code cards, featuring a light lavender left panel with blue accent and a near-black right panel with cream text.](https://design.withfudge.com/share/pin-9662)
+[Two-column product comparison with API and Code cards, featuring a light lavender left panel with blue accent and a near-black right panel with cream text.](https://fudge.design/share/pin-9662)
 
-[![Early access request form page with dark charcoal form card, navigation header, and multi-column footer with monospace legal text.](https://pin.fontofweb.com/9659?format=jpg)](https://design.withfudge.com/share/pin-9659)
+[![Early access request form page with dark charcoal form card, navigation header, and multi-column footer with monospace legal text.](https://pin.fontofweb.com/9659?format=jpg)](https://fudge.design/share/pin-9659)
 
-[Early access request form page with dark charcoal form card, navigation header, and multi-column footer with monospace legal text.](https://design.withfudge.com/share/pin-9659)
+[Early access request form page with dark charcoal form card, navigation header, and multi-column footer with monospace legal text.](https://fudge.design/share/pin-9659)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Navigation should consolidate to a menu trigger on small screens, with the utili
 ## Scope note
 
 This guide covers the homepage product comparison and early access request page surfaces. Navigation, footer, form, and card components are represented. Motion, hover states, mobile breakpoints, and additional product pages are not documented. The spacing and type scales derive from the extracted interface values with no estimation required.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

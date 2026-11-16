@@ -1,18 +1,18 @@
 # How zcode.z.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/zcode.z.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/zcode.z.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed IDE workspace interface showing a Gomoku game development task with file changes panel, git tools sidebar, and AI agent progress tracking with checkmarks and token](https://pin.fontofweb.com/9893?format=jpg)](https://design.withfudge.com/share/pin-9893)
+[![Dark-themed IDE workspace interface showing a Gomoku game development task with file changes panel, git tools sidebar, and AI agent progress tracking with checkmarks and token](https://pin.fontofweb.com/9893?format=jpg)](https://fudge.design/share/pin-9893)
 
-[Dark-themed IDE workspace interface showing a Gomoku game development task with file changes panel, git tools sidebar, and AI agent progress tracking with checkmarks and token](https://design.withfudge.com/share/pin-9893)
+[Dark-themed IDE workspace interface showing a Gomoku game development task with file changes panel, git tools sidebar, and AI agent progress tracking with checkmarks and token](https://fudge.design/share/pin-9893)
 
-[![ZCode marketing landing page with bold hero headline, product screenshot of AI coding workspace, download button, and navigation with language selector and login.](https://pin.fontofweb.com/9892?format=jpg)](https://design.withfudge.com/share/pin-9892)
+[![ZCode marketing landing page with bold hero headline, product screenshot of AI coding workspace, download button, and navigation with language selector and login.](https://pin.fontofweb.com/9892?format=jpg)](https://fudge.design/share/pin-9892)
 
-[ZCode marketing landing page with bold hero headline, product screenshot of AI coding workspace, download button, and navigation with language selector and login.](https://design.withfudge.com/share/pin-9892)
+[ZCode marketing landing page with bold hero headline, product screenshot of AI coding workspace, download button, and navigation with language selector and login.](https://fudge.design/share/pin-9892)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Typography does not fluidly scale; instead, discrete steps should reduce hero-di
 ## Scope note
 
 This guide covers the landing page and authenticated workspace interface visible in the supplied captures. Mobile layouts, animation transitions, hover and focus states, loading skeletons, error pages, and dark/light mode switching are not represented. The terminal or command-line interface elements, notification systems, and settings panels beyond the visible workspace remain outside this documentation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

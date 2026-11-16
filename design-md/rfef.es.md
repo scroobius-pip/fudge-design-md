@@ -1,26 +1,26 @@
 # How rfef.es is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rfef.es-design)
+[Open the live Fudge conversation](https://fudge.design/share/rfef.es-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Cookie consent banner with dark navy background, white text, and light gray revoke button showing legal compliance UI at page bottom](https://pin.fontofweb.com/259?format=jpg)](https://design.withfudge.com/share/pin-259)
+[![Cookie consent banner with dark navy background, white text, and light gray revoke button showing legal compliance UI at page bottom](https://pin.fontofweb.com/259?format=jpg)](https://fudge.design/share/pin-259)
 
-[Cookie consent banner with dark navy background, white text, and light gray revoke button showing legal compliance UI at page bottom](https://design.withfudge.com/share/pin-259)
+[Cookie consent banner with dark navy background, white text, and light gray revoke button showing legal compliance UI at page bottom](https://fudge.design/share/pin-259)
 
-[![Page footer with deep maroon sponsor band, bright red footer bar, RFEF circular logo, and social media icon row](https://pin.fontofweb.com/258?format=jpg)](https://design.withfudge.com/share/pin-258)
+[![Page footer with deep maroon sponsor band, bright red footer bar, RFEF circular logo, and social media icon row](https://pin.fontofweb.com/258?format=jpg)](https://fudge.design/share/pin-258)
 
-[Page footer with deep maroon sponsor band, bright red footer bar, RFEF circular logo, and social media icon row](https://design.withfudge.com/share/pin-258)
+[Page footer with deep maroon sponsor band, bright red footer bar, RFEF circular logo, and social media icon row](https://fudge.design/share/pin-258)
 
-[![Sponsor grid on dark maroon background showing Adidas, Mapfre, Ebro, Halcon Viajes, TCL, Cervezas Victoria, La Roche-Posay, and Iberia logos with gold category labels](https://pin.fontofweb.com/257?format=jpg)](https://design.withfudge.com/share/pin-257)
+[![Sponsor grid on dark maroon background showing Adidas, Mapfre, Ebro, Halcon Viajes, TCL, Cervezas Victoria, La Roche-Posay, and Iberia logos with gold category labels](https://pin.fontofweb.com/257?format=jpg)](https://fudge.design/share/pin-257)
 
-[Sponsor grid on dark maroon background showing Adidas, Mapfre, Ebro, Halcon Viajes, TCL, Cervezas Victoria, La Roche-Posay, and Iberia logos with gold category labels](https://design.withfudge.com/share/pin-257)
+[Sponsor grid on dark maroon background showing Adidas, Mapfre, Ebro, Halcon Viajes, TCL, Cervezas Victoria, La Roche-Posay, and Iberia logos with gold category labels](https://fudge.design/share/pin-257)
 
-[![Four competition cards in red gradient sequence from bright to dark with gold category labels, white titles, and gold plus icons](https://pin.fontofweb.com/256?format=jpg)](https://design.withfudge.com/share/pin-256)
+[![Four competition cards in red gradient sequence from bright to dark with gold category labels, white titles, and gold plus icons](https://pin.fontofweb.com/256?format=jpg)](https://fudge.design/share/pin-256)
 
-[Four competition cards in red gradient sequence from bright to dark with gold category labels, white titles, and gold plus icons](https://design.withfudge.com/share/pin-256)
+[Four competition cards in red gradient sequence from bright to dark with gold category labels, white titles, and gold plus icons](https://fudge.design/share/pin-256)
 
 ## Overview
 
@@ -201,3 +201,18 @@ The system should adapt gracefully across viewport sizes while preserving its bo
 ## Scope note
 
 This guide covers the homepage surface of rfef.es including the competition card grid, sponsor recognition bands, and footer architecture. Mobile layouts, interior pages, match statistics displays, and motion behavior are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Pink hue](/share/designs-with-color.hue.pink)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

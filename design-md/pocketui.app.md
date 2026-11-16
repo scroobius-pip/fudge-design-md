@@ -1,18 +1,18 @@
 # How pocketui.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pocketui.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/pocketui.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Features section with four feature cards showing Smart detection, Component preview, AI library, and asset organization with purple accent headings and product screenshots](https://pin.fontofweb.com/9860?format=jpg)](https://design.withfudge.com/share/pin-9860)
+[![Features section with four feature cards showing Smart detection, Component preview, AI library, and asset organization with purple accent headings and product screenshots](https://pin.fontofweb.com/9860?format=jpg)](https://fudge.design/share/pin-9860)
 
-[Features section with four feature cards showing Smart detection, Component preview, AI library, and asset organization with purple accent headings and product screenshots](https://design.withfudge.com/share/pin-9860)
+[Features section with four feature cards showing Smart detection, Component preview, AI library, and asset organization with purple accent headings and product screenshots](https://fudge.design/share/pin-9860)
 
-[![Hero area with tabbed navigation bar and centered product screenshot showing a component export interface with Copy Tailwind button on dark device frame](https://pin.fontofweb.com/9859?format=jpg)](https://design.withfudge.com/share/pin-9859)
+[![Hero area with tabbed navigation bar and centered product screenshot showing a component export interface with Copy Tailwind button on dark device frame](https://pin.fontofweb.com/9859?format=jpg)](https://fudge.design/share/pin-9859)
 
-[Hero area with tabbed navigation bar and centered product screenshot showing a component export interface with Copy Tailwind button on dark device frame](https://design.withfudge.com/share/pin-9859)
+[Hero area with tabbed navigation bar and centered product screenshot showing a component export interface with Copy Tailwind button on dark device frame](https://fudge.design/share/pin-9859)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The two-column features grid should collapse to a single column on narrower view
 ## Scope note
 
 This guide covers the PocketUI landing page's light-themed marketing surface, including the hero area with tabbed navigation, features grid, and product presentation components. Pricing pages, authentication flows, application interface, dark mode, motion design, and mobile-specific layouts are not represented in the supplied material. Measurements derive from the documented interface values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

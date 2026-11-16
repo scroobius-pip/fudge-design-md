@@ -1,18 +1,18 @@
 # How jwt.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jwt.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/jwt.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![JWT Handbook promotional banner with gradient background, download CTA, and three-column resource grid with badge and logotype cards](https://pin.fontofweb.com/3955?format=jpg)](https://design.withfudge.com/share/pin-3955)
+[![JWT Handbook promotional banner with gradient background, download CTA, and three-column resource grid with badge and logotype cards](https://pin.fontofweb.com/3955?format=jpg)](https://fudge.design/share/pin-3955)
 
-[JWT Handbook promotional banner with gradient background, download CTA, and three-column resource grid with badge and logotype cards](https://design.withfudge.com/share/pin-3955)
+[JWT Handbook promotional banner with gradient background, download CTA, and three-column resource grid with badge and logotype cards](https://fudge.design/share/pin-3955)
 
-[![JWT Debugger interface with encoded token editor, decoded header and payload panels, signature verification section, and warning banners](https://pin.fontofweb.com/3954?format=jpg)](https://design.withfudge.com/share/pin-3954)
+[![JWT Debugger interface with encoded token editor, decoded header and payload panels, signature verification section, and warning banners](https://pin.fontofweb.com/3954?format=jpg)](https://fudge.design/share/pin-3954)
 
-[JWT Debugger interface with encoded token editor, decoded header and payload panels, signature verification section, and warning banners](https://design.withfudge.com/share/pin-3954)
+[JWT Debugger interface with encoded token editor, decoded header and payload panels, signature verification section, and warning banners](https://fudge.design/share/pin-3954)
 
 ## Overview
 
@@ -177,3 +177,18 @@ The two-column debugger layout should stack vertically on narrow viewports, with
 ## Scope note
 
 This guide covers the jwt.io homepage and JWT debugger interface as visible in the supplied images. Mobile breakpoints, animation, form validation states beyond the valid/invalid shown, and additional interior pages are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

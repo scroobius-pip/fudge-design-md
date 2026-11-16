@@ -1,26 +1,26 @@
 # How wise.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wise.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wise.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark green hero section with large lime-green display heading and centered currency converter card on the Currency Converter page.](https://pin.fontofweb.com/6933?format=jpg)](https://design.withfudge.com/share/pin-6933)
+[![Dark green hero section with large lime-green display heading and centered currency converter card on the Currency Converter page.](https://pin.fontofweb.com/6933?format=jpg)](https://fudge.design/share/pin-6933)
 
-[Dark green hero section with large lime-green display heading and centered currency converter card on the Currency Converter page.](https://design.withfudge.com/share/pin-6933)
+[Dark green hero section with large lime-green display heading and centered currency converter card on the Currency Converter page.](https://fudge.design/share/pin-6933)
 
-[![Bright lime-green comparison section showing a white fee-comparison table with provider logos and a dark pill-shaped Send money button.](https://pin.fontofweb.com/6935?format=jpg)](https://design.withfudge.com/share/pin-6935)
+[![Bright lime-green comparison section showing a white fee-comparison table with provider logos and a dark pill-shaped Send money button.](https://pin.fontofweb.com/6935?format=jpg)](https://fudge.design/share/pin-6935)
 
-[Bright lime-green comparison section showing a white fee-comparison table with provider logos and a dark pill-shaped Send money button.](https://design.withfudge.com/share/pin-6935)
+[Bright lime-green comparison section showing a white fee-comparison table with provider logos and a dark pill-shaped Send money button.](https://fudge.design/share/pin-6935)
 
-[![White feature section with left-aligned dark heading, three icon-list items with circular borders, and a large rounded video panel on the right.](https://pin.fontofweb.com/6934?format=jpg)](https://design.withfudge.com/share/pin-6934)
+[![White feature section with left-aligned dark heading, three icon-list items with circular borders, and a large rounded video panel on the right.](https://pin.fontofweb.com/6934?format=jpg)](https://fudge.design/share/pin-6934)
 
-[White feature section with left-aligned dark heading, three icon-list items with circular borders, and a large rounded video panel on the right.](https://design.withfudge.com/share/pin-6934)
+[White feature section with left-aligned dark heading, three icon-list items with circular borders, and a large rounded video panel on the right.](https://fudge.design/share/pin-6934)
 
-[![White FAQ accordion section with bold stacked display heading, expand/collapse items, and a lime-green active state circle with X icon.](https://pin.fontofweb.com/6936?format=jpg)](https://design.withfudge.com/share/pin-6936)
+[![White FAQ accordion section with bold stacked display heading, expand/collapse items, and a lime-green active state circle with X icon.](https://pin.fontofweb.com/6936?format=jpg)](https://fudge.design/share/pin-6936)
 
-[White FAQ accordion section with bold stacked display heading, expand/collapse items, and a lime-green active state circle with X icon.](https://design.withfudge.com/share/pin-6936)
+[White FAQ accordion section with bold stacked display heading, expand/collapse items, and a lime-green active state circle with X icon.](https://fudge.design/share/pin-6936)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Navigation collapses to a hamburger menu on smaller screens, with the pill-shape
 ## Scope note
 
 This guide covers the marketing and conversion surfaces of wise.com, including the Currency Converter page, feature sections, and comparison tools. It does not include the authenticated account dashboard, transfer flow screens, mobile application interfaces, or the full set of regional homepage variations. Motion specifications, loading states, and form validation patterns are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

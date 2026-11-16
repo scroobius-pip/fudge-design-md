@@ -1,22 +1,22 @@
 # How mdx.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mdx.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/mdx.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact overlay with warm gradient background, dark pill CTA, and vertical navigation menu with orange dot indicators](https://pin.fontofweb.com/6342?format=jpg)](https://design.withfudge.com/share/pin-6342)
+[![Contact overlay with warm gradient background, dark pill CTA, and vertical navigation menu with orange dot indicators](https://pin.fontofweb.com/6342?format=jpg)](https://fudge.design/share/pin-6342)
 
-[Contact overlay with warm gradient background, dark pill CTA, and vertical navigation menu with orange dot indicators](https://design.withfudge.com/share/pin-6342)
+[Contact overlay with warm gradient background, dark pill CTA, and vertical navigation menu with orange dot indicators](https://fudge.design/share/pin-6342)
 
-[![Dark footer section with oversized white MDX logotype, email contact, and minimal legal links](https://pin.fontofweb.com/6341?format=jpg)](https://design.withfudge.com/share/pin-6341)
+[![Dark footer section with oversized white MDX logotype, email contact, and minimal legal links](https://pin.fontofweb.com/6341?format=jpg)](https://fudge.design/share/pin-6341)
 
-[Dark footer section with oversized white MDX logotype, email contact, and minimal legal links](https://design.withfudge.com/share/pin-6341)
+[Dark footer section with oversized white MDX logotype, email contact, and minimal legal links](https://fudge.design/share/pin-6341)
 
-[![Hero section with centered 3D sphere, large display typography, and service category pills on light gray background](https://pin.fontofweb.com/6340?format=jpg)](https://design.withfudge.com/share/pin-6340)
+[![Hero section with centered 3D sphere, large display typography, and service category pills on light gray background](https://pin.fontofweb.com/6340?format=jpg)](https://fudge.design/share/pin-6340)
 
-[Hero section with centered 3D sphere, large display typography, and service category pills on light gray background](https://design.withfudge.com/share/pin-6340)
+[Hero section with centered 3D sphere, large display typography, and service category pills on light gray background](https://fudge.design/share/pin-6340)
 
 ## Overview
 
@@ -160,3 +160,18 @@ The contact overlay's two-column layout should stack vertically on narrow viewpo
 ## Scope note
 
 This guide covers the homepage hero, contact overlay, and footer surfaces visible in the supplied images. Interior pages, project case studies, services detail views, and mobile-specific layouts are not represented. The 3D sphere render and warm gradient backgrounds are treated as provided assets rather than generatable elements. Measurements reflect the exact values from the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Agency](/share/designs-with-offering.agency)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

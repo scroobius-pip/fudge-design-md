@@ -1,26 +1,26 @@
 # How ollama.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ollama.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ollama.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with centered llama mascot, install command block, and feature section with terminal mockup](https://pin.fontofweb.com/7505?format=jpg)](https://design.withfudge.com/share/pin-7505)
+[![Homepage hero with centered llama mascot, install command block, and feature section with terminal mockup](https://pin.fontofweb.com/7505?format=jpg)](https://fudge.design/share/pin-7505)
 
-[Homepage hero with centered llama mascot, install command block, and feature section with terminal mockup](https://design.withfudge.com/share/pin-7505)
+[Homepage hero with centered llama mascot, install command block, and feature section with terminal mockup](https://fudge.design/share/pin-7505)
 
-[![Pricing page with three-tier card layout, rounded SF Pro Rounded headings, and feature checklists](https://pin.fontofweb.com/7507?format=jpg)](https://design.withfudge.com/share/pin-7507)
+[![Pricing page with three-tier card layout, rounded SF Pro Rounded headings, and feature checklists](https://pin.fontofweb.com/7507?format=jpg)](https://fudge.design/share/pin-7507)
 
-[Pricing page with three-tier card layout, rounded SF Pro Rounded headings, and feature checklists](https://design.withfudge.com/share/pin-7507)
+[Pricing page with three-tier card layout, rounded SF Pro Rounded headings, and feature checklists](https://fudge.design/share/pin-7507)
 
-[![Model detail page with tag pills, code snippet tabs, applications list, and parameter size table](https://pin.fontofweb.com/7508?format=jpg)](https://design.withfudge.com/share/pin-7508)
+[![Model detail page with tag pills, code snippet tabs, applications list, and parameter size table](https://pin.fontofweb.com/7508?format=jpg)](https://fudge.design/share/pin-7508)
 
-[Model detail page with tag pills, code snippet tabs, applications list, and parameter size table](https://design.withfudge.com/share/pin-7508)
+[Model detail page with tag pills, code snippet tabs, applications list, and parameter size table](https://fudge.design/share/pin-7508)
 
-[![Feature section split layout with terminal window mockup and open models headline](https://pin.fontofweb.com/7506?format=jpg)](https://design.withfudge.com/share/pin-7506)
+[![Feature section split layout with terminal window mockup and open models headline](https://pin.fontofweb.com/7506?format=jpg)](https://fudge.design/share/pin-7506)
 
-[Feature section split layout with terminal window mockup and open models headline](https://design.withfudge.com/share/pin-7506)
+[Feature section split layout with terminal window mockup and open models headline](https://fudge.design/share/pin-7506)
 
 ## Overview
 
@@ -214,3 +214,18 @@ The layout appears optimized for desktop viewing with centered content max-width
 ## Scope note
 
 This guide covers the homepage, pricing, and model detail page surfaces visible in the supplied images. Mobile breakpoints, dark mode, loading states, form validation, and interactive hover transitions are not represented. The spacing and radius values derive from the documented pixel measurements converted to the relative unit scale. Verify licensing for SF Pro Rounded and system font families before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

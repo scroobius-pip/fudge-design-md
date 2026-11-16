@@ -1,22 +1,22 @@
 # How postiz.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/postiz.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/postiz.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Plus Jakarta Sans headline, social platform icon row, and product screenshot on purple gradient background](https://pin.fontofweb.com/7536?format=jpg)](https://design.withfudge.com/share/pin-7536)
+[![Hero section with large Plus Jakarta Sans headline, social platform icon row, and product screenshot on purple gradient background](https://pin.fontofweb.com/7536?format=jpg)](https://fudge.design/share/pin-7536)
 
-[Hero section with large Plus Jakarta Sans headline, social platform icon row, and product screenshot on purple gradient background](https://design.withfudge.com/share/pin-7536)
+[Hero section with large Plus Jakarta Sans headline, social platform icon row, and product screenshot on purple gradient background](https://fudge.design/share/pin-7536)
 
-[![Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and pill-shaped toggle](https://pin.fontofweb.com/7537?format=jpg)](https://design.withfudge.com/share/pin-7537)
+[![Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and pill-shaped toggle](https://pin.fontofweb.com/7537?format=jpg)](https://fudge.design/share/pin-7537)
 
-[Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and pill-shaped toggle](https://design.withfudge.com/share/pin-7537)
+[Pricing page with four-tier card layout featuring gradient-highlighted Pro plan and pill-shaped toggle](https://fudge.design/share/pin-7537)
 
-[![Footer CTA section with oversized purple Postiz wordmark, social links, and multi-column footer navigation](https://pin.fontofweb.com/7538?format=jpg)](https://design.withfudge.com/share/pin-7538)
+[![Footer CTA section with oversized purple Postiz wordmark, social links, and multi-column footer navigation](https://pin.fontofweb.com/7538?format=jpg)](https://fudge.design/share/pin-7538)
 
-[Footer CTA section with oversized purple Postiz wordmark, social links, and multi-column footer navigation](https://design.withfudge.com/share/pin-7538)
+[Footer CTA section with oversized purple Postiz wordmark, social links, and multi-column footer navigation](https://fudge.design/share/pin-7538)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The design should maintain its dark canvas and high-contrast hierarchy across al
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied materials. Mobile layouts, hover and focus states, loading sequences, form interactions, and dashboard interfaces are not represented. Decorative line illustrations are described as visible elements without specification of their animation behavior. Measurements are derived from the retained interface data.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Purple hue](/share/designs-with-color.hue.purple)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

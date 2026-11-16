@@ -1,26 +1,26 @@
 # How jan.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jan.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/jan.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with green background, cartoon illustration of girl building a robot, and community stat cards for GitHub, Discord, and HuggingFace](https://pin.fontofweb.com/8282?format=jpg)](https://design.withfudge.com/share/pin-8282)
+[![Hero section with green background, cartoon illustration of girl building a robot, and community stat cards for GitHub, Discord, and HuggingFace](https://pin.fontofweb.com/8282?format=jpg)](https://fudge.design/share/pin-8282)
 
-[Hero section with green background, cartoon illustration of girl building a robot, and community stat cards for GitHub, Discord, and HuggingFace](https://design.withfudge.com/share/pin-8282)
+[Hero section with green background, cartoon illustration of girl building a robot, and community stat cards for GitHub, Discord, and HuggingFace](https://fudge.design/share/pin-8282)
 
-[![Features grid showing numbered Models and Connectors sections with partner logos like ChatGPT, Claude, Gemini, Gmail, and Notion](https://pin.fontofweb.com/8281?format=jpg)](https://design.withfudge.com/share/pin-8281)
+[![Features grid showing numbered Models and Connectors sections with partner logos like ChatGPT, Claude, Gemini, Gmail, and Notion](https://pin.fontofweb.com/8281?format=jpg)](https://fudge.design/share/pin-8281)
 
-[Features grid showing numbered Models and Connectors sections with partner logos like ChatGPT, Claude, Gemini, Gmail, and Notion](https://design.withfudge.com/share/pin-8281)
+[Features grid showing numbered Models and Connectors sections with partner logos like ChatGPT, Claude, Gemini, Gmail, and Notion](https://fudge.design/share/pin-8281)
 
-[![Memory feature card with yellow sticky-note UI showing user profile and preference bullets with Coming Soon badge](https://pin.fontofweb.com/8280?format=jpg)](https://design.withfudge.com/share/pin-8280)
+[![Memory feature card with yellow sticky-note UI showing user profile and preference bullets with Coming Soon badge](https://pin.fontofweb.com/8280?format=jpg)](https://fudge.design/share/pin-8280)
 
-[Memory feature card with yellow sticky-note UI showing user profile and preference bullets with Coming Soon badge](https://design.withfudge.com/share/pin-8280)
+[Memory feature card with yellow sticky-note UI showing user profile and preference bullets with Coming Soon badge](https://fudge.design/share/pin-8280)
 
-[![Footer area with blue sky robot illustration, Download for Mac button, newsletter signup, and multi-column link grid](https://pin.fontofweb.com/8279?format=jpg)](https://design.withfudge.com/share/pin-8279)
+[![Footer area with blue sky robot illustration, Download for Mac button, newsletter signup, and multi-column link grid](https://pin.fontofweb.com/8279?format=jpg)](https://fudge.design/share/pin-8279)
 
-[Footer area with blue sky robot illustration, Download for Mac button, newsletter signup, and multi-column link grid](https://design.withfudge.com/share/pin-8279)
+[Footer area with blue sky robot illustration, Download for Mac button, newsletter signup, and multi-column link grid](https://fudge.design/share/pin-8279)
 
 ## Overview
 
@@ -163,3 +163,18 @@ Touch targets should maintain minimum 44px height. The thick button borders and 
 ## Scope note
 
 This guide covers the marketing landing page for Jan, including hero presentations, feature enumeration, partner integrations, and footer. Application UI states, chat interface design, mobile navigation behavior, and motion or animation specifications are not represented in the supplied material. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

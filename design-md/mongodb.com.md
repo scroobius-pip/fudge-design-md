@@ -1,26 +1,26 @@
 # How mongodb.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mongodb.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mongodb.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with dark green serif headings, muted body text, and green interactive icons on white background](https://pin.fontofweb.com/2805?format=jpg)](https://design.withfudge.com/share/pin-2805)
+[![FAQ accordion section with dark green serif headings, muted body text, and green interactive icons on white background](https://pin.fontofweb.com/2805?format=jpg)](https://fudge.design/share/pin-2805)
 
-[FAQ accordion section with dark green serif headings, muted body text, and green interactive icons on white background](https://design.withfudge.com/share/pin-2805)
+[FAQ accordion section with dark green serif headings, muted body text, and green interactive icons on white background](https://fudge.design/share/pin-2805)
 
-[![Dark navy contact page with green primary button, tab navigation, and form fields with white underline accents](https://pin.fontofweb.com/2804?format=jpg)](https://design.withfudge.com/share/pin-2804)
+[![Dark navy contact page with green primary button, tab navigation, and form fields with white underline accents](https://pin.fontofweb.com/2804?format=jpg)](https://fudge.design/share/pin-2804)
 
-[Dark navy contact page with green primary button, tab navigation, and form fields with white underline accents](https://design.withfudge.com/share/pin-2804)
+[Dark navy contact page with green primary button, tab navigation, and form fields with white underline accents](https://fudge.design/share/pin-2804)
 
-[![Deep green hero section with white serif display type, green CTA button, and dark card with checkmark list](https://pin.fontofweb.com/2803?format=jpg)](https://design.withfudge.com/share/pin-2803)
+[![Deep green hero section with white serif display type, green CTA button, and dark card with checkmark list](https://pin.fontofweb.com/2803?format=jpg)](https://fudge.design/share/pin-2803)
 
-[Deep green hero section with white serif display type, green CTA button, and dark card with checkmark list](https://design.withfudge.com/share/pin-2803)
+[Deep green hero section with white serif display type, green CTA button, and dark card with checkmark list](https://fudge.design/share/pin-2803)
 
-[![Customer success section with logo tabs, large serif quote, green statistic highlight, and dark action button](https://pin.fontofweb.com/2802?format=jpg)](https://design.withfudge.com/share/pin-2802)
+[![Customer success section with logo tabs, large serif quote, green statistic highlight, and dark action button](https://pin.fontofweb.com/2802?format=jpg)](https://fudge.design/share/pin-2802)
 
-[Customer success section with logo tabs, large serif quote, green statistic highlight, and dark action button](https://design.withfudge.com/share/pin-2802)
+[Customer success section with logo tabs, large serif quote, green statistic highlight, and dark action button](https://fudge.design/share/pin-2802)
 
 ## Overview
 
@@ -202,3 +202,18 @@ The dark page backgrounds should extend to full viewport width at all sizes, wit
 ## Scope note
 
 This guide covers the visual system as visible on MongoDB's homepage, product pages, contact forms, and customer success sections. It does not include mobile-specific layouts, animation specifications, dark mode toggle behavior, or component states beyond those visible in still images. Measurements are practical adaptation targets derived from the supplied interface images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

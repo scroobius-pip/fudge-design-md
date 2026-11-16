@@ -1,26 +1,26 @@
 # How selected.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/selected.site-design)
+[Open the live Fudge conversation](https://fudge.design/share/selected.site-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Explore page with hero collections, category pills, and post cards on a near-black canvas](https://pin.fontofweb.com/8205?format=jpg)](https://design.withfudge.com/share/pin-8205)
+[![Explore page with hero collections, category pills, and post cards on a near-black canvas](https://pin.fontofweb.com/8205?format=jpg)](https://fudge.design/share/pin-8205)
 
-[Explore page with hero collections, category pills, and post cards on a near-black canvas](https://design.withfudge.com/share/pin-8205)
+[Explore page with hero collections, category pills, and post cards on a near-black canvas](https://fudge.design/share/pin-8205)
 
-[![Search modal overlay with trending results, category sidebar, and cookie consent banner](https://pin.fontofweb.com/8204?format=jpg)](https://design.withfudge.com/share/pin-8204)
+[![Search modal overlay with trending results, category sidebar, and cookie consent banner](https://pin.fontofweb.com/8204?format=jpg)](https://fudge.design/share/pin-8204)
 
-[Search modal overlay with trending results, category sidebar, and cookie consent banner](https://design.withfudge.com/share/pin-8204)
+[Search modal overlay with trending results, category sidebar, and cookie consent banner](https://fudge.design/share/pin-8204)
 
-[![Homepage hero with bento grid of tool cards, tag filters, and right-rail article summaries](https://pin.fontofweb.com/8203?format=jpg)](https://design.withfudge.com/share/pin-8203)
+[![Homepage hero with bento grid of tool cards, tag filters, and right-rail article summaries](https://pin.fontofweb.com/8203?format=jpg)](https://fudge.design/share/pin-8203)
 
-[Homepage hero with bento grid of tool cards, tag filters, and right-rail article summaries](https://design.withfudge.com/share/pin-8203)
+[Homepage hero with bento grid of tool cards, tag filters, and right-rail article summaries](https://fudge.design/share/pin-8203)
 
-[![Tag filter dropdown with color swatches and three-column tag list against dark background](https://pin.fontofweb.com/8202?format=jpg)](https://design.withfudge.com/share/pin-8202)
+[![Tag filter dropdown with color swatches and three-column tag list against dark background](https://pin.fontofweb.com/8202?format=jpg)](https://fudge.design/share/pin-8202)
 
-[Tag filter dropdown with color swatches and three-column tag list against dark background](https://design.withfudge.com/share/pin-8202)
+[Tag filter dropdown with color swatches and three-column tag list against dark background](https://fudge.design/share/pin-8202)
 
 ## Overview
 
@@ -213,3 +213,18 @@ The bento-grid layout adapts through column reduction: full desktop shows 4-5 co
 ## Scope note
 
 This guide covers the homepage, explore page, search modal, and tag filter surfaces visible in the supplied images. Mobile breakpoints, animation specifications, form validation states, user profile pages, and the submission flow are not represented. The color and spacing values derive from the retained interface measurements; verify against production if implementing dynamic or personalized content areas.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Content index](/share/designs-with-page.content.index)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

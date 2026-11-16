@@ -1,18 +1,18 @@
 # How explosion.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/explosion.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/explosion.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark navy footer with circular Explosion logo, multi-column navigation links, and social icons on a deep indigo background](https://pin.fontofweb.com/5848?format=jpg)](https://design.withfudge.com/share/pin-5848)
+[![Dark navy footer with circular Explosion logo, multi-column navigation links, and social icons on a deep indigo background](https://pin.fontofweb.com/5848?format=jpg)](https://fudge.design/share/pin-5848)
 
-[Dark navy footer with circular Explosion logo, multi-column navigation links, and social icons on a deep indigo background](https://design.withfudge.com/share/pin-5848)
+[Dark navy footer with circular Explosion logo, multi-column navigation links, and social icons on a deep indigo background](https://fudge.design/share/pin-5848)
 
-[![Light homepage with bold hero headline, colored product pills, filter sidebar, and grid of article cards with thumbnails](https://pin.fontofweb.com/5847?format=jpg)](https://design.withfudge.com/share/pin-5847)
+[![Light homepage with bold hero headline, colored product pills, filter sidebar, and grid of article cards with thumbnails](https://pin.fontofweb.com/5847?format=jpg)](https://fudge.design/share/pin-5847)
 
-[Light homepage with bold hero headline, colored product pills, filter sidebar, and grid of article cards with thumbnails](https://design.withfudge.com/share/pin-5847)
+[Light homepage with bold hero headline, colored product pills, filter sidebar, and grid of article cards with thumbnails](https://fudge.design/share/pin-5847)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The header navigation, visible as text links in the supplied images, should coll
 ## Scope note
 
 This guide covers the homepage and footer surfaces visible in the supplied images. Interior pages, product-specific layouts, documentation templates, and mobile navigation patterns are not represented. Motion, hover states, loading indicators, and form validation styling are not documented. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

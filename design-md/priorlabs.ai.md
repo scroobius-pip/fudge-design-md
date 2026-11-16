@@ -1,26 +1,26 @@
 # How priorlabs.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/priorlabs.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/priorlabs.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Careers page showing Open Positions heading, job listing cards with filters, and an Interested sidebar with a dark blue View All Jobs button on white background.](https://pin.fontofweb.com/6866?format=jpg)](https://design.withfudge.com/share/pin-6866)
+[![Careers page showing Open Positions heading, job listing cards with filters, and an Interested sidebar with a dark blue View All Jobs button on white background.](https://pin.fontofweb.com/6866?format=jpg)](https://fudge.design/share/pin-6866)
 
-[Careers page showing Open Positions heading, job listing cards with filters, and an Interested sidebar with a dark blue View All Jobs button on white background.](https://design.withfudge.com/share/pin-6866)
+[Careers page showing Open Positions heading, job listing cards with filters, and an Interested sidebar with a dark blue View All Jobs button on white background.](https://fudge.design/share/pin-6866)
 
-[![Four city cards in a 2x2 grid with alternating dark blue and white backgrounds, each featuring curved line patterns and location names Berlin, Freiburg, New York, San Francisco.](https://pin.fontofweb.com/6865?format=jpg)](https://design.withfudge.com/share/pin-6865)
+[![Four city cards in a 2x2 grid with alternating dark blue and white backgrounds, each featuring curved line patterns and location names Berlin, Freiburg, New York, San Francisco.](https://pin.fontofweb.com/6865?format=jpg)](https://fudge.design/share/pin-6865)
 
-[Four city cards in a 2x2 grid with alternating dark blue and white backgrounds, each featuring curved line patterns and location names Berlin, Freiburg, New York, San Francisco.](https://design.withfudge.com/share/pin-6865)
+[Four city cards in a 2x2 grid with alternating dark blue and white backgrounds, each featuring curved line patterns and location names Berlin, Freiburg, New York, San Francisco.](https://fudge.design/share/pin-6865)
 
-[![Careers hero section with large centered heading about tabular foundation models, a dark blue CTA button, and a horizontal strip of team photographs below on a light textured](https://pin.fontofweb.com/6864?format=jpg)](https://design.withfudge.com/share/pin-6864)
+[![Careers hero section with large centered heading about tabular foundation models, a dark blue CTA button, and a horizontal strip of team photographs below on a light textured](https://pin.fontofweb.com/6864?format=jpg)](https://fudge.design/share/pin-6864)
 
-[Careers hero section with large centered heading about tabular foundation models, a dark blue CTA button, and a horizontal strip of team photographs below on a light textured](https://design.withfudge.com/share/pin-6864)
+[Careers hero section with large centered heading about tabular foundation models, a dark blue CTA button, and a horizontal strip of team photographs below on a light textured](https://fudge.design/share/pin-6864)
 
-[![Partner logo grid showing Elastic, AMD, Black Forest Labs, DataRobot, Meta, Qonto, Snowflake, Snyk, and others in dark blue monochrome on off-white background.](https://pin.fontofweb.com/6863?format=jpg)](https://design.withfudge.com/share/pin-6863)
+[![Partner logo grid showing Elastic, AMD, Black Forest Labs, DataRobot, Meta, Qonto, Snowflake, Snyk, and others in dark blue monochrome on off-white background.](https://pin.fontofweb.com/6863?format=jpg)](https://fudge.design/share/pin-6863)
 
-[Partner logo grid showing Elastic, AMD, Black Forest Labs, DataRobot, Meta, Qonto, Snowflake, Snyk, and others in dark blue monochrome on off-white background.](https://design.withfudge.com/share/pin-6863)
+[Partner logo grid showing Elastic, AMD, Black Forest Labs, DataRobot, Meta, Qonto, Snowflake, Snyk, and others in dark blue monochrome on off-white background.](https://fudge.design/share/pin-6863)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Navigation should collapse to a hamburger menu or simplified link list when hori
 ## Scope note
 
 This guide covers the visible desktop surfaces of the Prior Labs homepage, careers page, and about page. Mobile layouts, animation, hover states, form validation, and dark mode are not represented in the supplied material. The careers page job listing interactions—including filter dropdown behavior and application flows—are described structurally but not functionally. Saans Vftrial is present in source files but does not appear in the visible interface. Measurements are derived from the exact values present in the interface records.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

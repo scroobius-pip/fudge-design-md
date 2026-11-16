@@ -1,18 +1,18 @@
 # How borretti.me is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/borretti.me-design)
+[Open the live Fudge conversation](https://fudge.design/share/borretti.me-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Fiction page with centered serif title 'Julia', horizontal rule separators, and multi-paragraph prose with decorative asterism dividers](https://pin.fontofweb.com/6266?format=jpg)](https://design.withfudge.com/share/pin-6266)
+[![Fiction page with centered serif title 'Julia', horizontal rule separators, and multi-paragraph prose with decorative asterism dividers](https://pin.fontofweb.com/6266?format=jpg)](https://fudge.design/share/pin-6266)
 
-[Fiction page with centered serif title 'Julia', horizontal rule separators, and multi-paragraph prose with decorative asterism dividers](https://design.withfudge.com/share/pin-6266)
+[Fiction page with centered serif title 'Julia', horizontal rule separators, and multi-paragraph prose with decorative asterism dividers](https://fudge.design/share/pin-6266)
 
-[![Articles index with minimal navigation, RSS subscription link in red, and chronologically ordered post list with dates and descriptions](https://pin.fontofweb.com/5548?format=jpg)](https://design.withfudge.com/share/pin-5548)
+[![Articles index with minimal navigation, RSS subscription link in red, and chronologically ordered post list with dates and descriptions](https://pin.fontofweb.com/5548?format=jpg)](https://fudge.design/share/pin-5548)
 
-[Articles index with minimal navigation, RSS subscription link in red, and chronologically ordered post list with dates and descriptions](https://design.withfudge.com/share/pin-5548)
+[Articles index with minimal navigation, RSS subscription link in red, and chronologically ordered post list with dates and descriptions](https://fudge.design/share/pin-5548)
 
 ## Overview
 
@@ -160,3 +160,18 @@ No breakpoint-specific component transformations are required; the design's simp
 ## Scope note
 
 This guide covers the visible article index and fiction page surfaces. Footer content, individual article pages beyond the index listing, about pages, and any dark mode alternative are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Personal](/share/designs-with-industry.personal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

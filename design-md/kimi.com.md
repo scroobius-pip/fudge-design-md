@@ -1,26 +1,26 @@
 # How kimi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kimi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kimi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Kimi agent interface showing a split-pane layout with a task tree on the left and a code editor displaying Tailwind configuration on the right, demonstrating the dark-themed](https://pin.fontofweb.com/8499?format=jpg)](https://design.withfudge.com/share/pin-8499)
+[![Kimi agent interface showing a split-pane layout with a task tree on the left and a code editor displaying Tailwind configuration on the right, demonstrating the dark-themed](https://pin.fontofweb.com/8499?format=jpg)](https://fudge.design/share/pin-8499)
 
-[Kimi agent interface showing a split-pane layout with a task tree on the left and a code editor displaying Tailwind configuration on the right, demonstrating the dark-themed](https://design.withfudge.com/share/pin-8499)
+[Kimi agent interface showing a split-pane layout with a task tree on the left and a code editor displaying Tailwind configuration on the right, demonstrating the dark-themed](https://fudge.design/share/pin-8499)
 
-[![Kimi Claw product page featuring a cream-colored hero card with playful lobster-claw and ghost illustrations, dark surrounding canvas, and a create-action row with an orange](https://pin.fontofweb.com/6570?format=jpg)](https://design.withfudge.com/share/pin-6570)
+[![Kimi Claw product page featuring a cream-colored hero card with playful lobster-claw and ghost illustrations, dark surrounding canvas, and a create-action row with an orange](https://pin.fontofweb.com/6570?format=jpg)](https://fudge.design/share/pin-6570)
 
-[Kimi Claw product page featuring a cream-colored hero card with playful lobster-claw and ghost illustrations, dark surrounding canvas, and a create-action row with an orange](https://design.withfudge.com/share/pin-6570)
+[Kimi Claw product page featuring a cream-colored hero card with playful lobster-claw and ghost illustrations, dark surrounding canvas, and a create-action row with an orange](https://fudge.design/share/pin-6570)
 
-[![Kimi search results panel showing a research session with expandable reasoning steps, source citations with favicons, and PDF badges against a near-black background.](https://pin.fontofweb.com/6091?format=jpg)](https://design.withfudge.com/share/pin-6091)
+[![Kimi search results panel showing a research session with expandable reasoning steps, source citations with favicons, and PDF badges against a near-black background.](https://pin.fontofweb.com/6091?format=jpg)](https://fudge.design/share/pin-6091)
 
-[Kimi search results panel showing a research session with expandable reasoning steps, source citations with favicons, and PDF badges against a near-black background.](https://design.withfudge.com/share/pin-6091)
+[Kimi search results panel showing a research session with expandable reasoning steps, source citations with favicons, and PDF badges against a near-black background.](https://fudge.design/share/pin-6091)
 
-[![Kimi chat interface in a narrow viewport showing a user message bubble, agent response with thinking steps, and a bottom input bar with agent selector and send button.](https://pin.fontofweb.com/6090?format=jpg)](https://design.withfudge.com/share/pin-6090)
+[![Kimi chat interface in a narrow viewport showing a user message bubble, agent response with thinking steps, and a bottom input bar with agent selector and send button.](https://pin.fontofweb.com/6090?format=jpg)](https://fudge.design/share/pin-6090)
 
-[Kimi chat interface in a narrow viewport showing a user message bubble, agent response with thinking steps, and a bottom input bar with agent selector and send button.](https://design.withfudge.com/share/pin-6090)
+[Kimi chat interface in a narrow viewport showing a user message bubble, agent response with thinking steps, and a bottom input bar with agent selector and send button.](https://fudge.design/share/pin-6090)
 
 ## Overview
 
@@ -132,3 +132,18 @@ Image generation and code preview panels stack vertically when horizontal space 
 ## Scope note
 
 This guide covers the conversational chat interface, agent workspace with split-pane layouts, search results presentation, and product marketing cards as visible in the supplied captures. Pricing pages, settings panels, and subscription flows are not represented. Motion design, mobile-specific layouts, and dark-to-light mode transitions fall outside the current scope.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

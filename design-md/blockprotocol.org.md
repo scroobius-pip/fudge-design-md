@@ -1,18 +1,18 @@
 # How blockprotocol.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/blockprotocol.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/blockprotocol.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Paid add-ons section showing API usage pricing table with purple-accented service names, light gray borders, and a code-slash icon heading on a near-white background.](https://pin.fontofweb.com/3932?format=jpg)](https://design.withfudge.com/share/pin-3932)
+[![Paid add-ons section showing API usage pricing table with purple-accented service names, light gray borders, and a code-slash icon heading on a near-white background.](https://pin.fontofweb.com/3932?format=jpg)](https://fudge.design/share/pin-3932)
 
-[Paid add-ons section showing API usage pricing table with purple-accented service names, light gray borders, and a code-slash icon heading on a near-white background.](https://design.withfudge.com/share/pin-3932)
+[Paid add-ons section showing API usage pricing table with purple-accented service names, light gray borders, and a code-slash icon heading on a near-white background.](https://fudge.design/share/pin-3932)
 
-[![Pricing cards with vibrant purple-to-pink gradient backgrounds, white typography, feature grids, and contrasting pink and purple call-to-action buttons on a light gray surface.](https://pin.fontofweb.com/3931?format=jpg)](https://design.withfudge.com/share/pin-3931)
+[![Pricing cards with vibrant purple-to-pink gradient backgrounds, white typography, feature grids, and contrasting pink and purple call-to-action buttons on a light gray surface.](https://pin.fontofweb.com/3931?format=jpg)](https://fudge.design/share/pin-3931)
 
-[Pricing cards with vibrant purple-to-pink gradient backgrounds, white typography, feature grids, and contrasting pink and purple call-to-action buttons on a light gray surface.](https://design.withfudge.com/share/pin-3931)
+[Pricing cards with vibrant purple-to-pink gradient backgrounds, white typography, feature grids, and contrasting pink and purple call-to-action buttons on a light gray surface.](https://fudge.design/share/pin-3931)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Touch targets for buttons and table rows should maintain minimum 44px height. Th
 ## Scope note
 
 This guide covers the pricing page surface including plan cards and add-ons table. Navigation, footer, form interactions, checkout flows, and mobile-specific layouts are not represented in the supplied material. Motion, hover states, and disabled appearances are inferred from static images and should be verified in implementation. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How p.cv is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/p.cv-design)
+[Open the live Fudge conversation](https://fudge.design/share/p.cv-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Light theme with white canvas, dark ink, and monochrome typographic resume layout](https://pin.fontofweb.com/8494?format=jpg)](https://design.withfudge.com/share/pin-8494)
+[![Light theme with white canvas, dark ink, and monochrome typographic resume layout](https://pin.fontofweb.com/8494?format=jpg)](https://fudge.design/share/pin-8494)
 
-[Light theme with white canvas, dark ink, and monochrome typographic resume layout](https://design.withfudge.com/share/pin-8494)
+[Light theme with white canvas, dark ink, and monochrome typographic resume layout](https://fudge.design/share/pin-8494)
 
-[![Dark theme with near-black canvas, light gray ink, and theme toggle button in active state](https://pin.fontofweb.com/8493?format=jpg)](https://design.withfudge.com/share/pin-8493)
+[![Dark theme with near-black canvas, light gray ink, and theme toggle button in active state](https://pin.fontofweb.com/8493?format=jpg)](https://fudge.design/share/pin-8493)
 
-[Dark theme with near-black canvas, light gray ink, and theme toggle button in active state](https://design.withfudge.com/share/pin-8493)
+[Dark theme with near-black canvas, light gray ink, and theme toggle button in active state](https://fudge.design/share/pin-8493)
 
-[![Vibrant blue accent theme with white typography and full-bleed saturated background](https://pin.fontofweb.com/8492?format=jpg)](https://design.withfudge.com/share/pin-8492)
+[![Vibrant blue accent theme with white typography and full-bleed saturated background](https://pin.fontofweb.com/8492?format=jpg)](https://fudge.design/share/pin-8492)
 
-[Vibrant blue accent theme with white typography and full-bleed saturated background](https://design.withfudge.com/share/pin-8492)
+[Vibrant blue accent theme with white typography and full-bleed saturated background](https://fudge.design/share/pin-8492)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The design's single-column, left-aligned structure is inherently responsive. The
 ## Scope note
 
 This guide covers the single-page CV surface visible at p.cv. It does not include any subpages, portfolio content, email client behavior, or theme persistence mechanisms beyond the visible toggle. Motion, transitions between themes, and hover or focus states are not documented from the still images provided. The spacing and radius values derive from the extracted interface data; the 3px paragraph padding is retained as an exact measurement while larger layout values use the 0.25rem relative unit scale.
+
+## Related design patterns
+
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Personal](/share/designs-with-industry.personal)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Side navigation](/share/designs-with-layout.shell.side_nav)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

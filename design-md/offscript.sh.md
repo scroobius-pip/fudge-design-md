@@ -1,22 +1,22 @@
 # How offscript.sh is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/offscript.sh-design)
+[Open the live Fudge conversation](https://fudge.design/share/offscript.sh-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized blue 'Offscript' wordmark on warm cream background, showing the site's maximalist display typography and minimal navigation](https://pin.fontofweb.com/4730?format=jpg)](https://design.withfudge.com/share/pin-4730)
+[![Homepage hero with oversized blue 'Offscript' wordmark on warm cream background, showing the site's maximalist display typography and minimal navigation](https://pin.fontofweb.com/4730?format=jpg)](https://fudge.design/share/pin-4730)
 
-[Homepage hero with oversized blue 'Offscript' wordmark on warm cream background, showing the site's maximalist display typography and minimal navigation](https://design.withfudge.com/share/pin-4730)
+[Homepage hero with oversized blue 'Offscript' wordmark on warm cream background, showing the site's maximalist display typography and minimal navigation](https://fudge.design/share/pin-4730)
 
-[![Story page with portrait photo, handwritten blue script heading, and narrative body text on cream background](https://pin.fontofweb.com/4729?format=jpg)](https://design.withfudge.com/share/pin-4729)
+[![Story page with portrait photo, handwritten blue script heading, and narrative body text on cream background](https://pin.fontofweb.com/4729?format=jpg)](https://fudge.design/share/pin-4729)
 
-[Story page with portrait photo, handwritten blue script heading, and narrative body text on cream background](https://design.withfudge.com/share/pin-4729)
+[Story page with portrait photo, handwritten blue script heading, and narrative body text on cream background](https://fudge.design/share/pin-4729)
 
-[![Contact page with handwritten greeting, email link, interactive whiteboard embed, and social icons in footer](https://pin.fontofweb.com/4731?format=jpg)](https://design.withfudge.com/share/pin-4731)
+[![Contact page with handwritten greeting, email link, interactive whiteboard embed, and social icons in footer](https://pin.fontofweb.com/4731?format=jpg)](https://fudge.design/share/pin-4731)
 
-[Contact page with handwritten greeting, email link, interactive whiteboard embed, and social icons in footer](https://design.withfudge.com/share/pin-4731)
+[Contact page with handwritten greeting, email link, interactive whiteboard embed, and social icons in footer](https://fudge.design/share/pin-4731)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Script headings in Homemade Apple remain legible down to smaller sizes, though l
 ## Scope note
 
 This guide covers the homepage, story page, and contact page of offscript.sh as visible in the supplied images. The work portfolio page, any mobile layouts, hover and focus states, loading behavior, and potential dark mode are not represented. Measurements are practical adaptation targets derived from visual inspection. The partial blue circle on the homepage suggests additional decorative elements may exist below the visible area.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Personal](/share/designs-with-industry.personal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

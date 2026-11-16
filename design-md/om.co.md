@@ -1,18 +1,18 @@
 # How om.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/om.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/om.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Single blog post page with author bio card, date stamp, category tags, and comment section header showing the editorial reading experience](https://pin.fontofweb.com/9814?format=jpg)](https://design.withfudge.com/share/pin-9814)
+[![Single blog post page with author bio card, date stamp, category tags, and comment section header showing the editorial reading experience](https://pin.fontofweb.com/9814?format=jpg)](https://fudge.design/share/pin-9814)
 
-[Single blog post page with author bio card, date stamp, category tags, and comment section header showing the editorial reading experience](https://design.withfudge.com/share/pin-9814)
+[Single blog post page with author bio card, date stamp, category tags, and comment section header showing the editorial reading experience](https://fudge.design/share/pin-9814)
 
-[![Homepage with circular author portrait, tabbed navigation for latest posts, and chronological article list with date stamps and bold headlines](https://pin.fontofweb.com/9813?format=jpg)](https://design.withfudge.com/share/pin-9813)
+[![Homepage with circular author portrait, tabbed navigation for latest posts, and chronological article list with date stamps and bold headlines](https://pin.fontofweb.com/9813?format=jpg)](https://fudge.design/share/pin-9813)
 
-[Homepage with circular author portrait, tabbed navigation for latest posts, and chronological article list with date stamps and bold headlines](https://design.withfudge.com/share/pin-9813)
+[Homepage with circular author portrait, tabbed navigation for latest posts, and chronological article list with date stamps and bold headlines](https://fudge.design/share/pin-9813)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The visible system shows a desktop-optimized layout with a centered content colu
 ## Scope note
 
 This guide covers the homepage and single post page surfaces visible in the supplied images. Footer content, archive pages, search results, and subscription forms are not represented. No mobile breakpoint behavior, loading states, or interactive feedback beyond basic hover is documented. The design system assumes a light-mode-only presentation. System-Sansserif appears in the source as a root fallback family but is not actively used in visible components.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

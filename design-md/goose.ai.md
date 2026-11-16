@@ -1,26 +1,26 @@
 # How goose.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/goose.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/goose.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large goose illustration, green headline, email signup form, and pricing cards on dark navy background](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/share/pin-6491)
+[![Hero section with large goose illustration, green headline, email signup form, and pricing cards on dark navy background](https://pin.fontofweb.com/6491?format=jpg)](https://fudge.design/share/pin-6491)
 
-[Hero section with large goose illustration, green headline, email signup form, and pricing cards on dark navy background](https://design.withfudge.com/share/pin-6491)
+[Hero section with large goose illustration, green headline, email signup form, and pricing cards on dark navy background](https://fudge.design/share/pin-6491)
 
-[![Feature section with yellow accent headline, capability buttons, and sample text generation cards with gradient borders](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/share/pin-6493)
+[![Feature section with yellow accent headline, capability buttons, and sample text generation cards with gradient borders](https://pin.fontofweb.com/6493?format=jpg)](https://fudge.design/share/pin-6493)
 
-[Feature section with yellow accent headline, capability buttons, and sample text generation cards with gradient borders](https://design.withfudge.com/share/pin-6493)
+[Feature section with yellow accent headline, capability buttons, and sample text generation cards with gradient borders](https://fudge.design/share/pin-6493)
 
-[![Migration section with flying geese wireframe illustration, code snippet with syntax highlighting, and purple accent text](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/share/pin-6492)
+[![Migration section with flying geese wireframe illustration, code snippet with syntax highlighting, and purple accent text](https://pin.fontofweb.com/6492?format=jpg)](https://fudge.design/share/pin-6492)
 
-[Migration section with flying geese wireframe illustration, code snippet with syntax highlighting, and purple accent text](https://design.withfudge.com/share/pin-6492)
+[Migration section with flying geese wireframe illustration, code snippet with syntax highlighting, and purple accent text](https://fudge.design/share/pin-6492)
 
-[![FAQ accordion section with stacked question rows, chevron indicators, and subtle border separators on dark background](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/share/pin-6494)
+[![FAQ accordion section with stacked question rows, chevron indicators, and subtle border separators on dark background](https://pin.fontofweb.com/6494?format=jpg)](https://fudge.design/share/pin-6494)
 
-[FAQ accordion section with stacked question rows, chevron indicators, and subtle border separators on dark background](https://design.withfudge.com/share/pin-6494)
+[FAQ accordion section with stacked question rows, chevron indicators, and subtle border separators on dark background](https://fudge.design/share/pin-6494)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Typography should scale down proportionally: hero-display and section-display ma
 ## Scope note
 
 This guide covers the GooseAI marketing homepage including hero, features, migration, pricing, and FAQ sections. Mobile layouts, hover and focus states, loading animations, and the playground or documentation interfaces are not represented in the supplied material. The pricing section appears partially in the images; full pricing tiers and comparison logic are not documented here. Verify licensing for Articulat CF, Karl, System-Monospace, and System-Uimonospace before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

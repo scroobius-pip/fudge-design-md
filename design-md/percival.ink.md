@@ -1,18 +1,18 @@
 # How percival.ink is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/percival.ink-design)
+[Open the live Fudge conversation](https://fudge.design/share/percival.ink-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Code cell with syntax-highlighted Datalog showing path relations and reactivity exercise with inline code blocks and colored tokens](https://pin.fontofweb.com/6093?format=jpg)](https://design.withfudge.com/share/pin-6093)
+[![Code cell with syntax-highlighted Datalog showing path relations and reactivity exercise with inline code blocks and colored tokens](https://pin.fontofweb.com/6093?format=jpg)](https://fudge.design/share/pin-6093)
 
-[Code cell with syntax-highlighted Datalog showing path relations and reactivity exercise with inline code blocks and colored tokens](https://design.withfudge.com/share/pin-6093)
+[Code cell with syntax-highlighted Datalog showing path relations and reactivity exercise with inline code blocks and colored tokens](https://fudge.design/share/pin-6093)
 
-[![Landing page hero with Percival crown logo, navigation, welcome heading, scenic photograph, and interactive notebook introduction](https://pin.fontofweb.com/6092?format=jpg)](https://design.withfudge.com/share/pin-6092)
+[![Landing page hero with Percival crown logo, navigation, welcome heading, scenic photograph, and interactive notebook introduction](https://pin.fontofweb.com/6092?format=jpg)](https://fudge.design/share/pin-6092)
 
-[Landing page hero with Percival crown logo, navigation, welcome heading, scenic photograph, and interactive notebook introduction](https://design.withfudge.com/share/pin-6092)
+[Landing page hero with Percival crown logo, navigation, welcome heading, scenic photograph, and interactive notebook introduction](https://fudge.design/share/pin-6092)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Implementation should consider: maintaining the 48rem maximum content width as a
 ## Scope note
 
 This guide covers the visible landing and documentation page surfaces of Percival, including the header, hero content, instructional prose, code blocks with syntax highlighting, and button controls. Mobile-specific layouts, dark mode, loading states, error handling, animation, and interactive code execution feedback are not represented in the supplied material. Measurements reflect the exact values from the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Editing](/share/designs-with-interaction.task_state.editing)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

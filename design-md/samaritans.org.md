@@ -1,18 +1,18 @@
 # How samaritans.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/samaritans.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/samaritans.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full page view of Samaritans phone support page showing green header bar, white content area with contact cards, and navigation structure](https://pin.fontofweb.com/2290?format=jpg)](https://design.withfudge.com/share/pin-2290)
+[![Full page view of Samaritans phone support page showing green header bar, white content area with contact cards, and navigation structure](https://pin.fontofweb.com/2290?format=jpg)](https://fudge.design/share/pin-2290)
 
-[Full page view of Samaritans phone support page showing green header bar, white content area with contact cards, and navigation structure](https://design.withfudge.com/share/pin-2290)
+[Full page view of Samaritans phone support page showing green header bar, white content area with contact cards, and navigation structure](https://fudge.design/share/pin-2290)
 
-[![Close-up of green navigation button with white text reading Visit a branch showing rounded pill shape and bold typography](https://pin.fontofweb.com/2289?format=jpg)](https://design.withfudge.com/share/pin-2289)
+[![Close-up of green navigation button with white text reading Visit a branch showing rounded pill shape and bold typography](https://pin.fontofweb.com/2289?format=jpg)](https://fudge.design/share/pin-2289)
 
-[Close-up of green navigation button with white text reading Visit a branch showing rounded pill shape and bold typography](https://design.withfudge.com/share/pin-2289)
+[Close-up of green navigation button with white text reading Visit a branch showing rounded pill shape and bold typography](https://fudge.design/share/pin-2289)
 
 ## Overview
 
@@ -142,3 +142,18 @@ Section spacing should compress from 4rem to approximately 2.5rem on mobile to r
 ## Scope note
 
 This guide covers the visible phone support page and navigation elements from the supplied images. Footer content, form interactions, additional service pages, and mobile-specific layouts are not represented. Motion, hover states, and loading behavior are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+- [Public service](/share/designs-with-offering.public_service)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Unknown corners](/share/designs-with-visual.corner.unknown)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

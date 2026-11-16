@@ -1,18 +1,18 @@
 # How meow.camera is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/meow.camera-design)
+[Open the live Fudge conversation](https://fudge.design/share/meow.camera-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Live cat feeder camera view with control bar showing yellow action button, blue camera toggle pills, and dark overlay interface on video content](https://pin.fontofweb.com/3682?format=jpg)](https://design.withfudge.com/share/pin-3682)
+[![Live cat feeder camera view with control bar showing yellow action button, blue camera toggle pills, and dark overlay interface on video content](https://pin.fontofweb.com/3682?format=jpg)](https://fudge.design/share/pin-3682)
 
-[Live cat feeder camera view with control bar showing yellow action button, blue camera toggle pills, and dark overlay interface on video content](https://design.withfudge.com/share/pin-3682)
+[Live cat feeder camera view with control bar showing yellow action button, blue camera toggle pills, and dark overlay interface on video content](https://fudge.design/share/pin-3682)
 
-[![Dark sidebar navigation with search field, expandable feeder categories, scrollable location list with blue active selection, and footer icons](https://pin.fontofweb.com/3681?format=jpg)](https://design.withfudge.com/share/pin-3681)
+[![Dark sidebar navigation with search field, expandable feeder categories, scrollable location list with blue active selection, and footer icons](https://pin.fontofweb.com/3681?format=jpg)](https://fudge.design/share/pin-3681)
 
-[Dark sidebar navigation with search field, expandable feeder categories, scrollable location list with blue active selection, and footer icons](https://design.withfudge.com/share/pin-3681)
+[Dark sidebar navigation with search field, expandable feeder categories, scrollable location list with blue active selection, and footer icons](https://fudge.design/share/pin-3681)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Touch targets should maintain minimum 44px height even when visual padding compr
 ## Scope note
 
 This guide covers the live feeder camera view and sidebar navigation as visible on the landing experience. Mobile layouts, breakpoint-specific adaptations, loading states, error handling, and video playback controls beyond camera angle selection are not represented in the source material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+- [Editor canvas](/share/designs-with-layout.archetype.editor_canvas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

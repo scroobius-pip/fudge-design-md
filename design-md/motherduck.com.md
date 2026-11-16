@@ -1,26 +1,26 @@
 # How motherduck.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/motherduck.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/motherduck.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with playful duck illustrations on bright blue background showing MEGA and GIGA instance cards with cartoon characters](https://pin.fontofweb.com/9374?format=jpg)](https://design.withfudge.com/share/pin-9374)
+[![Hero section with playful duck illustrations on bright blue background showing MEGA and GIGA instance cards with cartoon characters](https://pin.fontofweb.com/9374?format=jpg)](https://fudge.design/share/pin-9374)
 
-[Hero section with playful duck illustrations on bright blue background showing MEGA and GIGA instance cards with cartoon characters](https://design.withfudge.com/share/pin-9374)
+[Hero section with playful duck illustrations on bright blue background showing MEGA and GIGA instance cards with cartoon characters](https://fudge.design/share/pin-9374)
 
-[![Main landing hero with large monospace headline, AI demo interface showing revenue analytics dashboard, and floating cloud decorations](https://pin.fontofweb.com/9373?format=jpg)](https://design.withfudge.com/share/pin-9373)
+[![Main landing hero with large monospace headline, AI demo interface showing revenue analytics dashboard, and floating cloud decorations](https://pin.fontofweb.com/9373?format=jpg)](https://fudge.design/share/pin-9373)
 
-[Main landing hero with large monospace headline, AI demo interface showing revenue analytics dashboard, and floating cloud decorations](https://design.withfudge.com/share/pin-9373)
+[Main landing hero with large monospace headline, AI demo interface showing revenue analytics dashboard, and floating cloud decorations](https://fudge.design/share/pin-9373)
 
-[![Ecosystem diagram with grid background showing connected data stack categories in colored bordered boxes around central MotherDuck logo](https://pin.fontofweb.com/9372?format=jpg)](https://design.withfudge.com/share/pin-9372)
+[![Ecosystem diagram with grid background showing connected data stack categories in colored bordered boxes around central MotherDuck logo](https://pin.fontofweb.com/9372?format=jpg)](https://fudge.design/share/pin-9372)
 
-[Ecosystem diagram with grid background showing connected data stack categories in colored bordered boxes around central MotherDuck logo](https://design.withfudge.com/share/pin-9372)
+[Ecosystem diagram with grid background showing connected data stack categories in colored bordered boxes around central MotherDuck logo](https://fudge.design/share/pin-9372)
 
-[![Hero section with processing checklist interface showing AI workflow steps with yellow highlight and stop button indicator](https://pin.fontofweb.com/9371?format=jpg)](https://design.withfudge.com/share/pin-9371)
+[![Hero section with processing checklist interface showing AI workflow steps with yellow highlight and stop button indicator](https://pin.fontofweb.com/9371?format=jpg)](https://fudge.design/share/pin-9371)
 
-[Hero section with processing checklist interface showing AI workflow steps with yellow highlight and stop button indicator](https://design.withfudge.com/share/pin-9371)
+[Hero section with processing checklist interface showing AI workflow steps with yellow highlight and stop button indicator](https://fudge.design/share/pin-9371)
 
 ## Overview
 
@@ -206,3 +206,18 @@ Touch targets for bordered buttons should maintain minimum 44px height despite t
 ## Scope note
 
 This guide covers the MotherDuck marketing homepage visible in the supplied captures, including the hero section, ecosystem diagram, feature cards, and AI demo interface. Pricing pages, documentation, authenticated dashboards, and mobile-specific layouts are not represented. Motion behavior, hover states, and form interactions were not captured and should be designed to extend the established visual principles. Measurements reflect the desktop viewport widths shown in the source images.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

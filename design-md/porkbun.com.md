@@ -1,26 +1,26 @@
 # How porkbun.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/porkbun.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/porkbun.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with domain search bar, cartoon pig mascot in toast costume, and trust badges including USA Today, Forbes, Trustpilot, and Facebook ratings](https://pin.fontofweb.com/8324?format=jpg)](https://design.withfudge.com/share/pin-8324)
+[![Hero section with domain search bar, cartoon pig mascot in toast costume, and trust badges including USA Today, Forbes, Trustpilot, and Facebook ratings](https://pin.fontofweb.com/8324?format=jpg)](https://fudge.design/share/pin-8324)
 
-[Hero section with domain search bar, cartoon pig mascot in toast costume, and trust badges including USA Today, Forbes, Trustpilot, and Facebook ratings](https://design.withfudge.com/share/pin-8324)
+[Hero section with domain search bar, cartoon pig mascot in toast costume, and trust badges including USA Today, Forbes, Trustpilot, and Facebook ratings](https://fudge.design/share/pin-8324)
 
-[![Dark footer with newsletter signup, multi-column link navigation, contact information, social media icons, and payment method logos](https://pin.fontofweb.com/5321?format=jpg)](https://design.withfudge.com/share/pin-5321)
+[![Dark footer with newsletter signup, multi-column link navigation, contact information, social media icons, and payment method logos](https://pin.fontofweb.com/5321?format=jpg)](https://fudge.design/share/pin-5321)
 
-[Dark footer with newsletter signup, multi-column link navigation, contact information, social media icons, and payment method logos](https://design.withfudge.com/share/pin-5321)
+[Dark footer with newsletter signup, multi-column link navigation, contact information, social media icons, and payment method logos](https://fudge.design/share/pin-5321)
 
-[![Free domain features grid with five feature cards showing WHOIS Privacy, SSL Certificates, URL Forwarding, Email Forwarding, and Cloudflare DNS Management](https://pin.fontofweb.com/5320?format=jpg)](https://design.withfudge.com/share/pin-5320)
+[![Free domain features grid with five feature cards showing WHOIS Privacy, SSL Certificates, URL Forwarding, Email Forwarding, and Cloudflare DNS Management](https://pin.fontofweb.com/5320?format=jpg)](https://fudge.design/share/pin-5320)
 
-[Free domain features grid with five feature cards showing WHOIS Privacy, SSL Certificates, URL Forwarding, Email Forwarding, and Cloudflare DNS Management](https://design.withfudge.com/share/pin-5320)
+[Free domain features grid with five feature cards showing WHOIS Privacy, SSL Certificates, URL Forwarding, Email Forwarding, and Cloudflare DNS Management](https://fudge.design/share/pin-5320)
 
-[![Trustpilot testimonial carousel with verified review cards, star ratings, reviewer names, and aggregate score display](https://pin.fontofweb.com/5319?format=jpg)](https://design.withfudge.com/share/pin-5319)
+[![Trustpilot testimonial carousel with verified review cards, star ratings, reviewer names, and aggregate score display](https://pin.fontofweb.com/5319?format=jpg)](https://fudge.design/share/pin-5319)
 
-[Trustpilot testimonial carousel with verified review cards, star ratings, reviewer names, and aggregate score display](https://design.withfudge.com/share/pin-5319)
+[Trustpilot testimonial carousel with verified review cards, star ratings, reviewer names, and aggregate score display](https://fudge.design/share/pin-5319)
 
 ## Overview
 
@@ -231,3 +231,18 @@ Touch targets for buttons and navigation items should maintain minimum 44px heig
 ## Scope note
 
 This guide covers the Porkbun homepage including hero, feature grids, testimonials, and footer surfaces. Pricing pages, account dashboards, checkout flows, and mobile-specific layouts are not represented in the supplied material. Motion behavior, loading states, and form validation styling are not documented. Measurements derive from the retained interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

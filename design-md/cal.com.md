@@ -1,26 +1,26 @@
 # How cal.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cal.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/cal.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, Google sign-up button, and interactive scheduling widget showing calendar and duration selection](https://pin.fontofweb.com/4812?format=jpg)](https://design.withfudge.com/share/pin-4812)
+[![Hero section with large display headline, Google sign-up button, and interactive scheduling widget showing calendar and duration selection](https://pin.fontofweb.com/4812?format=jpg)](https://fudge.design/share/pin-4812)
 
-[Hero section with large display headline, Google sign-up button, and interactive scheduling widget showing calendar and duration selection](https://design.withfudge.com/share/pin-4812)
+[Hero section with large display headline, Google sign-up button, and interactive scheduling widget showing calendar and duration selection](https://fudge.design/share/pin-4812)
 
-[![Feature comparison table with Cal.com highlighted column against Calendly and SavvyCal competitors](https://pin.fontofweb.com/4810?format=jpg)](https://design.withfudge.com/share/pin-4810)
+[![Feature comparison table with Cal.com highlighted column against Calendly and SavvyCal competitors](https://pin.fontofweb.com/4810?format=jpg)](https://fudge.design/share/pin-4810)
 
-[Feature comparison table with Cal.com highlighted column against Calendly and SavvyCal competitors](https://design.withfudge.com/share/pin-4810)
+[Feature comparison table with Cal.com highlighted column against Calendly and SavvyCal competitors](https://fudge.design/share/pin-4810)
 
-[![Four-tier pricing grid with Individuals, Teams, Organizations, and Enterprise plans including feature checklists](https://pin.fontofweb.com/4809?format=jpg)](https://design.withfudge.com/share/pin-4809)
+[![Four-tier pricing grid with Individuals, Teams, Organizations, and Enterprise plans including feature checklists](https://pin.fontofweb.com/4809?format=jpg)](https://fudge.design/share/pin-4809)
 
-[Four-tier pricing grid with Individuals, Teams, Organizations, and Enterprise plans including feature checklists](https://design.withfudge.com/share/pin-4809)
+[Four-tier pricing grid with Individuals, Teams, Organizations, and Enterprise plans including feature checklists](https://fudge.design/share/pin-4809)
 
-[![Social proof logo bar with Scale, Mercury, Coinbase, Storyblok, AngelList, and Raycast company marks](https://pin.fontofweb.com/4808?format=jpg)](https://design.withfudge.com/share/pin-4808)
+[![Social proof logo bar with Scale, Mercury, Coinbase, Storyblok, AngelList, and Raycast company marks](https://pin.fontofweb.com/4808?format=jpg)](https://fudge.design/share/pin-4808)
 
-[Social proof logo bar with Scale, Mercury, Coinbase, Storyblok, AngelList, and Raycast company marks](https://design.withfudge.com/share/pin-4808)
+[Social proof logo bar with Scale, Mercury, Coinbase, Storyblok, AngelList, and Raycast company marks](https://fudge.design/share/pin-4808)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Navigation would collapse to a hamburger menu or simplified drawer, with the cen
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Mobile breakpoints, dark mode implementation, form validation states, loading skeletons, and animation specifications are not included. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. Verify licensing for Cal Sans, Inter, Matter, Roboto Mono, and Satoshi families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

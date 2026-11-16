@@ -1,26 +1,26 @@
 # How halftonedigital.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/halftonedigital.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/halftonedigital.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with coral CTA headline, dark teal background, and multi-column service links](https://pin.fontofweb.com/4419?format=jpg)](https://design.withfudge.com/share/pin-4419)
+[![Footer section with coral CTA headline, dark teal background, and multi-column service links](https://pin.fontofweb.com/4419?format=jpg)](https://fudge.design/share/pin-4419)
 
-[Footer section with coral CTA headline, dark teal background, and multi-column service links](https://design.withfudge.com/share/pin-4419)
+[Footer section with coral CTA headline, dark teal background, and multi-column service links](https://fudge.design/share/pin-4419)
 
-[![Our Approach section with mint green background, large office photograph, and coral pill button](https://pin.fontofweb.com/4418?format=jpg)](https://design.withfudge.com/share/pin-4418)
+[![Our Approach section with mint green background, large office photograph, and coral pill button](https://pin.fontofweb.com/4418?format=jpg)](https://fudge.design/share/pin-4418)
 
-[Our Approach section with mint green background, large office photograph, and coral pill button](https://design.withfudge.com/share/pin-4418)
+[Our Approach section with mint green background, large office photograph, and coral pill button](https://fudge.design/share/pin-4418)
 
-[![Team member cards with coral-tinted portrait photos, rounded borders, and arrow link rows](https://pin.fontofweb.com/4417?format=jpg)](https://design.withfudge.com/share/pin-4417)
+[![Team member cards with coral-tinted portrait photos, rounded borders, and arrow link rows](https://pin.fontofweb.com/4417?format=jpg)](https://fudge.design/share/pin-4417)
 
-[Team member cards with coral-tinted portrait photos, rounded borders, and arrow link rows](https://design.withfudge.com/share/pin-4417)
+[Team member cards with coral-tinted portrait photos, rounded borders, and arrow link rows](https://fudge.design/share/pin-4417)
 
-[![Trusted By logo bar with centered dark heading and grayscale client logos on light background](https://pin.fontofweb.com/4416?format=jpg)](https://design.withfudge.com/share/pin-4416)
+[![Trusted By logo bar with centered dark heading and grayscale client logos on light background](https://pin.fontofweb.com/4416?format=jpg)](https://fudge.design/share/pin-4416)
 
-[Trusted By logo bar with centered dark heading and grayscale client logos on light background](https://design.withfudge.com/share/pin-4416)
+[Trusted By logo bar with centered dark heading and grayscale client logos on light background](https://fudge.design/share/pin-4416)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The layout appears optimized for desktop viewing with substantial horizontal spa
 ## Scope note
 
 This guide covers the homepage surface visible in supplied images: hero-adjacent sections, team presentation, client logo bar, and footer with service links and CTA. Navigation header, mobile layouts, form interactions, and interior pages are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, hover states, and loading behavior are not documented.
+
+## Related design patterns
+
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

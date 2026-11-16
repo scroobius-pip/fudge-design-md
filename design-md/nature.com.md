@@ -1,22 +1,22 @@
 # How nature.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nature.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nature.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Nature Aging journal homepage with hero banner, navigation bar, and featured article list with scientific imagery thumbnails](https://pin.fontofweb.com/9909?format=jpg)](https://design.withfudge.com/share/pin-9909)
+[![Nature Aging journal homepage with hero banner, navigation bar, and featured article list with scientific imagery thumbnails](https://pin.fontofweb.com/9909?format=jpg)](https://fudge.design/share/pin-9909)
 
-[Nature Aging journal homepage with hero banner, navigation bar, and featured article list with scientific imagery thumbnails](https://design.withfudge.com/share/pin-9909)
+[Nature Aging journal homepage with hero banner, navigation bar, and featured article list with scientific imagery thumbnails](https://fudge.design/share/pin-9909)
 
-[![Latest Reviews & Analysis section with multi-column article grid, scientific charts, and underlined headline links](https://pin.fontofweb.com/9911?format=jpg)](https://design.withfudge.com/share/pin-9911)
+[![Latest Reviews & Analysis section with multi-column article grid, scientific charts, and underlined headline links](https://pin.fontofweb.com/9911?format=jpg)](https://fudge.design/share/pin-9911)
 
-[Latest Reviews & Analysis section with multi-column article grid, scientific charts, and underlined headline links](https://design.withfudge.com/share/pin-9911)
+[Latest Reviews & Analysis section with multi-column article grid, scientific charts, and underlined headline links](https://fudge.design/share/pin-9911)
 
-[![Dark navy footer with four-column link grid, Springer Nature branding, and legal links row](https://pin.fontofweb.com/9910?format=jpg)](https://design.withfudge.com/share/pin-9910)
+[![Dark navy footer with four-column link grid, Springer Nature branding, and legal links row](https://pin.fontofweb.com/9910?format=jpg)](https://fudge.design/share/pin-9910)
 
-[Dark navy footer with four-column link grid, Springer Nature branding, and legal links row](https://design.withfudge.com/share/pin-9910)
+[Dark navy footer with four-column link grid, Springer Nature branding, and legal links row](https://fudge.design/share/pin-9910)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The design shows a desktop-first layout with substantial fixed margins. At narro
 ## Scope note
 
 This guide covers the Nature Aging journal homepage including header navigation, hero banner, featured article sections, review listings, and footer. Article detail pages, search interfaces, author pages, and mobile-specific layouts are not represented in the supplied material. The spacing scale uses exact pixel values converted to rem; minor rounding may occur in implementation. Measurements are practical adaptation targets based on the desktop viewport shown.
+
+## Related design patterns
+
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

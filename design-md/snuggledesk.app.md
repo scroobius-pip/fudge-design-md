@@ -1,26 +1,26 @@
 # How snuggledesk.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/snuggledesk.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/snuggledesk.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with warm gradient background, centered display typography, and paired pink action buttons with navigation bar](https://pin.fontofweb.com/5180?format=jpg)](https://design.withfudge.com/share/pin-5180)
+[![Hero section with warm gradient background, centered display typography, and paired pink action buttons with navigation bar](https://pin.fontofweb.com/5180?format=jpg)](https://fudge.design/share/pin-5180)
 
-[Hero section with warm gradient background, centered display typography, and paired pink action buttons with navigation bar](https://design.withfudge.com/share/pin-5180)
+[Hero section with warm gradient background, centered display typography, and paired pink action buttons with navigation bar](https://fudge.design/share/pin-5180)
 
-[![Custom stickers service section with black device mockup, before-and-after photo transformations, and pricing card](https://pin.fontofweb.com/5182?format=jpg)](https://design.withfudge.com/share/pin-5182)
+[![Custom stickers service section with black device mockup, before-and-after photo transformations, and pricing card](https://pin.fontofweb.com/5182?format=jpg)](https://fudge.design/share/pin-5182)
 
-[Custom stickers service section with black device mockup, before-and-after photo transformations, and pricing card](https://design.withfudge.com/share/pin-5182)
+[Custom stickers service section with black device mockup, before-and-after photo transformations, and pricing card](https://fudge.design/share/pin-5182)
 
-[![Social proof testimonials in three white rounded cards with avatar portraits and centered pink download button](https://pin.fontofweb.com/5181?format=jpg)](https://design.withfudge.com/share/pin-5181)
+[![Social proof testimonials in three white rounded cards with avatar portraits and centered pink download button](https://pin.fontofweb.com/5181?format=jpg)](https://fudge.design/share/pin-5181)
 
-[Social proof testimonials in three white rounded cards with avatar portraits and centered pink download button](https://design.withfudge.com/share/pin-5181)
+[Social proof testimonials in three white rounded cards with avatar portraits and centered pink download button](https://fudge.design/share/pin-5181)
 
-[![Sticker preview carousel with chibi character illustration, pink speech bubble, and circular navigation controls](https://pin.fontofweb.com/5183?format=jpg)](https://design.withfudge.com/share/pin-5183)
+[![Sticker preview carousel with chibi character illustration, pink speech bubble, and circular navigation controls](https://pin.fontofweb.com/5183?format=jpg)](https://fudge.design/share/pin-5183)
 
-[Sticker preview carousel with chibi character illustration, pink speech bubble, and circular navigation controls](https://design.withfudge.com/share/pin-5183)
+[Sticker preview carousel with chibi character illustration, pink speech bubble, and circular navigation controls](https://fudge.design/share/pin-5183)
 
 ## Overview
 
@@ -199,3 +199,18 @@ Type scale should reduce proportionally: hero-display may step down to `2.5rem` 
 ## Scope note
 
 This guide covers the SnuggleDesk landing page as visible in the supplied images, including the hero, navigation, custom stickers feature, testimonials, and sticker preview sections. Pricing details, footer content, additional pages, and interactive states such as hover, focus, loading, or form validation are not represented. Motion, animation, and sound design are not addressed. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

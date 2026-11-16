@@ -1,26 +1,26 @@
 # How dennissnellenberg.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dennissnellenberg.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/dennissnellenberg.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero section with large statement text and highlighted blue selection on secondary description paragraph](https://pin.fontofweb.com/5784?format=jpg)](https://design.withfudge.com/share/pin-5784)
+[![Homepage hero section with large statement text and highlighted blue selection on secondary description paragraph](https://pin.fontofweb.com/5784?format=jpg)](https://fudge.design/share/pin-5784)
 
-[Homepage hero section with large statement text and highlighted blue selection on secondary description paragraph](https://design.withfudge.com/share/pin-5784)
+[Homepage hero section with large statement text and highlighted blue selection on secondary description paragraph](https://fudge.design/share/pin-5784)
 
-[![Clean two-column text layout with oversized mission statement and smaller supporting paragraph on white background](https://pin.fontofweb.com/5783?format=jpg)](https://design.withfudge.com/share/pin-5783)
+[![Clean two-column text layout with oversized mission statement and smaller supporting paragraph on white background](https://pin.fontofweb.com/5783?format=jpg)](https://fudge.design/share/pin-5783)
 
-[Clean two-column text layout with oversized mission statement and smaller supporting paragraph on white background](https://design.withfudge.com/share/pin-5783)
+[Clean two-column text layout with oversized mission statement and smaller supporting paragraph on white background](https://fudge.design/share/pin-5783)
 
-[![Project list entries with large bold client names and right-aligned service category labels separated by hairline rules](https://pin.fontofweb.com/5782?format=jpg)](https://design.withfudge.com/share/pin-5782)
+[![Project list entries with large bold client names and right-aligned service category labels separated by hairline rules](https://pin.fontofweb.com/5782?format=jpg)](https://fudge.design/share/pin-5782)
 
-[Project list entries with large bold client names and right-aligned service category labels separated by hairline rules](https://design.withfudge.com/share/pin-5782)
+[Project list entries with large bold client names and right-aligned service category labels separated by hairline rules](https://fudge.design/share/pin-5782)
 
-[![Dark atmospheric photography background with centered white testimonial or bio text overlay](https://pin.fontofweb.com/5781?format=jpg)](https://design.withfudge.com/share/pin-5781)
+[![Dark atmospheric photography background with centered white testimonial or bio text overlay](https://pin.fontofweb.com/5781?format=jpg)](https://fudge.design/share/pin-5781)
 
-[Dark atmospheric photography background with centered white testimonial or bio text overlay](https://design.withfudge.com/share/pin-5781)
+[Dark atmospheric photography background with centered white testimonial or bio text overlay](https://fudge.design/share/pin-5781)
 
 ## Overview
 
@@ -161,3 +161,18 @@ Dark overlay sections require particular attention to text contrast across varyi
 ## Scope note
 
 This guide covers the homepage and project detail surfaces visible in the supplied images. Navigation dropdowns, footer content, contact forms, and mobile-specific layouts are not represented. Motion design, loading states, and cursor interactions are not documented. Measurements are practical adaptation targets derived from visual inspection of the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Unknown corners](/share/designs-with-visual.corner.unknown)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

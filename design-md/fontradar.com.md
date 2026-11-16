@@ -1,18 +1,18 @@
 # How fontradar.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fontradar.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fontradar.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid section with eight capability cards showing iconography, bold headings, and body text in cyan on black background](https://pin.fontofweb.com/5328?format=jpg)](https://design.withfudge.com/share/pin-5328)
+[![Feature grid section with eight capability cards showing iconography, bold headings, and body text in cyan on black background](https://pin.fontofweb.com/5328?format=jpg)](https://fudge.design/share/pin-5328)
 
-[Feature grid section with eight capability cards showing iconography, bold headings, and body text in cyan on black background](https://design.withfudge.com/share/pin-5328)
+[Feature grid section with eight capability cards showing iconography, bold headings, and body text in cyan on black background](https://fudge.design/share/pin-5328)
 
-[![Hero section with massive stacked headline FIND & CORRECT LICENSE VIOLATIONS OF YOUR FONTS in bold cyan type on black background](https://pin.fontofweb.com/5327?format=jpg)](https://design.withfudge.com/share/pin-5327)
+[![Hero section with massive stacked headline FIND & CORRECT LICENSE VIOLATIONS OF YOUR FONTS in bold cyan type on black background](https://pin.fontofweb.com/5327?format=jpg)](https://fudge.design/share/pin-5327)
 
-[Hero section with massive stacked headline FIND & CORRECT LICENSE VIOLATIONS OF YOUR FONTS in bold cyan type on black background](https://design.withfudge.com/share/pin-5327)
+[Hero section with massive stacked headline FIND & CORRECT LICENSE VIOLATIONS OF YOUR FONTS in bold cyan type on black background](https://fudge.design/share/pin-5327)
 
 ## Overview
 
@@ -134,3 +134,18 @@ Typography scaling should maintain the dramatic weight contrast between display 
 ## Scope note
 
 This guide covers the homepage hero and feature-grid surfaces visible in the supplied images. Footer content, interior pages, pricing tables, and any interactive dashboard or account interfaces are not represented. Motion behavior, hover states, and mobile-specific layouts are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px modular grid.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

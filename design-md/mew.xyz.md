@@ -1,26 +1,26 @@
 # How mew.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mew.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/mew.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Navigation bar with MEW mascot, social icons, and MEDIA/MEW TALES/CREATIVE section headers on dark canvas with red accents](https://pin.fontofweb.com/278?format=jpg)](https://design.withfudge.com/share/pin-278)
+[![Navigation bar with MEW mascot, social icons, and MEDIA/MEW TALES/CREATIVE section headers on dark canvas with red accents](https://pin.fontofweb.com/278?format=jpg)](https://fudge.design/share/pin-278)
 
-[Navigation bar with MEW mascot, social icons, and MEDIA/MEW TALES/CREATIVE section headers on dark canvas with red accents](https://design.withfudge.com/share/pin-278)
+[Navigation bar with MEW mascot, social icons, and MEDIA/MEW TALES/CREATIVE section headers on dark canvas with red accents](https://fudge.design/share/pin-278)
 
-[![Hero banner with bold black typography on saturated red background and white cat mascot with green backpack](https://pin.fontofweb.com/277?format=jpg)](https://design.withfudge.com/share/pin-277)
+[![Hero banner with bold black typography on saturated red background and white cat mascot with green backpack](https://pin.fontofweb.com/277?format=jpg)](https://fudge.design/share/pin-277)
 
-[Hero banner with bold black typography on saturated red background and white cat mascot with green backpack](https://design.withfudge.com/share/pin-277)
+[Hero banner with bold black typography on saturated red background and white cat mascot with green backpack](https://fudge.design/share/pin-277)
 
-[![Full hero section with scrolling red ticker, partner logo grid with red icons on dark cells, and social action buttons](https://pin.fontofweb.com/276?format=jpg)](https://design.withfudge.com/share/pin-276)
+[![Full hero section with scrolling red ticker, partner logo grid with red icons on dark cells, and social action buttons](https://pin.fontofweb.com/276?format=jpg)](https://fudge.design/share/pin-276)
 
-[Full hero section with scrolling red ticker, partner logo grid with red icons on dark cells, and social action buttons](https://design.withfudge.com/share/pin-276)
+[Full hero section with scrolling red ticker, partner logo grid with red icons on dark cells, and social action buttons](https://fudge.design/share/pin-276)
 
-[![Dramatic typographic statement with oversized red MEW lettering and spray-painted white M accent on dark background](https://pin.fontofweb.com/275?format=jpg)](https://design.withfudge.com/share/pin-275)
+[![Dramatic typographic statement with oversized red MEW lettering and spray-painted white M accent on dark background](https://pin.fontofweb.com/275?format=jpg)](https://fudge.design/share/pin-275)
 
-[Dramatic typographic statement with oversized red MEW lettering and spray-painted white M accent on dark background](https://design.withfudge.com/share/pin-275)
+[Dramatic typographic statement with oversized red MEW lettering and spray-painted white M accent on dark background](https://fudge.design/share/pin-275)
 
 ## Overview
 
@@ -170,3 +170,18 @@ The ticker band should maintain its continuous scroll behavior across all breakp
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images: hero banner, navigation, scrolling ticker, partner grid, and section headers. Measurements are practical adaptation targets. Footer content, interior pages, motion behavior beyond the ticker scroll, and mobile-specific layouts are not represented. Form interactions, wallet connection flows, and dynamic content states require additional design exploration.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How crescenzi.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/crescenzi.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/crescenzi.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog listing page with three-column card grid, category labels in uppercase monospace, and light gray canvas background](https://pin.fontofweb.com/2184?format=jpg)](https://design.withfudge.com/share/pin-2184)
+[![Blog listing page with three-column card grid, category labels in uppercase monospace, and light gray canvas background](https://pin.fontofweb.com/2184?format=jpg)](https://fudge.design/share/pin-2184)
 
-[Blog listing page with three-column card grid, category labels in uppercase monospace, and light gray canvas background](https://design.withfudge.com/share/pin-2184)
+[Blog listing page with three-column card grid, category labels in uppercase monospace, and light gray canvas background](https://fudge.design/share/pin-2184)
 
-[![Dark footer section with large taupe contact links featuring arrow icons, and black bottom bar with small text links](https://pin.fontofweb.com/2183?format=jpg)](https://design.withfudge.com/share/pin-2183)
+[![Dark footer section with large taupe contact links featuring arrow icons, and black bottom bar with small text links](https://pin.fontofweb.com/2183?format=jpg)](https://fudge.design/share/pin-2183)
 
-[Dark footer section with large taupe contact links featuring arrow icons, and black bottom bar with small text links](https://design.withfudge.com/share/pin-2183)
+[Dark footer section with large taupe contact links featuring arrow icons, and black bottom bar with small text links](https://fudge.design/share/pin-2183)
 
-[![Hero section with Bulward type specimen collage in taupe and white against near-black background with promotional text](https://pin.fontofweb.com/2182?format=jpg)](https://design.withfudge.com/share/pin-2182)
+[![Hero section with Bulward type specimen collage in taupe and white against near-black background with promotional text](https://pin.fontofweb.com/2182?format=jpg)](https://fudge.design/share/pin-2182)
 
-[Hero section with Bulward type specimen collage in taupe and white against near-black background with promotional text](https://design.withfudge.com/share/pin-2182)
+[Hero section with Bulward type specimen collage in taupe and white against near-black background with promotional text](https://fudge.design/share/pin-2182)
 
-[![Homepage hero with studio description, outlined pill button, and large red UFC Sans project card on dark charcoal ground](https://pin.fontofweb.com/2181?format=jpg)](https://design.withfudge.com/share/pin-2181)
+[![Homepage hero with studio description, outlined pill button, and large red UFC Sans project card on dark charcoal ground](https://pin.fontofweb.com/2181?format=jpg)](https://fudge.design/share/pin-2181)
 
-[Homepage hero with studio description, outlined pill button, and large red UFC Sans project card on dark charcoal ground](https://design.withfudge.com/share/pin-2181)
+[Homepage hero with studio description, outlined pill button, and large red UFC Sans project card on dark charcoal ground](https://fudge.design/share/pin-2181)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The three-column blog grid should collapse to a single column on narrow viewport
 ## Scope note
 
 This guide covers the homepage, blog listing, and footer surfaces visible in the supplied images. Interior project pages, mobile breakpoints, hover and focus states, and the complete type specimen interactions are not represented. Measurements are practical adaptation targets derived from visual analysis of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How whop.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/whop.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/whop.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Landing page hero with centered headline 'Join the future of work' and two pill-shaped action buttons on near-black background](https://pin.fontofweb.com/10222?format=jpg)](https://design.withfudge.com/share/pin-10222)
+[![Landing page hero with centered headline 'Join the future of work' and two pill-shaped action buttons on near-black background](https://pin.fontofweb.com/10222?format=jpg)](https://fudge.design/share/pin-10222)
 
-[Landing page hero with centered headline 'Join the future of work' and two pill-shaped action buttons on near-black background](https://design.withfudge.com/share/pin-10222)
+[Landing page hero with centered headline 'Join the future of work' and two pill-shaped action buttons on near-black background](https://fudge.design/share/pin-10222)
 
-[![Login page with centered card containing email input, blue continue button, and social login options against dark patterned background](https://pin.fontofweb.com/6948?format=jpg)](https://design.withfudge.com/share/pin-6948)
+[![Login page with centered card containing email input, blue continue button, and social login options against dark patterned background](https://pin.fontofweb.com/6948?format=jpg)](https://fudge.design/share/pin-6948)
 
-[Login page with centered card containing email input, blue continue button, and social login options against dark patterned background](https://design.withfudge.com/share/pin-6948)
+[Login page with centered card containing email input, blue continue button, and social login options against dark patterned background](https://fudge.design/share/pin-6948)
 
-[![Dashboard start page with left sidebar navigation, embedded video player, and platform statistics in blue accent](https://pin.fontofweb.com/6947?format=jpg)](https://design.withfudge.com/share/pin-6947)
+[![Dashboard start page with left sidebar navigation, embedded video player, and platform statistics in blue accent](https://pin.fontofweb.com/6947?format=jpg)](https://fudge.design/share/pin-6947)
 
-[Dashboard start page with left sidebar navigation, embedded video player, and platform statistics in blue accent](https://design.withfudge.com/share/pin-6947)
+[Dashboard start page with left sidebar navigation, embedded video player, and platform statistics in blue accent](https://fudge.design/share/pin-6947)
 
-[![Finance feature page with 3D money illustration, feature grid with icons, and blue waitlist button](https://pin.fontofweb.com/6946?format=jpg)](https://design.withfudge.com/share/pin-6946)
+[![Finance feature page with 3D money illustration, feature grid with icons, and blue waitlist button](https://pin.fontofweb.com/6946?format=jpg)](https://fudge.design/share/pin-6946)
 
-[Finance feature page with 3D money illustration, feature grid with icons, and blue waitlist button](https://design.withfudge.com/share/pin-6946)
+[Finance feature page with 3D money illustration, feature grid with icons, and blue waitlist button](https://fudge.design/share/pin-6946)
 
 ## Overview
 
@@ -187,3 +187,18 @@ The authenticated layout with left sidebar should collapse to a bottom tab bar o
 ## Scope note
 
 This guide covers the landing page, login flow, dashboard start page, and finance feature page as visible in the supplied materials. Mobile breakpoints, hover and focus state animations, loading skeletons, error pages, and notification systems are not documented. The design system does not include data visualization components, table layouts, or complex form patterns beyond single-field inputs. Measurements are derived from the exact values present in the interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

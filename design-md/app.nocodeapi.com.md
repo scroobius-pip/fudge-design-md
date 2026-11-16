@@ -1,18 +1,18 @@
 # How app.nocodeapi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.nocodeapi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.nocodeapi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login page with centered form, yellow submit button, Google SSO option, and minimal header with NoCodeAPI logo](https://pin.fontofweb.com/2099?format=jpg)](https://design.withfudge.com/share/pin-2099)
+[![Login page with centered form, yellow submit button, Google SSO option, and minimal header with NoCodeAPI logo](https://pin.fontofweb.com/2099?format=jpg)](https://fudge.design/share/pin-2099)
 
-[Login page with centered form, yellow submit button, Google SSO option, and minimal header with NoCodeAPI logo](https://design.withfudge.com/share/pin-2099)
+[Login page with centered form, yellow submit button, Google SSO option, and minimal header with NoCodeAPI logo](https://fudge.design/share/pin-2099)
 
-[![Sign-up page with centered form, yellow submit button, Google SSO option, terms agreement text with blue links, and minimal header](https://pin.fontofweb.com/2098?format=jpg)](https://design.withfudge.com/share/pin-2098)
+[![Sign-up page with centered form, yellow submit button, Google SSO option, terms agreement text with blue links, and minimal header](https://pin.fontofweb.com/2098?format=jpg)](https://fudge.design/share/pin-2098)
 
-[Sign-up page with centered form, yellow submit button, Google SSO option, terms agreement text with blue links, and minimal header](https://design.withfudge.com/share/pin-2098)
+[Sign-up page with centered form, yellow submit button, Google SSO option, terms agreement text with blue links, and minimal header](https://fudge.design/share/pin-2098)
 
 ## Overview
 
@@ -171,3 +171,18 @@ For very small viewports, the header link text may wrap or truncate; consider sh
 ## Scope note
 
 This guide covers the login and signup authentication surfaces of app.nocodeapi.com. Dashboard interior pages, API configuration interfaces, billing flows, and responsive mobile adaptations are not represented in the supplied images. Motion, loading states, error messaging, and dark mode are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Form funnel](/share/designs-with-layout.archetype.form_funnel)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

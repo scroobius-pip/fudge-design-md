@@ -1,26 +1,26 @@
 # How jules.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jules.google-design)
+[Open the live Fudge conversation](https://fudge.design/share/jules.google-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with ASCII art title, code editor mockup, and floating task cards on deep purple background](https://pin.fontofweb.com/5850?format=jpg)](https://design.withfudge.com/share/pin-5850)
+[![Hero section with ASCII art title, code editor mockup, and floating task cards on deep purple background](https://pin.fontofweb.com/5850?format=jpg)](https://fudge.design/share/pin-5850)
 
-[Hero section with ASCII art title, code editor mockup, and floating task cards on deep purple background](https://design.withfudge.com/share/pin-5850)
+[Hero section with ASCII art title, code editor mockup, and floating task cards on deep purple background](https://fudge.design/share/pin-5850)
 
-[![Feature grid with pixel-art octopus mascot and four capability cards with neon accent icons](https://pin.fontofweb.com/5851?format=jpg)](https://design.withfudge.com/share/pin-5851)
+[![Feature grid with pixel-art octopus mascot and four capability cards with neon accent icons](https://pin.fontofweb.com/5851?format=jpg)](https://fudge.design/share/pin-5851)
 
-[Feature grid with pixel-art octopus mascot and four capability cards with neon accent icons](https://design.withfudge.com/share/pin-5851)
+[Feature grid with pixel-art octopus mascot and four capability cards with neon accent icons](https://fudge.design/share/pin-5851)
 
-[![Pricing tier cards with Pro and Ultra badges, decorative pixel border, and stacked CTA buttons](https://pin.fontofweb.com/5852?format=jpg)](https://design.withfudge.com/share/pin-5852)
+[![Pricing tier cards with Pro and Ultra badges, decorative pixel border, and stacked CTA buttons](https://pin.fontofweb.com/5852?format=jpg)](https://fudge.design/share/pin-5852)
 
-[Pricing tier cards with Pro and Ultra badges, decorative pixel border, and stacked CTA buttons](https://design.withfudge.com/share/pin-5852)
+[Pricing tier cards with Pro and Ultra badges, decorative pixel border, and stacked CTA buttons](https://fudge.design/share/pin-5852)
 
-[![Three-column pricing comparison with tier headers, bullet lists, and subtle card surfaces](https://pin.fontofweb.com/5853?format=jpg)](https://design.withfudge.com/share/pin-5853)
+[![Three-column pricing comparison with tier headers, bullet lists, and subtle card surfaces](https://pin.fontofweb.com/5853?format=jpg)](https://fudge.design/share/pin-5853)
 
-[Three-column pricing comparison with tier headers, bullet lists, and subtle card surfaces](https://design.withfudge.com/share/pin-5853)
+[Three-column pricing comparison with tier headers, bullet lists, and subtle card surfaces](https://fudge.design/share/pin-5853)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Button groups in the footer should stack vertically with full-width treatment on
 ## Scope note
 
 This guide covers the Jules marketing page as captured, including the hero, features, pricing, and footer surfaces. Measurements are practical adaptation targets. Mobile breakpoints, interactive states beyond static view, form components, and the actual application interface are not represented in the supplied material.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Purple hue](/share/designs-with-color.hue.purple)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How yannickgregoire.nl is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/yannickgregoire.nl-design)
+[Open the live Fudge conversation](https://fudge.design/share/yannickgregoire.nl-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Services and contact sections with terminal-style typography, black background, and abstract geometric illustration](https://pin.fontofweb.com/119?format=jpg)](https://design.withfudge.com/share/pin-119)
+[![Services and contact sections with terminal-style typography, black background, and abstract geometric illustration](https://pin.fontofweb.com/119?format=jpg)](https://fudge.design/share/pin-119)
 
-[Services and contact sections with terminal-style typography, black background, and abstract geometric illustration](https://design.withfudge.com/share/pin-119)
+[Services and contact sections with terminal-style typography, black background, and abstract geometric illustration](https://fudge.design/share/pin-119)
 
-[![Project card with bright green highlight bar, terminal mono type, and minimal black background](https://pin.fontofweb.com/118?format=jpg)](https://design.withfudge.com/share/pin-118)
+[![Project card with bright green highlight bar, terminal mono type, and minimal black background](https://pin.fontofweb.com/118?format=jpg)](https://fudge.design/share/pin-118)
 
-[Project card with bright green highlight bar, terminal mono type, and minimal black background](https://design.withfudge.com/share/pin-118)
+[Project card with bright green highlight bar, terminal mono type, and minimal black background](https://fudge.design/share/pin-118)
 
-[![Playbook Journal project detail with green highlight, purple and orange geometric shapes, and info panel layout](https://pin.fontofweb.com/117?format=jpg)](https://design.withfudge.com/share/pin-117)
+[![Playbook Journal project detail with green highlight, purple and orange geometric shapes, and info panel layout](https://pin.fontofweb.com/117?format=jpg)](https://fudge.design/share/pin-117)
 
-[Playbook Journal project detail with green highlight, purple and orange geometric shapes, and info panel layout](https://design.withfudge.com/share/pin-117)
+[Playbook Journal project detail with green highlight, purple and orange geometric shapes, and info panel layout](https://fudge.design/share/pin-117)
 
-[![Projects listing page with multiple project entries, green accent bars, and terminal-style navigation footer](https://pin.fontofweb.com/116?format=jpg)](https://design.withfudge.com/share/pin-116)
+[![Projects listing page with multiple project entries, green accent bars, and terminal-style navigation footer](https://pin.fontofweb.com/116?format=jpg)](https://fudge.design/share/pin-116)
 
-[Projects listing page with multiple project entries, green accent bars, and terminal-style navigation footer](https://design.withfudge.com/share/pin-116)
+[Projects listing page with multiple project entries, green accent bars, and terminal-style navigation footer](https://fudge.design/share/pin-116)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Body text at 1rem should remain comfortable for reading; no reduction is necessa
 ## Scope note
 
 This guide covers the homepage and projects listing surfaces visible in the supplied images. Interior pages, mobile breakpoints, motion design, hover states, and form interactions are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit. The dotted heading texture and its size-dependent behavior may require custom implementation or font feature detection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

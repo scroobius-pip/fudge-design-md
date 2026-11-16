@@ -1,26 +1,26 @@
 # How snorkel.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/snorkel.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/snorkel.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Modal dialog with three-column service selection on dark hero background showing gradient text treatment](https://pin.fontofweb.com/9591?format=jpg)](https://design.withfudge.com/share/pin-9591)
+[![Modal dialog with three-column service selection on dark hero background showing gradient text treatment](https://pin.fontofweb.com/9591?format=jpg)](https://fudge.design/share/pin-9591)
 
-[Modal dialog with three-column service selection on dark hero background showing gradient text treatment](https://design.withfudge.com/share/pin-9591)
+[Modal dialog with three-column service selection on dark hero background showing gradient text treatment](https://fudge.design/share/pin-9591)
 
-[![Hero section with cream background, gradient headline, and three dark feature cards with abstract line art](https://pin.fontofweb.com/9590?format=jpg)](https://design.withfudge.com/share/pin-9590)
+[![Hero section with cream background, gradient headline, and three dark feature cards with abstract line art](https://pin.fontofweb.com/9590?format=jpg)](https://fudge.design/share/pin-9590)
 
-[Hero section with cream background, gradient headline, and three dark feature cards with abstract line art](https://design.withfudge.com/share/pin-9590)
+[Hero section with cream background, gradient headline, and three dark feature cards with abstract line art](https://fudge.design/share/pin-9590)
 
-[![Dark research section with grid of collaboration cards featuring category pills and descriptive text](https://pin.fontofweb.com/9589?format=jpg)](https://design.withfudge.com/share/pin-9589)
+[![Dark research section with grid of collaboration cards featuring category pills and descriptive text](https://pin.fontofweb.com/9589?format=jpg)](https://fudge.design/share/pin-9589)
 
-[Dark research section with grid of collaboration cards featuring category pills and descriptive text](https://design.withfudge.com/share/pin-9589)
+[Dark research section with grid of collaboration cards featuring category pills and descriptive text](https://fudge.design/share/pin-9589)
 
-[![Autonomy Horizon diagram with 3D wireframe visualization and centered Stanford origin story on dark navy](https://pin.fontofweb.com/9588?format=jpg)](https://design.withfudge.com/share/pin-9588)
+[![Autonomy Horizon diagram with 3D wireframe visualization and centered Stanford origin story on dark navy](https://pin.fontofweb.com/9588?format=jpg)](https://fudge.design/share/pin-9588)
 
-[Autonomy Horizon diagram with 3D wireframe visualization and centered Stanford origin story on dark navy](https://design.withfudge.com/share/pin-9588)
+[Autonomy Horizon diagram with 3D wireframe visualization and centered Stanford origin story on dark navy](https://fudge.design/share/pin-9588)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Typography scales down proportionally: hero-display should reduce to 3rem on tab
 ## Scope note
 
 This guide covers the Snorkel AI homepage including hero, service modal, research collaborations, and origin story sections. Interior pages, documentation, product interfaces, and mobile-specific layouts are not represented. Motion behavior, hover states, and form validation patterns were not captured in the supplied materials.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

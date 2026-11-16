@@ -1,26 +1,26 @@
 # How harvey.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/harvey.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/harvey.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/share/pin-8744)
+[![Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://pin.fontofweb.com/8744?format=jpg)](https://fudge.design/share/pin-8744)
 
-[Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://design.withfudge.com/share/pin-8744)
+[Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://fudge.design/share/pin-8744)
 
-[![Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/share/pin-8743)
+[![Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://pin.fontofweb.com/8743?format=jpg)](https://fudge.design/share/pin-8743)
 
-[Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://design.withfudge.com/share/pin-8743)
+[Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://fudge.design/share/pin-8743)
 
-[![Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://pin.fontofweb.com/8742?format=jpg)](https://design.withfudge.com/share/pin-8742)
+[![Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://pin.fontofweb.com/8742?format=jpg)](https://fudge.design/share/pin-8742)
 
-[Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://design.withfudge.com/share/pin-8742)
+[Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://fudge.design/share/pin-8742)
 
-[![Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/share/pin-8741)
+[![Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://pin.fontofweb.com/8741?format=jpg)](https://fudge.design/share/pin-8741)
 
-[Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://design.withfudge.com/share/pin-8741)
+[Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://fudge.design/share/pin-8741)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Typography should scale down proportionally: hero-display reducing to 3rem on ta
 ## Scope note
 
 This guide covers the Harvey homepage and blog landing page as visible in the supplied images. Interior pages, mobile breakpoints, form interactions, loading states, and motion specifications are not included. The spacing and sizing values reflect the exact measurements from the desktop interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

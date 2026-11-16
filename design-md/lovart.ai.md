@@ -1,26 +1,26 @@
 # How lovart.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lovart.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/lovart.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with serif headline, four-tier card grid, and lime-accented Pro plan on near-black canvas](https://pin.fontofweb.com/8789?format=jpg)](https://design.withfudge.com/share/pin-8789)
+[![Pricing page hero with serif headline, four-tier card grid, and lime-accented Pro plan on near-black canvas](https://pin.fontofweb.com/8789?format=jpg)](https://fudge.design/share/pin-8789)
 
-[Pricing page hero with serif headline, four-tier card grid, and lime-accented Pro plan on near-black canvas](https://design.withfudge.com/share/pin-8789)
+[Pricing page hero with serif headline, four-tier card grid, and lime-accented Pro plan on near-black canvas](https://fudge.design/share/pin-8789)
 
-[![Light modal dialog with social login buttons, email field, and centered Feature Deck serif heading](https://pin.fontofweb.com/6163?format=jpg)](https://design.withfudge.com/share/pin-6163)
+[![Light modal dialog with social login buttons, email field, and centered Feature Deck serif heading](https://pin.fontofweb.com/6163?format=jpg)](https://fudge.design/share/pin-6163)
 
-[Light modal dialog with social login buttons, email field, and centered Feature Deck serif heading](https://design.withfudge.com/share/pin-6163)
+[Light modal dialog with social login buttons, email field, and centered Feature Deck serif heading](https://fudge.design/share/pin-6163)
 
-[![Dark comparison table with five plan columns, model rows, and lime unlimited badges in tabular layout](https://pin.fontofweb.com/6162?format=jpg)](https://design.withfudge.com/share/pin-6162)
+[![Dark comparison table with five plan columns, model rows, and lime unlimited badges in tabular layout](https://pin.fontofweb.com/6162?format=jpg)](https://fudge.design/share/pin-6162)
 
-[Dark comparison table with five plan columns, model rows, and lime unlimited badges in tabular layout](https://design.withfudge.com/share/pin-6162)
+[Dark comparison table with five plan columns, model rows, and lime unlimited badges in tabular layout](https://fudge.design/share/pin-6162)
 
-[![Annual toggle state of comparison table showing crossed-out monthly prices and discounted rates](https://pin.fontofweb.com/6161?format=jpg)](https://design.withfudge.com/share/pin-6161)
+[![Annual toggle state of comparison table showing crossed-out monthly prices and discounted rates](https://pin.fontofweb.com/6161?format=jpg)](https://fudge.design/share/pin-6161)
 
-[Annual toggle state of comparison table showing crossed-out monthly prices and discounted rates](https://design.withfudge.com/share/pin-6161)
+[Annual toggle state of comparison table showing crossed-out monthly prices and discounted rates](https://fudge.design/share/pin-6161)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Type scale should reduce modestly: hero-display from 3.5rem to 2.5rem, price-lar
 ## Scope note
 
 This guide covers the pricing page and authentication modal surfaces of lovart.ai. It does not include the marketing homepage hero, product interface, or any motion, animation, or interactive states beyond static visible presentation. The comparison table's expandable category behavior and the annual/monthly price toggle are described from visible states only, not transition behavior. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

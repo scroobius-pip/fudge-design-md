@@ -1,22 +1,22 @@
 # How stagehand.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/stagehand.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/stagehand.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with green-accent footer, pixel-art landscape illustration, and top navigation with logo and action buttons](https://pin.fontofweb.com/10710?format=jpg)](https://design.withfudge.com/share/pin-10710)
+[![Hero section with green-accent footer, pixel-art landscape illustration, and top navigation with logo and action buttons](https://pin.fontofweb.com/10710?format=jpg)](https://fudge.design/share/pin-10710)
 
-[Hero section with green-accent footer, pixel-art landscape illustration, and top navigation with logo and action buttons](https://design.withfudge.com/share/pin-10710)
+[Hero section with green-accent footer, pixel-art landscape illustration, and top navigation with logo and action buttons](https://fudge.design/share/pin-10710)
 
-[![FAQ accordion section with left-aligned heading and stacked question rows with chevron indicators](https://pin.fontofweb.com/10709?format=jpg)](https://design.withfudge.com/share/pin-10709)
+[![FAQ accordion section with left-aligned heading and stacked question rows with chevron indicators](https://pin.fontofweb.com/10709?format=jpg)](https://fudge.design/share/pin-10709)
 
-[FAQ accordion section with left-aligned heading and stacked question rows with chevron indicators](https://design.withfudge.com/share/pin-10709)
+[FAQ accordion section with left-aligned heading and stacked question rows with chevron indicators](https://fudge.design/share/pin-10709)
 
-[![Feature cards grid showing four product screenshots with API method labels and descriptive text below](https://pin.fontofweb.com/10708?format=jpg)](https://design.withfudge.com/share/pin-10708)
+[![Feature cards grid showing four product screenshots with API method labels and descriptive text below](https://pin.fontofweb.com/10708?format=jpg)](https://fudge.design/share/pin-10708)
 
-[Feature cards grid showing four product screenshots with API method labels and descriptive text below](https://design.withfudge.com/share/pin-10708)
+[Feature cards grid showing four product screenshots with API method labels and descriptive text below](https://fudge.design/share/pin-10708)
 
 ## Overview
 
@@ -149,3 +149,7 @@ The design appears optimized for desktop viewports with a contained content widt
 ## Scope note
 
 This guide covers the Stagehand homepage including the hero, feature cards, FAQ accordion, and footer. Interior pages, documentation layouts, code block syntax highlighting themes, and mobile navigation patterns are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

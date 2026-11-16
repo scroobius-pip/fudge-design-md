@@ -1,26 +1,26 @@
 # How radioshack.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/radioshack.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/radioshack.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with newsletter subscription card, social icons, payment methods, and dark legal bar on light gray background](https://pin.fontofweb.com/4670?format=jpg)](https://design.withfudge.com/share/pin-4670)
+[![Footer with newsletter subscription card, social icons, payment methods, and dark legal bar on light gray background](https://pin.fontofweb.com/4670?format=jpg)](https://fudge.design/share/pin-4670)
 
-[Footer with newsletter subscription card, social icons, payment methods, and dark legal bar on light gray background](https://design.withfudge.com/share/pin-4670)
+[Footer with newsletter subscription card, social icons, payment methods, and dark legal bar on light gray background](https://fudge.design/share/pin-4670)
 
-[![Product recommendation carousel with red add-to-cart buttons, heart icons, and pagination dots on white background](https://pin.fontofweb.com/4669?format=jpg)](https://design.withfudge.com/share/pin-4669)
+[![Product recommendation carousel with red add-to-cart buttons, heart icons, and pagination dots on white background](https://pin.fontofweb.com/4669?format=jpg)](https://fudge.design/share/pin-4669)
 
-[Product recommendation carousel with red add-to-cart buttons, heart icons, and pagination dots on white background](https://design.withfudge.com/share/pin-4669)
+[Product recommendation carousel with red add-to-cart buttons, heart icons, and pagination dots on white background](https://fudge.design/share/pin-4669)
 
-[![Promotional banner with gray rounded panel, travel backpacks, and discount badges above product grid with red CTAs](https://pin.fontofweb.com/4668?format=jpg)](https://design.withfudge.com/share/pin-4668)
+[![Promotional banner with gray rounded panel, travel backpacks, and discount badges above product grid with red CTAs](https://pin.fontofweb.com/4668?format=jpg)](https://fudge.design/share/pin-4668)
 
-[Promotional banner with gray rounded panel, travel backpacks, and discount badges above product grid with red CTAs](https://design.withfudge.com/share/pin-4668)
+[Promotional banner with gray rounded panel, travel backpacks, and discount badges above product grid with red CTAs](https://fudge.design/share/pin-4668)
 
-[![Homepage hero with promotional tiles, category navigation modal overlay, and large red featured-products heading](https://pin.fontofweb.com/4667?format=jpg)](https://design.withfudge.com/share/pin-4667)
+[![Homepage hero with promotional tiles, category navigation modal overlay, and large red featured-products heading](https://pin.fontofweb.com/4667?format=jpg)](https://fudge.design/share/pin-4667)
 
-[Homepage hero with promotional tiles, category navigation modal overlay, and large red featured-products heading](https://design.withfudge.com/share/pin-4667)
+[Homepage hero with promotional tiles, category navigation modal overlay, and large red featured-products heading](https://fudge.design/share/pin-4667)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The modal overlay should adapt to full-screen or near-full-screen on mobile devi
 ## Scope note
 
 This guide covers the homepage, product recommendation carousel, promotional banner, and footer surfaces visible in the supplied images. Category pages, product detail pages, checkout flow, search results, and account interfaces are not represented. Measurements are practical adaptation targets. Mobile breakpoints, hover states, loading skeletons, and form validation styling require additional exploration.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

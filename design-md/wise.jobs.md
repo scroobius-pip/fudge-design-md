@@ -1,26 +1,26 @@
 # How wise.jobs is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wise.jobs-design)
+[Open the live Fudge conversation](https://fudge.design/share/wise.jobs-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Latest jobs section with three white job cards on pale sage background, each with green arrow action buttons and a centered green pill-shaped View all button](https://pin.fontofweb.com/990?format=jpg)](https://design.withfudge.com/share/pin-990)
+[![Latest jobs section with three white job cards on pale sage background, each with green arrow action buttons and a centered green pill-shaped View all button](https://pin.fontofweb.com/990?format=jpg)](https://fudge.design/share/pin-990)
 
-[Latest jobs section with three white job cards on pale sage background, each with green arrow action buttons and a centered green pill-shaped View all button](https://design.withfudge.com/share/pin-990)
+[Latest jobs section with three white job cards on pale sage background, each with green arrow action buttons and a centered green pill-shaped View all button](https://fudge.design/share/pin-990)
 
-[![Mission quote block with large black serif quotation marks and pull-quote text beside a dark green presentation slide showing Mission Days Intro with floating coins](https://pin.fontofweb.com/989?format=jpg)](https://design.withfudge.com/share/pin-989)
+[![Mission quote block with large black serif quotation marks and pull-quote text beside a dark green presentation slide showing Mission Days Intro with floating coins](https://pin.fontofweb.com/989?format=jpg)](https://fudge.design/share/pin-989)
 
-[Mission quote block with large black serif quotation marks and pull-quote text beside a dark green presentation slide showing Mission Days Intro with floating coins](https://design.withfudge.com/share/pin-989)
+[Mission quote block with large black serif quotation marks and pull-quote text beside a dark green presentation slide showing Mission Days Intro with floating coins](https://fudge.design/share/pin-989)
 
-[![Dark forest green metrics bar with three large lime green numerals and white labels for active customers, savings, and transfer percentage](https://pin.fontofweb.com/988?format=jpg)](https://design.withfudge.com/share/pin-988)
+[![Dark forest green metrics bar with three large lime green numerals and white labels for active customers, savings, and transfer percentage](https://pin.fontofweb.com/988?format=jpg)](https://fudge.design/share/pin-988)
 
-[Dark forest green metrics bar with three large lime green numerals and white labels for active customers, savings, and transfer percentage](https://design.withfudge.com/share/pin-988)
+[Dark forest green metrics bar with three large lime green numerals and white labels for active customers, savings, and transfer percentage](https://fudge.design/share/pin-988)
 
-[![Hero section with centered black tagline, green pill button, and heavy black display heading above the dark green metrics bar](https://pin.fontofweb.com/987?format=jpg)](https://design.withfudge.com/share/pin-987)
+[![Hero section with centered black tagline, green pill button, and heavy black display heading above the dark green metrics bar](https://pin.fontofweb.com/987?format=jpg)](https://fudge.design/share/pin-987)
 
-[Hero section with centered black tagline, green pill button, and heavy black display heading above the dark green metrics bar](https://design.withfudge.com/share/pin-987)
+[Hero section with centered black tagline, green pill button, and heavy black display heading above the dark green metrics bar](https://fudge.design/share/pin-987)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The system should maintain its centered, generous spacing at all widths. The thr
 ## Scope note
 
 This guide covers the homepage and mission page surfaces visible in the supplied images, including hero messaging, job listings, metrics, and quote components. Navigation, footer, form states, mobile menu behavior, and blog article layouts are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

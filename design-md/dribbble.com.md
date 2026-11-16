@@ -1,26 +1,26 @@
 # How dribbble.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dribbble.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/dribbble.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Custom lettering logotype shot page with deep navy background and cream script typography for image inc](https://pin.fontofweb.com/4185?format=jpg)](https://design.withfudge.com/share/pin-4185)
+[![Custom lettering logotype shot page with deep navy background and cream script typography for image inc](https://pin.fontofweb.com/4185?format=jpg)](https://fudge.design/share/pin-4185)
 
-[Custom lettering logotype shot page with deep navy background and cream script typography for image inc](https://design.withfudge.com/share/pin-4185)
+[Custom lettering logotype shot page with deep navy background and cream script typography for image inc](https://fudge.design/share/pin-4185)
 
-[![Homepage hero section with navigation bar, Pro upgrade banner, and lime green accent cards showing user metrics](https://pin.fontofweb.com/4184?format=jpg)](https://design.withfudge.com/share/pin-4184)
+[![Homepage hero section with navigation bar, Pro upgrade banner, and lime green accent cards showing user metrics](https://pin.fontofweb.com/4184?format=jpg)](https://fudge.design/share/pin-4184)
 
-[Homepage hero section with navigation bar, Pro upgrade banner, and lime green accent cards showing user metrics](https://design.withfudge.com/share/pin-4184)
+[Homepage hero section with navigation bar, Pro upgrade banner, and lime green accent cards showing user metrics](https://fudge.design/share/pin-4184)
 
-[![Blog article page with split editorial layout featuring green and lime brand imagery alongside article headline and social share buttons](https://pin.fontofweb.com/733?format=jpg)](https://design.withfudge.com/share/pin-733)
+[![Blog article page with split editorial layout featuring green and lime brand imagery alongside article headline and social share buttons](https://pin.fontofweb.com/733?format=jpg)](https://fudge.design/share/pin-733)
 
-[Blog article page with split editorial layout featuring green and lime brand imagery alongside article headline and social share buttons](https://design.withfudge.com/share/pin-733)
+[Blog article page with split editorial layout featuring green and lime brand imagery alongside article headline and social share buttons](https://fudge.design/share/pin-733)
 
-[![Stories blog index with dated article list, thumbnail images, and muted metadata typography on white background](https://pin.fontofweb.com/732?format=jpg)](https://design.withfudge.com/share/pin-732)
+[![Stories blog index with dated article list, thumbnail images, and muted metadata typography on white background](https://pin.fontofweb.com/732?format=jpg)](https://fudge.design/share/pin-732)
 
-[Stories blog index with dated article list, thumbnail images, and muted metadata typography on white background](https://design.withfudge.com/share/pin-732)
+[Stories blog index with dated article list, thumbnail images, and muted metadata typography on white background](https://fudge.design/share/pin-732)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Grid systems should reflow from multi-column to single-column at appropriate bre
 ## Scope note
 
 This guide covers the homepage, shot presentation, and blog article surfaces visible in the supplied material. Mobile breakpoints, interactive dropdowns, search interfaces, user profiles, and motion behavior are not represented. Measurements are practical adaptation targets based on visual interpretation of the desktop experience.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

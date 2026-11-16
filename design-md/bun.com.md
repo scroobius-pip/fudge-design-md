@@ -1,26 +1,26 @@
 # How bun.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bun.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/bun.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature comparison table with gradient pink headline and dark rows showing runtime capabilities against Bun, Node, and Deno columns with status icons.](https://pin.fontofweb.com/4003?format=jpg)](https://design.withfudge.com/share/pin-4003)
+[![Feature comparison table with gradient pink headline and dark rows showing runtime capabilities against Bun, Node, and Deno columns with status icons.](https://pin.fontofweb.com/4003?format=jpg)](https://fudge.design/share/pin-4003)
 
-[Feature comparison table with gradient pink headline and dark rows showing runtime capabilities against Bun, Node, and Deno columns with status icons.](https://design.withfudge.com/share/pin-4003)
+[Feature comparison table with gradient pink headline and dark rows showing runtime capabilities against Bun, Node, and Deno columns with status icons.](https://fudge.design/share/pin-4003)
 
-[![Social proof grid of developer testimonial cards with dark surfaces, usernames, dates, and short messages in a masonry-like layout.](https://pin.fontofweb.com/4002?format=jpg)](https://design.withfudge.com/share/pin-4002)
+[![Social proof grid of developer testimonial cards with dark surfaces, usernames, dates, and short messages in a masonry-like layout.](https://pin.fontofweb.com/4002?format=jpg)](https://fudge.design/share/pin-4002)
 
-[Social proof grid of developer testimonial cards with dark surfaces, usernames, dates, and short messages in a masonry-like layout.](https://design.withfudge.com/share/pin-4002)
+[Social proof grid of developer testimonial cards with dark surfaces, usernames, dates, and short messages in a masonry-like layout.](https://fudge.design/share/pin-4002)
 
-[![Code showcase section with gradient pink headline, API capability pills, and a dark syntax-highlighted code block demonstrating Bun's built-in cookie handling.](https://pin.fontofweb.com/4001?format=jpg)](https://design.withfudge.com/share/pin-4001)
+[![Code showcase section with gradient pink headline, API capability pills, and a dark syntax-highlighted code block demonstrating Bun's built-in cookie handling.](https://pin.fontofweb.com/4001?format=jpg)](https://fudge.design/share/pin-4001)
 
-[Code showcase section with gradient pink headline, API capability pills, and a dark syntax-highlighted code block demonstrating Bun's built-in cookie handling.](https://design.withfudge.com/share/pin-4001)
+[Code showcase section with gradient pink headline, API capability pills, and a dark syntax-highlighted code block demonstrating Bun's built-in cookie handling.](https://fudge.design/share/pin-4001)
 
-[![Performance benchmark section with gradient pink headline, horizontal bar chart comparing test runner speeds, and a bordered CTA button with arrow icon.](https://pin.fontofweb.com/4000?format=jpg)](https://design.withfudge.com/share/pin-4000)
+[![Performance benchmark section with gradient pink headline, horizontal bar chart comparing test runner speeds, and a bordered CTA button with arrow icon.](https://pin.fontofweb.com/4000?format=jpg)](https://fudge.design/share/pin-4000)
 
-[Performance benchmark section with gradient pink headline, horizontal bar chart comparing test runner speeds, and a bordered CTA button with arrow icon.](https://design.withfudge.com/share/pin-4000)
+[Performance benchmark section with gradient pink headline, horizontal bar chart comparing test runner speeds, and a bordered CTA button with arrow icon.](https://fudge.design/share/pin-4000)
 
 ## Overview
 
@@ -194,3 +194,18 @@ Touch targets for any interactive pills or buttons should maintain minimum 44px 
 ## Scope note
 
 This guide covers the Bun marketing homepage's visible desktop surface including the hero, feature comparison, API showcase, performance benchmark, and social proof sections. Mobile breakpoints, navigation behavior, footer content, documentation pages, and interactive states such as hover, focus, and loading are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

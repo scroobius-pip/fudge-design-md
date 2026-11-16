@@ -1,26 +1,26 @@
 # How pitch.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pitch.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pitch.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero pricing section with purple gradient background, three-tier pricing cards, and toggle switch for monthly/yearly billing](https://pin.fontofweb.com/5269?format=jpg)](https://design.withfudge.com/share/pin-5269)
+[![Hero pricing section with purple gradient background, three-tier pricing cards, and toggle switch for monthly/yearly billing](https://pin.fontofweb.com/5269?format=jpg)](https://fudge.design/share/pin-5269)
 
-[Hero pricing section with purple gradient background, three-tier pricing cards, and toggle switch for monthly/yearly billing](https://design.withfudge.com/share/pin-5269)
+[Hero pricing section with purple gradient background, three-tier pricing cards, and toggle switch for monthly/yearly billing](https://fudge.design/share/pin-5269)
 
-[![Feature grid showing engagement analytics, unbranded exports, high-res assets, and AI-powered creation cards with product screenshots](https://pin.fontofweb.com/5272?format=jpg)](https://design.withfudge.com/share/pin-5272)
+[![Feature grid showing engagement analytics, unbranded exports, high-res assets, and AI-powered creation cards with product screenshots](https://pin.fontofweb.com/5272?format=jpg)](https://fudge.design/share/pin-5272)
 
-[Feature grid showing engagement analytics, unbranded exports, high-res assets, and AI-powered creation cards with product screenshots](https://design.withfudge.com/share/pin-5272)
+[Feature grid showing engagement analytics, unbranded exports, high-res assets, and AI-powered creation cards with product screenshots](https://fudge.design/share/pin-5272)
 
-[![Detailed feature comparison table with Free, Pro, and Business columns organized by Teams, Collaboration, and Media & Integrations sections](https://pin.fontofweb.com/5270?format=jpg)](https://design.withfudge.com/share/pin-5270)
+[![Detailed feature comparison table with Free, Pro, and Business columns organized by Teams, Collaboration, and Media & Integrations sections](https://pin.fontofweb.com/5270?format=jpg)](https://fudge.design/share/pin-5270)
 
-[Detailed feature comparison table with Free, Pro, and Business columns organized by Teams, Collaboration, and Media & Integrations sections](https://design.withfudge.com/share/pin-5270)
+[Detailed feature comparison table with Free, Pro, and Business columns organized by Teams, Collaboration, and Media & Integrations sections](https://fudge.design/share/pin-5270)
 
-[![Frequently asked questions accordion with expand/collapse chevrons and horizontal divider lines between items](https://pin.fontofweb.com/5271?format=jpg)](https://design.withfudge.com/share/pin-5271)
+[![Frequently asked questions accordion with expand/collapse chevrons and horizontal divider lines between items](https://pin.fontofweb.com/5271?format=jpg)](https://fudge.design/share/pin-5271)
 
-[Frequently asked questions accordion with expand/collapse chevrons and horizontal divider lines between items](https://design.withfudge.com/share/pin-5271)
+[Frequently asked questions accordion with expand/collapse chevrons and horizontal divider lines between items](https://fudge.design/share/pin-5271)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The navigation collapses to a hamburger menu or simplified logo-plus-actions pat
 ## Scope note
 
 This guide covers the Pitch pricing page visible in the supplied images, including the hero, pricing cards, feature grid, comparison table, and FAQ accordion. Mobile layouts, dropdown menu interactions, checkout flows, and dashboard interfaces are not represented. Footer content, additional marketing pages, and motion design specifications fall outside the current scope. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How ea.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ea.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ea.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with social icons, PEGI rating badges, legal navigation, and copyright on dark charcoal background with orange accent borders](https://pin.fontofweb.com/813?format=jpg)](https://design.withfudge.com/share/pin-813)
+[![Footer section with social icons, PEGI rating badges, legal navigation, and copyright on dark charcoal background with orange accent borders](https://pin.fontofweb.com/813?format=jpg)](https://fudge.design/share/pin-813)
 
-[Footer section with social icons, PEGI rating badges, legal navigation, and copyright on dark charcoal background with orange accent borders](https://design.withfudge.com/share/pin-813)
+[Footer section with social icons, PEGI rating badges, legal navigation, and copyright on dark charcoal background with orange accent borders](https://fudge.design/share/pin-813)
 
-[![Newsletter signup form with email capture fields, privacy policy links, and bright orange submit button on near-black background](https://pin.fontofweb.com/812?format=jpg)](https://design.withfudge.com/share/pin-812)
+[![Newsletter signup form with email capture fields, privacy policy links, and bright orange submit button on near-black background](https://pin.fontofweb.com/812?format=jpg)](https://fudge.design/share/pin-812)
 
-[Newsletter signup form with email capture fields, privacy policy links, and bright orange submit button on near-black background](https://design.withfudge.com/share/pin-812)
+[Newsletter signup form with email capture fields, privacy policy links, and bright orange submit button on near-black background](https://fudge.design/share/pin-812)
 
-[![News section with featured article hero image, article grid with orange-tinted thumbnails, and category date labels](https://pin.fontofweb.com/811?format=jpg)](https://design.withfudge.com/share/pin-811)
+[![News section with featured article hero image, article grid with orange-tinted thumbnails, and category date labels](https://pin.fontofweb.com/811?format=jpg)](https://fudge.design/share/pin-811)
 
-[News section with featured article hero image, article grid with orange-tinted thumbnails, and category date labels](https://design.withfudge.com/share/pin-811)
+[News section with featured article hero image, article grid with orange-tinted thumbnails, and category date labels](https://fudge.design/share/pin-811)
 
-[![Features carousel with large combat imagery, pagination dots, section heading, and outlined navigation arrows on dark background](https://pin.fontofweb.com/810?format=jpg)](https://design.withfudge.com/share/pin-810)
+[![Features carousel with large combat imagery, pagination dots, section heading, and outlined navigation arrows on dark background](https://pin.fontofweb.com/810?format=jpg)](https://fudge.design/share/pin-810)
 
-[Features carousel with large combat imagery, pagination dots, section heading, and outlined navigation arrows on dark background](https://design.withfudge.com/share/pin-810)
+[Features carousel with large combat imagery, pagination dots, section heading, and outlined navigation arrows on dark background](https://fudge.design/share/pin-810)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Touch targets for carousel arrows and pagination dots should expand to minimum 4
 ## Scope note
 
 This guide covers the Battlefield 6 game page and EA.com homepage footer surfaces visible in the supplied images. Mobile breakpoints, animation specifications, form validation states, search functionality, and e-commerce flows are not represented. Measurements are practical adaptation targets derived from visual estimation against a 4px base unit. The full Electronic Arts corporate site may employ additional components and color treatments not documented here.
+
+## Related design patterns
+
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

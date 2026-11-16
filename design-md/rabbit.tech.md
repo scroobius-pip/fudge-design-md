@@ -1,26 +1,26 @@
 # How rabbit.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rabbit.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/rabbit.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Research page with orange header bar, black canvas, large orange 'research' display type with floating device illustrations, and article list with thumbnails](https://pin.fontofweb.com/1571?format=jpg)](https://design.withfudge.com/share/pin-1571)
+[![Research page with orange header bar, black canvas, large orange 'research' display type with floating device illustrations, and article list with thumbnails](https://pin.fontofweb.com/1571?format=jpg)](https://fudge.design/share/pin-1571)
 
-[Research page with orange header bar, black canvas, large orange 'research' display type with floating device illustrations, and article list with thumbnails](https://design.withfudge.com/share/pin-1571)
+[Research page with orange header bar, black canvas, large orange 'research' display type with floating device illustrations, and article list with thumbnails](https://fudge.design/share/pin-1571)
 
-[![Legal disclaimer page with dense white body text on black background, social icons, and minimal footer links](https://pin.fontofweb.com/1570?format=jpg)](https://design.withfudge.com/share/pin-1570)
+[![Legal disclaimer page with dense white body text on black background, social icons, and minimal footer links](https://pin.fontofweb.com/1570?format=jpg)](https://fudge.design/share/pin-1570)
 
-[Legal disclaimer page with dense white body text on black background, social icons, and minimal footer links](https://design.withfudge.com/share/pin-1570)
+[Legal disclaimer page with dense white body text on black background, social icons, and minimal footer links](https://fudge.design/share/pin-1570)
 
-[![FAQ section with large white questions in display type, small white answers, and decorative rabbit device illustration with question mark](https://pin.fontofweb.com/1569?format=jpg)](https://design.withfudge.com/share/pin-1569)
+[![FAQ section with large white questions in display type, small white answers, and decorative rabbit device illustration with question mark](https://pin.fontofweb.com/1569?format=jpg)](https://fudge.design/share/pin-1569)
 
-[FAQ section with large white questions in display type, small white answers, and decorative rabbit device illustration with question mark](https://design.withfudge.com/share/pin-1569)
+[FAQ section with large white questions in display type, small white answers, and decorative rabbit device illustration with question mark](https://fudge.design/share/pin-1569)
 
-[![Software updates section with white display heading, orange 'view all updates' link with arrow icon, and download icon with descriptive text](https://pin.fontofweb.com/1568?format=jpg)](https://design.withfudge.com/share/pin-1568)
+[![Software updates section with white display heading, orange 'view all updates' link with arrow icon, and download icon with descriptive text](https://pin.fontofweb.com/1568?format=jpg)](https://fudge.design/share/pin-1568)
 
-[Software updates section with white display heading, orange 'view all updates' link with arrow icon, and download icon with descriptive text](https://design.withfudge.com/share/pin-1568)
+[Software updates section with white display heading, orange 'view all updates' link with arrow icon, and download icon with descriptive text](https://fudge.design/share/pin-1568)
 
 ## Overview
 
@@ -162,3 +162,18 @@ The system should maintain its single-column, generous-margin approach across vi
 ## Scope note
 
 This guide covers the rabbit.tech marketing site as visible on desktop, including the research page, product page sections, FAQ, and software updates. Mobile breakpoints, animation, form interactions, e-commerce checkout flows, and the r1 device interface itself are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

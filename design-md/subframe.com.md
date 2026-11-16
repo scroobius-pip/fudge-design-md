@@ -1,26 +1,26 @@
 # How subframe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/subframe.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/subframe.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Component library overview page showing a drag-and-drop editor interface with a dark hero banner and light signup modal overlay containing social authentication options.](https://pin.fontofweb.com/7662?format=jpg)](https://design.withfudge.com/share/pin-7662)
+[![Component library overview page showing a drag-and-drop editor interface with a dark hero banner and light signup modal overlay containing social authentication options.](https://pin.fontofweb.com/7662?format=jpg)](https://fudge.design/share/pin-7662)
 
-[Component library overview page showing a drag-and-drop editor interface with a dark hero banner and light signup modal overlay containing social authentication options.](https://design.withfudge.com/share/pin-7662)
+[Component library overview page showing a drag-and-drop editor interface with a dark hero banner and light signup modal overlay containing social authentication options.](https://fudge.design/share/pin-7662)
 
-[![Templates gallery page with a large search bar, category filter pills, and a grid of preview cards showing dashboard and pricing page layouts.](https://pin.fontofweb.com/7602?format=jpg)](https://design.withfudge.com/share/pin-7602)
+[![Templates gallery page with a large search bar, category filter pills, and a grid of preview cards showing dashboard and pricing page layouts.](https://pin.fontofweb.com/7602?format=jpg)](https://fudge.design/share/pin-7602)
 
-[Templates gallery page with a large search bar, category filter pills, and a grid of preview cards showing dashboard and pricing page layouts.](https://design.withfudge.com/share/pin-7602)
+[Templates gallery page with a large search bar, category filter pills, and a grid of preview cards showing dashboard and pricing page layouts.](https://fudge.design/share/pin-7602)
 
-[![Feature comparison table with bold heading, three product columns, and checkmark indicators against a clean white background.](https://pin.fontofweb.com/6467?format=jpg)](https://design.withfudge.com/share/pin-6467)
+[![Feature comparison table with bold heading, three product columns, and checkmark indicators against a clean white background.](https://pin.fontofweb.com/6467?format=jpg)](https://fudge.design/share/pin-6467)
 
-[Feature comparison table with bold heading, three product columns, and checkmark indicators against a clean white background.](https://design.withfudge.com/share/pin-6467)
+[Feature comparison table with bold heading, three product columns, and checkmark indicators against a clean white background.](https://fudge.design/share/pin-6467)
 
-[![Testimonials section with a large bold heading and six customer quote cards arranged in a masonry-like grid with avatar photos and attribution.](https://pin.fontofweb.com/6466?format=jpg)](https://design.withfudge.com/share/pin-6466)
+[![Testimonials section with a large bold heading and six customer quote cards arranged in a masonry-like grid with avatar photos and attribution.](https://pin.fontofweb.com/6466?format=jpg)](https://fudge.design/share/pin-6466)
 
-[Testimonials section with a large bold heading and six customer quote cards arranged in a masonry-like grid with avatar photos and attribution.](https://design.withfudge.com/share/pin-6466)
+[Testimonials section with a large bold heading and six customer quote cards arranged in a masonry-like grid with avatar photos and attribution.](https://fudge.design/share/pin-6466)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Touch targets should maintain minimum 44px height for buttons and inputs when ad
 ## Scope note
 
 This guide covers the marketing and documentation surfaces of subframe.com, including the homepage, design systems page, templates gallery, and component library overview. The in-product builder interface, code editor, and interactive component playground are not represented. Motion, animation, and responsive breakpoint behavior are inferred from static images and should be verified in implementation. Measurements are derived from the supplied design facts and rounded to practical token values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

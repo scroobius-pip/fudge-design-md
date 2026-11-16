@@ -1,26 +1,26 @@
 # How pencil.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pencil.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/pencil.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Downloads page with centered hero, app icon, and rounded OS selection cards with pill download buttons on light background](https://pin.fontofweb.com/5984?format=jpg)](https://design.withfudge.com/share/pin-5984)
+[![Downloads page with centered hero, app icon, and rounded OS selection cards with pill download buttons on light background](https://pin.fontofweb.com/5984?format=jpg)](https://fudge.design/share/pin-5984)
 
-[Downloads page with centered hero, app icon, and rounded OS selection cards with pill download buttons on light background](https://design.withfudge.com/share/pin-5984)
+[Downloads page with centered hero, app icon, and rounded OS selection cards with pill download buttons on light background](https://fudge.design/share/pin-5984)
 
-[![Three-column feature grid with circular line icons, bold headings, and muted body text in rounded container](https://pin.fontofweb.com/5983?format=jpg)](https://design.withfudge.com/share/pin-5983)
+[![Three-column feature grid with circular line icons, bold headings, and muted body text in rounded container](https://pin.fontofweb.com/5983?format=jpg)](https://fudge.design/share/pin-5983)
 
-[Three-column feature grid with circular line icons, bold headings, and muted body text in rounded container](https://design.withfudge.com/share/pin-5983)
+[Three-column feature grid with circular line icons, bold headings, and muted body text in rounded container](https://fudge.design/share/pin-5983)
 
-[![Large centered display headline with bi-directional MCP canvas tagline above footer with legal links](https://pin.fontofweb.com/5982?format=jpg)](https://design.withfudge.com/share/pin-5982)
+[![Large centered display headline with bi-directional MCP canvas tagline above footer with legal links](https://pin.fontofweb.com/5982?format=jpg)](https://fudge.design/share/pin-5982)
 
-[Large centered display headline with bi-directional MCP canvas tagline above footer with legal links](https://design.withfudge.com/share/pin-5982)
+[Large centered display headline with bi-directional MCP canvas tagline above footer with legal links](https://fudge.design/share/pin-5982)
 
-[![UI component showcase with orange primary buttons, teal destructive action, form inputs, dropdowns, and feature grid](https://pin.fontofweb.com/5981?format=jpg)](https://design.withfudge.com/share/pin-5981)
+[![UI component showcase with orange primary buttons, teal destructive action, form inputs, dropdowns, and feature grid](https://pin.fontofweb.com/5981?format=jpg)](https://fudge.design/share/pin-5981)
 
-[UI component showcase with orange primary buttons, teal destructive action, form inputs, dropdowns, and feature grid](https://design.withfudge.com/share/pin-5981)
+[UI component showcase with orange primary buttons, teal destructive action, form inputs, dropdowns, and feature grid](https://fudge.design/share/pin-5981)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The circular icon containers in feature cards scale down with the grid but maint
 ## Scope note
 
 This guide covers the marketing homepage and downloads page surfaces visible in the supplied images. Component documentation, pricing, documentation, and authenticated application interfaces are not represented. Mobile breakpoint behavior, loading states, form validation feedback, and motion design are not covered and should be validated against live implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

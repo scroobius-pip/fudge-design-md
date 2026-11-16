@@ -1,22 +1,22 @@
 # How businesstimes.com.sg is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/businesstimes.com.sg-design)
+[Open the live Fudge conversation](https://fudge.design/share/businesstimes.com.sg-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section showing The Business Times logo, multi-column navigation links, social media icons, and app store badges on a white background with subtle gray borders](https://pin.fontofweb.com/2640?format=jpg)](https://design.withfudge.com/share/pin-2640)
+[![Footer section showing The Business Times logo, multi-column navigation links, social media icons, and app store badges on a white background with subtle gray borders](https://pin.fontofweb.com/2640?format=jpg)](https://fudge.design/share/pin-2640)
 
-[Footer section showing The Business Times logo, multi-column navigation links, social media icons, and app store badges on a white background with subtle gray borders](https://design.withfudge.com/share/pin-2640)
+[Footer section showing The Business Times logo, multi-column navigation links, social media icons, and app store badges on a white background with subtle gray borders](https://fudge.design/share/pin-2640)
 
-[![myBT personalized content panel with document icon, sign-in prompt, and rounded pill button on white card with light gray border](https://pin.fontofweb.com/2639?format=jpg)](https://design.withfudge.com/share/pin-2639)
+[![myBT personalized content panel with document icon, sign-in prompt, and rounded pill button on white card with light gray border](https://pin.fontofweb.com/2639?format=jpg)](https://fudge.design/share/pin-2639)
 
-[myBT personalized content panel with document icon, sign-in prompt, and rounded pill button on white card with light gray border](https://design.withfudge.com/share/pin-2639)
+[myBT personalized content panel with document icon, sign-in prompt, and rounded pill button on white card with light gray border](https://fudge.design/share/pin-2639)
 
-[![Global edition homepage with centered masthead, three-column article layout, orange Subscribe button, and photographic hero image](https://pin.fontofweb.com/2637?format=jpg)](https://design.withfudge.com/share/pin-2637)
+[![Global edition homepage with centered masthead, three-column article layout, orange Subscribe button, and photographic hero image](https://pin.fontofweb.com/2637?format=jpg)](https://fudge.design/share/pin-2637)
 
-[Global edition homepage with centered masthead, three-column article layout, orange Subscribe button, and photographic hero image](https://design.withfudge.com/share/pin-2637)
+[Global edition homepage with centered masthead, three-column article layout, orange Subscribe button, and photographic hero image](https://fudge.design/share/pin-2637)
 
 ## Overview
 
@@ -145,3 +145,18 @@ The three-column homepage grid likely collapses to single column on narrow viewp
 ## Scope note
 
 This guide covers the Global Edition homepage, footer navigation, and myBT engagement panel as visible in the supplied materials. Article detail pages, search results, subscription flows, and mobile-specific layouts are not represented. Motion behavior, hover states, and dark mode variants are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

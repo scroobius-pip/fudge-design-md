@@ -1,18 +1,18 @@
 # How leaflet.pub is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/leaflet.pub-design)
+[Open the live Fudge conversation](https://fudge.design/share/leaflet.pub-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Discover page showing sidebar navigation, publication cards with varied accent colors including dark and purple themes, and tab filters for Recently Updated and Popular](https://pin.fontofweb.com/2866?format=jpg)](https://design.withfudge.com/share/pin-2866)
+[![Discover page showing sidebar navigation, publication cards with varied accent colors including dark and purple themes, and tab filters for Recently Updated and Popular](https://pin.fontofweb.com/2866?format=jpg)](https://fudge.design/share/pin-2866)
 
-[Discover page showing sidebar navigation, publication cards with varied accent colors including dark and purple themes, and tab filters for Recently Updated and Popular](https://design.withfudge.com/share/pin-2866)
+[Discover page showing sidebar navigation, publication cards with varied accent colors including dark and purple themes, and tab filters for Recently Updated and Popular](https://fudge.design/share/pin-2866)
 
-[![Close-up of page header with Discover title, italic subtitle with sparkle emoji and blue link, and pill-shaped Recently Updated and Popular tabs with blue active state](https://pin.fontofweb.com/2865?format=jpg)](https://design.withfudge.com/share/pin-2865)
+[![Close-up of page header with Discover title, italic subtitle with sparkle emoji and blue link, and pill-shaped Recently Updated and Popular tabs with blue active state](https://pin.fontofweb.com/2865?format=jpg)](https://fudge.design/share/pin-2865)
 
-[Close-up of page header with Discover title, italic subtitle with sparkle emoji and blue link, and pill-shaped Recently Updated and Popular tabs with blue active state](https://design.withfudge.com/share/pin-2865)
+[Close-up of page header with Discover title, italic subtitle with sparkle emoji and blue link, and pill-shaped Recently Updated and Popular tabs with blue active state](https://fudge.design/share/pin-2865)
 
 ## Overview
 
@@ -153,3 +153,18 @@ The sidebar navigation should collapse to a horizontal bar or hamburger menu on 
 ## Scope note
 
 This guide covers the Discover page of leaflet.pub, including sidebar navigation, filter tabs, and publication cards with publisher-defined light and dark themes. Measurements are practical adaptation targets. Mobile layouts, hover states, focus styles, loading skeletons, error states, and the publication creation flow are not represented in the supplied material. The full color range of publisher theme cards is not exhaustively documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Content index](/share/designs-with-page.content.index)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

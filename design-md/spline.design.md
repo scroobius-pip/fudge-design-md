@@ -1,26 +1,26 @@
 # How spline.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/spline.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/spline.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with multi-column link grid, Spline logo, social icons, and copyright on pure black background](https://pin.fontofweb.com/5135?format=jpg)](https://design.withfudge.com/share/pin-5135)
+[![Footer with multi-column link grid, Spline logo, social icons, and copyright on pure black background](https://pin.fontofweb.com/5135?format=jpg)](https://fudge.design/share/pin-5135)
 
-[Footer with multi-column link grid, Spline logo, social icons, and copyright on pure black background](https://design.withfudge.com/share/pin-5135)
+[Footer with multi-column link grid, Spline logo, social icons, and copyright on pure black background](https://fudge.design/share/pin-5135)
 
-[![Getting started section with community platform card, blue CTA button, and four resource link cards with icons](https://pin.fontofweb.com/5134?format=jpg)](https://design.withfudge.com/share/pin-5134)
+[![Getting started section with community platform card, blue CTA button, and four resource link cards with icons](https://pin.fontofweb.com/5134?format=jpg)](https://fudge.design/share/pin-5134)
 
-[Getting started section with community platform card, blue CTA button, and four resource link cards with icons](https://design.withfudge.com/share/pin-5134)
+[Getting started section with community platform card, blue CTA button, and four resource link cards with icons](https://fudge.design/share/pin-5134)
 
-[![Testimonials section with three quote cards featuring company logos, quotes, and avatar attribution rows](https://pin.fontofweb.com/5133?format=jpg)](https://design.withfudge.com/share/pin-5133)
+[![Testimonials section with three quote cards featuring company logos, quotes, and avatar attribution rows](https://pin.fontofweb.com/5133?format=jpg)](https://fudge.design/share/pin-5133)
 
-[Testimonials section with three quote cards featuring company logos, quotes, and avatar attribution rows](https://design.withfudge.com/share/pin-5133)
+[Testimonials section with three quote cards featuring company logos, quotes, and avatar attribution rows](https://fudge.design/share/pin-5133)
 
-[![Platform shipping section with 3D cube demo, code snippet panel, platform tabs, and integration logo row](https://pin.fontofweb.com/5132?format=jpg)](https://design.withfudge.com/share/pin-5132)
+[![Platform shipping section with 3D cube demo, code snippet panel, platform tabs, and integration logo row](https://pin.fontofweb.com/5132?format=jpg)](https://fudge.design/share/pin-5132)
 
-[Platform shipping section with 3D cube demo, code snippet panel, platform tabs, and integration logo row](https://design.withfudge.com/share/pin-5132)
+[Platform shipping section with 3D cube demo, code snippet panel, platform tabs, and integration logo row](https://fudge.design/share/pin-5132)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Touch targets for buttons and cards should maintain minimum 44 by 44 pixel areas
 ## Scope note
 
 This guide covers the marketing homepage surface visible in supplied images, including the footer, getting-started section, testimonials, and platform shipping demonstration. Navigation header, mobile layouts, animation behavior, and the 3D tool interface itself are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

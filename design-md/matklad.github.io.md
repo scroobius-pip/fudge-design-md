@@ -1,18 +1,18 @@
 # How matklad.github.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/matklad.github.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/matklad.github.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Chronological article list with rust-red titles, gray dates, and footer action links with icons](https://pin.fontofweb.com/6334?format=jpg)](https://design.withfudge.com/share/pin-6334)
+[![Chronological article list with rust-red titles, gray dates, and footer action links with icons](https://pin.fontofweb.com/6334?format=jpg)](https://fudge.design/share/pin-6334)
 
-[Chronological article list with rust-red titles, gray dates, and footer action links with icons](https://design.withfudge.com/share/pin-6334)
+[Chronological article list with rust-red titles, gray dates, and footer action links with icons](https://fudge.design/share/pin-6334)
 
-[![Page header with matklad wordmark, About Links Blogroll navigation, and dated article index](https://pin.fontofweb.com/6333?format=jpg)](https://design.withfudge.com/share/pin-6333)
+[![Page header with matklad wordmark, About Links Blogroll navigation, and dated article index](https://pin.fontofweb.com/6333?format=jpg)](https://fudge.design/share/pin-6333)
 
-[Page header with matklad wordmark, About Links Blogroll navigation, and dated article index](https://design.withfudge.com/share/pin-6333)
+[Page header with matklad wordmark, About Links Blogroll navigation, and dated article index](https://fudge.design/share/pin-6333)
 
 ## Overview
 
@@ -162,3 +162,18 @@ No breakpoint-specific behavior is visible in the source material. Implement smo
 ## Scope note
 
 This guide covers the article index page of a personal blog. It does not include article detail pages, dark mode, form elements, search functionality, or interactive states beyond the static visible presentation. No radius values were retained from the source interface, consistent with the fully sharp corners visible throughout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [List feed](/share/designs-with-layout.archetype.list_feed)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Content index](/share/designs-with-page.content.index)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

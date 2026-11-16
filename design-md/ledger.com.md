@@ -1,22 +1,22 @@
 # How ledger.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ledger.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ledger.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark product comparison grid showing four Ledger hardware wallets with purple-tinted radial gradient backgrounds, star ratings, and 'Learn more' links](https://pin.fontofweb.com/7797?format=jpg)](https://design.withfudge.com/share/pin-7797)
+[![Dark product comparison grid showing four Ledger hardware wallets with purple-tinted radial gradient backgrounds, star ratings, and 'Learn more' links](https://pin.fontofweb.com/7797?format=jpg)](https://fudge.design/share/pin-7797)
 
-[Dark product comparison grid showing four Ledger hardware wallets with purple-tinted radial gradient backgrounds, star ratings, and 'Learn more' links](https://design.withfudge.com/share/pin-7797)
+[Dark product comparison grid showing four Ledger hardware wallets with purple-tinted radial gradient backgrounds, star ratings, and 'Learn more' links](https://fudge.design/share/pin-7797)
 
-[![Light navigation dropdown with product thumbnails, category links, and dark hero section with orange primary button and device photography](https://pin.fontofweb.com/7796?format=jpg)](https://design.withfudge.com/share/pin-7796)
+[![Light navigation dropdown with product thumbnails, category links, and dark hero section with orange primary button and device photography](https://pin.fontofweb.com/7796?format=jpg)](https://fudge.design/share/pin-7796)
 
-[Light navigation dropdown with product thumbnails, category links, and dark hero section with orange primary button and device photography](https://design.withfudge.com/share/pin-7796)
+[Light navigation dropdown with product thumbnails, category links, and dark hero section with orange primary button and device photography](https://fudge.design/share/pin-7796)
 
-[![Dark hero section with large headline, orange CTA button, device photography on purple gradient, and three-column feature grid with icons](https://pin.fontofweb.com/7795?format=jpg)](https://design.withfudge.com/share/pin-7795)
+[![Dark hero section with large headline, orange CTA button, device photography on purple gradient, and three-column feature grid with icons](https://pin.fontofweb.com/7795?format=jpg)](https://fudge.design/share/pin-7795)
 
-[Dark hero section with large headline, orange CTA button, device photography on purple gradient, and three-column feature grid with icons](https://design.withfudge.com/share/pin-7795)
+[Dark hero section with large headline, orange CTA button, device photography on purple gradient, and three-column feature grid with icons](https://fudge.design/share/pin-7795)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The dark/light section alternation remains consistent across breakpoints, though
 ## Scope note
 
 This guide covers the Ledger homepage including the hero section, product comparison grid, feature highlights, and navigation system. Product detail pages, checkout flows, account dashboards, and mobile-specific layouts are not represented in the supplied material. Footer content, additional marketing pages, and interactive states such as hover, focus, and loading are not documented. Measurements are derived from the desktop viewport captured in the source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

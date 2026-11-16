@@ -1,26 +1,26 @@
 # How hermes4.nousresearch.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hermes4.nousresearch.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hermes4.nousresearch.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large HERMES 4 title, NOUS RESEARCH PRESENTS header, and blue abstract particle wave on black background](https://pin.fontofweb.com/7869?format=jpg)](https://design.withfudge.com/share/pin-7869)
+[![Hero section with large HERMES 4 title, NOUS RESEARCH PRESENTS header, and blue abstract particle wave on black background](https://pin.fontofweb.com/7869?format=jpg)](https://fudge.design/share/pin-7869)
 
-[Hero section with large HERMES 4 title, NOUS RESEARCH PRESENTS header, and blue abstract particle wave on black background](https://design.withfudge.com/share/pin-7869)
+[Hero section with large HERMES 4 title, NOUS RESEARCH PRESENTS header, and blue abstract particle wave on black background](https://fudge.design/share/pin-7869)
 
-[![Chain of Thought section with split layout showing system prompt text and chat conversation overlay on dark magenta particle visualization](https://pin.fontofweb.com/7872?format=jpg)](https://design.withfudge.com/share/pin-7872)
+[![Chain of Thought section with split layout showing system prompt text and chat conversation overlay on dark magenta particle visualization](https://pin.fontofweb.com/7872?format=jpg)](https://fudge.design/share/pin-7872)
 
-[Chain of Thought section with split layout showing system prompt text and chat conversation overlay on dark magenta particle visualization](https://design.withfudge.com/share/pin-7872)
+[Chain of Thought section with split layout showing system prompt text and chat conversation overlay on dark magenta particle visualization](https://fudge.design/share/pin-7872)
 
-[![Casual DM section with Discord-style chat example and orange-amber particle wave background with HERMES 4 labeled messages](https://pin.fontofweb.com/7870?format=jpg)](https://design.withfudge.com/share/pin-7870)
+[![Casual DM section with Discord-style chat example and orange-amber particle wave background with HERMES 4 labeled messages](https://pin.fontofweb.com/7870?format=jpg)](https://fudge.design/share/pin-7870)
 
-[Casual DM section with Discord-style chat example and orange-amber particle wave background with HERMES 4 labeled messages](https://design.withfudge.com/share/pin-7870)
+[Casual DM section with Discord-style chat example and orange-amber particle wave background with HERMES 4 labeled messages](https://fudge.design/share/pin-7870)
 
-[![Chain of Thought section variant with loading spinner visible and magenta particle network with labeled USER and HERMES 4 chat bubbles](https://pin.fontofweb.com/7871?format=jpg)](https://design.withfudge.com/share/pin-7871)
+[![Chain of Thought section variant with loading spinner visible and magenta particle network with labeled USER and HERMES 4 chat bubbles](https://pin.fontofweb.com/7871?format=jpg)](https://fudge.design/share/pin-7871)
 
-[Chain of Thought section variant with loading spinner visible and magenta particle network with labeled USER and HERMES 4 chat bubbles](https://design.withfudge.com/share/pin-7871)
+[Chain of Thought section variant with loading spinner visible and magenta particle network with labeled USER and HERMES 4 chat bubbles](https://fudge.design/share/pin-7871)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Body text at 14px should not scale down further; instead, line length should be 
 ## Scope note
 
 This guide covers the landing page experience for Hermes 4, including the hero section, Chain of Thought demonstration, and Casual DM example. It does not include interior pages, the chat application interface, documentation typography, or interactive model behavior beyond the visible static states. Motion design for particle systems, hover states on buttons, and mobile-specific adaptations are not documented here and should be validated against live implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

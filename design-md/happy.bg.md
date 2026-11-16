@@ -1,26 +1,26 @@
 # How happy.bg is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/happy.bg-design)
+[Open the live Fudge conversation](https://fudge.design/share/happy.bg-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Newsletter signup section with red pill button, awards carousel on light gray background, red navigation bar, and black footer with brand logos and social icons](https://pin.fontofweb.com/2111?format=jpg)](https://design.withfudge.com/share/pin-2111)
+[![Newsletter signup section with red pill button, awards carousel on light gray background, red navigation bar, and black footer with brand logos and social icons](https://pin.fontofweb.com/2111?format=jpg)](https://fudge.design/share/pin-2111)
 
-[Newsletter signup section with red pill button, awards carousel on light gray background, red navigation bar, and black footer with brand logos and social icons](https://design.withfudge.com/share/pin-2111)
+[Newsletter signup section with red pill button, awards carousel on light gray background, red navigation bar, and black footer with brand logos and social icons](https://fudge.design/share/pin-2111)
 
-[![Instagram feed gallery showing food photography and brand content with red like badges and Instagram handle link](https://pin.fontofweb.com/2110?format=jpg)](https://design.withfudge.com/share/pin-2110)
+[![Instagram feed gallery showing food photography and brand content with red like badges and Instagram handle link](https://pin.fontofweb.com/2110?format=jpg)](https://fudge.design/share/pin-2110)
 
-[Instagram feed gallery showing food photography and brand content with red like badges and Instagram handle link](https://design.withfudge.com/share/pin-2110)
+[Instagram feed gallery showing food photography and brand content with red like badges and Instagram handle link](https://fudge.design/share/pin-2110)
 
-[![News carousel with Back to School promotional banner featuring green chalkboard background, red Happy logo, and red read-more pill button](https://pin.fontofweb.com/2109?format=jpg)](https://design.withfudge.com/share/pin-2109)
+[![News carousel with Back to School promotional banner featuring green chalkboard background, red Happy logo, and red read-more pill button](https://pin.fontofweb.com/2109?format=jpg)](https://fudge.design/share/pin-2109)
 
-[News carousel with Back to School promotional banner featuring green chalkboard background, red Happy logo, and red read-more pill button](https://design.withfudge.com/share/pin-2109)
+[News carousel with Back to School promotional banner featuring green chalkboard background, red Happy logo, and red read-more pill button](https://fudge.design/share/pin-2109)
 
-[![Delivery promotion with red pill-shaped banner, delivery driver photo, yellow duck mascot, and menu section with food photography](https://pin.fontofweb.com/2108?format=jpg)](https://design.withfudge.com/share/pin-2108)
+[![Delivery promotion with red pill-shaped banner, delivery driver photo, yellow duck mascot, and menu section with food photography](https://pin.fontofweb.com/2108?format=jpg)](https://fudge.design/share/pin-2108)
 
-[Delivery promotion with red pill-shaped banner, delivery driver photo, yellow duck mascot, and menu section with food photography](https://design.withfudge.com/share/pin-2108)
+[Delivery promotion with red pill-shaped banner, delivery driver photo, yellow duck mascot, and menu section with food photography](https://fudge.design/share/pin-2108)
 
 ## Overview
 
@@ -201,3 +201,18 @@ The supplied images show desktop-width layouts. Based on the visible structure, 
 ## Scope note
 
 This guide covers the visible homepage surface including navigation, promotional sections, news carousel, Instagram feed, awards display, newsletter signup, and footer. Mobile layouts, interior pages, menu interfaces, reservation flows, and online ordering systems are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection. No motion, sound, or interactive state behavior beyond static hover assumptions is documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Red hue](/share/designs-with-color.hue.red)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

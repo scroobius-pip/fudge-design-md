@@ -1,26 +1,26 @@
 # How raspberrypi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/raspberrypi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/raspberrypi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with product imagery on light grey background, featuring Raspberry Pi logo, navigation bar, and two product call-to-action sections with dark and magenta gradient](https://pin.fontofweb.com/2969?format=jpg)](https://design.withfudge.com/share/pin-2969)
+[![Hero banner with product imagery on light grey background, featuring Raspberry Pi logo, navigation bar, and two product call-to-action sections with dark and magenta gradient](https://pin.fontofweb.com/2969?format=jpg)](https://fudge.design/share/pin-2969)
 
-[Hero banner with product imagery on light grey background, featuring Raspberry Pi logo, navigation bar, and two product call-to-action sections with dark and magenta gradient](https://design.withfudge.com/share/pin-2969)
+[Hero banner with product imagery on light grey background, featuring Raspberry Pi logo, navigation bar, and two product call-to-action sections with dark and magenta gradient](https://fudge.design/share/pin-2969)
 
-[![News section with card grid layout showing product announcements, article thumbnails, read-more links with arrow icons, and a blue pill-shaped view-all button](https://pin.fontofweb.com/2970?format=jpg)](https://design.withfudge.com/share/pin-2970)
+[![News section with card grid layout showing product announcements, article thumbnails, read-more links with arrow icons, and a blue pill-shaped view-all button](https://pin.fontofweb.com/2970?format=jpg)](https://fudge.design/share/pin-2970)
 
-[News section with card grid layout showing product announcements, article thumbnails, read-more links with arrow icons, and a blue pill-shaped view-all button](https://design.withfudge.com/share/pin-2970)
+[News section with card grid layout showing product announcements, article thumbnails, read-more links with arrow icons, and a blue pill-shaped view-all button](https://fudge.design/share/pin-2970)
 
-[![Three-column promotional grid with rounded photography cards for Store, Events, and Foundation, each with bold headings and blue arrow links](https://pin.fontofweb.com/2971?format=jpg)](https://design.withfudge.com/share/pin-2971)
+[![Three-column promotional grid with rounded photography cards for Store, Events, and Foundation, each with bold headings and blue arrow links](https://pin.fontofweb.com/2971?format=jpg)](https://fudge.design/share/pin-2971)
 
-[Three-column promotional grid with rounded photography cards for Store, Events, and Foundation, each with bold headings and blue arrow links](https://design.withfudge.com/share/pin-2971)
+[Three-column promotional grid with rounded photography cards for Store, Events, and Foundation, each with bold headings and blue arrow links](https://fudge.design/share/pin-2971)
 
-[![Multi-column footer with social links, categorized navigation sections, and dense text links on light grey background](https://pin.fontofweb.com/2972?format=jpg)](https://design.withfudge.com/share/pin-2972)
+[![Multi-column footer with social links, categorized navigation sections, and dense text links on light grey background](https://pin.fontofweb.com/2972?format=jpg)](https://fudge.design/share/pin-2972)
 
-[Multi-column footer with social links, categorized navigation sections, and dense text links on light grey background](https://design.withfudge.com/share/pin-2972)
+[Multi-column footer with social links, categorized navigation sections, and dense text links on light grey background](https://fudge.design/share/pin-2972)
 
 ## Overview
 
@@ -106,8 +106,8 @@ Iconography is minimal and functional: social media platform icons in the footer
 
 - **Anatomy**: Product name with outlined badge styling, description, price, pill button, large product photography
 - **Variants**:
-  - Dark variant: `{colors.dark-surface}` background, white text, white-outlined product name badge
-  - Magenta variant: raspberry gradient background, white text, same badge treatment
+ - Dark variant: `{colors.dark-surface}` background, white text, white-outlined product name badge
+ - Magenta variant: raspberry gradient background, white text, same badge treatment
 - **Typography**: `{typography.section-display}` for product name, `{typography.body}` for description
 - **Shape**: Full-bleed section, no border radius
 
@@ -138,9 +138,9 @@ Iconography is minimal and functional: social media platform icons in the footer
 
 - **Anatomy**: Text label with optional icon
 - **Variants**:
-  - Primary: `{colors.ink}` background, `{colors.surface}` text
-  - Secondary: `{colors.surface}` background, `{colors.ink}` text with border
-  - Action: `{colors.action}` background, `{colors.surface}` text
+ - Primary: `{colors.ink}` background, `{colors.surface}` text
+ - Secondary: `{colors.surface}` background, `{colors.ink}` text with border
+ - Action: `{colors.action}` background, `{colors.surface}` text
 - **Typography**: `{typography.label}`
 - **Shape**: `{rounded.pill}`
 - **Spacing**: 0.75rem vertical, 1.5rem horizontal padding
@@ -205,3 +205,18 @@ The raspberry gradient banner should remain full-bleed at all widths, with text 
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images, including navigation, hero banners, product highlights, news cards, promotional grids, and footer. Measurements are practical adaptation targets. Unseen interior pages, mobile-specific layouts, dropdown menu behavior, form interactions, and e-commerce checkout flows are not represented. Easing curves, scroll animations, and loading states are not documented from still images alone.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

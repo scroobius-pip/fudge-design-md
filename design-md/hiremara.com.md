@@ -1,22 +1,22 @@
 # How hiremara.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hiremara.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hiremara.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Email example carousel showing a ShipLog welcome email with extracted voice traits and orange highlighted text in a split-panel layout](https://pin.fontofweb.com/10547?format=jpg)](https://design.withfudge.com/share/pin-10547)
+[![Email example carousel showing a ShipLog welcome email with extracted voice traits and orange highlighted text in a split-panel layout](https://pin.fontofweb.com/10547?format=jpg)](https://fudge.design/share/pin-10547)
 
-[Email example carousel showing a ShipLog welcome email with extracted voice traits and orange highlighted text in a split-panel layout](https://design.withfudge.com/share/pin-10547)
+[Email example carousel showing a ShipLog welcome email with extracted voice traits and orange highlighted text in a split-panel layout](https://fudge.design/share/pin-10547)
 
-[![Centered URL input page with italic serif headline, orange primary button, and promotional countdown timer badge](https://pin.fontofweb.com/10546?format=jpg)](https://design.withfudge.com/share/pin-10546)
+[![Centered URL input page with italic serif headline, orange primary button, and promotional countdown timer badge](https://pin.fontofweb.com/10546?format=jpg)](https://fudge.design/share/pin-10546)
 
-[Centered URL input page with italic serif headline, orange primary button, and promotional countdown timer badge](https://design.withfudge.com/share/pin-10546)
+[Centered URL input page with italic serif headline, orange primary button, and promotional countdown timer badge](https://fudge.design/share/pin-10546)
 
-[![Hero section with dark serif display type, email preview card with monospace body text, and orange accent CTA button](https://pin.fontofweb.com/10545?format=jpg)](https://design.withfudge.com/share/pin-10545)
+[![Hero section with dark serif display type, email preview card with monospace body text, and orange accent CTA button](https://pin.fontofweb.com/10545?format=jpg)](https://fudge.design/share/pin-10545)
 
-[Hero section with dark serif display type, email preview card with monospace body text, and orange accent CTA button](https://design.withfudge.com/share/pin-10545)
+[Hero section with dark serif display type, email preview card with monospace body text, and orange accent CTA button](https://fudge.design/share/pin-10545)
 
 ## Overview
 
@@ -178,3 +178,18 @@ The email preview card's shadow and elevation should remain consistent across br
 ## Scope note
 
 This guide covers the homepage and try-page surfaces visible in the supplied captures, including hero sections, email preview carousels, URL input forms, and promotional countdown elements. Pricing pages, account dashboards, mobile-specific layouts, and motion or animation specifications are not included. Measurements reflect the desktop viewport widths captured.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

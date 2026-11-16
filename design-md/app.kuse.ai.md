@@ -1,26 +1,26 @@
 # How app.kuse.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.kuse.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.kuse.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-in modal with warm gradient background, serif headline 'Chaos in, Genius out', and mauve-toned form fields and primary button](https://pin.fontofweb.com/1066?format=jpg)](https://design.withfudge.com/share/pin-1066)
+[![Sign-in modal with warm gradient background, serif headline 'Chaos in, Genius out', and mauve-toned form fields and primary button](https://pin.fontofweb.com/1066?format=jpg)](https://fudge.design/share/pin-1066)
 
-[Sign-in modal with warm gradient background, serif headline 'Chaos in, Genius out', and mauve-toned form fields and primary button](https://design.withfudge.com/share/pin-1066)
+[Sign-in modal with warm gradient background, serif headline 'Chaos in, Genius out', and mauve-toned form fields and primary button](https://fudge.design/share/pin-1066)
 
-[![Three-step onboarding explainer with white cards on light gray, serif section title, and dashed connector arrows between upload, prompt, and results panels](https://pin.fontofweb.com/1065?format=jpg)](https://design.withfudge.com/share/pin-1065)
+[![Three-step onboarding explainer with white cards on light gray, serif section title, and dashed connector arrows between upload, prompt, and results panels](https://pin.fontofweb.com/1065?format=jpg)](https://fudge.design/share/pin-1065)
 
-[Three-step onboarding explainer with white cards on light gray, serif section title, and dashed connector arrows between upload, prompt, and results panels](https://design.withfudge.com/share/pin-1065)
+[Three-step onboarding explainer with white cards on light gray, serif section title, and dashed connector arrows between upload, prompt, and results panels](https://fudge.design/share/pin-1065)
 
-[![Pricing comparison table with dark mauve header bar, alternating row backgrounds, and amber accent for Standard plan values](https://pin.fontofweb.com/1064?format=jpg)](https://design.withfudge.com/share/pin-1064)
+[![Pricing comparison table with dark mauve header bar, alternating row backgrounds, and amber accent for Standard plan values](https://pin.fontofweb.com/1064?format=jpg)](https://fudge.design/share/pin-1064)
 
-[Pricing comparison table with dark mauve header bar, alternating row backgrounds, and amber accent for Standard plan values](https://design.withfudge.com/share/pin-1064)
+[Pricing comparison table with dark mauve header bar, alternating row backgrounds, and amber accent for Standard plan values](https://fudge.design/share/pin-1064)
 
-[![Credit pack cards with cream backgrounds, large serif display title 'Power Up Your Credits', and dark mauve action buttons with percentage badges](https://pin.fontofweb.com/1063?format=jpg)](https://design.withfudge.com/share/pin-1063)
+[![Credit pack cards with cream backgrounds, large serif display title 'Power Up Your Credits', and dark mauve action buttons with percentage badges](https://pin.fontofweb.com/1063?format=jpg)](https://fudge.design/share/pin-1063)
 
-[Credit pack cards with cream backgrounds, large serif display title 'Power Up Your Credits', and dark mauve action buttons with percentage badges](https://design.withfudge.com/share/pin-1063)
+[Credit pack cards with cream backgrounds, large serif display title 'Power Up Your Credits', and dark mauve action buttons with percentage badges](https://fudge.design/share/pin-1063)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Touch targets for buttons and inputs should maintain minimum 44px height; the cu
 ## Scope note
 
 This guide covers the sign-in, onboarding, and pricing surfaces visible in the supplied images. Navigation, dashboard workspace, settings, and mobile-specific layouts are not represented. Motion, loading states, and form validation styling are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

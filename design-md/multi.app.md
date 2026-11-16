@@ -1,26 +1,26 @@
 # How multi.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/multi.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/multi.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog index with dark canvas, category tags in magenta and blue, and large light headlines in Untitled Sans Light](https://pin.fontofweb.com/6081?format=jpg)](https://design.withfudge.com/share/pin-6081)
+[![Blog index with dark canvas, category tags in magenta and blue, and large light headlines in Untitled Sans Light](https://pin.fontofweb.com/6081?format=jpg)](https://fudge.design/share/pin-6081)
 
-[Blog index with dark canvas, category tags in magenta and blue, and large light headlines in Untitled Sans Light](https://design.withfudge.com/share/pin-6081)
+[Blog index with dark canvas, category tags in magenta and blue, and large light headlines in Untitled Sans Light](https://fudge.design/share/pin-6081)
 
-[![Blog article hero with serif display headline PP Editorial New, author metadata, and centered OpenAI logo on white](https://pin.fontofweb.com/6080?format=jpg)](https://design.withfudge.com/share/pin-6080)
+[![Blog article hero with serif display headline PP Editorial New, author metadata, and centered OpenAI logo on white](https://pin.fontofweb.com/6080?format=jpg)](https://fudge.design/share/pin-6080)
 
-[Blog article hero with serif display headline PP Editorial New, author metadata, and centered OpenAI logo on white](https://design.withfudge.com/share/pin-6080)
+[Blog article hero with serif display headline PP Editorial New, author metadata, and centered OpenAI logo on white](https://fudge.design/share/pin-6080)
 
-[![Article body with FAQ section, blue hyperlinks, strong emphasis, and social icons in footer](https://pin.fontofweb.com/6079?format=jpg)](https://design.withfudge.com/share/pin-6079)
+[![Article body with FAQ section, blue hyperlinks, strong emphasis, and social icons in footer](https://pin.fontofweb.com/6079?format=jpg)](https://fudge.design/share/pin-6079)
 
-[Article body with FAQ section, blue hyperlinks, strong emphasis, and social icons in footer](https://design.withfudge.com/share/pin-6079)
+[Article body with FAQ section, blue hyperlinks, strong emphasis, and social icons in footer](https://fudge.design/share/pin-6079)
 
-[![Homepage changelog section with serif heading, date-stamped entries, and large display footer text](https://pin.fontofweb.com/6078?format=jpg)](https://design.withfudge.com/share/pin-6078)
+[![Homepage changelog section with serif heading, date-stamped entries, and large display footer text](https://pin.fontofweb.com/6078?format=jpg)](https://fudge.design/share/pin-6078)
 
-[Homepage changelog section with serif heading, date-stamped entries, and large display footer text](https://design.withfudge.com/share/pin-6078)
+[Homepage changelog section with serif heading, date-stamped entries, and large display footer text](https://fudge.design/share/pin-6078)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The system appears optimized for desktop viewing with centered, width-constraine
 ## Scope note
 
 This guide covers the homepage, blog index, and article page surfaces visible in the supplied images. Mobile layouts, form components, loading states, and motion behavior are not represented. The light-mode media embed treatment is documented where visible but may not represent a complete inverse theme. Measurements reflect the exact retained values from the desktop interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

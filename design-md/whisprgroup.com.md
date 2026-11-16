@@ -1,22 +1,22 @@
 # How whisprgroup.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/whisprgroup.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/whisprgroup.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark navy background, red and outline pill buttons, multi-column link grid, and social icons](https://pin.fontofweb.com/2670?format=jpg)](https://design.withfudge.com/share/pin-2670)
+[![Footer section with dark navy background, red and outline pill buttons, multi-column link grid, and social icons](https://pin.fontofweb.com/2670?format=jpg)](https://fudge.design/share/pin-2670)
 
-[Footer section with dark navy background, red and outline pill buttons, multi-column link grid, and social icons](https://design.withfudge.com/share/pin-2670)
+[Footer section with dark navy background, red and outline pill buttons, multi-column link grid, and social icons](https://fudge.design/share/pin-2670)
 
-[![Hero section with full-bleed photography, large serif headline, red pill button, and bottom-right scroll prompt](https://pin.fontofweb.com/2669?format=jpg)](https://design.withfudge.com/share/pin-2669)
+[![Hero section with full-bleed photography, large serif headline, red pill button, and bottom-right scroll prompt](https://pin.fontofweb.com/2669?format=jpg)](https://fudge.design/share/pin-2669)
 
-[Hero section with full-bleed photography, large serif headline, red pill button, and bottom-right scroll prompt](https://design.withfudge.com/share/pin-2669)
+[Hero section with full-bleed photography, large serif headline, red pill button, and bottom-right scroll prompt](https://fudge.design/share/pin-2669)
 
-[![Navigation bar with logo, horizontal menu links, and red pill contact button on translucent overlay](https://pin.fontofweb.com/2668?format=jpg)](https://design.withfudge.com/share/pin-2668)
+[![Navigation bar with logo, horizontal menu links, and red pill contact button on translucent overlay](https://pin.fontofweb.com/2668?format=jpg)](https://fudge.design/share/pin-2668)
 
-[Navigation bar with logo, horizontal menu links, and red pill contact button on translucent overlay](https://design.withfudge.com/share/pin-2668)
+[Navigation bar with logo, horizontal menu links, and red pill contact button on translucent overlay](https://fudge.design/share/pin-2668)
 
 ## Overview
 
@@ -154,3 +154,18 @@ The system should maintain its dark canvas and typographic hierarchy across view
 ## Scope note
 
 This guide covers the homepage hero, navigation, and footer surfaces visible in the supplied images. Interior pages, product detail layouts, form states, and mobile-specific adaptations are not represented. Motion behavior, hover states, and loading sequences are not documented from still images. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

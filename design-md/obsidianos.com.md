@@ -1,26 +1,26 @@
 # How obsidianos.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/obsidianos.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/obsidianos.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with dark gradient hero, product cards, and regulatory trust section with orange accent icons](https://pin.fontofweb.com/8843?format=jpg)](https://design.withfudge.com/share/pin-8843)
+[![Pricing page with dark gradient hero, product cards, and regulatory trust section with orange accent icons](https://pin.fontofweb.com/8843?format=jpg)](https://fudge.design/share/pin-8843)
 
-[Pricing page with dark gradient hero, product cards, and regulatory trust section with orange accent icons](https://design.withfudge.com/share/pin-8843)
+[Pricing page with dark gradient hero, product cards, and regulatory trust section with orange accent icons](https://fudge.design/share/pin-8843)
 
-[![Footer with oversized obsidian wordmark, multi-column links, GDPR badge, and RockCore attribution](https://pin.fontofweb.com/8842?format=jpg)](https://design.withfudge.com/share/pin-8842)
+[![Footer with oversized obsidian wordmark, multi-column links, GDPR badge, and RockCore attribution](https://pin.fontofweb.com/8842?format=jpg)](https://fudge.design/share/pin-8842)
 
-[Footer with oversized obsidian wordmark, multi-column links, GDPR badge, and RockCore attribution](https://design.withfudge.com/share/pin-8842)
+[Footer with oversized obsidian wordmark, multi-column links, GDPR badge, and RockCore attribution](https://fudge.design/share/pin-8842)
 
-[![Product feature cards with 3D sphere and candlestick visuals above dark rocky landscape with floating UI overlays](https://pin.fontofweb.com/8841?format=jpg)](https://design.withfudge.com/share/pin-8841)
+[![Product feature cards with 3D sphere and candlestick visuals above dark rocky landscape with floating UI overlays](https://pin.fontofweb.com/8841?format=jpg)](https://fudge.design/share/pin-8841)
 
-[Product feature cards with 3D sphere and candlestick visuals above dark rocky landscape with floating UI overlays](https://design.withfudge.com/share/pin-8841)
+[Product feature cards with 3D sphere and candlestick visuals above dark rocky landscape with floating UI overlays](https://fudge.design/share/pin-8841)
 
-[![Consolidators section with dark mountain photography, glassmorphic conversion cards, and right-aligned feature list](https://pin.fontofweb.com/8840?format=jpg)](https://design.withfudge.com/share/pin-8840)
+[![Consolidators section with dark mountain photography, glassmorphic conversion cards, and right-aligned feature list](https://pin.fontofweb.com/8840?format=jpg)](https://fudge.design/share/pin-8840)
 
-[Consolidators section with dark mountain photography, glassmorphic conversion cards, and right-aligned feature list](https://design.withfudge.com/share/pin-8840)
+[Consolidators section with dark mountain photography, glassmorphic conversion cards, and right-aligned feature list](https://fudge.design/share/pin-8840)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The desktop layouts captured show generous fixed padding and multi-column arrang
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the captured images, including navigation, hero sections, product cards, trust features, and footer. Mobile layouts, motion design, form interactions, and additional pages are not represented. Measurements are derived from the supplied interface data with values snapped to the documented scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

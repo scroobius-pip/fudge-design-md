@@ -1,26 +1,26 @@
 # How plaid.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plaid.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/plaid.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark navy page section with large serif statistics, customer story cards in green, blue, and purple, and circular navigation arrows](https://pin.fontofweb.com/4409?format=jpg)](https://design.withfudge.com/share/pin-4409)
+[![Dark navy page section with large serif statistics, customer story cards in green, blue, and purple, and circular navigation arrows](https://pin.fontofweb.com/4409?format=jpg)](https://fudge.design/share/pin-4409)
 
-[Dark navy page section with large serif statistics, customer story cards in green, blue, and purple, and circular navigation arrows](https://design.withfudge.com/share/pin-4409)
+[Dark navy page section with large serif statistics, customer story cards in green, blue, and purple, and circular navigation arrows](https://fudge.design/share/pin-4409)
 
-[![Hero section with bold sans-serif headline on dark background, white waitlist form with rounded inputs, and subtle wave pattern overlay](https://pin.fontofweb.com/4408?format=jpg)](https://design.withfudge.com/share/pin-4408)
+[![Hero section with bold sans-serif headline on dark background, white waitlist form with rounded inputs, and subtle wave pattern overlay](https://pin.fontofweb.com/4408?format=jpg)](https://fudge.design/share/pin-4408)
 
-[Hero section with bold sans-serif headline on dark background, white waitlist form with rounded inputs, and subtle wave pattern overlay](https://design.withfudge.com/share/pin-4408)
+[Hero section with bold sans-serif headline on dark background, white waitlist form with rounded inputs, and subtle wave pattern overlay](https://fudge.design/share/pin-4408)
 
-[![Feature section with network visualization of borrower portraits in circles connected by lines, with gradient glow at bottom](https://pin.fontofweb.com/4407?format=jpg)](https://design.withfudge.com/share/pin-4407)
+[![Feature section with network visualization of borrower portraits in circles connected by lines, with gradient glow at bottom](https://pin.fontofweb.com/4407?format=jpg)](https://fudge.design/share/pin-4407)
 
-[Feature section with network visualization of borrower portraits in circles connected by lines, with gradient glow at bottom](https://design.withfudge.com/share/pin-4407)
+[Feature section with network visualization of borrower portraits in circles connected by lines, with gradient glow at bottom](https://fudge.design/share/pin-4407)
 
-[![LendScore product feature with glassmorphism card showing financial insights, avatar, and score badge with purple-blue gradient](https://pin.fontofweb.com/4406?format=jpg)](https://design.withfudge.com/share/pin-4406)
+[![LendScore product feature with glassmorphism card showing financial insights, avatar, and score badge with purple-blue gradient](https://pin.fontofweb.com/4406?format=jpg)](https://fudge.design/share/pin-4406)
 
-[LendScore product feature with glassmorphism card showing financial insights, avatar, and score badge with purple-blue gradient](https://design.withfudge.com/share/pin-4406)
+[LendScore product feature with glassmorphism card showing financial insights, avatar, and score badge with purple-blue gradient](https://fudge.design/share/pin-4406)
 
 ## Overview
 
@@ -215,3 +215,18 @@ Form layouts should collapse from two-column to single column below medium break
 ## Scope note
 
 This guide covers the dark-first marketing page surfaces visible across Plaid's homepage, product pages, and industry solutions. Pricing tables, documentation interfaces, and authenticated dashboard experiences are not represented. Motion behavior, hover states, and mobile-specific layouts were not captured in the supplied images. Measurements are practical adaptation targets derived from visible compositions.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

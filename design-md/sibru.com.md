@@ -1,26 +1,26 @@
 # How sibru.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sibru.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sibru.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News article with river navigation ceremony photo, bold Georgia headline, and muted caption text below image](https://pin.fontofweb.com/9095?format=jpg)](https://design.withfudge.com/share/pin-9095)
+[![News article with river navigation ceremony photo, bold Georgia headline, and muted caption text below image](https://pin.fontofweb.com/9095?format=jpg)](https://fudge.design/share/pin-9095)
 
-[News article with river navigation ceremony photo, bold Georgia headline, and muted caption text below image](https://design.withfudge.com/share/pin-9095)
+[News article with river navigation ceremony photo, bold Georgia headline, and muted caption text below image](https://fudge.design/share/pin-9095)
 
-[![Full-width hero photograph of river navigation opening with crowd and fireworks without text overlay](https://pin.fontofweb.com/9094?format=jpg)](https://design.withfudge.com/share/pin-9094)
+[![Full-width hero photograph of river navigation opening with crowd and fireworks without text overlay](https://pin.fontofweb.com/9094?format=jpg)](https://fudge.design/share/pin-9094)
 
-[Full-width hero photograph of river navigation opening with crowd and fireworks without text overlay](https://design.withfudge.com/share/pin-9094)
+[Full-width hero photograph of river navigation opening with crowd and fireworks without text overlay](https://fudge.design/share/pin-9094)
 
-[![Maritime news article with tanker ships in strait, Georgia headline, and ChatGPT photo credit in gray](https://pin.fontofweb.com/9093?format=jpg)](https://design.withfudge.com/share/pin-9093)
+[![Maritime news article with tanker ships in strait, Georgia headline, and ChatGPT photo credit in gray](https://pin.fontofweb.com/9093?format=jpg)](https://fudge.design/share/pin-9093)
 
-[Maritime news article with tanker ships in strait, Georgia headline, and ChatGPT photo credit in gray](https://design.withfudge.com/share/pin-9093)
+[Maritime news article with tanker ships in strait, Georgia headline, and ChatGPT photo credit in gray](https://fudge.design/share/pin-9093)
 
-[![Tropical coastline article with Bali landscape image, blue hyperlinked source attribution, and body text in Georgia](https://pin.fontofweb.com/9092?format=jpg)](https://design.withfudge.com/share/pin-9092)
+[![Tropical coastline article with Bali landscape image, blue hyperlinked source attribution, and body text in Georgia](https://pin.fontofweb.com/9092?format=jpg)](https://fudge.design/share/pin-9092)
 
-[Tropical coastline article with Bali landscape image, blue hyperlinked source attribution, and body text in Georgia](https://design.withfudge.com/share/pin-9092)
+[Tropical coastline article with Bali landscape image, blue hyperlinked source attribution, and body text in Georgia](https://fudge.design/share/pin-9092)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The single-column layout suggests straightforward responsive adaptation. At narr
 ## Scope note
 
 This guide covers the article page surface of Sibru.com as visible in the supplied images: the single-column editorial layout with full-bleed photography, caption treatment, headline and body typography, and inline hyperlink styling. Navigation headers, footers, category pages, homepage grids, comment sections, and mobile-specific adaptations are not represented in the available material. Measurements reflect the exact values retained from the interface analysis.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

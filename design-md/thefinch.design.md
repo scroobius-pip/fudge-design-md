@@ -1,26 +1,26 @@
 # How thefinch.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thefinch.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/thefinch.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with contact modal overlay showing blue gradient stats panel and white form card with blue submit button](https://pin.fontofweb.com/2286?format=jpg)](https://design.withfudge.com/share/pin-2286)
+[![Dark hero section with contact modal overlay showing blue gradient stats panel and white form card with blue submit button](https://pin.fontofweb.com/2286?format=jpg)](https://fudge.design/share/pin-2286)
 
-[Dark hero section with contact modal overlay showing blue gradient stats panel and white form card with blue submit button](https://design.withfudge.com/share/pin-2286)
+[Dark hero section with contact modal overlay showing blue gradient stats panel and white form card with blue submit button](https://fudge.design/share/pin-2286)
 
-[![Client logo marquee on white background with PROUDLY WORKED WITH label and eight partner logos in grayscale](https://pin.fontofweb.com/2285?format=jpg)](https://design.withfudge.com/share/pin-2285)
+[![Client logo marquee on white background with PROUDLY WORKED WITH label and eight partner logos in grayscale](https://pin.fontofweb.com/2285?format=jpg)](https://fudge.design/share/pin-2285)
 
-[Client logo marquee on white background with PROUDLY WORKED WITH label and eight partner logos in grayscale](https://design.withfudge.com/share/pin-2285)
+[Client logo marquee on white background with PROUDLY WORKED WITH label and eight partner logos in grayscale](https://fudge.design/share/pin-2285)
 
-[![Light hero homepage with large italic display typography, blue pill button, trust badges, and decorative arc wireframe graphic](https://pin.fontofweb.com/2284?format=jpg)](https://design.withfudge.com/share/pin-2284)
+[![Light hero homepage with large italic display typography, blue pill button, trust badges, and decorative arc wireframe graphic](https://pin.fontofweb.com/2284?format=jpg)](https://fudge.design/share/pin-2284)
 
-[Light hero homepage with large italic display typography, blue pill button, trust badges, and decorative arc wireframe graphic](https://design.withfudge.com/share/pin-2284)
+[Light hero homepage with large italic display typography, blue pill button, trust badges, and decorative arc wireframe graphic](https://fudge.design/share/pin-2284)
 
-[![Navigation bar with blue geometric logo, gray text links with chevrons, and blue pill-shaped inquiry button](https://pin.fontofweb.com/2283?format=jpg)](https://design.withfudge.com/share/pin-2283)
+[![Navigation bar with blue geometric logo, gray text links with chevrons, and blue pill-shaped inquiry button](https://pin.fontofweb.com/2283?format=jpg)](https://fudge.design/share/pin-2283)
 
-[Navigation bar with blue geometric logo, gray text links with chevrons, and blue pill-shaped inquiry button](https://design.withfudge.com/share/pin-2283)
+[Navigation bar with blue geometric logo, gray text links with chevrons, and blue pill-shaped inquiry button](https://fudge.design/share/pin-2283)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The decorative arc graphics, partially visible in the hero, should scale down or
 ## Scope note
 
 This guide covers the homepage and visible contact modal of TheFinch. Interior pages, mobile navigation behavior, dropdown menus, and motion design are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

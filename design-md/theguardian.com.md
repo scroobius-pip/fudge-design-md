@@ -1,26 +1,26 @@
 # How theguardian.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/theguardian.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/theguardian.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body with Guardian Egyptian body text, red inline links, and a large hero photograph of an industrial steelworks site.](https://pin.fontofweb.com/9146?format=jpg)](https://design.withfudge.com/share/pin-9146)
+[![Article body with Guardian Egyptian body text, red inline links, and a large hero photograph of an industrial steelworks site.](https://pin.fontofweb.com/9146?format=jpg)](https://fudge.design/share/pin-9146)
 
-[Article body with Guardian Egyptian body text, red inline links, and a large hero photograph of an industrial steelworks site.](https://design.withfudge.com/share/pin-9146)
+[Article body with Guardian Egyptian body text, red inline links, and a large hero photograph of an industrial steelworks site.](https://fudge.design/share/pin-9146)
 
-[![Full article page showing the navy header bar with yellow Support us button, navigation pills, article headline in light serif, and a Most viewed sidebar.](https://pin.fontofweb.com/7065?format=jpg)](https://design.withfudge.com/share/pin-7065)
+[![Full article page showing the navy header bar with yellow Support us button, navigation pills, article headline in light serif, and a Most viewed sidebar.](https://pin.fontofweb.com/7065?format=jpg)](https://fudge.design/share/pin-7065)
 
-[Full article page showing the navy header bar with yellow Support us button, navigation pills, article headline in light serif, and a Most viewed sidebar.](https://design.withfudge.com/share/pin-7065)
+[Full article page showing the navy header bar with yellow Support us button, navigation pills, article headline in light serif, and a Most viewed sidebar.](https://fudge.design/share/pin-7065)
 
-[![Homepage section with Winter Olympics 2026 coverage, featuring large headline cards with photography, topic labels in blue, and stacked story layouts.](https://pin.fontofweb.com/6618?format=jpg)](https://design.withfudge.com/share/pin-6618)
+[![Homepage section with Winter Olympics 2026 coverage, featuring large headline cards with photography, topic labels in blue, and stacked story layouts.](https://pin.fontofweb.com/6618?format=jpg)](https://fudge.design/share/pin-6618)
 
-[Homepage section with Winter Olympics 2026 coverage, featuring large headline cards with photography, topic labels in blue, and stacked story layouts.](https://design.withfudge.com/share/pin-6618)
+[Homepage section with Winter Olympics 2026 coverage, featuring large headline cards with photography, topic labels in blue, and stacked story layouts.](https://fudge.design/share/pin-6618)
 
-[![Footer area with deep navy background, yellow Support the Guardian branding, multi-column link lists, and a back-to-top circular button.](https://pin.fontofweb.com/6617?format=jpg)](https://design.withfudge.com/share/pin-6617)
+[![Footer area with deep navy background, yellow Support the Guardian branding, multi-column link lists, and a back-to-top circular button.](https://pin.fontofweb.com/6617?format=jpg)](https://fudge.design/share/pin-6617)
 
-[Footer area with deep navy background, yellow Support the Guardian branding, multi-column link lists, and a back-to-top circular button.](https://design.withfudge.com/share/pin-6617)
+[Footer area with deep navy background, yellow Support the Guardian branding, multi-column link lists, and a back-to-top circular button.](https://fudge.design/share/pin-6617)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets maintain minimum `2.75rem` height for navigation items. The suppor
 ## Scope note
 
 This guide covers the article page and homepage surfaces visible in the supplied images. Mobile breakpoints, search interfaces, comment sections, video players, and live blog variants are not represented. Interactive states beyond default and hover are not documented. The design facts also reference Times and Times New Roman as additional font family labels. Measurements are derived from the exact values in the design facts and rounded to practical implementation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

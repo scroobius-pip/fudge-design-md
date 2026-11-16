@@ -1,18 +1,18 @@
 # How lofree.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lofree.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/lofree.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage product grid showing Trending Keyboards and Trending Keycaps sections with NEW badges, star ratings, and color swatches on light gray cards](https://pin.fontofweb.com/7927?format=jpg)](https://design.withfudge.com/share/pin-7927)
+[![Homepage product grid showing Trending Keyboards and Trending Keycaps sections with NEW badges, star ratings, and color swatches on light gray cards](https://pin.fontofweb.com/7927?format=jpg)](https://fudge.design/share/pin-7927)
 
-[Homepage product grid showing Trending Keyboards and Trending Keycaps sections with NEW badges, star ratings, and color swatches on light gray cards](https://design.withfudge.com/share/pin-7927)
+[Homepage product grid showing Trending Keyboards and Trending Keycaps sections with NEW badges, star ratings, and color swatches on light gray cards](https://fudge.design/share/pin-7927)
 
-[![Flow84 product detail page with large hero image, bold condensed title, feature list, variant selectors, protection plan cards, and black Add to cart button](https://pin.fontofweb.com/7926?format=jpg)](https://design.withfudge.com/share/pin-7926)
+[![Flow84 product detail page with large hero image, bold condensed title, feature list, variant selectors, protection plan cards, and black Add to cart button](https://pin.fontofweb.com/7926?format=jpg)](https://fudge.design/share/pin-7926)
 
-[Flow84 product detail page with large hero image, bold condensed title, feature list, variant selectors, protection plan cards, and black Add to cart button](https://design.withfudge.com/share/pin-7926)
+[Flow84 product detail page with large hero image, bold condensed title, feature list, variant selectors, protection plan cards, and black Add to cart button](https://fudge.design/share/pin-7926)
 
 ## Overview
 
@@ -176,3 +176,18 @@ For implementation, consider reducing page gutters to `{spacing.loose}` on table
 ## Scope note
 
 This guide covers the homepage product grid and product detail page surfaces visible in the supplied material. Navigation dropdowns, checkout flows, account pages, and mobile-specific layouts are not represented. Motion, loading states, and form validation patterns are not described.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

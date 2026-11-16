@@ -1,26 +1,26 @@
 # How humanprogress.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/humanprogress.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/humanprogress.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Heroes of Progress grid page showing engraved portrait illustrations with category filters and article cards with blue metadata labels](https://pin.fontofweb.com/5018?format=jpg)](https://design.withfudge.com/share/pin-5018)
+[![Heroes of Progress grid page showing engraved portrait illustrations with category filters and article cards with blue metadata labels](https://pin.fontofweb.com/5018?format=jpg)](https://fudge.design/share/pin-5018)
 
-[Heroes of Progress grid page showing engraved portrait illustrations with category filters and article cards with blue metadata labels](https://design.withfudge.com/share/pin-5018)
+[Heroes of Progress grid page showing engraved portrait illustrations with category filters and article cards with blue metadata labels](https://fudge.design/share/pin-5018)
 
-[![Heroes of Progress project landing with deep navy background, white display typography, and colorful historical portrait collage](https://pin.fontofweb.com/5017?format=jpg)](https://design.withfudge.com/share/pin-5017)
+[![Heroes of Progress project landing with deep navy background, white display typography, and colorful historical portrait collage](https://pin.fontofweb.com/5017?format=jpg)](https://fudge.design/share/pin-5017)
 
-[Heroes of Progress project landing with deep navy background, white display typography, and colorful historical portrait collage](https://design.withfudge.com/share/pin-5017)
+[Heroes of Progress project landing with deep navy background, white display typography, and colorful historical portrait collage](https://fudge.design/share/pin-5017)
 
-[![Minimal site header with Human Progress logo in blue, navigation links, and search icon on white background](https://pin.fontofweb.com/5016?format=jpg)](https://design.withfudge.com/share/pin-5016)
+[![Minimal site header with Human Progress logo in blue, navigation links, and search icon on white background](https://pin.fontofweb.com/5016?format=jpg)](https://fudge.design/share/pin-5016)
 
-[Minimal site header with Human Progress logo in blue, navigation links, and search icon on white background](https://design.withfudge.com/share/pin-5016)
+[Minimal site header with Human Progress logo in blue, navigation links, and search icon on white background](https://fudge.design/share/pin-5016)
 
-[![Trends section with three data visualization cards showing economic charts and blue section heading with navigation arrows](https://pin.fontofweb.com/5015?format=jpg)](https://design.withfudge.com/share/pin-5015)
+[![Trends section with three data visualization cards showing economic charts and blue section heading with navigation arrows](https://pin.fontofweb.com/5015?format=jpg)](https://fudge.design/share/pin-5015)
 
-[Trends section with three data visualization cards showing economic charts and blue section heading with navigation arrows](https://design.withfudge.com/share/pin-5015)
+[Trends section with three data visualization cards showing economic charts and blue section heading with navigation arrows](https://fudge.design/share/pin-5015)
 
 ## Overview
 
@@ -189,3 +189,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the visible desktop surfaces of the Human Progress homepage, Trends section, and Heroes of Progress project pages. Mobile layouts, hover and focus states, loading behavior, chart interaction patterns, and the complete article template are not represented in the supplied images. Measurements are practical adaptation targets derived from visual estimation against a 4px relative unit. The full data visualization color palette and animation specifications would require additional research beyond the current scope.
+
+## Related design patterns
+
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

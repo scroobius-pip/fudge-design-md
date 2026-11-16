@@ -1,26 +1,26 @@
 # How morphic.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/morphic.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/morphic.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Manifesto page with handwritten-style text on dark background, featuring a wax seal and large outlined 'Morphic' lettering](https://pin.fontofweb.com/5810?format=jpg)](https://design.withfudge.com/share/pin-5810)
+[![Manifesto page with handwritten-style text on dark background, featuring a wax seal and large outlined 'Morphic' lettering](https://pin.fontofweb.com/5810?format=jpg)](https://fudge.design/share/pin-5810)
 
-[Manifesto page with handwritten-style text on dark background, featuring a wax seal and large outlined 'Morphic' lettering](https://design.withfudge.com/share/pin-5810)
+[Manifesto page with handwritten-style text on dark background, featuring a wax seal and large outlined 'Morphic' lettering](https://fudge.design/share/pin-5810)
 
-[![Hero section with 'Built for teams' headline, floating cursor labels in purple, green, and red, and two pill-shaped action buttons](https://pin.fontofweb.com/5808?format=jpg)](https://design.withfudge.com/share/pin-5808)
+[![Hero section with 'Built for teams' headline, floating cursor labels in purple, green, and red, and two pill-shaped action buttons](https://pin.fontofweb.com/5808?format=jpg)](https://fudge.design/share/pin-5808)
 
-[Hero section with 'Built for teams' headline, floating cursor labels in purple, green, and red, and two pill-shaped action buttons](https://design.withfudge.com/share/pin-5808)
+[Hero section with 'Built for teams' headline, floating cursor labels in purple, green, and red, and two pill-shaped action buttons](https://fudge.design/share/pin-5808)
 
-[![Feature carousel with four dark cards showing AI video generation capabilities and descriptive text](https://pin.fontofweb.com/5807?format=jpg)](https://design.withfudge.com/share/pin-5807)
+[![Feature carousel with four dark cards showing AI video generation capabilities and descriptive text](https://pin.fontofweb.com/5807?format=jpg)](https://fudge.design/share/pin-5807)
 
-[Feature carousel with four dark cards showing AI video generation capabilities and descriptive text](https://design.withfudge.com/share/pin-5807)
+[Feature carousel with four dark cards showing AI video generation capabilities and descriptive text](https://fudge.design/share/pin-5807)
 
-[![Footer with timeline navigation, pill-shaped link buttons, large outlined 'Morphic' wordmark, and social icons](https://pin.fontofweb.com/5806?format=jpg)](https://design.withfudge.com/share/pin-5806)
+[![Footer with timeline navigation, pill-shaped link buttons, large outlined 'Morphic' wordmark, and social icons](https://pin.fontofweb.com/5806?format=jpg)](https://fudge.design/share/pin-5806)
 
-[Footer with timeline navigation, pill-shaped link buttons, large outlined 'Morphic' wordmark, and social icons](https://design.withfudge.com/share/pin-5806)
+[Footer with timeline navigation, pill-shaped link buttons, large outlined 'Morphic' wordmark, and social icons](https://fudge.design/share/pin-5806)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets should maintain minimum 44px height for cursor labels and buttons.
 ## Scope note
 
 This guide covers the landing page, manifesto page, and showcase footer visible in the supplied images. Mobile layouts, additional interior pages, loading states, form interactions, and motion specifications are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. Verify licensing for Inter and Nanum Pen before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

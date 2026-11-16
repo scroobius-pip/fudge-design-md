@@ -1,22 +1,22 @@
 # How notewave.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/notewave.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/notewave.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid section showing AI note-taking capabilities with app screenshots for transcription, language support, summaries, and quiz generation on light gray background](https://pin.fontofweb.com/6359?format=jpg)](https://design.withfudge.com/share/pin-6359)
+[![Feature grid section showing AI note-taking capabilities with app screenshots for transcription, language support, summaries, and quiz generation on light gray background](https://pin.fontofweb.com/6359?format=jpg)](https://fudge.design/share/pin-6359)
 
-[Feature grid section showing AI note-taking capabilities with app screenshots for transcription, language support, summaries, and quiz generation on light gray background](https://design.withfudge.com/share/pin-6359)
+[Feature grid section showing AI note-taking capabilities with app screenshots for transcription, language support, summaries, and quiz generation on light gray background](https://fudge.design/share/pin-6359)
 
-[![Hero section with centered Feynman AI logo, bold headline, app store download buttons, and five iPhone mockups demonstrating app features](https://pin.fontofweb.com/6358?format=jpg)](https://design.withfudge.com/share/pin-6358)
+[![Hero section with centered Feynman AI logo, bold headline, app store download buttons, and five iPhone mockups demonstrating app features](https://pin.fontofweb.com/6358?format=jpg)](https://fudge.design/share/pin-6358)
 
-[Hero section with centered Feynman AI logo, bold headline, app store download buttons, and five iPhone mockups demonstrating app features](https://design.withfudge.com/share/pin-6358)
+[Hero section with centered Feynman AI logo, bold headline, app store download buttons, and five iPhone mockups demonstrating app features](https://fudge.design/share/pin-6358)
 
-[![Top of landing page with dark navigation bar containing Feynman AI logo and Download now button on white background](https://pin.fontofweb.com/6357?format=jpg)](https://design.withfudge.com/share/pin-6357)
+[![Top of landing page with dark navigation bar containing Feynman AI logo and Download now button on white background](https://pin.fontofweb.com/6357?format=jpg)](https://fudge.design/share/pin-6357)
 
-[Top of landing page with dark navigation bar containing Feynman AI logo and Download now button on white background](https://design.withfudge.com/share/pin-6357)
+[Top of landing page with dark navigation bar containing Feynman AI logo and Download now button on white background](https://fudge.design/share/pin-6357)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The visible design targets desktop viewport widths with fixed pixel margins. Imp
 ## Scope note
 
 This guide covers the notewave.app landing page visible in the supplied images, including the navigation, hero section with download actions, and feature grid with app screenshots. Footer content, additional interior pages, pricing tables, documentation, and mobile-responsive adaptations are not represented. Motion design, hover states, and form interactions are not documented from the still images provided. Verify licensing for Inter before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

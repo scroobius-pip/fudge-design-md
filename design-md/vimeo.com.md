@@ -1,26 +1,26 @@
 # How vimeo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vimeo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vimeo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Join Vimeo survey page with pricing selection cards, yearly/monthly toggle, and Continue button on white canvas with video thumbnail sidebar](https://pin.fontofweb.com/6442?format=jpg)](https://design.withfudge.com/share/pin-6442)
+[![Join Vimeo survey page with pricing selection cards, yearly/monthly toggle, and Continue button on white canvas with video thumbnail sidebar](https://pin.fontofweb.com/6442?format=jpg)](https://fudge.design/share/pin-6442)
 
-[Join Vimeo survey page with pricing selection cards, yearly/monthly toggle, and Continue button on white canvas with video thumbnail sidebar](https://design.withfudge.com/share/pin-6442)
+[Join Vimeo survey page with pricing selection cards, yearly/monthly toggle, and Continue button on white canvas with video thumbnail sidebar](https://fudge.design/share/pin-6442)
 
-[![Vimeo join page with split layout showing email signup form and colorful video grid mosaic on right side](https://pin.fontofweb.com/6441?format=jpg)](https://design.withfudge.com/share/pin-6441)
+[![Vimeo join page with split layout showing email signup form and colorful video grid mosaic on right side](https://pin.fontofweb.com/6441?format=jpg)](https://fudge.design/share/pin-6441)
 
-[Vimeo join page with split layout showing email signup form and colorful video grid mosaic on right side](https://design.withfudge.com/share/pin-6441)
+[Vimeo join page with split layout showing email signup form and colorful video grid mosaic on right side](https://fudge.design/share/pin-6441)
 
-[![Vimeo homepage footer with product navigation columns, cyan Join button, and Summer 2025 Release promotional cards](https://pin.fontofweb.com/6440?format=jpg)](https://design.withfudge.com/share/pin-6440)
+[![Vimeo homepage footer with product navigation columns, cyan Join button, and Summer 2025 Release promotional cards](https://pin.fontofweb.com/6440?format=jpg)](https://fudge.design/share/pin-6440)
 
-[Vimeo homepage footer with product navigation columns, cyan Join button, and Summer 2025 Release promotional cards](https://design.withfudge.com/share/pin-6440)
+[Vimeo homepage footer with product navigation columns, cyan Join button, and Summer 2025 Release promotional cards](https://fudge.design/share/pin-6440)
 
-[![Dark community section with Staff Pick video thumbnails in staggered masonry grid and Discover Staff Picks button](https://pin.fontofweb.com/6439?format=jpg)](https://design.withfudge.com/share/pin-6439)
+[![Dark community section with Staff Pick video thumbnails in staggered masonry grid and Discover Staff Picks button](https://pin.fontofweb.com/6439?format=jpg)](https://fudge.design/share/pin-6439)
 
-[Dark community section with Staff Pick video thumbnails in staggered masonry grid and Discover Staff Picks button](https://design.withfudge.com/share/pin-6439)
+[Dark community section with Staff Pick video thumbnails in staggered masonry grid and Discover Staff Picks button](https://fudge.design/share/pin-6439)
 
 ## Overview
 
@@ -208,3 +208,18 @@ Dark mode sections like Staff Picks maintain their immersive quality across all 
 ## Scope note
 
 This guide covers the marketing, signup, and content showcase surfaces visible on the homepage and join flows. Video player internals, dashboard interfaces, account settings, and mobile-native applications are not represented. Motion design, loading states, and hover micro-interactions are not documented from the still images provided. The type families Abc Repro Basic and Abc Repro Basic-Screen appear in the source but are not assigned to specific visible tokens in this guide.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

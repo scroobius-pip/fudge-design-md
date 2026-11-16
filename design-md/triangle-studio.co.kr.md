@@ -1,26 +1,26 @@
 # How triangle-studio.co.kr is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/triangle-studio.co.kr-design)
+[Open the live Fudge conversation](https://fudge.design/share/triangle-studio.co.kr-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Open book spread with light blue pages showing Korean text and a QR code, set against a black background with the TRIANGLE-STUDIO header visible.](https://pin.fontofweb.com/10305?format=jpg)](https://design.withfudge.com/share/pin-10305)
+[![Open book spread with light blue pages showing Korean text and a QR code, set against a black background with the TRIANGLE-STUDIO header visible.](https://pin.fontofweb.com/10305?format=jpg)](https://fudge.design/share/pin-10305)
 
-[Open book spread with light blue pages showing Korean text and a QR code, set against a black background with the TRIANGLE-STUDIO header visible.](https://design.withfudge.com/share/pin-10305)
+[Open book spread with light blue pages showing Korean text and a QR code, set against a black background with the TRIANGLE-STUDIO header visible.](https://fudge.design/share/pin-10305)
 
-[![Vibrant green book spread featuring a group photograph and Korean text, contrasting sharply with the black surrounding canvas.](https://pin.fontofweb.com/10303?format=jpg)](https://design.withfudge.com/share/pin-10303)
+[![Vibrant green book spread featuring a group photograph and Korean text, contrasting sharply with the black surrounding canvas.](https://pin.fontofweb.com/10303?format=jpg)](https://fudge.design/share/pin-10303)
 
-[Vibrant green book spread featuring a group photograph and Korean text, contrasting sharply with the black surrounding canvas.](https://design.withfudge.com/share/pin-10303)
+[Vibrant green book spread featuring a group photograph and Korean text, contrasting sharply with the black surrounding canvas.](https://fudge.design/share/pin-10303)
 
-[![White book spread with art installation photographs and Korean body text, displaying the full TRIANGLE-STUDIO WORKS header navigation.](https://pin.fontofweb.com/10302?format=jpg)](https://design.withfudge.com/share/pin-10302)
+[![White book spread with art installation photographs and Korean body text, displaying the full TRIANGLE-STUDIO WORKS header navigation.](https://pin.fontofweb.com/10302?format=jpg)](https://fudge.design/share/pin-10302)
 
-[White book spread with art installation photographs and Korean body text, displaying the full TRIANGLE-STUDIO WORKS header navigation.](https://design.withfudge.com/share/pin-10302)
+[White book spread with art installation photographs and Korean body text, displaying the full TRIANGLE-STUDIO WORKS header navigation.](https://fudge.design/share/pin-10302)
 
-[![Dense Korean text spread with a small portrait photograph, showing the editorial typography and generous margins of the publication design.](https://pin.fontofweb.com/10304?format=jpg)](https://design.withfudge.com/share/pin-10304)
+[![Dense Korean text spread with a small portrait photograph, showing the editorial typography and generous margins of the publication design.](https://pin.fontofweb.com/10304?format=jpg)](https://fudge.design/share/pin-10304)
 
-[Dense Korean text spread with a small portrait photograph, showing the editorial typography and generous margins of the publication design.](https://design.withfudge.com/share/pin-10304)
+[Dense Korean text spread with a small portrait photograph, showing the editorial typography and generous margins of the publication design.](https://fudge.design/share/pin-10304)
 
 ## Overview
 
@@ -152,3 +152,18 @@ Touch targets for navigation links at 57px line height meet minimum accessibilit
 ## Scope note
 
 This guide covers the homepage and project index surfaces visible in the supplied imagery, focusing on the portfolio presentation of book and publication design work. Interior project pages, mobile breakpoints, contact forms, and motion behaviors are not represented in the available material. Measurements derive directly from the retained interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

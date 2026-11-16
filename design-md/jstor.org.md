@@ -1,26 +1,26 @@
 # How jstor.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jstor.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/jstor.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Independent Voices collection grid showing archival newspaper thumbnails with left sidebar filters for content type, date, subcollection, and access type](https://pin.fontofweb.com/4292?format=jpg)](https://design.withfudge.com/share/pin-4292)
+[![Independent Voices collection grid showing archival newspaper thumbnails with left sidebar filters for content type, date, subcollection, and access type](https://pin.fontofweb.com/4292?format=jpg)](https://fudge.design/share/pin-4292)
 
-[Independent Voices collection grid showing archival newspaper thumbnails with left sidebar filters for content type, date, subcollection, and access type](https://design.withfudge.com/share/pin-4292)
+[Independent Voices collection grid showing archival newspaper thumbnails with left sidebar filters for content type, date, subcollection, and access type](https://fudge.design/share/pin-4292)
 
-[![Independent Voices collection landing page with serif page title, search bar, Reveal Digital logo, and four category cards with archival imagery](https://pin.fontofweb.com/4291?format=jpg)](https://design.withfudge.com/share/pin-4291)
+[![Independent Voices collection landing page with serif page title, search bar, Reveal Digital logo, and four category cards with archival imagery](https://pin.fontofweb.com/4291?format=jpg)](https://fudge.design/share/pin-4291)
 
-[Independent Voices collection landing page with serif page title, search bar, Reveal Digital logo, and four category cards with archival imagery](https://design.withfudge.com/share/pin-4291)
+[Independent Voices collection landing page with serif page title, search bar, Reveal Digital logo, and four category cards with archival imagery](https://fudge.design/share/pin-4291)
 
-[![Account registration modal with email field, social login buttons, and dark red Create account button on white surface](https://pin.fontofweb.com/4290?format=jpg)](https://design.withfudge.com/share/pin-4290)
+[![Account registration modal with email field, social login buttons, and dark red Create account button on white surface](https://pin.fontofweb.com/4290?format=jpg)](https://fudge.design/share/pin-4290)
 
-[Account registration modal with email field, social login buttons, and dark red Create account button on white surface](https://design.withfudge.com/share/pin-4290)
+[Account registration modal with email field, social login buttons, and dark red Create account button on white surface](https://fudge.design/share/pin-4290)
 
-[![Login modal overlaying homepage hero with landscape painting, showing username, password fields, and dark red Log in button](https://pin.fontofweb.com/4289?format=jpg)](https://design.withfudge.com/share/pin-4289)
+[![Login modal overlaying homepage hero with landscape painting, showing username, password fields, and dark red Log in button](https://pin.fontofweb.com/4289?format=jpg)](https://fudge.design/share/pin-4289)
 
-[Login modal overlaying homepage hero with landscape painting, showing username, password fields, and dark red Log in button](https://design.withfudge.com/share/pin-4289)
+[Login modal overlaying homepage hero with landscape painting, showing username, password fields, and dark red Log in button](https://fudge.design/share/pin-4289)
 
 ## Overview
 
@@ -137,3 +137,18 @@ Hero sections with background imagery should scale proportionally, with text and
 ## Scope note
 
 This guide covers the homepage, collection landing pages, collection browsing with faceted filters, and authentication modals as visible in the supplied images. Article pages, search results, user workspaces, and mobile-specific layouts are not represented. Motion, hover states, focus styles, and error messaging were not captured. Measurements are practical adaptation targets derived from visual inspection against a 0.25rem relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

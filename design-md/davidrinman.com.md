@@ -1,22 +1,22 @@
 # How davidrinman.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/davidrinman.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/davidrinman.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with oversized neon green typographic cutout framing a photographic portrait against black canvas](https://pin.fontofweb.com/4410?format=jpg)](https://design.withfudge.com/share/pin-4410)
+[![Homepage hero with oversized neon green typographic cutout framing a photographic portrait against black canvas](https://pin.fontofweb.com/4410?format=jpg)](https://fudge.design/share/pin-4410)
 
-[Homepage hero with oversized neon green typographic cutout framing a photographic portrait against black canvas](https://design.withfudge.com/share/pin-4410)
+[Homepage hero with oversized neon green typographic cutout framing a photographic portrait against black canvas](https://fudge.design/share/pin-4410)
 
-[![About page biographical statement with large white sans-serif text on black background and minimal navigation](https://pin.fontofweb.com/4411?format=jpg)](https://design.withfudge.com/share/pin-4411)
+[![About page biographical statement with large white sans-serif text on black background and minimal navigation](https://pin.fontofweb.com/4411?format=jpg)](https://fudge.design/share/pin-4411)
 
-[About page biographical statement with large white sans-serif text on black background and minimal navigation](https://design.withfudge.com/share/pin-4411)
+[About page biographical statement with large white sans-serif text on black background and minimal navigation](https://fudge.design/share/pin-4411)
 
-[![About page footer section with three-column grid of work experience, clients, services, and contact links](https://pin.fontofweb.com/4412?format=jpg)](https://design.withfudge.com/share/pin-4412)
+[![About page footer section with three-column grid of work experience, clients, services, and contact links](https://pin.fontofweb.com/4412?format=jpg)](https://fudge.design/share/pin-4412)
 
-[About page footer section with three-column grid of work experience, clients, services, and contact links](https://design.withfudge.com/share/pin-4412)
+[About page footer section with three-column grid of work experience, clients, services, and contact links](https://fudge.design/share/pin-4412)
 
 ## Overview
 
@@ -162,3 +162,18 @@ Touch targets for navigation and links should maintain adequate size given the m
 ## Scope note
 
 This guide covers the homepage and About page surfaces visible in the supplied images. Project detail pages, additional work samples, motion behavior, hover states, and mobile layouts are not represented. Measurements are practical adaptation targets. The full type scale, spacing system, and component inventory may extend beyond what these two pages reveal.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

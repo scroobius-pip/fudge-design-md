@@ -1,26 +1,26 @@
 # How mshocc.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mshocc.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/mshocc.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Newsletter signup section with classroom photograph background, three white input fields, and a rounded rust-colored submit button above the footer contact information.](https://pin.fontofweb.com/2540?format=jpg)](https://design.withfudge.com/share/pin-2540)
+[![Newsletter signup section with classroom photograph background, three white input fields, and a rounded rust-colored submit button above the footer contact information.](https://pin.fontofweb.com/2540?format=jpg)](https://fudge.design/share/pin-2540)
 
-[Newsletter signup section with classroom photograph background, three white input fields, and a rounded rust-colored submit button above the footer contact information.](https://design.withfudge.com/share/pin-2540)
+[Newsletter signup section with classroom photograph background, three white input fields, and a rounded rust-colored submit button above the footer contact information.](https://fudge.design/share/pin-2540)
 
-[![Three-column feature section with a centered heading, equal-width photographs of teachers, a child working, and a historic white house, each with centered serif captions below.](https://pin.fontofweb.com/2539?format=jpg)](https://design.withfudge.com/share/pin-2539)
+[![Three-column feature section with a centered heading, equal-width photographs of teachers, a child working, and a historic white house, each with centered serif captions below.](https://pin.fontofweb.com/2539?format=jpg)](https://fudge.design/share/pin-2539)
 
-[Three-column feature section with a centered heading, equal-width photographs of teachers, a child working, and a historic white house, each with centered serif captions below.](https://design.withfudge.com/share/pin-2539)
+[Three-column feature section with a centered heading, equal-width photographs of teachers, a child working, and a historic white house, each with centered serif captions below.](https://fudge.design/share/pin-2539)
 
-[![Three-step application process on a solid rust-colored background with white headings and body text, using a clean three-column layout with numbered steps.](https://pin.fontofweb.com/2538?format=jpg)](https://design.withfudge.com/share/pin-2538)
+[![Three-step application process on a solid rust-colored background with white headings and body text, using a clean three-column layout with numbered steps.](https://pin.fontofweb.com/2538?format=jpg)](https://fudge.design/share/pin-2538)
 
-[Three-step application process on a solid rust-colored background with white headings and body text, using a clean three-column layout with numbered steps.](https://design.withfudge.com/share/pin-2538)
+[Three-step application process on a solid rust-colored background with white headings and body text, using a clean three-column layout with numbered steps.](https://fudge.design/share/pin-2538)
 
-[![Full-width hero banner with a child at a Montessori work tray, white navigation bar with logo and pill-shaped apply button, and a donation banner at the very top.](https://pin.fontofweb.com/2537?format=jpg)](https://design.withfudge.com/share/pin-2537)
+[![Full-width hero banner with a child at a Montessori work tray, white navigation bar with logo and pill-shaped apply button, and a donation banner at the very top.](https://pin.fontofweb.com/2537?format=jpg)](https://fudge.design/share/pin-2537)
 
-[Full-width hero banner with a child at a Montessori work tray, white navigation bar with logo and pill-shaped apply button, and a donation banner at the very top.](https://design.withfudge.com/share/pin-2537)
+[Full-width hero banner with a child at a Montessori work tray, white navigation bar with logo and pill-shaped apply button, and a donation banner at the very top.](https://fudge.design/share/pin-2537)
 
 ## Overview
 
@@ -195,3 +195,18 @@ The donation banner at the very top may wrap to multiple lines on narrow screens
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images, including the hero, feature grid, application process, newsletter signup, and footer. Interior pages, mobile breakpoints, hover and focus states, form validation, and motion design are not represented in the source material. Measurements are practical adaptation targets based on visual estimation from the provided images.
+
+## Related design patterns
+
+- [Education and research](/share/designs-with-industry.education_research)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

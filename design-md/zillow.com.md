@@ -1,26 +1,26 @@
 # How zillow.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/zillow.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/zillow.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Zillow footer with category navigation dropdowns, legal links, app store badges, and social media icons on white background](https://pin.fontofweb.com/457?format=jpg)](https://design.withfudge.com/share/pin-457)
+[![Zillow footer with category navigation dropdowns, legal links, app store badges, and social media icons on white background](https://pin.fontofweb.com/457?format=jpg)](https://fudge.design/share/pin-457)
 
-[Zillow footer with category navigation dropdowns, legal links, app store badges, and social media icons on white background](https://design.withfudge.com/share/pin-457)
+[Zillow footer with category navigation dropdowns, legal links, app store badges, and social media icons on white background](https://fudge.design/share/pin-457)
 
-[![Three-column feature cards for Buy, Rent, and Sell with illustrations, bold headings, and blue outline buttons on light gray background](https://pin.fontofweb.com/456?format=jpg)](https://design.withfudge.com/share/pin-456)
+[![Three-column feature cards for Buy, Rent, and Sell with illustrations, bold headings, and blue outline buttons on light gray background](https://pin.fontofweb.com/456?format=jpg)](https://fudge.design/share/pin-456)
 
-[Three-column feature cards for Buy, Rent, and Sell with illustrations, bold headings, and blue outline buttons on light gray background](https://design.withfudge.com/share/pin-456)
+[Three-column feature cards for Buy, Rent, and Sell with illustrations, bold headings, and blue outline buttons on light gray background](https://fudge.design/share/pin-456)
 
-[![Single feature card for Buy a home with illustration, bold heading, description text, and blue outline button with rounded corners](https://pin.fontofweb.com/455?format=jpg)](https://design.withfudge.com/share/pin-455)
+[![Single feature card for Buy a home with illustration, bold heading, description text, and blue outline button with rounded corners](https://pin.fontofweb.com/455?format=jpg)](https://fudge.design/share/pin-455)
 
-[Single feature card for Buy a home with illustration, bold heading, description text, and blue outline button with rounded corners](https://design.withfudge.com/share/pin-455)
+[Single feature card for Buy a home with illustration, bold heading, description text, and blue outline button with rounded corners](https://fudge.design/share/pin-455)
 
-[![BuyAbility mortgage section with Zillow Home Loans calculator card, blue primary action button, and property listing cards with orange badges](https://pin.fontofweb.com/454?format=jpg)](https://design.withfudge.com/share/pin-454)
+[![BuyAbility mortgage section with Zillow Home Loans calculator card, blue primary action button, and property listing cards with orange badges](https://pin.fontofweb.com/454?format=jpg)](https://fudge.design/share/pin-454)
 
-[BuyAbility mortgage section with Zillow Home Loans calculator card, blue primary action button, and property listing cards with orange badges](https://design.withfudge.com/share/pin-454)
+[BuyAbility mortgage section with Zillow Home Loans calculator card, blue primary action button, and property listing cards with orange badges](https://fudge.design/share/pin-454)
 
 ## Overview
 
@@ -224,3 +224,18 @@ Horizontal padding on the main container likely increases from 16px to 24px to 4
 ## Scope note
 
 This guide covers the Zillow homepage footer, feature card section, and BuyAbility mortgage module as visible in the supplied imagery. Navigation header, search interface, property detail pages, map views, and authenticated account flows are not represented. Motion, hover states, loading skeletons, and form validation patterns are not documented. Measurements are practical adaptation targets derived from visible proportions against the 4px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Real estate and construction](/share/designs-with-industry.real_estate_construction)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

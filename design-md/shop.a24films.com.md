@@ -1,22 +1,22 @@
 # How shop.a24films.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shop.a24films.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/shop.a24films.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with three-column layout showing category links, social channels, and email signup with white border inputs on black background](https://pin.fontofweb.com/6382?format=jpg)](https://design.withfudge.com/share/pin-6382)
+[![Dark footer with three-column layout showing category links, social channels, and email signup with white border inputs on black background](https://pin.fontofweb.com/6382?format=jpg)](https://fudge.design/share/pin-6382)
 
-[Dark footer with three-column layout showing category links, social channels, and email signup with white border inputs on black background](https://design.withfudge.com/share/pin-6382)
+[Dark footer with three-column layout showing category links, social channels, and email signup with white border inputs on black background](https://fudge.design/share/pin-6382)
 
-[![Product detail page for Stones Tee with oversized bold title, brown shirt image, size selector, quantity picker, and outlined Add to Cart button on warm off-white background](https://pin.fontofweb.com/6381?format=jpg)](https://design.withfudge.com/share/pin-6381)
+[![Product detail page for Stones Tee with oversized bold title, brown shirt image, size selector, quantity picker, and outlined Add to Cart button on warm off-white background](https://pin.fontofweb.com/6381?format=jpg)](https://fudge.design/share/pin-6381)
 
-[Product detail page for Stones Tee with oversized bold title, brown shirt image, size selector, quantity picker, and outlined Add to Cart button on warm off-white background](https://design.withfudge.com/share/pin-6381)
+[Product detail page for Stones Tee with oversized bold title, brown shirt image, size selector, quantity picker, and outlined Add to Cart button on warm off-white background](https://fudge.design/share/pin-6381)
 
-[![Orange promotional modal with email subscription form, white input field, and large SUBSCRIBE button with white border and close icon](https://pin.fontofweb.com/6380?format=jpg)](https://design.withfudge.com/share/pin-6380)
+[![Orange promotional modal with email subscription form, white input field, and large SUBSCRIBE button with white border and close icon](https://pin.fontofweb.com/6380?format=jpg)](https://fudge.design/share/pin-6380)
 
-[Orange promotional modal with email subscription form, white input field, and large SUBSCRIBE button with white border and close icon](https://design.withfudge.com/share/pin-6380)
+[Orange promotional modal with email subscription form, white input field, and large SUBSCRIBE button with white border and close icon](https://fudge.design/share/pin-6380)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Touch targets for size and quantity selectors need expansion on mobile—the cur
 ## Scope note
 
 This guide covers the A24 Shop product detail page, collection page promotional modal, and site footer as visible in the supplied materials. Cart functionality, checkout flows, account pages, and mobile-specific layouts are not represented. All components use `0rem` border radius as implemented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

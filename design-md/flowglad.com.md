@@ -1,26 +1,26 @@
 # How flowglad.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/flowglad.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/flowglad.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog page with dark charcoal background, newsletter subscription form, and article cards with abstract geometric thumbnails and category tags](https://pin.fontofweb.com/5088?format=jpg)](https://design.withfudge.com/share/pin-5088)
+[![Blog page with dark charcoal background, newsletter subscription form, and article cards with abstract geometric thumbnails and category tags](https://pin.fontofweb.com/5088?format=jpg)](https://fudge.design/share/pin-5088)
 
-[Blog page with dark charcoal background, newsletter subscription form, and article cards with abstract geometric thumbnails and category tags](https://design.withfudge.com/share/pin-5088)
+[Blog page with dark charcoal background, newsletter subscription form, and article cards with abstract geometric thumbnails and category tags](https://fudge.design/share/pin-5088)
 
-[![Footer section with Flowglad logo, tagline, email subscription, two-column navigation links with external icons, and legal links](https://pin.fontofweb.com/5086?format=jpg)](https://design.withfudge.com/share/pin-5086)
+[![Footer section with Flowglad logo, tagline, email subscription, two-column navigation links with external icons, and legal links](https://pin.fontofweb.com/5086?format=jpg)](https://fudge.design/share/pin-5086)
 
-[Footer section with Flowglad logo, tagline, email subscription, two-column navigation links with external icons, and legal links](https://design.withfudge.com/share/pin-5086)
+[Footer section with Flowglad logo, tagline, email subscription, two-column navigation links with external icons, and legal links](https://fudge.design/share/pin-5086)
 
-[![FAQ accordion section with dark background, expandable question rows with chevron icons, and one expanded answer panel](https://pin.fontofweb.com/5085?format=jpg)](https://design.withfudge.com/share/pin-5085)
+[![FAQ accordion section with dark background, expandable question rows with chevron icons, and one expanded answer panel](https://pin.fontofweb.com/5085?format=jpg)](https://fudge.design/share/pin-5085)
 
-[FAQ accordion section with dark background, expandable question rows with chevron icons, and one expanded answer panel](https://design.withfudge.com/share/pin-5085)
+[FAQ accordion section with dark background, expandable question rows with chevron icons, and one expanded answer panel](https://fudge.design/share/pin-5085)
 
-[![Pricing page with feature comparison table, section headers, alternating row backgrounds, and code-style CTA banner with Get Started button](https://pin.fontofweb.com/5084?format=jpg)](https://design.withfudge.com/share/pin-5084)
+[![Pricing page with feature comparison table, section headers, alternating row backgrounds, and code-style CTA banner with Get Started button](https://pin.fontofweb.com/5084?format=jpg)](https://fudge.design/share/pin-5084)
 
-[Pricing page with feature comparison table, section headers, alternating row backgrounds, and code-style CTA banner with Get Started button](https://design.withfudge.com/share/pin-5084)
+[Pricing page with feature comparison table, section headers, alternating row backgrounds, and code-style CTA banner with Get Started button](https://fudge.design/share/pin-5084)
 
 ## Overview
 
@@ -151,3 +151,18 @@ The pricing feature table, being inherently wide, should allow horizontal scroll
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: blog listing, pricing page, FAQ section, and footer navigation. The checkout experience, dashboard interface, mobile navigation, and any animation or motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop layout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

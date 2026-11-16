@@ -1,18 +1,18 @@
 # How rama.works is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rama.works-design)
+[Open the live Fudge conversation](https://fudge.design/share/rama.works-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product detail page showing KARA keyboard with cream background, technical specifications in Urbane Rounded type, and bold section headings with tracked uppercase labels](https://pin.fontofweb.com/7933?format=jpg)](https://design.withfudge.com/share/pin-7933)
+[![Product detail page showing KARA keyboard with cream background, technical specifications in Urbane Rounded type, and bold section headings with tracked uppercase labels](https://pin.fontofweb.com/7933?format=jpg)](https://fudge.design/share/pin-7933)
 
-[Product detail page showing KARA keyboard with cream background, technical specifications in Urbane Rounded type, and bold section headings with tracked uppercase labels](https://design.withfudge.com/share/pin-7933)
+[Product detail page showing KARA keyboard with cream background, technical specifications in Urbane Rounded type, and bold section headings with tracked uppercase labels](https://fudge.design/share/pin-7933)
 
-[![Product grid homepage with centered RAMA logo, six product thumbnails on warm cream canvas, and bold tracked labels for accessories and novelties](https://pin.fontofweb.com/7932?format=jpg)](https://design.withfudge.com/share/pin-7932)
+[![Product grid homepage with centered RAMA logo, six product thumbnails on warm cream canvas, and bold tracked labels for accessories and novelties](https://pin.fontofweb.com/7932?format=jpg)](https://fudge.design/share/pin-7932)
 
-[Product grid homepage with centered RAMA logo, six product thumbnails on warm cream canvas, and bold tracked labels for accessories and novelties](https://design.withfudge.com/share/pin-7932)
+[Product grid homepage with centered RAMA logo, six product thumbnails on warm cream canvas, and bold tracked labels for accessories and novelties](https://fudge.design/share/pin-7932)
 
 ## Overview
 
@@ -144,3 +144,18 @@ The visible interface shows a desktop presentation. The centered content margins
 ## Scope note
 
 This guide covers the homepage product grid and product detail page surfaces visible in the supplied images. Footer content, checkout flows, mobile navigation, animation, hover states, and dark mode variants are not represented. The spacing values reflect exact measurements from the captured interface; implement with the same relative unit precision.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

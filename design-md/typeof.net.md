@@ -1,26 +1,26 @@
 # How typeof.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typeof.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/typeof.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Iosevka Customizer variants grid showing character selection with dropdown inheritance controls and multi-style preview columns for upright, italic, and oblique on dark background](https://pin.fontofweb.com/5629?format=jpg)](https://design.withfudge.com/share/pin-5629)
+[![Iosevka Customizer variants grid showing character selection with dropdown inheritance controls and multi-style preview columns for upright, italic, and oblique on dark background](https://pin.fontofweb.com/5629?format=jpg)](https://fudge.design/share/pin-5629)
 
-[Iosevka Customizer variants grid showing character selection with dropdown inheritance controls and multi-style preview columns for upright, italic, and oblique on dark background](https://design.withfudge.com/share/pin-5629)
+[Iosevka Customizer variants grid showing character selection with dropdown inheritance controls and multi-style preview columns for upright, italic, and oblique on dark background](https://fudge.design/share/pin-5629)
 
-[![Iosevka Customizer basics panel with family name input, serif and spacing dropdowns, weight and width numeric selectors, slope toggle buttons, and export checkboxes on dark](https://pin.fontofweb.com/5628?format=jpg)](https://design.withfudge.com/share/pin-5628)
+[![Iosevka Customizer basics panel with family name input, serif and spacing dropdowns, weight and width numeric selectors, slope toggle buttons, and export checkboxes on dark](https://pin.fontofweb.com/5628?format=jpg)](https://fudge.design/share/pin-5628)
 
-[Iosevka Customizer basics panel with family name input, serif and spacing dropdowns, weight and width numeric selectors, slope toggle buttons, and export checkboxes on dark](https://design.withfudge.com/share/pin-5628)
+[Iosevka Customizer basics panel with family name input, serif and spacing dropdowns, weight and width numeric selectors, slope toggle buttons, and export checkboxes on dark](https://fudge.design/share/pin-5628)
 
-[![Iosevka landing page variants section with large display heading, stylistic set list in three columns, character grid with dropdown selectors, and tabbed navigation for sans and](https://pin.fontofweb.com/5627?format=jpg)](https://design.withfudge.com/share/pin-5627)
+[![Iosevka landing page variants section with large display heading, stylistic set list in three columns, character grid with dropdown selectors, and tabbed navigation for sans and](https://pin.fontofweb.com/5627?format=jpg)](https://fudge.design/share/pin-5627)
 
-[Iosevka landing page variants section with large display heading, stylistic set list in three columns, character grid with dropdown selectors, and tabbed navigation for sans and](https://design.withfudge.com/share/pin-5627)
+[Iosevka landing page variants section with large display heading, stylistic set list in three columns, character grid with dropdown selectors, and tabbed navigation for sans and](https://fudge.design/share/pin-5627)
 
-[![Iosevka landing page spatial efficiency section with large display heading, monospace comparison table showing UCD data against Fira Code and IBM Plex columns](https://pin.fontofweb.com/5626?format=jpg)](https://design.withfudge.com/share/pin-5626)
+[![Iosevka landing page spatial efficiency section with large display heading, monospace comparison table showing UCD data against Fira Code and IBM Plex columns](https://pin.fontofweb.com/5626?format=jpg)](https://fudge.design/share/pin-5626)
 
-[Iosevka landing page spatial efficiency section with large display heading, monospace comparison table showing UCD data against Fira Code and IBM Plex columns](https://design.withfudge.com/share/pin-5626)
+[Iosevka landing page spatial efficiency section with large display heading, monospace comparison table showing UCD data against Fira Code and IBM Plex columns](https://fudge.design/share/pin-5626)
 
 ## Overview
 
@@ -154,3 +154,18 @@ The two-column landing page layout should stack vertically on narrower viewports
 ## Scope note
 
 This guide covers the Iosevka landing page and customizer interface visible in the supplied images. Mobile layouts, animation, loading states, error handling, and checkout or download flows are not represented. Measurements are practical adaptation targets. The customizer's underlying font generation logic and all glyph variant data fall outside visual system scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

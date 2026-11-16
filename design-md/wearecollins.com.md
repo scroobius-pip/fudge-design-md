@@ -1,26 +1,26 @@
 # How wearecollins.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wearecollins.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wearecollins.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with vibrant magenta West Side Fest poster, white 'Learning to see.' text, and pill-shaped Explore button](https://pin.fontofweb.com/4744?format=jpg)](https://design.withfudge.com/share/pin-4744)
+[![Homepage hero with vibrant magenta West Side Fest poster, white 'Learning to see.' text, and pill-shaped Explore button](https://pin.fontofweb.com/4744?format=jpg)](https://fudge.design/share/pin-4744)
 
-[Homepage hero with vibrant magenta West Side Fest poster, white 'Learning to see.' text, and pill-shaped Explore button](https://design.withfudge.com/share/pin-4744)
+[Homepage hero with vibrant magenta West Side Fest poster, white 'Learning to see.' text, and pill-shaped Explore button](https://fudge.design/share/pin-4744)
 
-[![Minimal homepage with centered 'Rewrite your worth.' serif headline, COLLINS wordmark, and award laurels footer](https://pin.fontofweb.com/4743?format=jpg)](https://design.withfudge.com/share/pin-4743)
+[![Minimal homepage with centered 'Rewrite your worth.' serif headline, COLLINS wordmark, and award laurels footer](https://pin.fontofweb.com/4743?format=jpg)](https://fudge.design/share/pin-4743)
 
-[Minimal homepage with centered 'Rewrite your worth.' serif headline, COLLINS wordmark, and award laurels footer](https://design.withfudge.com/share/pin-4743)
+[Minimal homepage with centered 'Rewrite your worth.' serif headline, COLLINS wordmark, and award laurels footer](https://fudge.design/share/pin-4743)
 
-[![Nike case study with split layout: runner photograph, neon yellow phone mockup, and metadata sidebar](https://pin.fontofweb.com/4742?format=jpg)](https://design.withfudge.com/share/pin-4742)
+[![Nike case study with split layout: runner photograph, neon yellow phone mockup, and metadata sidebar](https://pin.fontofweb.com/4742?format=jpg)](https://fudge.design/share/pin-4742)
 
-[Nike case study with split layout: runner photograph, neon yellow phone mockup, and metadata sidebar](https://design.withfudge.com/share/pin-4742)
+[Nike case study with split layout: runner photograph, neon yellow phone mockup, and metadata sidebar](https://fudge.design/share/pin-4742)
 
-[![Nike case study text section with two-tone serif body, metadata labels, and outlined pill button with arrow](https://pin.fontofweb.com/4741?format=jpg)](https://design.withfudge.com/share/pin-4741)
+[![Nike case study text section with two-tone serif body, metadata labels, and outlined pill button with arrow](https://pin.fontofweb.com/4741?format=jpg)](https://fudge.design/share/pin-4741)
 
-[Nike case study text section with two-tone serif body, metadata labels, and outlined pill button with arrow](https://design.withfudge.com/share/pin-4741)
+[Nike case study text section with two-tone serif body, metadata labels, and outlined pill button with arrow](https://fudge.design/share/pin-4741)
 
 ## Overview
 
@@ -162,3 +162,18 @@ Touch targets for pill buttons should maintain minimum 44px height. The split me
 ## Scope note
 
 This guide covers the homepage and case study page surfaces visible in the supplied images. Navigation menu states, additional page types, form interactions, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual estimation against the 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

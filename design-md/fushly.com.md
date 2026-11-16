@@ -1,26 +1,26 @@
 # How fushly.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fushly.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fushly.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with startup credit search, vendor marquee, and featured credit cards on warm cream background](https://pin.fontofweb.com/7717?format=jpg)](https://design.withfudge.com/share/pin-7717)
+[![Homepage hero with startup credit search, vendor marquee, and featured credit cards on warm cream background](https://pin.fontofweb.com/7717?format=jpg)](https://fudge.design/share/pin-7717)
 
-[Homepage hero with startup credit search, vendor marquee, and featured credit cards on warm cream background](https://design.withfudge.com/share/pin-7717)
+[Homepage hero with startup credit search, vendor marquee, and featured credit cards on warm cream background](https://fudge.design/share/pin-7717)
 
-[![Dark promotional panel with green italic accent text and benefit checklist with pill-shaped CTA](https://pin.fontofweb.com/7718?format=jpg)](https://design.withfudge.com/share/pin-7718)
+[![Dark promotional panel with green italic accent text and benefit checklist with pill-shaped CTA](https://pin.fontofweb.com/7718?format=jpg)](https://fudge.design/share/pin-7718)
 
-[Dark promotional panel with green italic accent text and benefit checklist with pill-shaped CTA](https://design.withfudge.com/share/pin-7718)
+[Dark promotional panel with green italic accent text and benefit checklist with pill-shaped CTA](https://fudge.design/share/pin-7718)
 
-[![Split-screen login page with dark left panel showing credit statistics and light right panel with sign-in form](https://pin.fontofweb.com/7719?format=jpg)](https://design.withfudge.com/share/pin-7719)
+[![Split-screen login page with dark left panel showing credit statistics and light right panel with sign-in form](https://pin.fontofweb.com/7719?format=jpg)](https://fudge.design/share/pin-7719)
 
-[Split-screen login page with dark left panel showing credit statistics and light right panel with sign-in form](https://design.withfudge.com/share/pin-7719)
+[Split-screen login page with dark left panel showing credit statistics and light right panel with sign-in form](https://fudge.design/share/pin-7719)
 
-[![Account creation form with subscription plan selector, input fields, and black submit button on cream background](https://pin.fontofweb.com/7720?format=jpg)](https://design.withfudge.com/share/pin-7720)
+[![Account creation form with subscription plan selector, input fields, and black submit button on cream background](https://pin.fontofweb.com/7720?format=jpg)](https://fudge.design/share/pin-7720)
 
-[Account creation form with subscription plan selector, input fields, and black submit button on cream background](https://design.withfudge.com/share/pin-7720)
+[Account creation form with subscription plan selector, input fields, and black submit button on cream background](https://fudge.design/share/pin-7720)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Typography scales down at major breakpoints: hero-display reduces from 4.5rem to
 ## Scope note
 
 This guide covers the homepage and authentication surfaces visible in the supplied images. Mobile layouts, hover and focus states, loading skeletons, error messaging, checkout flows beyond plan selection, and user dashboard interfaces are not represented. The vendor marquee scroll behavior and any animation timing remain unspecified. Measurements derive directly from the retained interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

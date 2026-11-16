@@ -1,26 +1,26 @@
 # How fonts.ninja is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fonts.ninja-design)
+[Open the live Fudge conversation](https://fudge.design/share/fonts.ninja-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with massive 'FONTS NINJA' wordmark in black on off-white, coral accent dot, and navigation bar with hamburger menu](https://pin.fontofweb.com/1311?format=jpg)](https://design.withfudge.com/share/pin-1311)
+[![Homepage hero with massive 'FONTS NINJA' wordmark in black on off-white, coral accent dot, and navigation bar with hamburger menu](https://pin.fontofweb.com/1311?format=jpg)](https://fudge.design/share/pin-1311)
 
-[Homepage hero with massive 'FONTS NINJA' wordmark in black on off-white, coral accent dot, and navigation bar with hamburger menu](https://design.withfudge.com/share/pin-1311)
+[Homepage hero with massive 'FONTS NINJA' wordmark in black on off-white, coral accent dot, and navigation bar with hamburger menu](https://fudge.design/share/pin-1311)
 
-[![Bookmarks page with oversized 'Let's bookmark fonts!' display typography, coral CTA button, and minimal footer](https://pin.fontofweb.com/1312?format=jpg)](https://design.withfudge.com/share/pin-1312)
+[![Bookmarks page with oversized 'Let's bookmark fonts!' display typography, coral CTA button, and minimal footer](https://pin.fontofweb.com/1312?format=jpg)](https://fudge.design/share/pin-1312)
 
-[Bookmarks page with oversized 'Let's bookmark fonts!' display typography, coral CTA button, and minimal footer](https://design.withfudge.com/share/pin-1312)
+[Bookmarks page with oversized 'Let's bookmark fonts!' display typography, coral CTA button, and minimal footer](https://fudge.design/share/pin-1312)
 
-[![Coral cookie consent banner with white text, two pill-shaped buttons, and cookie icon on rounded panel](https://pin.fontofweb.com/1310?format=jpg)](https://design.withfudge.com/share/pin-1310)
+[![Coral cookie consent banner with white text, two pill-shaped buttons, and cookie icon on rounded panel](https://pin.fontofweb.com/1310?format=jpg)](https://fudge.design/share/pin-1310)
 
-[Coral cookie consent banner with white text, two pill-shaped buttons, and cookie icon on rounded panel](https://design.withfudge.com/share/pin-1310)
+[Coral cookie consent banner with white text, two pill-shaped buttons, and cookie icon on rounded panel](https://fudge.design/share/pin-1310)
 
-[![White rounded menu panel with download icon, display mode toggle, and social links on light gray background](https://pin.fontofweb.com/1313?format=jpg)](https://design.withfudge.com/share/pin-1313)
+[![White rounded menu panel with download icon, display mode toggle, and social links on light gray background](https://pin.fontofweb.com/1313?format=jpg)](https://fudge.design/share/pin-1313)
 
-[White rounded menu panel with download icon, display mode toggle, and social links on light gray background](https://design.withfudge.com/share/pin-1313)
+[White rounded menu panel with download icon, display mode toggle, and social links on light gray background](https://fudge.design/share/pin-1313)
 
 ## Overview
 
@@ -165,3 +165,18 @@ No specific breakpoint values are visible in the supplied surfaces. Implementers
 ## Scope note
 
 This guide covers the homepage and bookmarks page surfaces visible in the supplied images, including navigation, hero typography, action buttons, cookie consent, and menu panel components. Measurements are practical adaptation targets. Mobile layouts, additional interior pages, dark mode, hover and focus states, loading indicators, and any font catalog browsing interfaces are not represented in the available material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

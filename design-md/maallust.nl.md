@@ -1,26 +1,26 @@
 # How maallust.nl is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/maallust.nl-design)
+[Open the live Fudge conversation](https://fudge.design/share/maallust.nl-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Contact page staff cards with black headers, sepia brewery photography, and gold contact links on warm cream background](https://pin.fontofweb.com/2036?format=jpg)](https://design.withfudge.com/share/pin-2036)
+[![Contact page staff cards with black headers, sepia brewery photography, and gold contact links on warm cream background](https://pin.fontofweb.com/2036?format=jpg)](https://fudge.design/share/pin-2036)
 
-[Contact page staff cards with black headers, sepia brewery photography, and gold contact links on warm cream background](https://design.withfudge.com/share/pin-2036)
+[Contact page staff cards with black headers, sepia brewery photography, and gold contact links on warm cream background](https://fudge.design/share/pin-2036)
 
-[![Contact page header with Maallust logo, navigation bar, form fields, and three black-topped info cards with gold links](https://pin.fontofweb.com/2035?format=jpg)](https://design.withfudge.com/share/pin-2035)
+[![Contact page header with Maallust logo, navigation bar, form fields, and three black-topped info cards with gold links](https://pin.fontofweb.com/2035?format=jpg)](https://fudge.design/share/pin-2035)
 
-[Contact page header with Maallust logo, navigation bar, form fields, and three black-topped info cards with gold links](https://design.withfudge.com/share/pin-2035)
+[Contact page header with Maallust logo, navigation bar, form fields, and three black-topped info cards with gold links](https://fudge.design/share/pin-2035)
 
-[![Footer section with dark charcoal background, newsletter signup, multi-column link groups, and social icons](https://pin.fontofweb.com/2034?format=jpg)](https://design.withfudge.com/share/pin-2034)
+[![Footer section with dark charcoal background, newsletter signup, multi-column link groups, and social icons](https://pin.fontofweb.com/2034?format=jpg)](https://fudge.design/share/pin-2034)
 
-[Footer section with dark charcoal background, newsletter signup, multi-column link groups, and social icons](https://design.withfudge.com/share/pin-2034)
+[Footer section with dark charcoal background, newsletter signup, multi-column link groups, and social icons](https://fudge.design/share/pin-2034)
 
-[![Homepage split-layout heritage section with sepia photography, cream text areas, and outlined dark buttons](https://pin.fontofweb.com/2033?format=jpg)](https://design.withfudge.com/share/pin-2033)
+[![Homepage split-layout heritage section with sepia photography, cream text areas, and outlined dark buttons](https://pin.fontofweb.com/2033?format=jpg)](https://fudge.design/share/pin-2033)
 
-[Homepage split-layout heritage section with sepia photography, cream text areas, and outlined dark buttons](https://design.withfudge.com/share/pin-2033)
+[Homepage split-layout heritage section with sepia photography, cream text areas, and outlined dark buttons](https://fudge.design/share/pin-2033)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Typography should scale down proportionally: hero-display reducing to 2rem on mo
 ## Scope note
 
 This guide covers the homepage and contact page surfaces visible in the supplied images. Interior pages, product catalogs, event listings, and the beer bus booking flow are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, hover states, loading behavior, and mobile breakpoints are not documented and should be designed to match the established static system. The icon fonts Cl 3 Iskicons and Modules are excluded from typography guidance.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

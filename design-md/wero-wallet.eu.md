@@ -1,18 +1,18 @@
 # How wero-wallet.eu is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wero-wallet.eu-design)
+[Open the live Fudge conversation](https://fudge.design/share/wero-wallet.eu-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with split-screen layout: left side shows a hand holding a phone with yellow screen and paper-plane illustration against pink-orange gradient, right side has bold](https://pin.fontofweb.com/6825?format=jpg)](https://design.withfudge.com/share/pin-6825)
+[![Hero section with split-screen layout: left side shows a hand holding a phone with yellow screen and paper-plane illustration against pink-orange gradient, right side has bold](https://pin.fontofweb.com/6825?format=jpg)](https://fudge.design/share/pin-6825)
 
-[Hero section with split-screen layout: left side shows a hand holding a phone with yellow screen and paper-plane illustration against pink-orange gradient, right side has bold](https://design.withfudge.com/share/pin-6825)
+[Hero section with split-screen layout: left side shows a hand holding a phone with yellow screen and paper-plane illustration against pink-orange gradient, right side has bold](https://fudge.design/share/pin-6825)
 
-[![Same hero composition with slightly different ticker text visible, showing the dynamic marquee of feature claims at the bottom edge of the viewport.](https://pin.fontofweb.com/6824?format=jpg)](https://design.withfudge.com/share/pin-6824)
+[![Same hero composition with slightly different ticker text visible, showing the dynamic marquee of feature claims at the bottom edge of the viewport.](https://pin.fontofweb.com/6824?format=jpg)](https://fudge.design/share/pin-6824)
 
-[Same hero composition with slightly different ticker text visible, showing the dynamic marquee of feature claims at the bottom edge of the viewport.](https://design.withfudge.com/share/pin-6824)
+[Same hero composition with slightly different ticker text visible, showing the dynamic marquee of feature claims at the bottom edge of the viewport.](https://fudge.design/share/pin-6824)
 
 ## Overview
 
@@ -148,3 +148,18 @@ Button sizing should remain consistent in height but may reduce horizontal paddi
 ## Scope note
 
 This guide covers the Wero homepage hero and navigation as visible in the supplied captures. Interior pages, mobile breakpoints, dropdown menus, form states, and transaction flows are not represented. The footer, additional marketing sections, and any account-dashboard interfaces fall outside the current scope. Measurements reflect the desktop viewport shown in the source images.
+
+## Related design patterns
+
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

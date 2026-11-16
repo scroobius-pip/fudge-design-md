@@ -1,26 +1,26 @@
 # How plexui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plexui.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/plexui.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Colors page showing grayscale, alpha, and primary color palettes with numbered swatches on a dark background](https://pin.fontofweb.com/8772?format=jpg)](https://design.withfudge.com/share/pin-8772)
+[![Colors page showing grayscale, alpha, and primary color palettes with numbered swatches on a dark background](https://pin.fontofweb.com/8772?format=jpg)](https://fudge.design/share/pin-8772)
 
-[Colors page showing grayscale, alpha, and primary color palettes with numbered swatches on a dark background](https://design.withfudge.com/share/pin-8772)
+[Colors page showing grayscale, alpha, and primary color palettes with numbered swatches on a dark background](https://fudge.design/share/pin-8772)
 
-[![Typography page displaying heading and text scales with size, weight, tracking, and line height specifications](https://pin.fontofweb.com/8771?format=jpg)](https://design.withfudge.com/share/pin-8771)
+[![Typography page displaying heading and text scales with size, weight, tracking, and line height specifications](https://pin.fontofweb.com/8771?format=jpg)](https://fudge.design/share/pin-8771)
 
-[Typography page displaying heading and text scales with size, weight, tracking, and line height specifications](https://design.withfudge.com/share/pin-8771)
+[Typography page displaying heading and text scales with size, weight, tracking, and line height specifications](https://fudge.design/share/pin-8771)
 
-[![Design Tokens page showing breakpoint values and motion curves with cubic-bezier functions](https://pin.fontofweb.com/8340?format=jpg)](https://design.withfudge.com/share/pin-8340)
+[![Design Tokens page showing breakpoint values and motion curves with cubic-bezier functions](https://pin.fontofweb.com/8340?format=jpg)](https://fudge.design/share/pin-8340)
 
-[Design Tokens page showing breakpoint values and motion curves with cubic-bezier functions](https://design.withfudge.com/share/pin-8340)
+[Design Tokens page showing breakpoint values and motion curves with cubic-bezier functions](https://fudge.design/share/pin-8340)
 
-[![Design Tokens page with radius scale tokens from 2px to 9999px and sidebar navigation structure](https://pin.fontofweb.com/8339?format=jpg)](https://design.withfudge.com/share/pin-8339)
+[![Design Tokens page with radius scale tokens from 2px to 9999px and sidebar navigation structure](https://pin.fontofweb.com/8339?format=jpg)](https://fudge.design/share/pin-8339)
 
-[Design Tokens page with radius scale tokens from 2px to 9999px and sidebar navigation structure](https://design.withfudge.com/share/pin-8339)
+[Design Tokens page with radius scale tokens from 2px to 9999px and sidebar navigation structure](https://fudge.design/share/pin-8339)
 
 ## Overview
 
@@ -237,3 +237,18 @@ Motion preferences should be respected: the defined cubic-bezier curves and 150m
 ## Scope note
 
 This guide covers the documentation and design token surfaces of Plex UI, including the color, typography, and token reference pages. Component interaction states, form elements beyond buttons, and mobile-specific layouts are not fully represented in the supplied material. Motion implementation details beyond the defined curves are not specified. Measurements are derived from the documented token values and visible interface elements.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

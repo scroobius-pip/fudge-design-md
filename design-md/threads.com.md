@@ -1,26 +1,26 @@
 # How threads.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/threads.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/threads.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Home feed showing three-column layout with left navigation rail, central thread cards with media carousels, and right sidebar with topic suggestions and trending posts](https://pin.fontofweb.com/9543?format=jpg)](https://design.withfudge.com/share/pin-9543)
+[![Home feed showing three-column layout with left navigation rail, central thread cards with media carousels, and right sidebar with topic suggestions and trending posts](https://pin.fontofweb.com/9543?format=jpg)](https://fudge.design/share/pin-9543)
 
-[Home feed showing three-column layout with left navigation rail, central thread cards with media carousels, and right sidebar with topic suggestions and trending posts](https://design.withfudge.com/share/pin-9543)
+[Home feed showing three-column layout with left navigation rail, central thread cards with media carousels, and right sidebar with topic suggestions and trending posts](https://fudge.design/share/pin-9543)
 
-[![Post activity modal overlay displaying engagement metrics, follower list with circular avatars, and white Follow buttons against dark background](https://pin.fontofweb.com/8486?format=jpg)](https://design.withfudge.com/share/pin-8486)
+[![Post activity modal overlay displaying engagement metrics, follower list with circular avatars, and white Follow buttons against dark background](https://pin.fontofweb.com/8486?format=jpg)](https://fudge.design/share/pin-8486)
 
-[Post activity modal overlay displaying engagement metrics, follower list with circular avatars, and white Follow buttons against dark background](https://design.withfudge.com/share/pin-8486)
+[Post activity modal overlay displaying engagement metrics, follower list with circular avatars, and white Follow buttons against dark background](https://fudge.design/share/pin-8486)
 
-[![Account settings page with two-panel layout showing left navigation menu and right content area with grouped setting rows and external-link icons](https://pin.fontofweb.com/4470?format=jpg)](https://design.withfudge.com/share/pin-4470)
+[![Account settings page with two-panel layout showing left navigation menu and right content area with grouped setting rows and external-link icons](https://pin.fontofweb.com/4470?format=jpg)](https://fudge.design/share/pin-4470)
 
-[Account settings page with two-panel layout showing left navigation menu and right content area with grouped setting rows and external-link icons](https://design.withfudge.com/share/pin-4470)
+[Account settings page with two-panel layout showing left navigation menu and right content area with grouped setting rows and external-link icons](https://fudge.design/share/pin-4470)
 
-[![Privacy settings page with icon-labeled menu items, chevron indicators, and Beta badge on Fediverse sharing option](https://pin.fontofweb.com/4469?format=jpg)](https://design.withfudge.com/share/pin-4469)
+[![Privacy settings page with icon-labeled menu items, chevron indicators, and Beta badge on Fediverse sharing option](https://pin.fontofweb.com/4469?format=jpg)](https://fudge.design/share/pin-4469)
 
-[Privacy settings page with icon-labeled menu items, chevron indicators, and Beta badge on Fediverse sharing option](https://design.withfudge.com/share/pin-4469)
+[Privacy settings page with icon-labeled menu items, chevron indicators, and Beta badge on Fediverse sharing option](https://fudge.design/share/pin-4469)
 
 ## Overview
 
@@ -216,3 +216,18 @@ Touch targets maintain minimum 44px height throughout. Action bar icons increase
 ## Scope note
 
 This guide covers the desktop feed experience, post detail modals, and settings surfaces visible in the supplied images. Mobile layouts, notification systems, direct messaging interfaces, and creation flows beyond the basic composer are not represented. Animation specifications, dark-to-light mode switching logic, and full form validation states are outside the current scope. Measurements derive from the retained interface data where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

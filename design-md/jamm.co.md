@@ -1,26 +1,26 @@
 # How jamm.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jamm.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/jamm.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with playful envelope and telephone illustrations flanking a centered CTA cluster with pink pill button and outlined secondary button](https://pin.fontofweb.com/6809?format=jpg)](https://design.withfudge.com/share/pin-6809)
+[![Dark hero section with playful envelope and telephone illustrations flanking a centered CTA cluster with pink pill button and outlined secondary button](https://pin.fontofweb.com/6809?format=jpg)](https://fudge.design/share/pin-6809)
 
-[Dark hero section with playful envelope and telephone illustrations flanking a centered CTA cluster with pink pill button and outlined secondary button](https://design.withfudge.com/share/pin-6809)
+[Dark hero section with playful envelope and telephone illustrations flanking a centered CTA cluster with pink pill button and outlined secondary button](https://fudge.design/share/pin-6809)
 
-[![Light cream FAQ accordion section with large Ginka heading, dark question rows, and pink chevron indicators on a warm neutral background](https://pin.fontofweb.com/6808?format=jpg)](https://design.withfudge.com/share/pin-6808)
+[![Light cream FAQ accordion section with large Ginka heading, dark question rows, and pink chevron indicators on a warm neutral background](https://pin.fontofweb.com/6808?format=jpg)](https://fudge.design/share/pin-6808)
 
-[Light cream FAQ accordion section with large Ginka heading, dark question rows, and pink chevron indicators on a warm neutral background](https://design.withfudge.com/share/pin-6808)
+[Light cream FAQ accordion section with large Ginka heading, dark question rows, and pink chevron indicators on a warm neutral background](https://fudge.design/share/pin-6808)
 
-[![Dark comparison table panel with cream Jamm feature card, green checkmarks, pink X marks, and centered pink CTA pill button](https://pin.fontofweb.com/6807?format=jpg)](https://design.withfudge.com/share/pin-6807)
+[![Dark comparison table panel with cream Jamm feature card, green checkmarks, pink X marks, and centered pink CTA pill button](https://pin.fontofweb.com/6807?format=jpg)](https://fudge.design/share/pin-6807)
 
-[Dark comparison table panel with cream Jamm feature card, green checkmarks, pink X marks, and centered pink CTA pill button](https://design.withfudge.com/share/pin-6807)
+[Dark comparison table panel with cream Jamm feature card, green checkmarks, pink X marks, and centered pink CTA pill button](https://fudge.design/share/pin-6807)
 
-[![Light services showcase with massive Ginka display type for Branding, Web Design, and Product in rounded cream cards on warm background](https://pin.fontofweb.com/6806?format=jpg)](https://design.withfudge.com/share/pin-6806)
+[![Light services showcase with massive Ginka display type for Branding, Web Design, and Product in rounded cream cards on warm background](https://pin.fontofweb.com/6806?format=jpg)](https://fudge.design/share/pin-6806)
 
-[Light services showcase with massive Ginka display type for Branding, Web Design, and Product in rounded cream cards on warm background](https://design.withfudge.com/share/pin-6806)
+[Light services showcase with massive Ginka display type for Branding, Web Design, and Product in rounded cream cards on warm background](https://fudge.design/share/pin-6806)
 
 ## Overview
 
@@ -185,3 +185,18 @@ FAQ accordions remain structurally identical across breakpoints, with question t
 ## Scope note
 
 This guide covers the homepage and primary landing surfaces of jamm.co, including the hero, services showcase, comparison table, and FAQ sections. Pricing pages, checkout flows, account dashboards, and mobile navigation patterns are not represented in the supplied material. Measurements are exact where retained and practical adaptation targets where rounded to the 2px relative unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

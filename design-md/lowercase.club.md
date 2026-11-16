@@ -1,18 +1,18 @@
 # How lowercase.club is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lowercase.club-design)
+[Open the live Fudge conversation](https://fudge.design/share/lowercase.club-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blue-on-white halftone portrait with repeating 'book a call' marquee bands and minimal navigation sidebar](https://pin.fontofweb.com/5117?format=jpg)](https://design.withfudge.com/share/pin-5117)
+[![Blue-on-white halftone portrait with repeating 'book a call' marquee bands and minimal navigation sidebar](https://pin.fontofweb.com/5117?format=jpg)](https://fudge.design/share/pin-5117)
 
-[Blue-on-white halftone portrait with repeating 'book a call' marquee bands and minimal navigation sidebar](https://design.withfudge.com/share/pin-5117)
+[Blue-on-white halftone portrait with repeating 'book a call' marquee bands and minimal navigation sidebar](https://fudge.design/share/pin-5117)
 
-[![Full homepage with project grid, blue halftone hero portrait, category tags, and top navigation with red telephone icon](https://pin.fontofweb.com/5116?format=jpg)](https://design.withfudge.com/share/pin-5116)
+[![Full homepage with project grid, blue halftone hero portrait, category tags, and top navigation with red telephone icon](https://pin.fontofweb.com/5116?format=jpg)](https://fudge.design/share/pin-5116)
 
-[Full homepage with project grid, blue halftone hero portrait, category tags, and top navigation with red telephone icon](https://design.withfudge.com/share/pin-5116)
+[Full homepage with project grid, blue halftone hero portrait, category tags, and top navigation with red telephone icon](https://fudge.design/share/pin-5116)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The halftone portrait, being the site's signature element, should remain visible
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images: the hero identity zone, project index grid, category tagging system, and marquee call-to-action bands. Interior pages, project detail views, mobile breakpoint layouts, form interactions, and motion behavior are not represented. Measurements are practical adaptation targets. The halftone image treatment algorithm is described by its visual output, not by implementation method.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

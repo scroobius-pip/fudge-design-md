@@ -1,18 +1,18 @@
 # How fiverr.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fiverr.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fiverr.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Reviews section with star ratings, search bar, and buyer review cards showing avatars, country flags, and expandable seller responses](https://pin.fontofweb.com/9890?format=jpg)](https://design.withfudge.com/share/pin-9890)
+[![Reviews section with star ratings, search bar, and buyer review cards showing avatars, country flags, and expandable seller responses](https://pin.fontofweb.com/9890?format=jpg)](https://fudge.design/share/pin-9890)
 
-[Reviews section with star ratings, search bar, and buyer review cards showing avatars, country flags, and expandable seller responses](https://design.withfudge.com/share/pin-9890)
+[Reviews section with star ratings, search bar, and buyer review cards showing avatars, country flags, and expandable seller responses](https://fudge.design/share/pin-9890)
 
-[![Pricing tier panel with Basic, Standard, Premium tabs, feature checklist with checkmarks, and a black Continue button with arrow](https://pin.fontofweb.com/9889?format=jpg)](https://design.withfudge.com/share/pin-9889)
+[![Pricing tier panel with Basic, Standard, Premium tabs, feature checklist with checkmarks, and a black Continue button with arrow](https://pin.fontofweb.com/9889?format=jpg)](https://fudge.design/share/pin-9889)
 
-[Pricing tier panel with Basic, Standard, Premium tabs, feature checklist with checkmarks, and a black Continue button with arrow](https://design.withfudge.com/share/pin-9889)
+[Pricing tier panel with Basic, Standard, Premium tabs, feature checklist with checkmarks, and a black Continue button with arrow](https://fudge.design/share/pin-9889)
 
 ## Overview
 
@@ -204,3 +204,18 @@ Avatar and metadata rows within review cards should preserve their left-alignmen
 ## Scope note
 
 This guide covers the service listing and review surfaces of Fiverr's marketplace, specifically the pricing tier panel and review card components. Mobile layouts, checkout flows, seller dashboards, animation behavior, and dark mode implementations are not represented in the visible material. The homepage discovery experience, category browsing, and search results pages fall outside the current scope. Applesystem and Times appear in the extracted font data but their specific visible roles are limited; verify licensing for all families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketplace](/share/designs-with-offering.marketplace)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

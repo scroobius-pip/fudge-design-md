@@ -1,26 +1,26 @@
 # How fix.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fix.studio-design)
+[Open the live Fudge conversation](https://fudge.design/share/fix.studio-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Amazon AWS case study with dark navy canvas, lavender display type, and horizontal rule metadata grid](https://pin.fontofweb.com/362?format=jpg)](https://design.withfudge.com/share/pin-362)
+[![Amazon AWS case study with dark navy canvas, lavender display type, and horizontal rule metadata grid](https://pin.fontofweb.com/362?format=jpg)](https://fudge.design/share/pin-362)
 
-[Amazon AWS case study with dark navy canvas, lavender display type, and horizontal rule metadata grid](https://design.withfudge.com/share/pin-362)
+[Amazon AWS case study with dark navy canvas, lavender display type, and horizontal rule metadata grid](https://fudge.design/share/pin-362)
 
-[![Amazon AWS project header with full navigation and lavender text on dark navy background](https://pin.fontofweb.com/361?format=jpg)](https://design.withfudge.com/share/pin-361)
+[![Amazon AWS project header with full navigation and lavender text on dark navy background](https://pin.fontofweb.com/361?format=jpg)](https://fudge.design/share/pin-361)
 
-[Amazon AWS project header with full navigation and lavender text on dark navy background](https://design.withfudge.com/share/pin-361)
+[Amazon AWS project header with full navigation and lavender text on dark navy background](https://fudge.design/share/pin-361)
 
-[![Work index page with alphabetical grid, black typography on off-white canvas, and colorful project thumbnails](https://pin.fontofweb.com/360?format=jpg)](https://design.withfudge.com/share/pin-360)
+[![Work index page with alphabetical grid, black typography on off-white canvas, and colorful project thumbnails](https://pin.fontofweb.com/360?format=jpg)](https://fudge.design/share/pin-360)
 
-[Work index page with alphabetical grid, black typography on off-white canvas, and colorful project thumbnails](https://design.withfudge.com/share/pin-360)
+[Work index page with alphabetical grid, black typography on off-white canvas, and colorful project thumbnails](https://fudge.design/share/pin-360)
 
-[![Footer contact grid with black text on off-white background and horizontal rule separators](https://pin.fontofweb.com/359?format=jpg)](https://design.withfudge.com/share/pin-359)
+[![Footer contact grid with black text on off-white background and horizontal rule separators](https://pin.fontofweb.com/359?format=jpg)](https://fudge.design/share/pin-359)
 
-[Footer contact grid with black text on off-white background and horizontal rule separators](https://design.withfudge.com/share/pin-359)
+[Footer contact grid with black text on off-white background and horizontal rule separators](https://fudge.design/share/pin-359)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Dark mode case-study pages should maintain their immersive quality at all widths
 ## Scope note
 
 This guide covers the home page, work index, and Amazon AWS case study as visible in the supplied imagery. Mobile layouts, animation behavior, form interactions, and additional project case studies are not represented. The dynamic footer time display suggests real-time functionality not fully documented here. Measurements are practical adaptation targets derived from visual inspection against a 4px grid system.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Agency](/share/designs-with-offering.agency)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How foreknown.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/foreknown.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/foreknown.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Services page hero with large elegant serif typography reading 'intersection of vision' against a warm off-white background, demonstrating the brand's refined typographic voice](https://pin.fontofweb.com/5672?format=jpg)](https://design.withfudge.com/share/pin-5672)
+[![Services page hero with large elegant serif typography reading 'intersection of vision' against a warm off-white background, demonstrating the brand's refined typographic voice](https://pin.fontofweb.com/5672?format=jpg)](https://fudge.design/share/pin-5672)
 
-[Services page hero with large elegant serif typography reading 'intersection of vision' against a warm off-white background, demonstrating the brand's refined typographic voice](https://design.withfudge.com/share/pin-5672)
+[Services page hero with large elegant serif typography reading 'intersection of vision' against a warm off-white background, demonstrating the brand's refined typographic voice](https://fudge.design/share/pin-5672)
 
-[![Greenville Seminary case study showing stationery mockup with deep forest green brand elements, concrete texture photography, and mixed serif and sans-serif typography in a](https://pin.fontofweb.com/5670?format=jpg)](https://design.withfudge.com/share/pin-5670)
+[![Greenville Seminary case study showing stationery mockup with deep forest green brand elements, concrete texture photography, and mixed serif and sans-serif typography in a](https://pin.fontofweb.com/5670?format=jpg)](https://fudge.design/share/pin-5670)
 
-[Greenville Seminary case study showing stationery mockup with deep forest green brand elements, concrete texture photography, and mixed serif and sans-serif typography in a](https://design.withfudge.com/share/pin-5670)
+[Greenville Seminary case study showing stationery mockup with deep forest green brand elements, concrete texture photography, and mixed serif and sans-serif typography in a](https://fudge.design/share/pin-5670)
 
 ## Overview
 
@@ -177,3 +177,18 @@ The typographic scale should maintain its proportional relationships across brea
 ## Scope note
 
 This guide covers the services page and case study presentation visible in the supplied material. Interior pages, form interactions, motion behavior, hover states, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual analysis of the available imagery. The system assumes light-environment presentation with no dark mode established.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

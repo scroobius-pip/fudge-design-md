@@ -1,22 +1,22 @@
 # How extropic.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/extropic.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/extropic.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with dark cinematic background, amber gradient display type reading THERMODYNAMIC, white serif subhead COMPUTING, and announcement card with gold accent border](https://pin.fontofweb.com/4188?format=jpg)](https://design.withfudge.com/share/pin-4188)
+[![Homepage hero with dark cinematic background, amber gradient display type reading THERMODYNAMIC, white serif subhead COMPUTING, and announcement card with gold accent border](https://pin.fontofweb.com/4188?format=jpg)](https://fudge.design/share/pin-4188)
 
-[Homepage hero with dark cinematic background, amber gradient display type reading THERMODYNAMIC, white serif subhead COMPUTING, and announcement card with gold accent border](https://design.withfudge.com/share/pin-4188)
+[Homepage hero with dark cinematic background, amber gradient display type reading THERMODYNAMIC, white serif subhead COMPUTING, and announcement card with gold accent border](https://fudge.design/share/pin-4188)
 
-[![Homepage hero alternate view showing hardware device in warm lighting, navigation bar with pill-shaped container, and featured video card with gold left border accent](https://pin.fontofweb.com/4187?format=jpg)](https://design.withfudge.com/share/pin-4187)
+[![Homepage hero alternate view showing hardware device in warm lighting, navigation bar with pill-shaped container, and featured video card with gold left border accent](https://pin.fontofweb.com/4187?format=jpg)](https://fudge.design/share/pin-4187)
 
-[Homepage hero alternate view showing hardware device in warm lighting, navigation bar with pill-shaped container, and featured video card with gold left border accent](https://design.withfudge.com/share/pin-4187)
+[Homepage hero alternate view showing hardware device in warm lighting, navigation bar with pill-shaped container, and featured video card with gold left border accent](https://fudge.design/share/pin-4187)
 
-[![Footer section with deep maroon background, repeating abstract symbol pattern in muted red, navigation links, email capture field with gold border, and legal footer text](https://pin.fontofweb.com/4186?format=jpg)](https://design.withfudge.com/share/pin-4186)
+[![Footer section with deep maroon background, repeating abstract symbol pattern in muted red, navigation links, email capture field with gold border, and legal footer text](https://pin.fontofweb.com/4186?format=jpg)](https://fudge.design/share/pin-4186)
 
-[Footer section with deep maroon background, repeating abstract symbol pattern in muted red, navigation links, email capture field with gold border, and legal footer text](https://design.withfudge.com/share/pin-4186)
+[Footer section with deep maroon background, repeating abstract symbol pattern in muted red, navigation links, email capture field with gold border, and legal footer text](https://fudge.design/share/pin-4186)
 
 ## Overview
 
@@ -150,3 +150,18 @@ The footer symbol pattern should scale tile size proportionally, maintaining den
 ## Scope note
 
 This guide covers the homepage hero, navigation, and footer surfaces visible in the supplied images. Interior page layouts, article content styling, motion behavior, and additional component states are not represented. Measurements are practical adaptation targets derived from visual estimation against the 0.25rem base unit. Mobile breakpoints, form validation states, and loading sequences require additional design exploration.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Unknown layout archetype](/share/designs-with-layout.archetype.unknown)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

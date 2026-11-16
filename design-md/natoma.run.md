@@ -1,26 +1,26 @@
 # How natoma.run is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/natoma.run-design)
+[Open the live Fudge conversation](https://fudge.design/share/natoma.run-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with mint-green abstract background, search bar, and prompt suggestion cards above server grid](https://pin.fontofweb.com/7708?format=jpg)](https://design.withfudge.com/share/pin-7708)
+[![Hero section with mint-green abstract background, search bar, and prompt suggestion cards above server grid](https://pin.fontofweb.com/7708?format=jpg)](https://fudge.design/share/pin-7708)
 
-[Hero section with mint-green abstract background, search bar, and prompt suggestion cards above server grid](https://design.withfudge.com/share/pin-7708)
+[Hero section with mint-green abstract background, search bar, and prompt suggestion cards above server grid](https://fudge.design/share/pin-7708)
 
-[![Server card grid showing Atlassian, Datadog, GitHub, Linear, Notion, Slack with action chips and Run buttons](https://pin.fontofweb.com/7707?format=jpg)](https://design.withfudge.com/share/pin-7707)
+[![Server card grid showing Atlassian, Datadog, GitHub, Linear, Notion, Slack with action chips and Run buttons](https://pin.fontofweb.com/7707?format=jpg)](https://fudge.design/share/pin-7707)
 
-[Server card grid showing Atlassian, Datadog, GitHub, Linear, Notion, Slack with action chips and Run buttons](https://design.withfudge.com/share/pin-7707)
+[Server card grid showing Atlassian, Datadog, GitHub, Linear, Notion, Slack with action chips and Run buttons](https://fudge.design/share/pin-7707)
 
-[![Full-bleed hero with mint gradient, centered headline, search input, and six prompt suggestion tiles](https://pin.fontofweb.com/7404?format=jpg)](https://design.withfudge.com/share/pin-7404)
+[![Full-bleed hero with mint gradient, centered headline, search input, and six prompt suggestion tiles](https://pin.fontofweb.com/7404?format=jpg)](https://fudge.design/share/pin-7404)
 
-[Full-bleed hero with mint gradient, centered headline, search input, and six prompt suggestion tiles](https://design.withfudge.com/share/pin-7404)
+[Full-bleed hero with mint gradient, centered headline, search input, and six prompt suggestion tiles](https://fudge.design/share/pin-7404)
 
-[![Complete page view with navigation, hero banner, category filters, and server cards with tool action links](https://pin.fontofweb.com/7403?format=jpg)](https://design.withfudge.com/share/pin-7403)
+[![Complete page view with navigation, hero banner, category filters, and server cards with tool action links](https://pin.fontofweb.com/7403?format=jpg)](https://fudge.design/share/pin-7403)
 
-[Complete page view with navigation, hero banner, category filters, and server cards with tool action links](https://design.withfudge.com/share/pin-7403)
+[Complete page view with navigation, hero banner, category filters, and server cards with tool action links](https://fudge.design/share/pin-7403)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The three-column server grid should collapse to two columns on tablet viewports 
 ## Scope note
 
 This guide covers the Natoma MCP server directory landing page including the hero search experience, category filtering, and server card grid. Footer content, individual server detail pages, authentication flows, and in-app interfaces are not represented in the supplied material. The exact mint background treatment is an environmental visual element rather than a CSS gradient specification; implement with comparable soft organic shapes.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

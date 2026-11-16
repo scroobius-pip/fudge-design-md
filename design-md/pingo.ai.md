@@ -1,26 +1,26 @@
 # How pingo.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pingo.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/pingo.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with blue background, app store badges, and language links showing the brand's global reach](https://pin.fontofweb.com/10067?format=jpg)](https://design.withfudge.com/share/pin-10067)
+[![Footer section with blue background, app store badges, and language links showing the brand's global reach](https://pin.fontofweb.com/10067?format=jpg)](https://fudge.design/share/pin-10067)
 
-[Footer section with blue background, app store badges, and language links showing the brand's global reach](https://design.withfudge.com/share/pin-10067)
+[Footer section with blue background, app store badges, and language links showing the brand's global reach](https://fudge.design/share/pin-10067)
 
-[![FAQ accordion with large display heading, expanded answer text, and circular plus-minus toggles](https://pin.fontofweb.com/10066?format=jpg)](https://design.withfudge.com/share/pin-10066)
+[![FAQ accordion with large display heading, expanded answer text, and circular plus-minus toggles](https://pin.fontofweb.com/10066?format=jpg)](https://fudge.design/share/pin-10066)
 
-[FAQ accordion with large display heading, expanded answer text, and circular plus-minus toggles](https://design.withfudge.com/share/pin-10066)
+[FAQ accordion with large display heading, expanded answer text, and circular plus-minus toggles](https://fudge.design/share/pin-10066)
 
-[![Testimonials carousel with star ratings, learner quotes, and reviewer attribution cards](https://pin.fontofweb.com/10065?format=jpg)](https://design.withfudge.com/share/pin-10065)
+[![Testimonials carousel with star ratings, learner quotes, and reviewer attribution cards](https://pin.fontofweb.com/10065?format=jpg)](https://fudge.design/share/pin-10065)
 
-[Testimonials carousel with star ratings, learner quotes, and reviewer attribution cards](https://design.withfudge.com/share/pin-10065)
+[Testimonials carousel with star ratings, learner quotes, and reviewer attribution cards](https://fudge.design/share/pin-10065)
 
-[![Feature cards grid on blue background showing conversation scenarios with illustrated icons](https://pin.fontofweb.com/10064?format=jpg)](https://design.withfudge.com/share/pin-10064)
+[![Feature cards grid on blue background showing conversation scenarios with illustrated icons](https://pin.fontofweb.com/10064?format=jpg)](https://fudge.design/share/pin-10064)
 
-[Feature cards grid on blue background showing conversation scenarios with illustrated icons](https://design.withfudge.com/share/pin-10064)
+[Feature cards grid on blue background showing conversation scenarios with illustrated icons](https://fudge.design/share/pin-10064)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The design appears optimized for desktop viewing with substantial horizontal mar
 ## Scope note
 
 This guide covers the Pingo AI landing page's visible desktop surface, including header, hero, feature scenarios, testimonials, FAQ, and footer. Mobile breakpoints, animation specifications, hover states, form interactions, and the actual application interface beyond the marketing page are not included.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

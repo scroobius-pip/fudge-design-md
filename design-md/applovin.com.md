@@ -1,26 +1,26 @@
 # How applovin.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/applovin.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/applovin.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with multi-column navigation, AppLovin logo, language selector, and social icons on deep navy background](https://pin.fontofweb.com/2435?format=jpg)](https://design.withfudge.com/share/pin-2435)
+[![Dark footer with multi-column navigation, AppLovin logo, language selector, and social icons on deep navy background](https://pin.fontofweb.com/2435?format=jpg)](https://fudge.design/share/pin-2435)
 
-[Dark footer with multi-column navigation, AppLovin logo, language selector, and social icons on deep navy background](https://design.withfudge.com/share/pin-2435)
+[Dark footer with multi-column navigation, AppLovin logo, language selector, and social icons on deep navy background](https://fudge.design/share/pin-2435)
 
-[![Hero section with gradient background, bold white headline, subtitle, and purple-blue gradient CTA button above the footer](https://pin.fontofweb.com/2434?format=jpg)](https://design.withfudge.com/share/pin-2434)
+[![Hero section with gradient background, bold white headline, subtitle, and purple-blue gradient CTA button above the footer](https://pin.fontofweb.com/2434?format=jpg)](https://fudge.design/share/pin-2434)
 
-[Hero section with gradient background, bold white headline, subtitle, and purple-blue gradient CTA button above the footer](https://design.withfudge.com/share/pin-2434)
+[Hero section with gradient background, bold white headline, subtitle, and purple-blue gradient CTA button above the footer](https://fudge.design/share/pin-2434)
 
-[![Industry impact section with dark overlay on photography, cyan accent link, and five category cards showing client success stories](https://pin.fontofweb.com/2433?format=jpg)](https://design.withfudge.com/share/pin-2433)
+[![Industry impact section with dark overlay on photography, cyan accent link, and five category cards showing client success stories](https://pin.fontofweb.com/2433?format=jpg)](https://fudge.design/share/pin-2433)
 
-[Industry impact section with dark overlay on photography, cyan accent link, and five category cards showing client success stories](https://design.withfudge.com/share/pin-2433)
+[Industry impact section with dark overlay on photography, cyan accent link, and five category cards showing client success stories](https://fudge.design/share/pin-2433)
 
-[![Solutions section with light gray background, gradient headline text, four product cards with icons and illustrations, and cyan CTA link](https://pin.fontofweb.com/2432?format=jpg)](https://design.withfudge.com/share/pin-2432)
+[![Solutions section with light gray background, gradient headline text, four product cards with icons and illustrations, and cyan CTA link](https://pin.fontofweb.com/2432?format=jpg)](https://fudge.design/share/pin-2432)
 
-[Solutions section with light gray background, gradient headline text, four product cards with icons and illustrations, and cyan CTA link](https://design.withfudge.com/share/pin-2432)
+[Solutions section with light gray background, gradient headline text, four product cards with icons and illustrations, and cyan CTA link](https://fudge.design/share/pin-2432)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Gradient backgrounds should maintain their color stops without banding; consider
 ## Scope note
 
 This guide covers the AppLovin homepage including hero, solutions, industry impact, and footer surfaces. Mobile breakpoints, hover states, form components, interior pages, and the Axon.ai promotional banner are not represented in the available material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

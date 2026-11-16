@@ -1,18 +1,18 @@
 # How pneumatter.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pneumatter.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pneumatter.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero viewport with starfield background, centered serif wordmark PNEUMATTER, and ethereal cloud formation at bottom edge](https://pin.fontofweb.com/3085?format=jpg)](https://design.withfudge.com/share/pin-3085)
+[![Hero viewport with starfield background, centered serif wordmark PNEUMATTER, and ethereal cloud formation at bottom edge](https://pin.fontofweb.com/3085?format=jpg)](https://fudge.design/share/pin-3085)
 
-[Hero viewport with starfield background, centered serif wordmark PNEUMATTER, and ethereal cloud formation at bottom edge](https://design.withfudge.com/share/pin-3085)
+[Hero viewport with starfield background, centered serif wordmark PNEUMATTER, and ethereal cloud formation at bottom edge](https://fudge.design/share/pin-3085)
 
-[![Ethos modal overlay with dark translucent backdrop, body text, inline icons, and faint ghosted wordmark behind content](https://pin.fontofweb.com/3084?format=jpg)](https://design.withfudge.com/share/pin-3084)
+[![Ethos modal overlay with dark translucent backdrop, body text, inline icons, and faint ghosted wordmark behind content](https://pin.fontofweb.com/3084?format=jpg)](https://fudge.design/share/pin-3084)
 
-[Ethos modal overlay with dark translucent backdrop, body text, inline icons, and faint ghosted wordmark behind content](https://design.withfudge.com/share/pin-3084)
+[Ethos modal overlay with dark translucent backdrop, body text, inline icons, and faint ghosted wordmark behind content](https://fudge.design/share/pin-3084)
 
 ## Overview
 
@@ -142,3 +142,18 @@ The design's viewport-centric nature suggests strong sensitivity to screen dimen
 ## Scope note
 
 This guide covers the landing viewport and ethos modal as visible on desktop. Mobile layouts, additional content sections, animation behavior, and interactive states such as hover or loading are not represented in the supplied images. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

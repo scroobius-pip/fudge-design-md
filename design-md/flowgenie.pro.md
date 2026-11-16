@@ -1,26 +1,26 @@
 # How flowgenie.pro is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/flowgenie.pro-design)
+[Open the live Fudge conversation](https://fudge.design/share/flowgenie.pro-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with monospace headline, gradient CTA buttons, and blueprint editor preview on light background](https://pin.fontofweb.com/7689?format=jpg)](https://design.withfudge.com/share/pin-7689)
+[![Hero section with monospace headline, gradient CTA buttons, and blueprint editor preview on light background](https://pin.fontofweb.com/7689?format=jpg)](https://fudge.design/share/pin-7689)
 
-[Hero section with monospace headline, gradient CTA buttons, and blueprint editor preview on light background](https://design.withfudge.com/share/pin-7689)
+[Hero section with monospace headline, gradient CTA buttons, and blueprint editor preview on light background](https://fudge.design/share/pin-7689)
 
-[![Feature section showing form builder interface with CSS code panel and two-column layout](https://pin.fontofweb.com/7691?format=jpg)](https://design.withfudge.com/share/pin-7691)
+[![Feature section showing form builder interface with CSS code panel and two-column layout](https://pin.fontofweb.com/7691?format=jpg)](https://fudge.design/share/pin-7691)
 
-[Feature section showing form builder interface with CSS code panel and two-column layout](https://design.withfudge.com/share/pin-7691)
+[Feature section showing form builder interface with CSS code panel and two-column layout](https://fudge.design/share/pin-7691)
 
-[![Form-to-flow integration diagram with connected nodes and conditional logic visualization](https://pin.fontofweb.com/7690?format=jpg)](https://design.withfudge.com/share/pin-7690)
+[![Form-to-flow integration diagram with connected nodes and conditional logic visualization](https://pin.fontofweb.com/7690?format=jpg)](https://fudge.design/share/pin-7690)
 
-[Form-to-flow integration diagram with connected nodes and conditional logic visualization](https://design.withfudge.com/share/pin-7690)
+[Form-to-flow integration diagram with connected nodes and conditional logic visualization](https://fudge.design/share/pin-7690)
 
-[![Collaboration section with team workflow editor and terminal-style node interface](https://pin.fontofweb.com/7692?format=jpg)](https://design.withfudge.com/share/pin-7692)
+[![Collaboration section with team workflow editor and terminal-style node interface](https://pin.fontofweb.com/7692?format=jpg)](https://fudge.design/share/pin-7692)
 
-[Collaboration section with team workflow editor and terminal-style node interface](https://design.withfudge.com/share/pin-7692)
+[Collaboration section with team workflow editor and terminal-style node interface](https://fudge.design/share/pin-7692)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The substantial hero padding (208px top, 144px bottom) should compress to roughl
 ## Scope note
 
 This guide covers the FlowGenie landing page hero and feature sections as visible in the supplied captures. Pricing, documentation, changelog, and authenticated application interfaces are not represented. Mobile breakpoints, hover states, form validation feedback, and the actual editor interface beyond its screenshot presentation are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

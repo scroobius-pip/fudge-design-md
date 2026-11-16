@@ -1,22 +1,22 @@
 # How neubrutalism.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/neubrutalism.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/neubrutalism.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with bold yellow background, oversized black Syne typography spelling NEUBRUTALISM, and three stacked code-example cards with hard shadows on the right](https://pin.fontofweb.com/9977?format=jpg)](https://design.withfudge.com/share/pin-9977)
+[![Hero section with bold yellow background, oversized black Syne typography spelling NEUBRUTALISM, and three stacked code-example cards with hard shadows on the right](https://pin.fontofweb.com/9977?format=jpg)](https://fudge.design/share/pin-9977)
 
-[Hero section with bold yellow background, oversized black Syne typography spelling NEUBRUTALISM, and three stacked code-example cards with hard shadows on the right](https://design.withfudge.com/share/pin-9977)
+[Hero section with bold yellow background, oversized black Syne typography spelling NEUBRUTALISM, and three stacked code-example cards with hard shadows on the right](https://fudge.design/share/pin-9977)
 
-[![Dark mode content section with navy background, white Space Grotesk heading, body text with yellow highlighted terms, and a pull-quote card with olive background](https://pin.fontofweb.com/9976?format=jpg)](https://design.withfudge.com/share/pin-9976)
+[![Dark mode content section with navy background, white Space Grotesk heading, body text with yellow highlighted terms, and a pull-quote card with olive background](https://pin.fontofweb.com/9976?format=jpg)](https://fudge.design/share/pin-9976)
 
-[Dark mode content section with navy background, white Space Grotesk heading, body text with yellow highlighted terms, and a pull-quote card with olive background](https://design.withfudge.com/share/pin-9976)
+[Dark mode content section with navy background, white Space Grotesk heading, body text with yellow highlighted terms, and a pull-quote card with olive background](https://fudge.design/share/pin-9976)
 
-[![Dark mode definition section showing section label, large heading, multi-paragraph body with bold emphasis, and a right-aligned quote block with decorative quotation marks](https://pin.fontofweb.com/9975?format=jpg)](https://design.withfudge.com/share/pin-9975)
+[![Dark mode definition section showing section label, large heading, multi-paragraph body with bold emphasis, and a right-aligned quote block with decorative quotation marks](https://pin.fontofweb.com/9975?format=jpg)](https://fudge.design/share/pin-9975)
 
-[Dark mode definition section showing section label, large heading, multi-paragraph body with bold emphasis, and a right-aligned quote block with decorative quotation marks](https://design.withfudge.com/share/pin-9975)
+[Dark mode definition section showing section label, large heading, multi-paragraph body with bold emphasis, and a right-aligned quote block with decorative quotation marks](https://fudge.design/share/pin-9975)
 
 ## Overview
 
@@ -191,3 +191,18 @@ Dark mode should persist across breakpoints without structural changes—the col
 ## Scope note
 
 This guide covers the homepage and definition section visible in the supplied images. Interior pages for Visual DNA, Fonts, History, Code, Usage, Ecosystem, and Future are not documented. Mobile breakpoints, hover states, focus styles, loading sequences, and form interactions are not represented in the available material. Applesystem, Bricolage Grotesque 36 Pt 36 Pt, and Arial appear in the detected font list but are not used as primary interface typography in the visible sections.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

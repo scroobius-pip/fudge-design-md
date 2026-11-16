@@ -1,26 +1,26 @@
 # How lovable.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lovable.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/lovable.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with vibrant blue-to-pink-to-orange gradient background, centered headline, and dark rounded prompt input field](https://pin.fontofweb.com/7240?format=jpg)](https://design.withfudge.com/share/pin-7240)
+[![Hero section with vibrant blue-to-pink-to-orange gradient background, centered headline, and dark rounded prompt input field](https://pin.fontofweb.com/7240?format=jpg)](https://fudge.design/share/pin-7240)
 
-[Hero section with vibrant blue-to-pink-to-orange gradient background, centered headline, and dark rounded prompt input field](https://design.withfudge.com/share/pin-7240)
+[Hero section with vibrant blue-to-pink-to-orange gradient background, centered headline, and dark rounded prompt input field](https://fudge.design/share/pin-7240)
 
-[![Footer area with dark card containing multi-column link grid and colorful gradient backdrop behind the card](https://pin.fontofweb.com/7243?format=jpg)](https://design.withfudge.com/share/pin-7243)
+[![Footer area with dark card containing multi-column link grid and colorful gradient backdrop behind the card](https://pin.fontofweb.com/7243?format=jpg)](https://fudge.design/share/pin-7243)
 
-[Footer area with dark card containing multi-column link grid and colorful gradient backdrop behind the card](https://design.withfudge.com/share/pin-7243)
+[Footer area with dark card containing multi-column link grid and colorful gradient backdrop behind the card](https://fudge.design/share/pin-7243)
 
-[![Template gallery grid showing eight project thumbnails with titles and descriptions on dark background](https://pin.fontofweb.com/7242?format=jpg)](https://design.withfudge.com/share/pin-7242)
+[![Template gallery grid showing eight project thumbnails with titles and descriptions on dark background](https://pin.fontofweb.com/7242?format=jpg)](https://fudge.design/share/pin-7242)
 
-[Template gallery grid showing eight project thumbnails with titles and descriptions on dark background](https://design.withfudge.com/share/pin-7242)
+[Template gallery grid showing eight project thumbnails with titles and descriptions on dark background](https://fudge.design/share/pin-7242)
 
-[![Feature section with large 3D gradient sphere in dark rounded panel and three-step process list with muted text hierarchy](https://pin.fontofweb.com/7241?format=jpg)](https://design.withfudge.com/share/pin-7241)
+[![Feature section with large 3D gradient sphere in dark rounded panel and three-step process list with muted text hierarchy](https://pin.fontofweb.com/7241?format=jpg)](https://fudge.design/share/pin-7241)
 
-[Feature section with large 3D gradient sphere in dark rounded panel and three-step process list with muted text hierarchy](https://design.withfudge.com/share/pin-7241)
+[Feature section with large 3D gradient sphere in dark rounded panel and three-step process list with muted text hierarchy](https://fudge.design/share/pin-7241)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The four-column template grid should collapse to two columns on tablet and singl
 ## Scope note
 
 This guide covers the Lovable homepage including the hero, template gallery, feature section, and footer. Mobile breakpoints, animation specifications, form validation states, and interior pages are not represented in the provided material. The rounded gradient sphere and template thumbnail imagery are content assets rather than UI components.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

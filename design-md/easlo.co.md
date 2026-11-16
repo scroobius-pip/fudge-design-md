@@ -1,22 +1,22 @@
 # How easlo.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/easlo.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/easlo.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Apps grid section with four app icons on rounded square tiles, footer with Easlo logo, social links, and multi-column navigation](https://pin.fontofweb.com/2536?format=jpg)](https://design.withfudge.com/share/pin-2536)
+[![Apps grid section with four app icons on rounded square tiles, footer with Easlo logo, social links, and multi-column navigation](https://pin.fontofweb.com/2536?format=jpg)](https://fudge.design/share/pin-2536)
 
-[Apps grid section with four app icons on rounded square tiles, footer with Easlo logo, social links, and multi-column navigation](https://design.withfudge.com/share/pin-2536)
+[Apps grid section with four app icons on rounded square tiles, footer with Easlo logo, social links, and multi-column navigation](https://fudge.design/share/pin-2536)
 
-[![Second Brain product hero with centered headline, black pill button, and device mockup showing Notion template interface](https://pin.fontofweb.com/2535?format=jpg)](https://design.withfudge.com/share/pin-2535)
+[![Second Brain product hero with centered headline, black pill button, and device mockup showing Notion template interface](https://pin.fontofweb.com/2535?format=jpg)](https://fudge.design/share/pin-2535)
 
-[Second Brain product hero with centered headline, black pill button, and device mockup showing Notion template interface](https://design.withfudge.com/share/pin-2535)
+[Second Brain product hero with centered headline, black pill button, and device mockup showing Notion template interface](https://fudge.design/share/pin-2535)
 
-[![Top navigation bar with Easlo logo, text links, and two pill buttons including a black primary action](https://pin.fontofweb.com/2533?format=jpg)](https://design.withfudge.com/share/pin-2533)
+[![Top navigation bar with Easlo logo, text links, and two pill buttons including a black primary action](https://pin.fontofweb.com/2533?format=jpg)](https://fudge.design/share/pin-2533)
 
-[Top navigation bar with Easlo logo, text links, and two pill buttons including a black primary action](https://design.withfudge.com/share/pin-2533)
+[Top navigation bar with Easlo logo, text links, and two pill buttons including a black primary action](https://fudge.design/share/pin-2533)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The supplied images show desktop-width compositions exclusively. Based on the vi
 ## Scope note
 
 This guide covers the Easlo homepage and product showcase surfaces visible in the supplied images. Mobile layouts, animation, form interactions, and template marketplace pages are not represented. Measurements are practical adaptation targets derived from the visible desktop compositions.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

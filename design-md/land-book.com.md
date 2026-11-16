@@ -1,26 +1,26 @@
 # How land-book.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/land-book.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/land-book.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, pricing card, and dark UI mockup showing website gallery grid with category pills](https://pin.fontofweb.com/10108?format=jpg)](https://design.withfudge.com/share/pin-10108)
+[![Hero section with large display headline, pricing card, and dark UI mockup showing website gallery grid with category pills](https://pin.fontofweb.com/10108?format=jpg)](https://fudge.design/share/pin-10108)
 
-[Hero section with large display headline, pricing card, and dark UI mockup showing website gallery grid with category pills](https://design.withfudge.com/share/pin-10108)
+[Hero section with large display headline, pricing card, and dark UI mockup showing website gallery grid with category pills](https://fudge.design/share/pin-10108)
 
-[![Testimonial carousel with four white cards containing user quotes, avatar circles, and horizontal scrollbar](https://pin.fontofweb.com/10107?format=jpg)](https://design.withfudge.com/share/pin-10107)
+[![Testimonial carousel with four white cards containing user quotes, avatar circles, and horizontal scrollbar](https://pin.fontofweb.com/10107?format=jpg)](https://fudge.design/share/pin-10107)
 
-[Testimonial carousel with four white cards containing user quotes, avatar circles, and horizontal scrollbar](https://design.withfudge.com/share/pin-10107)
+[Testimonial carousel with four white cards containing user quotes, avatar circles, and horizontal scrollbar](https://fudge.design/share/pin-10107)
 
-[![Feature section with accordion list and dotted-grid canvas showing draggable website screenshot cards](https://pin.fontofweb.com/10106?format=jpg)](https://design.withfudge.com/share/pin-10106)
+[![Feature section with accordion list and dotted-grid canvas showing draggable website screenshot cards](https://pin.fontofweb.com/10106?format=jpg)](https://fudge.design/share/pin-10106)
 
-[Feature section with accordion list and dotted-grid canvas showing draggable website screenshot cards](https://design.withfudge.com/share/pin-10106)
+[Feature section with accordion list and dotted-grid canvas showing draggable website screenshot cards](https://fudge.design/share/pin-10106)
 
-[![Expanded accordion state revealing descriptive text alongside scattered website preview cards on dotted background](https://pin.fontofweb.com/10105?format=jpg)](https://design.withfudge.com/share/pin-10105)
+[![Expanded accordion state revealing descriptive text alongside scattered website preview cards on dotted background](https://pin.fontofweb.com/10105?format=jpg)](https://fudge.design/share/pin-10105)
 
-[Expanded accordion state revealing descriptive text alongside scattered website preview cards on dotted background](https://design.withfudge.com/share/pin-10105)
+[Expanded accordion state revealing descriptive text alongside scattered website preview cards on dotted background](https://fudge.design/share/pin-10105)
 
 ## Overview
 
@@ -210,3 +210,18 @@ Grid layouts using the 4px gutter system should transition to 2-column then sing
 ## Scope note
 
 This guide covers the Land-book marketing and product experience pages visible in the supplied imagery, including hero sections, feature accordions, testimonial carousels, and dotted-grid canvases. Mobile breakpoints, animation specifications, form validation states, and the full website gallery browsing interface are not represented in the available material. The dark UI mockups within promotional imagery demonstrate product context but are not part of the design system tokens. Applesystem and Times are recorded in the source but do not appear as active visual typefaces in the rendered interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

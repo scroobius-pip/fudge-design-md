@@ -1,22 +1,22 @@
 # How ngs24.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ngs24.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/ngs24.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News article with full-width photograph of garbage bags along a curb, featuring dark slate body text and light gray metadata line below the image](https://pin.fontofweb.com/9098?format=jpg)](https://design.withfudge.com/share/pin-9098)
+[![News article with full-width photograph of garbage bags along a curb, featuring dark slate body text and light gray metadata line below the image](https://pin.fontofweb.com/9098?format=jpg)](https://fudge.design/share/pin-9098)
 
-[News article with full-width photograph of garbage bags along a curb, featuring dark slate body text and light gray metadata line below the image](https://design.withfudge.com/share/pin-9098)
+[News article with full-width photograph of garbage bags along a curb, featuring dark slate body text and light gray metadata line below the image](https://fudge.design/share/pin-9098)
 
-[![Beauty pageant article with three-panel diagonal photo composition, white background, and dark gray headline with attribution line](https://pin.fontofweb.com/9097?format=jpg)](https://design.withfudge.com/share/pin-9097)
+[![Beauty pageant article with three-panel diagonal photo composition, white background, and dark gray headline with attribution line](https://pin.fontofweb.com/9097?format=jpg)](https://fudge.design/share/pin-9097)
 
-[Beauty pageant article with three-panel diagonal photo composition, white background, and dark gray headline with attribution line](https://design.withfudge.com/share/pin-9097)
+[Beauty pageant article with three-panel diagonal photo composition, white background, and dark gray headline with attribution line](https://fudge.design/share/pin-9097)
 
-[![Animal welfare article with circular cropped dog portrait overlapping a residential tower photograph, white text on dark overlay elements](https://pin.fontofweb.com/9096?format=jpg)](https://design.withfudge.com/share/pin-9096)
+[![Animal welfare article with circular cropped dog portrait overlapping a residential tower photograph, white text on dark overlay elements](https://pin.fontofweb.com/9096?format=jpg)](https://fudge.design/share/pin-9096)
 
-[Animal welfare article with circular cropped dog portrait overlapping a residential tower photograph, white text on dark overlay elements](https://design.withfudge.com/share/pin-9096)
+[Animal welfare article with circular cropped dog portrait overlapping a residential tower photograph, white text on dark overlay elements](https://fudge.design/share/pin-9096)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The single-column layout adapts naturally to narrower viewports without structur
 ## Scope note
 
 This guide covers article page surfaces from the NGS24.ru news portal. Navigation headers, footers, category listing pages, search interfaces, and comment sections are not represented in the supplied material. Interactive states, advertising placements, and video embed treatments are not documented. Measurements reflect the visible implementation targets from the provided pages.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

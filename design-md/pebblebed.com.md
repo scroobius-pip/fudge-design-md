@@ -1,26 +1,26 @@
 # How pebblebed.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pebblebed.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pebblebed.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Events page showing two-column event cards with serif headings, mono body text, and magenta pagination accents on a warm off-white canvas.](https://pin.fontofweb.com/9836?format=jpg)](https://design.withfudge.com/share/pin-9836)
+[![Events page showing two-column event cards with serif headings, mono body text, and magenta pagination accents on a warm off-white canvas.](https://pin.fontofweb.com/9836?format=jpg)](https://fudge.design/share/pin-9836)
 
-[Events page showing two-column event cards with serif headings, mono body text, and magenta pagination accents on a warm off-white canvas.](https://design.withfudge.com/share/pin-9836)
+[Events page showing two-column event cards with serif headings, mono body text, and magenta pagination accents on a warm off-white canvas.](https://fudge.design/share/pin-9836)
 
-[![Careers page featuring a centered job posting with tabbed navigation, underlined email link in magenta, and a decorative circular badge around the active nav item.](https://pin.fontofweb.com/9835?format=jpg)](https://design.withfudge.com/share/pin-9835)
+[![Careers page featuring a centered job posting with tabbed navigation, underlined email link in magenta, and a decorative circular badge around the active nav item.](https://pin.fontofweb.com/9835?format=jpg)](https://fudge.design/share/pin-9835)
 
-[Careers page featuring a centered job posting with tabbed navigation, underlined email link in magenta, and a decorative circular badge around the active nav item.](https://design.withfudge.com/share/pin-9835)
+[Careers page featuring a centered job posting with tabbed navigation, underlined email link in magenta, and a decorative circular badge around the active nav item.](https://fudge.design/share/pin-9835)
 
-[![Team member profile for Keith Adams with large serif name, mono biography text, and a writing list with date stamps in muted gray.](https://pin.fontofweb.com/9834?format=jpg)](https://design.withfudge.com/share/pin-9834)
+[![Team member profile for Keith Adams with large serif name, mono biography text, and a writing list with date stamps in muted gray.](https://pin.fontofweb.com/9834?format=jpg)](https://fudge.design/share/pin-9834)
 
-[Team member profile for Keith Adams with large serif name, mono biography text, and a writing list with date stamps in muted gray.](https://design.withfudge.com/share/pin-9834)
+[Team member profile for Keith Adams with large serif name, mono biography text, and a writing list with date stamps in muted gray.](https://fudge.design/share/pin-9834)
 
-[![Blog article body showing dense mono text with inline links, footnote markers, and a minimal footer with render mode toggle in magenta.](https://pin.fontofweb.com/9833?format=jpg)](https://design.withfudge.com/share/pin-9833)
+[![Blog article body showing dense mono text with inline links, footnote markers, and a minimal footer with render mode toggle in magenta.](https://pin.fontofweb.com/9833?format=jpg)](https://fudge.design/share/pin-9833)
 
-[Blog article body showing dense mono text with inline links, footnote markers, and a minimal footer with render mode toggle in magenta.](https://design.withfudge.com/share/pin-9833)
+[Blog article body showing dense mono text with inline links, footnote markers, and a minimal footer with render mode toggle in magenta.](https://fudge.design/share/pin-9833)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The generous whitespace and mono body text suggest that readability, not density
 ## Scope note
 
 This guide covers the desktop experience of Pebblebed's marketing pages, including events, careers, team profiles, and blog content. Mobile breakpoints, hover and focus states, form validation, loading indicators, and dark mode are not represented in the supplied material. The circular active-navigation decoration and its exact drawing mechanism are described from visible appearance rather than confirmed implementation detail.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Right rail table of contents](/share/designs-with-layout.feature.right_rail_toc)
+- [Side navigation](/share/designs-with-layout.shell.side_nav)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

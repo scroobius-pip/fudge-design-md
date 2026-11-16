@@ -1,26 +1,26 @@
 # How ecosia.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ecosia.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/ecosia.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark background, bold condensed headline, green pill-shaped CTA button, and stylized tree illustration row above a multi-column footer with B Corp certification](https://pin.fontofweb.com/3246?format=jpg)](https://design.withfudge.com/share/pin-3246)
+[![Hero section with dark background, bold condensed headline, green pill-shaped CTA button, and stylized tree illustration row above a multi-column footer with B Corp certification](https://pin.fontofweb.com/3246?format=jpg)](https://fudge.design/share/pin-3246)
 
-[Hero section with dark background, bold condensed headline, green pill-shaped CTA button, and stylized tree illustration row above a multi-column footer with B Corp certification](https://design.withfudge.com/share/pin-3246)
+[Hero section with dark background, bold condensed headline, green pill-shaped CTA button, and stylized tree illustration row above a multi-column footer with B Corp certification](https://fudge.design/share/pin-3246)
 
-[![Financial report section with yellow accent label, large condensed revenue figure in a dark card, and four illustrated value propositions in a two-column grid with bold headings.](https://pin.fontofweb.com/3245?format=jpg)](https://design.withfudge.com/share/pin-3245)
+[![Financial report section with yellow accent label, large condensed revenue figure in a dark card, and four illustrated value propositions in a two-column grid with bold headings.](https://pin.fontofweb.com/3245?format=jpg)](https://fudge.design/share/pin-3245)
 
-[Financial report section with yellow accent label, large condensed revenue figure in a dark card, and four illustrated value propositions in a two-column grid with bold headings.](https://design.withfudge.com/share/pin-3245)
+[Financial report section with yellow accent label, large condensed revenue figure in a dark card, and four illustrated value propositions in a two-column grid with bold headings.](https://fudge.design/share/pin-3245)
 
-[![Global impact map with dark green continent silhouettes, colorful tree icons marking planting locations, large white statistics, and a centered dark pill button below.](https://pin.fontofweb.com/3244?format=jpg)](https://design.withfudge.com/share/pin-3244)
+[![Global impact map with dark green continent silhouettes, colorful tree icons marking planting locations, large white statistics, and a centered dark pill button below.](https://pin.fontofweb.com/3244?format=jpg)](https://fudge.design/share/pin-3244)
 
-[Global impact map with dark green continent silhouettes, colorful tree icons marking planting locations, large white statistics, and a centered dark pill button below.](https://design.withfudge.com/share/pin-3244)
+[Global impact map with dark green continent silhouettes, colorful tree icons marking planting locations, large white statistics, and a centered dark pill button below.](https://fudge.design/share/pin-3244)
 
-[![Project location card with photograph of a person in a field, wavy bottom edge transition, yellow background, bold heading, body text, and outlined pill button.](https://pin.fontofweb.com/3243?format=jpg)](https://design.withfudge.com/share/pin-3243)
+[![Project location card with photograph of a person in a field, wavy bottom edge transition, yellow background, bold heading, body text, and outlined pill button.](https://pin.fontofweb.com/3243?format=jpg)](https://fudge.design/share/pin-3243)
 
-[Project location card with photograph of a person in a field, wavy bottom edge transition, yellow background, bold heading, body text, and outlined pill button.](https://design.withfudge.com/share/pin-3243)
+[Project location card with photograph of a person in a field, wavy bottom edge transition, yellow background, bold heading, body text, and outlined pill button.](https://fudge.design/share/pin-3243)
 
 ## Overview
 
@@ -198,3 +198,18 @@ The world map visualization should scale to fit viewport width while maintaining
 ## Scope note
 
 This guide covers the Ecosia homepage including hero, financial transparency, value propositions, global impact visualization, project cards, and footer. Interior pages, search results, browser extension interfaces, and mobile-specific layouts are not represented. Motion, loading states, and form interactions are not documented. Measurements are practical adaptation targets derived from visual inspection of the supplied desktop viewport captures.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

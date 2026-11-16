@@ -1,22 +1,22 @@
 # How early.works is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/early.works-design)
+[Open the live Fudge conversation](https://fudge.design/share/early.works-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with centered body text, thin horizontal rule, timezone clocks, contact emails, and hamburger menu on black background](https://pin.fontofweb.com/2246?format=jpg)](https://design.withfudge.com/share/pin-2246)
+[![Footer section with centered body text, thin horizontal rule, timezone clocks, contact emails, and hamburger menu on black background](https://pin.fontofweb.com/2246?format=jpg)](https://fudge.design/share/pin-2246)
 
-[Footer section with centered body text, thin horizontal rule, timezone clocks, contact emails, and hamburger menu on black background](https://design.withfudge.com/share/pin-2246)
+[Footer section with centered body text, thin horizontal rule, timezone clocks, contact emails, and hamburger menu on black background](https://fudge.design/share/pin-2246)
 
-[![Team section with large serif headline, decorative line-art hands and swan, and four grayscale portrait photographs in a row](https://pin.fontofweb.com/2245?format=jpg)](https://design.withfudge.com/share/pin-2245)
+[![Team section with large serif headline, decorative line-art hands and swan, and four grayscale portrait photographs in a row](https://pin.fontofweb.com/2245?format=jpg)](https://fudge.design/share/pin-2245)
 
-[Team section with large serif headline, decorative line-art hands and swan, and four grayscale portrait photographs in a row](https://design.withfudge.com/share/pin-2245)
+[Team section with large serif headline, decorative line-art hands and swan, and four grayscale portrait photographs in a row](https://fudge.design/share/pin-2245)
 
-[![Hero section with centered serif headline, geometric line illustrations, navigation bar with logo dot, and dark UI mockup with icon toolbar](https://pin.fontofweb.com/2244?format=jpg)](https://design.withfudge.com/share/pin-2244)
+[![Hero section with centered serif headline, geometric line illustrations, navigation bar with logo dot, and dark UI mockup with icon toolbar](https://pin.fontofweb.com/2244?format=jpg)](https://fudge.design/share/pin-2244)
 
-[Hero section with centered serif headline, geometric line illustrations, navigation bar with logo dot, and dark UI mockup with icon toolbar](https://design.withfudge.com/share/pin-2244)
+[Hero section with centered serif headline, geometric line illustrations, navigation bar with logo dot, and dark UI mockup with icon toolbar](https://fudge.design/share/pin-2244)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Product mockup panels with icon toolbars should allow horizontal scrolling or wr
 ## Scope note
 
 This guide covers the homepage surface of early.works as visible in the supplied images, including the hero, team section, product capability mockup, and footer. Measurements are practical adaptation targets. Unseen interior pages, mobile breakpoints, hover states, form interactions, and motion behavior are not included. The icon font used for toolbar symbols is not documented as typography.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

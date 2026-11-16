@@ -1,18 +1,18 @@
 # How samspratt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/samspratt.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/samspratt.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sam Spratt Archive story page showing the Luci chapter index with concentric circular diagram, left sidebar navigation with numbered chapters, and category filter tabs](https://pin.fontofweb.com/9182?format=jpg)](https://design.withfudge.com/share/pin-9182)
+[![Sam Spratt Archive story page showing the Luci chapter index with concentric circular diagram, left sidebar navigation with numbered chapters, and category filter tabs](https://pin.fontofweb.com/9182?format=jpg)](https://fudge.design/share/pin-9182)
 
-[Sam Spratt Archive story page showing the Luci chapter index with concentric circular diagram, left sidebar navigation with numbered chapters, and category filter tabs](https://design.withfudge.com/share/pin-9182)
+[Sam Spratt Archive story page showing the Luci chapter index with concentric circular diagram, left sidebar navigation with numbered chapters, and category filter tabs](https://fudge.design/share/pin-9182)
 
-[![Sam Spratt Archive story page with active radial selection line connecting sidebar to the circular diagram, showing interactive node highlighting](https://pin.fontofweb.com/9181?format=jpg)](https://design.withfudge.com/share/pin-9181)
+[![Sam Spratt Archive story page with active radial selection line connecting sidebar to the circular diagram, showing interactive node highlighting](https://pin.fontofweb.com/9181?format=jpg)](https://fudge.design/share/pin-9181)
 
-[Sam Spratt Archive story page with active radial selection line connecting sidebar to the circular diagram, showing interactive node highlighting](https://design.withfudge.com/share/pin-9181)
+[Sam Spratt Archive story page with active radial selection line connecting sidebar to the circular diagram, showing interactive node highlighting](https://fudge.design/share/pin-9181)
 
 ## Overview
 
@@ -153,3 +153,18 @@ Touch interaction would replace hover states; the radial diagram should support 
 ## Scope note
 
 This guide covers the Sam Spratt Archive story page with its radial diagram navigation and chapter index. The full site may include additional page types, artwork galleries, and transactional flows not represented here. Motion behavior, mobile adaptations, and disabled or error states are not documented from the available material. Measurements are drawn from the exact values supplied.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Portfolio](/share/designs-with-offering.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

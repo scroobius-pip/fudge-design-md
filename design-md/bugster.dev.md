@@ -1,26 +1,26 @@
 # How bugster.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bugster.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/bugster.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Stack integration section with blue chameleon mascot, framework cards, and checkmark badges on warm off-white canvas](https://pin.fontofweb.com/3859?format=jpg)](https://design.withfudge.com/share/pin-3859)
+[![Stack integration section with blue chameleon mascot, framework cards, and checkmark badges on warm off-white canvas](https://pin.fontofweb.com/3859?format=jpg)](https://fudge.design/share/pin-3859)
 
-[Stack integration section with blue chameleon mascot, framework cards, and checkmark badges on warm off-white canvas](https://design.withfudge.com/share/pin-3859)
+[Stack integration section with blue chameleon mascot, framework cards, and checkmark badges on warm off-white canvas](https://fudge.design/share/pin-3859)
 
-[![Social proof carousel with monospace testimonial quote, star rating, and decorative cloud illustrations on textured background](https://pin.fontofweb.com/3858?format=jpg)](https://design.withfudge.com/share/pin-3858)
+[![Social proof carousel with monospace testimonial quote, star rating, and decorative cloud illustrations on textured background](https://pin.fontofweb.com/3858?format=jpg)](https://fudge.design/share/pin-3858)
 
-[Social proof carousel with monospace testimonial quote, star rating, and decorative cloud illustrations on textured background](https://design.withfudge.com/share/pin-3858)
+[Social proof carousel with monospace testimonial quote, star rating, and decorative cloud illustrations on textured background](https://fudge.design/share/pin-3858)
 
-[![FAQ accordion with bold section heading, horizontal rules, and expand/collapse chevron indicators](https://pin.fontofweb.com/3857?format=jpg)](https://design.withfudge.com/share/pin-3857)
+[![FAQ accordion with bold section heading, horizontal rules, and expand/collapse chevron indicators](https://pin.fontofweb.com/3857?format=jpg)](https://fudge.design/share/pin-3857)
 
-[FAQ accordion with bold section heading, horizontal rules, and expand/collapse chevron indicators](https://design.withfudge.com/share/pin-3857)
+[FAQ accordion with bold section heading, horizontal rules, and expand/collapse chevron indicators](https://fudge.design/share/pin-3857)
 
-[![CTA browser window with chameleon trio illustration, dual action buttons, and multi-column footer with code bracket mascot](https://pin.fontofweb.com/3856?format=jpg)](https://design.withfudge.com/share/pin-3856)
+[![CTA browser window with chameleon trio illustration, dual action buttons, and multi-column footer with code bracket mascot](https://pin.fontofweb.com/3856?format=jpg)](https://fudge.design/share/pin-3856)
 
-[CTA browser window with chameleon trio illustration, dual action buttons, and multi-column footer with code bracket mascot](https://design.withfudge.com/share/pin-3856)
+[CTA browser window with chameleon trio illustration, dual action buttons, and multi-column footer with code bracket mascot](https://fudge.design/share/pin-3856)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The footer multi-column grid should collapse to stacked sections on mobile: logo
 ## Scope note
 
 This guide covers the Bugster marketing page surface visible in the supplied images: integration stack, social proof, FAQ, CTA, and footer sections. Navigation, pricing tables, documentation pages, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid. Motion, hover states, and form interactions are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

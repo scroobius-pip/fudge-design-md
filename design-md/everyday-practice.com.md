@@ -1,26 +1,26 @@
 # How everyday-practice.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/everyday-practice.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/everyday-practice.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/share/pin-10374)
+[![Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://pin.fontofweb.com/10374?format=jpg)](https://fudge.design/share/pin-10374)
 
-[Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://design.withfudge.com/share/pin-10374)
+[Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://fudge.design/share/pin-10374)
 
-[![Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/share/pin-10373)
+[![Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://pin.fontofweb.com/10373?format=jpg)](https://fudge.design/share/pin-10373)
 
-[Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://design.withfudge.com/share/pin-10373)
+[Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://fudge.design/share/pin-10373)
 
-[![Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/share/pin-10372)
+[![Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://pin.fontofweb.com/10372?format=jpg)](https://fudge.design/share/pin-10372)
 
-[Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://design.withfudge.com/share/pin-10372)
+[Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://fudge.design/share/pin-10372)
 
-[![Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/share/pin-10371)
+[![Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://pin.fontofweb.com/10371?format=jpg)](https://fudge.design/share/pin-10371)
 
-[Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://design.withfudge.com/share/pin-10371)
+[Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://fudge.design/share/pin-10371)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Typography scales down modestly if at all—the already-small sizes provide reas
 ## Scope note
 
 This guide covers the desktop portfolio and contact surfaces visible in the supplied captures. Mobile breakpoints, hover and focus states, loading behavior, and project detail page transitions are not represented. The member directory and exhibition history appear on the homepage right panel; their full content hierarchy is partially visible. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

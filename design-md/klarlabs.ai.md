@@ -1,26 +1,26 @@
 # How klarlabs.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/klarlabs.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/klarlabs.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with oversized serif display reading 'Simple pricing' against near-black background with tiered plan layout below](https://pin.fontofweb.com/10086?format=jpg)](https://design.withfudge.com/share/pin-10086)
+[![Pricing page hero with oversized serif display reading 'Simple pricing' against near-black background with tiered plan layout below](https://pin.fontofweb.com/10086?format=jpg)](https://fudge.design/share/pin-10086)
 
-[Pricing page hero with oversized serif display reading 'Simple pricing' against near-black background with tiered plan layout below](https://design.withfudge.com/share/pin-10086)
+[Pricing page hero with oversized serif display reading 'Simple pricing' against near-black background with tiered plan layout below](https://fudge.design/share/pin-10086)
 
-[![Footer with six-column link grid, social links, and theme toggle controls on dark background](https://pin.fontofweb.com/10085?format=jpg)](https://design.withfudge.com/share/pin-10085)
+[![Footer with six-column link grid, social links, and theme toggle controls on dark background](https://pin.fontofweb.com/10085?format=jpg)](https://fudge.design/share/pin-10085)
 
-[Footer with six-column link grid, social links, and theme toggle controls on dark background](https://design.withfudge.com/share/pin-10085)
+[Footer with six-column link grid, social links, and theme toggle controls on dark background](https://fudge.design/share/pin-10085)
 
-[![FAQ section with left-aligned section label and accordion-style question-answer pairs in two-tone typography](https://pin.fontofweb.com/10084?format=jpg)](https://design.withfudge.com/share/pin-10084)
+[![FAQ section with left-aligned section label and accordion-style question-answer pairs in two-tone typography](https://pin.fontofweb.com/10084?format=jpg)](https://fudge.design/share/pin-10084)
 
-[FAQ section with left-aligned section label and accordion-style question-answer pairs in two-tone typography](https://design.withfudge.com/share/pin-10084)
+[FAQ section with left-aligned section label and accordion-style question-answer pairs in two-tone typography](https://fudge.design/share/pin-10084)
 
-[![Comparison page feature breakdown with serif headline, labeled list sections, and muted body text with em-dash bullets](https://pin.fontofweb.com/10083?format=jpg)](https://design.withfudge.com/share/pin-10083)
+[![Comparison page feature breakdown with serif headline, labeled list sections, and muted body text with em-dash bullets](https://pin.fontofweb.com/10083?format=jpg)](https://fudge.design/share/pin-10083)
 
-[Comparison page feature breakdown with serif headline, labeled list sections, and muted body text with em-dash bullets](https://design.withfudge.com/share/pin-10083)
+[Comparison page feature breakdown with serif headline, labeled list sections, and muted body text with em-dash bullets](https://fudge.design/share/pin-10083)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Navigation actions in the header may consolidate into a menu trigger at small wi
 ## Scope note
 
 This guide covers the pricing and comparison page surfaces visible in the supplied material. Mobile layouts, breakpoint behavior, form interactions, loading states, and motion design are not included. The spacing and type scales reflect exact values from the retained interface measurements. Applesystem appears only as a fallback family in system-level regions and is not part of the intentional visual hierarchy.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

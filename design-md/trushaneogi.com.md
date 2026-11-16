@@ -1,26 +1,26 @@
 # How trushaneogi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trushaneogi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/trushaneogi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About section with laptop mockup and biographical text in muted gray on white background](https://pin.fontofweb.com/5884?format=jpg)](https://design.withfudge.com/share/pin-5884)
+[![About section with laptop mockup and biographical text in muted gray on white background](https://pin.fontofweb.com/5884?format=jpg)](https://fudge.design/share/pin-5884)
 
-[About section with laptop mockup and biographical text in muted gray on white background](https://design.withfudge.com/share/pin-5884)
+[About section with laptop mockup and biographical text in muted gray on white background](https://fudge.design/share/pin-5884)
 
-[![Dark testimonial carousel with large white heading and quote card on charcoal surface](https://pin.fontofweb.com/5883?format=jpg)](https://design.withfudge.com/share/pin-5883)
+[![Dark testimonial carousel with large white heading and quote card on charcoal surface](https://pin.fontofweb.com/5883?format=jpg)](https://fudge.design/share/pin-5883)
 
-[Dark testimonial carousel with large white heading and quote card on charcoal surface](https://design.withfudge.com/share/pin-5883)
+[Dark testimonial carousel with large white heading and quote card on charcoal surface](https://fudge.design/share/pin-5883)
 
-[![Footer area with oversized 'trusha.' display type, social links, and handwritten signature mark](https://pin.fontofweb.com/5882?format=jpg)](https://design.withfudge.com/share/pin-5882)
+[![Footer area with oversized 'trusha.' display type, social links, and handwritten signature mark](https://pin.fontofweb.com/5882?format=jpg)](https://fudge.design/share/pin-5882)
 
-[Footer area with oversized 'trusha.' display type, social links, and handwritten signature mark](https://design.withfudge.com/share/pin-5882)
+[Footer area with oversized 'trusha.' display type, social links, and handwritten signature mark](https://fudge.design/share/pin-5882)
 
-[![Hero section with mixed serif and italic headline above scattered personal cards on white canvas](https://pin.fontofweb.com/5881?format=jpg)](https://design.withfudge.com/share/pin-5881)
+[![Hero section with mixed serif and italic headline above scattered personal cards on white canvas](https://pin.fontofweb.com/5881?format=jpg)](https://fudge.design/share/pin-5881)
 
-[Hero section with mixed serif and italic headline above scattered personal cards on white canvas](https://design.withfudge.com/share/pin-5881)
+[Hero section with mixed serif and italic headline above scattered personal cards on white canvas](https://fudge.design/share/pin-5881)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The design's generous whitespace and centered compositions suggest natural adapt
 ## Scope note
 
 This guide covers the visible homepage surface including hero, about, testimonials, and footer sections. Navigation behavior, mobile breakpoints, carousel interaction details, and project case study pages are not represented in the supplied material. Measurements are practical adaptation targets. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Personal](/share/designs-with-industry.personal)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How quiver.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/quiver.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/quiver.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display headline, product demo mockup showing vectorized dog illustration, and dual pill-shaped CTAs on a near-white canvas](https://pin.fontofweb.com/7618?format=jpg)](https://design.withfudge.com/share/pin-7618)
+[![Hero section with large display headline, product demo mockup showing vectorized dog illustration, and dual pill-shaped CTAs on a near-white canvas](https://pin.fontofweb.com/7618?format=jpg)](https://fudge.design/share/pin-7618)
 
-[Hero section with large display headline, product demo mockup showing vectorized dog illustration, and dual pill-shaped CTAs on a near-white canvas](https://design.withfudge.com/share/pin-7618)
+[Hero section with large display headline, product demo mockup showing vectorized dog illustration, and dual pill-shaped CTAs on a near-white canvas](https://fudge.design/share/pin-7618)
 
-[![Use cases section with left-aligned feature copy, dark pill CTA, and right-side wireframe grid mockup demonstrating vector editing precision](https://pin.fontofweb.com/7617?format=jpg)](https://design.withfudge.com/share/pin-7617)
+[![Use cases section with left-aligned feature copy, dark pill CTA, and right-side wireframe grid mockup demonstrating vector editing precision](https://pin.fontofweb.com/7617?format=jpg)](https://fudge.design/share/pin-7617)
 
-[Use cases section with left-aligned feature copy, dark pill CTA, and right-side wireframe grid mockup demonstrating vector editing precision](https://design.withfudge.com/share/pin-7617)
+[Use cases section with left-aligned feature copy, dark pill CTA, and right-side wireframe grid mockup demonstrating vector editing precision](https://fudge.design/share/pin-7617)
 
 ## Overview
 
@@ -140,3 +140,18 @@ Touch targets for the small 11px CTA buttons should be increased to at least 44p
 ## Scope note
 
 This guide covers the QuiverAI homepage and its primary marketing sections, including the hero, use-cases feature blocks, and global navigation. Pricing, documentation, authenticated application interfaces, and mobile-specific layouts are not represented in the supplied material. Motion, hover states, and form interactions are not documented. Measurements are drawn from the exact values present in the interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

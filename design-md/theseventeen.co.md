@@ -1,22 +1,22 @@
 # How theseventeen.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/theseventeen.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/theseventeen.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with italic blue 'Maybe' display text and navigation bar with filled Home button](https://pin.fontofweb.com/7306?format=jpg)](https://design.withfudge.com/share/pin-7306)
+[![Hero section with italic blue 'Maybe' display text and navigation bar with filled Home button](https://pin.fontofweb.com/7306?format=jpg)](https://fudge.design/share/pin-7306)
 
-[Hero section with italic blue 'Maybe' display text and navigation bar with filled Home button](https://design.withfudge.com/share/pin-7306)
+[Hero section with italic blue 'Maybe' display text and navigation bar with filled Home button](https://fudge.design/share/pin-7306)
 
-[![Hero section with Monument Extended headline, lime-green pill badge, and grid background with font overlay](https://pin.fontofweb.com/7305?format=jpg)](https://design.withfudge.com/share/pin-7305)
+[![Hero section with Monument Extended headline, lime-green pill badge, and grid background with font overlay](https://pin.fontofweb.com/7305?format=jpg)](https://fudge.design/share/pin-7305)
 
-[Hero section with Monument Extended headline, lime-green pill badge, and grid background with font overlay](https://design.withfudge.com/share/pin-7305)
+[Hero section with Monument Extended headline, lime-green pill badge, and grid background with font overlay](https://fudge.design/share/pin-7305)
 
-[![Clean hero section with centered headline, body text, and Explore arrow link on grid background](https://pin.fontofweb.com/7304?format=jpg)](https://design.withfudge.com/share/pin-7304)
+[![Clean hero section with centered headline, body text, and Explore arrow link on grid background](https://pin.fontofweb.com/7304?format=jpg)](https://fudge.design/share/pin-7304)
 
-[Clean hero section with centered headline, body text, and Explore arrow link on grid background](https://design.withfudge.com/share/pin-7304)
+[Clean hero section with centered headline, body text, and Explore arrow link on grid background](https://fudge.design/share/pin-7304)
 
 ## Overview
 
@@ -160,3 +160,18 @@ Grid background density may decrease on mobile to reduce visual noise. Content m
 ## Scope note
 
 This guide covers the homepage hero and navigation surfaces visible in the supplied images. Interior pages, mobile breakpoints, form states, motion behavior, and dark mode are not represented. Footer, portfolio grids, and service detail pages require additional reference. The spacing and radius values derive from the documented pixel measurements, converted to the 0.125rem relative unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

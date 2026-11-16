@@ -1,26 +1,26 @@
 # How bestdesignsonx.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/bestdesignsonx.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/bestdesignsonx.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with serif title, soft gradient background, and masonry grid of design portfolio cards](https://pin.fontofweb.com/3689?format=jpg)](https://design.withfudge.com/share/pin-3689)
+[![Homepage hero with serif title, soft gradient background, and masonry grid of design portfolio cards](https://pin.fontofweb.com/3689?format=jpg)](https://fudge.design/share/pin-3689)
 
-[Homepage hero with serif title, soft gradient background, and masonry grid of design portfolio cards](https://design.withfudge.com/share/pin-3689)
+[Homepage hero with serif title, soft gradient background, and masonry grid of design portfolio cards](https://fudge.design/share/pin-3689)
 
-[![Modal dialog showing a detailed X post with green coffee branding and dark overlay backdrop](https://pin.fontofweb.com/4167?format=jpg)](https://design.withfudge.com/share/pin-4167)
+[![Modal dialog showing a detailed X post with green coffee branding and dark overlay backdrop](https://pin.fontofweb.com/4167?format=jpg)](https://fudge.design/share/pin-4167)
 
-[Modal dialog showing a detailed X post with green coffee branding and dark overlay backdrop](https://design.withfudge.com/share/pin-4167)
+[Modal dialog showing a detailed X post with green coffee branding and dark overlay backdrop](https://fudge.design/share/pin-4167)
 
-[![Hero section with large bold sans-serif headline, brand logos as inline images, and app screenshot showcase](https://pin.fontofweb.com/4172?format=jpg)](https://design.withfudge.com/share/pin-4172)
+[![Hero section with large bold sans-serif headline, brand logos as inline images, and app screenshot showcase](https://pin.fontofweb.com/4172?format=jpg)](https://fudge.design/share/pin-4172)
 
-[Hero section with large bold sans-serif headline, brand logos as inline images, and app screenshot showcase](https://design.withfudge.com/share/pin-4172)
+[Hero section with large bold sans-serif headline, brand logos as inline images, and app screenshot showcase](https://fudge.design/share/pin-4172)
 
-[![Network sponsors grid with eight sponsor cards, pagination controls, and footer advertisement](https://pin.fontofweb.com/4173?format=jpg)](https://design.withfudge.com/share/pin-4173)
+[![Network sponsors grid with eight sponsor cards, pagination controls, and footer advertisement](https://pin.fontofweb.com/4173?format=jpg)](https://fudge.design/share/pin-4173)
 
-[Network sponsors grid with eight sponsor cards, pagination controls, and footer advertisement](https://design.withfudge.com/share/pin-4173)
+[Network sponsors grid with eight sponsor cards, pagination controls, and footer advertisement](https://fudge.design/share/pin-4173)
 
 ## Overview
 
@@ -167,3 +167,18 @@ The masonry grid should reflow from single column on narrow viewports to two, th
 ## Scope note
 
 This guide covers the homepage, design card grid, modal detail view, and sponsor section visible in the supplied images. Mobile layouts, dark mode, loading states, error handling, and user authentication flows are not represented. Measurements are practical adaptation targets. Verify licensing for Geist, Instrument Serif, and Plus Jakarta Sans before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Content index](/share/designs-with-page.content.index)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Card-heavy](/share/designs-with-visual.trait.card_heavy)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

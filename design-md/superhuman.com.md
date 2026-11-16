@@ -1,26 +1,26 @@
 # How superhuman.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/superhuman.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/superhuman.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Deep burgundy footer with multi-column link grid, social icons, and oversized background wordmark spanning the full width.](https://pin.fontofweb.com/5358?format=jpg)](https://design.withfudge.com/share/pin-5358)
+[![Deep burgundy footer with multi-column link grid, social icons, and oversized background wordmark spanning the full width.](https://pin.fontofweb.com/5358?format=jpg)](https://fudge.design/share/pin-5358)
 
-[Deep burgundy footer with multi-column link grid, social icons, and oversized background wordmark spanning the full width.](https://design.withfudge.com/share/pin-5358)
+[Deep burgundy footer with multi-column link grid, social icons, and oversized background wordmark spanning the full width.](https://fudge.design/share/pin-5358)
 
-[![Condensed three-column footer on dark wine background with reduced legal links and faint SUPERHUMAN wordmark at bottom edge.](https://pin.fontofweb.com/4183?format=jpg)](https://design.withfudge.com/share/pin-4183)
+[![Condensed three-column footer on dark wine background with reduced legal links and faint SUPERHUMAN wordmark at bottom edge.](https://pin.fontofweb.com/4183?format=jpg)](https://fudge.design/share/pin-4183)
 
-[Condensed three-column footer on dark wine background with reduced legal links and faint SUPERHUMAN wordmark at bottom edge.](https://design.withfudge.com/share/pin-4183)
+[Condensed three-column footer on dark wine background with reduced legal links and faint SUPERHUMAN wordmark at bottom edge.](https://fudge.design/share/pin-4183)
 
-[![Light stone FAQ section with large serif heading, accordion questions with chevron indicators, and muted body text on warm gray background.](https://pin.fontofweb.com/4182?format=jpg)](https://design.withfudge.com/share/pin-4182)
+[![Light stone FAQ section with large serif heading, accordion questions with chevron indicators, and muted body text on warm gray background.](https://pin.fontofweb.com/4182?format=jpg)](https://fudge.design/share/pin-4182)
 
-[Light stone FAQ section with large serif heading, accordion questions with chevron indicators, and muted body text on warm gray background.](https://design.withfudge.com/share/pin-4182)
+[Light stone FAQ section with large serif heading, accordion questions with chevron indicators, and muted body text on warm gray background.](https://fudge.design/share/pin-4182)
 
-[![Dark hero split layout with serif display headline, checkmark feature list, and colorful app interface mockup on the right side.](https://pin.fontofweb.com/4181?format=jpg)](https://design.withfudge.com/share/pin-4181)
+[![Dark hero split layout with serif display headline, checkmark feature list, and colorful app interface mockup on the right side.](https://pin.fontofweb.com/4181?format=jpg)](https://fudge.design/share/pin-4181)
 
-[Dark hero split layout with serif display headline, checkmark feature list, and colorful app interface mockup on the right side.](https://design.withfudge.com/share/pin-4181)
+[Dark hero split layout with serif display headline, checkmark feature list, and colorful app interface mockup on the right side.](https://fudge.design/share/pin-4181)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Accordion items remain functional across widths but may benefit from increased t
 ## Scope note
 
 This guide covers the desktop marketing site surfaces visible in the supplied images, including hero sections, feature lists, FAQ accordions, and the footer system. Mobile layouts, interactive states beyond static presentation, animation, form components, and in-app interface elements are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

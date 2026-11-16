@@ -1,26 +1,26 @@
 # How tess.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tess.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/tess.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark painterly background, white headline 'Take ownership of AI', and a centered product UI card showing model training interface with sidebar navigation and](https://pin.fontofweb.com/7899?format=jpg)](https://design.withfudge.com/share/pin-7899)
+[![Hero section with dark painterly background, white headline 'Take ownership of AI', and a centered product UI card showing model training interface with sidebar navigation and](https://pin.fontofweb.com/7899?format=jpg)](https://fudge.design/share/pin-7899)
 
-[Hero section with dark painterly background, white headline 'Take ownership of AI', and a centered product UI card showing model training interface with sidebar navigation and](https://design.withfudge.com/share/pin-7899)
+[Hero section with dark painterly background, white headline 'Take ownership of AI', and a centered product UI card showing model training interface with sidebar navigation and](https://fudge.design/share/pin-7899)
 
-[![Light section with alternating text-and-image layout showing AI-generated landscape artwork and image editor tools panel with options like Remove Object and Face Swap](https://pin.fontofweb.com/7898?format=jpg)](https://design.withfudge.com/share/pin-7898)
+[![Light section with alternating text-and-image layout showing AI-generated landscape artwork and image editor tools panel with options like Remove Object and Face Swap](https://pin.fontofweb.com/7898?format=jpg)](https://fudge.design/share/pin-7898)
 
-[Light section with alternating text-and-image layout showing AI-generated landscape artwork and image editor tools panel with options like Remove Object and Face Swap](https://design.withfudge.com/share/pin-7898)
+[Light section with alternating text-and-image layout showing AI-generated landscape artwork and image editor tools panel with options like Remove Object and Face Swap](https://fudge.design/share/pin-7898)
 
-[![Light section with 'FOR CREATORS' label, large heading, and overlapping product screenshots showing gallery grid and image detail view with export controls](https://pin.fontofweb.com/7897?format=jpg)](https://design.withfudge.com/share/pin-7897)
+[![Light section with 'FOR CREATORS' label, large heading, and overlapping product screenshots showing gallery grid and image detail view with export controls](https://pin.fontofweb.com/7897?format=jpg)](https://fudge.design/share/pin-7897)
 
-[Light section with 'FOR CREATORS' label, large heading, and overlapping product screenshots showing gallery grid and image detail view with export controls](https://design.withfudge.com/share/pin-7897)
+[Light section with 'FOR CREATORS' label, large heading, and overlapping product screenshots showing gallery grid and image detail view with export controls](https://fudge.design/share/pin-7897)
 
-[![Dark artist spotlight section with large display name 'Ana Mumladze', testimonial quote, avatar, and stacked colorful illustration cards on black background](https://pin.fontofweb.com/7896?format=jpg)](https://design.withfudge.com/share/pin-7896)
+[![Dark artist spotlight section with large display name 'Ana Mumladze', testimonial quote, avatar, and stacked colorful illustration cards on black background](https://pin.fontofweb.com/7896?format=jpg)](https://fudge.design/share/pin-7896)
 
-[Dark artist spotlight section with large display name 'Ana Mumladze', testimonial quote, avatar, and stacked colorful illustration cards on black background](https://design.withfudge.com/share/pin-7896)
+[Dark artist spotlight section with large display name 'Ana Mumladze', testimonial quote, avatar, and stacked colorful illustration cards on black background](https://fudge.design/share/pin-7896)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Navigation elements visible in product screenshots suggest a responsive sidebar 
 ## Scope note
 
 This guide covers the marketing page surface of tess.design with its alternating dark and light sections, product feature presentations, and artist spotlight modules. It does not include the full application interface beyond its appearance in marketing screenshots, mobile breakpoint specifics, form validation states, or any motion and animation behavior. The spacing and sizing values derive from the documented interface measurements and type scale.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Pink hue](/share/designs-with-color.hue.pink)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How together.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/together.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/together.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed code interpreter page with syntax-highlighted Python examples and blue accent headings](https://pin.fontofweb.com/6850?format=jpg)](https://design.withfudge.com/share/pin-6850)
+[![Dark-themed code interpreter page with syntax-highlighted Python examples and blue accent headings](https://pin.fontofweb.com/6850?format=jpg)](https://fudge.design/share/pin-6850)
 
-[Dark-themed code interpreter page with syntax-highlighted Python examples and blue accent headings](https://design.withfudge.com/share/pin-6850)
+[Dark-themed code interpreter page with syntax-highlighted Python examples and blue accent headings](https://fudge.design/share/pin-6850)
 
-[![Light-themed product page hero with LLM workflow diagram and blue pill-shaped CTA button](https://pin.fontofweb.com/6849?format=jpg)](https://design.withfudge.com/share/pin-6849)
+[![Light-themed product page hero with LLM workflow diagram and blue pill-shaped CTA button](https://pin.fontofweb.com/6849?format=jpg)](https://fudge.design/share/pin-6849)
 
-[Light-themed product page hero with LLM workflow diagram and blue pill-shaped CTA button](https://design.withfudge.com/share/pin-6849)
+[Light-themed product page hero with LLM workflow diagram and blue pill-shaped CTA button](https://fudge.design/share/pin-6849)
 
-[![Expanded navigation mega-menu showing product categories and model cards on light background](https://pin.fontofweb.com/6848?format=jpg)](https://design.withfudge.com/share/pin-6848)
+[![Expanded navigation mega-menu showing product categories and model cards on light background](https://pin.fontofweb.com/6848?format=jpg)](https://fudge.design/share/pin-6848)
 
-[Expanded navigation mega-menu showing product categories and model cards on light background](https://design.withfudge.com/share/pin-6848)
+[Expanded navigation mega-menu showing product categories and model cards on light background](https://fudge.design/share/pin-6848)
 
-[![Bold blue banner with oversized typography reading START BUILDING YOURS HERE with geometric shapes](https://pin.fontofweb.com/6847?format=jpg)](https://design.withfudge.com/share/pin-6847)
+[![Bold blue banner with oversized typography reading START BUILDING YOURS HERE with geometric shapes](https://pin.fontofweb.com/6847?format=jpg)](https://fudge.design/share/pin-6847)
 
-[Bold blue banner with oversized typography reading START BUILDING YOURS HERE with geometric shapes](https://design.withfudge.com/share/pin-6847)
+[Bold blue banner with oversized typography reading START BUILDING YOURS HERE with geometric shapes](https://fudge.design/share/pin-6847)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The design targets desktop as the primary experience, with a content maximum wid
 ## Scope note
 
 This guide covers the homepage, product pages, and blog post surfaces visible in the supplied images. Mobile breakpoints, form validation states, loading skeletons, and animation specifications are not included. The footer, pricing tables, and documentation interior pages are not represented in the current material. Verify licensing for Aeonik and Aeonik Fono before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

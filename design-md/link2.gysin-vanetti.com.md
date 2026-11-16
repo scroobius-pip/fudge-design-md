@@ -1,18 +1,18 @@
 # How link2.gysin-vanetti.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/link2.gysin-vanetti.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/link2.gysin-vanetti.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark landing page with large white 'Link²' title, project description, and keyboard controls in left-aligned monospace-style layout](https://pin.fontofweb.com/7095?format=jpg)](https://design.withfudge.com/share/pin-7095)
+[![Dark landing page with large white 'Link²' title, project description, and keyboard controls in left-aligned monospace-style layout](https://pin.fontofweb.com/7095?format=jpg)](https://fudge.design/share/pin-7095)
 
-[Dark landing page with large white 'Link²' title, project description, and keyboard controls in left-aligned monospace-style layout](https://design.withfudge.com/share/pin-7095)
+[Dark landing page with large white 'Link²' title, project description, and keyboard controls in left-aligned monospace-style layout](https://fudge.design/share/pin-7095)
 
-[![Grid of six colorful long-exposure LED light sculptures against black backgrounds showing generative geometric forms](https://pin.fontofweb.com/7096?format=jpg)](https://design.withfudge.com/share/pin-7096)
+[![Grid of six colorful long-exposure LED light sculptures against black backgrounds showing generative geometric forms](https://pin.fontofweb.com/7096?format=jpg)](https://fudge.design/share/pin-7096)
 
-[Grid of six colorful long-exposure LED light sculptures against black backgrounds showing generative geometric forms](https://design.withfudge.com/share/pin-7096)
+[Grid of six colorful long-exposure LED light sculptures against black backgrounds showing generative geometric forms](https://fudge.design/share/pin-7096)
 
 ## Overview
 
@@ -145,3 +145,18 @@ The keyboard controls indicate an interactive viewing mode that likely dominates
 ## Scope note
 
 This guide covers the landing and information page for the Link² project. The interactive artwork viewer with its animation, zoom, and step controls is referenced in the keyboard legend but its full implementation details are not documented here. No mobile-specific layouts, loading states, or error handling were visible in the supplied material. The spacing values reflect the limited measurements available; implementers should verify vertical rhythm in context.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

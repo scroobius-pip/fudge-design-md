@@ -1,22 +1,22 @@
 # How ucp.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ucp.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/ucp.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature cards with line-art icons showing native checkout and embed business checkout capabilities with pill-shaped action buttons on light gray rounded panels](https://pin.fontofweb.com/9361?format=jpg)](https://design.withfudge.com/share/pin-9361)
+[![Feature cards with line-art icons showing native checkout and embed business checkout capabilities with pill-shaped action buttons on light gray rounded panels](https://pin.fontofweb.com/9361?format=jpg)](https://fudge.design/share/pin-9361)
 
-[Feature cards with line-art icons showing native checkout and embed business checkout capabilities with pill-shaped action buttons on light gray rounded panels](https://design.withfudge.com/share/pin-9361)
+[Feature cards with line-art icons showing native checkout and embed business checkout capabilities with pill-shaped action buttons on light gray rounded panels](https://fudge.design/share/pin-9361)
 
-[![See it in action section with tabbed interface showing Checkout, Identity Linking, and Order tabs alongside mobile checkout mockup and syntax-highlighted code block](https://pin.fontofweb.com/9360?format=jpg)](https://design.withfudge.com/share/pin-9360)
+[![See it in action section with tabbed interface showing Checkout, Identity Linking, and Order tabs alongside mobile checkout mockup and syntax-highlighted code block](https://pin.fontofweb.com/9360?format=jpg)](https://fudge.design/share/pin-9360)
 
-[See it in action section with tabbed interface showing Checkout, Identity Linking, and Order tabs alongside mobile checkout mockup and syntax-highlighted code block](https://design.withfudge.com/share/pin-9360)
+[See it in action section with tabbed interface showing Checkout, Identity Linking, and Order tabs alongside mobile checkout mockup and syntax-highlighted code block](https://fudge.design/share/pin-9360)
 
-[![Hero section with large Universal Commerce Protocol title, isometric UCP logo, navigation sidebar, search bar, and partner logos including Google, Shopify, Etsy, Wayfair, Target,](https://pin.fontofweb.com/9359?format=jpg)](https://design.withfudge.com/share/pin-9359)
+[![Hero section with large Universal Commerce Protocol title, isometric UCP logo, navigation sidebar, search bar, and partner logos including Google, Shopify, Etsy, Wayfair, Target,](https://pin.fontofweb.com/9359?format=jpg)](https://fudge.design/share/pin-9359)
 
-[Hero section with large Universal Commerce Protocol title, isometric UCP logo, navigation sidebar, search bar, and partner logos including Google, Shopify, Etsy, Wayfair, Target,](https://design.withfudge.com/share/pin-9359)
+[Hero section with large Universal Commerce Protocol title, isometric UCP logo, navigation sidebar, search bar, and partner logos including Google, Shopify, Etsy, Wayfair, Target,](https://fudge.design/share/pin-9359)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Tab groups should remain horizontally scrollable on narrow viewports rather than
 ## Scope note
 
 This guide covers the UCP.dev homepage and documentation landing surface visible in the supplied images. Interior specification pages, mobile navigation behavior, dark mode, form validation states, and interactive code playground features are not represented. The tab group interaction pattern and search functionality behavior require additional implementation decisions beyond the static design. Applesystem and Times appear in the extracted font list but are not visibly used as primary design choices in the rendered interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

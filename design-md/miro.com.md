@@ -1,18 +1,18 @@
 # How miro.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/miro.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/miro.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with AI prompt input, floating collaborator avatars, and social proof logos on a light dotted canvas background](https://pin.fontofweb.com/3700?format=jpg)](https://design.withfudge.com/share/pin-3700)
+[![Hero section with AI prompt input, floating collaborator avatars, and social proof logos on a light dotted canvas background](https://pin.fontofweb.com/3700?format=jpg)](https://fudge.design/share/pin-3700)
 
-[Hero section with AI prompt input, floating collaborator avatars, and social proof logos on a light dotted canvas background](https://design.withfudge.com/share/pin-3700)
+[Hero section with AI prompt input, floating collaborator avatars, and social proof logos on a light dotted canvas background](https://fudge.design/share/pin-3700)
 
-[![Top navigation bar with Miro logo, dropdown menus, and blue primary action button on a dark announcement banner](https://pin.fontofweb.com/3699?format=jpg)](https://design.withfudge.com/share/pin-3699)
+[![Top navigation bar with Miro logo, dropdown menus, and blue primary action button on a dark announcement banner](https://pin.fontofweb.com/3699?format=jpg)](https://fudge.design/share/pin-3699)
 
-[Top navigation bar with Miro logo, dropdown menus, and blue primary action button on a dark announcement banner](https://design.withfudge.com/share/pin-3699)
+[Top navigation bar with Miro logo, dropdown menus, and blue primary action button on a dark announcement banner](https://fudge.design/share/pin-3699)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The dotted canvas texture should remain visible at all sizes, though the dot den
 ## Scope note
 
 This guide covers the Miro marketing homepage hero and navigation surfaces visible in the supplied images. In-product interface colors, additional page sections, mobile layouts, animation behavior, and form validation states are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

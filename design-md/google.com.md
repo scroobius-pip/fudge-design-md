@@ -1,26 +1,26 @@
 # How google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/google.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/google.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![AI Mode search results page with conversational answer panel, knowledge cards, and dark theme with gradient sidebar accents](https://pin.fontofweb.com/8713?format=jpg)](https://design.withfudge.com/share/pin-8713)
+[![AI Mode search results page with conversational answer panel, knowledge cards, and dark theme with gradient sidebar accents](https://pin.fontofweb.com/8713?format=jpg)](https://fudge.design/share/pin-8713)
 
-[AI Mode search results page with conversational answer panel, knowledge cards, and dark theme with gradient sidebar accents](https://design.withfudge.com/share/pin-8713)
+[AI Mode search results page with conversational answer panel, knowledge cards, and dark theme with gradient sidebar accents](https://fudge.design/share/pin-8713)
 
-[![Google AI Mode homepage with centered greeting, rounded search input, and suggestion chips on dark background](https://pin.fontofweb.com/6925?format=jpg)](https://design.withfudge.com/share/pin-6925)
+[![Google AI Mode homepage with centered greeting, rounded search input, and suggestion chips on dark background](https://pin.fontofweb.com/6925?format=jpg)](https://fudge.design/share/pin-6925)
 
-[Google AI Mode homepage with centered greeting, rounded search input, and suggestion chips on dark background](https://design.withfudge.com/share/pin-6925)
+[Google AI Mode homepage with centered greeting, rounded search input, and suggestion chips on dark background](https://fudge.design/share/pin-6925)
 
-[![Google AI Mode homepage variant showing microphone icon and plus button in the search input field](https://pin.fontofweb.com/6604?format=jpg)](https://design.withfudge.com/share/pin-6604)
+[![Google AI Mode homepage variant showing microphone icon and plus button in the search input field](https://pin.fontofweb.com/6604?format=jpg)](https://fudge.design/share/pin-6604)
 
-[Google AI Mode homepage variant showing microphone icon and plus button in the search input field](https://design.withfudge.com/share/pin-6604)
+[Google AI Mode homepage variant showing microphone icon and plus button in the search input field](https://fudge.design/share/pin-6604)
 
-[![Close-up of the AI Mode search input with rounded corners, placeholder text, and action icons](https://pin.fontofweb.com/5849?format=jpg)](https://design.withfudge.com/share/pin-5849)
+[![Close-up of the AI Mode search input with rounded corners, placeholder text, and action icons](https://pin.fontofweb.com/5849?format=jpg)](https://fudge.design/share/pin-5849)
 
-[Close-up of the AI Mode search input with rounded corners, placeholder text, and action icons](https://design.withfudge.com/share/pin-5849)
+[Close-up of the AI Mode search input with rounded corners, placeholder text, and action icons](https://fudge.design/share/pin-5849)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Touch targets for the microphone button, attachment trigger, and sidebar icons s
 ## Scope note
 
 This guide covers the AI Mode search homepage and results surfaces visible in the supplied images. Standard Google Search results pages, image search grids, and mobile layouts are not represented. Measurements derive from the documented interface values. Motion, hover states, and voice interaction feedback are not covered. Roboto does not appear in the visible interface typography but is loaded as a family asset.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

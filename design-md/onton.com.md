@@ -1,26 +1,26 @@
 # How onton.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/onton.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/onton.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with oversized white Onton logotype, vertical icon dock, and multi-column link grid on near-black background](https://pin.fontofweb.com/10494?format=jpg)](https://design.withfudge.com/share/pin-10494)
+[![Dark footer with oversized white Onton logotype, vertical icon dock, and multi-column link grid on near-black background](https://pin.fontofweb.com/10494?format=jpg)](https://fudge.design/share/pin-10494)
 
-[Dark footer with oversized white Onton logotype, vertical icon dock, and multi-column link grid on near-black background](https://design.withfudge.com/share/pin-10494)
+[Dark footer with oversized white Onton logotype, vertical icon dock, and multi-column link grid on near-black background](https://fudge.design/share/pin-10494)
 
-[![Light pricing page with four-tier card grid, toggle switches, checkmark feature lists, and FAQ accordion section](https://pin.fontofweb.com/10493?format=jpg)](https://design.withfudge.com/share/pin-10493)
+[![Light pricing page with four-tier card grid, toggle switches, checkmark feature lists, and FAQ accordion section](https://pin.fontofweb.com/10493?format=jpg)](https://fudge.design/share/pin-10493)
 
-[Light pricing page with four-tier card grid, toggle switches, checkmark feature lists, and FAQ accordion section](https://design.withfudge.com/share/pin-10493)
+[Light pricing page with four-tier card grid, toggle switches, checkmark feature lists, and FAQ accordion section](https://fudge.design/share/pin-10493)
 
-[![Light homepage footer with search bar, navigation columns, and massive black Onton wordmark on warm gray background](https://pin.fontofweb.com/10492?format=jpg)](https://design.withfudge.com/share/pin-10492)
+[![Light homepage footer with search bar, navigation columns, and massive black Onton wordmark on warm gray background](https://pin.fontofweb.com/10492?format=jpg)](https://fudge.design/share/pin-10492)
 
-[Light homepage footer with search bar, navigation columns, and massive black Onton wordmark on warm gray background](https://design.withfudge.com/share/pin-10492)
+[Light homepage footer with search bar, navigation columns, and massive black Onton wordmark on warm gray background](https://fudge.design/share/pin-10492)
 
-[![Homepage hero with search bar, AI tools button, Surfaces category row, and masonry grid of interior design photography](https://pin.fontofweb.com/10488?format=jpg)](https://design.withfudge.com/share/pin-10488)
+[![Homepage hero with search bar, AI tools button, Surfaces category row, and masonry grid of interior design photography](https://pin.fontofweb.com/10488?format=jpg)](https://fudge.design/share/pin-10488)
 
-[Homepage hero with search bar, AI tools button, Surfaces category row, and masonry grid of interior design photography](https://design.withfudge.com/share/pin-10488)
+[Homepage hero with search bar, AI tools button, Surfaces category row, and masonry grid of interior design photography](https://fudge.design/share/pin-10488)
 
 ## Overview
 
@@ -183,3 +183,18 @@ The design assumes desktop viewport widths for the captured experience. The four
 ## Scope note
 
 This guide covers the homepage discovery experience, pricing page structure, and shared footer components visible in the supplied captures. Mobile layouts, animation specifications, checkout flows, user account interfaces, and additional marketing pages are not represented. The massive brand mark requires custom SVG or font implementation not detailed here.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Paired type system](/share/designs-with-typography.system_size.paired)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

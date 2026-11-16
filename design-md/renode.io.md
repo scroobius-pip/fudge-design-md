@@ -1,26 +1,26 @@
 # How renode.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/renode.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/renode.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Getting started section with download cards for Debian, Fedora, Arch, macOS, and Windows on a dotted white background with blue accents](https://pin.fontofweb.com/5865?format=jpg)](https://design.withfudge.com/share/pin-5865)
+[![Getting started section with download cards for Debian, Fedora, Arch, macOS, and Windows on a dotted white background with blue accents](https://pin.fontofweb.com/5865?format=jpg)](https://fudge.design/share/pin-5865)
 
-[Getting started section with download cards for Debian, Fedora, Arch, macOS, and Windows on a dotted white background with blue accents](https://design.withfudge.com/share/pin-5865)
+[Getting started section with download cards for Debian, Fedora, Arch, macOS, and Windows on a dotted white background with blue accents](https://fudge.design/share/pin-5865)
 
-[![Footer bar with Renode and antmicro logos, social icons, and copyright on a bright blue background with white text](https://pin.fontofweb.com/5864?format=jpg)](https://design.withfudge.com/share/pin-5864)
+[![Footer bar with Renode and antmicro logos, social icons, and copyright on a bright blue background with white text](https://pin.fontofweb.com/5864?format=jpg)](https://fudge.design/share/pin-5864)
 
-[Footer bar with Renode and antmicro logos, social icons, and copyright on a bright blue background with white text](https://design.withfudge.com/share/pin-5864)
+[Footer bar with Renode and antmicro logos, social icons, and copyright on a bright blue background with white text](https://fudge.design/share/pin-5864)
 
-[![Six feature cards with white line icons on blue grid backgrounds describing simulation framework capabilities](https://pin.fontofweb.com/5863?format=jpg)](https://design.withfudge.com/share/pin-5863)
+[![Six feature cards with white line icons on blue grid backgrounds describing simulation framework capabilities](https://pin.fontofweb.com/5863?format=jpg)](https://fudge.design/share/pin-5863)
 
-[Six feature cards with white line icons on blue grid backgrounds describing simulation framework capabilities](https://design.withfudge.com/share/pin-5863)
+[Six feature cards with white line icons on blue grid backgrounds describing simulation framework capabilities](https://fudge.design/share/pin-5863)
 
-[![Hero section for Continuous Integration with large white heading, body text, and workflow diagram on blue dotted background](https://pin.fontofweb.com/5862?format=jpg)](https://design.withfudge.com/share/pin-5862)
+[![Hero section for Continuous Integration with large white heading, body text, and workflow diagram on blue dotted background](https://pin.fontofweb.com/5862?format=jpg)](https://fudge.design/share/pin-5862)
 
-[Hero section for Continuous Integration with large white heading, body text, and workflow diagram on blue dotted background](https://design.withfudge.com/share/pin-5862)
+[Hero section for Continuous Integration with large white heading, body text, and workflow diagram on blue dotted background](https://fudge.design/share/pin-5862)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The workflow diagram in the CI section requires the most careful responsive hand
 ## Scope note
 
 This guide covers the Renode homepage and its primary section types: hero content, feature grids, download interfaces, and footer. Interior pages, documentation layouts, and interactive tool interfaces are not represented in the supplied material. Motion design, mobile breakpoints, and form components are not covered. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

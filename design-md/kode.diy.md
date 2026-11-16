@@ -1,26 +1,26 @@
 # How kode.diy is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kode.diy-design)
+[Open the live Fudge conversation](https://fudge.design/share/kode.diy-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with oversized KODE wordmark logo and legal links on near-black background](https://pin.fontofweb.com/9991?format=jpg)](https://design.withfudge.com/share/pin-9991)
+[![Dark footer with oversized KODE wordmark logo and legal links on near-black background](https://pin.fontofweb.com/9991?format=jpg)](https://fudge.design/share/pin-9991)
 
-[Dark footer with oversized KODE wordmark logo and legal links on near-black background](https://design.withfudge.com/share/pin-9991)
+[Dark footer with oversized KODE wordmark logo and legal links on near-black background](https://fudge.design/share/pin-9991)
 
-[![Shop modules grid showing five product cards with rounded corners on warm beige background](https://pin.fontofweb.com/9990?format=jpg)](https://design.withfudge.com/share/pin-9990)
+[![Shop modules grid showing five product cards with rounded corners on warm beige background](https://pin.fontofweb.com/9990?format=jpg)](https://fudge.design/share/pin-9990)
 
-[Shop modules grid showing five product cards with rounded corners on warm beige background](https://design.withfudge.com/share/pin-9990)
+[Shop modules grid showing five product cards with rounded corners on warm beige background](https://fudge.design/share/pin-9990)
 
-[![Maker Module product detail page with breadcrumb, quantity stepper, and amber Add to cart button](https://pin.fontofweb.com/9989?format=jpg)](https://design.withfudge.com/share/pin-9989)
+[![Maker Module product detail page with breadcrumb, quantity stepper, and amber Add to cart button](https://pin.fontofweb.com/9989?format=jpg)](https://fudge.design/share/pin-9989)
 
-[Maker Module product detail page with breadcrumb, quantity stepper, and amber Add to cart button](https://design.withfudge.com/share/pin-9989)
+[Maker Module product detail page with breadcrumb, quantity stepper, and amber Add to cart button](https://fudge.design/share/pin-9989)
 
-[![Shop landing page with hero product card for Kode Dot device and modules section below](https://pin.fontofweb.com/9988?format=jpg)](https://design.withfudge.com/share/pin-9988)
+[![Shop landing page with hero product card for Kode Dot device and modules section below](https://pin.fontofweb.com/9988?format=jpg)](https://fudge.design/share/pin-9988)
 
-[Shop landing page with hero product card for Kode Dot device and modules section below](https://design.withfudge.com/share/pin-9988)
+[Shop landing page with hero product card for Kode Dot device and modules section below](https://fudge.design/share/pin-9988)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Typography scales should maintain hierarchy: hero display at 96px is appropriate
 ## Scope note
 
 This guide covers the shop and product detail surfaces of kode.diy, including the footer, product cards, hero merchandising, and primary actions. Homepage sections beyond the shop, mobile navigation patterns, checkout flows, and motion or hover behaviors are not represented in the supplied material. The spacing and sizing values reflect the desktop viewport captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

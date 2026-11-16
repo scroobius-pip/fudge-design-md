@@ -1,26 +1,26 @@
 # How tavus.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tavus.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/tavus.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![PALs pricing hero with serif headline and pastel purple, peach, yellow tier cards on warm cream background](https://pin.fontofweb.com/5835?format=jpg)](https://design.withfudge.com/share/pin-5835)
+[![PALs pricing hero with serif headline and pastel purple, peach, yellow tier cards on warm cream background](https://pin.fontofweb.com/5835?format=jpg)](https://fudge.design/share/pin-5835)
 
-[PALs pricing hero with serif headline and pastel purple, peach, yellow tier cards on warm cream background](https://design.withfudge.com/share/pin-5835)
+[PALs pricing hero with serif headline and pastel purple, peach, yellow tier cards on warm cream background](https://fudge.design/share/pin-5835)
 
-[![Developer pricing hero with tab switcher and four-column pastel plan cards with hard shadow borders](https://pin.fontofweb.com/5836?format=jpg)](https://design.withfudge.com/share/pin-5836)
+[![Developer pricing hero with tab switcher and four-column pastel plan cards with hard shadow borders](https://pin.fontofweb.com/5836?format=jpg)](https://fudge.design/share/pin-5836)
 
-[Developer pricing hero with tab switcher and four-column pastel plan cards with hard shadow borders](https://design.withfudge.com/share/pin-5836)
+[Developer pricing hero with tab switcher and four-column pastel plan cards with hard shadow borders](https://fudge.design/share/pin-5836)
 
-[![Full-height pricing cards showing feature lists with checkmarks and tier-specific accent buttons](https://pin.fontofweb.com/5837?format=jpg)](https://design.withfudge.com/share/pin-5837)
+[![Full-height pricing cards showing feature lists with checkmarks and tier-specific accent buttons](https://pin.fontofweb.com/5837?format=jpg)](https://fudge.design/share/pin-5837)
 
-[Full-height pricing cards showing feature lists with checkmarks and tier-specific accent buttons](https://design.withfudge.com/share/pin-5837)
+[Full-height pricing cards showing feature lists with checkmarks and tier-specific accent buttons](https://fudge.design/share/pin-5837)
 
-[![Compare Plans section with horizontal feature comparison table and colored column headers](https://pin.fontofweb.com/5838?format=jpg)](https://design.withfudge.com/share/pin-5838)
+[![Compare Plans section with horizontal feature comparison table and colored column headers](https://pin.fontofweb.com/5838?format=jpg)](https://fudge.design/share/pin-5838)
 
-[Compare Plans section with horizontal feature comparison table and colored column headers](https://design.withfudge.com/share/pin-5838)
+[Compare Plans section with horizontal feature comparison table and colored column headers](https://fudge.design/share/pin-5838)
 
 ## Overview
 
@@ -200,3 +200,18 @@ The hard shadow offset should remain proportional—reducing to 2px/2px on mobil
 ## Scope note
 
 This guide covers the pricing page surfaces for both PALs and Developer audiences. The homepage and other site sections are not represented. No mobile layouts, hover states, focus indicators, loading patterns, or motion behavior appear in the supplied material. Measurements are practical adaptation targets. Font licensing should be verified for Perfectly Nineties, Perfectly Nineties-Italic, Fk Raster Grotesk Compact-Blended, Suisse Intl, and Schibsted Grotesk before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

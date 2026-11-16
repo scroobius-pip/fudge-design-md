@@ -1,22 +1,22 @@
 # How witharc.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/witharc.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/witharc.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large 'Design partner for busy founders' headline, client logos, and profile card with orange gradient and vinyl shelf imagery](https://pin.fontofweb.com/6764?format=jpg)](https://design.withfudge.com/share/pin-6764)
+[![Hero section with large 'Design partner for busy founders' headline, client logos, and profile card with orange gradient and vinyl shelf imagery](https://pin.fontofweb.com/6764?format=jpg)](https://fudge.design/share/pin-6764)
 
-[Hero section with large 'Design partner for busy founders' headline, client logos, and profile card with orange gradient and vinyl shelf imagery](https://design.withfudge.com/share/pin-6764)
+[Hero section with large 'Design partner for busy founders' headline, client logos, and profile card with orange gradient and vinyl shelf imagery](https://fudge.design/share/pin-6764)
 
-[![Pricing section showing Partnership and Sprint cards with calendar booking interface and Cal.com embed](https://pin.fontofweb.com/6763?format=jpg)](https://design.withfudge.com/share/pin-6763)
+[![Pricing section showing Partnership and Sprint cards with calendar booking interface and Cal.com embed](https://pin.fontofweb.com/6763?format=jpg)](https://fudge.design/share/pin-6763)
 
-[Pricing section showing Partnership and Sprint cards with calendar booking interface and Cal.com embed](https://design.withfudge.com/share/pin-6763)
+[Pricing section showing Partnership and Sprint cards with calendar booking interface and Cal.com embed](https://fudge.design/share/pin-6763)
 
-[![Mission statement with bold keywords, testimonial card, and dark pricing cards beginning to appear](https://pin.fontofweb.com/6762?format=jpg)](https://design.withfudge.com/share/pin-6762)
+[![Mission statement with bold keywords, testimonial card, and dark pricing cards beginning to appear](https://pin.fontofweb.com/6762?format=jpg)](https://fudge.design/share/pin-6762)
 
-[Mission statement with bold keywords, testimonial card, and dark pricing cards beginning to appear](https://design.withfudge.com/share/pin-6762)
+[Mission statement with bold keywords, testimonial card, and dark pricing cards beginning to appear](https://fudge.design/share/pin-6762)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Navigation buttons in the header may collapse to a single menu trigger on mobile
 ## Scope note
 
 This guide covers the Arc studio homepage including hero, mission statement, testimonial, pricing, and booking sections. Mobile layouts, hover states, focus styles, loading conditions, and additional pages are not represented in the supplied material. Embedded third-party widgets (Cal.com booking, profile cards) retain their own responsive behavior and styling constraints. Measurements are derived from the documented interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Agency](/share/designs-with-offering.agency)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

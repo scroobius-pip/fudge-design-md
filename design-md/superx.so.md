@@ -1,26 +1,26 @@
 # How superx.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/superx.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/superx.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with italic serif accent on 'smart analytics', product screenshot, and video player with orange dot-matrix visualization on black background](https://pin.fontofweb.com/2282?format=jpg)](https://design.withfudge.com/share/pin-2282)
+[![Hero section with italic serif accent on 'smart analytics', product screenshot, and video player with orange dot-matrix visualization on black background](https://pin.fontofweb.com/2282?format=jpg)](https://fudge.design/share/pin-2282)
 
-[Hero section with italic serif accent on 'smart analytics', product screenshot, and video player with orange dot-matrix visualization on black background](https://design.withfudge.com/share/pin-2282)
+[Hero section with italic serif accent on 'smart analytics', product screenshot, and video player with orange dot-matrix visualization on black background](https://fudge.design/share/pin-2282)
 
-[![Footer CTA panel with gradient spotlight effect, rounded white button, and four-column footer with flame logo and link columns](https://pin.fontofweb.com/2281?format=jpg)](https://design.withfudge.com/share/pin-2281)
+[![Footer CTA panel with gradient spotlight effect, rounded white button, and four-column footer with flame logo and link columns](https://pin.fontofweb.com/2281?format=jpg)](https://fudge.design/share/pin-2281)
 
-[Footer CTA panel with gradient spotlight effect, rounded white button, and four-column footer with flame logo and link columns](https://design.withfudge.com/share/pin-2281)
+[Footer CTA panel with gradient spotlight effect, rounded white button, and four-column footer with flame logo and link columns](https://fudge.design/share/pin-2281)
 
-[![Social proof section with creator testimonial cards in dark rounded containers, X logos, and avatar rows on black background](https://pin.fontofweb.com/2280?format=jpg)](https://design.withfudge.com/share/pin-2280)
+[![Social proof section with creator testimonial cards in dark rounded containers, X logos, and avatar rows on black background](https://pin.fontofweb.com/2280?format=jpg)](https://fudge.design/share/pin-2280)
 
-[Social proof section with creator testimonial cards in dark rounded containers, X logos, and avatar rows on black background](https://design.withfudge.com/share/pin-2280)
+[Social proof section with creator testimonial cards in dark rounded containers, X logos, and avatar rows on black background](https://fudge.design/share/pin-2280)
 
-[![Pricing section with PRO and ADVANCED tiers, large numeral pricing, feature checklists, and pill-shaped discount badge](https://pin.fontofweb.com/2279?format=jpg)](https://design.withfudge.com/share/pin-2279)
+[![Pricing section with PRO and ADVANCED tiers, large numeral pricing, feature checklists, and pill-shaped discount badge](https://pin.fontofweb.com/2279?format=jpg)](https://fudge.design/share/pin-2279)
 
-[Pricing section with PRO and ADVANCED tiers, large numeral pricing, feature checklists, and pill-shaped discount badge](https://design.withfudge.com/share/pin-2279)
+[Pricing section with PRO and ADVANCED tiers, large numeral pricing, feature checklists, and pill-shaped discount badge](https://fudge.design/share/pin-2279)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Touch targets for buttons should maintain a minimum of 44px height. The pill-sha
 ## Scope note
 
 This guide covers the SuperX landing page surface including the hero, social proof, pricing, and footer sections. Measurements are practical adaptation targets. Mobile layouts, form interactions, checkout flows, dashboard interfaces, and motion behavior are not represented in the supplied materials. The design system assumes a single dark mode; light mode variants would require additional color exploration beyond the current palette.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

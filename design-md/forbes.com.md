@@ -1,18 +1,18 @@
 # How forbes.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/forbes.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/forbes.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed Innovation section mega-menu with multi-column category navigation, search bar, and Forbes logo centered at top](https://pin.fontofweb.com/9036?format=jpg)](https://design.withfudge.com/share/pin-9036)
+[![Dark-themed Innovation section mega-menu with multi-column category navigation, search bar, and Forbes logo centered at top](https://pin.fontofweb.com/9036?format=jpg)](https://fudge.design/share/pin-9036)
 
-[Dark-themed Innovation section mega-menu with multi-column category navigation, search bar, and Forbes logo centered at top](https://design.withfudge.com/share/pin-9036)
+[Dark-themed Innovation section mega-menu with multi-column category navigation, search bar, and Forbes logo centered at top](https://fudge.design/share/pin-9036)
 
-[![Newsletter signup banner with Schnyder S serif headline, email input field, and isometric illustration on black background](https://pin.fontofweb.com/9035?format=jpg)](https://design.withfudge.com/share/pin-9035)
+[![Newsletter signup banner with Schnyder S serif headline, email input field, and isometric illustration on black background](https://pin.fontofweb.com/9035?format=jpg)](https://fudge.design/share/pin-9035)
 
-[Newsletter signup banner with Schnyder S serif headline, email input field, and isometric illustration on black background](https://design.withfudge.com/share/pin-9035)
+[Newsletter signup banner with Schnyder S serif headline, email input field, and isometric illustration on black background](https://fudge.design/share/pin-9035)
 
 ## Overview
 
@@ -171,3 +171,18 @@ Touch targets must maintain minimum 44px height; the current navigation link pad
 ## Scope note
 
 This guide covers the dark-themed navigation system, newsletter promotional module, and category browsing surfaces visible on the Forbes homepage and Innovation section. Article detail pages, video players, light-mode variants, search results, account flows, and mobile-specific layouts are not represented in the supplied materials.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Limited palette](/share/designs-with-color.palette_span.limited)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

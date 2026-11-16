@@ -1,26 +1,26 @@
 # How ibm.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ibm.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ibm.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Services page showing Hybrid cloud management and Cybersecurity sections with IBM Plex Sans Light headings, blue primary buttons, and four-column service card grids with arrow](https://pin.fontofweb.com/6555?format=jpg)](https://design.withfudge.com/share/pin-6555)
+[![Services page showing Hybrid cloud management and Cybersecurity sections with IBM Plex Sans Light headings, blue primary buttons, and four-column service card grids with arrow](https://pin.fontofweb.com/6555?format=jpg)](https://fudge.design/share/pin-6555)
 
-[Services page showing Hybrid cloud management and Cybersecurity sections with IBM Plex Sans Light headings, blue primary buttons, and four-column service card grids with arrow](https://design.withfudge.com/share/pin-6555)
+[Services page showing Hybrid cloud management and Cybersecurity sections with IBM Plex Sans Light headings, blue primary buttons, and four-column service card grids with arrow](https://fudge.design/share/pin-6555)
 
-[![Dark footer with IBM logo, four-column link groups labeled Discover, Connect, Follow, and About, plus bottom legal links on near-black background.](https://pin.fontofweb.com/6554?format=jpg)](https://design.withfudge.com/share/pin-6554)
+[![Dark footer with IBM logo, four-column link groups labeled Discover, Connect, Follow, and About, plus bottom legal links on near-black background.](https://pin.fontofweb.com/6554?format=jpg)](https://fudge.design/share/pin-6554)
 
-[Dark footer with IBM logo, four-column link groups labeled Discover, Connect, Follow, and About, plus bottom legal links on near-black background.](https://design.withfudge.com/share/pin-6554)
+[Dark footer with IBM logo, four-column link groups labeled Discover, Connect, Follow, and About, plus bottom legal links on near-black background.](https://fudge.design/share/pin-6554)
 
-[![Next steps section with light gray background, large IBM Plex Sans Light heading, blue LinkedIn follow button, and three-column newsletter and careers card grid.](https://pin.fontofweb.com/6553?format=jpg)](https://design.withfudge.com/share/pin-6553)
+[![Next steps section with light gray background, large IBM Plex Sans Light heading, blue LinkedIn follow button, and three-column newsletter and careers card grid.](https://pin.fontofweb.com/6553?format=jpg)](https://fudge.design/share/pin-6553)
 
-[Next steps section with light gray background, large IBM Plex Sans Light heading, blue LinkedIn follow button, and three-column newsletter and careers card grid.](https://design.withfudge.com/share/pin-6553)
+[Next steps section with light gray background, large IBM Plex Sans Light heading, blue LinkedIn follow button, and three-column newsletter and careers card grid.](https://fudge.design/share/pin-6553)
 
-[![Customer successes section with IBM Plex Sans Light heading, four client logo cards with case study text, and strategic partnership logo row below.](https://pin.fontofweb.com/6552?format=jpg)](https://design.withfudge.com/share/pin-6552)
+[![Customer successes section with IBM Plex Sans Light heading, four client logo cards with case study text, and strategic partnership logo row below.](https://pin.fontofweb.com/6552?format=jpg)](https://fudge.design/share/pin-6552)
 
-[Customer successes section with IBM Plex Sans Light heading, four client logo cards with case study text, and strategic partnership logo row below.](https://design.withfudge.com/share/pin-6552)
+[Customer successes section with IBM Plex Sans Light heading, four client logo cards with case study text, and strategic partnership logo row below.](https://fudge.design/share/pin-6552)
 
 ## Overview
 
@@ -193,3 +193,18 @@ The footer link columns would reorganize from four-column grid to two-column or 
 ## Scope note
 
 This guide covers the IBM.com marketing and services page surfaces visible in the supplied images, including the services listing, consulting pages, careers entry points, and global footer. Product interfaces, documentation sites, and authenticated application experiences are not represented. Motion, hover states, focus behavior, and mobile-specific layouts are not documented from the static views. Measurements are practical adaptation targets based on the interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

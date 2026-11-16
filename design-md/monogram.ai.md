@@ -1,18 +1,18 @@
 # How monogram.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/monogram.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/monogram.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with Monogram logo, headline AI with a visual interface, download button, and floating phone mockup showing movie recommendations interface](https://pin.fontofweb.com/9955?format=jpg)](https://design.withfudge.com/share/pin-9955)
+[![Hero section with Monogram logo, headline AI with a visual interface, download button, and floating phone mockup showing movie recommendations interface](https://pin.fontofweb.com/9955?format=jpg)](https://fudge.design/share/pin-9955)
 
-[Hero section with Monogram logo, headline AI with a visual interface, download button, and floating phone mockup showing movie recommendations interface](https://design.withfudge.com/share/pin-9955)
+[Hero section with Monogram logo, headline AI with a visual interface, download button, and floating phone mockup showing movie recommendations interface](https://fudge.design/share/pin-9955)
 
-[![Lower page view showing phone mockup with recipe content, cookie recipe suggestion chips, and footer with large Monogram wordmark and navigation links](https://pin.fontofweb.com/9954?format=jpg)](https://design.withfudge.com/share/pin-9954)
+[![Lower page view showing phone mockup with recipe content, cookie recipe suggestion chips, and footer with large Monogram wordmark and navigation links](https://pin.fontofweb.com/9954?format=jpg)](https://fudge.design/share/pin-9954)
 
-[Lower page view showing phone mockup with recipe content, cookie recipe suggestion chips, and footer with large Monogram wordmark and navigation links](https://design.withfudge.com/share/pin-9954)
+[Lower page view showing phone mockup with recipe content, cookie recipe suggestion chips, and footer with large Monogram wordmark and navigation links](https://fudge.design/share/pin-9954)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The announcement banner at page top appears as a simple centered text link; this
 ## Scope note
 
 This guide covers the Monogram landing page hero, product demonstration area with phone mockups, and footer. Interior pages, additional breakpoints, motion behavior, and the actual application interface within the mockups are not represented. The navigation system beyond footer links is not visible in the supplied material. Applesystem appears in source records but is not a primary design voice in the visible interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

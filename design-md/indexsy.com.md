@@ -1,22 +1,22 @@
 # How indexsy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/indexsy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/indexsy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page with serif headline, blue metric numbers in white cards, and 3D abacus illustration on the right](https://pin.fontofweb.com/5228?format=jpg)](https://design.withfudge.com/share/pin-5228)
+[![About page with serif headline, blue metric numbers in white cards, and 3D abacus illustration on the right](https://pin.fontofweb.com/5228?format=jpg)](https://fudge.design/share/pin-5228)
 
-[About page with serif headline, blue metric numbers in white cards, and 3D abacus illustration on the right](https://design.withfudge.com/share/pin-5228)
+[About page with serif headline, blue metric numbers in white cards, and 3D abacus illustration on the right](https://fudge.design/share/pin-5228)
 
-[![Homepage hero with serif and blue sans-serif mixed headline, yellow CTA buttons, 3D chart and arch illustrations, and media logo bar](https://pin.fontofweb.com/5227?format=jpg)](https://design.withfudge.com/share/pin-5227)
+[![Homepage hero with serif and blue sans-serif mixed headline, yellow CTA buttons, 3D chart and arch illustrations, and media logo bar](https://pin.fontofweb.com/5227?format=jpg)](https://fudge.design/share/pin-5227)
 
-[Homepage hero with serif and blue sans-serif mixed headline, yellow CTA buttons, 3D chart and arch illustrations, and media logo bar](https://design.withfudge.com/share/pin-5227)
+[Homepage hero with serif and blue sans-serif mixed headline, yellow CTA buttons, 3D chart and arch illustrations, and media logo bar](https://fudge.design/share/pin-5227)
 
-[![Footer on deep blue background with white navigation, yellow CTA button, and speckled 3D arch illustration](https://pin.fontofweb.com/5226?format=jpg)](https://design.withfudge.com/share/pin-5226)
+[![Footer on deep blue background with white navigation, yellow CTA button, and speckled 3D arch illustration](https://pin.fontofweb.com/5226?format=jpg)](https://fudge.design/share/pin-5226)
 
-[Footer on deep blue background with white navigation, yellow CTA button, and speckled 3D arch illustration](https://design.withfudge.com/share/pin-5226)
+[Footer on deep blue background with white navigation, yellow CTA button, and speckled 3D arch illustration](https://fudge.design/share/pin-5226)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The system appears designed for desktop-first presentation with clear adaptation
 ## Scope note
 
 This guide covers the homepage, About page, and footer surfaces visible in the supplied images. Mobile breakpoints, dropdown menu interactions, form fields, loading states, and motion behavior are not represented. Measurements are practical adaptation targets. Verify licensing for GT Super Display, Inter, and Roboto before production use.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

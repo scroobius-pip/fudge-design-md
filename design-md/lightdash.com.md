@@ -1,26 +1,26 @@
 # How lightdash.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lightdash.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/lightdash.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Social-proof section with pixel-art poop emoji, testimonial cards on dotted grid background, and Britti Sans headings in dark gray and muted gray tones.](https://pin.fontofweb.com/4118?format=jpg)](https://design.withfudge.com/share/pin-4118)
+[![Social-proof section with pixel-art poop emoji, testimonial cards on dotted grid background, and Britti Sans headings in dark gray and muted gray tones.](https://pin.fontofweb.com/4118?format=jpg)](https://fudge.design/share/pin-4118)
 
-[Social-proof section with pixel-art poop emoji, testimonial cards on dotted grid background, and Britti Sans headings in dark gray and muted gray tones.](https://design.withfudge.com/share/pin-4118)
+[Social-proof section with pixel-art poop emoji, testimonial cards on dotted grid background, and Britti Sans headings in dark gray and muted gray tones.](https://fudge.design/share/pin-4118)
 
-[![Dark navy footer with Lightdash logo, G2 badge grid, newsletter email capture with white Subscribe button, and three-column link groups in muted text.](https://pin.fontofweb.com/4117?format=jpg)](https://design.withfudge.com/share/pin-4117)
+[![Dark navy footer with Lightdash logo, G2 badge grid, newsletter email capture with white Subscribe button, and three-column link groups in muted text.](https://pin.fontofweb.com/4117?format=jpg)](https://fudge.design/share/pin-4117)
 
-[Dark navy footer with Lightdash logo, G2 badge grid, newsletter email capture with white Subscribe button, and three-column link groups in muted text.](https://design.withfudge.com/share/pin-4117)
+[Dark navy footer with Lightdash logo, G2 badge grid, newsletter email capture with white Subscribe button, and three-column link groups in muted text.](https://fudge.design/share/pin-4117)
 
-[![Dark CTA banner with gradient purple pixel-art decoration, large Britti Sans heading in white-to-gray gradient, and two buttons with purple fill and dark fill variants.](https://pin.fontofweb.com/4116?format=jpg)](https://design.withfudge.com/share/pin-4116)
+[![Dark CTA banner with gradient purple pixel-art decoration, large Britti Sans heading in white-to-gray gradient, and two buttons with purple fill and dark fill variants.](https://pin.fontofweb.com/4116?format=jpg)](https://fudge.design/share/pin-4116)
 
-[Dark CTA banner with gradient purple pixel-art decoration, large Britti Sans heading in white-to-gray gradient, and two buttons with purple fill and dark fill variants.](https://design.withfudge.com/share/pin-4116)
+[Dark CTA banner with gradient purple pixel-art decoration, large Britti Sans heading in white-to-gray gradient, and two buttons with purple fill and dark fill variants.](https://fudge.design/share/pin-4116)
 
-[![Happiness Curve section with pixel-art smiley, stepped line chart with purple gradient fill, Micro 5 pixel font labels, and purple action button.](https://pin.fontofweb.com/4115?format=jpg)](https://design.withfudge.com/share/pin-4115)
+[![Happiness Curve section with pixel-art smiley, stepped line chart with purple gradient fill, Micro 5 pixel font labels, and purple action button.](https://pin.fontofweb.com/4115?format=jpg)](https://fudge.design/share/pin-4115)
 
-[Happiness Curve section with pixel-art smiley, stepped line chart with purple gradient fill, Micro 5 pixel font labels, and purple action button.](https://design.withfudge.com/share/pin-4115)
+[Happiness Curve section with pixel-art smiley, stepped line chart with purple gradient fill, Micro 5 pixel font labels, and purple action button.](https://fudge.design/share/pin-4115)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Touch targets for buttons should maintain at least 44px height, with adequate sp
 ## Scope note
 
 This guide covers the homepage surface including hero, social proof, CTA, and footer sections visible in the supplied images. Navigation header, mobile layouts, interior pages, and interactive states such as hover, focus, and loading are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

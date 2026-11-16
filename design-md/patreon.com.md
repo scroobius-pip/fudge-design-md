@@ -1,26 +1,26 @@
 # How patreon.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/patreon.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/patreon.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark login screen with centered white social auth buttons, email input field, and muted legal copy on near-black background](https://pin.fontofweb.com/2532?format=jpg)](https://design.withfudge.com/share/pin-2532)
+[![Dark login screen with centered white social auth buttons, email input field, and muted legal copy on near-black background](https://pin.fontofweb.com/2532?format=jpg)](https://fudge.design/share/pin-2532)
 
-[Dark login screen with centered white social auth buttons, email input field, and muted legal copy on near-black background](https://design.withfudge.com/share/pin-2532)
+[Dark login screen with centered white social auth buttons, email input field, and muted legal copy on near-black background](https://fudge.design/share/pin-2532)
 
-[![Olive-green pricing section with oversized black display type and white rounded feature cards in a grid layout](https://pin.fontofweb.com/2531?format=jpg)](https://design.withfudge.com/share/pin-2531)
+[![Olive-green pricing section with oversized black display type and white rounded feature cards in a grid layout](https://pin.fontofweb.com/2531?format=jpg)](https://fudge.design/share/pin-2531)
 
-[Olive-green pricing section with oversized black display type and white rounded feature cards in a grid layout](https://design.withfudge.com/share/pin-2531)
+[Olive-green pricing section with oversized black display type and white rounded feature cards in a grid layout](https://fudge.design/share/pin-2531)
 
-[![White pricing panel with large 10% figure, checkmark list items, and section headings on sage green background](https://pin.fontofweb.com/2530?format=jpg)](https://design.withfudge.com/share/pin-2530)
+[![White pricing panel with large 10% figure, checkmark list items, and section headings on sage green background](https://pin.fontofweb.com/2530?format=jpg)](https://fudge.design/share/pin-2530)
 
-[White pricing panel with large 10% figure, checkmark list items, and section headings on sage green background](https://design.withfudge.com/share/pin-2530)
+[White pricing panel with large 10% figure, checkmark list items, and section headings on sage green background](https://fudge.design/share/pin-2530)
 
-[![Homepage hero with full-bleed creator photography, white oversized headline overlay, and pill-shaped navigation buttons](https://pin.fontofweb.com/2529?format=jpg)](https://design.withfudge.com/share/pin-2529)
+[![Homepage hero with full-bleed creator photography, white oversized headline overlay, and pill-shaped navigation buttons](https://pin.fontofweb.com/2529?format=jpg)](https://fudge.design/share/pin-2529)
 
-[Homepage hero with full-bleed creator photography, white oversized headline overlay, and pill-shaped navigation buttons](https://design.withfudge.com/share/pin-2529)
+[Homepage hero with full-bleed creator photography, white oversized headline overlay, and pill-shaped navigation buttons](https://fudge.design/share/pin-2529)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Category pill buttons in the navigation dropdown should stack vertically on mobi
 ## Scope note
 
 This guide covers the Patreon homepage and pricing marketing surfaces, plus the login authentication flow. Creator dashboard interfaces, membership tiers, checkout flows, and mobile-native applications are not represented. Measurements are practical adaptation targets derived from visible compositions. No motion, interaction, or dark-mode marketing variants are documented in the supplied materials.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

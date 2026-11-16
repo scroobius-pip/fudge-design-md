@@ -1,22 +1,22 @@
 # How pepperl-fuchs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pepperl-fuchs.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/pepperl-fuchs.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Technical data accordion with teal active state and grey collapsed rows showing product specifications in a structured table format](https://pin.fontofweb.com/5873?format=jpg)](https://design.withfudge.com/share/pin-5873)
+[![Technical data accordion with teal active state and grey collapsed rows showing product specifications in a structured table format](https://pin.fontofweb.com/5873?format=jpg)](https://fudge.design/share/pin-5873)
 
-[Technical data accordion with teal active state and grey collapsed rows showing product specifications in a structured table format](https://design.withfudge.com/share/pin-5873)
+[Technical data accordion with teal active state and grey collapsed rows showing product specifications in a structured table format](https://fudge.design/share/pin-5873)
 
-[![Product detail page featuring hero image of green industrial converter, breadcrumb navigation, key benefits list, and add-to-cart controls](https://pin.fontofweb.com/5872?format=jpg)](https://design.withfudge.com/share/pin-5872)
+[![Product detail page featuring hero image of green industrial converter, breadcrumb navigation, key benefits list, and add-to-cart controls](https://pin.fontofweb.com/5872?format=jpg)](https://fudge.design/share/pin-5872)
 
-[Product detail page featuring hero image of green industrial converter, breadcrumb navigation, key benefits list, and add-to-cart controls](https://design.withfudge.com/share/pin-5872)
+[Product detail page featuring hero image of green industrial converter, breadcrumb navigation, key benefits list, and add-to-cart controls](https://fudge.design/share/pin-5872)
 
-[![Product category landing page with dark slate hero banner, search filter bar, and grid of product cards with bookmark icons and cart buttons](https://pin.fontofweb.com/5871?format=jpg)](https://design.withfudge.com/share/pin-5871)
+[![Product category landing page with dark slate hero banner, search filter bar, and grid of product cards with bookmark icons and cart buttons](https://pin.fontofweb.com/5871?format=jpg)](https://fudge.design/share/pin-5871)
 
-[Product category landing page with dark slate hero banner, search filter bar, and grid of product cards with bookmark icons and cart buttons](https://design.withfudge.com/share/pin-5871)
+[Product category landing page with dark slate hero banner, search filter bar, and grid of product cards with bookmark icons and cart buttons](https://fudge.design/share/pin-5871)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Technical data accordions remain effective across all viewport widths due to the
 ## Scope note
 
 This guide covers the product category landing page and product detail page surfaces visible in the supplied images. Header navigation, footer, checkout flows, account pages, and mobile-specific layouts are not represented. Motion, hover states, and form validation patterns are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

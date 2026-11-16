@@ -1,26 +1,26 @@
 # How ovhcloud.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ovhcloud.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ovhcloud.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Deep blue footer with multi-column link grid, email subscription form, social icons, and floating plan-a-call button with gradient background.](https://pin.fontofweb.com/3315?format=jpg)](https://design.withfudge.com/share/pin-3315)
+[![Deep blue footer with multi-column link grid, email subscription form, social icons, and floating plan-a-call button with gradient background.](https://pin.fontofweb.com/3315?format=jpg)](https://fudge.design/share/pin-3315)
 
-[Deep blue footer with multi-column link grid, email subscription form, social icons, and floating plan-a-call button with gradient background.](https://design.withfudge.com/share/pin-3315)
+[Deep blue footer with multi-column link grid, email subscription form, social icons, and floating plan-a-call button with gradient background.](https://fudge.design/share/pin-3315)
 
-[![FAQ accordion section with blue question links, expand/collapse chevrons, and gray body text on white background.](https://pin.fontofweb.com/3314?format=jpg)](https://design.withfudge.com/share/pin-3314)
+[![FAQ accordion section with blue question links, expand/collapse chevrons, and gray body text on white background.](https://pin.fontofweb.com/3314?format=jpg)](https://fudge.design/share/pin-3314)
 
-[FAQ accordion section with blue question links, expand/collapse chevrons, and gray body text on white background.](https://design.withfudge.com/share/pin-3314)
+[FAQ accordion section with blue question links, expand/collapse chevrons, and gray body text on white background.](https://fudge.design/share/pin-3314)
 
-[![Two-column feature grid with dark navy section headings, blue inline links, and gray descriptive text for dedicated server capabilities.](https://pin.fontofweb.com/3313?format=jpg)](https://design.withfudge.com/share/pin-3313)
+[![Two-column feature grid with dark navy section headings, blue inline links, and gray descriptive text for dedicated server capabilities.](https://pin.fontofweb.com/3313?format=jpg)](https://fudge.design/share/pin-3313)
 
-[Two-column feature grid with dark navy section headings, blue inline links, and gray descriptive text for dedicated server capabilities.](https://design.withfudge.com/share/pin-3313)
+[Two-column feature grid with dark navy section headings, blue inline links, and gray descriptive text for dedicated server capabilities.](https://fudge.design/share/pin-3313)
 
-[![Promotional banner with geometric server illustration, navy headline, blue outlined price button, and light blue border.](https://pin.fontofweb.com/3312?format=jpg)](https://design.withfudge.com/share/pin-3312)
+[![Promotional banner with geometric server illustration, navy headline, blue outlined price button, and light blue border.](https://pin.fontofweb.com/3312?format=jpg)](https://fudge.design/share/pin-3312)
 
-[Promotional banner with geometric server illustration, navy headline, blue outlined price button, and light blue border.](https://design.withfudge.com/share/pin-3312)
+[Promotional banner with geometric server illustration, navy headline, blue outlined price button, and light blue border.](https://fudge.design/share/pin-3312)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The design should adapt from multi-column desktop layouts to stacked single-colu
 ## Scope note
 
 This guide covers the marketing page surfaces for OVHcloud's bare-metal server and VPS offerings, including footer navigation, feature grids, FAQ accordions, and promotional banners. It does not include the VPS configurator interface, account dashboard, checkout flows, or mobile-specific navigation patterns. Motion, loading states, and form validation styling are not represented in the supplied material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

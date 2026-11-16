@@ -1,26 +1,26 @@
 # How parrotapp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/parrotapp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/parrotapp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer and final call-to-action section with rounded white panel, yellow button, and Parrot logo on light gray background](https://pin.fontofweb.com/5399?format=jpg)](https://design.withfudge.com/share/pin-5399)
+[![Footer and final call-to-action section with rounded white panel, yellow button, and Parrot logo on light gray background](https://pin.fontofweb.com/5399?format=jpg)](https://fudge.design/share/pin-5399)
 
-[Footer and final call-to-action section with rounded white panel, yellow button, and Parrot logo on light gray background](https://design.withfudge.com/share/pin-5399)
+[Footer and final call-to-action section with rounded white panel, yellow button, and Parrot logo on light gray background](https://fudge.design/share/pin-5399)
 
-[![User testimonials section with large split-color heading, quote blocks, and orange star ratings on off-white](https://pin.fontofweb.com/5398?format=jpg)](https://design.withfudge.com/share/pin-5398)
+[![User testimonials section with large split-color heading, quote blocks, and orange star ratings on off-white](https://pin.fontofweb.com/5398?format=jpg)](https://fudge.design/share/pin-5398)
 
-[User testimonials section with large split-color heading, quote blocks, and orange star ratings on off-white](https://design.withfudge.com/share/pin-5398)
+[User testimonials section with large split-color heading, quote blocks, and orange star ratings on off-white](https://fudge.design/share/pin-5398)
 
-[![FAQ accordion section with vibrant yellow background, black typography, and circular chevron buttons](https://pin.fontofweb.com/5397?format=jpg)](https://design.withfudge.com/share/pin-5397)
+[![FAQ accordion section with vibrant yellow background, black typography, and circular chevron buttons](https://pin.fontofweb.com/5397?format=jpg)](https://fudge.design/share/pin-5397)
 
-[FAQ accordion section with vibrant yellow background, black typography, and circular chevron buttons](https://design.withfudge.com/share/pin-5397)
+[FAQ accordion section with vibrant yellow background, black typography, and circular chevron buttons](https://fudge.design/share/pin-5397)
 
-[![Pricing cards with white and orange surfaces, black action buttons, and split-color display heading](https://pin.fontofweb.com/5396?format=jpg)](https://design.withfudge.com/share/pin-5396)
+[![Pricing cards with white and orange surfaces, black action buttons, and split-color display heading](https://pin.fontofweb.com/5396?format=jpg)](https://fudge.design/share/pin-5396)
 
-[Pricing cards with white and orange surfaces, black action buttons, and split-color display heading](https://design.withfudge.com/share/pin-5396)
+[Pricing cards with white and orange surfaces, black action buttons, and split-color display heading](https://fudge.design/share/pin-5396)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The layout appears optimized for desktop viewport widths. At narrower widths, th
 ## Scope note
 
 This guide covers the marketing landing page for Parrot including the hero, testimonials, pricing, FAQ, and footer sections. Mobile layouts, hover states, focus styles, loading indicators, error states, and the application interface itself are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

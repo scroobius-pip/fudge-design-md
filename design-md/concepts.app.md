@@ -1,26 +1,26 @@
 # How concepts.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/concepts.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/concepts.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark background, centered tagline, blue download button, four-column link grid, social icons, and copyright text](https://pin.fontofweb.com/2517?format=jpg)](https://design.withfudge.com/share/pin-2517)
+[![Footer section with dark background, centered tagline, blue download button, four-column link grid, social icons, and copyright text](https://pin.fontofweb.com/2517?format=jpg)](https://fudge.design/share/pin-2517)
 
-[Footer section with dark background, centered tagline, blue download button, four-column link grid, social icons, and copyright text](https://design.withfudge.com/share/pin-2517)
+[Footer section with dark background, centered tagline, blue download button, four-column link grid, social icons, and copyright text](https://fudge.design/share/pin-2517)
 
-[![Pricing page with three-tier column layout showing Basic, Pro, and Teams plans with purple accent labels and blue store links](https://pin.fontofweb.com/2516?format=jpg)](https://design.withfudge.com/share/pin-2516)
+[![Pricing page with three-tier column layout showing Basic, Pro, and Teams plans with purple accent labels and blue store links](https://pin.fontofweb.com/2516?format=jpg)](https://fudge.design/share/pin-2516)
 
-[Pricing page with three-tier column layout showing Basic, Pro, and Teams plans with purple accent labels and blue store links](https://design.withfudge.com/share/pin-2516)
+[Pricing page with three-tier column layout showing Basic, Pro, and Teams plans with purple accent labels and blue store links](https://fudge.design/share/pin-2516)
 
-[![Use-case gallery with horizontal filter pills, two-column testimonial cards with architectural sketches and handwritten notes imagery](https://pin.fontofweb.com/2515?format=jpg)](https://design.withfudge.com/share/pin-2515)
+[![Use-case gallery with horizontal filter pills, two-column testimonial cards with architectural sketches and handwritten notes imagery](https://pin.fontofweb.com/2515?format=jpg)](https://fudge.design/share/pin-2515)
 
-[Use-case gallery with horizontal filter pills, two-column testimonial cards with architectural sketches and handwritten notes imagery](https://design.withfudge.com/share/pin-2515)
+[Use-case gallery with horizontal filter pills, two-column testimonial cards with architectural sketches and handwritten notes imagery](https://fudge.design/share/pin-2515)
 
-[![Feature grid with nine icon-driven capabilities arranged in three rows, each with purple line-art icons on dark background](https://pin.fontofweb.com/2514?format=jpg)](https://design.withfudge.com/share/pin-2514)
+[![Feature grid with nine icon-driven capabilities arranged in three rows, each with purple line-art icons on dark background](https://pin.fontofweb.com/2514?format=jpg)](https://fudge.design/share/pin-2514)
 
-[Feature grid with nine icon-driven capabilities arranged in three rows, each with purple line-art icons on dark background](https://design.withfudge.com/share/pin-2514)
+[Feature grid with nine icon-driven capabilities arranged in three rows, each with purple line-art icons on dark background](https://fudge.design/share/pin-2514)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Touch targets for buttons and pills should maintain minimum 44px height even as 
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces visible in the supplied images. Navigation header, mobile menu, form states, loading indicators, and in-app interface elements are not represented. Measurements are practical adaptation targets derived from the visible compositions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

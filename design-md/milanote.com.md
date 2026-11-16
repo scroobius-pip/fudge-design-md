@@ -1,26 +1,26 @@
 # How milanote.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/milanote.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/milanote.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Registration page with playful collage-style illustration, orange Submit button, and centered form on light gray background](https://pin.fontofweb.com/869?format=jpg)](https://design.withfudge.com/share/pin-869)
+[![Registration page with playful collage-style illustration, orange Submit button, and centered form on light gray background](https://pin.fontofweb.com/869?format=jpg)](https://fudge.design/share/pin-869)
 
-[Registration page with playful collage-style illustration, orange Submit button, and centered form on light gray background](https://design.withfudge.com/share/pin-869)
+[Registration page with playful collage-style illustration, orange Submit button, and centered form on light gray background](https://fudge.design/share/pin-869)
 
-[![Security section with orange padlock illustration, serif heading, and bullet list on pale gray surface](https://pin.fontofweb.com/868?format=jpg)](https://design.withfudge.com/share/pin-868)
+[![Security section with orange padlock illustration, serif heading, and bullet list on pale gray surface](https://pin.fontofweb.com/868?format=jpg)](https://fudge.design/share/pin-868)
 
-[Security section with orange padlock illustration, serif heading, and bullet list on pale gray surface](https://design.withfudge.com/share/pin-868)
+[Security section with orange padlock illustration, serif heading, and bullet list on pale gray surface](https://fudge.design/share/pin-868)
 
-[![User journey planning section with card-based flow diagram, green and blue accent borders, and orange link text](https://pin.fontofweb.com/867?format=jpg)](https://design.withfudge.com/share/pin-867)
+[![User journey planning section with card-based flow diagram, green and blue accent borders, and orange link text](https://pin.fontofweb.com/867?format=jpg)](https://fudge.design/share/pin-867)
 
-[User journey planning section with card-based flow diagram, green and blue accent borders, and orange link text](https://design.withfudge.com/share/pin-867)
+[User journey planning section with card-based flow diagram, green and blue accent borders, and orange link text](https://fudge.design/share/pin-867)
 
-[![Product manager landing hero with dark charcoal background, large serif headline, orange CTA, and app interface screenshot](https://pin.fontofweb.com/866?format=jpg)](https://design.withfudge.com/share/pin-866)
+[![Product manager landing hero with dark charcoal background, large serif headline, orange CTA, and app interface screenshot](https://pin.fontofweb.com/866?format=jpg)](https://fudge.design/share/pin-866)
 
-[Product manager landing hero with dark charcoal background, large serif headline, orange CTA, and app interface screenshot](https://design.withfudge.com/share/pin-866)
+[Product manager landing hero with dark charcoal background, large serif headline, orange CTA, and app interface screenshot](https://fudge.design/share/pin-866)
 
 ## Overview
 
@@ -174,3 +174,18 @@ Dark hero sections should maintain their atmospheric quality by ensuring suffici
 ## Scope note
 
 This guide covers Milanote's marketing and registration surfaces as visible in the supplied captures. The product interface itself—boards, cards, editing tools, and collaboration features—is represented only through screenshots and mockups within these marketing pages. Mobile layouts, animation behavior, loading states, and error handling are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

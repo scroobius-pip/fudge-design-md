@@ -1,22 +1,22 @@
 # How webshare.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/webshare.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/webshare.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Proxy Servers landing page with feature grid, Trustpilot rating banner, green CTA button, and eight product capability cards with illustrations on pale mint background](https://pin.fontofweb.com/5012?format=jpg)](https://design.withfudge.com/share/pin-5012)
+[![Proxy Servers landing page with feature grid, Trustpilot rating banner, green CTA button, and eight product capability cards with illustrations on pale mint background](https://pin.fontofweb.com/5012?format=jpg)](https://fudge.design/share/pin-5012)
 
-[Proxy Servers landing page with feature grid, Trustpilot rating banner, green CTA button, and eight product capability cards with illustrations on pale mint background](https://design.withfudge.com/share/pin-5012)
+[Proxy Servers landing page with feature grid, Trustpilot rating banner, green CTA button, and eight product capability cards with illustrations on pale mint background](https://fudge.design/share/pin-5012)
 
-[![Accelerate Your Application section with left-aligned headline, body copy, green CTA button, and orange brain character illustration on lavender background](https://pin.fontofweb.com/5011?format=jpg)](https://design.withfudge.com/share/pin-5011)
+[![Accelerate Your Application section with left-aligned headline, body copy, green CTA button, and orange brain character illustration on lavender background](https://pin.fontofweb.com/5011?format=jpg)](https://fudge.design/share/pin-5011)
 
-[Accelerate Your Application section with left-aligned headline, body copy, green CTA button, and orange brain character illustration on lavender background](https://design.withfudge.com/share/pin-5011)
+[Accelerate Your Application section with left-aligned headline, body copy, green CTA button, and orange brain character illustration on lavender background](https://fudge.design/share/pin-5011)
 
-[![Global Proxies section with 50+ COUNTRIES pill badge, headline, body copy, green CTA button, and space telescope illustration on pale blue background](https://pin.fontofweb.com/5010?format=jpg)](https://design.withfudge.com/share/pin-5010)
+[![Global Proxies section with 50+ COUNTRIES pill badge, headline, body copy, green CTA button, and space telescope illustration on pale blue background](https://pin.fontofweb.com/5010?format=jpg)](https://fudge.design/share/pin-5010)
 
-[Global Proxies section with 50+ COUNTRIES pill badge, headline, body copy, green CTA button, and space telescope illustration on pale blue background](https://design.withfudge.com/share/pin-5010)
+[Global Proxies section with 50+ COUNTRIES pill badge, headline, body copy, green CTA button, and space telescope illustration on pale blue background](https://fudge.design/share/pin-5010)
 
 ## Overview
 
@@ -158,3 +158,18 @@ The multi-column feature grid should collapse to two columns on tablet and singl
 ## Scope note
 
 This guide covers the landing and use-case page surfaces visible in the supplied images: the proxy-server hero with feature grid, and the social-media use-case narrative sections. Navigation, footer, form states, mobile layouts, dark mode, animation, and pricing tables are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

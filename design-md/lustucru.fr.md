@@ -1,18 +1,18 @@
 # How lustucru.fr is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lustucru.fr-design)
+[Open the live Fudge conversation](https://fudge.design/share/lustucru.fr-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner featuring blue checkered background with Torsades 3 min product packaging, prepared pasta dishes on wooden surface, and red circular badge with white typography](https://pin.fontofweb.com/3128?format=jpg)](https://design.withfudge.com/share/pin-3128)
+[![Hero banner featuring blue checkered background with Torsades 3 min product packaging, prepared pasta dishes on wooden surface, and red circular badge with white typography](https://pin.fontofweb.com/3128?format=jpg)](https://fudge.design/share/pin-3128)
 
-[Hero banner featuring blue checkered background with Torsades 3 min product packaging, prepared pasta dishes on wooden surface, and red circular badge with white typography](https://design.withfudge.com/share/pin-3128)
+[Hero banner featuring blue checkered background with Torsades 3 min product packaging, prepared pasta dishes on wooden surface, and red circular badge with white typography](https://fudge.design/share/pin-3128)
 
-[![Product showcase with yellow tagliatelle pasta package on striped yellow background, recipe photography cards, and handwritten-style French promotional text](https://pin.fontofweb.com/3127?format=jpg)](https://design.withfudge.com/share/pin-3127)
+[![Product showcase with yellow tagliatelle pasta package on striped yellow background, recipe photography cards, and handwritten-style French promotional text](https://pin.fontofweb.com/3127?format=jpg)](https://fudge.design/share/pin-3127)
 
-[Product showcase with yellow tagliatelle pasta package on striped yellow background, recipe photography cards, and handwritten-style French promotional text](https://design.withfudge.com/share/pin-3127)
+[Product showcase with yellow tagliatelle pasta package on striped yellow background, recipe photography cards, and handwritten-style French promotional text](https://fudge.design/share/pin-3127)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The limited weight range of Yantramanav means hierarchy on small screens must re
 ## Scope note
 
 This guide covers the homepage hero and product showcase surfaces visible in the supplied images. Interior pages, navigation menus, footer content, e-commerce flows, and mobile-specific layouts are not represented. Typography measurements are practical adaptation targets based on visual estimation from the provided imagery. Motion behavior, hover states, and form interactions are not documented. Verify licensing for Yantramanav before production use.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

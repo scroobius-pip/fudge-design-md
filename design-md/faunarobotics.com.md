@@ -1,26 +1,26 @@
 # How faunarobotics.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/faunarobotics.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/faunarobotics.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Product page hero with humanoid robot photograph and feature selection panel on warm cream canvas](https://pin.fontofweb.com/10744?format=jpg)](https://design.withfudge.com/share/pin-10744)
+[![Product page hero with humanoid robot photograph and feature selection panel on warm cream canvas](https://pin.fontofweb.com/10744?format=jpg)](https://fudge.design/share/pin-10744)
 
-[Product page hero with humanoid robot photograph and feature selection panel on warm cream canvas](https://design.withfudge.com/share/pin-10744)
+[Product page hero with humanoid robot photograph and feature selection panel on warm cream canvas](https://fudge.design/share/pin-10744)
 
-[![Product page video hero showing Sprout robot with overlaid title and floating video thumbnail](https://pin.fontofweb.com/10743?format=jpg)](https://design.withfudge.com/share/pin-10743)
+[![Product page video hero showing Sprout robot with overlaid title and floating video thumbnail](https://pin.fontofweb.com/10743?format=jpg)](https://fudge.design/share/pin-10743)
 
-[Product page video hero showing Sprout robot with overlaid title and floating video thumbnail](https://design.withfudge.com/share/pin-10743)
+[Product page video hero showing Sprout robot with overlaid title and floating video thumbnail](https://fudge.design/share/pin-10743)
 
-[![Homepage footer with geometric robot illustrations and multi-column navigation on beige surface](https://pin.fontofweb.com/10742?format=jpg)](https://design.withfudge.com/share/pin-10742)
+[![Homepage footer with geometric robot illustrations and multi-column navigation on beige surface](https://pin.fontofweb.com/10742?format=jpg)](https://fudge.design/share/pin-10742)
 
-[Homepage footer with geometric robot illustrations and multi-column navigation on beige surface](https://design.withfudge.com/share/pin-10742)
+[Homepage footer with geometric robot illustrations and multi-column navigation on beige surface](https://fudge.design/share/pin-10742)
 
-[![Homepage hero with oversized display typography and pill-shaped CTA buttons above colorful geometric shapes](https://pin.fontofweb.com/10741?format=jpg)](https://design.withfudge.com/share/pin-10741)
+[![Homepage hero with oversized display typography and pill-shaped CTA buttons above colorful geometric shapes](https://pin.fontofweb.com/10741?format=jpg)](https://fudge.design/share/pin-10741)
 
-[Homepage hero with oversized display typography and pill-shaped CTA buttons above colorful geometric shapes](https://design.withfudge.com/share/pin-10741)
+[Homepage hero with oversized display typography and pill-shaped CTA buttons above colorful geometric shapes](https://fudge.design/share/pin-10741)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The captured surfaces show desktop layouts at approximately 2048px viewport widt
 ## Scope note
 
 This guide covers the homepage and product detail page surfaces visible in the captured desktop viewport. Mobile layouts, breakpoint behavior, form interactions, checkout flows, and motion specifications are not included. The geometric illustration system is described visually but exact SVG construction parameters are not provided. Measurements are exact where listed in the design facts; derived values follow the 2px base unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

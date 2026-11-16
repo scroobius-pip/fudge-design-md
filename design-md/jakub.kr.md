@@ -1,26 +1,26 @@
 # How jakub.kr is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/jakub.kr-design)
+[Open the live Fudge conversation](https://fudge.design/share/jakub.kr-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page with table of contents sidebar, code snippet, and interactive text-wrap comparison demo with before and after cards.](https://pin.fontofweb.com/8758?format=jpg)](https://design.withfudge.com/share/pin-8758)
+[![Article page with table of contents sidebar, code snippet, and interactive text-wrap comparison demo with before and after cards.](https://pin.fontofweb.com/8758?format=jpg)](https://fudge.design/share/pin-8758)
 
-[Article page with table of contents sidebar, code snippet, and interactive text-wrap comparison demo with before and after cards.](https://design.withfudge.com/share/pin-8758)
+[Article page with table of contents sidebar, code snippet, and interactive text-wrap comparison demo with before and after cards.](https://fudge.design/share/pin-8758)
 
-[![Color gradient swatch demonstration showing border visibility toggle with blue-to-white stepped palette on dark background.](https://pin.fontofweb.com/8757?format=jpg)](https://design.withfudge.com/share/pin-8757)
+[![Color gradient swatch demonstration showing border visibility toggle with blue-to-white stepped palette on dark background.](https://pin.fontofweb.com/8757?format=jpg)](https://fudge.design/share/pin-8757)
 
-[Color gradient swatch demonstration showing border visibility toggle with blue-to-white stepped palette on dark background.](https://design.withfudge.com/share/pin-8757)
+[Color gradient swatch demonstration showing border visibility toggle with blue-to-white stepped palette on dark background.](https://fudge.design/share/pin-8757)
 
-[![Interactive concentric border radius calculator with three sliders controlling outer radius, inner radius, and padding values.](https://pin.fontofweb.com/8756?format=jpg)](https://design.withfudge.com/share/pin-8756)
+[![Interactive concentric border radius calculator with three sliders controlling outer radius, inner radius, and padding values.](https://pin.fontofweb.com/8756?format=jpg)](https://fudge.design/share/pin-8756)
 
-[Interactive concentric border radius calculator with three sliders controlling outer radius, inner radius, and padding values.](https://design.withfudge.com/share/pin-8756)
+[Interactive concentric border radius calculator with three sliders controlling outer radius, inner radius, and padding values.](https://fudge.design/share/pin-8756)
 
-[![Table of contents navigation panel with active section indicator and monospace section numbering on dark background.](https://pin.fontofweb.com/8755?format=jpg)](https://design.withfudge.com/share/pin-8755)
+[![Table of contents navigation panel with active section indicator and monospace section numbering on dark background.](https://pin.fontofweb.com/8755?format=jpg)](https://fudge.design/share/pin-8755)
 
-[Table of contents navigation panel with active section indicator and monospace section numbering on dark background.](https://design.withfudge.com/share/pin-8755)
+[Table of contents navigation panel with active section indicator and monospace section numbering on dark background.](https://fudge.design/share/pin-8755)
 
 ## Overview
 
@@ -167,3 +167,18 @@ The sidebar table of contents likely collapses to a top-bar or drawer pattern on
 ## Scope note
 
 This guide covers the article reading experience and interactive demonstration components visible on the writing pages. The homepage, navigation pages, and any form or error states are not represented. Motion design, mobile breakpoints, and hover or focus states are not documented from the available material. Measurements are derived from the exact values supplied in the design facts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How labs.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/labs.google-design)
+[Open the live Fudge conversation](https://fudge.design/share/labs.google-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Media gallery grid with left navigation rail showing All Media, Videos, Characters, Scenes, Tools categories and bottom prompt input bar](https://pin.fontofweb.com/9426?format=jpg)](https://design.withfudge.com/share/pin-9426)
+[![Media gallery grid with left navigation rail showing All Media, Videos, Characters, Scenes, Tools categories and bottom prompt input bar](https://pin.fontofweb.com/9426?format=jpg)](https://fudge.design/share/pin-9426)
 
-[Media gallery grid with left navigation rail showing All Media, Videos, Characters, Scenes, Tools categories and bottom prompt input bar](https://design.withfudge.com/share/pin-9426)
+[Media gallery grid with left navigation rail showing All Media, Videos, Characters, Scenes, Tools categories and bottom prompt input bar](https://fudge.design/share/pin-9426)
 
-[![Explore Tools page with hero banner of colorful 3D app icons, Discover and My Tools tabs, and tool card grid with thumbnails](https://pin.fontofweb.com/9425?format=jpg)](https://design.withfudge.com/share/pin-9425)
+[![Explore Tools page with hero banner of colorful 3D app icons, Discover and My Tools tabs, and tool card grid with thumbnails](https://pin.fontofweb.com/9425?format=jpg)](https://fudge.design/share/pin-9425)
 
-[Explore Tools page with hero banner of colorful 3D app icons, Discover and My Tools tabs, and tool card grid with thumbnails](https://design.withfudge.com/share/pin-9425)
+[Explore Tools page with hero banner of colorful 3D app icons, Discover and My Tools tabs, and tool card grid with thumbnails](https://fudge.design/share/pin-9425)
 
-[![Google Flow landing page with hero carousel showing mobile app promotion, project thumbnails, and New project creation card](https://pin.fontofweb.com/9424?format=jpg)](https://design.withfudge.com/share/pin-9424)
+[![Google Flow landing page with hero carousel showing mobile app promotion, project thumbnails, and New project creation card](https://pin.fontofweb.com/9424?format=jpg)](https://fudge.design/share/pin-9424)
 
-[Google Flow landing page with hero carousel showing mobile app promotion, project thumbnails, and New project creation card](https://design.withfudge.com/share/pin-9424)
+[Google Flow landing page with hero carousel showing mobile app promotion, project thumbnails, and New project creation card](https://fudge.design/share/pin-9424)
 
-[![Shared Tool modal dialog for Shader Effects with app icon, trust warning, and centered action buttons on dark overlay](https://pin.fontofweb.com/9423?format=jpg)](https://design.withfudge.com/share/pin-9423)
+[![Shared Tool modal dialog for Shader Effects with app icon, trust warning, and centered action buttons on dark overlay](https://pin.fontofweb.com/9423?format=jpg)](https://fudge.design/share/pin-9423)
 
-[Shared Tool modal dialog for Shader Effects with app icon, trust warning, and centered action buttons on dark overlay](https://design.withfudge.com/share/pin-9423)
+[Shared Tool modal dialog for Shader Effects with app icon, trust warning, and centered action buttons on dark overlay](https://fudge.design/share/pin-9423)
 
 ## Overview
 
@@ -207,3 +207,18 @@ The navigation rail collapses to icon-only or hides entirely on narrow viewports
 ## Scope note
 
 This guide covers the Flow creative tool interface as visible in desktop layouts. Mobile-specific adaptations, animation specifications, loading and error states, and disabled component treatments are not included. Measurements reflect the extracted interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

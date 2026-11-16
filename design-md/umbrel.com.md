@@ -1,26 +1,26 @@
 # How umbrel.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/umbrel.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/umbrel.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Umbrel Pro product page with dark hero, specs grid, and hardware photography on pure black background](https://pin.fontofweb.com/8095?format=jpg)](https://design.withfudge.com/share/pin-8095)
+[![Umbrel Pro product page with dark hero, specs grid, and hardware photography on pure black background](https://pin.fontofweb.com/8095?format=jpg)](https://fudge.design/share/pin-8095)
 
-[Umbrel Pro product page with dark hero, specs grid, and hardware photography on pure black background](https://design.withfudge.com/share/pin-8095)
+[Umbrel Pro product page with dark hero, specs grid, and hardware photography on pure black background](https://fudge.design/share/pin-8095)
 
-[![umbrelOS Files feature section with light background, app screenshot mosaic, and gradient card grid](https://pin.fontofweb.com/8094?format=jpg)](https://design.withfudge.com/share/pin-8094)
+[![umbrelOS Files feature section with light background, app screenshot mosaic, and gradient card grid](https://pin.fontofweb.com/8094?format=jpg)](https://fudge.design/share/pin-8094)
 
-[umbrelOS Files feature section with light background, app screenshot mosaic, and gradient card grid](https://design.withfudge.com/share/pin-8094)
+[umbrelOS Files feature section with light background, app screenshot mosaic, and gradient card grid](https://fudge.design/share/pin-8094)
 
-[![Developer community section with code editor screenshot, glassmorphism card, and blue CTA button](https://pin.fontofweb.com/8093?format=jpg)](https://design.withfudge.com/share/pin-8093)
+[![Developer community section with code editor screenshot, glassmorphism card, and blue CTA button](https://pin.fontofweb.com/8093?format=jpg)](https://fudge.design/share/pin-8093)
 
-[Developer community section with code editor screenshot, glassmorphism card, and blue CTA button](https://design.withfudge.com/share/pin-8093)
+[Developer community section with code editor screenshot, glassmorphism card, and blue CTA button](https://fudge.design/share/pin-8093)
 
-[![Footer area with four white rounded cards, email subscription form, and minimal footer navigation](https://pin.fontofweb.com/8092?format=jpg)](https://design.withfudge.com/share/pin-8092)
+[![Footer area with four white rounded cards, email subscription form, and minimal footer navigation](https://pin.fontofweb.com/8092?format=jpg)](https://fudge.design/share/pin-8092)
 
-[Footer area with four white rounded cards, email subscription form, and minimal footer navigation](https://design.withfudge.com/share/pin-8092)
+[Footer area with four white rounded cards, email subscription form, and minimal footer navigation](https://fudge.design/share/pin-8092)
 
 ## Overview
 
@@ -213,3 +213,18 @@ The floating navigation bar maintains its pill shape but may reduce internal lin
 ## Scope note
 
 This guide covers the marketing pages for Umbrel Pro hardware and umbrelOS software as visible in the supplied captures. It does not include the actual product interface, checkout flows, documentation pages, or mobile app designs. Interactive states beyond static presentation—hover, active, loading, error—are not documented. Motion design, video treatments, and responsive breakpoints below desktop width are not covered.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

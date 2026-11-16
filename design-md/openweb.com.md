@@ -1,22 +1,22 @@
 # How openweb.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openweb.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/openweb.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered headline, body text, and three floating phone mockups showing conversation interfaces on warm cream background](https://pin.fontofweb.com/1970?format=jpg)](https://design.withfudge.com/share/pin-1970)
+[![Hero section with centered headline, body text, and three floating phone mockups showing conversation interfaces on warm cream background](https://pin.fontofweb.com/1970?format=jpg)](https://fudge.design/share/pin-1970)
 
-[Hero section with centered headline, body text, and three floating phone mockups showing conversation interfaces on warm cream background](https://design.withfudge.com/share/pin-1970)
+[Hero section with centered headline, body text, and three floating phone mockups showing conversation interfaces on warm cream background](https://fudge.design/share/pin-1970)
 
-[![Upper hero area with navigation bar, centered sunburst logo, and black contact button on pale background](https://pin.fontofweb.com/1969?format=jpg)](https://design.withfudge.com/share/pin-1969)
+[![Upper hero area with navigation bar, centered sunburst logo, and black contact button on pale background](https://pin.fontofweb.com/1969?format=jpg)](https://fudge.design/share/pin-1969)
 
-[Upper hero area with navigation bar, centered sunburst logo, and black contact button on pale background](https://design.withfudge.com/share/pin-1969)
+[Upper hero area with navigation bar, centered sunburst logo, and black contact button on pale background](https://fudge.design/share/pin-1969)
 
-[![Full hero composition with diagonal phone mockups displaying topic feeds and article cards with photography](https://pin.fontofweb.com/1968?format=jpg)](https://design.withfudge.com/share/pin-1968)
+[![Full hero composition with diagonal phone mockups displaying topic feeds and article cards with photography](https://pin.fontofweb.com/1968?format=jpg)](https://fudge.design/share/pin-1968)
 
-[Full hero composition with diagonal phone mockups displaying topic feeds and article cards with photography](https://design.withfudge.com/share/pin-1968)
+[Full hero composition with diagonal phone mockups displaying topic feeds and article cards with photography](https://fudge.design/share/pin-1968)
 
 ## Overview
 
@@ -141,3 +141,18 @@ Text constraints should remain in place: the body paragraph maintains its maximu
 ## Scope note
 
 This guide covers the OpenWeb homepage hero and navigation surface visible in the supplied images. Footer content, interior pages, dropdown menu designs, and responsive states below desktop width are not represented. Motion, hover states, and form interactions are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

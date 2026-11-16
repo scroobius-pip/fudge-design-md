@@ -1,26 +1,26 @@
 # How shop.heavymetal.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shop.heavymetal.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/shop.heavymetal.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with red Heavy Metal logo, multi-column navigation links, newsletter signup form, and payment method icons on black background](https://pin.fontofweb.com/10013?format=jpg)](https://design.withfudge.com/share/pin-10013)
+[![Footer section with red Heavy Metal logo, multi-column navigation links, newsletter signup form, and payment method icons on black background](https://pin.fontofweb.com/10013?format=jpg)](https://fudge.design/share/pin-10013)
 
-[Footer section with red Heavy Metal logo, multi-column navigation links, newsletter signup form, and payment method icons on black background](https://design.withfudge.com/share/pin-10013)
+[Footer section with red Heavy Metal logo, multi-column navigation links, newsletter signup form, and payment method icons on black background](https://fudge.design/share/pin-10013)
 
-[![Product grid section titled HOT NEW STUFF showing four product cards with category labels, titles, and prices on white background](https://pin.fontofweb.com/10012?format=jpg)](https://design.withfudge.com/share/pin-10012)
+[![Product grid section titled HOT NEW STUFF showing four product cards with category labels, titles, and prices on white background](https://pin.fontofweb.com/10012?format=jpg)](https://fudge.design/share/pin-10012)
 
-[Product grid section titled HOT NEW STUFF showing four product cards with category labels, titles, and prices on white background](https://design.withfudge.com/share/pin-10012)
+[Product grid section titled HOT NEW STUFF showing four product cards with category labels, titles, and prices on white background](https://fudge.design/share/pin-10012)
 
-[![Full-width subscription banner with fantasy artwork featuring warrior on flying creature, white text overlay, and SUBSCRIBE NOW button](https://pin.fontofweb.com/10011?format=jpg)](https://design.withfudge.com/share/pin-10011)
+[![Full-width subscription banner with fantasy artwork featuring warrior on flying creature, white text overlay, and SUBSCRIBE NOW button](https://pin.fontofweb.com/10011?format=jpg)](https://fudge.design/share/pin-10011)
 
-[Full-width subscription banner with fantasy artwork featuring warrior on flying creature, white text overlay, and SUBSCRIBE NOW button](https://design.withfudge.com/share/pin-10011)
+[Full-width subscription banner with fantasy artwork featuring warrior on flying creature, white text overlay, and SUBSCRIBE NOW button](https://fudge.design/share/pin-10011)
 
-[![Single product card showing Heavy Metal magazine issue #5 cover with bat-winged warrior illustration, issue label, title, and price](https://pin.fontofweb.com/10010?format=jpg)](https://design.withfudge.com/share/pin-10010)
+[![Single product card showing Heavy Metal magazine issue #5 cover with bat-winged warrior illustration, issue label, title, and price](https://pin.fontofweb.com/10010?format=jpg)](https://fudge.design/share/pin-10010)
 
-[Single product card showing Heavy Metal magazine issue #5 cover with bat-winged warrior illustration, issue label, title, and price](https://design.withfudge.com/share/pin-10010)
+[Single product card showing Heavy Metal magazine issue #5 cover with bat-winged warrior illustration, issue label, title, and price](https://fudge.design/share/pin-10010)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Button touch targets maintain minimum 44px height through increased padding on s
 ## Scope note
 
 This guide covers the homepage and product listing surfaces visible in the supplied images. Product detail pages, checkout flows, cart modals, and account interfaces are not represented. Mobile navigation behavior, hover states, and loading skeletons should be designed to match the established patterns. Measurements are derived from the desktop viewport as captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

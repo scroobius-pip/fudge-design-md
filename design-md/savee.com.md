@@ -1,26 +1,26 @@
 # How savee.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/savee.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/savee.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Image detail view with dark chrome UI, right-side info panel showing AI tags and comments, and a large product photography render of mechanical hardware with red accents.](https://pin.fontofweb.com/8688?format=jpg)](https://design.withfudge.com/share/pin-8688)
+[![Image detail view with dark chrome UI, right-side info panel showing AI tags and comments, and a large product photography render of mechanical hardware with red accents.](https://pin.fontofweb.com/8688?format=jpg)](https://fudge.design/share/pin-8688)
 
-[Image detail view with dark chrome UI, right-side info panel showing AI tags and comments, and a large product photography render of mechanical hardware with red accents.](https://design.withfudge.com/share/pin-8688)
+[Image detail view with dark chrome UI, right-side info panel showing AI tags and comments, and a large product photography render of mechanical hardware with red accents.](https://fudge.design/share/pin-8688)
 
-[![Vertical user directory list with circular avatars, verified badges, usernames, and pill-shaped Follow buttons on a near-black background.](https://pin.fontofweb.com/8687?format=jpg)](https://design.withfudge.com/share/pin-8687)
+[![Vertical user directory list with circular avatars, verified badges, usernames, and pill-shaped Follow buttons on a near-black background.](https://pin.fontofweb.com/8687?format=jpg)](https://fudge.design/share/pin-8687)
 
-[Vertical user directory list with circular avatars, verified badges, usernames, and pill-shaped Follow buttons on a near-black background.](https://design.withfudge.com/share/pin-8687)
+[Vertical user directory list with circular avatars, verified badges, usernames, and pill-shaped Follow buttons on a near-black background.](https://fudge.design/share/pin-8687)
 
-[![Collapsed info panel showing source attribution, engagement metrics, color swatches, AI tag pills, and a comments section with toggle switch on pure black background.](https://pin.fontofweb.com/8686?format=jpg)](https://design.withfudge.com/share/pin-8686)
+[![Collapsed info panel showing source attribution, engagement metrics, color swatches, AI tag pills, and a comments section with toggle switch on pure black background.](https://pin.fontofweb.com/8686?format=jpg)](https://fudge.design/share/pin-8686)
 
-[Collapsed info panel showing source attribution, engagement metrics, color swatches, AI tag pills, and a comments section with toggle switch on pure black background.](https://design.withfudge.com/share/pin-8686)
+[Collapsed info panel showing source attribution, engagement metrics, color swatches, AI tag pills, and a comments section with toggle switch on pure black background.](https://fudge.design/share/pin-8686)
 
-[![Full image detail view with bold geometric artwork in green, blue, and purple, showing the complete right-panel layout with Save button, info metadata, and interaction controls.](https://pin.fontofweb.com/8685?format=jpg)](https://design.withfudge.com/share/pin-8685)
+[![Full image detail view with bold geometric artwork in green, blue, and purple, showing the complete right-panel layout with Save button, info metadata, and interaction controls.](https://pin.fontofweb.com/8685?format=jpg)](https://fudge.design/share/pin-8685)
 
-[Full image detail view with bold geometric artwork in green, blue, and purple, showing the complete right-panel layout with Save button, info metadata, and interaction controls.](https://design.withfudge.com/share/pin-8685)
+[Full image detail view with bold geometric artwork in green, blue, and purple, showing the complete right-panel layout with Save button, info metadata, and interaction controls.](https://fudge.design/share/pin-8685)
 
 ## Overview
 
@@ -234,3 +234,18 @@ Typography remains fixed in scale rather than fluid, relying on the generous bod
 ## Scope note
 
 This guide covers the image detail view, user directory, and info panel surfaces visible in the supplied materials. The browse grid, search results, user profile pages, settings, and onboarding flows are not represented. Motion design, loading states, error handling, and mobile-specific bottom sheet behavior are not documented. Measurements derive from the exact values in the design facts and reflect the current interface state.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

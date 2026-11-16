@@ -1,26 +1,26 @@
 # How typst.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typst.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/typst.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Minimal footer section with centered mascot illustration and back-to-top link on stark white background](https://pin.fontofweb.com/4059?format=jpg)](https://design.withfudge.com/share/pin-4059)
+[![Minimal footer section with centered mascot illustration and back-to-top link on stark white background](https://pin.fontofweb.com/4059?format=jpg)](https://fudge.design/share/pin-4059)
 
-[Minimal footer section with centered mascot illustration and back-to-top link on stark white background](https://design.withfudge.com/share/pin-4059)
+[Minimal footer section with centered mascot illustration and back-to-top link on stark white background](https://fudge.design/share/pin-4059)
 
-[![Content-heavy trust section with bold section headings, contributor avatars, and security messaging with iconography](https://pin.fontofweb.com/4058?format=jpg)](https://design.withfudge.com/share/pin-4058)
+[![Content-heavy trust section with bold section headings, contributor avatars, and security messaging with iconography](https://pin.fontofweb.com/4058?format=jpg)](https://fudge.design/share/pin-4058)
 
-[Content-heavy trust section with bold section headings, contributor avatars, and security messaging with iconography](https://design.withfudge.com/share/pin-4058)
+[Content-heavy trust section with bold section headings, contributor avatars, and security messaging with iconography](https://fudge.design/share/pin-4058)
 
-[![Feature card with coral-red gradient background showing Zotero and Mendeley integration with literature sync](https://pin.fontofweb.com/4057?format=jpg)](https://design.withfudge.com/share/pin-4057)
+[![Feature card with coral-red gradient background showing Zotero and Mendeley integration with literature sync](https://pin.fontofweb.com/4057?format=jpg)](https://fudge.design/share/pin-4057)
 
-[Feature card with coral-red gradient background showing Zotero and Mendeley integration with literature sync](https://design.withfudge.com/share/pin-4057)
+[Feature card with coral-red gradient background showing Zotero and Mendeley integration with literature sync](https://fudge.design/share/pin-4057)
 
-[![Feature card with blue gradient background demonstrating fullscreen slideshow and speaker mode presentation tools](https://pin.fontofweb.com/4056?format=jpg)](https://design.withfudge.com/share/pin-4056)
+[![Feature card with blue gradient background demonstrating fullscreen slideshow and speaker mode presentation tools](https://pin.fontofweb.com/4056?format=jpg)](https://fudge.design/share/pin-4056)
 
-[Feature card with blue gradient background demonstrating fullscreen slideshow and speaker mode presentation tools](https://design.withfudge.com/share/pin-4056)
+[Feature card with blue gradient background demonstrating fullscreen slideshow and speaker mode presentation tools](https://fudge.design/share/pin-4056)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The generous whitespace that defines the desktop experience should compress prop
 ## Scope note
 
 This guide covers the marketing and pricing page surfaces of Typst as visible in the supplied imagery. Interactive states, motion design, the document editor interface, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid. Verify licensing for HK Grotesk and Cascadia Mono before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

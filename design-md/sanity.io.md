@@ -1,26 +1,26 @@
 # How sanity.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sanity.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/sanity.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark testimonial section with G2 badges and blue accent quote text on black background](https://pin.fontofweb.com/624?format=jpg)](https://design.withfudge.com/share/pin-624)
+[![Dark testimonial section with G2 badges and blue accent quote text on black background](https://pin.fontofweb.com/624?format=jpg)](https://fudge.design/share/pin-624)
 
-[Dark testimonial section with G2 badges and blue accent quote text on black background](https://design.withfudge.com/share/pin-624)
+[Dark testimonial section with G2 badges and blue accent quote text on black background](https://fudge.design/share/pin-624)
 
-[![Code recipe cards with syntax-highlighted terminals on dark background showing automation examples](https://pin.fontofweb.com/623?format=jpg)](https://design.withfudge.com/share/pin-623)
+[![Code recipe cards with syntax-highlighted terminals on dark background showing automation examples](https://pin.fontofweb.com/623?format=jpg)](https://fudge.design/share/pin-623)
 
-[Code recipe cards with syntax-highlighted terminals on dark background showing automation examples](https://design.withfudge.com/share/pin-623)
+[Code recipe cards with syntax-highlighted terminals on dark background showing automation examples](https://fudge.design/share/pin-623)
 
-[![Hero section with large display heading and code editor mockup showing blueprint.json](https://pin.fontofweb.com/622?format=jpg)](https://design.withfudge.com/share/pin-622)
+[![Hero section with large display heading and code editor mockup showing blueprint.json](https://pin.fontofweb.com/622?format=jpg)](https://fudge.design/share/pin-622)
 
-[Hero section with large display heading and code editor mockup showing blueprint.json](https://design.withfudge.com/share/pin-622)
+[Hero section with large display heading and code editor mockup showing blueprint.json](https://fudge.design/share/pin-622)
 
-[![Blog grid with category filters, article cards, author avatars, and date metadata](https://pin.fontofweb.com/620?format=jpg)](https://design.withfudge.com/share/pin-620)
+[![Blog grid with category filters, article cards, author avatars, and date metadata](https://pin.fontofweb.com/620?format=jpg)](https://fudge.design/share/pin-620)
 
-[Blog grid with category filters, article cards, author avatars, and date metadata](https://design.withfudge.com/share/pin-620)
+[Blog grid with category filters, article cards, author avatars, and date metadata](https://fudge.design/share/pin-620)
 
 ## Overview
 
@@ -197,3 +197,18 @@ Touch targets for filter pills and buttons should maintain minimum 44px height r
 ## Scope note
 
 This guide covers the dark-mode marketing and blog surfaces visible in the supplied images, including the Functions feature page and Blog index. Light-mode variants, mobile-specific layouts, animation specifications, form components, and the Sanity Studio application interface are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

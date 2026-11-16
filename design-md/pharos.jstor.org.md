@@ -1,26 +1,26 @@
 # How pharos.jstor.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pharos.jstor.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/pharos.jstor.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with deep blue-to-red gradient, italic display type, and three-column card grid with JSTOR brand imagery](https://pin.fontofweb.com/4294?format=jpg)](https://design.withfudge.com/share/pin-4294)
+[![Homepage hero with deep blue-to-red gradient, italic display type, and three-column card grid with JSTOR brand imagery](https://pin.fontofweb.com/4294?format=jpg)](https://fudge.design/share/pin-4294)
 
-[Homepage hero with deep blue-to-red gradient, italic display type, and three-column card grid with JSTOR brand imagery](https://design.withfudge.com/share/pin-4294)
+[Homepage hero with deep blue-to-red gradient, italic display type, and three-column card grid with JSTOR brand imagery](https://fudge.design/share/pin-4294)
 
-[![Dark sidebar navigation with italic Pharos wordmark, section labels, and chevron-disclosure menu items](https://pin.fontofweb.com/4293?format=jpg)](https://design.withfudge.com/share/pin-4293)
+[![Dark sidebar navigation with italic Pharos wordmark, section labels, and chevron-disclosure menu items](https://pin.fontofweb.com/4293?format=jpg)](https://fudge.design/share/pin-4293)
 
-[Dark sidebar navigation with italic Pharos wordmark, section labels, and chevron-disclosure menu items](https://design.withfudge.com/share/pin-4293)
+[Dark sidebar navigation with italic Pharos wordmark, section labels, and chevron-disclosure menu items](https://fudge.design/share/pin-4293)
 
-[![Help page with large serif heading, italic subheadings, body text, and outlined button with external-link icon](https://pin.fontofweb.com/4296?format=jpg)](https://design.withfudge.com/share/pin-4296)
+[![Help page with large serif heading, italic subheadings, body text, and outlined button with external-link icon](https://pin.fontofweb.com/4296?format=jpg)](https://fudge.design/share/pin-4296)
 
-[Help page with large serif heading, italic subheadings, body text, and outlined button with external-link icon](https://design.withfudge.com/share/pin-4296)
+[Help page with large serif heading, italic subheadings, body text, and outlined button with external-link icon](https://fudge.design/share/pin-4296)
 
-[![FAQ page with bold question headings, multi-paragraph answers, and inline text links in a single-column reading layout](https://pin.fontofweb.com/4295?format=jpg)](https://design.withfudge.com/share/pin-4295)
+[![FAQ page with bold question headings, multi-paragraph answers, and inline text links in a single-column reading layout](https://pin.fontofweb.com/4295?format=jpg)](https://fudge.design/share/pin-4295)
 
-[FAQ page with bold question headings, multi-paragraph answers, and inline text links in a single-column reading layout](https://design.withfudge.com/share/pin-4295)
+[FAQ page with bold question headings, multi-paragraph answers, and inline text links in a single-column reading layout](https://fudge.design/share/pin-4295)
 
 ## Overview
 
@@ -151,3 +151,18 @@ Touch targets for navigation items and buttons should maintain minimum 44px heig
 ## Scope note
 
 This guide covers the homepage presentation layer, sidebar navigation, help page, and FAQ page as visible in the supplied images. Component documentation pages, interactive states, form elements, data tables, and mobile-specific layouts are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How headwayapp.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/headwayapp.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/headwayapp.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large dark headline, blue pill button, and colorful abstract logo mark on white canvas](https://pin.fontofweb.com/3956?format=jpg)](https://design.withfudge.com/share/pin-3956)
+[![Hero section with large dark headline, blue pill button, and colorful abstract logo mark on white canvas](https://pin.fontofweb.com/3956?format=jpg)](https://fudge.design/share/pin-3956)
 
-[Hero section with large dark headline, blue pill button, and colorful abstract logo mark on white canvas](https://design.withfudge.com/share/pin-3956)
+[Hero section with large dark headline, blue pill button, and colorful abstract logo mark on white canvas](https://fudge.design/share/pin-3956)
 
-[![Product illustration showing public changelog page and in-product widget with blue, cyan, and purple status badges](https://pin.fontofweb.com/3957?format=jpg)](https://design.withfudge.com/share/pin-3957)
+[![Product illustration showing public changelog page and in-product widget with blue, cyan, and purple status badges](https://pin.fontofweb.com/3957?format=jpg)](https://fudge.design/share/pin-3957)
 
-[Product illustration showing public changelog page and in-product widget with blue, cyan, and purple status badges](https://design.withfudge.com/share/pin-3957)
+[Product illustration showing public changelog page and in-product widget with blue, cyan, and purple status badges](https://fudge.design/share/pin-3957)
 
-[![Pricing section with Free and Pro tier cards, geometric decorative shapes, and blue price accent](https://pin.fontofweb.com/3959?format=jpg)](https://design.withfudge.com/share/pin-3959)
+[![Pricing section with Free and Pro tier cards, geometric decorative shapes, and blue price accent](https://pin.fontofweb.com/3959?format=jpg)](https://fudge.design/share/pin-3959)
 
-[Pricing section with Free and Pro tier cards, geometric decorative shapes, and blue price accent](https://design.withfudge.com/share/pin-3959)
+[Pricing section with Free and Pro tier cards, geometric decorative shapes, and blue price accent](https://fudge.design/share/pin-3959)
 
-[![Features grid with eight capability cards and six customer testimonials with avatar photos and company logos](https://pin.fontofweb.com/3958?format=jpg)](https://design.withfudge.com/share/pin-3958)
+[![Features grid with eight capability cards and six customer testimonials with avatar photos and company logos](https://pin.fontofweb.com/3958?format=jpg)](https://fudge.design/share/pin-3958)
 
-[Features grid with eight capability cards and six customer testimonials with avatar photos and company logos](https://design.withfudge.com/share/pin-3958)
+[Features grid with eight capability cards and six customer testimonials with avatar photos and company logos](https://fudge.design/share/pin-3958)
 
 ## Overview
 
@@ -148,3 +148,18 @@ The visible pages show desktop-width layouts. The generous whitespace and center
 ## Scope note
 
 This guide covers the Headway marketing homepage visible in the supplied images, including hero, features, pricing, testimonials, and product illustration sections. Footer content, additional interior pages, mobile breakpoints, animation, form interactions, and dashboard interfaces are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

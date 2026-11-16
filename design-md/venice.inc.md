@@ -1,26 +1,26 @@
 # How venice.inc is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/venice.inc-design)
+[Open the live Fudge conversation](https://fudge.design/share/venice.inc-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Book-a-call page with calendar widget, partner logos, and testimonial quote on clean white canvas](https://pin.fontofweb.com/5687?format=jpg)](https://design.withfudge.com/share/pin-5687)
+[![Book-a-call page with calendar widget, partner logos, and testimonial quote on clean white canvas](https://pin.fontofweb.com/5687?format=jpg)](https://fudge.design/share/pin-5687)
 
-[Book-a-call page with calendar widget, partner logos, and testimonial quote on clean white canvas](https://design.withfudge.com/share/pin-5687)
+[Book-a-call page with calendar widget, partner logos, and testimonial quote on clean white canvas](https://fudge.design/share/pin-5687)
 
-[![About page hero with palm-tree illustration, centered serif manifesto, and dotted rule separator](https://pin.fontofweb.com/5686?format=jpg)](https://design.withfudge.com/share/pin-5686)
+[![About page hero with palm-tree illustration, centered serif manifesto, and dotted rule separator](https://pin.fontofweb.com/5686?format=jpg)](https://fudge.design/share/pin-5686)
 
-[About page hero with palm-tree illustration, centered serif manifesto, and dotted rule separator](https://design.withfudge.com/share/pin-5686)
+[About page hero with palm-tree illustration, centered serif manifesto, and dotted rule separator](https://fudge.design/share/pin-5686)
 
-[![Partner logo grid with twelve technology company marks and dotted border frame](https://pin.fontofweb.com/5685?format=jpg)](https://design.withfudge.com/share/pin-5685)
+[![Partner logo grid with twelve technology company marks and dotted border frame](https://pin.fontofweb.com/5685?format=jpg)](https://fudge.design/share/pin-5685)
 
-[Partner logo grid with twelve technology company marks and dotted border frame](https://design.withfudge.com/share/pin-5685)
+[Partner logo grid with twelve technology company marks and dotted border frame](https://fudge.design/share/pin-5685)
 
-[![Team portrait grid with fifteen headshots, handwritten-style name labels, and dotted rule accents](https://pin.fontofweb.com/5684?format=jpg)](https://design.withfudge.com/share/pin-5684)
+[![Team portrait grid with fifteen headshots, handwritten-style name labels, and dotted rule accents](https://pin.fontofweb.com/5684?format=jpg)](https://fudge.design/share/pin-5684)
 
-[Team portrait grid with fifteen headshots, handwritten-style name labels, and dotted rule accents](https://design.withfudge.com/share/pin-5684)
+[Team portrait grid with fifteen headshots, handwritten-style name labels, and dotted rule accents](https://fudge.design/share/pin-5684)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The dotted rules should remain visible at all widths, potentially scaling their 
 ## Scope note
 
 This guide covers the about page and book-a-call page surfaces visible in the supplied images. The homepage, navigation system, footer, and any additional pages are not represented. Motion, hover states, form validation, and mobile-specific layouts are not documented. Measurements are practical adaptation targets based on visual estimation from the available material.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Professional service](/share/designs-with-offering.professional_service)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

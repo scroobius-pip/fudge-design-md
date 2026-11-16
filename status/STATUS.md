@@ -5,27 +5,27 @@ domain sitemap, and Cloudflare rollout aggregate. Do not edit by hand.
 
 ## Public collection
 
-- accepted GitHub guides: 1160
-- README guide entries: 1160
-- representative README images: 1160
-- Cloudflare-rollout guides in the mirror: 893
+- accepted GitHub guides: 1161
+- README guide entries: 1161
+- representative README images: 1161
+- Cloudflare-rollout guides in the mirror: 894
 - valid guides retained from before the Cloudflare rollout: 267
-- domain-sitemap guides: 1160
+- domain-sitemap guides: 1161
 - sitemap and GitHub mirror: aligned
 
 ## Cloudflare rollout
 
 - service: paused
-- dispatch: paused
+- dispatch: enabled
 - publishing: paused
 - queued: 0
 - running: 0
 - published: 893
-- blocked: 70
-- total jobs: 963
+- blocked: 71
+- total jobs: 966
 - completion: 100%
-- rollout updated: 2026-08-10T22:14:07.509Z
-- last completed: 2026-08-10T22:14:07.509Z
+- rollout updated: 2026-10-28T11:03:35.078Z
+- last completed: 2026-10-28T11:03:35.078Z
 
 [Open the live aggregate](https://fudge-design-md-rollout.simdi.workers.dev/v1/progress).
 
@@ -35,4 +35,4 @@ The local supervisor is retired. Cloudflare Workflows owns rollout execution.
 The records under `status/domains/` are historical migration detail, not an
 active queue or current worker heartbeat.
 
-Snapshot generated: 2026-08-11T09:54:04.694Z
+Snapshot generated: 2026-11-16T12:12:18.926Z

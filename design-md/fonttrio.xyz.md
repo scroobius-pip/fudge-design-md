@@ -1,18 +1,18 @@
 # How fonttrio.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fonttrio.xyz-design)
+[Open the live Fudge conversation](https://fudge.design/share/fonttrio.xyz-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://pin.fontofweb.com/7847?format=jpg)](https://design.withfudge.com/share/pin-7847)
+[![Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://pin.fontofweb.com/7847?format=jpg)](https://fudge.design/share/pin-7847)
 
-[Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://design.withfudge.com/share/pin-7847)
+[Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://fudge.design/share/pin-7847)
 
-[![Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://pin.fontofweb.com/7846?format=jpg)](https://design.withfudge.com/share/pin-7846)
+[![Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://pin.fontofweb.com/7846?format=jpg)](https://fudge.design/share/pin-7846)
 
-[Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://design.withfudge.com/share/pin-7846)
+[Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://fudge.design/share/pin-7846)
 
 ## Overview
 
@@ -151,3 +151,18 @@ The three-column card grid should collapse to two columns at intermediate widths
 ## Scope note
 
 This guide covers the landing page experience including the hero section, category filters, and font pairing card grid. It does not document individual pairing detail pages, theme switching behavior, or the full installation flow. Motion, loading states, and mobile-specific navigation patterns are not represented in the supplied material.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

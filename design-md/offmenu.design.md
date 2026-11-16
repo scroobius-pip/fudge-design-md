@@ -1,26 +1,26 @@
 # How offmenu.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/offmenu.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/offmenu.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Ditto case study hero with browser mockup showing website redesign and floating 'Let's work together' pill button](https://pin.fontofweb.com/8812?format=jpg)](https://design.withfudge.com/share/pin-8812)
+[![Ditto case study hero with browser mockup showing website redesign and floating 'Let's work together' pill button](https://pin.fontofweb.com/8812?format=jpg)](https://fudge.design/share/pin-8812)
 
-[Ditto case study hero with browser mockup showing website redesign and floating 'Let's work together' pill button](https://design.withfudge.com/share/pin-8812)
+[Ditto case study hero with browser mockup showing website redesign and floating 'Let's work together' pill button](https://fudge.design/share/pin-8812)
 
-[![Ditto brand guidelines spread showing pixel logo and RAL color palette grid with black, gray, white, and yellow swatches](https://pin.fontofweb.com/8811?format=jpg)](https://design.withfudge.com/share/pin-8811)
+[![Ditto brand guidelines spread showing pixel logo and RAL color palette grid with black, gray, white, and yellow swatches](https://pin.fontofweb.com/8811?format=jpg)](https://fudge.design/share/pin-8811)
 
-[Ditto brand guidelines spread showing pixel logo and RAL color palette grid with black, gray, white, and yellow swatches](https://design.withfudge.com/share/pin-8811)
+[Ditto brand guidelines spread showing pixel logo and RAL color palette grid with black, gray, white, and yellow swatches](https://fudge.design/share/pin-8811)
 
-[![Web and experiential section with laptop mockups, yellow brand mark panel, and color system grid](https://pin.fontofweb.com/8810?format=jpg)](https://design.withfudge.com/share/pin-8810)
+[![Web and experiential section with laptop mockups, yellow brand mark panel, and color system grid](https://pin.fontofweb.com/8810?format=jpg)](https://fudge.design/share/pin-8810)
 
-[Web and experiential section with laptop mockups, yellow brand mark panel, and color system grid](https://design.withfudge.com/share/pin-8810)
+[Web and experiential section with laptop mockups, yellow brand mark panel, and color system grid](https://fudge.design/share/pin-8810)
 
-[![Case study introduction with two-column layout showing project details and scope section with bottom border rule](https://pin.fontofweb.com/8809?format=jpg)](https://design.withfudge.com/share/pin-8809)
+[![Case study introduction with two-column layout showing project details and scope section with bottom border rule](https://pin.fontofweb.com/8809?format=jpg)](https://fudge.design/share/pin-8809)
 
-[Case study introduction with two-column layout showing project details and scope section with bottom border rule](https://design.withfudge.com/share/pin-8809)
+[Case study introduction with two-column layout showing project details and scope section with bottom border rule](https://fudge.design/share/pin-8809)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The pill button's fixed position may need adjustment on mobile to avoid covering
 ## Scope note
 
 This guide covers the portfolio and case study surfaces of offmenu.design as visible in the Ditto, Resonant, and Flex project pages. The homepage, contact flows, and any motion or interaction behaviors are not represented in the supplied material. Measurements are drawn from the documented interface values where available.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

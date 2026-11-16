@@ -1,22 +1,22 @@
 # How georgivalk.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/georgivalk.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/georgivalk.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with lime-green radial gradient background, large display headline "Hi, I'm Georgi", floating navigation pill, and cartoon mascot character with radiating light beams](https://pin.fontofweb.com/6534?format=jpg)](https://design.withfudge.com/share/pin-6534)
+[![Hero section with lime-green radial gradient background, large display headline "Hi, I'm Georgi", floating navigation pill, and cartoon mascot character with radiating light beams](https://pin.fontofweb.com/6534?format=jpg)](https://fudge.design/share/pin-6534)
 
-[Hero section with lime-green radial gradient background, large display headline "Hi, I'm Georgi", floating navigation pill, and cartoon mascot character with radiating light beams](https://design.withfudge.com/share/pin-6534)
+[Hero section with lime-green radial gradient background, large display headline "Hi, I'm Georgi", floating navigation pill, and cartoon mascot character with radiating light beams](https://fudge.design/share/pin-6534)
 
-[![Dark services section with three feature cards showing abstract lime icons, white headings, and muted gray body text on near-black background with subtle radial gradients](https://pin.fontofweb.com/6533?format=jpg)](https://design.withfudge.com/share/pin-6533)
+[![Dark services section with three feature cards showing abstract lime icons, white headings, and muted gray body text on near-black background with subtle radial gradients](https://pin.fontofweb.com/6533?format=jpg)](https://fudge.design/share/pin-6533)
 
-[Dark services section with three feature cards showing abstract lime icons, white headings, and muted gray body text on near-black background with subtle radial gradients](https://design.withfudge.com/share/pin-6533)
+[Dark services section with three feature cards showing abstract lime icons, white headings, and muted gray body text on near-black background with subtle radial gradients](https://fudge.design/share/pin-6533)
 
-[![Call-to-action section with lime-to-cream radial gradient, large display text "Let's make something you'll love!", and white pill button with peeking mascot character](https://pin.fontofweb.com/6532?format=jpg)](https://design.withfudge.com/share/pin-6532)
+[![Call-to-action section with lime-to-cream radial gradient, large display text "Let's make something you'll love!", and white pill button with peeking mascot character](https://pin.fontofweb.com/6532?format=jpg)](https://fudge.design/share/pin-6532)
 
-[Call-to-action section with lime-to-cream radial gradient, large display text "Let's make something you'll love!", and white pill button with peeking mascot character](https://design.withfudge.com/share/pin-6532)
+[Call-to-action section with lime-to-cream radial gradient, large display text "Let's make something you'll love!", and white pill button with peeking mascot character](https://fudge.design/share/pin-6532)
 
 ## Overview
 
@@ -168,3 +168,18 @@ Section padding (180px vertical) should reduce proportionally on mobile, likely 
 ## Scope note
 
 This guide covers the homepage surface including hero introduction, services showcase, and call-to-action sections. Interior pages, project case studies, contact forms, and footer content are not represented in the supplied material. Motion behavior, hover states, and loading sequences are not documented. The mascot character system exists as rendered images; vector source files or animation variants are not included. Measurements reflect the desktop viewport state captured in the source images.
+
+## Related design patterns
+
+- [Green hue](/share/designs-with-color.hue.green)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Hero section](/share/designs-with-section.marketing.hero)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

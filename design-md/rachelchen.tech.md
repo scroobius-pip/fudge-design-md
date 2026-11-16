@@ -1,26 +1,26 @@
 # How rachelchen.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rachelchen.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/rachelchen.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large Tiempos display type, italic accent, and two-column project grid featuring OpenAI x Hardware and PokerGPT cards](https://pin.fontofweb.com/7300?format=jpg)](https://design.withfudge.com/share/pin-7300)
+[![Homepage hero with large Tiempos display type, italic accent, and two-column project grid featuring OpenAI x Hardware and PokerGPT cards](https://pin.fontofweb.com/7300?format=jpg)](https://fudge.design/share/pin-7300)
 
-[Homepage hero with large Tiempos display type, italic accent, and two-column project grid featuring OpenAI x Hardware and PokerGPT cards](https://design.withfudge.com/share/pin-7300)
+[Homepage hero with large Tiempos display type, italic accent, and two-column project grid featuring OpenAI x Hardware and PokerGPT cards](https://fudge.design/share/pin-7300)
 
-[![Project case study header with Tiempos serif title, orange-purple gradient hero image, and left sidebar navigation with section anchors](https://pin.fontofweb.com/7301?format=jpg)](https://design.withfudge.com/share/pin-7301)
+[![Project case study header with Tiempos serif title, orange-purple gradient hero image, and left sidebar navigation with section anchors](https://pin.fontofweb.com/7301?format=jpg)](https://fudge.design/share/pin-7301)
 
-[Project case study header with Tiempos serif title, orange-purple gradient hero image, and left sidebar navigation with section anchors](https://design.withfudge.com/share/pin-7301)
+[Project case study header with Tiempos serif title, orange-purple gradient hero image, and left sidebar navigation with section anchors](https://fudge.design/share/pin-7301)
 
-[![Case study overview section with metadata grid, three-column process breakdown, and problem statement with stack diagram](https://pin.fontofweb.com/7302?format=jpg)](https://design.withfudge.com/share/pin-7302)
+[![Case study overview section with metadata grid, three-column process breakdown, and problem statement with stack diagram](https://pin.fontofweb.com/7302?format=jpg)](https://fudge.design/share/pin-7302)
 
-[Case study overview section with metadata grid, three-column process breakdown, and problem statement with stack diagram](https://design.withfudge.com/share/pin-7302)
+[Case study overview section with metadata grid, three-column process breakdown, and problem statement with stack diagram](https://fudge.design/share/pin-7302)
 
-[![Fun page with large display headline, photography grid of hackathon and hardware projects, and monospace category labels](https://pin.fontofweb.com/7303?format=jpg)](https://design.withfudge.com/share/pin-7303)
+[![Fun page with large display headline, photography grid of hackathon and hardware projects, and monospace category labels](https://pin.fontofweb.com/7303?format=jpg)](https://fudge.design/share/pin-7303)
 
-[Fun page with large display headline, photography grid of hackathon and hardware projects, and monospace category labels](https://design.withfudge.com/share/pin-7303)
+[Fun page with large display headline, photography grid of hackathon and hardware projects, and monospace category labels](https://fudge.design/share/pin-7303)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The system is designed primarily for desktop viewing. Key responsive adaptations
 ## Scope note
 
 This guide covers the homepage, project case study template, and fun/projects listing page. Mobile breakpoints, hover states, form components, loading sequences, and additional project pages are not represented. The spacing scale derives from documented pixel values converted to rem units. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

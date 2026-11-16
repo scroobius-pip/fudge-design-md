@@ -1,26 +1,26 @@
 # How thinkingmachines.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thinkingmachines.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/thinkingmachines.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Close-up of body text with serif typeface and highlighted passages showing inline citation style](https://pin.fontofweb.com/10153?format=jpg)](https://design.withfudge.com/share/pin-10153)
+[![Close-up of body text with serif typeface and highlighted passages showing inline citation style](https://pin.fontofweb.com/10153?format=jpg)](https://fudge.design/share/pin-10153)
 
-[Close-up of body text with serif typeface and highlighted passages showing inline citation style](https://design.withfudge.com/share/pin-10153)
+[Close-up of body text with serif typeface and highlighted passages showing inline citation style](https://fudge.design/share/pin-10153)
 
-[![Wide blog layout with left sidebar navigation, main article column, and right margin notes with citations](https://pin.fontofweb.com/10152?format=jpg)](https://design.withfudge.com/share/pin-10152)
+[![Wide blog layout with left sidebar navigation, main article column, and right margin notes with citations](https://pin.fontofweb.com/10152?format=jpg)](https://fudge.design/share/pin-10152)
 
-[Wide blog layout with left sidebar navigation, main article column, and right margin notes with citations](https://design.withfudge.com/share/pin-10152)
+[Wide blog layout with left sidebar navigation, main article column, and right margin notes with citations](https://fudge.design/share/pin-10152)
 
-[![Hero title treatment with large centered display type and article metadata below the fold](https://pin.fontofweb.com/10151?format=jpg)](https://design.withfudge.com/share/pin-10151)
+[![Hero title treatment with large centered display type and article metadata below the fold](https://pin.fontofweb.com/10151?format=jpg)](https://fudge.design/share/pin-10151)
 
-[Hero title treatment with large centered display type and article metadata below the fold](https://design.withfudge.com/share/pin-10151)
+[Hero title treatment with large centered display type and article metadata below the fold](https://fudge.design/share/pin-10151)
 
-[![Technical article section with italic subheading, bullet lists, and margin notes with academic citations](https://pin.fontofweb.com/10150?format=jpg)](https://design.withfudge.com/share/pin-10150)
+[![Technical article section with italic subheading, bullet lists, and margin notes with academic citations](https://pin.fontofweb.com/10150?format=jpg)](https://fudge.design/share/pin-10150)
 
-[Technical article section with italic subheading, bullet lists, and margin notes with academic citations](https://design.withfudge.com/share/pin-10150)
+[Technical article section with italic subheading, bullet lists, and margin notes with academic citations](https://fudge.design/share/pin-10150)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Touch targets in navigation require expansion on mobile, with adequate vertical 
 ## Scope note
 
 This guide covers the blog article and homepage surfaces visible in the supplied images. Footer components, mobile navigation patterns, search functionality, and interactive data visualizations are not represented. The design system does not include dark mode specifications beyond the surface token. Measurements are derived from the desktop viewport widths captured; responsive breakpoints and behavior require additional verification.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Article page](/share/designs-with-page.content.article)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

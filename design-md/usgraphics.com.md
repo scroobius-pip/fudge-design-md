@@ -1,26 +1,26 @@
 # How usgraphics.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/usgraphics.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/usgraphics.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full homepage showing the U.S. Graphics Company header with color swatches, navigation tabs, Office section with philosophy sidebar, and Frontpage Banner with Berkeley Mono v2](https://pin.fontofweb.com/6710?format=jpg)](https://design.withfudge.com/share/pin-6710)
+[![Full homepage showing the U.S. Graphics Company header with color swatches, navigation tabs, Office section with philosophy sidebar, and Frontpage Banner with Berkeley Mono v2](https://pin.fontofweb.com/6710?format=jpg)](https://fudge.design/share/pin-6710)
 
-[Full homepage showing the U.S. Graphics Company header with color swatches, navigation tabs, Office section with philosophy sidebar, and Frontpage Banner with Berkeley Mono v2](https://design.withfudge.com/share/pin-6710)
+[Full homepage showing the U.S. Graphics Company header with color swatches, navigation tabs, Office section with philosophy sidebar, and Frontpage Banner with Berkeley Mono v2](https://fudge.design/share/pin-6710)
 
-[![Projects grid displaying sixteen project cards with varied logos including SwissMicros, Machine Universal, Die Rechner Gesellschaft, LEXTYPE, and Swiss Technical in a four-column](https://pin.fontofweb.com/6711?format=jpg)](https://design.withfudge.com/share/pin-6711)
+[![Projects grid displaying sixteen project cards with varied logos including SwissMicros, Machine Universal, Die Rechner Gesellschaft, LEXTYPE, and Swiss Technical in a four-column](https://pin.fontofweb.com/6711?format=jpg)](https://fudge.design/share/pin-6711)
 
-[Projects grid displaying sixteen project cards with varied logos including SwissMicros, Machine Universal, Die Rechner Gesellschaft, LEXTYPE, and Swiss Technical in a four-column](https://design.withfudge.com/share/pin-6711)
+[Projects grid displaying sixteen project cards with varied logos including SwissMicros, Machine Universal, Die Rechner Gesellschaft, LEXTYPE, and Swiss Technical in a four-column](https://fudge.design/share/pin-6711)
 
-[![Imprint footer section with Arizona corporation seal, company address, copyright notice, and green PROD version badge with dotted horizontal rule separators.](https://pin.fontofweb.com/6712?format=jpg)](https://design.withfudge.com/share/pin-6712)
+[![Imprint footer section with Arizona corporation seal, company address, copyright notice, and green PROD version badge with dotted horizontal rule separators.](https://pin.fontofweb.com/6712?format=jpg)](https://fudge.design/share/pin-6712)
 
-[Imprint footer section with Arizona corporation seal, company address, copyright notice, and green PROD version badge with dotted horizontal rule separators.](https://design.withfudge.com/share/pin-6712)
+[Imprint footer section with Arizona corporation seal, company address, copyright notice, and green PROD version badge with dotted horizontal rule separators.](https://fudge.design/share/pin-6712)
 
-[![General Catalog pricing table with SKU codes, stock descriptions, tier labels, prices, and green ORDER buttons with arrow icons in a structured data grid.](https://pin.fontofweb.com/5523?format=jpg)](https://design.withfudge.com/share/pin-5523)
+[![General Catalog pricing table with SKU codes, stock descriptions, tier labels, prices, and green ORDER buttons with arrow icons in a structured data grid.](https://pin.fontofweb.com/5523?format=jpg)](https://fudge.design/share/pin-5523)
 
-[General Catalog pricing table with SKU codes, stock descriptions, tier labels, prices, and green ORDER buttons with arrow icons in a structured data grid.](https://design.withfudge.com/share/pin-5523)
+[General Catalog pricing table with SKU codes, stock descriptions, tier labels, prices, and green ORDER buttons with arrow icons in a structured data grid.](https://fudge.design/share/pin-5523)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Touch targets for buttons and tabs should expand to minimum 44px height even tho
 ## Scope note
 
 This guide covers the U.S. Graphics Company homepage and general catalog page as captured. Mobile layouts, animation behaviors, form interactions, checkout flows, and account management interfaces are not represented in the supplied materials. The type specimen displays and project card grids are described from static view; dynamic behaviors such as hover states, filtering, or pagination were not available for documentation. Measurements are derived from the exact values provided in the design facts and should be verified against live implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

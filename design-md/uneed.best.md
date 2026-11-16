@@ -1,18 +1,18 @@
 # How uneed.best is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/uneed.best-design)
+[Open the live Fudge conversation](https://fudge.design/share/uneed.best-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with grid background, orange CTA button, product listings with voting, and partner sidebar with search and submit action](https://pin.fontofweb.com/6623?format=jpg)](https://design.withfudge.com/share/pin-6623)
+[![Hero section with grid background, orange CTA button, product listings with voting, and partner sidebar with search and submit action](https://pin.fontofweb.com/6623?format=jpg)](https://fudge.design/share/pin-6623)
 
-[Hero section with grid background, orange CTA button, product listings with voting, and partner sidebar with search and submit action](https://design.withfudge.com/share/pin-6623)
+[Hero section with grid background, orange CTA button, product listings with voting, and partner sidebar with search and submit action](https://fudge.design/share/pin-6623)
 
-[![Footer with multi-column link categories, social icons, theme toggle, and copyright bar with chat bubble](https://pin.fontofweb.com/6624?format=jpg)](https://design.withfudge.com/share/pin-6624)
+[![Footer with multi-column link categories, social icons, theme toggle, and copyright bar with chat bubble](https://pin.fontofweb.com/6624?format=jpg)](https://fudge.design/share/pin-6624)
 
-[Footer with multi-column link categories, social icons, theme toggle, and copyright bar with chat bubble](https://design.withfudge.com/share/pin-6624)
+[Footer with multi-column link categories, social icons, theme toggle, and copyright bar with chat bubble](https://fudge.design/share/pin-6624)
 
 ## Overview
 
@@ -184,3 +184,18 @@ Touch targets for voting buttons and product cards should expand to minimum 44px
 ## Scope note
 
 This guide covers the Uneed homepage including hero, product listings, community sidebar, partner promotions, and footer. Interior pages such as individual product detail, submission flows, user profiles, and administrative interfaces are not represented. Measurements derive from the documented interface values with spacing snapped to the 4px base grid. Motion, loading states, and mobile-specific adaptations are not covered and should be designed to match the established visual rhythm.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

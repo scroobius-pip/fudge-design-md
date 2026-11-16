@@ -1,26 +1,26 @@
 # How micro.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/micro.so-design)
+[Open the live Fudge conversation](https://fudge.design/share/micro.so-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with AI assistant headline and three feature cards showing product UI screenshots on dark background](https://pin.fontofweb.com/8733?format=jpg)](https://design.withfudge.com/share/pin-8733)
+[![Hero section with AI assistant headline and three feature cards showing product UI screenshots on dark background](https://pin.fontofweb.com/8733?format=jpg)](https://fudge.design/share/pin-8733)
 
-[Hero section with AI assistant headline and three feature cards showing product UI screenshots on dark background](https://design.withfudge.com/share/pin-8733)
+[Hero section with AI assistant headline and three feature cards showing product UI screenshots on dark background](https://fudge.design/share/pin-8733)
 
-[![Integrations section with orbiting app icons around a central blue ring and four-column feature grid below](https://pin.fontofweb.com/8732?format=jpg)](https://design.withfudge.com/share/pin-8732)
+[![Integrations section with orbiting app icons around a central blue ring and four-column feature grid below](https://pin.fontofweb.com/8732?format=jpg)](https://fudge.design/share/pin-8732)
 
-[Integrations section with orbiting app icons around a central blue ring and four-column feature grid below](https://design.withfudge.com/share/pin-8732)
+[Integrations section with orbiting app icons around a central blue ring and four-column feature grid below](https://fudge.design/share/pin-8732)
 
-[![Bento grid layout with six feature cards including collaboration, style themes, security certification, and mobile preview](https://pin.fontofweb.com/8731?format=jpg)](https://design.withfudge.com/share/pin-8731)
+[![Bento grid layout with six feature cards including collaboration, style themes, security certification, and mobile preview](https://pin.fontofweb.com/8731?format=jpg)](https://fudge.design/share/pin-8731)
 
-[Bento grid layout with six feature cards including collaboration, style themes, security certification, and mobile preview](https://design.withfudge.com/share/pin-8731)
+[Bento grid layout with six feature cards including collaboration, style themes, security certification, and mobile preview](https://fudge.design/share/pin-8731)
 
-[![Founder letter section with Perfectly Nineties italic typography and handwritten signature on dark background](https://pin.fontofweb.com/8730?format=jpg)](https://design.withfudge.com/share/pin-8730)
+[![Founder letter section with Perfectly Nineties italic typography and handwritten signature on dark background](https://pin.fontofweb.com/8730?format=jpg)](https://fudge.design/share/pin-8730)
 
-[Founder letter section with Perfectly Nineties italic typography and handwritten signature on dark background](https://design.withfudge.com/share/pin-8730)
+[Founder letter section with Perfectly Nineties italic typography and handwritten signature on dark background](https://fudge.design/share/pin-8730)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Implementation should maintain the dark canvas across all breakpoints. Touch tar
 ## Scope note
 
 This guide covers the Micro landing page's marketing surface: hero, features, integrations, and founder letter. Pricing pages, application UI, authentication flows, and mobile-native interfaces are not represented. Motion behavior, hover states, and form interactions were not captured in the supplied still images. Pp Fraktion Mono, Tobias, and System-Uimonospace are listed in the source files but do not appear in the visible landing page typography.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

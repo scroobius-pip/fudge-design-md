@@ -1,22 +1,22 @@
 # How thunder.rs is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thunder.rs-design)
+[Open the live Fudge conversation](https://fudge.design/share/thunder.rs-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with THUNDER wordmark on light gray background, social icons, and blue return-to-top button](https://pin.fontofweb.com/5801?format=jpg)](https://design.withfudge.com/share/pin-5801)
+[![Footer section with THUNDER wordmark on light gray background, social icons, and blue return-to-top button](https://pin.fontofweb.com/5801?format=jpg)](https://fudge.design/share/pin-5801)
 
-[Footer section with THUNDER wordmark on light gray background, social icons, and blue return-to-top button](https://design.withfudge.com/share/pin-5801)
+[Footer section with THUNDER wordmark on light gray background, social icons, and blue return-to-top button](https://fudge.design/share/pin-5801)
 
-[![Hero section with PERSONALIZE YOUR BRAND EXPERIENCE headline on black background, red typographic specimen image, and ORDER A FONT links](https://pin.fontofweb.com/5800?format=jpg)](https://design.withfudge.com/share/pin-5800)
+[![Hero section with PERSONALIZE YOUR BRAND EXPERIENCE headline on black background, red typographic specimen image, and ORDER A FONT links](https://pin.fontofweb.com/5800?format=jpg)](https://fudge.design/share/pin-5800)
 
-[Hero section with PERSONALIZE YOUR BRAND EXPERIENCE headline on black background, red typographic specimen image, and ORDER A FONT links](https://design.withfudge.com/share/pin-5800)
+[Hero section with PERSONALIZE YOUR BRAND EXPERIENCE headline on black background, red typographic specimen image, and ORDER A FONT links](https://fudge.design/share/pin-5800)
 
-[![Hero section with grid-overlay typographic specimen in red and white, TRAXX wordmark, and navigation header](https://pin.fontofweb.com/5799?format=jpg)](https://design.withfudge.com/share/pin-5799)
+[![Hero section with grid-overlay typographic specimen in red and white, TRAXX wordmark, and navigation header](https://pin.fontofweb.com/5799?format=jpg)](https://fudge.design/share/pin-5799)
 
-[Hero section with grid-overlay typographic specimen in red and white, TRAXX wordmark, and navigation header](https://design.withfudge.com/share/pin-5799)
+[Hero section with grid-overlay typographic specimen in red and white, TRAXX wordmark, and navigation header](https://fudge.design/share/pin-5799)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The return-to-top button should remain fixed but may reduce in size on mobile to
 ## Scope note
 
 This guide covers the homepage hero, header, and footer surfaces visible in the supplied images. Interior pages, mobile navigation behavior, hover and focus states, loading sequences, and form components are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How buymeacoffee.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/buymeacoffee.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/buymeacoffee.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with yellow pill-shaped CTA button on warm cream background, showing navigation bar and centered headline composition](https://pin.fontofweb.com/4589?format=jpg)](https://design.withfudge.com/share/pin-4589)
+[![Hero section with yellow pill-shaped CTA button on warm cream background, showing navigation bar and centered headline composition](https://pin.fontofweb.com/4589?format=jpg)](https://fudge.design/share/pin-4589)
 
-[Hero section with yellow pill-shaped CTA button on warm cream background, showing navigation bar and centered headline composition](https://design.withfudge.com/share/pin-4589)
+[Hero section with yellow pill-shaped CTA button on warm cream background, showing navigation bar and centered headline composition](https://fudge.design/share/pin-4589)
 
-[![Support section with product UI mockup showing coffee purchase interface, orange-red action button, and floating supporter notification cards](https://pin.fontofweb.com/4590?format=jpg)](https://design.withfudge.com/share/pin-4590)
+[![Support section with product UI mockup showing coffee purchase interface, orange-red action button, and floating supporter notification cards](https://pin.fontofweb.com/4590?format=jpg)](https://fudge.design/share/pin-4590)
 
-[Support section with product UI mockup showing coffee purchase interface, orange-red action button, and floating supporter notification cards](https://design.withfudge.com/share/pin-4590)
+[Support section with product UI mockup showing coffee purchase interface, orange-red action button, and floating supporter notification cards](https://fudge.design/share/pin-4590)
 
-[![Features grid with six benefit cards on rounded white panel, alternating black and gray headline text, and minimal footer with social icons](https://pin.fontofweb.com/4591?format=jpg)](https://design.withfudge.com/share/pin-4591)
+[![Features grid with six benefit cards on rounded white panel, alternating black and gray headline text, and minimal footer with social icons](https://pin.fontofweb.com/4591?format=jpg)](https://fudge.design/share/pin-4591)
 
-[Features grid with six benefit cards on rounded white panel, alternating black and gray headline text, and minimal footer with social icons](https://design.withfudge.com/share/pin-4591)
+[Features grid with six benefit cards on rounded white panel, alternating black and gray headline text, and minimal footer with social icons](https://fudge.design/share/pin-4591)
 
 ## Overview
 
@@ -189,3 +189,18 @@ When implementing, test that the cream canvas remains visible around white panel
 ## Scope note
 
 This guide covers the Buy Me a Coffee homepage and marketing surfaces visible in the supplied images, including the hero section, support feature panel, benefit grid, and footer. Creator dashboard interfaces, checkout flows, mobile navigation, and dark mode variants are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Marketing page](/share/designs-with-page.marketing)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

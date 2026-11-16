@@ -1,22 +1,22 @@
 # How base-ui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/base-ui.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/base-ui.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display type, social links, and maker logo grid on dark canvas](https://pin.fontofweb.com/8040?format=jpg)](https://design.withfudge.com/share/pin-8040)
+[![Hero section with large display type, social links, and maker logo grid on dark canvas](https://pin.fontofweb.com/8040?format=jpg)](https://fudge.design/share/pin-8040)
 
-[Hero section with large display type, social links, and maker logo grid on dark canvas](https://design.withfudge.com/share/pin-8040)
+[Hero section with large display type, social links, and maker logo grid on dark canvas](https://fudge.design/share/pin-8040)
 
-[![FAQ accordion with expand/collapse states and team roster with role labels](https://pin.fontofweb.com/8041?format=jpg)](https://design.withfudge.com/share/pin-8041)
+[![FAQ accordion with expand/collapse states and team roster with role labels](https://pin.fontofweb.com/8041?format=jpg)](https://fudge.design/share/pin-8041)
 
-[FAQ accordion with expand/collapse states and team roster with role labels](https://design.withfudge.com/share/pin-8041)
+[FAQ accordion with expand/collapse states and team roster with role labels](https://fudge.design/share/pin-8041)
 
-[![Documentation page with sidebar navigation, code blocks, and table of contents](https://pin.fontofweb.com/3865?format=jpg)](https://design.withfudge.com/share/pin-3865)
+[![Documentation page with sidebar navigation, code blocks, and table of contents](https://pin.fontofweb.com/3865?format=jpg)](https://fudge.design/share/pin-3865)
 
-[Documentation page with sidebar navigation, code blocks, and table of contents](https://design.withfudge.com/share/pin-3865)
+[Documentation page with sidebar navigation, code blocks, and table of contents](https://fudge.design/share/pin-3865)
 
 ## Overview
 
@@ -201,3 +201,18 @@ Accordion items and team roster rows require no structural change for smaller sc
 ## Scope note
 
 This guide covers the landing page and documentation quick-start page as visible in the supplied images. Component pages, mobile layouts, breakpoint behavior, animation specifications, and form components are not represented. Measurements are practical adaptation targets derived from the visible interface. The dark mode is the only visible theme; no light mode guidance is included. Times appears in the historical font records but is not assigned to a visible typographic role in the current interface.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

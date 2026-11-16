@@ -1,26 +1,26 @@
 # How mykc.cargo.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mykc.cargo.site-design)
+[Open the live Fudge conversation](https://fudge.design/share/mykc.cargo.site-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![OSULLOC brand identity project page showing stacked teal and black product boxes against a white background, with the mykc logo and navigation visible in dark chrome.](https://pin.fontofweb.com/10403?format=jpg)](https://design.withfudge.com/share/pin-10403)
+[![OSULLOC brand identity project page showing stacked teal and black product boxes against a white background, with the mykc logo and navigation visible in dark chrome.](https://pin.fontofweb.com/10403?format=jpg)](https://fudge.design/share/pin-10403)
 
-[OSULLOC brand identity project page showing stacked teal and black product boxes against a white background, with the mykc logo and navigation visible in dark chrome.](https://design.withfudge.com/share/pin-10403)
+[OSULLOC brand identity project page showing stacked teal and black product boxes against a white background, with the mykc logo and navigation visible in dark chrome.](https://fudge.design/share/pin-10403)
 
-[![Directory Magazine cover featuring a teal book with black typography on a cool gray surface, displayed within the dark portfolio chrome.](https://pin.fontofweb.com/10321?format=jpg)](https://design.withfudge.com/share/pin-10321)
+[![Directory Magazine cover featuring a teal book with black typography on a cool gray surface, displayed within the dark portfolio chrome.](https://pin.fontofweb.com/10321?format=jpg)](https://fudge.design/share/pin-10321)
 
-[Directory Magazine cover featuring a teal book with black typography on a cool gray surface, displayed within the dark portfolio chrome.](https://design.withfudge.com/share/pin-10321)
+[Directory Magazine cover featuring a teal book with black typography on a cool gray surface, displayed within the dark portfolio chrome.](https://fudge.design/share/pin-10321)
 
-[![Directory Magazine interior spread showing a left-page photograph of a plastic container and a right-page headline Big Data Tells Us in black serif type on pale blue.](https://pin.fontofweb.com/10320?format=jpg)](https://design.withfudge.com/share/pin-10320)
+[![Directory Magazine interior spread showing a left-page photograph of a plastic container and a right-page headline Big Data Tells Us in black serif type on pale blue.](https://pin.fontofweb.com/10320?format=jpg)](https://fudge.design/share/pin-10320)
 
-[Directory Magazine interior spread showing a left-page photograph of a plastic container and a right-page headline Big Data Tells Us in black serif type on pale blue.](https://design.withfudge.com/share/pin-10320)
+[Directory Magazine interior spread showing a left-page photograph of a plastic container and a right-page headline Big Data Tells Us in black serif type on pale blue.](https://fudge.design/share/pin-10320)
 
-[![Directory Magazine interior spread with a left-page photograph of a person in a field and a right-page teal panel with the headline The Place Where The Carrot Leaf Took Me in](https://pin.fontofweb.com/10319?format=jpg)](https://design.withfudge.com/share/pin-10319)
+[![Directory Magazine interior spread with a left-page photograph of a person in a field and a right-page teal panel with the headline The Place Where The Carrot Leaf Took Me in](https://pin.fontofweb.com/10319?format=jpg)](https://fudge.design/share/pin-10319)
 
-[Directory Magazine interior spread with a left-page photograph of a person in a field and a right-page teal panel with the headline The Place Where The Carrot Leaf Took Me in](https://design.withfudge.com/share/pin-10319)
+[Directory Magazine interior spread with a left-page photograph of a person in a field and a right-page teal panel with the headline The Place Where The Carrot Leaf Took Me in](https://fudge.design/share/pin-10319)
 
 ## Overview
 
@@ -165,3 +165,18 @@ Touch targets for navigation arrows should expand to minimum 44px on touch devic
 ## Scope note
 
 This guide covers the portfolio presentation system visible on project pages for OSULLOC Brand Identity, Directory Magazine, and PRO-SPECS BRANDBOOK. The index or listing page, mobile-specific layouts, hover states, loading behavior, and contact or about pages are not represented in the supplied materials. Measurements derive directly from retained interface values. Verify licensing for By Dinamo and By Dinamo-4705424956708259704 before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Agency](/share/designs-with-offering.agency)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Editor canvas](/share/designs-with-layout.archetype.editor_canvas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

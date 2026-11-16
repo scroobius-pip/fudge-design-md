@@ -1,26 +1,26 @@
 # How ordinarypeople.info is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ordinarypeople.info-design)
+[Open the live Fudge conversation](https://fudge.design/share/ordinarypeople.info-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Netflix K-Content brand spectrum diagram showing neutral-to-branded content progression with geometric white-on-black graphics](https://pin.fontofweb.com/10410?format=jpg)](https://design.withfudge.com/share/pin-10410)
+[![Netflix K-Content brand spectrum diagram showing neutral-to-branded content progression with geometric white-on-black graphics](https://pin.fontofweb.com/10410?format=jpg)](https://fudge.design/share/pin-10410)
 
-[Netflix K-Content brand spectrum diagram showing neutral-to-branded content progression with geometric white-on-black graphics](https://design.withfudge.com/share/pin-10410)
+[Netflix K-Content brand spectrum diagram showing neutral-to-branded content progression with geometric white-on-black graphics](https://fudge.design/share/pin-10410)
 
-[![Typography weight exploration grid with clean cuts, curves, and blocks across heavy-to-light spectrum in white on black](https://pin.fontofweb.com/10409?format=jpg)](https://design.withfudge.com/share/pin-10409)
+[![Typography weight exploration grid with clean cuts, curves, and blocks across heavy-to-light spectrum in white on black](https://pin.fontofweb.com/10409?format=jpg)](https://fudge.design/share/pin-10409)
 
-[Typography weight exploration grid with clean cuts, curves, and blocks across heavy-to-light spectrum in white on black](https://design.withfudge.com/share/pin-10409)
+[Typography weight exploration grid with clean cuts, curves, and blocks across heavy-to-light spectrum in white on black](https://fudge.design/share/pin-10409)
 
-[![Netflix Sans type specimen showing bold title, medium subtitle, and body copy with caption styles in white on black](https://pin.fontofweb.com/10408?format=jpg)](https://design.withfudge.com/share/pin-10408)
+[![Netflix Sans type specimen showing bold title, medium subtitle, and body copy with caption styles in white on black](https://pin.fontofweb.com/10408?format=jpg)](https://fudge.design/share/pin-10408)
 
-[Netflix Sans type specimen showing bold title, medium subtitle, and body copy with caption styles in white on black](https://design.withfudge.com/share/pin-10408)
+[Netflix Sans type specimen showing bold title, medium subtitle, and body copy with caption styles in white on black](https://fudge.design/share/pin-10408)
 
-[![Color palette grid with red, purple, blue, green, yellow families plus black, white, and gray neutrals](https://pin.fontofweb.com/10407?format=jpg)](https://design.withfudge.com/share/pin-10407)
+[![Color palette grid with red, purple, blue, green, yellow families plus black, white, and gray neutrals](https://pin.fontofweb.com/10407?format=jpg)](https://fudge.design/share/pin-10407)
 
-[Color palette grid with red, purple, blue, green, yellow families plus black, white, and gray neutrals](https://design.withfudge.com/share/pin-10407)
+[Color palette grid with red, purple, blue, green, yellow families plus black, white, and gray neutrals](https://fudge.design/share/pin-10407)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Touch targets for circular buttons and navigation pills expand to minimum 44px d
 ## Scope note
 
 This guide covers the portfolio project presentation system as visible on work detail pages. It does not include the homepage, about page, contact forms, or any motion behavior such as page transitions, scroll animations, or loading states. The circular button component and its specific iconography are partially described based on visible states; full interaction patterns may require additional reference. Measurements reflect the extracted interface values and should be verified against live implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Portfolio page](/share/designs-with-page.marketing.portfolio)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

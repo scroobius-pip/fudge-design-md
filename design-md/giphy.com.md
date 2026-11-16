@@ -1,22 +1,22 @@
 # How giphy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/giphy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/giphy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Split-screen login page with GIPHY branding, form fields, social login buttons, and vibrant geometric artwork on the right half](https://pin.fontofweb.com/3943?format=jpg)](https://design.withfudge.com/share/pin-3943)
+[![Split-screen login page with GIPHY branding, form fields, social login buttons, and vibrant geometric artwork on the right half](https://pin.fontofweb.com/3943?format=jpg)](https://fudge.design/share/pin-3943)
 
-[Split-screen login page with GIPHY branding, form fields, social login buttons, and vibrant geometric artwork on the right half](https://design.withfudge.com/share/pin-3943)
+[Split-screen login page with GIPHY branding, form fields, social login buttons, and vibrant geometric artwork on the right half](https://fudge.design/share/pin-3943)
 
-[![Cookie consent banner with dark surface, white text, purple Agree button, and Manage Cookies button](https://pin.fontofweb.com/3942?format=jpg)](https://design.withfudge.com/share/pin-3942)
+[![Cookie consent banner with dark surface, white text, purple Agree button, and Manage Cookies button](https://pin.fontofweb.com/3942?format=jpg)](https://fudge.design/share/pin-3942)
 
-[Cookie consent banner with dark surface, white text, purple Agree button, and Manage Cookies button](https://design.withfudge.com/share/pin-3942)
+[Cookie consent banner with dark surface, white text, purple Agree button, and Manage Cookies button](https://fudge.design/share/pin-3942)
 
-[![Centered login form with GIPHY logo, BE ANIMATED tagline, segmented toggle, input fields, and social login options on black background](https://pin.fontofweb.com/3941?format=jpg)](https://design.withfudge.com/share/pin-3941)
+[![Centered login form with GIPHY logo, BE ANIMATED tagline, segmented toggle, input fields, and social login options on black background](https://pin.fontofweb.com/3941?format=jpg)](https://fudge.design/share/pin-3941)
 
-[Centered login form with GIPHY logo, BE ANIMATED tagline, segmented toggle, input fields, and social login options on black background](https://design.withfudge.com/share/pin-3941)
+[Centered login form with GIPHY logo, BE ANIMATED tagline, segmented toggle, input fields, and social login options on black background](https://fudge.design/share/pin-3941)
 
 ## Overview
 
@@ -148,3 +148,18 @@ The cookie banner should remain fixed to the viewport bottom but may stack its t
 ## Scope note
 
 This guide covers the GIPHY login page surface and cookie consent interaction. It does not include the main browsing experience, search results, GIF detail pages, user profiles, or upload flows. Motion behavior, hover states, loading indicators, and error messaging are not documented from the available material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Authentication](/share/designs-with-page.account.authentication)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

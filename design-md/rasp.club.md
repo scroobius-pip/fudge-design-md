@@ -1,18 +1,18 @@
 # How rasp.club is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/rasp.club-design)
+[Open the live Fudge conversation](https://fudge.design/share/rasp.club-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with serif headline, pill button, and member list sidebar against dark gradient background with blue-green light streaks](https://pin.fontofweb.com/6318?format=jpg)](https://design.withfudge.com/share/pin-6318)
+[![Hero section with serif headline, pill button, and member list sidebar against dark gradient background with blue-green light streaks](https://pin.fontofweb.com/6318?format=jpg)](https://fudge.design/share/pin-6318)
 
-[Hero section with serif headline, pill button, and member list sidebar against dark gradient background with blue-green light streaks](https://design.withfudge.com/share/pin-6318)
+[Hero section with serif headline, pill button, and member list sidebar against dark gradient background with blue-green light streaks](https://fudge.design/share/pin-6318)
 
-[![Navigation bar with logo, member count, and login pill button above the same hero composition](https://pin.fontofweb.com/6317?format=jpg)](https://design.withfudge.com/share/pin-6317)
+[![Navigation bar with logo, member count, and login pill button above the same hero composition](https://pin.fontofweb.com/6317?format=jpg)](https://fudge.design/share/pin-6317)
 
-[Navigation bar with logo, member count, and login pill button above the same hero composition](https://design.withfudge.com/share/pin-6317)
+[Navigation bar with logo, member count, and login pill button above the same hero composition](https://fudge.design/share/pin-6317)
 
 ## Overview
 
@@ -163,3 +163,18 @@ Touch targets for pill buttons should maintain minimum 44px height even as horiz
 ## Scope note
 
 This guide covers the Rasp Club landing page hero and member directory sidebar. Interior pages, authentication flows, member profiles, and interactive states are not represented. Motion, animation, and mobile-specific layouts were not available for analysis. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Multicolor](/share/designs-with-color.hue.multicolor)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Teal hue](/share/designs-with-color.hue.teal)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

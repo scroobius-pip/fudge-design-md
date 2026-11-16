@@ -1,26 +1,26 @@
 # How ramp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ramp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ramp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Customer testimonial grid with rounded cards, avatars, and a centered section headline on a light canvas.](https://pin.fontofweb.com/9052?format=jpg)](https://design.withfudge.com/share/pin-9052)
+[![Customer testimonial grid with rounded cards, avatars, and a centered section headline on a light canvas.](https://pin.fontofweb.com/9052?format=jpg)](https://fudge.design/share/pin-9052)
 
-[Customer testimonial grid with rounded cards, avatars, and a centered section headline on a light canvas.](https://design.withfudge.com/share/pin-9052)
+[Customer testimonial grid with rounded cards, avatars, and a centered section headline on a light canvas.](https://fudge.design/share/pin-9052)
 
-[![AI feature section with a policy document preview card, a customer quote, and a split editorial layout.](https://pin.fontofweb.com/9051?format=jpg)](https://design.withfudge.com/share/pin-9051)
+[![AI feature section with a policy document preview card, a customer quote, and a split editorial layout.](https://pin.fontofweb.com/9051?format=jpg)](https://fudge.design/share/pin-9051)
 
-[AI feature section with a policy document preview card, a customer quote, and a split editorial layout.](https://design.withfudge.com/share/pin-9051)
+[AI feature section with a policy document preview card, a customer quote, and a split editorial layout.](https://fudge.design/share/pin-9051)
 
-[![Video testimonial with a large lifestyle photograph, a watch-video button, and a smaller customer story card.](https://pin.fontofweb.com/9050?format=jpg)](https://design.withfudge.com/share/pin-9050)
+[![Video testimonial with a large lifestyle photograph, a watch-video button, and a smaller customer story card.](https://pin.fontofweb.com/9050?format=jpg)](https://fudge.design/share/pin-9050)
 
-[Video testimonial with a large lifestyle photograph, a watch-video button, and a smaller customer story card.](https://design.withfudge.com/share/pin-9050)
+[Video testimonial with a large lifestyle photograph, a watch-video button, and a smaller customer story card.](https://fudge.design/share/pin-9050)
 
-[![Product UI montage showing flight search, policy checking, and expense cards under a centered headline.](https://pin.fontofweb.com/9049?format=jpg)](https://design.withfudge.com/share/pin-9049)
+[![Product UI montage showing flight search, policy checking, and expense cards under a centered headline.](https://pin.fontofweb.com/9049?format=jpg)](https://fudge.design/share/pin-9049)
 
-[Product UI montage showing flight search, policy checking, and expense cards under a centered headline.](https://design.withfudge.com/share/pin-9049)
+[Product UI montage showing flight search, policy checking, and expense cards under a centered headline.](https://fudge.design/share/pin-9049)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Type sizes should reduce modestly: hero-display from 48px to 36px to 28px, secti
 ## Scope note
 
 This guide covers the Ramp homepage marketing surface, including hero sections, testimonial grids, product feature cards, and editorial layouts. It does not include the product dashboard interface, mobile navigation patterns, form components, or animation specifications. Footer and legal content areas are not represented in the supplied material.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

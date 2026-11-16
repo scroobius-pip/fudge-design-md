@@ -1,26 +1,26 @@
 # How charlieosborne.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/charlieosborne.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/charlieosborne.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with large white 'CHARLIE OSBORNE' wordmark, vertical navigation links, and subtle grid lines on black background with orange gradient top edge](https://pin.fontofweb.com/1199?format=jpg)](https://design.withfudge.com/share/pin-1199)
+[![Dark footer with large white 'CHARLIE OSBORNE' wordmark, vertical navigation links, and subtle grid lines on black background with orange gradient top edge](https://pin.fontofweb.com/1199?format=jpg)](https://fudge.design/share/pin-1199)
 
-[Dark footer with large white 'CHARLIE OSBORNE' wordmark, vertical navigation links, and subtle grid lines on black background with orange gradient top edge](https://design.withfudge.com/share/pin-1199)
+[Dark footer with large white 'CHARLIE OSBORNE' wordmark, vertical navigation links, and subtle grid lines on black background with orange gradient top edge](https://fudge.design/share/pin-1199)
 
-[![Glossy rounded rectangular 'Book Discovery Call' button with orange text on warm cream surface against vibrant orange gradient background](https://pin.fontofweb.com/1198?format=jpg)](https://design.withfudge.com/share/pin-1198)
+[![Glossy rounded rectangular 'Book Discovery Call' button with orange text on warm cream surface against vibrant orange gradient background](https://pin.fontofweb.com/1198?format=jpg)](https://fudge.design/share/pin-1198)
 
-[Glossy rounded rectangular 'Book Discovery Call' button with orange text on warm cream surface against vibrant orange gradient background](https://design.withfudge.com/share/pin-1198)
+[Glossy rounded rectangular 'Book Discovery Call' button with orange text on warm cream surface against vibrant orange gradient background](https://fudge.design/share/pin-1198)
 
-[![Hero section with massive white 'Get in Touch' display type, horizontal navigation bar, and repeated 'LET'S CHAT' labels over fiery orange-red gradient](https://pin.fontofweb.com/1197?format=jpg)](https://design.withfudge.com/share/pin-1197)
+[![Hero section with massive white 'Get in Touch' display type, horizontal navigation bar, and repeated 'LET'S CHAT' labels over fiery orange-red gradient](https://pin.fontofweb.com/1197?format=jpg)](https://fudge.design/share/pin-1197)
 
-[Hero section with massive white 'Get in Touch' display type, horizontal navigation bar, and repeated 'LET'S CHAT' labels over fiery orange-red gradient](https://design.withfudge.com/share/pin-1197)
+[Hero section with massive white 'Get in Touch' display type, horizontal navigation bar, and repeated 'LET'S CHAT' labels over fiery orange-red gradient](https://fudge.design/share/pin-1197)
 
-[![Testimonials grid with portrait photographs, company logos, and italic serif quotation text on black background with thin vertical dividers](https://pin.fontofweb.com/1196?format=jpg)](https://design.withfudge.com/share/pin-1196)
+[![Testimonials grid with portrait photographs, company logos, and italic serif quotation text on black background with thin vertical dividers](https://pin.fontofweb.com/1196?format=jpg)](https://fudge.design/share/pin-1196)
 
-[Testimonials grid with portrait photographs, company logos, and italic serif quotation text on black background with thin vertical dividers](https://design.withfudge.com/share/pin-1196)
+[Testimonials grid with portrait photographs, company logos, and italic serif quotation text on black background with thin vertical dividers](https://fudge.design/share/pin-1196)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Gradient sections should continue to fill the viewport, but the gradient angle m
 ## Scope note
 
 This guide covers the homepage and footer surfaces visible in the supplied images, including the hero gradient section, primary call-to-action button, testimonials grid, and footer layout. Interior pages, project case studies, mobile breakpoints, motion behavior, and form interactions are not represented in the available material. Measurements are practical adaptation targets derived from visual estimation against the documented relative unit scale.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Professional service](/share/designs-with-offering.professional_service)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

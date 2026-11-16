@@ -1,26 +1,26 @@
 # How hifibridge.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hifibridge.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hifibridge.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Aerial city street photograph paired with a bright yellow call-to-action panel and monospace footer metadata on white.](https://pin.fontofweb.com/2875?format=jpg)](https://design.withfudge.com/share/pin-2875)
+[![Aerial city street photograph paired with a bright yellow call-to-action panel and monospace footer metadata on white.](https://pin.fontofweb.com/2875?format=jpg)](https://fudge.design/share/pin-2875)
 
-[Aerial city street photograph paired with a bright yellow call-to-action panel and monospace footer metadata on white.](https://design.withfudge.com/share/pin-2875)
+[Aerial city street photograph paired with a bright yellow call-to-action panel and monospace footer metadata on white.](https://fudge.design/share/pin-2875)
 
-[![Feature grid with yellow icon badges, monospace labels, and arrow-linked cards on a warm off-white background.](https://pin.fontofweb.com/2873?format=jpg)](https://design.withfudge.com/share/pin-2873)
+[![Feature grid with yellow icon badges, monospace labels, and arrow-linked cards on a warm off-white background.](https://pin.fontofweb.com/2873?format=jpg)](https://fudge.design/share/pin-2873)
 
-[Feature grid with yellow icon badges, monospace labels, and arrow-linked cards on a warm off-white background.](https://design.withfudge.com/share/pin-2873)
+[Feature grid with yellow icon badges, monospace labels, and arrow-linked cards on a warm off-white background.](https://fudge.design/share/pin-2873)
 
-[![Centered platform statement with a yellow pill button and uppercase monospace label on pure white.](https://pin.fontofweb.com/2872?format=jpg)](https://design.withfudge.com/share/pin-2872)
+[![Centered platform statement with a yellow pill button and uppercase monospace label on pure white.](https://pin.fontofweb.com/2872?format=jpg)](https://fudge.design/share/pin-2872)
 
-[Centered platform statement with a yellow pill button and uppercase monospace label on pure white.](https://design.withfudge.com/share/pin-2872)
+[Centered platform statement with a yellow pill button and uppercase monospace label on pure white.](https://fudge.design/share/pin-2872)
 
-[![Wide aerial photograph with yellow taxi cabs adjacent to a full-width yellow panel with dark text and a black action button.](https://pin.fontofweb.com/2874?format=jpg)](https://design.withfudge.com/share/pin-2874)
+[![Wide aerial photograph with yellow taxi cabs adjacent to a full-width yellow panel with dark text and a black action button.](https://pin.fontofweb.com/2874?format=jpg)](https://fudge.design/share/pin-2874)
 
-[Wide aerial photograph with yellow taxi cabs adjacent to a full-width yellow panel with dark text and a black action button.](https://design.withfudge.com/share/pin-2874)
+[Wide aerial photograph with yellow taxi cabs adjacent to a full-width yellow panel with dark text and a black action button.](https://fudge.design/share/pin-2874)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Touch targets for card arrows and buttons should maintain minimum 44px height. T
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images: hero, feature grid, platform statement, and footer. Interior pages, dashboard interfaces, mobile navigation, form states, and motion behavior are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How refero.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/refero.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/refero.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with sidebar navigation, search input, and category links on dark canvas](https://pin.fontofweb.com/9837?format=jpg)](https://design.withfudge.com/share/pin-9837)
+[![Homepage hero with sidebar navigation, search input, and category links on dark canvas](https://pin.fontofweb.com/9837?format=jpg)](https://fudge.design/share/pin-9837)
 
-[Homepage hero with sidebar navigation, search input, and category links on dark canvas](https://design.withfudge.com/share/pin-9837)
+[Homepage hero with sidebar navigation, search input, and category links on dark canvas](https://fudge.design/share/pin-9837)
 
-[![Upgrade banner with rounded pill button and search bar with filter chips](https://pin.fontofweb.com/9685?format=jpg)](https://design.withfudge.com/share/pin-9685)
+[![Upgrade banner with rounded pill button and search bar with filter chips](https://pin.fontofweb.com/9685?format=jpg)](https://fudge.design/share/pin-9685)
 
-[Upgrade banner with rounded pill button and search bar with filter chips](https://design.withfudge.com/share/pin-9685)
+[Upgrade banner with rounded pill button and search bar with filter chips](https://fudge.design/share/pin-9685)
 
-[![Research page with follow-up input and mobile app preview card](https://pin.fontofweb.com/9684?format=jpg)](https://design.withfudge.com/share/pin-9684)
+[![Research page with follow-up input and mobile app preview card](https://pin.fontofweb.com/9684?format=jpg)](https://fudge.design/share/pin-9684)
 
-[Research page with follow-up input and mobile app preview card](https://design.withfudge.com/share/pin-9684)
+[Research page with follow-up input and mobile app preview card](https://fudge.design/share/pin-9684)
 
-[![Homepage hero with centered display heading and expanded category grid](https://pin.fontofweb.com/9683?format=jpg)](https://design.withfudge.com/share/pin-9683)
+[![Homepage hero with centered display heading and expanded category grid](https://pin.fontofweb.com/9683?format=jpg)](https://fudge.design/share/pin-9683)
 
-[Homepage hero with centered display heading and expanded category grid](https://design.withfudge.com/share/pin-9683)
+[Homepage hero with centered display heading and expanded category grid](https://fudge.design/share/pin-9683)
 
 ## Overview
 
@@ -187,3 +187,18 @@ The large display typography scales down proportionally: hero-display should red
 ## Scope note
 
 This guide covers the homepage and research interface surfaces visible in the supplied images. Interior pages such as search results, individual design entries, and account settings are not represented. Motion design, loading states, and mobile-specific layouts are not documented. Measurements are exact where retained in the source data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

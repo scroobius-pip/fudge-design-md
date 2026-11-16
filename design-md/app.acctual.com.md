@@ -1,18 +1,18 @@
 # How app.acctual.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.acctual.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.acctual.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up page with centered form, floating 3D currency and invoice UI decorations, and dark primary action button on light gradient background](https://pin.fontofweb.com/2026?format=jpg)](https://design.withfudge.com/share/pin-2026)
+[![Sign-up page with centered form, floating 3D currency and invoice UI decorations, and dark primary action button on light gradient background](https://pin.fontofweb.com/2026?format=jpg)](https://fudge.design/share/pin-2026)
 
-[Sign-up page with centered form, floating 3D currency and invoice UI decorations, and dark primary action button on light gradient background](https://design.withfudge.com/share/pin-2026)
+[Sign-up page with centered form, floating 3D currency and invoice UI decorations, and dark primary action button on light gradient background](https://fudge.design/share/pin-2026)
 
-[![Login page with centered welcome message, Google SSO option, floating financial document previews at bottom, and muted partner logo row](https://pin.fontofweb.com/2025?format=jpg)](https://design.withfudge.com/share/pin-2025)
+[![Login page with centered welcome message, Google SSO option, floating financial document previews at bottom, and muted partner logo row](https://pin.fontofweb.com/2025?format=jpg)](https://fudge.design/share/pin-2025)
 
-[Login page with centered welcome message, Google SSO option, floating financial document previews at bottom, and muted partner logo row](https://design.withfudge.com/share/pin-2025)
+[Login page with centered welcome message, Google SSO option, floating financial document previews at bottom, and muted partner logo row](https://fudge.design/share/pin-2025)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The decorative 3D elements, while visually distinctive, should not obstruct form
 ## Scope note
 
 This guide covers the authentication entry points (login and sign-up) for Acctual's web application. The dashboard, invoice creation flows, and payment interfaces visible in decorative background fragments are not documented here. Motion behavior, loading states, form validation feedback, and responsive breakpoint specifics were not retained and require implementation decisions. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Form funnel](/share/designs-with-layout.archetype.form_funnel)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

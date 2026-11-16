@@ -1,26 +1,26 @@
 # How sciencedirect.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/sciencedirect.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/sciencedirect.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Page not found error state with pale blue-gray background, search field, and article recommendation teaser](https://pin.fontofweb.com/4304?format=jpg)](https://design.withfudge.com/share/pin-4304)
+[![Page not found error state with pale blue-gray background, search field, and article recommendation teaser](https://pin.fontofweb.com/4304?format=jpg)](https://fudge.design/share/pin-4304)
 
-[Page not found error state with pale blue-gray background, search field, and article recommendation teaser](https://design.withfudge.com/share/pin-4304)
+[Page not found error state with pale blue-gray background, search field, and article recommendation teaser](https://fudge.design/share/pin-4304)
 
-[![Article preview page with Elsevier header, left navigation sidebar, abstract content, and right recommendation panel](https://pin.fontofweb.com/4300?format=jpg)](https://design.withfudge.com/share/pin-4300)
+[![Article preview page with Elsevier header, left navigation sidebar, abstract content, and right recommendation panel](https://pin.fontofweb.com/4300?format=jpg)](https://fudge.design/share/pin-4300)
 
-[Article preview page with Elsevier header, left navigation sidebar, abstract content, and right recommendation panel](https://design.withfudge.com/share/pin-4300)
+[Article preview page with Elsevier header, left navigation sidebar, abstract content, and right recommendation panel](https://fudge.design/share/pin-4300)
 
-[![References section showing numbered bibliography entries with blue hyperlinked titles and gray metadata](https://pin.fontofweb.com/4299?format=jpg)](https://design.withfudge.com/share/pin-4299)
+[![References section showing numbered bibliography entries with blue hyperlinked titles and gray metadata](https://pin.fontofweb.com/4299?format=jpg)](https://fudge.design/share/pin-4299)
 
-[References section showing numbered bibliography entries with blue hyperlinked titles and gray metadata](https://design.withfudge.com/share/pin-4299)
+[References section showing numbered bibliography entries with blue hyperlinked titles and gray metadata](https://fudge.design/share/pin-4299)
 
-[![ScienceDirect AI promotional modal with orange border, product screenshot, and teal unlock action button](https://pin.fontofweb.com/4298?format=jpg)](https://design.withfudge.com/share/pin-4298)
+[![ScienceDirect AI promotional modal with orange border, product screenshot, and teal unlock action button](https://pin.fontofweb.com/4298?format=jpg)](https://fudge.design/share/pin-4298)
 
-[ScienceDirect AI promotional modal with orange border, product screenshot, and teal unlock action button](https://design.withfudge.com/share/pin-4298)
+[ScienceDirect AI promotional modal with orange border, product screenshot, and teal unlock action button](https://fudge.design/share/pin-4298)
 
 ## Overview
 
@@ -212,3 +212,18 @@ The promotional modal likely scales down proportionally, with the framed screens
 ## Scope note
 
 This guide covers the article preview, reference, error, and promotional surfaces visible in the supplied images. Journal landing pages, search results grids, full-text PDF viewers, user account dashboards, checkout flows, and mobile-specific layouts are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Article page](/share/designs-with-page.content.article)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

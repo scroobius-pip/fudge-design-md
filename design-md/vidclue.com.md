@@ -1,18 +1,18 @@
 # How vidclue.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vidclue.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vidclue.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed video idea library interface showing category navigation sidebar with coral-red textured device frame and example content panel](https://pin.fontofweb.com/3157?format=jpg)](https://design.withfudge.com/share/pin-3157)
+[![Dark-themed video idea library interface showing category navigation sidebar with coral-red textured device frame and example content panel](https://pin.fontofweb.com/3157?format=jpg)](https://fudge.design/share/pin-3157)
 
-[Dark-themed video idea library interface showing category navigation sidebar with coral-red textured device frame and example content panel](https://design.withfudge.com/share/pin-3157)
+[Dark-themed video idea library interface showing category navigation sidebar with coral-red textured device frame and example content panel](https://fudge.design/share/pin-3157)
 
-[![Minimal dark interface with coral-red textured frame in dimmed state showing navigation dots and promotional banner](https://pin.fontofweb.com/3156?format=jpg)](https://design.withfudge.com/share/pin-3156)
+[![Minimal dark interface with coral-red textured frame in dimmed state showing navigation dots and promotional banner](https://pin.fontofweb.com/3156?format=jpg)](https://fudge.design/share/pin-3156)
 
-[Minimal dark interface with coral-red textured frame in dimmed state showing navigation dots and promotional banner](https://design.withfudge.com/share/pin-3156)
+[Minimal dark interface with coral-red textured frame in dimmed state showing navigation dots and promotional banner](https://fudge.design/share/pin-3156)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Category lists with extensive item counts require careful scroll container manag
 ## Scope note
 
 This guide covers the physical challenge category page and surrounding frame interface of Vidclue. Mobile layouts, additional category pages, video playback states, bookmark functionality, and user authentication flows are not represented in the supplied images. Motion design, loading states, and error handling are not described. Measurements are practical adaptation targets derived from visual inspection of the desktop interface.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Image background](/share/designs-with-visual.background.image)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

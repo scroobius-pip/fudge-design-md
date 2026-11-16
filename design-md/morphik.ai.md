@@ -1,26 +1,26 @@
 # How morphik.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/morphik.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/morphik.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page showing four-tier card layout with serif heading, monospace plan titles, and black pill buttons on white canvas](https://pin.fontofweb.com/5298?format=jpg)](https://design.withfudge.com/share/pin-5298)
+[![Pricing page showing four-tier card layout with serif heading, monospace plan titles, and black pill buttons on white canvas](https://pin.fontofweb.com/5298?format=jpg)](https://fudge.design/share/pin-5298)
 
-[Pricing page showing four-tier card layout with serif heading, monospace plan titles, and black pill buttons on white canvas](https://design.withfudge.com/share/pin-5298)
+[Pricing page showing four-tier card layout with serif heading, monospace plan titles, and black pill buttons on white canvas](https://fudge.design/share/pin-5298)
 
-[![FAQ accordion section with serif heading, monospace question labels, and chevron expand icons on minimal white background](https://pin.fontofweb.com/5297?format=jpg)](https://design.withfudge.com/share/pin-5297)
+[![FAQ accordion section with serif heading, monospace question labels, and chevron expand icons on minimal white background](https://pin.fontofweb.com/5297?format=jpg)](https://fudge.design/share/pin-5297)
 
-[FAQ accordion section with serif heading, monospace question labels, and chevron expand icons on minimal white background](https://design.withfudge.com/share/pin-5297)
+[FAQ accordion section with serif heading, monospace question labels, and chevron expand icons on minimal white background](https://fudge.design/share/pin-5297)
 
-[![Footer CTA section with large serif display heading, paired buttons, and four-column link grid with logo mark](https://pin.fontofweb.com/5296?format=jpg)](https://design.withfudge.com/share/pin-5296)
+[![Footer CTA section with large serif display heading, paired buttons, and four-column link grid with logo mark](https://pin.fontofweb.com/5296?format=jpg)](https://fudge.design/share/pin-5296)
 
-[Footer CTA section with large serif display heading, paired buttons, and four-column link grid with logo mark](https://design.withfudge.com/share/pin-5296)
+[Footer CTA section with large serif display heading, paired buttons, and four-column link grid with logo mark](https://fudge.design/share/pin-5296)
 
-[![Feature grid with code snippet card, architecture diagrams, and deployment options in bordered panels](https://pin.fontofweb.com/5295?format=jpg)](https://design.withfudge.com/share/pin-5295)
+[![Feature grid with code snippet card, architecture diagrams, and deployment options in bordered panels](https://pin.fontofweb.com/5295?format=jpg)](https://fudge.design/share/pin-5295)
 
-[Feature grid with code snippet card, architecture diagrams, and deployment options in bordered panels](https://design.withfudge.com/share/pin-5295)
+[Feature grid with code snippet card, architecture diagrams, and deployment options in bordered panels](https://fudge.design/share/pin-5295)
 
 ## Overview
 
@@ -152,3 +152,18 @@ The design should maintain its single-column reading experience on narrow viewpo
 ## Scope note
 
 This guide covers the pricing page and homepage marketing surfaces visible in the supplied images. Navigation header, mobile breakpoints, form interactions, and dark mode are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

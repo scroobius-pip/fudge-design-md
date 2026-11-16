@@ -1,26 +1,26 @@
 # How marimo.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/marimo.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/marimo.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with teal-highlighted 'love letter' headline and feature cards showing code-outputs sync with scatter plot visualization](https://pin.fontofweb.com/2713?format=jpg)](https://design.withfudge.com/share/pin-2713)
+[![Hero section with teal-highlighted 'love letter' headline and feature cards showing code-outputs sync with scatter plot visualization](https://pin.fontofweb.com/2713?format=jpg)](https://fudge.design/share/pin-2713)
 
-[Hero section with teal-highlighted 'love letter' headline and feature cards showing code-outputs sync with scatter plot visualization](https://design.withfudge.com/share/pin-2713)
+[Hero section with teal-highlighted 'love letter' headline and feature cards showing code-outputs sync with scatter plot visualization](https://fudge.design/share/pin-2713)
 
-[![Top navigation with marimo logo, hero headline 'unified development environment', install command block, and notebook UI screenshot with tabbed controls](https://pin.fontofweb.com/2711?format=jpg)](https://design.withfudge.com/share/pin-2711)
+[![Top navigation with marimo logo, hero headline 'unified development environment', install command block, and notebook UI screenshot with tabbed controls](https://pin.fontofweb.com/2711?format=jpg)](https://fudge.design/share/pin-2711)
 
-[Top navigation with marimo logo, hero headline 'unified development environment', install command block, and notebook UI screenshot with tabbed controls](https://design.withfudge.com/share/pin-2711)
+[Top navigation with marimo logo, hero headline 'unified development environment', install command block, and notebook UI screenshot with tabbed controls](https://fudge.design/share/pin-2711)
 
-[![Community section with newsletter signup form, social icon buttons, and multi-column footer with categorized navigation links](https://pin.fontofweb.com/2689?format=jpg)](https://design.withfudge.com/share/pin-2689)
+[![Community section with newsletter signup form, social icon buttons, and multi-column footer with categorized navigation links](https://pin.fontofweb.com/2689?format=jpg)](https://fudge.design/share/pin-2689)
 
-[Community section with newsletter signup form, social icon buttons, and multi-column footer with categorized navigation links](https://design.withfudge.com/share/pin-2689)
+[Community section with newsletter signup form, social icon buttons, and multi-column footer with categorized navigation links](https://fudge.design/share/pin-2689)
 
-[![Gallery section with gradient 'Made with marimo' heading, example notebook cards with data visualizations and arrow-linked project titles](https://pin.fontofweb.com/2688?format=jpg)](https://design.withfudge.com/share/pin-2688)
+[![Gallery section with gradient 'Made with marimo' heading, example notebook cards with data visualizations and arrow-linked project titles](https://pin.fontofweb.com/2688?format=jpg)](https://fudge.design/share/pin-2688)
 
-[Gallery section with gradient 'Made with marimo' heading, example notebook cards with data visualizations and arrow-linked project titles](https://design.withfudge.com/share/pin-2688)
+[Gallery section with gradient 'Made with marimo' heading, example notebook cards with data visualizations and arrow-linked project titles](https://fudge.design/share/pin-2688)
 
 ## Overview
 
@@ -189,3 +189,18 @@ The code block and notebook screenshot components, which contain dense technical
 ## Scope note
 
 This guide covers the marimo.io marketing homepage visible in supplied materials, including hero, features, gallery, community, and footer surfaces. Mobile breakpoints, animation behavior, dark mode, and interactive states beyond static hover assumptions are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

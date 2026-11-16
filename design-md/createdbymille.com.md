@@ -1,26 +1,26 @@
 # How createdbymille.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/createdbymille.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/createdbymille.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark contact section with serif headline 'Got a project in mind?' and bold sans-serif 'Let's talk' on black background with blue lens flare](https://pin.fontofweb.com/1918?format=jpg)](https://design.withfudge.com/share/pin-1918)
+[![Dark contact section with serif headline 'Got a project in mind?' and bold sans-serif 'Let's talk' on black background with blue lens flare](https://pin.fontofweb.com/1918?format=jpg)](https://fudge.design/share/pin-1918)
 
-[Dark contact section with serif headline 'Got a project in mind?' and bold sans-serif 'Let's talk' on black background with blue lens flare](https://design.withfudge.com/share/pin-1918)
+[Dark contact section with serif headline 'Got a project in mind?' and bold sans-serif 'Let's talk' on black background with blue lens flare](https://fudge.design/share/pin-1918)
 
-[![Clients list with italic serif 'Clients' label and bold sans-serif brand names in two-column layout on pure black](https://pin.fontofweb.com/1917?format=jpg)](https://design.withfudge.com/share/pin-1917)
+[![Clients list with italic serif 'Clients' label and bold sans-serif brand names in two-column layout on pure black](https://pin.fontofweb.com/1917?format=jpg)](https://fudge.design/share/pin-1917)
 
-[Clients list with italic serif 'Clients' label and bold sans-serif brand names in two-column layout on pure black](https://design.withfudge.com/share/pin-1917)
+[Clients list with italic serif 'Clients' label and bold sans-serif brand names in two-column layout on pure black](https://fudge.design/share/pin-1917)
 
-[![Team portraits in three-column grid with blue underlined names and titles on black background](https://pin.fontofweb.com/1915?format=jpg)](https://design.withfudge.com/share/pin-1915)
+[![Team portraits in three-column grid with blue underlined names and titles on black background](https://pin.fontofweb.com/1915?format=jpg)](https://fudge.design/share/pin-1915)
 
-[Team portraits in three-column grid with blue underlined names and titles on black background](https://design.withfudge.com/share/pin-1915)
+[Team portraits in three-column grid with blue underlined names and titles on black background](https://fudge.design/share/pin-1915)
 
-[![About hero with large italic serif 'About' over architectural photography, navigation bar, and 'Creative Freelancers' section](https://pin.fontofweb.com/1914?format=jpg)](https://design.withfudge.com/share/pin-1914)
+[![About hero with large italic serif 'About' over architectural photography, navigation bar, and 'Creative Freelancers' section](https://pin.fontofweb.com/1914?format=jpg)](https://fudge.design/share/pin-1914)
 
-[About hero with large italic serif 'About' over architectural photography, navigation bar, and 'Creative Freelancers' section](https://design.withfudge.com/share/pin-1914)
+[About hero with large italic serif 'About' over architectural photography, navigation bar, and 'Creative Freelancers' section](https://fudge.design/share/pin-1914)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Full-bleed imagery should remain full-bleed across breakpoints, with text overla
 ## Scope note
 
 This guide covers the About page and its visible components including the hero, team grid, client list, and contact section. The homepage and project detail pages are not represented in the supplied material. No mobile layouts, hover states, loading behavior, or form interactions are documented. Motion design, video playback UI, and additional page templates fall outside this guide. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

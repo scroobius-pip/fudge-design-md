@@ -1,18 +1,18 @@
 # How code.visualstudio.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/code.visualstudio.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/code.visualstudio.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Feature grid section with eight dark cards showing terminal, code execution, version control, build tasks, local history, themes, accessibility, and web support icons with blue](https://pin.fontofweb.com/5483?format=jpg)](https://design.withfudge.com/share/pin-5483)
+[![Feature grid section with eight dark cards showing terminal, code execution, version control, build tasks, local history, themes, accessibility, and web support icons with blue](https://pin.fontofweb.com/5483?format=jpg)](https://fudge.design/share/pin-5483)
 
-[Feature grid section with eight dark cards showing terminal, code execution, version control, build tasks, local history, themes, accessibility, and web support icons with blue](https://design.withfudge.com/share/pin-5483)
+[Feature grid section with eight dark cards showing terminal, code execution, version control, build tasks, local history, themes, accessibility, and web support icons with blue](https://fudge.design/share/pin-5483)
 
-[![Hero section with large white display headline over binary pattern background, centered download button, and prominent VS Code: editor screenshot with Copilot chat interface and](https://pin.fontofweb.com/5482?format=jpg)](https://design.withfudge.com/share/pin-5482)
+[![Hero section with large white display headline over binary pattern background, centered download button, and prominent VS Code: editor screenshot with Copilot chat interface and](https://pin.fontofweb.com/5482?format=jpg)](https://fudge.design/share/pin-5482)
 
-[Hero section with large white display headline over binary pattern background, centered download button, and prominent VS Code: editor screenshot with Copilot chat interface and](https://design.withfudge.com/share/pin-5482)
+[Hero section with large white display headline over binary pattern background, centered download button, and prominent VS Code: editor screenshot with Copilot chat interface and](https://fudge.design/share/pin-5482)
 
 ## Overview
 
@@ -141,3 +141,18 @@ Navigation should collapse to a hamburger menu on mobile, with the search input 
 ## Scope note
 
 This guide covers the Visual Studio Code: homepage marketing experience as visible in the supplied images, including the hero section, feature grid, and footer. Navigation dropdowns, documentation pages, download flows, and mobile-specific layouts are not represented. Measurements are practical adaptation targets. Verify licensing for Segoe UI before production use, or substitute with an equivalent system font stack.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

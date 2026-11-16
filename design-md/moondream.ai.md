@@ -1,22 +1,22 @@
 # How moondream.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/moondream.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/moondream.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display typography, announcement pill, dual CTAs, and tilted device mockup grid on near-black background](https://pin.fontofweb.com/7953?format=jpg)](https://design.withfudge.com/share/pin-7953)
+[![Hero section with large display typography, announcement pill, dual CTAs, and tilted device mockup grid on near-black background](https://pin.fontofweb.com/7953?format=jpg)](https://fudge.design/share/pin-7953)
 
-[Hero section with large display typography, announcement pill, dual CTAs, and tilted device mockup grid on near-black background](https://design.withfudge.com/share/pin-7953)
+[Hero section with large display typography, announcement pill, dual CTAs, and tilted device mockup grid on near-black background](https://fudge.design/share/pin-7953)
 
-[![Solutions section with feature cards showing product screenshots, icon headings, and muted body text on dark canvas](https://pin.fontofweb.com/7954?format=jpg)](https://design.withfudge.com/share/pin-7954)
+[![Solutions section with feature cards showing product screenshots, icon headings, and muted body text on dark canvas](https://pin.fontofweb.com/7954?format=jpg)](https://fudge.design/share/pin-7954)
 
-[Solutions section with feature cards showing product screenshots, icon headings, and muted body text on dark canvas](https://design.withfudge.com/share/pin-7954)
+[Solutions section with feature cards showing product screenshots, icon headings, and muted body text on dark canvas](https://fudge.design/share/pin-7954)
 
-[![Login modal with split-panel layout, social auth buttons, and legal links on dark overlay background](https://pin.fontofweb.com/7955?format=jpg)](https://design.withfudge.com/share/pin-7955)
+[![Login modal with split-panel layout, social auth buttons, and legal links on dark overlay background](https://pin.fontofweb.com/7955?format=jpg)](https://fudge.design/share/pin-7955)
 
-[Login modal with split-panel layout, social auth buttons, and legal links on dark overlay background](https://design.withfudge.com/share/pin-7955)
+[Login modal with split-panel layout, social auth buttons, and legal links on dark overlay background](https://fudge.design/share/pin-7955)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Button groups in the hero should stack vertically on narrow screens, with the pr
 ## Scope note
 
 This guide covers the homepage and login page surfaces visible in the supplied images. Pricing, documentation, blog, and playground interfaces are not represented. Motion, hover states, loading indicators, and form validation styling are not documented. Measurements reflect the extracted interface values and should be verified against the live site during implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

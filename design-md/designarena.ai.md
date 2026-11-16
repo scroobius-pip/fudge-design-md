@@ -1,26 +1,26 @@
 # How designarena.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/designarena.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/designarena.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with colosseum illustration, model icon grid, and dark pill CTA on warm off-white canvas](https://pin.fontofweb.com/5794?format=jpg)](https://design.withfudge.com/share/pin-5794)
+[![Hero section with colosseum illustration, model icon grid, and dark pill CTA on warm off-white canvas](https://pin.fontofweb.com/5794?format=jpg)](https://fudge.design/share/pin-5794)
 
-[Hero section with colosseum illustration, model icon grid, and dark pill CTA on warm off-white canvas](https://design.withfudge.com/share/pin-5794)
+[Hero section with colosseum illustration, model icon grid, and dark pill CTA on warm off-white canvas](https://fudge.design/share/pin-5794)
 
-[![Leaderboard bar chart with muted sage, olive, and teal bars, category filter pills, and tab controls](https://pin.fontofweb.com/5793?format=jpg)](https://design.withfudge.com/share/pin-5793)
+[![Leaderboard bar chart with muted sage, olive, and teal bars, category filter pills, and tab controls](https://pin.fontofweb.com/5793?format=jpg)](https://fudge.design/share/pin-5793)
 
-[Leaderboard bar chart with muted sage, olive, and teal bars, category filter pills, and tab controls](https://design.withfudge.com/share/pin-5793)
+[Leaderboard bar chart with muted sage, olive, and teal bars, category filter pills, and tab controls](https://fudge.design/share/pin-5793)
 
-[![Homepage hero with centered prompt input, category chips, and decorative arena illustration with model badges](https://pin.fontofweb.com/5792?format=jpg)](https://design.withfudge.com/share/pin-5792)
+[![Homepage hero with centered prompt input, category chips, and decorative arena illustration with model badges](https://pin.fontofweb.com/5792?format=jpg)](https://fudge.design/share/pin-5792)
 
-[Homepage hero with centered prompt input, category chips, and decorative arena illustration with model badges](https://design.withfudge.com/share/pin-5792)
+[Homepage hero with centered prompt input, category chips, and decorative arena illustration with model badges](https://fudge.design/share/pin-5792)
 
-[![Homepage hero showing laurel wordmark, navigation bar, and arena scene with floating model labels](https://pin.fontofweb.com/5791?format=jpg)](https://design.withfudge.com/share/pin-5791)
+[![Homepage hero showing laurel wordmark, navigation bar, and arena scene with floating model labels](https://pin.fontofweb.com/5791?format=jpg)](https://fudge.design/share/pin-5791)
 
-[Homepage hero showing laurel wordmark, navigation bar, and arena scene with floating model labels](https://design.withfudge.com/share/pin-5791)
+[Homepage hero showing laurel wordmark, navigation bar, and arena scene with floating model labels](https://fudge.design/share/pin-5791)
 
 ## Overview
 
@@ -180,3 +180,18 @@ Navigation links in the top bar should collapse to a menu button on narrow viewp
 ## Scope note
 
 This guide covers the homepage hero and leaderboard visualization surfaces visible in the supplied images. Mobile layouts, breakpoint-specific adaptations, hover and focus states beyond basic requirements, loading and error states, dark mode, and any interior pages (Evals, Blog, Methodology) are not represented. Measurements are practical adaptation targets derived from visible proportions against the 0.25rem base unit.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Muted chroma](/share/designs-with-color.chroma.muted)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

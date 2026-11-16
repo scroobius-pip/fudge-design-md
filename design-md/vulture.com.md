@@ -1,22 +1,22 @@
 # How vulture.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vulture.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vulture.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Vulture footer with black wordmark, social icons in black circles, and dense legal links in uppercase tracking](https://pin.fontofweb.com/1430?format=jpg)](https://design.withfudge.com/share/pin-1430)
+[![Vulture footer with black wordmark, social icons in black circles, and dense legal links in uppercase tracking](https://pin.fontofweb.com/1430?format=jpg)](https://fudge.design/share/pin-1430)
 
-[Vulture footer with black wordmark, social icons in black circles, and dense legal links in uppercase tracking](https://design.withfudge.com/share/pin-1430)
+[Vulture footer with black wordmark, social icons in black circles, and dense legal links in uppercase tracking](https://fudge.design/share/pin-1430)
 
-[![Movies section header in oversized cyan italic display with editorial card grid and TV section below](https://pin.fontofweb.com/1429?format=jpg)](https://design.withfudge.com/share/pin-1429)
+[![Movies section header in oversized cyan italic display with editorial card grid and TV section below](https://pin.fontofweb.com/1429?format=jpg)](https://fudge.design/share/pin-1429)
 
-[Movies section header in oversized cyan italic display with editorial card grid and TV section below](https://design.withfudge.com/share/pin-1429)
+[Movies section header in oversized cyan italic display with editorial card grid and TV section below](https://fudge.design/share/pin-1429)
 
-[![Vulture homepage masthead with bold black wordmark, cyan Feed badge, and three-column editorial layout](https://pin.fontofweb.com/1428?format=jpg)](https://design.withfudge.com/share/pin-1428)
+[![Vulture homepage masthead with bold black wordmark, cyan Feed badge, and three-column editorial layout](https://pin.fontofweb.com/1428?format=jpg)](https://fudge.design/share/pin-1428)
 
-[Vulture homepage masthead with bold black wordmark, cyan Feed badge, and three-column editorial layout](https://design.withfudge.com/share/pin-1428)
+[Vulture homepage masthead with bold black wordmark, cyan Feed badge, and three-column editorial layout](https://fudge.design/share/pin-1428)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Game modules with circular avatars and question text should stack vertically rat
 ## Scope note
 
 This guide covers the Vulture homepage and section front visible in the supplied images, including masthead, navigation, editorial card grids, section headers, game modules, and footer. Article page templates, video players, subscription flows, search results, and mobile-specific layouts are not represented. Interactive states, animation behavior, and dark mode variants are not documented. Measurements are practical adaptation targets derived from visual inspection against a 4px base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

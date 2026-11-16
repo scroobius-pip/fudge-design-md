@@ -1,18 +1,18 @@
 # How mint-lang.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mint-lang.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mint-lang.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Mint logo, tagline, multi-column navigation links, and green leaf imagery on dark background](https://pin.fontofweb.com/3827?format=jpg)](https://design.withfudge.com/share/pin-3827)
+[![Footer section with Mint logo, tagline, multi-column navigation links, and green leaf imagery on dark background](https://pin.fontofweb.com/3827?format=jpg)](https://fudge.design/share/pin-3827)
 
-[Footer section with Mint logo, tagline, multi-column navigation links, and green leaf imagery on dark background](https://design.withfudge.com/share/pin-3827)
+[Footer section with Mint logo, tagline, multi-column navigation links, and green leaf imagery on dark background](https://fudge.design/share/pin-3827)
 
-[![Hero section with Mint logo, headline, green CTA button, and syntax-highlighted code example on dark background](https://pin.fontofweb.com/3826?format=jpg)](https://design.withfudge.com/share/pin-3826)
+[![Hero section with Mint logo, headline, green CTA button, and syntax-highlighted code example on dark background](https://pin.fontofweb.com/3826?format=jpg)](https://fudge.design/share/pin-3826)
 
-[Hero section with Mint logo, headline, green CTA button, and syntax-highlighted code example on dark background](https://design.withfudge.com/share/pin-3826)
+[Hero section with Mint logo, headline, green CTA button, and syntax-highlighted code example on dark background](https://fudge.design/share/pin-3826)
 
 ## Overview
 
@@ -157,3 +157,18 @@ Typography scales down proportionally: hero-display should reduce to section-dis
 ## Scope note
 
 This guide covers the Mint homepage including the hero section, navigation, and footer. Interior documentation pages, interactive playground interfaces, and mobile-specific layouts are not represented in the supplied material. Measurements are practical adaptation targets. Motion, loading states, and form components fall outside the current scope.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

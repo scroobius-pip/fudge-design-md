@@ -1,26 +1,26 @@
 # How oatly.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oatly.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/oatly.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with pink sustainability panel, product lookbook photography, and mission statement in bold condensed type](https://pin.fontofweb.com/5811?format=jpg)](https://design.withfudge.com/share/pin-5811)
+[![Homepage hero with pink sustainability panel, product lookbook photography, and mission statement in bold condensed type](https://pin.fontofweb.com/5811?format=jpg)](https://fudge.design/share/pin-5811)
 
-[Homepage hero with pink sustainability panel, product lookbook photography, and mission statement in bold condensed type](https://design.withfudge.com/share/pin-5811)
+[Homepage hero with pink sustainability panel, product lookbook photography, and mission statement in bold condensed type](https://fudge.design/share/pin-5811)
 
-[![FAQ page header with Oatfinder illustration, black action button, and utility toolbar icons](https://pin.fontofweb.com/5738?format=jpg)](https://design.withfudge.com/share/pin-5738)
+[![FAQ page header with Oatfinder illustration, black action button, and utility toolbar icons](https://pin.fontofweb.com/5738?format=jpg)](https://fudge.design/share/pin-5738)
 
-[FAQ page header with Oatfinder illustration, black action button, and utility toolbar icons](https://design.withfudge.com/share/pin-5738)
+[FAQ page header with Oatfinder illustration, black action button, and utility toolbar icons](https://fudge.design/share/pin-5738)
 
-[![FAQ contact section with massive condensed display headline, black pill button, and mono body copy on textured background](https://pin.fontofweb.com/5737?format=jpg)](https://design.withfudge.com/share/pin-5737)
+[![FAQ contact section with massive condensed display headline, black pill button, and mono body copy on textured background](https://pin.fontofweb.com/5737?format=jpg)](https://fudge.design/share/pin-5737)
 
-[FAQ contact section with massive condensed display headline, black pill button, and mono body copy on textured background](https://design.withfudge.com/share/pin-5737)
+[FAQ contact section with massive condensed display headline, black pill button, and mono body copy on textured background](https://fudge.design/share/pin-5737)
 
-[![FAQ category tabs in black rectangles with mono text, accordion questions with plus icons, and food photography card](https://pin.fontofweb.com/5736?format=jpg)](https://design.withfudge.com/share/pin-5736)
+[![FAQ category tabs in black rectangles with mono text, accordion questions with plus icons, and food photography card](https://pin.fontofweb.com/5736?format=jpg)](https://fudge.design/share/pin-5736)
 
-[FAQ category tabs in black rectangles with mono text, accordion questions with plus icons, and food photography card](https://design.withfudge.com/share/pin-5736)
+[FAQ category tabs in black rectangles with mono text, accordion questions with plus icons, and food photography card](https://fudge.design/share/pin-5736)
 
 ## Overview
 
@@ -148,3 +148,18 @@ Image cards should maintain aspect ratio but transition from side-by-side layout
 ## Scope note
 
 This guide covers the homepage and FAQ page surfaces visible in the supplied images. Product detail pages, checkout flows, account interfaces, and mobile layouts are not represented. Motion behavior, hover states, form validation, and loading patterns were not captured and should be designed to match the system's tactile, high-contrast character. Measurements are practical adaptation targets. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

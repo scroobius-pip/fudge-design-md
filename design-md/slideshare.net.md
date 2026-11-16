@@ -1,22 +1,22 @@
 # How slideshare.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/slideshare.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/slideshare.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark navy banner, lavender background, and playful illustration of hands holding a presentation slide](https://pin.fontofweb.com/7161?format=jpg)](https://design.withfudge.com/share/pin-7161)
+[![Hero section with dark navy banner, lavender background, and playful illustration of hands holding a presentation slide](https://pin.fontofweb.com/7161?format=jpg)](https://fudge.design/share/pin-7161)
 
-[Hero section with dark navy banner, lavender background, and playful illustration of hands holding a presentation slide](https://design.withfudge.com/share/pin-7161)
+[Hero section with dark navy banner, lavender background, and playful illustration of hands holding a presentation slide](https://fudge.design/share/pin-7161)
 
-[![Pricing comparison cards with gradient headers on soft teal background and illustrated character holding a tablet](https://pin.fontofweb.com/7163?format=jpg)](https://design.withfudge.com/share/pin-7163)
+[![Pricing comparison cards with gradient headers on soft teal background and illustrated character holding a tablet](https://pin.fontofweb.com/7163?format=jpg)](https://fudge.design/share/pin-7163)
 
-[Pricing comparison cards with gradient headers on soft teal background and illustrated character holding a tablet](https://design.withfudge.com/share/pin-7163)
+[Pricing comparison cards with gradient headers on soft teal background and illustrated character holding a tablet](https://fudge.design/share/pin-7163)
 
-[![Presentation grid with category filter pills and thumbnail cards showing slide counts and view statistics](https://pin.fontofweb.com/7162?format=jpg)](https://design.withfudge.com/share/pin-7162)
+[![Presentation grid with category filter pills and thumbnail cards showing slide counts and view statistics](https://pin.fontofweb.com/7162?format=jpg)](https://fudge.design/share/pin-7162)
 
-[Presentation grid with category filter pills and thumbnail cards showing slide counts and view statistics](https://design.withfudge.com/share/pin-7162)
+[Presentation grid with category filter pills and thumbnail cards showing slide counts and view statistics](https://fudge.design/share/pin-7162)
 
 ## Overview
 
@@ -170,3 +170,18 @@ The visible desktop layout suggests a single breakpoint strategy rather than com
 ## Scope note
 
 This guide covers the Slideshare homepage and pricing page surfaces visible in the supplied images. Mobile layouts, presentation viewer interfaces, upload flows, user dashboards, and account management screens are not represented. Motion design, loading states, and form validation patterns were not captured. Measurements derive from the documented interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How superscale.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/superscale.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/superscale.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with warm orange gradient background, multi-column link navigation, and white logo mark in upper right](https://pin.fontofweb.com/2975?format=jpg)](https://design.withfudge.com/share/pin-2975)
+[![Footer section with warm orange gradient background, multi-column link navigation, and white logo mark in upper right](https://pin.fontofweb.com/2975?format=jpg)](https://fudge.design/share/pin-2975)
 
-[Footer section with warm orange gradient background, multi-column link navigation, and white logo mark in upper right](https://design.withfudge.com/share/pin-2975)
+[Footer section with warm orange gradient background, multi-column link navigation, and white logo mark in upper right](https://fudge.design/share/pin-2975)
 
-[![Comparison section with two-column card layout showing traditional versus Superscale pricing on light gray background](https://pin.fontofweb.com/2974?format=jpg)](https://design.withfudge.com/share/pin-2974)
+[![Comparison section with two-column card layout showing traditional versus Superscale pricing on light gray background](https://pin.fontofweb.com/2974?format=jpg)](https://fudge.design/share/pin-2974)
 
-[Comparison section with two-column card layout showing traditional versus Superscale pricing on light gray background](https://design.withfudge.com/share/pin-2974)
+[Comparison section with two-column card layout showing traditional versus Superscale pricing on light gray background](https://fudge.design/share/pin-2974)
 
 ## Overview
 
@@ -158,3 +158,18 @@ Typography scales down proportionally: hero-display reduces to 2rem on tablet an
 ## Scope note
 
 This guide covers the marketing page surface visible in the supplied images, including the comparison section and footer. Navigation header, hero section, pricing tables, form interactions, and motion behavior are not represented. Measurements are practical adaptation targets based on visible proportions.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How mellow.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mellow.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/mellow.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Testimonials section with three cards in warm peach and sage green, featuring serif display headings and star ratings](https://pin.fontofweb.com/6738?format=jpg)](https://design.withfudge.com/share/pin-6738)
+[![Testimonials section with three cards in warm peach and sage green, featuring serif display headings and star ratings](https://pin.fontofweb.com/6738?format=jpg)](https://fudge.design/share/pin-6738)
 
-[Testimonials section with three cards in warm peach and sage green, featuring serif display headings and star ratings](https://design.withfudge.com/share/pin-6738)
+[Testimonials section with three cards in warm peach and sage green, featuring serif display headings and star ratings](https://fudge.design/share/pin-6738)
 
-[![Dark footer with multi-column navigation, trust badges, and app store download buttons](https://pin.fontofweb.com/6736?format=jpg)](https://design.withfudge.com/share/pin-6736)
+[![Dark footer with multi-column navigation, trust badges, and app store download buttons](https://pin.fontofweb.com/6736?format=jpg)](https://fudge.design/share/pin-6736)
 
-[Dark footer with multi-column navigation, trust badges, and app store download buttons](https://design.withfudge.com/share/pin-6736)
+[Dark footer with multi-column navigation, trust badges, and app store download buttons](https://fudge.design/share/pin-6736)
 
-[![FAQ accordion section with cream background, serif FAQ heading, and chevron expand icons](https://pin.fontofweb.com/6735?format=jpg)](https://design.withfudge.com/share/pin-6735)
+[![FAQ accordion section with cream background, serif FAQ heading, and chevron expand icons](https://pin.fontofweb.com/6735?format=jpg)](https://fudge.design/share/pin-6735)
 
-[FAQ accordion section with cream background, serif FAQ heading, and chevron expand icons](https://design.withfudge.com/share/pin-6735)
+[FAQ accordion section with cream background, serif FAQ heading, and chevron expand icons](https://fudge.design/share/pin-6735)
 
-[![Close-up of single testimonial card showing serif body text, avatar, and five-star rating](https://pin.fontofweb.com/6737?format=jpg)](https://design.withfudge.com/share/pin-6737)
+[![Close-up of single testimonial card showing serif body text, avatar, and five-star rating](https://pin.fontofweb.com/6737?format=jpg)](https://fudge.design/share/pin-6737)
 
-[Close-up of single testimonial card showing serif body text, avatar, and five-star rating](https://design.withfudge.com/share/pin-6737)
+[Close-up of single testimonial card showing serif body text, avatar, and five-star rating](https://fudge.design/share/pin-6737)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The wide 8rem page gutters should compress on narrower viewports, likely reducin
 ## Scope note
 
 This guide covers the contractor-facing marketing pages including testimonials, FAQ, and footer surfaces. Pricing tables, dashboard interfaces, mobile navigation behavior, and form interactions are not represented in the captured materials. Animation, hover states, and loading patterns are not documented." Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

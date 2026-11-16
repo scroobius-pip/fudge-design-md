@@ -1,26 +1,26 @@
 # How fisayofosudo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fisayofosudo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fisayofosudo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Orange newsletter section with bold black display type, email input field, and social icon row on grid background](https://pin.fontofweb.com/2985?format=jpg)](https://design.withfudge.com/share/pin-2985)
+[![Orange newsletter section with bold black display type, email input field, and social icon row on grid background](https://pin.fontofweb.com/2985?format=jpg)](https://fudge.design/share/pin-2985)
 
-[Orange newsletter section with bold black display type, email input field, and social icon row on grid background](https://design.withfudge.com/share/pin-2985)
+[Orange newsletter section with bold black display type, email input field, and social icon row on grid background](https://fudge.design/share/pin-2985)
 
-[![Press coverage list with publication logos, dates, and external-link arrows on pale grid background](https://pin.fontofweb.com/2984?format=jpg)](https://design.withfudge.com/share/pin-2984)
+[![Press coverage list with publication logos, dates, and external-link arrows on pale grid background](https://pin.fontofweb.com/2984?format=jpg)](https://fudge.design/share/pin-2984)
 
-[Press coverage list with publication logos, dates, and external-link arrows on pale grid background](https://design.withfudge.com/share/pin-2984)
+[Press coverage list with publication logos, dates, and external-link arrows on pale grid background](https://fudge.design/share/pin-2984)
 
-[![Yellow projects grid with six media cards showing thumbnails and diagonal arrow links](https://pin.fontofweb.com/2983?format=jpg)](https://design.withfudge.com/share/pin-2983)
+[![Yellow projects grid with six media cards showing thumbnails and diagonal arrow links](https://pin.fontofweb.com/2983?format=jpg)](https://fudge.design/share/pin-2983)
 
-[Yellow projects grid with six media cards showing thumbnails and diagonal arrow links](https://design.withfudge.com/share/pin-2983)
+[Yellow projects grid with six media cards showing thumbnails and diagonal arrow links](https://fudge.design/share/pin-2983)
 
-[![Brand partner logos in horizontal strip with thin vertical dividers on white grid background](https://pin.fontofweb.com/2982?format=jpg)](https://design.withfudge.com/share/pin-2982)
+[![Brand partner logos in horizontal strip with thin vertical dividers on white grid background](https://pin.fontofweb.com/2982?format=jpg)](https://fudge.design/share/pin-2982)
 
-[Brand partner logos in horizontal strip with thin vertical dividers on white grid background](https://design.withfudge.com/share/pin-2982)
+[Brand partner logos in horizontal strip with thin vertical dividers on white grid background](https://fudge.design/share/pin-2982)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Display type sizes should scale down proportionally: hero-display from 6rem to a
 ## Scope note
 
 This guide covers the homepage and blog page surfaces visible in the supplied images, including the newsletter, press, projects, and brand partnership sections. Navigation behavior, mobile menu patterns, form validation states, hover and focus effects, page transitions, and any interior blog post layouts are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection against a 4px relative unit grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

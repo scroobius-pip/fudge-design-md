@@ -1,26 +1,26 @@
 # How iroh.computer is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/iroh.computer-design)
+[Open the live Fudge conversation](https://fudge.design/share/iroh.computer-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog index page with dark charcoal background, white Koulen headings, and purple-blue Read Post links in a vertical timeline layout](https://pin.fontofweb.com/4649?format=jpg)](https://design.withfudge.com/share/pin-4649)
+[![Blog index page with dark charcoal background, white Koulen headings, and purple-blue Read Post links in a vertical timeline layout](https://pin.fontofweb.com/4649?format=jpg)](https://fudge.design/share/pin-4649)
 
-[Blog index page with dark charcoal background, white Koulen headings, and purple-blue Read Post links in a vertical timeline layout](https://design.withfudge.com/share/pin-4649)
+[Blog index page with dark charcoal background, white Koulen headings, and purple-blue Read Post links in a vertical timeline layout](https://fudge.design/share/pin-4649)
 
-[![Sendme feature section with light gray gradient background, three-column FAST/RESUMABLE FETCHING/INTEGRITY CHECKS layout, and purple-accented iroh code-style text](https://pin.fontofweb.com/4281?format=jpg)](https://design.withfudge.com/share/pin-4281)
+[![Sendme feature section with light gray gradient background, three-column FAST/RESUMABLE FETCHING/INTEGRITY CHECKS layout, and purple-accented iroh code-style text](https://pin.fontofweb.com/4281?format=jpg)](https://fudge.design/share/pin-4281)
 
-[Sendme feature section with light gray gradient background, three-column FAST/RESUMABLE FETCHING/INTEGRITY CHECKS layout, and purple-accented iroh code-style text](https://design.withfudge.com/share/pin-4281)
+[Sendme feature section with light gray gradient background, three-column FAST/RESUMABLE FETCHING/INTEGRITY CHECKS layout, and purple-accented iroh code-style text](https://fudge.design/share/pin-4281)
 
-[![Sendme three-step setup guide with terminal window illustrations, numbered steps, and monospace code snippets on white background](https://pin.fontofweb.com/4280?format=jpg)](https://design.withfudge.com/share/pin-4280)
+[![Sendme three-step setup guide with terminal window illustrations, numbered steps, and monospace code snippets on white background](https://pin.fontofweb.com/4280?format=jpg)](https://fudge.design/share/pin-4280)
 
-[Sendme three-step setup guide with terminal window illustrations, numbered steps, and monospace code snippets on white background](https://design.withfudge.com/share/pin-4280)
+[Sendme three-step setup guide with terminal window illustrations, numbered steps, and monospace code snippets on white background](https://fudge.design/share/pin-4280)
 
-[![Sendme hero with bold black SENDME display type, playful line-art illustration of connected laptops, and install code blocks with copy buttons](https://pin.fontofweb.com/4279?format=jpg)](https://design.withfudge.com/share/pin-4279)
+[![Sendme hero with bold black SENDME display type, playful line-art illustration of connected laptops, and install code blocks with copy buttons](https://pin.fontofweb.com/4279?format=jpg)](https://fudge.design/share/pin-4279)
 
-[Sendme hero with bold black SENDME display type, playful line-art illustration of connected laptops, and install code blocks with copy buttons](https://design.withfudge.com/share/pin-4279)
+[Sendme hero with bold black SENDME display type, playful line-art illustration of connected laptops, and install code blocks with copy buttons](https://fudge.design/share/pin-4279)
 
 ## Overview
 
@@ -151,3 +151,18 @@ Navigation should collapse to a hamburger menu or simplify to essential links on
 ## Scope note
 
 This guide covers the blog index and Sendme product page surfaces visible in the supplied images. The documentation site, additional product pages, and any interactive states beyond static presentation are not represented. Footer content, mobile navigation patterns, and form components are not visible in the source material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

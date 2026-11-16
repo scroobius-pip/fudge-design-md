@@ -1,22 +1,22 @@
 # How nuformtype.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nuformtype.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nuformtype.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage showing stacked type specimens BRZO, Hermanos, and Jaws in dark green on vivid orange with newsletter signup footer](https://pin.fontofweb.com/1891?format=jpg)](https://design.withfudge.com/share/pin-1891)
+[![Homepage showing stacked type specimens BRZO, Hermanos, and Jaws in dark green on vivid orange with newsletter signup footer](https://pin.fontofweb.com/1891?format=jpg)](https://fudge.design/share/pin-1891)
 
-[Homepage showing stacked type specimens BRZO, Hermanos, and Jaws in dark green on vivid orange with newsletter signup footer](https://design.withfudge.com/share/pin-1891)
+[Homepage showing stacked type specimens BRZO, Hermanos, and Jaws in dark green on vivid orange with newsletter signup footer](https://fudge.design/share/pin-1891)
 
-[![Info page with Nuform logotype in cream on warm gray, green body text, and orange subscribe button in minimal layout](https://pin.fontofweb.com/1890?format=jpg)](https://design.withfudge.com/share/pin-1890)
+[![Info page with Nuform logotype in cream on warm gray, green body text, and orange subscribe button in minimal layout](https://pin.fontofweb.com/1890?format=jpg)](https://fudge.design/share/pin-1890)
 
-[Info page with Nuform logotype in cream on warm gray, green body text, and orange subscribe button in minimal layout](https://design.withfudge.com/share/pin-1890)
+[Info page with Nuform logotype in cream on warm gray, green body text, and orange subscribe button in minimal layout](https://fudge.design/share/pin-1890)
 
-[![Homepage hero showing OZIK and OZIK Soft specimens in dark green on orange with Out Now sticker badge and navigation](https://pin.fontofweb.com/1889?format=jpg)](https://design.withfudge.com/share/pin-1889)
+[![Homepage hero showing OZIK and OZIK Soft specimens in dark green on orange with Out Now sticker badge and navigation](https://pin.fontofweb.com/1889?format=jpg)](https://fudge.design/share/pin-1889)
 
-[Homepage hero showing OZIK and OZIK Soft specimens in dark green on orange with Out Now sticker badge and navigation](https://design.withfudge.com/share/pin-1889)
+[Homepage hero showing OZIK and OZIK Soft specimens in dark green on orange with Out Now sticker badge and navigation](https://fudge.design/share/pin-1889)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The newsletter form's horizontal input-button pair should stack vertically on sm
 ## Scope note
 
 This guide covers the homepage type-specimen experience and the info page as visible in the supplied images. Mobile layouts, hover and focus states, loading behavior, additional interior pages, and typeface detail pages are not represented. Measurements are practical adaptation targets derived from visual analysis of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

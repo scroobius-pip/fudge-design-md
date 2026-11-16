@@ -1,26 +1,26 @@
 # How plutio.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/plutio.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/plutio.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark testimonial section with three gradient portrait cards and a purple social-proof banner showing global business statistics](https://pin.fontofweb.com/8367?format=jpg)](https://design.withfudge.com/share/pin-8367)
+[![Dark testimonial section with three gradient portrait cards and a purple social-proof banner showing global business statistics](https://pin.fontofweb.com/8367?format=jpg)](https://fudge.design/share/pin-8367)
 
-[Dark testimonial section with three gradient portrait cards and a purple social-proof banner showing global business statistics](https://design.withfudge.com/share/pin-8367)
+[Dark testimonial section with three gradient portrait cards and a purple social-proof banner showing global business statistics](https://fudge.design/share/pin-8367)
 
-[![Pricing page with three-tier card layout featuring purple headers, yellow highlight underline on headline, and monthly-yearly toggle](https://pin.fontofweb.com/8366?format=jpg)](https://design.withfudge.com/share/pin-8366)
+[![Pricing page with three-tier card layout featuring purple headers, yellow highlight underline on headline, and monthly-yearly toggle](https://pin.fontofweb.com/8366?format=jpg)](https://fudge.design/share/pin-8366)
 
-[Pricing page with three-tier card layout featuring purple headers, yellow highlight underline on headline, and monthly-yearly toggle](https://design.withfudge.com/share/pin-8366)
+[Pricing page with three-tier card layout featuring purple headers, yellow highlight underline on headline, and monthly-yearly toggle](https://fudge.design/share/pin-8366)
 
-[![Footer area with social media links, legal navigation, and centered brand tagline with decorative handwritten-style illustrations](https://pin.fontofweb.com/8365?format=jpg)](https://design.withfudge.com/share/pin-8365)
+[![Footer area with social media links, legal navigation, and centered brand tagline with decorative handwritten-style illustrations](https://pin.fontofweb.com/8365?format=jpg)](https://fudge.design/share/pin-8365)
 
-[Footer area with social media links, legal navigation, and centered brand tagline with decorative handwritten-style illustrations](https://design.withfudge.com/share/pin-8365)
+[Footer area with social media links, legal navigation, and centered brand tagline with decorative handwritten-style illustrations](https://fudge.design/share/pin-8365)
 
-[![Comprehensive footer directory with five-column link grid, category headers, and purple NEW badges on Product links](https://pin.fontofweb.com/8364?format=jpg)](https://design.withfudge.com/share/pin-8364)
+[![Comprehensive footer directory with five-column link grid, category headers, and purple NEW badges on Product links](https://pin.fontofweb.com/8364?format=jpg)](https://fudge.design/share/pin-8364)
 
-[Comprehensive footer directory with five-column link grid, category headers, and purple NEW badges on Product links](https://design.withfudge.com/share/pin-8364)
+[Comprehensive footer directory with five-column link grid, category headers, and purple NEW badges on Product links](https://fudge.design/share/pin-8364)
 
 ## Overview
 
@@ -215,3 +215,18 @@ Touch targets should maintain minimum 44px height for all interactive elements. 
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images, including hero sections, pricing tables, testimonials, statistics banners, and footer directories. Navigation dropdowns, mobile menu states, form interactions, dashboard interfaces, and animation behaviors are not represented in the available material. The rounded corner values and spacing scale derive from direct interface measurement.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

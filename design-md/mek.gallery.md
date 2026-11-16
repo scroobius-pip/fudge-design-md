@@ -1,26 +1,26 @@
 # How mek.gallery is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mek.gallery-design)
+[Open the live Fudge conversation](https://fudge.design/share/mek.gallery-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark biography section with pixel-art icon and mixed-weight serif typography describing Michael Alexander as MEK.txt](https://pin.fontofweb.com/5373?format=jpg)](https://design.withfudge.com/share/pin-5373)
+[![Dark biography section with pixel-art icon and mixed-weight serif typography describing Michael Alexander as MEK.txt](https://pin.fontofweb.com/5373?format=jpg)](https://fudge.design/share/pin-5373)
 
-[Dark biography section with pixel-art icon and mixed-weight serif typography describing Michael Alexander as MEK.txt](https://design.withfudge.com/share/pin-5373)
+[Dark biography section with pixel-art icon and mixed-weight serif typography describing Michael Alexander as MEK.txt](https://fudge.design/share/pin-5373)
 
-[![Homepage grid showing project thumbnails with category filters, navigation bar, and repeated dark biography footer](https://pin.fontofweb.com/5372?format=jpg)](https://design.withfudge.com/share/pin-5372)
+[![Homepage grid showing project thumbnails with category filters, navigation bar, and repeated dark biography footer](https://pin.fontofweb.com/5372?format=jpg)](https://fudge.design/share/pin-5372)
 
-[Homepage grid showing project thumbnails with category filters, navigation bar, and repeated dark biography footer](https://design.withfudge.com/share/pin-5372)
+[Homepage grid showing project thumbnails with category filters, navigation bar, and repeated dark biography footer](https://fudge.design/share/pin-5372)
 
-[![Vibrant blue project page with four red pixel-art saint figures in ornate frames and two-column body text](https://pin.fontofweb.com/4200?format=jpg)](https://design.withfudge.com/share/pin-4200)
+[![Vibrant blue project page with four red pixel-art saint figures in ornate frames and two-column body text](https://pin.fontofweb.com/4200?format=jpg)](https://fudge.design/share/pin-4200)
 
-[Vibrant blue project page with four red pixel-art saint figures in ornate frames and two-column body text](https://design.withfudge.com/share/pin-4200)
+[Vibrant blue project page with four red pixel-art saint figures in ornate frames and two-column body text](https://fudge.design/share/pin-4200)
 
-[![Bold blue poster page with large white display type spelling STYLITES and centered italic attribution details](https://pin.fontofweb.com/4199?format=jpg)](https://design.withfudge.com/share/pin-4199)
+[![Bold blue poster page with large white display type spelling STYLITES and centered italic attribution details](https://pin.fontofweb.com/4199?format=jpg)](https://fudge.design/share/pin-4199)
 
-[Bold blue poster page with large white display type spelling STYLITES and centered italic attribution details](https://design.withfudge.com/share/pin-4199)
+[Bold blue poster page with large white display type spelling STYLITES and centered italic attribution details](https://fudge.design/share/pin-4199)
 
 ## Overview
 
@@ -151,3 +151,18 @@ The grid should collapse from multi-column to single-column on narrow viewports,
 ## Scope note
 
 This guide covers the homepage browsing experience and project poster presentation surfaces visible in the supplied images. Shop pages, individual project detail variations beyond the poster template, mobile navigation patterns, and interactive states are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How longnow.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/longnow.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/longnow.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark brown project showcase with white serif headlines, line-art diagrams of the 10,000-year clock and Rosetta archive, and cream accent links for The Interval.](https://pin.fontofweb.com/3880?format=jpg)](https://design.withfudge.com/share/pin-3880)
+[![Dark brown project showcase with white serif headlines, line-art diagrams of the 10,000-year clock and Rosetta archive, and cream accent links for The Interval.](https://pin.fontofweb.com/3880?format=jpg)](https://fudge.design/share/pin-3880)
 
-[Dark brown project showcase with white serif headlines, line-art diagrams of the 10,000-year clock and Rosetta archive, and cream accent links for The Interval.](https://design.withfudge.com/share/pin-3880)
+[Dark brown project showcase with white serif headlines, line-art diagrams of the 10,000-year clock and Rosetta archive, and cream accent links for The Interval.](https://fudge.design/share/pin-3880)
 
-[![Deep plum quote section with Brian Eno attribution in cream caps, italic serif labels, and white timeline graphics illustrating expanding concepts of now.](https://pin.fontofweb.com/3879?format=jpg)](https://design.withfudge.com/share/pin-3879)
+[![Deep plum quote section with Brian Eno attribution in cream caps, italic serif labels, and white timeline graphics illustrating expanding concepts of now.](https://pin.fontofweb.com/3879?format=jpg)](https://fudge.design/share/pin-3879)
 
-[Deep plum quote section with Brian Eno attribution in cream caps, italic serif labels, and white timeline graphics illustrating expanding concepts of now.](https://design.withfudge.com/share/pin-3879)
+[Deep plum quote section with Brian Eno attribution in cream caps, italic serif labels, and white timeline graphics illustrating expanding concepts of now.](https://fudge.design/share/pin-3879)
 
 ## Overview
 
@@ -162,3 +162,18 @@ The generous section spacing (6rem) should compress to 4rem on mobile to maintai
 ## Scope note
 
 This guide covers the homepage project showcase and quote sections visible in the supplied images. Navigation, footer, interior pages, mobile layouts, motion behavior, and form elements are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Public and nonprofit](/share/designs-with-industry.public_nonprofit)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

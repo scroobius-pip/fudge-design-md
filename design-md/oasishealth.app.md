@@ -1,18 +1,18 @@
 # How oasishealth.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oasishealth.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/oasishealth.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with centered headline, app store badges, and floating product-safety cards around a central phone mockup showing water analysis results.](https://pin.fontofweb.com/8461?format=jpg)](https://design.withfudge.com/share/pin-8461)
+[![Hero section with centered headline, app store badges, and floating product-safety cards around a central phone mockup showing water analysis results.](https://pin.fontofweb.com/8461?format=jpg)](https://fudge.design/share/pin-8461)
 
-[Hero section with centered headline, app store badges, and floating product-safety cards around a central phone mockup showing water analysis results.](https://design.withfudge.com/share/pin-8461)
+[Hero section with centered headline, app store badges, and floating product-safety cards around a central phone mockup showing water analysis results.](https://fudge.design/share/pin-8461)
 
-[![FAQ accordion section with chevron disclosures above a dark footer containing four-column link grid, social links, and copyright attribution.](https://pin.fontofweb.com/8462?format=jpg)](https://design.withfudge.com/share/pin-8462)
+[![FAQ accordion section with chevron disclosures above a dark footer containing four-column link grid, social links, and copyright attribution.](https://pin.fontofweb.com/8462?format=jpg)](https://fudge.design/share/pin-8462)
 
-[FAQ accordion section with chevron disclosures above a dark footer containing four-column link grid, social links, and copyright attribution.](https://design.withfudge.com/share/pin-8462)
+[FAQ accordion section with chevron disclosures above a dark footer containing four-column link grid, social links, and copyright attribution.](https://fudge.design/share/pin-8462)
 
 ## Overview
 
@@ -182,3 +182,18 @@ App store badges should remain side by side where possible, stacking vertically 
 ## Scope note
 
 This guide covers the Oasis Health homepage including the hero section with product visualization, FAQ accordion, and site footer. Navigation dropdown states, mobile menu behavior, search functionality, in-app interface screens, and additional interior pages are not represented in the supplied material. Motion design, loading states, and form validation patterns are not documented. Measurements reflect the exact values retained from the source interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

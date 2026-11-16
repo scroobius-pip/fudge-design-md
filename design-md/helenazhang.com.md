@@ -1,26 +1,26 @@
 # How helenazhang.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/helenazhang.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/helenazhang.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Portfolio grid showing six project cards including Toyota Research Institute, Waze, PayPal, SoulCycle, Phosphor for Android, and Prolific Interactive with monochrome thumbnails](https://pin.fontofweb.com/5055?format=jpg)](https://design.withfudge.com/share/pin-5055)
+[![Portfolio grid showing six project cards including Toyota Research Institute, Waze, PayPal, SoulCycle, Phosphor for Android, and Prolific Interactive with monochrome thumbnails](https://pin.fontofweb.com/5055?format=jpg)](https://fudge.design/share/pin-5055)
 
-[Portfolio grid showing six project cards including Toyota Research Institute, Waze, PayPal, SoulCycle, Phosphor for Android, and Prolific Interactive with monochrome thumbnails](https://design.withfudge.com/share/pin-5055)
+[Portfolio grid showing six project cards including Toyota Research Institute, Waze, PayPal, SoulCycle, Phosphor for Android, and Prolific Interactive with monochrome thumbnails](https://fudge.design/share/pin-5055)
 
-[![Phosphor for Android banner with icon pattern background, centered serif title, black pill button, and three Dribbble project cards with arrow-link labels above footer](https://pin.fontofweb.com/5054?format=jpg)](https://design.withfudge.com/share/pin-5054)
+[![Phosphor for Android banner with icon pattern background, centered serif title, black pill button, and three Dribbble project cards with arrow-link labels above footer](https://pin.fontofweb.com/5054?format=jpg)](https://fudge.design/share/pin-5054)
 
-[Phosphor for Android banner with icon pattern background, centered serif title, black pill button, and three Dribbble project cards with arrow-link labels above footer](https://design.withfudge.com/share/pin-5054)
+[Phosphor for Android banner with icon pattern background, centered serif title, black pill button, and three Dribbble project cards with arrow-link labels above footer](https://fudge.design/share/pin-5054)
 
-[![Hero section with circular avatar portrait, large serif biography text with underlined links, and four article cards with thumbnail images and mono-spaced read links](https://pin.fontofweb.com/5053?format=jpg)](https://design.withfudge.com/share/pin-5053)
+[![Hero section with circular avatar portrait, large serif biography text with underlined links, and four article cards with thumbnail images and mono-spaced read links](https://pin.fontofweb.com/5053?format=jpg)](https://fudge.design/share/pin-5053)
 
-[Hero section with circular avatar portrait, large serif biography text with underlined links, and four article cards with thumbnail images and mono-spaced read links](https://design.withfudge.com/share/pin-5053)
+[Hero section with circular avatar portrait, large serif biography text with underlined links, and four article cards with thumbnail images and mono-spaced read links](https://fudge.design/share/pin-5053)
 
-[![Full page view showing header with status line and social links, circular avatar beside large serif bio, and article grid with iconography thumbnails and arrow buttons](https://pin.fontofweb.com/5052?format=jpg)](https://design.withfudge.com/share/pin-5052)
+[![Full page view showing header with status line and social links, circular avatar beside large serif bio, and article grid with iconography thumbnails and arrow buttons](https://pin.fontofweb.com/5052?format=jpg)](https://fudge.design/share/pin-5052)
 
-[Full page view showing header with status line and social links, circular avatar beside large serif bio, and article grid with iconography thumbnails and arrow buttons](https://design.withfudge.com/share/pin-5052)
+[Full page view showing header with status line and social links, circular avatar beside large serif bio, and article grid with iconography thumbnails and arrow buttons](https://fudge.design/share/pin-5052)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The horizontal rules that organize the desktop layout become even more critical 
 ## Scope note
 
 This guide covers the homepage and its visible components including the header, hero biography, project grid, article grid, and footer. Interior pages, hover states, loading behavior, and motion design are not represented in the supplied material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Personal](/share/designs-with-industry.personal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

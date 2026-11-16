@@ -1,26 +1,26 @@
 # How twelvelabs.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/twelvelabs.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/twelvelabs.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero CTA section with floating translucent gradient blobs on light gray background, featuring headline and two pill buttons](https://pin.fontofweb.com/2605?format=jpg)](https://design.withfudge.com/share/pin-2605)
+[![Hero CTA section with floating translucent gradient blobs on light gray background, featuring headline and two pill buttons](https://pin.fontofweb.com/2605?format=jpg)](https://fudge.design/share/pin-2605)
 
-[Hero CTA section with floating translucent gradient blobs on light gray background, featuring headline and two pill buttons](https://design.withfudge.com/share/pin-2605)
+[Hero CTA section with floating translucent gradient blobs on light gray background, featuring headline and two pill buttons](https://fudge.design/share/pin-2605)
 
-[![Footer with multi-column link grid, large TwelveLabs wordmark logo, and soft green-to-peach gradient bottom edge](https://pin.fontofweb.com/2604?format=jpg)](https://design.withfudge.com/share/pin-2604)
+[![Footer with multi-column link grid, large TwelveLabs wordmark logo, and soft green-to-peach gradient bottom edge](https://pin.fontofweb.com/2604?format=jpg)](https://fudge.design/share/pin-2604)
 
-[Footer with multi-column link grid, large TwelveLabs wordmark logo, and soft green-to-peach gradient bottom edge](https://design.withfudge.com/share/pin-2604)
+[Footer with multi-column link grid, large TwelveLabs wordmark logo, and soft green-to-peach gradient bottom edge](https://fudge.design/share/pin-2604)
 
-[![Three-tier pricing table with checkmark feature rows, tier headers, and outlined action buttons on light surface](https://pin.fontofweb.com/2603?format=jpg)](https://design.withfudge.com/share/pin-2603)
+[![Three-tier pricing table with checkmark feature rows, tier headers, and outlined action buttons on light surface](https://pin.fontofweb.com/2603?format=jpg)](https://fudge.design/share/pin-2603)
 
-[Three-tier pricing table with checkmark feature rows, tier headers, and outlined action buttons on light surface](https://design.withfudge.com/share/pin-2603)
+[Three-tier pricing table with checkmark feature rows, tier headers, and outlined action buttons on light surface](https://fudge.design/share/pin-2603)
 
-[![Feature showcase with rounded panel containing search UI mockup, tab pills, and split content layout](https://pin.fontofweb.com/2602?format=jpg)](https://design.withfudge.com/share/pin-2602)
+[![Feature showcase with rounded panel containing search UI mockup, tab pills, and split content layout](https://pin.fontofweb.com/2602?format=jpg)](https://fudge.design/share/pin-2602)
 
-[Feature showcase with rounded panel containing search UI mockup, tab pills, and split content layout](https://design.withfudge.com/share/pin-2602)
+[Feature showcase with rounded panel containing search UI mockup, tab pills, and split content layout](https://fudge.design/share/pin-2602)
 
 ## Overview
 
@@ -172,3 +172,18 @@ Footer columns should collapse to two-column then single-column grids, with the 
 ## Scope note
 
 This guide covers the TwelveLabs marketing homepage visible in the supplied images, including hero, feature showcase, pricing, and footer surfaces. Navigation header, mobile layouts, motion behavior, form states, and interior product pages are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

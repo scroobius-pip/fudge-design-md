@@ -1,26 +1,26 @@
 # How humantouch.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/humantouch.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/humantouch.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark forest footer with email capture, social icons, and multi-column navigation links on near-black background](https://pin.fontofweb.com/2576?format=jpg)](https://design.withfudge.com/share/pin-2576)
+[![Dark forest footer with email capture, social icons, and multi-column navigation links on near-black background](https://pin.fontofweb.com/2576?format=jpg)](https://fudge.design/share/pin-2576)
 
-[Dark forest footer with email capture, social icons, and multi-column navigation links on near-black background](https://design.withfudge.com/share/pin-2576)
+[Dark forest footer with email capture, social icons, and multi-column navigation links on near-black background](https://fudge.design/share/pin-2576)
 
-[![Three-column engagement section with rounded pill buttons and oval-cropped lifestyle photography on warm off-white](https://pin.fontofweb.com/2575?format=jpg)](https://design.withfudge.com/share/pin-2575)
+[![Three-column engagement section with rounded pill buttons and oval-cropped lifestyle photography on warm off-white](https://pin.fontofweb.com/2575?format=jpg)](https://fudge.design/share/pin-2575)
 
-[Three-column engagement section with rounded pill buttons and oval-cropped lifestyle photography on warm off-white](https://design.withfudge.com/share/pin-2575)
+[Three-column engagement section with rounded pill buttons and oval-cropped lifestyle photography on warm off-white](https://fudge.design/share/pin-2575)
 
-[![Blog grid with asymmetric image layout, serif headlines, and underlined READ MORE links on white](https://pin.fontofweb.com/2574?format=jpg)](https://design.withfudge.com/share/pin-2574)
+[![Blog grid with asymmetric image layout, serif headlines, and underlined READ MORE links on white](https://pin.fontofweb.com/2574?format=jpg)](https://fudge.design/share/pin-2574)
 
-[Blog grid with asymmetric image layout, serif headlines, and underlined READ MORE links on white](https://design.withfudge.com/share/pin-2574)
+[Blog grid with asymmetric image layout, serif headlines, and underlined READ MORE links on white](https://fudge.design/share/pin-2574)
 
-[![Portrait testimonial card with video play button, white text overlay, and rounded corners on photographic background](https://pin.fontofweb.com/2573?format=jpg)](https://design.withfudge.com/share/pin-2573)
+[![Portrait testimonial card with video play button, white text overlay, and rounded corners on photographic background](https://pin.fontofweb.com/2573?format=jpg)](https://fudge.design/share/pin-2573)
 
-[Portrait testimonial card with video play button, white text overlay, and rounded corners on photographic background](https://design.withfudge.com/share/pin-2573)
+[Portrait testimonial card with video play button, white text overlay, and rounded corners on photographic background](https://fudge.design/share/pin-2573)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Testimonial cards require text size reduction on small screens to maintain reada
 ## Scope note
 
 This guide covers the homepage surface visible in supplied captures: hero engagement, blog discovery, testimonial promotion, and footer navigation. Product detail pages, checkout flows, and mobile navigation patterns are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Orange hue](/share/designs-with-color.hue.orange)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

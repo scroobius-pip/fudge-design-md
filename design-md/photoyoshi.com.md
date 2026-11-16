@@ -1,26 +1,26 @@
 # How photoyoshi.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/photoyoshi.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/photoyoshi.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About page biographical timeline with Profiles and Awards sections on warm off-white canvas](https://pin.fontofweb.com/247?format=jpg)](https://design.withfudge.com/share/pin-247)
+[![About page biographical timeline with Profiles and Awards sections on warm off-white canvas](https://pin.fontofweb.com/247?format=jpg)](https://fudge.design/share/pin-247)
 
-[About page biographical timeline with Profiles and Awards sections on warm off-white canvas](https://design.withfudge.com/share/pin-247)
+[About page biographical timeline with Profiles and Awards sections on warm off-white canvas](https://fudge.design/share/pin-247)
 
-[![Split-screen About hero with portrait photograph and bold biography statement](https://pin.fontofweb.com/246?format=jpg)](https://design.withfudge.com/share/pin-246)
+[![Split-screen About hero with portrait photograph and bold biography statement](https://pin.fontofweb.com/246?format=jpg)](https://fudge.design/share/pin-246)
 
-[Split-screen About hero with portrait photograph and bold biography statement](https://design.withfudge.com/share/pin-246)
+[Split-screen About hero with portrait photograph and bold biography statement](https://fudge.design/share/pin-246)
 
-[![Landscape portfolio grid with staggered masonry layout and category label overlay](https://pin.fontofweb.com/245?format=jpg)](https://design.withfudge.com/share/pin-245)
+[![Landscape portfolio grid with staggered masonry layout and category label overlay](https://pin.fontofweb.com/245?format=jpg)](https://fudge.design/share/pin-245)
 
-[Landscape portfolio grid with staggered masonry layout and category label overlay](https://design.withfudge.com/share/pin-245)
+[Landscape portfolio grid with staggered masonry layout and category label overlay](https://fudge.design/share/pin-245)
 
-[![Vertical mobile view of landscape photography column with large category typography](https://pin.fontofweb.com/244?format=jpg)](https://design.withfudge.com/share/pin-244)
+[![Vertical mobile view of landscape photography column with large category typography](https://pin.fontofweb.com/244?format=jpg)](https://fudge.design/share/pin-244)
 
-[Vertical mobile view of landscape photography column with large category typography](https://design.withfudge.com/share/pin-244)
+[Vertical mobile view of landscape photography column with large category typography](https://fudge.design/share/pin-244)
 
 ## Overview
 
@@ -171,3 +171,18 @@ Navigation remains minimal regardless of viewport; no hamburger menus or expande
 ## Scope note
 
 This guide covers the homepage portfolio grid and About page biography sections as visible in the supplied images. Footer content, additional portfolio categories beyond Landscape, individual project pages, loading states, hover interactions, and mobile navigation patterns are not represented. Measurements are practical adaptation targets. Verify licensing for the font families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Filter applied](/share/designs-with-interaction.task_state.filter_applied)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

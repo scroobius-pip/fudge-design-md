@@ -1,26 +1,26 @@
 # How kapwing.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kapwing.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kapwing.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero video showcase with rounded white frame, tab navigation for story categories, and bold centered headline on light gray background](https://pin.fontofweb.com/7907?format=jpg)](https://design.withfudge.com/share/pin-7907)
+[![Hero video showcase with rounded white frame, tab navigation for story categories, and bold centered headline on light gray background](https://pin.fontofweb.com/7907?format=jpg)](https://fudge.design/share/pin-7907)
 
-[Hero video showcase with rounded white frame, tab navigation for story categories, and bold centered headline on light gray background](https://design.withfudge.com/share/pin-7907)
+[Hero video showcase with rounded white frame, tab navigation for story categories, and bold centered headline on light gray background](https://fudge.design/share/pin-7907)
 
-[![Social proof section with floating brand logos on warm cream background and pink-accented headline text](https://pin.fontofweb.com/7906?format=jpg)](https://design.withfudge.com/share/pin-7906)
+[![Social proof section with floating brand logos on warm cream background and pink-accented headline text](https://pin.fontofweb.com/7906?format=jpg)](https://fudge.design/share/pin-7906)
 
-[Social proof section with floating brand logos on warm cream background and pink-accented headline text](https://design.withfudge.com/share/pin-7906)
+[Social proof section with floating brand logos on warm cream background and pink-accented headline text](https://fudge.design/share/pin-7906)
 
-[![Stacked audience cards with dramatic 3D illustrations showing marketers, internal comms, content creators, and educators personas](https://pin.fontofweb.com/7905?format=jpg)](https://design.withfudge.com/share/pin-7905)
+[![Stacked audience cards with dramatic 3D illustrations showing marketers, internal comms, content creators, and educators personas](https://pin.fontofweb.com/7905?format=jpg)](https://fudge.design/share/pin-7905)
 
-[Stacked audience cards with dramatic 3D illustrations showing marketers, internal comms, content creators, and educators personas](https://design.withfudge.com/share/pin-7905)
+[Stacked audience cards with dramatic 3D illustrations showing marketers, internal comms, content creators, and educators personas](https://fudge.design/share/pin-7905)
 
-[![Customer testimonial section with gradient pink-to-orange card, review badges, and navigation arrows](https://pin.fontofweb.com/7904?format=jpg)](https://design.withfudge.com/share/pin-7904)
+[![Customer testimonial section with gradient pink-to-orange card, review badges, and navigation arrows](https://pin.fontofweb.com/7904?format=jpg)](https://fudge.design/share/pin-7904)
 
-[Customer testimonial section with gradient pink-to-orange card, review badges, and navigation arrows](https://design.withfudge.com/share/pin-7904)
+[Customer testimonial section with gradient pink-to-orange card, review badges, and navigation arrows](https://fudge.design/share/pin-7904)
 
 ## Overview
 
@@ -202,3 +202,18 @@ Touch targets for buttons and interactive elements should maintain minimum 44px 
 ## Scope note
 
 This guide covers the Kapwing homepage marketing experience including hero, social proof, audience segmentation, and testimonial sections. Pricing tables, editor interface, dashboard, account flows, and footer content are not represented in the supplied materials. Motion behavior, hover states, and mobile-specific navigation patterns are inferred recommendations rather than documented behaviors.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

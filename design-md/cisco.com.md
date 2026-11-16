@@ -1,26 +1,26 @@
 # How cisco.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/cisco.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/cisco.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with Cisco corporate links, social icons, and green accessibility widget on light gray background](https://pin.fontofweb.com/2389?format=jpg)](https://design.withfudge.com/share/pin-2389)
+[![Footer section with Cisco corporate links, social icons, and green accessibility widget on light gray background](https://pin.fontofweb.com/2389?format=jpg)](https://fudge.design/share/pin-2389)
 
-[Footer section with Cisco corporate links, social icons, and green accessibility widget on light gray background](https://design.withfudge.com/share/pin-2389)
+[Footer section with Cisco corporate links, social icons, and green accessibility widget on light gray background](https://fudge.design/share/pin-2389)
 
-[![Dark navy hero banner with white headline, blue pill button, and text link with chevron](https://pin.fontofweb.com/2388?format=jpg)](https://design.withfudge.com/share/pin-2388)
+[![Dark navy hero banner with white headline, blue pill button, and text link with chevron](https://pin.fontofweb.com/2388?format=jpg)](https://fudge.design/share/pin-2388)
 
-[Dark navy hero banner with white headline, blue pill button, and text link with chevron](https://design.withfudge.com/share/pin-2388)
+[Dark navy hero banner with white headline, blue pill button, and text link with chevron](https://fudge.design/share/pin-2388)
 
-[![Technology category grid with six icon cards and Inside Cisco content section with three-column layout](https://pin.fontofweb.com/2387?format=jpg)](https://design.withfudge.com/share/pin-2387)
+[![Technology category grid with six icon cards and Inside Cisco content section with three-column layout](https://pin.fontofweb.com/2387?format=jpg)](https://fudge.design/share/pin-2387)
 
-[Technology category grid with six icon cards and Inside Cisco content section with three-column layout](https://design.withfudge.com/share/pin-2387)
+[Technology category grid with six icon cards and Inside Cisco content section with three-column layout](https://fudge.design/share/pin-2387)
 
-[![AI innovation section with four media cards, descriptive text, and blue action links on light gray background](https://pin.fontofweb.com/2386?format=jpg)](https://design.withfudge.com/share/pin-2386)
+[![AI innovation section with four media cards, descriptive text, and blue action links on light gray background](https://pin.fontofweb.com/2386?format=jpg)](https://fudge.design/share/pin-2386)
 
-[AI innovation section with four media cards, descriptive text, and blue action links on light gray background](https://design.withfudge.com/share/pin-2386)
+[AI innovation section with four media cards, descriptive text, and blue action links on light gray background](https://fudge.design/share/pin-2386)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The visible desktop layout suggests a single breakpoint strategy would serve mos
 ## Scope note
 
 This guide covers the Cisco.com homepage visible in the supplied images, including the hero banner, technology category grid, AI innovation media cards, Inside Cisco editorial section, and footer. Interior pages, navigation dropdowns, search functionality, form interactions, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection of the desktop layout.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Blue hue](/share/designs-with-color.hue.blue)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

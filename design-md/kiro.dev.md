@@ -1,22 +1,22 @@
 # How kiro.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kiro.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/kiro.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero headline in bold rounded mono type on pure black background showing the site's typographic voice](https://pin.fontofweb.com/8141?format=jpg)](https://design.withfudge.com/share/pin-8141)
+[![Hero headline in bold rounded mono type on pure black background showing the site's typographic voice](https://pin.fontofweb.com/8141?format=jpg)](https://fudge.design/share/pin-8141)
 
-[Hero headline in bold rounded mono type on pure black background showing the site's typographic voice](https://design.withfudge.com/share/pin-8141)
+[Hero headline in bold rounded mono type on pure black background showing the site's typographic voice](https://fudge.design/share/pin-8141)
 
-[![Full homepage hero with navigation, announcement pill, headline, subhead, purple CTA buttons, and app screenshot](https://pin.fontofweb.com/8140?format=jpg)](https://design.withfudge.com/share/pin-8140)
+[![Full homepage hero with navigation, announcement pill, headline, subhead, purple CTA buttons, and app screenshot](https://pin.fontofweb.com/8140?format=jpg)](https://fudge.design/share/pin-8140)
 
-[Full homepage hero with navigation, announcement pill, headline, subhead, purple CTA buttons, and app screenshot](https://design.withfudge.com/share/pin-8140)
+[Full homepage hero with navigation, announcement pill, headline, subhead, purple CTA buttons, and app screenshot](https://fudge.design/share/pin-8140)
 
-[![Pricing page with four-tier card grid, enterprise section, and outlined secondary buttons on dark surfaces](https://pin.fontofweb.com/8139?format=jpg)](https://design.withfudge.com/share/pin-8139)
+[![Pricing page with four-tier card grid, enterprise section, and outlined secondary buttons on dark surfaces](https://pin.fontofweb.com/8139?format=jpg)](https://fudge.design/share/pin-8139)
 
-[Pricing page with four-tier card grid, enterprise section, and outlined secondary buttons on dark surfaces](https://design.withfudge.com/share/pin-8139)
+[Pricing page with four-tier card grid, enterprise section, and outlined secondary buttons on dark surfaces](https://fudge.design/share/pin-8139)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Product screenshots should remain visible but may require horizontal scroll or s
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Footer content, documentation pages, authentication flows, and mobile-specific layouts are not represented. Motion, hover states, loading indicators, and form validation patterns are not documented. Measurements are derived from the exact values supplied in the design facts.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

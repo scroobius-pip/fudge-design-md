@@ -1,22 +1,22 @@
 # How yaak.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/yaak.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/yaak.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with gradient headline, download button, feature cards, and API client screenshot on dark background](https://pin.fontofweb.com/3867?format=jpg)](https://design.withfudge.com/share/pin-3867)
+[![Hero section with gradient headline, download button, feature cards, and API client screenshot on dark background](https://pin.fontofweb.com/3867?format=jpg)](https://fudge.design/share/pin-3867)
 
-[Hero section with gradient headline, download button, feature cards, and API client screenshot on dark background](https://design.withfudge.com/share/pin-3867)
+[Hero section with gradient headline, download button, feature cards, and API client screenshot on dark background](https://fudge.design/share/pin-3867)
 
-[![Testimonials grid with nine social proof cards showing developer quotes on dark purple background](https://pin.fontofweb.com/3868?format=jpg)](https://design.withfudge.com/share/pin-3868)
+[![Testimonials grid with nine social proof cards showing developer quotes on dark purple background](https://pin.fontofweb.com/3868?format=jpg)](https://fudge.design/share/pin-3868)
 
-[Testimonials grid with nine social proof cards showing developer quotes on dark purple background](https://design.withfudge.com/share/pin-3868)
+[Testimonials grid with nine social proof cards showing developer quotes on dark purple background](https://fudge.design/share/pin-3868)
 
-[![Changelog section with version badges, release notes list, and outlined roadmap button](https://pin.fontofweb.com/3869?format=jpg)](https://design.withfudge.com/share/pin-3869)
+[![Changelog section with version badges, release notes list, and outlined roadmap button](https://pin.fontofweb.com/3869?format=jpg)](https://fudge.design/share/pin-3869)
 
-[Changelog section with version badges, release notes list, and outlined roadmap button](https://design.withfudge.com/share/pin-3869)
+[Changelog section with version badges, release notes list, and outlined roadmap button](https://fudge.design/share/pin-3869)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Navigation items in the header should collapse to a menu on narrow screens. Butt
 ## Scope note
 
 This guide covers the Yaak landing page's marketing surface as visible in the supplied images: hero, features, testimonials, and changelog sections. Navigation behavior, footer content, pricing page details, documentation, and the actual application interface are not represented. Motion, hover states, and responsive breakpoints below desktop width are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

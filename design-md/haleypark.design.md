@@ -1,26 +1,26 @@
 # How haleypark.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/haleypark.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/haleypark.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Thoughts page with Gothic archway wireframes, centered rosette ornament, and article list with year labels on deep navy ground](https://pin.fontofweb.com/5880?format=jpg)](https://design.withfudge.com/share/pin-5880)
+[![Thoughts page with Gothic archway wireframes, centered rosette ornament, and article list with year labels on deep navy ground](https://pin.fontofweb.com/5880?format=jpg)](https://fudge.design/share/pin-5880)
 
-[Thoughts page with Gothic archway wireframes, centered rosette ornament, and article list with year labels on deep navy ground](https://design.withfudge.com/share/pin-5880)
+[Thoughts page with Gothic archway wireframes, centered rosette ornament, and article list with year labels on deep navy ground](https://fudge.design/share/pin-5880)
 
-[![About Me footer with arched blackletter 'Let's be friends?' heading, social link grid, and checkerboard border on dark teal ground](https://pin.fontofweb.com/5879?format=jpg)](https://design.withfudge.com/share/pin-5879)
+[![About Me footer with arched blackletter 'Let's be friends?' heading, social link grid, and checkerboard border on dark teal ground](https://pin.fontofweb.com/5879?format=jpg)](https://fudge.design/share/pin-5879)
 
-[About Me footer with arched blackletter 'Let's be friends?' heading, social link grid, and checkerboard border on dark teal ground](https://design.withfudge.com/share/pin-5879)
+[About Me footer with arched blackletter 'Let's be friends?' heading, social link grid, and checkerboard border on dark teal ground](https://fudge.design/share/pin-5879)
 
-[![Thoughts page full view showing pill-shaped navigation with keyboard shortcuts, page title, and three Gothic arch columns](https://pin.fontofweb.com/5878?format=jpg)](https://design.withfudge.com/share/pin-5878)
+[![Thoughts page full view showing pill-shaped navigation with keyboard shortcuts, page title, and three Gothic arch columns](https://pin.fontofweb.com/5878?format=jpg)](https://fudge.design/share/pin-5878)
 
-[Thoughts page full view showing pill-shaped navigation with keyboard shortcuts, page title, and three Gothic arch columns](https://design.withfudge.com/share/pin-5878)
+[Thoughts page full view showing pill-shaped navigation with keyboard shortcuts, page title, and three Gothic arch columns](https://fudge.design/share/pin-5878)
 
-[![Thoughts page alternate view with identical navigation and arch structure, demonstrating consistent page architecture](https://pin.fontofweb.com/5877?format=jpg)](https://design.withfudge.com/share/pin-5877)
+[![Thoughts page alternate view with identical navigation and arch structure, demonstrating consistent page architecture](https://pin.fontofweb.com/5877?format=jpg)](https://fudge.design/share/pin-5877)
 
-[Thoughts page alternate view with identical navigation and arch structure, demonstrating consistent page architecture](https://design.withfudge.com/share/pin-5877)
+[Thoughts page alternate view with identical navigation and arch structure, demonstrating consistent page architecture](https://fudge.design/share/pin-5877)
 
 ## Overview
 
@@ -169,3 +169,18 @@ Typography should scale down proportionally, with the hero-display token reducin
 ## Scope note
 
 This guide covers the Thoughts and About Me pages of a personal portfolio site. The Work page, individual article templates, and any motion or interaction behaviors are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection. No mobile breakpoint behavior, form components, or loading states are documented. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Personal](/share/designs-with-industry.personal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

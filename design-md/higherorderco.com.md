@@ -1,26 +1,26 @@
 # How higherorderco.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/higherorderco.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/higherorderco.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full landing page with hero section, navigation bar, Bend language introduction with code example, and HVM parallel runtime section with performance chart](https://pin.fontofweb.com/5390?format=jpg)](https://design.withfudge.com/share/pin-5390)
+[![Full landing page with hero section, navigation bar, Bend language introduction with code example, and HVM parallel runtime section with performance chart](https://pin.fontofweb.com/5390?format=jpg)](https://fudge.design/share/pin-5390)
 
-[Full landing page with hero section, navigation bar, Bend language introduction with code example, and HVM parallel runtime section with performance chart](https://design.withfudge.com/share/pin-5390)
+[Full landing page with hero section, navigation bar, Bend language introduction with code example, and HVM parallel runtime section with performance chart](https://fudge.design/share/pin-5390)
 
-[![Bend parallel language section with italic display heading, body copy, and code example card with syntax highlighting](https://pin.fontofweb.com/5392?format=jpg)](https://design.withfudge.com/share/pin-5392)
+[![Bend parallel language section with italic display heading, body copy, and code example card with syntax highlighting](https://pin.fontofweb.com/5392?format=jpg)](https://fudge.design/share/pin-5392)
 
-[Bend parallel language section with italic display heading, body copy, and code example card with syntax highlighting](https://design.withfudge.com/share/pin-5392)
+[Bend parallel language section with italic display heading, body copy, and code example card with syntax highlighting](https://fudge.design/share/pin-5392)
 
-[![HVM parallel runtime section with performance comparison chart showing CPU and GPU thread scaling with colored bars](https://pin.fontofweb.com/5393?format=jpg)](https://design.withfudge.com/share/pin-5393)
+[![HVM parallel runtime section with performance comparison chart showing CPU and GPU thread scaling with colored bars](https://pin.fontofweb.com/5393?format=jpg)](https://fudge.design/share/pin-5393)
 
-[HVM parallel runtime section with performance comparison chart showing CPU and GPU thread scaling with colored bars](https://design.withfudge.com/share/pin-5393)
+[HVM parallel runtime section with performance comparison chart showing CPU and GPU thread scaling with colored bars](https://fudge.design/share/pin-5393)
 
-[![Email subscription section with italic display heading, input field with red subscribe button, social icons, and footer copyright](https://pin.fontofweb.com/5391?format=jpg)](https://design.withfudge.com/share/pin-5391)
+[![Email subscription section with italic display heading, input field with red subscribe button, social icons, and footer copyright](https://pin.fontofweb.com/5391?format=jpg)](https://fudge.design/share/pin-5391)
 
-[Email subscription section with italic display heading, input field with red subscribe button, social icons, and footer copyright](https://design.withfudge.com/share/pin-5391)
+[Email subscription section with italic display heading, input field with red subscribe button, social icons, and footer copyright](https://fudge.design/share/pin-5391)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The inline subscription form should stack to vertical arrangement on narrow view
 ## Scope note
 
 This guide covers the Higher Order Company landing page as visible in the supplied images: the hero, Bend language introduction, HVM runtime section, and email subscription closer. Navigation dropdowns, additional product pages, documentation layouts, and mobile-specific adaptations are not represented. The code syntax highlighting palette is visible in the code blocks shown. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

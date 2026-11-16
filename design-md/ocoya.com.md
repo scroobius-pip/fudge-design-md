@@ -1,26 +1,26 @@
 # How ocoya.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ocoya.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ocoya.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Features section with dark cards showing email presets, best times to post, media library, and link shortening with product screenshots](https://pin.fontofweb.com/7673?format=jpg)](https://design.withfudge.com/share/pin-7673)
+[![Features section with dark cards showing email presets, best times to post, media library, and link shortening with product screenshots](https://pin.fontofweb.com/7673?format=jpg)](https://fudge.design/share/pin-7673)
 
-[Features section with dark cards showing email presets, best times to post, media library, and link shortening with product screenshots](https://design.withfudge.com/share/pin-7673)
+[Features section with dark cards showing email presets, best times to post, media library, and link shortening with product screenshots](https://fudge.design/share/pin-7673)
 
-[![Social trend section with three content cards featuring Pinterest, X.com, and Facebook posts with gaming and AI imagery](https://pin.fontofweb.com/7672?format=jpg)](https://design.withfudge.com/share/pin-7672)
+[![Social trend section with three content cards featuring Pinterest, X.com, and Facebook posts with gaming and AI imagery](https://pin.fontofweb.com/7672?format=jpg)](https://fudge.design/share/pin-7672)
 
-[Social trend section with three content cards featuring Pinterest, X.com, and Facebook posts with gaming and AI imagery](https://design.withfudge.com/share/pin-7672)
+[Social trend section with three content cards featuring Pinterest, X.com, and Facebook posts with gaming and AI imagery](https://fudge.design/share/pin-7672)
 
-[![Platform section with three audience cards for freelancers, brands, and teams with planner and template UI previews](https://pin.fontofweb.com/7671?format=jpg)](https://design.withfudge.com/share/pin-7671)
+[![Platform section with three audience cards for freelancers, brands, and teams with planner and template UI previews](https://pin.fontofweb.com/7671?format=jpg)](https://fudge.design/share/pin-7671)
 
-[Platform section with three audience cards for freelancers, brands, and teams with planner and template UI previews](https://design.withfudge.com/share/pin-7671)
+[Platform section with three audience cards for freelancers, brands, and teams with planner and template UI previews](https://fudge.design/share/pin-7671)
 
-[![Publishing section with social integrations grid, ecommerce badges, plugin pills, and multi-level approval workflow](https://pin.fontofweb.com/7670?format=jpg)](https://design.withfudge.com/share/pin-7670)
+[![Publishing section with social integrations grid, ecommerce badges, plugin pills, and multi-level approval workflow](https://pin.fontofweb.com/7670?format=jpg)](https://fudge.design/share/pin-7670)
 
-[Publishing section with social integrations grid, ecommerce badges, plugin pills, and multi-level approval workflow](https://design.withfudge.com/share/pin-7670)
+[Publishing section with social integrations grid, ecommerce badges, plugin pills, and multi-level approval workflow](https://fudge.design/share/pin-7670)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Embedded screenshots and social media previews should maintain aspect ratio, sca
 ## Scope note
 
 This guide covers the desktop marketing page surface for Ocoya's homepage, including feature sections, audience segmentation, and social content previews. Mobile breakpoints, navigation header, footer, pricing tables, and interactive states such as hover, focus, and loading are not represented in the supplied material. Measurements derive from the documented interface values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

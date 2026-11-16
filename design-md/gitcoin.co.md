@@ -1,26 +1,26 @@
 # How gitcoin.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gitcoin.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/gitcoin.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article hero with large serif headline, Sei partnership graphic with circular line art, and red-to-black gradient call-to-action panel](https://pin.fontofweb.com/2773?format=jpg)](https://design.withfudge.com/share/pin-2773)
+[![Blog article hero with large serif headline, Sei partnership graphic with circular line art, and red-to-black gradient call-to-action panel](https://pin.fontofweb.com/2773?format=jpg)](https://fudge.design/share/pin-2773)
 
-[Blog article hero with large serif headline, Sei partnership graphic with circular line art, and red-to-black gradient call-to-action panel](https://design.withfudge.com/share/pin-2773)
+[Blog article hero with large serif headline, Sei partnership graphic with circular line art, and red-to-black gradient call-to-action panel](https://fudge.design/share/pin-2773)
 
-[![Blog index page with dark green featured card, category filter pills, search bar, and three-column article grid](https://pin.fontofweb.com/2772?format=jpg)](https://design.withfudge.com/share/pin-2772)
+[![Blog index page with dark green featured card, category filter pills, search bar, and three-column article grid](https://pin.fontofweb.com/2772?format=jpg)](https://fudge.design/share/pin-2772)
 
-[Blog index page with dark green featured card, category filter pills, search bar, and three-column article grid](https://design.withfudge.com/share/pin-2772)
+[Blog index page with dark green featured card, category filter pills, search bar, and three-column article grid](https://fudge.design/share/pin-2772)
 
-[![Site footer with dark background, Gitcoin logo mark, multi-column link navigation, social icons, and legal links](https://pin.fontofweb.com/2770?format=jpg)](https://design.withfudge.com/share/pin-2770)
+[![Site footer with dark background, Gitcoin logo mark, multi-column link navigation, social icons, and legal links](https://pin.fontofweb.com/2770?format=jpg)](https://fudge.design/share/pin-2770)
 
-[Site footer with dark background, Gitcoin logo mark, multi-column link navigation, social icons, and legal links](https://design.withfudge.com/share/pin-2770)
+[Site footer with dark background, Gitcoin logo mark, multi-column link navigation, social icons, and legal links](https://fudge.design/share/pin-2770)
 
-[![Popular resources section with six varied cards including purple blog card, dark green framework card, and patterned impact card](https://pin.fontofweb.com/2769?format=jpg)](https://design.withfudge.com/share/pin-2769)
+[![Popular resources section with six varied cards including purple blog card, dark green framework card, and patterned impact card](https://pin.fontofweb.com/2769?format=jpg)](https://fudge.design/share/pin-2769)
 
-[Popular resources section with six varied cards including purple blog card, dark green framework card, and patterned impact card](https://design.withfudge.com/share/pin-2769)
+[Popular resources section with six varied cards including purple blog card, dark green framework card, and patterned impact card](https://fudge.design/share/pin-2769)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The blog index header with title, filters, and search should stack vertically on
 ## Scope note
 
 This guide covers the homepage and blog surfaces visible in the supplied images. Navigation header behavior, mobile menu patterns, form validation states, and animation are not documented. Measurements are practical adaptation targets. The Sei partnership campaign graphic with its red gradient is treated as temporary artwork rather than a core system element.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

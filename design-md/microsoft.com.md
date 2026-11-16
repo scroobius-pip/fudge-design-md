@@ -1,26 +1,26 @@
 # How microsoft.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/microsoft.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/microsoft.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Copilot wordmark over floral photography, message input bar, and suggestion chip grid on white background](https://pin.fontofweb.com/3752?format=jpg)](https://design.withfudge.com/share/pin-3752)
+[![Hero section with large Copilot wordmark over floral photography, message input bar, and suggestion chip grid on white background](https://pin.fontofweb.com/3752?format=jpg)](https://fudge.design/share/pin-3752)
 
-[Hero section with large Copilot wordmark over floral photography, message input bar, and suggestion chip grid on white background](https://design.withfudge.com/share/pin-3752)
+[Hero section with large Copilot wordmark over floral photography, message input bar, and suggestion chip grid on white background](https://fudge.design/share/pin-3752)
 
-[![Warm amber section with maroon headline, floating rounded images, and pill-shaped action button with microphone interface](https://pin.fontofweb.com/3751?format=jpg)](https://design.withfudge.com/share/pin-3751)
+[![Warm amber section with maroon headline, floating rounded images, and pill-shaped action button with microphone interface](https://pin.fontofweb.com/3751?format=jpg)](https://fudge.design/share/pin-3751)
 
-[Warm amber section with maroon headline, floating rounded images, and pill-shaped action button with microphone interface](https://design.withfudge.com/share/pin-3751)
+[Warm amber section with maroon headline, floating rounded images, and pill-shaped action button with microphone interface](https://fudge.design/share/pin-3751)
 
-[![Device mockup showing Copilot interface in lavender frame with download buttons for Windows and Mac](https://pin.fontofweb.com/3750?format=jpg)](https://design.withfudge.com/share/pin-3750)
+[![Device mockup showing Copilot interface in lavender frame with download buttons for Windows and Mac](https://pin.fontofweb.com/3750?format=jpg)](https://fudge.design/share/pin-3750)
 
-[Device mockup showing Copilot interface in lavender frame with download buttons for Windows and Mac](https://design.withfudge.com/share/pin-3750)
+[Device mockup showing Copilot interface in lavender frame with download buttons for Windows and Mac](https://fudge.design/share/pin-3750)
 
-[![FAQ accordion interface with expand/collapse controls, dotted focus outline, and section headings for image generation topics](https://pin.fontofweb.com/3749?format=jpg)](https://design.withfudge.com/share/pin-3749)
+[![FAQ accordion interface with expand/collapse controls, dotted focus outline, and section headings for image generation topics](https://pin.fontofweb.com/3749?format=jpg)](https://fudge.design/share/pin-3749)
 
-[FAQ accordion interface with expand/collapse controls, dotted focus outline, and section headings for image generation topics](https://design.withfudge.com/share/pin-3749)
+[FAQ accordion interface with expand/collapse controls, dotted focus outline, and section headings for image generation topics](https://fudge.design/share/pin-3749)
 
 ## Overview
 
@@ -141,3 +141,18 @@ The system appears optimized for desktop presentation based on available imagery
 ## Scope note
 
 This guide covers the Copilot for Individuals product marketing page and related Microsoft product surfaces. Mobile layouts, animation behavior, hover states, and dark mode implementations are not represented in the available material. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

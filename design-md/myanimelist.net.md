@@ -1,26 +1,26 @@
 # How myanimelist.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/myanimelist.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/myanimelist.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Anime detail page information sidebar with dark background, white section headers, and blue accent links showing production metadata and statistics for Kaiju No. 8 Season 2](https://pin.fontofweb.com/799?format=jpg)](https://design.withfudge.com/share/pin-799)
+[![Anime detail page information sidebar with dark background, white section headers, and blue accent links showing production metadata and statistics for Kaiju No. 8 Season 2](https://pin.fontofweb.com/799?format=jpg)](https://fudge.design/share/pin-799)
 
-[Anime detail page information sidebar with dark background, white section headers, and blue accent links showing production metadata and statistics for Kaiju No. 8 Season 2](https://design.withfudge.com/share/pin-799)
+[Anime detail page information sidebar with dark background, white section headers, and blue accent links showing production metadata and statistics for Kaiju No. 8 Season 2](https://fudge.design/share/pin-799)
 
-[![Anime detail page hero section with large promotional artwork, blue score badge, tab navigation bar, synopsis text block, and social sharing buttons on dark theme](https://pin.fontofweb.com/798?format=jpg)](https://design.withfudge.com/share/pin-798)
+[![Anime detail page hero section with large promotional artwork, blue score badge, tab navigation bar, synopsis text block, and social sharing buttons on dark theme](https://pin.fontofweb.com/798?format=jpg)](https://fudge.design/share/pin-798)
 
-[Anime detail page hero section with large promotional artwork, blue score badge, tab navigation bar, synopsis text block, and social sharing buttons on dark theme](https://design.withfudge.com/share/pin-798)
+[Anime detail page hero section with large promotional artwork, blue score badge, tab navigation bar, synopsis text block, and social sharing buttons on dark theme](https://fudge.design/share/pin-798)
 
-[![Site footer with dark charcoal background, white signup CTA text, blue primary button, gray secondary button, social media icons, app store badges, and legal links row](https://pin.fontofweb.com/797?format=jpg)](https://design.withfudge.com/share/pin-797)
+[![Site footer with dark charcoal background, white signup CTA text, blue primary button, gray secondary button, social media icons, app store badges, and legal links row](https://pin.fontofweb.com/797?format=jpg)](https://fudge.design/share/pin-797)
 
-[Site footer with dark charcoal background, white signup CTA text, blue primary button, gray secondary button, social media icons, app store badges, and legal links row](https://design.withfudge.com/share/pin-797)
+[Site footer with dark charcoal background, white signup CTA text, blue primary button, gray secondary button, social media icons, app store badges, and legal links row](https://fudge.design/share/pin-797)
 
-[![Latest Anime Recommendations feed with paired anime thumbnails, blue title links, gray add buttons, recommendation text, and attribution timestamps on dark background](https://pin.fontofweb.com/796?format=jpg)](https://design.withfudge.com/share/pin-796)
+[![Latest Anime Recommendations feed with paired anime thumbnails, blue title links, gray add buttons, recommendation text, and attribution timestamps on dark background](https://pin.fontofweb.com/796?format=jpg)](https://fudge.design/share/pin-796)
 
-[Latest Anime Recommendations feed with paired anime thumbnails, blue title links, gray add buttons, recommendation text, and attribution timestamps on dark background](https://design.withfudge.com/share/pin-796)
+[Latest Anime Recommendations feed with paired anime thumbnails, blue title links, gray add buttons, recommendation text, and attribution timestamps on dark background](https://fudge.design/share/pin-796)
 
 ## Overview
 
@@ -205,3 +205,18 @@ Footer content should reflow from horizontal rows to stacked vertical groups, wi
 ## Scope note
 
 This guide covers the dark-themed anime detail page and homepage feed surfaces visible in the supplied images. Mobile layouts, search results pages, user profile pages, forum interfaces, and light theme variants are not represented. Motion, loading states, and form validation patterns are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How liverpoolfc.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/liverpoolfc.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/liverpoolfc.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with sponsor bar, legal links, social icons, and app store badges on white background](https://pin.fontofweb.com/1444?format=jpg)](https://design.withfudge.com/share/pin-1444)
+[![Footer section with sponsor bar, legal links, social icons, and app store badges on white background](https://pin.fontofweb.com/1444?format=jpg)](https://fudge.design/share/pin-1444)
 
-[Footer section with sponsor bar, legal links, social icons, and app store badges on white background](https://design.withfudge.com/share/pin-1444)
+[Footer section with sponsor bar, legal links, social icons, and app store badges on white background](https://fudge.design/share/pin-1444)
 
-[![Full-width sponsor grid with white partner logos on solid red background](https://pin.fontofweb.com/1443?format=jpg)](https://design.withfudge.com/share/pin-1443)
+[![Full-width sponsor grid with white partner logos on solid red background](https://pin.fontofweb.com/1443?format=jpg)](https://fudge.design/share/pin-1443)
 
-[Full-width sponsor grid with white partner logos on solid red background](https://design.withfudge.com/share/pin-1443)
+[Full-width sponsor grid with white partner logos on solid red background](https://fudge.design/share/pin-1443)
 
-[![Memorial panels with gold typography and trophy silhouettes on light gray background](https://pin.fontofweb.com/1442?format=jpg)](https://design.withfudge.com/share/pin-1442)
+[![Memorial panels with gold typography and trophy silhouettes on light gray background](https://pin.fontofweb.com/1442?format=jpg)](https://fudge.design/share/pin-1442)
 
-[Memorial panels with gold typography and trophy silhouettes on light gray background](https://design.withfudge.com/share/pin-1442)
+[Memorial panels with gold typography and trophy silhouettes on light gray background](https://fudge.design/share/pin-1442)
 
-[![Hero quote block with serif text on deep red background with abstract wave pattern](https://pin.fontofweb.com/1441?format=jpg)](https://design.withfudge.com/share/pin-1441)
+[![Hero quote block with serif text on deep red background with abstract wave pattern](https://pin.fontofweb.com/1441?format=jpg)](https://fudge.design/share/pin-1441)
 
-[Hero quote block with serif text on deep red background with abstract wave pattern](https://design.withfudge.com/share/pin-1441)
+[Hero quote block with serif text on deep red background with abstract wave pattern](https://fudge.design/share/pin-1441)
 
 ## Overview
 
@@ -145,3 +145,18 @@ Touch targets for social icons and footer links should maintain minimum 44×44 p
 ## Scope note
 
 This guide covers the homepage surface visible in the supplied images, including the sponsor bar, memorial section, quote block, and footer. Navigation, match fixtures, player profiles, e-commerce flows, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual estimation against the 4px relative unit. Hover states, focus indicators, loading sequences, and form interactions were not captured and should be designed to complement the established color and typography system.
+
+## Related design patterns
+
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How vibrantpractice.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vibrantpractice.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/vibrantpractice.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with oversized 'vibrant.' serif wordmark, four-column navigation grid, and yellow 'Get in touch' CTA button with arrow icon on warm off-white background](https://pin.fontofweb.com/2659?format=jpg)](https://design.withfudge.com/share/pin-2659)
+[![Footer section with oversized 'vibrant.' serif wordmark, four-column navigation grid, and yellow 'Get in touch' CTA button with arrow icon on warm off-white background](https://pin.fontofweb.com/2659?format=jpg)](https://fudge.design/share/pin-2659)
 
-[Footer section with oversized 'vibrant.' serif wordmark, four-column navigation grid, and yellow 'Get in touch' CTA button with arrow icon on warm off-white background](https://design.withfudge.com/share/pin-2659)
+[Footer section with oversized 'vibrant.' serif wordmark, four-column navigation grid, and yellow 'Get in touch' CTA button with arrow icon on warm off-white background](https://fudge.design/share/pin-2659)
 
-[![Horizontal scrolling marquee of alternating serif text pills and rounded photography thumbnails showing healthcare imagery on warm off-white background](https://pin.fontofweb.com/2658?format=jpg)](https://design.withfudge.com/share/pin-2658)
+[![Horizontal scrolling marquee of alternating serif text pills and rounded photography thumbnails showing healthcare imagery on warm off-white background](https://pin.fontofweb.com/2658?format=jpg)](https://fudge.design/share/pin-2658)
 
-[Horizontal scrolling marquee of alternating serif text pills and rounded photography thumbnails showing healthcare imagery on warm off-white background](https://design.withfudge.com/share/pin-2658)
+[Horizontal scrolling marquee of alternating serif text pills and rounded photography thumbnails showing healthcare imagery on warm off-white background](https://fudge.design/share/pin-2658)
 
-[![Hero section with large italic serif headline 'Transforming healthcare for a brighter, healthier future' above asymmetric photo collage with biomarker and HRV data cards](https://pin.fontofweb.com/2657?format=jpg)](https://design.withfudge.com/share/pin-2657)
+[![Hero section with large italic serif headline 'Transforming healthcare for a brighter, healthier future' above asymmetric photo collage with biomarker and HRV data cards](https://pin.fontofweb.com/2657?format=jpg)](https://fudge.design/share/pin-2657)
 
-[Hero section with large italic serif headline 'Transforming healthcare for a brighter, healthier future' above asymmetric photo collage with biomarker and HRV data cards](https://design.withfudge.com/share/pin-2657)
+[Hero section with large italic serif headline 'Transforming healthcare for a brighter, healthier future' above asymmetric photo collage with biomarker and HRV data cards](https://fudge.design/share/pin-2657)
 
-[![Three-column feature grid on gradient blue background with white icons, bold headings, and body text describing AI-powered healthcare capabilities](https://pin.fontofweb.com/2656?format=jpg)](https://design.withfudge.com/share/pin-2656)
+[![Three-column feature grid on gradient blue background with white icons, bold headings, and body text describing AI-powered healthcare capabilities](https://pin.fontofweb.com/2656?format=jpg)](https://fudge.design/share/pin-2656)
 
-[Three-column feature grid on gradient blue background with white icons, bold headings, and body text describing AI-powered healthcare capabilities](https://design.withfudge.com/share/pin-2656)
+[Three-column feature grid on gradient blue background with white icons, bold headings, and body text describing AI-powered healthcare capabilities](https://fudge.design/share/pin-2656)
 
 ## Overview
 
@@ -174,3 +174,18 @@ The footer navigation grid should collapse to two columns on tablet and stacked 
 ## Scope note
 
 This guide covers the homepage surface of vibrantpractice.com as visible in the supplied images. Mobile breakpoints, navigation dropdowns, form interactions, interior pages, and motion behavior are not represented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Healthcare and wellness](/share/designs-with-industry.healthcare_wellness)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

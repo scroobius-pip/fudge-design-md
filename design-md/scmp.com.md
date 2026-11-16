@@ -1,18 +1,18 @@
 # How scmp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/scmp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/scmp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article body with subscription paywall overlay showing yellow-tinted pricing panel with Standard and Lite plan options, benefit comparison table, and prominent Subscribe button](https://pin.fontofweb.com/3692?format=jpg)](https://design.withfudge.com/share/pin-3692)
+[![Article body with subscription paywall overlay showing yellow-tinted pricing panel with Standard and Lite plan options, benefit comparison table, and prominent Subscribe button](https://pin.fontofweb.com/3692?format=jpg)](https://fudge.design/share/pin-3692)
 
-[Article body with subscription paywall overlay showing yellow-tinted pricing panel with Standard and Lite plan options, benefit comparison table, and prominent Subscribe button](https://design.withfudge.com/share/pin-3692)
+[Article body with subscription paywall overlay showing yellow-tinted pricing panel with Standard and Lite plan options, benefit comparison table, and prominent Subscribe button](https://fudge.design/share/pin-3692)
 
-[![Full subscription paywall modal with rounded corners, cream background, pricing tiers with strike-through original price, checkmark indicators, and blue text links for login and](https://pin.fontofweb.com/3691?format=jpg)](https://design.withfudge.com/share/pin-3691)
+[![Full subscription paywall modal with rounded corners, cream background, pricing tiers with strike-through original price, checkmark indicators, and blue text links for login and](https://pin.fontofweb.com/3691?format=jpg)](https://fudge.design/share/pin-3691)
 
-[Full subscription paywall modal with rounded corners, cream background, pricing tiers with strike-through original price, checkmark indicators, and blue text links for login and](https://design.withfudge.com/share/pin-3691)
+[Full subscription paywall modal with rounded corners, cream background, pricing tiers with strike-through original price, checkmark indicators, and blue text links for login and](https://fudge.design/share/pin-3691)
 
 ## Overview
 
@@ -176,3 +176,18 @@ The warm panel background should extend to viewport edges on mobile, eliminating
 ## Scope note
 
 This guide covers the subscription paywall experience and adjacent article content visible in the supplied images. The full publication header, navigation, article listing pages, footer, and authenticated reading experience are not represented. Measurements are practical adaptation targets. Motion, error states, and mobile-specific layouts are not documented. The supplied images show a single article context; other sections of the publication may employ variant treatments.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Pricing page](/share/designs-with-page.marketing.pricing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

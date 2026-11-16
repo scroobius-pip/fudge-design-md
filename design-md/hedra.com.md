@@ -1,26 +1,26 @@
 # How hedra.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hedra.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hedra.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark FAQ accordion section with footer navigation and large background wordmark on black canvas](https://pin.fontofweb.com/10793?format=jpg)](https://design.withfudge.com/share/pin-10793)
+[![Dark FAQ accordion section with footer navigation and large background wordmark on black canvas](https://pin.fontofweb.com/10793?format=jpg)](https://fudge.design/share/pin-10793)
 
-[Dark FAQ accordion section with footer navigation and large background wordmark on black canvas](https://design.withfudge.com/share/pin-10793)
+[Dark FAQ accordion section with footer navigation and large background wordmark on black canvas](https://fudge.design/share/pin-10793)
 
-[![Light FAQ section with expanded accordion item showing body text in gray rounded panels](https://pin.fontofweb.com/10792?format=jpg)](https://design.withfudge.com/share/pin-10792)
+[![Light FAQ section with expanded accordion item showing body text in gray rounded panels](https://pin.fontofweb.com/10792?format=jpg)](https://fudge.design/share/pin-10792)
 
-[Light FAQ section with expanded accordion item showing body text in gray rounded panels](https://design.withfudge.com/share/pin-10792)
+[Light FAQ section with expanded accordion item showing body text in gray rounded panels](https://fudge.design/share/pin-10792)
 
-[![Feature card grid with numbered AI product tiles and mixed photography on white background](https://pin.fontofweb.com/10791?format=jpg)](https://design.withfudge.com/share/pin-10791)
+[![Feature card grid with numbered AI product tiles and mixed photography on white background](https://pin.fontofweb.com/10791?format=jpg)](https://fudge.design/share/pin-10791)
 
-[Feature card grid with numbered AI product tiles and mixed photography on white background](https://design.withfudge.com/share/pin-10791)
+[Feature card grid with numbered AI product tiles and mixed photography on white background](https://fudge.design/share/pin-10791)
 
-[![Hero section with cinematic video background, thin display headline, and dual call-to-action buttons](https://pin.fontofweb.com/10775?format=jpg)](https://design.withfudge.com/share/pin-10775)
+[![Hero section with cinematic video background, thin display headline, and dual call-to-action buttons](https://pin.fontofweb.com/10775?format=jpg)](https://fudge.design/share/pin-10775)
 
-[Hero section with cinematic video background, thin display headline, and dual call-to-action buttons](https://design.withfudge.com/share/pin-10775)
+[Hero section with cinematic video background, thin display headline, and dual call-to-action buttons](https://fudge.design/share/pin-10775)
 
 ## Overview
 
@@ -118,3 +118,7 @@ The system prioritizes desktop experience. Implementations should consider: hero
 ## Scope note
 
 This guide covers the marketing site surface including hero sections, feature grids, FAQ accordions, and footer navigation. Pricing pages, authenticated studio interfaces, and mobile-native layouts are not represented. Motion behavior including video autoplay, scroll-triggered animations, and page transitions are recommended but not documented from still images. PpNeueMontreal is present in the type inventory but not visibly deployed in the captured sections.
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

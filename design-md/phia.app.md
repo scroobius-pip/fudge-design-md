@@ -1,26 +1,26 @@
 # How phia.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/phia.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/phia.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing section with gradient-accented 'Simple' word, pill toggle for device count, and large rounded card with feature checklist and coral CTA button](https://pin.fontofweb.com/7420?format=jpg)](https://design.withfudge.com/share/pin-7420)
+[![Pricing section with gradient-accented 'Simple' word, pill toggle for device count, and large rounded card with feature checklist and coral CTA button](https://pin.fontofweb.com/7420?format=jpg)](https://fudge.design/share/pin-7420)
 
-[Pricing section with gradient-accented 'Simple' word, pill toggle for device count, and large rounded card with feature checklist and coral CTA button](https://design.withfudge.com/share/pin-7420)
+[Pricing section with gradient-accented 'Simple' word, pill toggle for device count, and large rounded card with feature checklist and coral CTA button](https://fudge.design/share/pin-7420)
 
-[![Hero section with soft pink gradient background, app icon, script 'beautifully' accent in gradient, coral download button, and multi-column footer](https://pin.fontofweb.com/7419?format=jpg)](https://design.withfudge.com/share/pin-7419)
+[![Hero section with soft pink gradient background, app icon, script 'beautifully' accent in gradient, coral download button, and multi-column footer](https://pin.fontofweb.com/7419?format=jpg)](https://fudge.design/share/pin-7419)
 
-[Hero section with soft pink gradient background, app icon, script 'beautifully' accent in gradient, coral download button, and multi-column footer](https://design.withfudge.com/share/pin-7419)
+[Hero section with soft pink gradient background, app icon, script 'beautifully' accent in gradient, coral download button, and multi-column footer](https://fudge.design/share/pin-7419)
 
-[![Feature showcase with horizontal scroll of app screenshots, rounded cards with shadow, and gradient-accented 'matters' in display heading](https://pin.fontofweb.com/7418?format=jpg)](https://design.withfudge.com/share/pin-7418)
+[![Feature showcase with horizontal scroll of app screenshots, rounded cards with shadow, and gradient-accented 'matters' in display heading](https://pin.fontofweb.com/7418?format=jpg)](https://fudge.design/share/pin-7418)
 
-[Feature showcase with horizontal scroll of app screenshots, rounded cards with shadow, and gradient-accented 'matters' in display heading](https://design.withfudge.com/share/pin-7418)
+[Feature showcase with horizontal scroll of app screenshots, rounded cards with shadow, and gradient-accented 'matters' in display heading](https://fudge.design/share/pin-7418)
 
-[![Centered laptop mockup showing Phia app interface with timeline editor, floating above coral-tinted abstract background with centered tagline below](https://pin.fontofweb.com/7417?format=jpg)](https://design.withfudge.com/share/pin-7417)
+[![Centered laptop mockup showing Phia app interface with timeline editor, floating above coral-tinted abstract background with centered tagline below](https://pin.fontofweb.com/7417?format=jpg)](https://fudge.design/share/pin-7417)
 
-[Centered laptop mockup showing Phia app interface with timeline editor, floating above coral-tinted abstract background with centered tagline below](https://design.withfudge.com/share/pin-7417)
+[Centered laptop mockup showing Phia app interface with timeline editor, floating above coral-tinted abstract background with centered tagline below](https://fudge.design/share/pin-7417)
 
 ## Overview
 
@@ -193,3 +193,18 @@ Touch targets for buttons and carousel navigation should maintain minimum 44px d
 ## Scope note
 
 This guide covers the phia.app landing page for a macOS screen recording application, including its hero, feature showcase, pricing, and footer surfaces. It does not include the login page, any in-application interface, mobile viewport adaptations, or motion and interaction specifications beyond static visual properties. The script accent typography requires careful cross-browser gradient text implementation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

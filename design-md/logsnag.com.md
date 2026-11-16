@@ -1,22 +1,22 @@
 # How logsnag.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/logsnag.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/logsnag.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with five-tier card grid, toggle tabs, and rounded black CTA buttons on white background](https://pin.fontofweb.com/6974?format=jpg)](https://design.withfudge.com/share/pin-6974)
+[![Pricing page with five-tier card grid, toggle tabs, and rounded black CTA buttons on white background](https://pin.fontofweb.com/6974?format=jpg)](https://fudge.design/share/pin-6974)
 
-[Pricing page with five-tier card grid, toggle tabs, and rounded black CTA buttons on white background](https://design.withfudge.com/share/pin-6974)
+[Pricing page with five-tier card grid, toggle tabs, and rounded black CTA buttons on white background](https://fudge.design/share/pin-6974)
 
-[![Cross-platform section showing two iPhone mockups with app UI and bold display typography](https://pin.fontofweb.com/6973?format=jpg)](https://design.withfudge.com/share/pin-6973)
+[![Cross-platform section showing two iPhone mockups with app UI and bold display typography](https://pin.fontofweb.com/6973?format=jpg)](https://fudge.design/share/pin-6973)
 
-[Cross-platform section showing two iPhone mockups with app UI and bold display typography](https://design.withfudge.com/share/pin-6973)
+[Cross-platform section showing two iPhone mockups with app UI and bold display typography](https://fudge.design/share/pin-6973)
 
-[![Hero section with large headline, black primary button, tabbed interface, and notification feed cards](https://pin.fontofweb.com/6972?format=jpg)](https://design.withfudge.com/share/pin-6972)
+[![Hero section with large headline, black primary button, tabbed interface, and notification feed cards](https://pin.fontofweb.com/6972?format=jpg)](https://fudge.design/share/pin-6972)
 
-[Hero section with large headline, black primary button, tabbed interface, and notification feed cards](https://design.withfudge.com/share/pin-6972)
+[Hero section with large headline, black primary button, tabbed interface, and notification feed cards](https://fudge.design/share/pin-6972)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Tab pill groups remain horizontally scrollable if space is constrained, rather t
 ## Scope note
 
 This guide covers the LogSnag marketing site homepage and pricing page as visible in desktop viewport captures. Mobile layouts, breakpoint-specific behavior, form interactions, authentication flows, and the actual application dashboard interface are not represented in the supplied material. Animation, hover states, and loading skeletons are not documented. Measurements are derived from the exact values provided in the design facts.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How modash.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/modash.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/modash.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page hero with large condensed display type reading 'PRICING? RIGHT HERE.' and three-tier pricing cards below](https://pin.fontofweb.com/2742?format=jpg)](https://design.withfudge.com/share/pin-2742)
+[![Pricing page hero with large condensed display type reading 'PRICING? RIGHT HERE.' and three-tier pricing cards below](https://pin.fontofweb.com/2742?format=jpg)](https://fudge.design/share/pin-2742)
 
-[Pricing page hero with large condensed display type reading 'PRICING? RIGHT HERE.' and three-tier pricing cards below](https://design.withfudge.com/share/pin-2742)
+[Pricing page hero with large condensed display type reading 'PRICING? RIGHT HERE.' and three-tier pricing cards below](https://fudge.design/share/pin-2742)
 
-[![Three pricing cards showing Essentials, Performance with dark theme and pink CTA, and Enterprise with CUSTOM display type](https://pin.fontofweb.com/2743?format=jpg)](https://design.withfudge.com/share/pin-2743)
+[![Three pricing cards showing Essentials, Performance with dark theme and pink CTA, and Enterprise with CUSTOM display type](https://pin.fontofweb.com/2743?format=jpg)](https://fudge.design/share/pin-2743)
 
-[Three pricing cards showing Essentials, Performance with dark theme and pink CTA, and Enterprise with CUSTOM display type](https://design.withfudge.com/share/pin-2743)
+[Three pricing cards showing Essentials, Performance with dark theme and pink CTA, and Enterprise with CUSTOM display type](https://fudge.design/share/pin-2743)
 
-[![Detailed feature comparison table with category icons, checkmarks, and tiered plan columns](https://pin.fontofweb.com/2744?format=jpg)](https://design.withfudge.com/share/pin-2744)
+[![Detailed feature comparison table with category icons, checkmarks, and tiered plan columns](https://pin.fontofweb.com/2744?format=jpg)](https://fudge.design/share/pin-2744)
 
-[Detailed feature comparison table with category icons, checkmarks, and tiered plan columns](https://design.withfudge.com/share/pin-2744)
+[Detailed feature comparison table with category icons, checkmarks, and tiered plan columns](https://fudge.design/share/pin-2744)
 
-[![FAQ accordion section with bold uppercase heading and expand/collapse controls on light gray background](https://pin.fontofweb.com/2745?format=jpg)](https://design.withfudge.com/share/pin-2745)
+[![FAQ accordion section with bold uppercase heading and expand/collapse controls on light gray background](https://pin.fontofweb.com/2745?format=jpg)](https://fudge.design/share/pin-2745)
 
-[FAQ accordion section with bold uppercase heading and expand/collapse controls on light gray background](https://design.withfudge.com/share/pin-2745)
+[FAQ accordion section with bold uppercase heading and expand/collapse controls on light gray background](https://fudge.design/share/pin-2745)
 
 ## Overview
 
@@ -194,3 +194,18 @@ The FAQ accordion can remain structurally identical, with reduced section paddin
 ## Scope note
 
 This guide covers the pricing page and its components as visible in the captured interface. The homepage and other site sections are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, hover states, focus styles, mobile layouts, form validation, and checkout flows are not covered. Verify licensing for all font families before production use.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

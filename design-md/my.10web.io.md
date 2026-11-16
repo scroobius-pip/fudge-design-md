@@ -1,18 +1,18 @@
 # How my.10web.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/my.10web.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/my.10web.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Websites dashboard with dark sidebar navigation, website card with screenshot preview, and top banner with verification notice](https://pin.fontofweb.com/6702?format=jpg)](https://design.withfudge.com/share/pin-6702)
+[![Websites dashboard with dark sidebar navigation, website card with screenshot preview, and top banner with verification notice](https://pin.fontofweb.com/6702?format=jpg)](https://fudge.design/share/pin-6702)
 
-[Websites dashboard with dark sidebar navigation, website card with screenshot preview, and top banner with verification notice](https://design.withfudge.com/share/pin-6702)
+[Websites dashboard with dark sidebar navigation, website card with screenshot preview, and top banner with verification notice](https://fudge.design/share/pin-6702)
 
-[![AI conversion setup page with progress checklist, website preview mockup, and color-font selection panel](https://pin.fontofweb.com/6701?format=jpg)](https://design.withfudge.com/share/pin-6701)
+[![AI conversion setup page with progress checklist, website preview mockup, and color-font selection panel](https://pin.fontofweb.com/6701?format=jpg)](https://fudge.design/share/pin-6701)
 
-[AI conversion setup page with progress checklist, website preview mockup, and color-font selection panel](https://design.withfudge.com/share/pin-6701)
+[AI conversion setup page with progress checklist, website preview mockup, and color-font selection panel](https://fudge.design/share/pin-6701)
 
 ## Overview
 
@@ -198,3 +198,18 @@ Touch targets should maintain minimum 44px height for sidebar items and buttons.
 ## Scope note
 
 This guide covers the dashboard and AI conversion setup surfaces visible in the supplied images. Mobile layouts, animation specifications, form validation states, and the full range of setup flow steps beyond the initial screen are not documented. The icon font (Dbicons) is treated as a symbol system rather than typography. Evergrow Sans-500 and Evergrow Sans-800 are named in the type system but used through weight mapping on the base Evergrow Sans family; verify licensing for these families before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

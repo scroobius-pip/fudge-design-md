@@ -1,26 +1,26 @@
 # How wix.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wix.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wix.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Deep indigo hero section with oversized lime headline and circular photography collage of creative entrepreneurs](https://pin.fontofweb.com/3493?format=jpg)](https://design.withfudge.com/share/pin-3493)
+[![Deep indigo hero section with oversized lime headline and circular photography collage of creative entrepreneurs](https://pin.fontofweb.com/3493?format=jpg)](https://fudge.design/share/pin-3493)
 
-[Deep indigo hero section with oversized lime headline and circular photography collage of creative entrepreneurs](https://design.withfudge.com/share/pin-3493)
+[Deep indigo hero section with oversized lime headline and circular photography collage of creative entrepreneurs](https://fudge.design/share/pin-3493)
 
-[![Light blue homepage hero with floating product cards, editor UI chrome, and centered dark display typography](https://pin.fontofweb.com/3492?format=jpg)](https://design.withfudge.com/share/pin-3492)
+[![Light blue homepage hero with floating product cards, editor UI chrome, and centered dark display typography](https://pin.fontofweb.com/3492?format=jpg)](https://fudge.design/share/pin-3492)
 
-[Light blue homepage hero with floating product cards, editor UI chrome, and centered dark display typography](https://design.withfudge.com/share/pin-3492)
+[Light blue homepage hero with floating product cards, editor UI chrome, and centered dark display typography](https://fudge.design/share/pin-3492)
 
-[![White support section with three-column layout, thin hairline dividers, and navy curved base shape](https://pin.fontofweb.com/2564?format=jpg)](https://design.withfudge.com/share/pin-2564)
+[![White support section with three-column layout, thin hairline dividers, and navy curved base shape](https://pin.fontofweb.com/2564?format=jpg)](https://fudge.design/share/pin-2564)
 
-[White support section with three-column layout, thin hairline dividers, and navy curved base shape](https://design.withfudge.com/share/pin-2564)
+[White support section with three-column layout, thin hairline dividers, and navy curved base shape](https://fudge.design/share/pin-2564)
 
-[![Pale green feature grid with six rounded cards and dark navy section heading on white background](https://pin.fontofweb.com/2563?format=jpg)](https://design.withfudge.com/share/pin-2563)
+[![Pale green feature grid with six rounded cards and dark navy section heading on white background](https://pin.fontofweb.com/2563?format=jpg)](https://fudge.design/share/pin-2563)
 
-[Pale green feature grid with six rounded cards and dark navy section heading on white background](https://design.withfudge.com/share/pin-2563)
+[Pale green feature grid with six rounded cards and dark navy section heading on white background](https://fudge.design/share/pin-2563)
 
 ## Overview
 
@@ -157,3 +157,18 @@ The system should adapt from multi-column desktop layouts to stacked single-colu
 ## Scope note
 
 This guide covers the homepage and pricing page surfaces visible in the supplied images. Footer content, mobile layouts, checkout flows, and the full editor interface are not represented. Motion behavior, hover states, and form components are inferred from static images and should be validated against live implementation. Measurements are practical adaptation targets based on visual estimation from the supplied screenshots.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

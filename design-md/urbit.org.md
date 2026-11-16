@@ -1,26 +1,26 @@
 # How urbit.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/urbit.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/urbit.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Get Started section with sidebar navigation, olive-green buttons, and halftone landscape illustration of cylindrical structures](https://pin.fontofweb.com/8845?format=jpg)](https://design.withfudge.com/share/pin-8845)
+[![Get Started section with sidebar navigation, olive-green buttons, and halftone landscape illustration of cylindrical structures](https://pin.fontofweb.com/8845?format=jpg)](https://fudge.design/share/pin-8845)
 
-[Get Started section with sidebar navigation, olive-green buttons, and halftone landscape illustration of cylindrical structures](https://design.withfudge.com/share/pin-8845)
+[Get Started section with sidebar navigation, olive-green buttons, and halftone landscape illustration of cylindrical structures](https://fudge.design/share/pin-8845)
 
-[![Hero section with large italic serif headline, olive-green textured background, and primary action buttons](https://pin.fontofweb.com/8844?format=jpg)](https://design.withfudge.com/share/pin-8844)
+[![Hero section with large italic serif headline, olive-green textured background, and primary action buttons](https://pin.fontofweb.com/8844?format=jpg)](https://fudge.design/share/pin-8844)
 
-[Hero section with large italic serif headline, olive-green textured background, and primary action buttons](https://design.withfudge.com/share/pin-8844)
+[Hero section with large italic serif headline, olive-green textured background, and primary action buttons](https://fudge.design/share/pin-8844)
 
-[![Self-Hosting content page with detailed architectural illustration, command line section, and expanded sidebar navigation](https://pin.fontofweb.com/4839?format=jpg)](https://design.withfudge.com/share/pin-4839)
+[![Self-Hosting content page with detailed architectural illustration, command line section, and expanded sidebar navigation](https://pin.fontofweb.com/4839?format=jpg)](https://fudge.design/share/pin-4839)
 
-[Self-Hosting content page with detailed architectural illustration, command line section, and expanded sidebar navigation](https://design.withfudge.com/share/pin-4839)
+[Self-Hosting content page with detailed architectural illustration, command line section, and expanded sidebar navigation](https://fudge.design/share/pin-4839)
 
-[![Hero section variant with darker navigation bar showing Run Urbit button and consistent halftone texture treatment](https://pin.fontofweb.com/4838?format=jpg)](https://design.withfudge.com/share/pin-4838)
+[![Hero section variant with darker navigation bar showing Run Urbit button and consistent halftone texture treatment](https://pin.fontofweb.com/4838?format=jpg)](https://fudge.design/share/pin-4838)
 
-[Hero section variant with darker navigation bar showing Run Urbit button and consistent halftone texture treatment](https://design.withfudge.com/share/pin-4838)
+[Hero section variant with darker navigation bar showing Run Urbit button and consistent halftone texture treatment](https://fudge.design/share/pin-4838)
 
 ## Overview
 
@@ -176,3 +176,18 @@ Button pairs in the hero should stack vertically on narrow viewports, with the p
 ## Scope note
 
 This guide covers the Urbit.org homepage and immediate content sections visible in the supplied images, including the hero, Get Started flow, Self-Hosting documentation, and footer. Interior application interfaces, the Bridge tool, Network Explorer data visualizations, and mobile-specific layouts are not represented. Motion behavior, form validation states, and dark mode variants are not documented. The 25px and 30px type sizes reflect the extracted values directly.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Grain or noise](/share/designs-with-visual.trait.grain_noise)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How natoma.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/natoma.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/natoma.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Light gray section with verified MCP server icons grid and mint green CTA banner with dark display text](https://pin.fontofweb.com/7711?format=jpg)](https://design.withfudge.com/share/pin-7711)
+[![Light gray section with verified MCP server icons grid and mint green CTA banner with dark display text](https://pin.fontofweb.com/7711?format=jpg)](https://fudge.design/share/pin-7711)
 
-[Light gray section with verified MCP server icons grid and mint green CTA banner with dark display text](https://design.withfudge.com/share/pin-7711)
+[Light gray section with verified MCP server icons grid and mint green CTA banner with dark display text](https://fudge.design/share/pin-7711)
 
-[![Dark mode feature section with 3D auth illustration and four feature cards with mint green accents](https://pin.fontofweb.com/7710?format=jpg)](https://design.withfudge.com/share/pin-7710)
+[![Dark mode feature section with 3D auth illustration and four feature cards with mint green accents](https://pin.fontofweb.com/7710?format=jpg)](https://fudge.design/share/pin-7710)
 
-[Dark mode feature section with 3D auth illustration and four feature cards with mint green accents](https://design.withfudge.com/share/pin-7710)
+[Dark mode feature section with 3D auth illustration and four feature cards with mint green accents](https://fudge.design/share/pin-7710)
 
-[![Hero section with mint gradient background, product dashboard screenshot, and black pill CTA button](https://pin.fontofweb.com/7709?format=jpg)](https://design.withfudge.com/share/pin-7709)
+[![Hero section with mint gradient background, product dashboard screenshot, and black pill CTA button](https://pin.fontofweb.com/7709?format=jpg)](https://fudge.design/share/pin-7709)
 
-[Hero section with mint gradient background, product dashboard screenshot, and black pill CTA button](https://design.withfudge.com/share/pin-7709)
+[Hero section with mint gradient background, product dashboard screenshot, and black pill CTA button](https://fudge.design/share/pin-7709)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Font sizes should scale down modestly: hero-display to 2.5rem, section-display t
 ## Scope note
 
 This guide covers the Natoma homepage including hero, feature sections, partner grid, and primary navigation. Footer content, additional interior pages, form validation states, and mobile-specific navigation patterns are not represented in the supplied materials. The 3D illustration style and specific iconography are described by their visible treatment but source files are not included.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

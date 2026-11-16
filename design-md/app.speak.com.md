@@ -1,26 +1,26 @@
 # How app.speak.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/app.speak.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/app.speak.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Login page with split layout: left panel shows a floating Speaking Practice card on a soft pink background, right panel contains email and social sign-in options with a bold blue](https://pin.fontofweb.com/5345?format=jpg)](https://design.withfudge.com/share/pin-5345)
+[![Login page with split layout: left panel shows a floating Speaking Practice card on a soft pink background, right panel contains email and social sign-in options with a bold blue](https://pin.fontofweb.com/5345?format=jpg)](https://fudge.design/share/pin-5345)
 
-[Login page with split layout: left panel shows a floating Speaking Practice card on a soft pink background, right panel contains email and social sign-in options with a bold blue](https://design.withfudge.com/share/pin-5345)
+[Login page with split layout: left panel shows a floating Speaking Practice card on a soft pink background, right panel contains email and social sign-in options with a bold blue](https://fudge.design/share/pin-5345)
 
-[![Onboarding goal selection screen with a blue progress bar, centered question text, and selectable goal cards with emoji icons, some showing a selected state with blue border and](https://pin.fontofweb.com/5344?format=jpg)](https://design.withfudge.com/share/pin-5344)
+[![Onboarding goal selection screen with a blue progress bar, centered question text, and selectable goal cards with emoji icons, some showing a selected state with blue border and](https://pin.fontofweb.com/5344?format=jpg)](https://fudge.design/share/pin-5344)
 
-[Onboarding goal selection screen with a blue progress bar, centered question text, and selectable goal cards with emoji icons, some showing a selected state with blue border and](https://design.withfudge.com/share/pin-5344)
+[Onboarding goal selection screen with a blue progress bar, centered question text, and selectable goal cards with emoji icons, some showing a selected state with blue border and](https://fudge.design/share/pin-5344)
 
-[![Japanese proficiency level selector showing five stacked white cards with gradient plant icons from yellow to purple, each with a level title and descriptive body text on a light](https://pin.fontofweb.com/5343?format=jpg)](https://design.withfudge.com/share/pin-5343)
+[![Japanese proficiency level selector showing five stacked white cards with gradient plant icons from yellow to purple, each with a level title and descriptive body text on a light](https://pin.fontofweb.com/5343?format=jpg)](https://fudge.design/share/pin-5343)
 
-[Japanese proficiency level selector showing five stacked white cards with gradient plant icons from yellow to purple, each with a level title and descriptive body text on a light](https://design.withfudge.com/share/pin-5343)
+[Japanese proficiency level selector showing five stacked white cards with gradient plant icons from yellow to purple, each with a level title and descriptive body text on a light](https://fudge.design/share/pin-5343)
 
-[![Topic confirmation screen with a thumbs-up emoji, centered headline, three topic summary rows with colored circular icons, and a full-width blue Continue button at the bottom.](https://pin.fontofweb.com/5342?format=jpg)](https://design.withfudge.com/share/pin-5342)
+[![Topic confirmation screen with a thumbs-up emoji, centered headline, three topic summary rows with colored circular icons, and a full-width blue Continue button at the bottom.](https://pin.fontofweb.com/5342?format=jpg)](https://fudge.design/share/pin-5342)
 
-[Topic confirmation screen with a thumbs-up emoji, centered headline, three topic summary rows with colored circular icons, and a full-width blue Continue button at the bottom.](https://design.withfudge.com/share/pin-5342)
+[Topic confirmation screen with a thumbs-up emoji, centered headline, three topic summary rows with colored circular icons, and a full-width blue Continue button at the bottom.](https://fudge.design/share/pin-5342)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Selection cards should expand to full width on mobile with maintained internal p
 ## Scope note
 
 This guide covers the login and onboarding flow surfaces of the Speak app. It does not include in-lesson interfaces, achievement systems, payment flows, account settings, or dark mode variants. Measurements are practical adaptation targets derived from visible interface proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Form funnel](/share/designs-with-layout.archetype.form_funnel)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

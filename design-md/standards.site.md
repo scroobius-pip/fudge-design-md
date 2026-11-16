@@ -1,26 +1,26 @@
 # How standards.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/standards.site-design)
+[Open the live Fudge conversation](https://fudge.design/share/standards.site-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Enterprise page showing trusted brand logos in a six-column grid with a bold section heading and a tabbed feature list with directional arrow imagery.](https://pin.fontofweb.com/7284?format=jpg)](https://design.withfudge.com/share/pin-7284)
+[![Enterprise page showing trusted brand logos in a six-column grid with a bold section heading and a tabbed feature list with directional arrow imagery.](https://pin.fontofweb.com/7284?format=jpg)](https://fudge.design/share/pin-7284)
 
-[Enterprise page showing trusted brand logos in a six-column grid with a bold section heading and a tabbed feature list with directional arrow imagery.](https://design.withfudge.com/share/pin-7284)
+[Enterprise page showing trusted brand logos in a six-column grid with a bold section heading and a tabbed feature list with directional arrow imagery.](https://fudge.design/share/pin-7284)
 
-[![Agencies page hero with a large 'Made for designers.' headline above a dense mosaic of colorful product screenshots and interface mockups.](https://pin.fontofweb.com/7283?format=jpg)](https://design.withfudge.com/share/pin-7283)
+[![Agencies page hero with a large 'Made for designers.' headline above a dense mosaic of colorful product screenshots and interface mockups.](https://pin.fontofweb.com/7283?format=jpg)](https://fudge.design/share/pin-7283)
 
-[Agencies page hero with a large 'Made for designers.' headline above a dense mosaic of colorful product screenshots and interface mockups.](https://design.withfudge.com/share/pin-7283)
+[Agencies page hero with a large 'Made for designers.' headline above a dense mosaic of colorful product screenshots and interface mockups.](https://fudge.design/share/pin-7283)
 
-[![Agencies page section on flexible client workflows with a split layout showing explanatory text on the left and a transfer-complete illustration on the right.](https://pin.fontofweb.com/7282?format=jpg)](https://design.withfudge.com/share/pin-7282)
+[![Agencies page section on flexible client workflows with a split layout showing explanatory text on the left and a transfer-complete illustration on the right.](https://pin.fontofweb.com/7282?format=jpg)](https://fudge.design/share/pin-7282)
 
-[Agencies page section on flexible client workflows with a split layout showing explanatory text on the left and a transfer-complete illustration on the right.](https://design.withfudge.com/share/pin-7282)
+[Agencies page section on flexible client workflows with a split layout showing explanatory text on the left and a transfer-complete illustration on the right.](https://fudge.design/share/pin-7282)
 
-[![Agencies page feature section with a 'Save time' heading and tabbed navigation alongside a dark-themed asset management interface screenshot.](https://pin.fontofweb.com/7281?format=jpg)](https://design.withfudge.com/share/pin-7281)
+[![Agencies page feature section with a 'Save time' heading and tabbed navigation alongside a dark-themed asset management interface screenshot.](https://pin.fontofweb.com/7281?format=jpg)](https://fudge.design/share/pin-7281)
 
-[Agencies page feature section with a 'Save time' heading and tabbed navigation alongside a dark-themed asset management interface screenshot.](https://design.withfudge.com/share/pin-7281)
+[Agencies page feature section with a 'Save time' heading and tabbed navigation alongside a dark-themed asset management interface screenshot.](https://fudge.design/share/pin-7281)
 
 ## Overview
 
@@ -172,3 +172,18 @@ The substantial vertical padding (16.125rem) in hero sections should reduce on m
 ## Scope note
 
 This guide covers the marketing and feature pages of Standards as visible in desktop views. Mobile layouts, breakpoint behavior, form interactions, account dashboards, and motion specifications are not included. The design system is built from the supplied imagery and should be validated against live implementation for interactive states and responsive behavior.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How tolans.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tolans.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tolans.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article listing page showing 'More Articles' section with colorful abstract illustration card and Portola footer branding](https://pin.fontofweb.com/1020?format=jpg)](https://design.withfudge.com/share/pin-1020)
+[![Article listing page showing 'More Articles' section with colorful abstract illustration card and Portola footer branding](https://pin.fontofweb.com/1020?format=jpg)](https://fudge.design/share/pin-1020)
 
-[Article listing page showing 'More Articles' section with colorful abstract illustration card and Portola footer branding](https://design.withfudge.com/share/pin-1020)
+[Article listing page showing 'More Articles' section with colorful abstract illustration card and Portola footer branding](https://fudge.design/share/pin-1020)
 
-[![Blog article body featuring two 3D character renders with expressive faces against muted green and sage backgrounds](https://pin.fontofweb.com/1019?format=jpg)](https://design.withfudge.com/share/pin-1019)
+[![Blog article body featuring two 3D character renders with expressive faces against muted green and sage backgrounds](https://pin.fontofweb.com/1019?format=jpg)](https://fudge.design/share/pin-1019)
 
-[Blog article body featuring two 3D character renders with expressive faces against muted green and sage backgrounds](https://design.withfudge.com/share/pin-1019)
+[Blog article body featuring two 3D character renders with expressive faces against muted green and sage backgrounds](https://fudge.design/share/pin-1019)
 
-[![Article hero with large display headline 'Designing Tolan, Part 1: Characters' and pink alien character illustration in left margin](https://pin.fontofweb.com/1018?format=jpg)](https://design.withfudge.com/share/pin-1018)
+[![Article hero with large display headline 'Designing Tolan, Part 1: Characters' and pink alien character illustration in left margin](https://pin.fontofweb.com/1018?format=jpg)](https://fudge.design/share/pin-1018)
 
-[Article hero with large display headline 'Designing Tolan, Part 1: Characters' and pink alien character illustration in left margin](https://design.withfudge.com/share/pin-1018)
+[Article hero with large display headline 'Designing Tolan, Part 1: Characters' and pink alien character illustration in left margin](https://fudge.design/share/pin-1018)
 
-[![Blog index card showing group of colorful alien characters with rounded corners against warm cream background](https://pin.fontofweb.com/1017?format=jpg)](https://design.withfudge.com/share/pin-1017)
+[![Blog index card showing group of colorful alien characters with rounded corners against warm cream background](https://pin.fontofweb.com/1017?format=jpg)](https://fudge.design/share/pin-1017)
 
-[Blog index card showing group of colorful alien characters with rounded corners against warm cream background](https://design.withfudge.com/share/pin-1017)
+[Blog index card showing group of colorful alien characters with rounded corners against warm cream background](https://fudge.design/share/pin-1017)
 
 ## Overview
 
@@ -152,3 +152,18 @@ The floating character illustrations that appear in article margins will likely 
 ## Scope note
 
 This guide covers the blog article system and index pages visible in the supplied images. The marketing homepage, FAQ, and About pages are referenced in the site structure but not fully represented in the image set. Measurements are practical adaptation targets. Mobile breakpoints, navigation dropdowns, form elements, loading states, and character animation behavior are not documented here. The full color range of character illustrations extends beyond the interface tokens defined; those values describe photography and illustration palettes rather than UI surfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

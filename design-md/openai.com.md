@@ -1,26 +1,26 @@
 # How openai.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openai.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/openai.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with floating product packaging and oversized display typography on pure black canvas](https://pin.fontofweb.com/10128?format=jpg)](https://design.withfudge.com/share/pin-10128)
+[![Hero section with floating product packaging and oversized display typography on pure black canvas](https://pin.fontofweb.com/10128?format=jpg)](https://fudge.design/share/pin-10128)
 
-[Hero section with floating product packaging and oversized display typography on pure black canvas](https://design.withfudge.com/share/pin-10128)
+[Hero section with floating product packaging and oversized display typography on pure black canvas](https://fudge.design/share/pin-10128)
 
-[![Footer area with large back-navigation link, horizontal rule, and compact legal row](https://pin.fontofweb.com/10127?format=jpg)](https://design.withfudge.com/share/pin-10127)
+[![Footer area with large back-navigation link, horizontal rule, and compact legal row](https://pin.fontofweb.com/10127?format=jpg)](https://fudge.design/share/pin-10127)
 
-[Footer area with large back-navigation link, horizontal rule, and compact legal row](https://design.withfudge.com/share/pin-10127)
+[Footer area with large back-navigation link, horizontal rule, and compact legal row](https://fudge.design/share/pin-10127)
 
-[![Technical specifications panel with line-art product diagram and two-column data layout](https://pin.fontofweb.com/10126?format=jpg)](https://design.withfudge.com/share/pin-10126)
+[![Technical specifications panel with line-art product diagram and two-column data layout](https://pin.fontofweb.com/10126?format=jpg)](https://fudge.design/share/pin-10126)
 
-[Technical specifications panel with line-art product diagram and two-column data layout](https://design.withfudge.com/share/pin-10126)
+[Technical specifications panel with line-art product diagram and two-column data layout](https://fudge.design/share/pin-10126)
 
-[![Product detail page with navigation bar, hero headline, and e-commerce purchase module](https://pin.fontofweb.com/10125?format=jpg)](https://design.withfudge.com/share/pin-10125)
+[![Product detail page with navigation bar, hero headline, and e-commerce purchase module](https://pin.fontofweb.com/10125?format=jpg)](https://fudge.design/share/pin-10125)
 
-[Product detail page with navigation bar, hero headline, and e-commerce purchase module](https://design.withfudge.com/share/pin-10125)
+[Product detail page with navigation bar, hero headline, and e-commerce purchase module](https://fudge.design/share/pin-10125)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The system is documented from desktop viewports. At narrower widths, the centere
 ## Scope note
 
 This guide covers the OpenAI.com marketing and product pages visible in the supplied images, including the Supply Co. hardware storefront and Codex product pages. It does not include documentation for unseen mobile breakpoints, interactive states beyond static view, chat interfaces, or internal dashboard surfaces. The rounded value 6.08px appears in legacy data but is not represented in current visible components; measurements are exact where retained and practical adaptation targets where rounded to the 2px grid.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

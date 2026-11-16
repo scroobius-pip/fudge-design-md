@@ -1,26 +1,26 @@
 # How fluentwithparrot.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fluentwithparrot.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/fluentwithparrot.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Parrot+ subscription checkout page with email input, payment method selection, and blue Start trial button on light gray background](https://pin.fontofweb.com/5404?format=jpg)](https://design.withfudge.com/share/pin-5404)
+[![Parrot+ subscription checkout page with email input, payment method selection, and blue Start trial button on light gray background](https://pin.fontofweb.com/5404?format=jpg)](https://fudge.design/share/pin-5404)
 
-[Parrot+ subscription checkout page with email input, payment method selection, and blue Start trial button on light gray background](https://design.withfudge.com/share/pin-5404)
+[Parrot+ subscription checkout page with email input, payment method selection, and blue Start trial button on light gray background](https://fudge.design/share/pin-5404)
 
-[![Premium trial page with timeline showing learning milestones and selectable Weekly versus Monthly pricing cards](https://pin.fontofweb.com/5403?format=jpg)](https://design.withfudge.com/share/pin-5403)
+[![Premium trial page with timeline showing learning milestones and selectable Weekly versus Monthly pricing cards](https://pin.fontofweb.com/5403?format=jpg)](https://fudge.design/share/pin-5403)
 
-[Premium trial page with timeline showing learning milestones and selectable Weekly versus Monthly pricing cards](https://design.withfudge.com/share/pin-5403)
+[Premium trial page with timeline showing learning milestones and selectable Weekly versus Monthly pricing cards](https://fudge.design/share/pin-5403)
 
-[![Onboarding completion screen with green checkmark, feature benefit cards, and blue Continue button](https://pin.fontofweb.com/5402?format=jpg)](https://design.withfudge.com/share/pin-5402)
+[![Onboarding completion screen with green checkmark, feature benefit cards, and blue Continue button](https://pin.fontofweb.com/5402?format=jpg)](https://fudge.design/share/pin-5402)
 
-[Onboarding completion screen with green checkmark, feature benefit cards, and blue Continue button](https://design.withfudge.com/share/pin-5402)
+[Onboarding completion screen with green checkmark, feature benefit cards, and blue Continue button](https://fudge.design/share/pin-5402)
 
-[![Personalized learning plan loading screen with orange parrot logo, progress bar, and testimonial card with star rating](https://pin.fontofweb.com/5401?format=jpg)](https://design.withfudge.com/share/pin-5401)
+[![Personalized learning plan loading screen with orange parrot logo, progress bar, and testimonial card with star rating](https://pin.fontofweb.com/5401?format=jpg)](https://fudge.design/share/pin-5401)
 
-[Personalized learning plan loading screen with orange parrot logo, progress bar, and testimonial card with star rating](https://design.withfudge.com/share/pin-5401)
+[Personalized learning plan loading screen with orange parrot logo, progress bar, and testimonial card with star rating](https://fudge.design/share/pin-5401)
 
 ## Overview
 
@@ -188,3 +188,18 @@ The pricing card layout, which shows two cards side by side, should maintain its
 ## Scope note
 
 This guide covers the onboarding, premium selection, and subscription checkout surfaces visible in the supplied images. The broader learning application interface, dashboard, lesson player, settings pages, and any dark mode are not represented. Measurements are practical adaptation targets derived from visual inspection. Verify licensing for Poppins before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

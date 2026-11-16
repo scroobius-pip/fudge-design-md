@@ -1,22 +1,22 @@
 # How blog.x.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/blog.x.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/blog.x.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with five-column link grid on magenta-pink background with white text and gray top border](https://pin.fontofweb.com/1747?format=jpg)](https://design.withfudge.com/share/pin-1747)
+[![Footer with five-column link grid on magenta-pink background with white text and gray top border](https://pin.fontofweb.com/1747?format=jpg)](https://fudge.design/share/pin-1747)
 
-[Footer with five-column link grid on magenta-pink background with white text and gray top border](https://design.withfudge.com/share/pin-1747)
+[Footer with five-column link grid on magenta-pink background with white text and gray top border](https://fudge.design/share/pin-1747)
 
-[![Popular tags section with large pink tag links and See more call-to-action on white background](https://pin.fontofweb.com/1746?format=jpg)](https://design.withfudge.com/share/pin-1746)
+[![Popular tags section with large pink tag links and See more call-to-action on white background](https://pin.fontofweb.com/1746?format=jpg)](https://fudge.design/share/pin-1746)
 
-[Popular tags section with large pink tag links and See more call-to-action on white background](https://design.withfudge.com/share/pin-1746)
+[Popular tags section with large pink tag links and See more call-to-action on white background](https://fudge.design/share/pin-1746)
 
-[![Hero banner with blue halftone pattern, white headline, and latest posts list with gray titles](https://pin.fontofweb.com/1745?format=jpg)](https://design.withfudge.com/share/pin-1745)
+[![Hero banner with blue halftone pattern, white headline, and latest posts list with gray titles](https://pin.fontofweb.com/1745?format=jpg)](https://fudge.design/share/pin-1745)
 
-[Hero banner with blue halftone pattern, white headline, and latest posts list with gray titles](https://design.withfudge.com/share/pin-1745)
+[Hero banner with blue halftone pattern, white headline, and latest posts list with gray titles](https://fudge.design/share/pin-1745)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The halftone pattern may become visually noisy at small sizes; consider reducing
 ## Scope note
 
 This guide covers the Engineering blog landing page as visible in desktop presentation. Mobile breakpoints, article detail pages, search functionality, and interactive states including hover, focus, and loading are not represented in the supplied material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

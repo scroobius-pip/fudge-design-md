@@ -1,26 +1,26 @@
 # How nodes.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nodes.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/nodes.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with bold blue 'Nodes' wordmark, monospace body copy, and two outlined buttons on white canvas](https://pin.fontofweb.com/724?format=jpg)](https://design.withfudge.com/share/pin-724)
+[![Homepage hero with bold blue 'Nodes' wordmark, monospace body copy, and two outlined buttons on white canvas](https://pin.fontofweb.com/724?format=jpg)](https://fudge.design/share/pin-724)
 
-[Homepage hero with bold blue 'Nodes' wordmark, monospace body copy, and two outlined buttons on white canvas](https://design.withfudge.com/share/pin-724)
+[Homepage hero with bold blue 'Nodes' wordmark, monospace body copy, and two outlined buttons on white canvas](https://fudge.design/share/pin-724)
 
-[![Documentation page with blue display heading, numbered section titles in monospace, and left sidebar navigation](https://pin.fontofweb.com/701?format=jpg)](https://design.withfudge.com/share/pin-701)
+[![Documentation page with blue display heading, numbered section titles in monospace, and left sidebar navigation](https://pin.fontofweb.com/701?format=jpg)](https://fudge.design/share/pin-701)
 
-[Documentation page with blue display heading, numbered section titles in monospace, and left sidebar navigation](https://design.withfudge.com/share/pin-701)
+[Documentation page with blue display heading, numbered section titles in monospace, and left sidebar navigation](https://fudge.design/share/pin-701)
 
-[![Newsletter signup section with pink background, blue heading, email input field, and dark blue footer bar](https://pin.fontofweb.com/700?format=jpg)](https://design.withfudge.com/share/pin-700)
+[![Newsletter signup section with pink background, blue heading, email input field, and dark blue footer bar](https://pin.fontofweb.com/700?format=jpg)](https://fudge.design/share/pin-700)
 
-[Newsletter signup section with pink background, blue heading, email input field, and dark blue footer bar](https://design.withfudge.com/share/pin-700)
+[Newsletter signup section with pink background, blue heading, email input field, and dark blue footer bar](https://fudge.design/share/pin-700)
 
-[![Close-up of newsletter signup with pink background, blue subscribe button, and social media icon links](https://pin.fontofweb.com/699?format=jpg)](https://design.withfudge.com/share/pin-699)
+[![Close-up of newsletter signup with pink background, blue subscribe button, and social media icon links](https://pin.fontofweb.com/699?format=jpg)](https://fudge.design/share/pin-699)
 
-[Close-up of newsletter signup with pink background, blue subscribe button, and social media icon links](https://design.withfudge.com/share/pin-699)
+[Close-up of newsletter signup with pink background, blue subscribe button, and social media icon links](https://fudge.design/share/pin-699)
 
 ## Overview
 
@@ -182,3 +182,18 @@ No breakpoint-specific values are visible in the supplied material. Implement fl
 ## Scope note
 
 This guide covers the marketing homepage and documentation page surfaces visible in the supplied material. The actual Nodes application interface, with its dark theme and distinct panel colors, is not documented here. Measurements are practical adaptation targets. Mobile layouts, animation, hover states, and form validation styling are not represented in the available images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How landing.services is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/landing.services-design)
+[Open the live Fudge conversation](https://fudge.design/share/landing.services-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Chat widget overlay with rounded message bubbles, avatar thumbnail, and soft pink close button on a clean white ground.](https://pin.fontofweb.com/3054?format=jpg)](https://design.withfudge.com/share/pin-3054)
+[![Chat widget overlay with rounded message bubbles, avatar thumbnail, and soft pink close button on a clean white ground.](https://pin.fontofweb.com/3054?format=jpg)](https://fudge.design/share/pin-3054)
 
-[Chat widget overlay with rounded message bubbles, avatar thumbnail, and soft pink close button on a clean white ground.](https://design.withfudge.com/share/pin-3054)
+[Chat widget overlay with rounded message bubbles, avatar thumbnail, and soft pink close button on a clean white ground.](https://fudge.design/share/pin-3054)
 
-[![Contact section with large display heading, outlined pill button with send icon, founder attribution, and categorized footer links with external-arrow indicators.](https://pin.fontofweb.com/3052?format=jpg)](https://design.withfudge.com/share/pin-3052)
+[![Contact section with large display heading, outlined pill button with send icon, founder attribution, and categorized footer links with external-arrow indicators.](https://pin.fontofweb.com/3052?format=jpg)](https://fudge.design/share/pin-3052)
 
-[Contact section with large display heading, outlined pill button with send icon, founder attribution, and categorized footer links with external-arrow indicators.](https://design.withfudge.com/share/pin-3052)
+[Contact section with large display heading, outlined pill button with send icon, founder attribution, and categorized footer links with external-arrow indicators.](https://fudge.design/share/pin-3052)
 
-[![Case-study card featuring a rounded screenshot preview with category tags, testimonial bubbles with circular avatars, and a dashed-border preview thumbnail.](https://pin.fontofweb.com/3051?format=jpg)](https://design.withfudge.com/share/pin-3051)
+[![Case-study card featuring a rounded screenshot preview with category tags, testimonial bubbles with circular avatars, and a dashed-border preview thumbnail.](https://pin.fontofweb.com/3051?format=jpg)](https://fudge.design/share/pin-3051)
 
-[Case-study card featuring a rounded screenshot preview with category tags, testimonial bubbles with circular avatars, and a dashed-border preview thumbnail.](https://design.withfudge.com/share/pin-3051)
+[Case-study card featuring a rounded screenshot preview with category tags, testimonial bubbles with circular avatars, and a dashed-border preview thumbnail.](https://fudge.design/share/pin-3051)
 
-[![Full browser mockup of a healthcare SaaS landing page with a gradient blue sky background, centered white headline, and paired pill buttons in dark and light variants.](https://pin.fontofweb.com/3050?format=jpg)](https://design.withfudge.com/share/pin-3050)
+[![Full browser mockup of a healthcare SaaS landing page with a gradient blue sky background, centered white headline, and paired pill buttons in dark and light variants.](https://pin.fontofweb.com/3050?format=jpg)](https://fudge.design/share/pin-3050)
 
-[Full browser mockup of a healthcare SaaS landing page with a gradient blue sky background, centered white headline, and paired pill buttons in dark and light variants.](https://design.withfudge.com/share/pin-3050)
+[Full browser mockup of a healthcare SaaS landing page with a gradient blue sky background, centered white headline, and paired pill buttons in dark and light variants.](https://fudge.design/share/pin-3050)
 
 ## Overview
 
@@ -151,3 +151,18 @@ The system is built on a fluid single-column foundation. At narrower viewports, 
 ## Scope note
 
 This guide covers the landing page and contact surface of landing.services, including the chat widget, case-study presentation, and footer. Pricing pages, additional project detail views, and any motion or loading states are not represented. Measurements are practical adaptation targets derived from visible composition. Verify licensing for Geist and Inter before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Agency](/share/designs-with-offering.agency)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

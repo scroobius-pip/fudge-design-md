@@ -1,26 +1,26 @@
 # How inkeep.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/inkeep.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/inkeep.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article page with blue gradient hero card, author bio, and serif body text on warm off-white background](https://pin.fontofweb.com/3766?format=jpg)](https://design.withfudge.com/share/pin-3766)
+[![Blog article page with blue gradient hero card, author bio, and serif body text on warm off-white background](https://pin.fontofweb.com/3766?format=jpg)](https://fudge.design/share/pin-3766)
 
-[Blog article page with blue gradient hero card, author bio, and serif body text on warm off-white background](https://design.withfudge.com/share/pin-3766)
+[Blog article page with blue gradient hero card, author bio, and serif body text on warm off-white background](https://fudge.design/share/pin-3766)
 
-[![Blog index with centered display heading, category filter pills, and featured post card with split content-image layout](https://pin.fontofweb.com/3765?format=jpg)](https://design.withfudge.com/share/pin-3765)
+[![Blog index with centered display heading, category filter pills, and featured post card with split content-image layout](https://pin.fontofweb.com/3765?format=jpg)](https://fudge.design/share/pin-3765)
 
-[Blog index with centered display heading, category filter pills, and featured post card with split content-image layout](https://design.withfudge.com/share/pin-3765)
+[Blog index with centered display heading, category filter pills, and featured post card with split content-image layout](https://fudge.design/share/pin-3765)
 
-[![Footer with multi-column navigation, email subscription form, and floating Ask AI pill button on gradient background](https://pin.fontofweb.com/3764?format=jpg)](https://design.withfudge.com/share/pin-3764)
+[![Footer with multi-column navigation, email subscription form, and floating Ask AI pill button on gradient background](https://pin.fontofweb.com/3764?format=jpg)](https://fudge.design/share/pin-3764)
 
-[Footer with multi-column navigation, email subscription form, and floating Ask AI pill button on gradient background](https://design.withfudge.com/share/pin-3764)
+[Footer with multi-column navigation, email subscription form, and floating Ask AI pill button on gradient background](https://fudge.design/share/pin-3764)
 
-[![Demo scheduling page with bold display heading, trust logos row, and minimal form with pill-shaped submit button](https://pin.fontofweb.com/3763?format=jpg)](https://design.withfudge.com/share/pin-3763)
+[![Demo scheduling page with bold display heading, trust logos row, and minimal form with pill-shaped submit button](https://pin.fontofweb.com/3763?format=jpg)](https://fudge.design/share/pin-3763)
 
-[Demo scheduling page with bold display heading, trust logos row, and minimal form with pill-shaped submit button](https://design.withfudge.com/share/pin-3763)
+[Demo scheduling page with bold display heading, trust logos row, and minimal form with pill-shaped submit button](https://fudge.design/share/pin-3763)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The floating Ask AI button should remain visible and accessible at all viewport 
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage, blog index, blog article, and demo scheduling page. Product interface, documentation, and dashboard surfaces are not represented. Interactive states including hover, focus, loading, and disabled are inferred from static images and should be validated in implementation. Motion, animation, and mobile-specific layouts are not documented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

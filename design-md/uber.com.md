@@ -1,26 +1,26 @@
 # How uber.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/uber.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/uber.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with ride booking form, city illustration, and six suggestion cards for Ride, Reserve, Rental Cars, Courier, Food, and Grocery services](https://pin.fontofweb.com/2483?format=jpg)](https://design.withfudge.com/share/pin-2483)
+[![Homepage hero with ride booking form, city illustration, and six suggestion cards for Ride, Reserve, Rental Cars, Courier, Food, and Grocery services](https://pin.fontofweb.com/2483?format=jpg)](https://fudge.design/share/pin-2483)
 
-[Homepage hero with ride booking form, city illustration, and six suggestion cards for Ride, Reserve, Rental Cars, Courier, Food, and Grocery services](https://design.withfudge.com/share/pin-2483)
+[Homepage hero with ride booking form, city illustration, and six suggestion cards for Ride, Reserve, Rental Cars, Courier, Food, and Grocery services](https://fudge.design/share/pin-2483)
 
-[![Dark footer with four-column link grid, social icons, app store badges, language and city selectors, and a sticky bottom See prices bar](https://pin.fontofweb.com/2448?format=jpg)](https://design.withfudge.com/share/pin-2448)
+[![Dark footer with four-column link grid, social icons, app store badges, language and city selectors, and a sticky bottom See prices bar](https://pin.fontofweb.com/2448?format=jpg)](https://fudge.design/share/pin-2448)
 
-[Dark footer with four-column link grid, social icons, app store badges, language and city selectors, and a sticky bottom See prices bar](https://design.withfudge.com/share/pin-2448)
+[Dark footer with four-column link grid, social icons, app store badges, language and city selectors, and a sticky bottom See prices bar](https://fudge.design/share/pin-2448)
 
-[![Plan for later section with Reserve and Rent toggle pills, date-time inputs on a teal background, and a benefits sidebar with icon list](https://pin.fontofweb.com/2447?format=jpg)](https://design.withfudge.com/share/pin-2447)
+[![Plan for later section with Reserve and Rent toggle pills, date-time inputs on a teal background, and a benefits sidebar with icon list](https://pin.fontofweb.com/2447?format=jpg)](https://fudge.design/share/pin-2447)
 
-[Plan for later section with Reserve and Rent toggle pills, date-time inputs on a teal background, and a benefits sidebar with icon list](https://design.withfudge.com/share/pin-2447)
+[Plan for later section with Reserve and Rent toggle pills, date-time inputs on a teal background, and a benefits sidebar with icon list](https://fudge.design/share/pin-2447)
 
-[![Account login prompt with primary and secondary actions beside an illustration of two people in a car with blue and black clothing](https://pin.fontofweb.com/2446?format=jpg)](https://design.withfudge.com/share/pin-2446)
+[![Account login prompt with primary and secondary actions beside an illustration of two people in a car with blue and black clothing](https://pin.fontofweb.com/2446?format=jpg)](https://fudge.design/share/pin-2446)
 
-[Account login prompt with primary and secondary actions beside an illustration of two people in a car with blue and black clothing](https://design.withfudge.com/share/pin-2446)
+[Account login prompt with primary and secondary actions beside an illustration of two people in a car with blue and black clothing](https://fudge.design/share/pin-2446)
 
 ## Overview
 
@@ -170,3 +170,18 @@ Text sizes should scale down modestly: hero display may reduce to 2.5rem, sectio
 ## Scope note
 
 This guide covers the Uber homepage and its primary conversion surfaces: ride booking, service suggestions, account prompts, and the global footer. Interior pages, driver onboarding flows, map interfaces, and motion behaviors are not represented in the supplied material. Measurements are practical adaptation targets derived from visible composition. The exact breakpoint behavior, form validation states, and live map interactions would require additional research to document precisely.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

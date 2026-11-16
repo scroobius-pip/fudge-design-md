@@ -1,26 +1,26 @@
 # How heroui.pro is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/heroui.pro-design)
+[Open the live Fudge conversation](https://fudge.design/share/heroui.pro-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large Britti Sans headline, product mockup carousel showing map navigation, AI chat, music player, and shopping experience cards on light gray background](https://pin.fontofweb.com/8795?format=jpg)](https://design.withfudge.com/share/pin-8795)
+[![Hero section with large Britti Sans headline, product mockup carousel showing map navigation, AI chat, music player, and shopping experience cards on light gray background](https://pin.fontofweb.com/8795?format=jpg)](https://fudge.design/share/pin-8795)
 
-[Hero section with large Britti Sans headline, product mockup carousel showing map navigation, AI chat, music player, and shopping experience cards on light gray background](https://design.withfudge.com/share/pin-8795)
+[Hero section with large Britti Sans headline, product mockup carousel showing map navigation, AI chat, music player, and shopping experience cards on light gray background](https://fudge.design/share/pin-8795)
 
-[![Green gradient early access membership card with Kfoster name, joined date, and member number on light gray background with carousel navigation arrows](https://pin.fontofweb.com/8797?format=jpg)](https://design.withfudge.com/share/pin-8797)
+[![Green gradient early access membership card with Kfoster name, joined date, and member number on light gray background with carousel navigation arrows](https://pin.fontofweb.com/8797?format=jpg)](https://fudge.design/share/pin-8797)
 
-[Green gradient early access membership card with Kfoster name, joined date, and member number on light gray background with carousel navigation arrows](https://design.withfudge.com/share/pin-8797)
+[Green gradient early access membership card with Kfoster name, joined date, and member number on light gray background with carousel navigation arrows](https://fudge.design/share/pin-8797)
 
-[![Pricing page with three-tier card layout showing Web Hero, Mobile Hero, and Super Hero plans with gradient headers and feature lists on light gray background](https://pin.fontofweb.com/8796?format=jpg)](https://design.withfudge.com/share/pin-8796)
+[![Pricing page with three-tier card layout showing Web Hero, Mobile Hero, and Super Hero plans with gradient headers and feature lists on light gray background](https://pin.fontofweb.com/8796?format=jpg)](https://fudge.design/share/pin-8796)
 
-[Pricing page with three-tier card layout showing Web Hero, Mobile Hero, and Super Hero plans with gradient headers and feature lists on light gray background](https://design.withfudge.com/share/pin-8796)
+[Pricing page with three-tier card layout showing Web Hero, Mobile Hero, and Super Hero plans with gradient headers and feature lists on light gray background](https://fudge.design/share/pin-8796)
 
-[![Teams and Enterprise pricing tab with three cards featuring blue, purple, and yellow gradient headers with per-seat pricing and renewal information](https://pin.fontofweb.com/8798?format=jpg)](https://design.withfudge.com/share/pin-8798)
+[![Teams and Enterprise pricing tab with three cards featuring blue, purple, and yellow gradient headers with per-seat pricing and renewal information](https://pin.fontofweb.com/8798?format=jpg)](https://fudge.design/share/pin-8798)
 
-[Teams and Enterprise pricing tab with three cards featuring blue, purple, and yellow gradient headers with per-seat pricing and renewal information](https://design.withfudge.com/share/pin-8798)
+[Teams and Enterprise pricing tab with three cards featuring blue, purple, and yellow gradient headers with per-seat pricing and renewal information](https://fudge.design/share/pin-8798)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Touch targets maintain minimum 44px height for buttons and interactive elements.
 ## Scope note
 
 This guide covers the marketing and pricing surfaces of HeroUI Pro as visible in the supplied homepage and pricing page screenshots. Component library documentation pages, authentication flows, and account management interfaces are not represented. Motion design, mobile-specific layouts, and dark mode variants fall outside the current scope. Measurements reflect the desktop viewport state shown in source images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

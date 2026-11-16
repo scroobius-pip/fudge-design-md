@@ -1,26 +1,26 @@
 # How profitpath.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/profitpath.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/profitpath.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Social proof section with bright blue background, white testimonials, and yellow star ratings showing seller success stories](https://pin.fontofweb.com/4486?format=jpg)](https://design.withfudge.com/share/pin-4486)
+[![Social proof section with bright blue background, white testimonials, and yellow star ratings showing seller success stories](https://pin.fontofweb.com/4486?format=jpg)](https://fudge.design/share/pin-4486)
 
-[Social proof section with bright blue background, white testimonials, and yellow star ratings showing seller success stories](https://design.withfudge.com/share/pin-4486)
+[Social proof section with bright blue background, white testimonials, and yellow star ratings showing seller success stories](https://fudge.design/share/pin-4486)
 
-[![Feature grid showcasing six product capabilities with light UI cards, blue accents, and software interface screenshots](https://pin.fontofweb.com/4485?format=jpg)](https://design.withfudge.com/share/pin-4485)
+[![Feature grid showcasing six product capabilities with light UI cards, blue accents, and software interface screenshots](https://pin.fontofweb.com/4485?format=jpg)](https://fudge.design/share/pin-4485)
 
-[Feature grid showcasing six product capabilities with light UI cards, blue accents, and software interface screenshots](https://design.withfudge.com/share/pin-4485)
+[Feature grid showcasing six product capabilities with light UI cards, blue accents, and software interface screenshots](https://fudge.design/share/pin-4485)
 
-[![Pricing page with four tier columns, blue highlighted premium plan, toggle controls, and detailed feature checklists](https://pin.fontofweb.com/4484?format=jpg)](https://design.withfudge.com/share/pin-4484)
+[![Pricing page with four tier columns, blue highlighted premium plan, toggle controls, and detailed feature checklists](https://pin.fontofweb.com/4484?format=jpg)](https://fudge.design/share/pin-4484)
 
-[Pricing page with four tier columns, blue highlighted premium plan, toggle controls, and detailed feature checklists](https://design.withfudge.com/share/pin-4484)
+[Pricing page with four tier columns, blue highlighted premium plan, toggle controls, and detailed feature checklists](https://fudge.design/share/pin-4484)
 
-[![Hero section with large gradient headline, product dashboard screenshot, navigation bar, and partner logo row](https://pin.fontofweb.com/4483?format=jpg)](https://design.withfudge.com/share/pin-4483)
+[![Hero section with large gradient headline, product dashboard screenshot, navigation bar, and partner logo row](https://pin.fontofweb.com/4483?format=jpg)](https://fudge.design/share/pin-4483)
 
-[Hero section with large gradient headline, product dashboard screenshot, navigation bar, and partner logo row](https://design.withfudge.com/share/pin-4483)
+[Hero section with large gradient headline, product dashboard screenshot, navigation bar, and partner logo row](https://fudge.design/share/pin-4483)
 
 ## Overview
 
@@ -183,3 +183,18 @@ The design should maintain its single-column flow on narrower viewports with pro
 ## Scope note
 
 This guide covers the marketing homepage and pricing page surfaces visible in the supplied images. The full application dashboard, mobile navigation patterns, checkout flow, and account management interfaces are not represented. Authentication states, error messaging, and loading skeletons for the pricing toggle require additional design exploration. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Technology and software](/share/designs-with-industry.technology_software)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

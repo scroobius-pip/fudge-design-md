@@ -1,22 +1,22 @@
 # How ntathome.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ntathome.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ntathome.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Checkout page with split layout showing subscription selection on dark left panel and white account creation form on right](https://pin.fontofweb.com/8913?format=jpg)](https://design.withfudge.com/share/pin-8913)
+[![Checkout page with split layout showing subscription selection on dark left panel and white account creation form on right](https://pin.fontofweb.com/8913?format=jpg)](https://fudge.design/share/pin-8913)
 
-[Checkout page with split layout showing subscription selection on dark left panel and white account creation form on right](https://design.withfudge.com/share/pin-8913)
+[Checkout page with split layout showing subscription selection on dark left panel and white account creation form on right](https://fudge.design/share/pin-8913)
 
-[![Homepage hero with full-bleed theatrical production still, large white headline, and prominent red call-to-action button](https://pin.fontofweb.com/8912?format=jpg)](https://design.withfudge.com/share/pin-8912)
+[![Homepage hero with full-bleed theatrical production still, large white headline, and prominent red call-to-action button](https://pin.fontofweb.com/8912?format=jpg)](https://fudge.design/share/pin-8912)
 
-[Homepage hero with full-bleed theatrical production still, large white headline, and prominent red call-to-action button](https://design.withfudge.com/share/pin-8912)
+[Homepage hero with full-bleed theatrical production still, large white headline, and prominent red call-to-action button](https://fudge.design/share/pin-8912)
 
-[![Production detail page for Red with dark background, synopsis text, action buttons, and related content grid with star ratings](https://pin.fontofweb.com/8911?format=jpg)](https://design.withfudge.com/share/pin-8911)
+[![Production detail page for Red with dark background, synopsis text, action buttons, and related content grid with star ratings](https://pin.fontofweb.com/8911?format=jpg)](https://fudge.design/share/pin-8911)
 
-[Production detail page for Red with dark background, synopsis text, action buttons, and related content grid with star ratings](https://design.withfudge.com/share/pin-8911)
+[Production detail page for Red with dark background, synopsis text, action buttons, and related content grid with star ratings](https://fudge.design/share/pin-8911)
 
 ## Overview
 
@@ -192,3 +192,18 @@ The design shows a desktop-first approach with substantial fixed-width elements.
 ## Scope note
 
 This guide covers the homepage hero, production detail page, and checkout subscription flow as visible in the supplied materials. Mobile breakpoints, hover and focus states, loading skeletons, error pages, video player controls, and search results are not represented. The footer, account dashboard, and gift subscription flows are not included. Measurements derive directly from the retained interface values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

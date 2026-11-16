@@ -1,26 +1,26 @@
 # How exoape.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/exoape.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/exoape.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero viewport with full-bleed twilight basilica photography, oversized white display typography, and minimal top navigation on a cinematic blue gradient.](https://pin.fontofweb.com/5739?format=jpg)](https://design.withfudge.com/share/pin-5739)
+[![Hero viewport with full-bleed twilight basilica photography, oversized white display typography, and minimal top navigation on a cinematic blue gradient.](https://pin.fontofweb.com/5739?format=jpg)](https://fudge.design/share/pin-5739)
 
-[Hero viewport with full-bleed twilight basilica photography, oversized white display typography, and minimal top navigation on a cinematic blue gradient.](https://design.withfudge.com/share/pin-5739)
+[Hero viewport with full-bleed twilight basilica photography, oversized white display typography, and minimal top navigation on a cinematic blue gradient.](https://fudge.design/share/pin-5739)
 
-[![Dark immersive section with large warm-tan display heading, orbital 3D render, and structured multi-column footer with address and social links.](https://pin.fontofweb.com/5740?format=jpg)](https://design.withfudge.com/share/pin-5740)
+[![Dark immersive section with large warm-tan display heading, orbital 3D render, and structured multi-column footer with address and social links.](https://pin.fontofweb.com/5740?format=jpg)](https://fudge.design/share/pin-5740)
 
-[Dark immersive section with large warm-tan display heading, orbital 3D render, and structured multi-column footer with address and social links.](https://design.withfudge.com/share/pin-5740)
+[Dark immersive section with large warm-tan display heading, orbital 3D render, and structured multi-column footer with address and social links.](https://fudge.design/share/pin-5740)
 
-[![Contact page with split white background, oversized multilingual display type, portrait photography, and underlined contact details with bullet markers.](https://pin.fontofweb.com/5742?format=jpg)](https://design.withfudge.com/share/pin-5742)
+[![Contact page with split white background, oversized multilingual display type, portrait photography, and underlined contact details with bullet markers.](https://pin.fontofweb.com/5742?format=jpg)](https://fudge.design/share/pin-5742)
 
-[Contact page with split white background, oversized multilingual display type, portrait photography, and underlined contact details with bullet markers.](https://design.withfudge.com/share/pin-5742)
+[Contact page with split white background, oversized multilingual display type, portrait photography, and underlined contact details with bullet markers.](https://fudge.design/share/pin-5742)
 
-[![Our Story section with black background, warm-tan hero typography, elliptical 3D render, and organized footer columns with navigation and social links.](https://pin.fontofweb.com/5741?format=jpg)](https://design.withfudge.com/share/pin-5741)
+[![Our Story section with black background, warm-tan hero typography, elliptical 3D render, and organized footer columns with navigation and social links.](https://pin.fontofweb.com/5741?format=jpg)](https://fudge.design/share/pin-5741)
 
-[Our Story section with black background, warm-tan hero typography, elliptical 3D render, and organized footer columns with navigation and social links.](https://design.withfudge.com/share/pin-5741)
+[Our Story section with black background, warm-tan hero typography, elliptical 3D render, and organized footer columns with navigation and social links.](https://fudge.design/share/pin-5741)
 
 ## Overview
 
@@ -173,3 +173,18 @@ Full-bleed photography should maintain coverage without cropping critical subjec
 ## Scope note
 
 This guide covers the homepage hero, story section, and contact page surfaces visible in the supplied images. Mobile breakpoints, animation behavior, hover states, form interactions, and additional interior pages are not represented. Measurements are practical adaptation targets derived from visual estimation against the 0.25rem base unit.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Creative and design](/share/designs-with-industry.creative_design)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

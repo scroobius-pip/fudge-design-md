@@ -1,22 +1,22 @@
 # How hinge.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hinge.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/hinge.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with full-bleed photography of a couple by a fountain, featuring the tagline 'The dating app designed to be deleted' in large white serif typography overlaid on the](https://pin.fontofweb.com/10069?format=jpg)](https://design.withfudge.com/share/pin-10069)
+[![Hero section with full-bleed photography of a couple by a fountain, featuring the tagline 'The dating app designed to be deleted' in large white serif typography overlaid on the](https://pin.fontofweb.com/10069?format=jpg)](https://fudge.design/share/pin-10069)
 
-[Hero section with full-bleed photography of a couple by a fountain, featuring the tagline 'The dating app designed to be deleted' in large white serif typography overlaid on the](https://design.withfudge.com/share/pin-10069)
+[Hero section with full-bleed photography of a couple by a fountain, featuring the tagline 'The dating app designed to be deleted' in large white serif typography overlaid on the](https://fudge.design/share/pin-10069)
 
-[![Dark footer section with Hinge logo, multi-column navigation links organized under Index, Resources, and Legal headings, plus copyright and language selector at the bottom.](https://pin.fontofweb.com/10070?format=jpg)](https://design.withfudge.com/share/pin-10070)
+[![Dark footer section with Hinge logo, multi-column navigation links organized under Index, Resources, and Legal headings, plus copyright and language selector at the bottom.](https://pin.fontofweb.com/10070?format=jpg)](https://fudge.design/share/pin-10070)
 
-[Dark footer section with Hinge logo, multi-column navigation links organized under Index, Resources, and Legal headings, plus copyright and language selector at the bottom.](https://design.withfudge.com/share/pin-10070)
+[Dark footer section with Hinge logo, multi-column navigation links organized under Index, Resources, and Legal headings, plus copyright and language selector at the bottom.](https://fudge.design/share/pin-10070)
 
-[![Header navigation bar with Mission, Impact, Labs links on the left, centered Hinge wordmark logo, and Newsroom, Careers on the right against a dark background.](https://pin.fontofweb.com/10068?format=jpg)](https://design.withfudge.com/share/pin-10068)
+[![Header navigation bar with Mission, Impact, Labs links on the left, centered Hinge wordmark logo, and Newsroom, Careers on the right against a dark background.](https://pin.fontofweb.com/10068?format=jpg)](https://fudge.design/share/pin-10068)
 
-[Header navigation bar with Mission, Impact, Labs links on the left, centered Hinge wordmark logo, and Newsroom, Careers on the right against a dark background.](https://design.withfudge.com/share/pin-10068)
+[Header navigation bar with Mission, Impact, Labs links on the left, centered Hinge wordmark logo, and Newsroom, Careers on the right against a dark background.](https://fudge.design/share/pin-10068)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The high-contrast dark hero section will remain effective at all sizes, but veri
 ## Scope note
 
 This guide covers the Hinge homepage including the header navigation, hero section with lifestyle photography, alternating content sections, and multi-column footer. Mobile layouts, interactive states, form elements, and interior pages are not represented in the supplied material. The spacing values derive directly from the implemented interface with no estimation required.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How nucleoapp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nucleoapp.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nucleoapp.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Download page with dark action buttons and split-screen app preview showing light and dark icon manager interfaces](https://pin.fontofweb.com/4272?format=jpg)](https://design.withfudge.com/share/pin-4272)
+[![Download page with dark action buttons and split-screen app preview showing light and dark icon manager interfaces](https://pin.fontofweb.com/4272?format=jpg)](https://fudge.design/share/pin-4272)
 
-[Download page with dark action buttons and split-screen app preview showing light and dark icon manager interfaces](https://design.withfudge.com/share/pin-4272)
+[Download page with dark action buttons and split-screen app preview showing light and dark icon manager interfaces](https://fudge.design/share/pin-4272)
 
-[![Social proof section with designer testimonials in card layout and grayscale company logos](https://pin.fontofweb.com/4271?format=jpg)](https://design.withfudge.com/share/pin-4271)
+[![Social proof section with designer testimonials in card layout and grayscale company logos](https://pin.fontofweb.com/4271?format=jpg)](https://fudge.design/share/pin-4271)
 
-[Social proof section with designer testimonials in card layout and grayscale company logos](https://design.withfudge.com/share/pin-4271)
+[Social proof section with designer testimonials in card layout and grayscale company logos](https://fudge.design/share/pin-4271)
 
-[![Pricing page with user count selector, icon family options, and purple primary action button](https://pin.fontofweb.com/4270?format=jpg)](https://design.withfudge.com/share/pin-4270)
+[![Pricing page with user count selector, icon family options, and purple primary action button](https://pin.fontofweb.com/4270?format=jpg)](https://fudge.design/share/pin-4270)
 
-[Pricing page with user count selector, icon family options, and purple primary action button](https://design.withfudge.com/share/pin-4270)
+[Pricing page with user count selector, icon family options, and purple primary action button](https://fudge.design/share/pin-4270)
 
-[![Premium icons page footer with multi-column navigation and centered 3D geometric logo mark](https://pin.fontofweb.com/4269?format=jpg)](https://design.withfudge.com/share/pin-4269)
+[![Premium icons page footer with multi-column navigation and centered 3D geometric logo mark](https://pin.fontofweb.com/4269?format=jpg)](https://fudge.design/share/pin-4269)
 
-[Premium icons page footer with multi-column navigation and centered 3D geometric logo mark](https://design.withfudge.com/share/pin-4269)
+[Premium icons page footer with multi-column navigation and centered 3D geometric logo mark](https://fudge.design/share/pin-4269)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Touch targets for pill selectors and action buttons should maintain minimum 44px
 ## Scope note
 
 This guide covers the marketing and pricing surfaces of nucleoapp.com visible in the supplied images, including the download, pricing, and premium icons pages. The actual application interface shown in screenshots, mobile layouts, animation behavior, form validation states, and checkout flows are not represented. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How intl.nothing.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/intl.nothing.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/intl.nothing.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer overlay with dot-matrix Ndot typography navigation and collapsible support rows against black background](https://pin.fontofweb.com/7742?format=jpg)](https://design.withfudge.com/share/pin-7742)
+[![Dark footer overlay with dot-matrix Ndot typography navigation and collapsible support rows against black background](https://pin.fontofweb.com/7742?format=jpg)](https://fudge.design/share/pin-7742)
 
-[Dark footer overlay with dot-matrix Ndot typography navigation and collapsible support rows against black background](https://design.withfudge.com/share/pin-7742)
+[Dark footer overlay with dot-matrix Ndot typography navigation and collapsible support rows against black background](https://fudge.design/share/pin-7742)
 
-[![Light hero product page with large portrait photography and floating purchase card showing phone specs](https://pin.fontofweb.com/7741?format=jpg)](https://design.withfudge.com/share/pin-7741)
+[![Light hero product page with large portrait photography and floating purchase card showing phone specs](https://pin.fontofweb.com/7741?format=jpg)](https://fudge.design/share/pin-7741)
 
-[Light hero product page with large portrait photography and floating purchase card showing phone specs](https://design.withfudge.com/share/pin-7741)
+[Light hero product page with large portrait photography and floating purchase card showing phone specs](https://fudge.design/share/pin-7741)
 
-[![Product showcase with thumbnail grid of feature videos and images surrounding central hero figure](https://pin.fontofweb.com/7740?format=jpg)](https://design.withfudge.com/share/pin-7740)
+[![Product showcase with thumbnail grid of feature videos and images surrounding central hero figure](https://pin.fontofweb.com/7740?format=jpg)](https://fudge.design/share/pin-7740)
 
-[Product showcase with thumbnail grid of feature videos and images surrounding central hero figure](https://design.withfudge.com/share/pin-7740)
+[Product showcase with thumbnail grid of feature videos and images surrounding central hero figure](https://fudge.design/share/pin-7740)
 
-[![Silver variant product display with updated thumbnail selection and matching device color in purchase card](https://pin.fontofweb.com/7739?format=jpg)](https://design.withfudge.com/share/pin-7739)
+[![Silver variant product display with updated thumbnail selection and matching device color in purchase card](https://pin.fontofweb.com/7739?format=jpg)](https://fudge.design/share/pin-7739)
 
-[Silver variant product display with updated thumbnail selection and matching device color in purchase card](https://design.withfudge.com/share/pin-7739)
+[Silver variant product display with updated thumbnail selection and matching device color in purchase card](https://fudge.design/share/pin-7739)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Touch targets for the 11px Lettera Mono Ll buttons should be increased to minimu
 ## Scope note
 
 This guide covers the Phone (4a) Pro product page and footer navigation overlay. Mobile breakpoints, checkout flows, animation specifications, and hover or focus states are not represented in the supplied material. The thumbnail grid's exact positioning algorithm and any dynamic loading behavior are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

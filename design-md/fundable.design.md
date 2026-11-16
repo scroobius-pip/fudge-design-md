@@ -1,26 +1,26 @@
 # How fundable.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/fundable.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/fundable.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with split layout showing logo design service headline, pricing pill, and lifestyle photography on black background](https://pin.fontofweb.com/6714?format=jpg)](https://design.withfudge.com/share/pin-6714)
+[![Dark hero section with split layout showing logo design service headline, pricing pill, and lifestyle photography on black background](https://pin.fontofweb.com/6714?format=jpg)](https://fudge.design/share/pin-6714)
 
-[Dark hero section with split layout showing logo design service headline, pricing pill, and lifestyle photography on black background](https://design.withfudge.com/share/pin-6714)
+[Dark hero section with split layout showing logo design service headline, pricing pill, and lifestyle photography on black background](https://fudge.design/share/pin-6714)
 
-[![Bright yellow-green process section with serif headline, checklist items, and floating card mockup illustration](https://pin.fontofweb.com/5699?format=jpg)](https://design.withfudge.com/share/pin-5699)
+[![Bright yellow-green process section with serif headline, checklist items, and floating card mockup illustration](https://pin.fontofweb.com/5699?format=jpg)](https://fudge.design/share/pin-5699)
 
-[Bright yellow-green process section with serif headline, checklist items, and floating card mockup illustration](https://design.withfudge.com/share/pin-5699)
+[Bright yellow-green process section with serif headline, checklist items, and floating card mockup illustration](https://fudge.design/share/pin-5699)
 
-[![Yellow-green brand foundation section with serif display heading, body copy, and three checkmark list items with placeholder image area](https://pin.fontofweb.com/5698?format=jpg)](https://design.withfudge.com/share/pin-5698)
+[![Yellow-green brand foundation section with serif display heading, body copy, and three checkmark list items with placeholder image area](https://pin.fontofweb.com/5698?format=jpg)](https://fudge.design/share/pin-5698)
 
-[Yellow-green brand foundation section with serif display heading, body copy, and three checkmark list items with placeholder image area](https://design.withfudge.com/share/pin-5698)
+[Yellow-green brand foundation section with serif display heading, body copy, and three checkmark list items with placeholder image area](https://fudge.design/share/pin-5698)
 
-[![Warm cream pricing page with three-tier cards, brown primary action button, and customer logo avatars row](https://pin.fontofweb.com/5697?format=jpg)](https://design.withfudge.com/share/pin-5697)
+[![Warm cream pricing page with three-tier cards, brown primary action button, and customer logo avatars row](https://pin.fontofweb.com/5697?format=jpg)](https://fudge.design/share/pin-5697)
 
-[Warm cream pricing page with three-tier cards, brown primary action button, and customer logo avatars row](https://design.withfudge.com/share/pin-5697)
+[Warm cream pricing page with three-tier cards, brown primary action button, and customer logo avatars row](https://fudge.design/share/pin-5697)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The floating card mockups in process sections should simplify or hide on narrow 
 ## Scope note
 
 This guide covers the homepage and pricing surface visible in the supplied images. Mobile layouts, hover states, form interactions, checkout flows, and motion design are not represented. The System-Sansserif family appears only in navigation contexts and may be replaceable with Inter for consistency. False-Normal is present in the font sources but does not appear in visible interface typography.
+
+## Related design patterns
+
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [Agency](/share/designs-with-offering.agency)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

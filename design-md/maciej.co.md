@@ -1,26 +1,26 @@
 # How maciej.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/maciej.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/maciej.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large 'build things' typographic illustration, navigation bar, and introduction panel with action buttons](https://pin.fontofweb.com/4123?format=jpg)](https://design.withfudge.com/share/pin-4123)
+[![Hero section with large 'build things' typographic illustration, navigation bar, and introduction panel with action buttons](https://pin.fontofweb.com/4123?format=jpg)](https://fudge.design/share/pin-4123)
 
-[Hero section with large 'build things' typographic illustration, navigation bar, and introduction panel with action buttons](https://design.withfudge.com/share/pin-4123)
+[Hero section with large 'build things' typographic illustration, navigation bar, and introduction panel with action buttons](https://fudge.design/share/pin-4123)
 
-[![Full-bleed 'build things' artwork with thank-you message and minimal footer containing contact links and copyright](https://pin.fontofweb.com/4122?format=jpg)](https://design.withfudge.com/share/pin-4122)
+[![Full-bleed 'build things' artwork with thank-you message and minimal footer containing contact links and copyright](https://pin.fontofweb.com/4122?format=jpg)](https://fudge.design/share/pin-4122)
 
-[Full-bleed 'build things' artwork with thank-you message and minimal footer containing contact links and copyright](https://design.withfudge.com/share/pin-4122)
+[Full-bleed 'build things' artwork with thank-you message and minimal footer containing contact links and copyright](https://fudge.design/share/pin-4122)
 
-[![Expanded view showing Selected Projects section with Metadrop case study, project tags, and link buttons with navigation arrows](https://pin.fontofweb.com/4121?format=jpg)](https://design.withfudge.com/share/pin-4121)
+[![Expanded view showing Selected Projects section with Metadrop case study, project tags, and link buttons with navigation arrows](https://pin.fontofweb.com/4121?format=jpg)](https://fudge.design/share/pin-4121)
 
-[Expanded view showing Selected Projects section with Metadrop case study, project tags, and link buttons with navigation arrows](https://design.withfudge.com/share/pin-4121)
+[Expanded view showing Selected Projects section with Metadrop case study, project tags, and link buttons with navigation arrows](https://fudge.design/share/pin-4121)
 
-[![Selected Projects grid with Metadrop entry, service tags, and circular arrow navigation buttons on dark surface](https://pin.fontofweb.com/4120?format=jpg)](https://design.withfudge.com/share/pin-4120)
+[![Selected Projects grid with Metadrop entry, service tags, and circular arrow navigation buttons on dark surface](https://pin.fontofweb.com/4120?format=jpg)](https://fudge.design/share/pin-4120)
 
-[Selected Projects grid with Metadrop entry, service tags, and circular arrow navigation buttons on dark surface](https://design.withfudge.com/share/pin-4120)
+[Selected Projects grid with Metadrop entry, service tags, and circular arrow navigation buttons on dark surface](https://fudge.design/share/pin-4120)
 
 ## Overview
 
@@ -191,3 +191,18 @@ The monospace navigation text at 0.875rem remains readable down to small sizes, 
 ## Scope note
 
 This guide covers the homepage surface including the hero illustration, introduction panel, action buttons, and Selected Projects section with the Metadrop case study. Measurements are practical adaptation targets. Footer behavior, additional project entries, mobile navigation patterns, and any interior pages are not represented in the supplied material. Hover states, loading sequences, and form interactions are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Portfolio](/share/designs-with-offering.portfolio)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

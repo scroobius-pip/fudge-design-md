@@ -1,18 +1,18 @@
 # How tronscan.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tronscan.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/tronscan.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![TRONSCAN homepage showing network statistics dashboard with search bar, TRX price panel, blocks list, transactions table, and Total Value Locked chart with cookie consent banner](https://pin.fontofweb.com/9186?format=jpg)](https://design.withfudge.com/share/pin-9186)
+[![TRONSCAN homepage showing network statistics dashboard with search bar, TRX price panel, blocks list, transactions table, and Total Value Locked chart with cookie consent banner](https://pin.fontofweb.com/9186?format=jpg)](https://fudge.design/share/pin-9186)
 
-[TRONSCAN homepage showing network statistics dashboard with search bar, TRX price panel, blocks list, transactions table, and Total Value Locked chart with cookie consent banner](https://design.withfudge.com/share/pin-9186)
+[TRONSCAN homepage showing network statistics dashboard with search bar, TRX price panel, blocks list, transactions table, and Total Value Locked chart with cookie consent banner](https://fudge.design/share/pin-9186)
 
-[![TRONSCAN homepage variant with updated block numbers and transaction hashes, showing live data refresh in blocks and transactions sections with identical layout structure](https://pin.fontofweb.com/9185?format=jpg)](https://design.withfudge.com/share/pin-9185)
+[![TRONSCAN homepage variant with updated block numbers and transaction hashes, showing live data refresh in blocks and transactions sections with identical layout structure](https://pin.fontofweb.com/9185?format=jpg)](https://fudge.design/share/pin-9185)
 
-[TRONSCAN homepage variant with updated block numbers and transaction hashes, showing live data refresh in blocks and transactions sections with identical layout structure](https://design.withfudge.com/share/pin-9185)
+[TRONSCAN homepage variant with updated block numbers and transaction hashes, showing live data refresh in blocks and transactions sections with identical layout structure](https://fudge.design/share/pin-9185)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The interface appears optimized for desktop viewing given the data density and m
 ## Scope note
 
 This guide covers the TRONSCAN homepage dashboard as visible in desktop viewport captures. Internal pages for individual blocks, transactions, accounts, and token details are not represented. Mobile breakpoints, animation specifications, and real-time data update transitions fall outside the current scope. Measurements derive from the documented interface values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

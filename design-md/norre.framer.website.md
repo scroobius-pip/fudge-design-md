@@ -1,18 +1,18 @@
 # How norre.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/norre.framer.website-design)
+[Open the live Fudge conversation](https://fudge.design/share/norre.framer.website-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Ember & Oak project card with craft beer photography, light background, and outlined pill button with arrow icon](https://pin.fontofweb.com/5584?format=jpg)](https://design.withfudge.com/share/pin-5584)
+[![Ember & Oak project card with craft beer photography, light background, and outlined pill button with arrow icon](https://pin.fontofweb.com/5584?format=jpg)](https://fudge.design/share/pin-5584)
 
-[Ember & Oak project card with craft beer photography, light background, and outlined pill button with arrow icon](https://design.withfudge.com/share/pin-5584)
+[Ember & Oak project card with craft beer photography, light background, and outlined pill button with arrow icon](https://fudge.design/share/pin-5584)
 
-[![Norré Studio hero with full-bleed portrait photography, bold white display typography, and dark navigation bar with contact pill button](https://pin.fontofweb.com/5583?format=jpg)](https://design.withfudge.com/share/pin-5583)
+[![Norré Studio hero with full-bleed portrait photography, bold white display typography, and dark navigation bar with contact pill button](https://pin.fontofweb.com/5583?format=jpg)](https://fudge.design/share/pin-5583)
 
-[Norré Studio hero with full-bleed portrait photography, bold white display typography, and dark navigation bar with contact pill button](https://design.withfudge.com/share/pin-5583)
+[Norré Studio hero with full-bleed portrait photography, bold white display typography, and dark navigation bar with contact pill button](https://fudge.design/share/pin-5583)
 
 ## Overview
 
@@ -139,3 +139,18 @@ The two-tone section rhythm—dark hero, light project cards—creates natural v
 ## Scope note
 
 This guide covers the homepage hero and project card surfaces visible in the supplied images. Interior pages, mobile breakpoints, hover and focus states, form elements, and the full project detail template are not represented. The footer, additional navigation patterns, and any motion or loading treatments fall outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Pill-dominant corners](/share/designs-with-visual.corner.pill_dominant)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How doodleduo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/doodleduo.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/doodleduo.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero banner with three doodle dog portraits and coral-pink Doodle Duo title on cream badge](https://pin.fontofweb.com/5189?format=jpg)](https://design.withfudge.com/share/pin-5189)
+[![Hero banner with three doodle dog portraits and coral-pink Doodle Duo title on cream badge](https://pin.fontofweb.com/5189?format=jpg)](https://fudge.design/share/pin-5189)
 
-[Hero banner with three doodle dog portraits and coral-pink Doodle Duo title on cream badge](https://design.withfudge.com/share/pin-5189)
+[Hero banner with three doodle dog portraits and coral-pink Doodle Duo title on cream badge](https://fudge.design/share/pin-5189)
 
-[![Dames and Sires profile card with teal background, coral pill labels, and circular dog photo frame](https://pin.fontofweb.com/5191?format=jpg)](https://design.withfudge.com/share/pin-5191)
+[![Dames and Sires profile card with teal background, coral pill labels, and circular dog photo frame](https://pin.fontofweb.com/5191?format=jpg)](https://fudge.design/share/pin-5191)
 
-[Dames and Sires profile card with teal background, coral pill labels, and circular dog photo frame](https://design.withfudge.com/share/pin-5191)
+[Dames and Sires profile card with teal background, coral pill labels, and circular dog photo frame](https://fudge.design/share/pin-5191)
 
-[![Aussiedoodle litter announcement with scattered puppy photos and black circular logo seal](https://pin.fontofweb.com/5190?format=jpg)](https://design.withfudge.com/share/pin-5190)
+[![Aussiedoodle litter announcement with scattered puppy photos and black circular logo seal](https://pin.fontofweb.com/5190?format=jpg)](https://fudge.design/share/pin-5190)
 
-[Aussiedoodle litter announcement with scattered puppy photos and black circular logo seal](https://design.withfudge.com/share/pin-5190)
+[Aussiedoodle litter announcement with scattered puppy photos and black circular logo seal](https://fudge.design/share/pin-5190)
 
-[![Family team section with outdoor portrait and body text on warm cream background with black seal logo](https://pin.fontofweb.com/5192?format=jpg)](https://design.withfudge.com/share/pin-5192)
+[![Family team section with outdoor portrait and body text on warm cream background with black seal logo](https://pin.fontofweb.com/5192?format=jpg)](https://fudge.design/share/pin-5192)
 
-[Family team section with outdoor portrait and body text on warm cream background with black seal logo](https://design.withfudge.com/share/pin-5192)
+[Family team section with outdoor portrait and body text on warm cream background with black seal logo](https://fudge.design/share/pin-5192)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The circular photo frame's border thickness should scale with the frame diameter
 ## Scope note
 
 This guide covers the homepage and profile card surfaces visible in the supplied images. Interior pages, mobile layouts, form interactions, and checkout flows are not represented. Motion behavior, hover states, and focus indicators were not captured and should be designed to match the system's warm, approachable character. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Green hue](/share/designs-with-color.hue.green)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

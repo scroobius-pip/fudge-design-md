@@ -1,22 +1,22 @@
 # How oracle.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/oracle.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/oracle.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Corporate mission hero with red-orange gradient background, stylized bird illustration, and white headline over light gray fact cards with dark text](https://pin.fontofweb.com/2330?format=jpg)](https://design.withfudge.com/share/pin-2330)
+[![Corporate mission hero with red-orange gradient background, stylized bird illustration, and white headline over light gray fact cards with dark text](https://pin.fontofweb.com/2330?format=jpg)](https://fudge.design/share/pin-2330)
 
-[Corporate mission hero with red-orange gradient background, stylized bird illustration, and white headline over light gray fact cards with dark text](https://design.withfudge.com/share/pin-2330)
+[Corporate mission hero with red-orange gradient background, stylized bird illustration, and white headline over light gray fact cards with dark text](https://fudge.design/share/pin-2330)
 
-[![Dark charcoal footer with five-column link grid, social icons, legal row, and floating chat widget with teal accent](https://pin.fontofweb.com/2329?format=jpg)](https://design.withfudge.com/share/pin-2329)
+[![Dark charcoal footer with five-column link grid, social icons, legal row, and floating chat widget with teal accent](https://pin.fontofweb.com/2329?format=jpg)](https://fudge.design/share/pin-2329)
 
-[Dark charcoal footer with five-column link grid, social icons, legal row, and floating chat widget with teal accent](https://design.withfudge.com/share/pin-2329)
+[Dark charcoal footer with five-column link grid, social icons, legal row, and floating chat widget with teal accent](https://fudge.design/share/pin-2329)
 
-[![Global navigation bar with red Oracle wordmark, white text links, search icon, country selector, and two outlined buttons on dark background](https://pin.fontofweb.com/2328?format=jpg)](https://design.withfudge.com/share/pin-2328)
+[![Global navigation bar with red Oracle wordmark, white text links, search icon, country selector, and two outlined buttons on dark background](https://pin.fontofweb.com/2328?format=jpg)](https://fudge.design/share/pin-2328)
 
-[Global navigation bar with red Oracle wordmark, white text links, search icon, country selector, and two outlined buttons on dark background](https://design.withfudge.com/share/pin-2328)
+[Global navigation bar with red Oracle wordmark, white text links, search icon, country selector, and two outlined buttons on dark background](https://fudge.design/share/pin-2328)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Touch targets for navigation and buttons should meet minimum 44px height. The re
 ## Scope note
 
 This guide covers the homepage and corporate About page surfaces visible in the supplied images. Product detail pages, documentation, authenticated dashboards, and mobile-specific layouts are not represented. Motion, hover states, form interactions, and loading patterns are not described. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

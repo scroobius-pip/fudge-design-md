@@ -1,18 +1,18 @@
 # How surrealdb.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/surrealdb.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/surrealdb.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large display heading, purple gradient CTA button, and abstract purple wave visualization on near-black background](https://pin.fontofweb.com/10109?format=jpg)](https://design.withfudge.com/share/pin-10109)
+[![Hero section with large display heading, purple gradient CTA button, and abstract purple wave visualization on near-black background](https://pin.fontofweb.com/10109?format=jpg)](https://fudge.design/share/pin-10109)
 
-[Hero section with large display heading, purple gradient CTA button, and abstract purple wave visualization on near-black background](https://design.withfudge.com/share/pin-10109)
+[Hero section with large display heading, purple gradient CTA button, and abstract purple wave visualization on near-black background](https://fudge.design/share/pin-10109)
 
-[![Feature grid with six dark cards containing purple particle burst illustrations and descriptive text with arrow links](https://pin.fontofweb.com/10110?format=jpg)](https://design.withfudge.com/share/pin-10110)
+[![Feature grid with six dark cards containing purple particle burst illustrations and descriptive text with arrow links](https://pin.fontofweb.com/10110?format=jpg)](https://fudge.design/share/pin-10110)
 
-[Feature grid with six dark cards containing purple particle burst illustrations and descriptive text with arrow links](https://design.withfudge.com/share/pin-10110)
+[Feature grid with six dark cards containing purple particle burst illustrations and descriptive text with arrow links](https://fudge.design/share/pin-10110)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The visible system shows a desktop viewport with wide container margins and mult
 ## Scope note
 
 This guide covers the SurrealDB platform landing page including the hero, feature grid, navigation, and announcement banner. Footer content, documentation pages, pricing tables, authentication flows, and mobile navigation patterns are not represented in the supplied material. The generative particle imagery requires WebGL or canvas implementation; static fallbacks should preserve the purple color field composition. Applesystem, Times, and System-Systemui appear in the source as fallback or system font references and are not part of the active brand typography.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Purple hue](/share/designs-with-color.hue.purple)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [API platform](/share/designs-with-offering.api_platform)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

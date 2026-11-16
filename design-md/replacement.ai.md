@@ -1,26 +1,26 @@
 # How replacement.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/replacement.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/replacement.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with deep crimson background, large white display headline reading 'Get ready for replacement.', and horizontal navigation with logo and email contact link.](https://pin.fontofweb.com/3777?format=jpg)](https://design.withfudge.com/share/pin-3777)
+[![Footer section with deep crimson background, large white display headline reading 'Get ready for replacement.', and horizontal navigation with logo and email contact link.](https://pin.fontofweb.com/3777?format=jpg)](https://fudge.design/share/pin-3777)
 
-[Footer section with deep crimson background, large white display headline reading 'Get ready for replacement.', and horizontal navigation with logo and email contact link.](https://design.withfudge.com/share/pin-3777)
+[Footer section with deep crimson background, large white display headline reading 'Get ready for replacement.', and horizontal navigation with logo and email contact link.](https://fudge.design/share/pin-3777)
 
-[![Two-column feature section with wireframe 3D face render on dark plum background and white content area with 'Stay in Touch' label, bold headline, body copy, and outlined button](https://pin.fontofweb.com/3776?format=jpg)](https://design.withfudge.com/share/pin-3776)
+[![Two-column feature section with wireframe 3D face render on dark plum background and white content area with 'Stay in Touch' label, bold headline, body copy, and outlined button](https://pin.fontofweb.com/3776?format=jpg)](https://fudge.design/share/pin-3776)
 
-[Two-column feature section with wireframe 3D face render on dark plum background and white content area with 'Stay in Touch' label, bold headline, body copy, and outlined button](https://design.withfudge.com/share/pin-3776)
+[Two-column feature section with wireframe 3D face render on dark plum background and white content area with 'Stay in Touch' label, bold headline, body copy, and outlined button](https://fudge.design/share/pin-3776)
 
-[![Artists appreciation section with soft gray left panel containing headline and 'Redeem Your Reward' button, paired with gradient pink-to-cyan right panel featuring robot painter](https://pin.fontofweb.com/3775?format=jpg)](https://design.withfudge.com/share/pin-3775)
+[![Artists appreciation section with soft gray left panel containing headline and 'Redeem Your Reward' button, paired with gradient pink-to-cyan right panel featuring robot painter](https://pin.fontofweb.com/3775?format=jpg)](https://fudge.design/share/pin-3775)
 
-[Artists appreciation section with soft gray left panel containing headline and 'Redeem Your Reward' button, paired with gradient pink-to-cyan right panel featuring robot painter](https://design.withfudge.com/share/pin-3775)
+[Artists appreciation section with soft gray left panel containing headline and 'Redeem Your Reward' button, paired with gradient pink-to-cyan right panel featuring robot painter](https://fudge.design/share/pin-3775)
 
-[![HUMBERT product feature section with glitch-art portrait on left and feature list with icon-titled items including Parenting, Deepfakes, Addictive, Romance, and Dumber on white](https://pin.fontofweb.com/3774?format=jpg)](https://design.withfudge.com/share/pin-3774)
+[![HUMBERT product feature section with glitch-art portrait on left and feature list with icon-titled items including Parenting, Deepfakes, Addictive, Romance, and Dumber on white](https://pin.fontofweb.com/3774?format=jpg)](https://fudge.design/share/pin-3774)
 
-[HUMBERT product feature section with glitch-art portrait on left and feature list with icon-titled items including Parenting, Deepfakes, Addictive, Romance, and Dumber on white](https://design.withfudge.com/share/pin-3774)
+[HUMBERT product feature section with glitch-art portrait on left and feature list with icon-titled items including Parenting, Deepfakes, Addictive, Romance, and Dumber on white](https://fudge.design/share/pin-3774)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The two-column feature sections should stack vertically on narrower viewports, w
 ## Scope note
 
 This guide covers the landing page surface visible in the supplied images, including the footer hero, feature sections, product detail lists, and contact patterns. It does not include interior pages, form validation states, mobile navigation behavior, or motion design. Measurements are practical adaptation targets derived from visual inspection. The single Fustat weight and absence of retained spacing records mean all dimensional values should be verified against implementation needs.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

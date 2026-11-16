@@ -1,26 +1,26 @@
 # How moonpay.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/moonpay.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/moonpay.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Business page product grid showing Ramps, Commerce, Swaps, and Stablecoins cards with gradient imagery and pill-shaped CTA buttons on a white background.](https://pin.fontofweb.com/7768?format=jpg)](https://design.withfudge.com/share/pin-7768)
+[![Business page product grid showing Ramps, Commerce, Swaps, and Stablecoins cards with gradient imagery and pill-shaped CTA buttons on a white background.](https://pin.fontofweb.com/7768?format=jpg)](https://fudge.design/share/pin-7768)
 
-[Business page product grid showing Ramps, Commerce, Swaps, and Stablecoins cards with gradient imagery and pill-shaped CTA buttons on a white background.](https://design.withfudge.com/share/pin-7768)
+[Business page product grid showing Ramps, Commerce, Swaps, and Stablecoins cards with gradient imagery and pill-shaped CTA buttons on a white background.](https://fudge.design/share/pin-7768)
 
-[![Homepage feature section with 'Experience crypto, effortlessly' heading, payment method logos, and three product cards with dark gradient backgrounds and white UI mockups.](https://pin.fontofweb.com/7767?format=jpg)](https://design.withfudge.com/share/pin-7767)
+[![Homepage feature section with 'Experience crypto, effortlessly' heading, payment method logos, and three product cards with dark gradient backgrounds and white UI mockups.](https://pin.fontofweb.com/7767?format=jpg)](https://fudge.design/share/pin-7767)
 
-[Homepage feature section with 'Experience crypto, effortlessly' heading, payment method logos, and three product cards with dark gradient backgrounds and white UI mockups.](https://design.withfudge.com/share/pin-7767)
+[Homepage feature section with 'Experience crypto, effortlessly' heading, payment method logos, and three product cards with dark gradient backgrounds and white UI mockups.](https://fudge.design/share/pin-7767)
 
-[![Dramatic dark section with oversized '35,000,000+' statistic in white, transitioning from purple gradient to pure black with centered social proof text.](https://pin.fontofweb.com/7766?format=jpg)](https://design.withfudge.com/share/pin-7766)
+[![Dramatic dark section with oversized '35,000,000+' statistic in white, transitioning from purple gradient to pure black with centered social proof text.](https://pin.fontofweb.com/7766?format=jpg)](https://fudge.design/share/pin-7766)
 
-[Dramatic dark section with oversized '35,000,000+' statistic in white, transitioning from purple gradient to pure black with centered social proof text.](https://design.withfudge.com/share/pin-7766)
+[Dramatic dark section with oversized '35,000,000+' statistic in white, transitioning from purple gradient to pure black with centered social proof text.](https://fudge.design/share/pin-7766)
 
-[![Full dark mode social proof section with massive '35,000,000+' figure, 'Verified accounts' label, and scattered user photography mosaic on black background.](https://pin.fontofweb.com/7765?format=jpg)](https://design.withfudge.com/share/pin-7765)
+[![Full dark mode social proof section with massive '35,000,000+' figure, 'Verified accounts' label, and scattered user photography mosaic on black background.](https://pin.fontofweb.com/7765?format=jpg)](https://fudge.design/share/pin-7765)
 
-[Full dark mode social proof section with massive '35,000,000+' figure, 'Verified accounts' label, and scattered user photography mosaic on black background.](https://design.withfudge.com/share/pin-7765)
+[Full dark mode social proof section with massive '35,000,000+' figure, 'Verified accounts' label, and scattered user photography mosaic on black background.](https://fudge.design/share/pin-7765)
 
 ## Overview
 
@@ -124,3 +124,18 @@ The system appears designed desktop-first with clear adaptation needs. The 4rem 
 ## Scope note
 
 This guide covers the consumer homepage and business product page surfaces visible in the supplied images. Mobile breakpoints, interactive states beyond static presentation, form validation, transaction flows, and the complete icon system are not represented. The dark-mode social proof section with user photography and the gradient hero treatment are fully described; however, motion behavior for the scattered photo mosaic and any scroll-triggered animations are not documented. Measurements reflect the extracted desktop values.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How unheard.fm is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/unheard.fm-design)
+[Open the live Fudge conversation](https://fudge.design/share/unheard.fm-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark geometric background, white display headline, green Spotify login button, and phone mockup showing discovery filters interface](https://pin.fontofweb.com/4557?format=jpg)](https://design.withfudge.com/share/pin-4557)
+[![Hero section with dark geometric background, white display headline, green Spotify login button, and phone mockup showing discovery filters interface](https://pin.fontofweb.com/4557?format=jpg)](https://fudge.design/share/pin-4557)
 
-[Hero section with dark geometric background, white display headline, green Spotify login button, and phone mockup showing discovery filters interface](https://design.withfudge.com/share/pin-4557)
+[Hero section with dark geometric background, white display headline, green Spotify login button, and phone mockup showing discovery filters interface](https://fudge.design/share/pin-4557)
 
-[![Problem-solution narrative with sage green background, pull quote, UNHEARD.FM logo equation, and vintage cassette illustration](https://pin.fontofweb.com/4558?format=jpg)](https://design.withfudge.com/share/pin-4558)
+[![Problem-solution narrative with sage green background, pull quote, UNHEARD.FM logo equation, and vintage cassette illustration](https://pin.fontofweb.com/4558?format=jpg)](https://fudge.design/share/pin-4558)
 
-[Problem-solution narrative with sage green background, pull quote, UNHEARD.FM logo equation, and vintage cassette illustration](https://design.withfudge.com/share/pin-4558)
+[Problem-solution narrative with sage green background, pull quote, UNHEARD.FM logo equation, and vintage cassette illustration](https://fudge.design/share/pin-4558)
 
-[![Features grid with six icon-accented cards on sage green background showing No Repeats, Precision Filters, and Interactive Listening](https://pin.fontofweb.com/4559?format=jpg)](https://design.withfudge.com/share/pin-4559)
+[![Features grid with six icon-accented cards on sage green background showing No Repeats, Precision Filters, and Interactive Listening](https://pin.fontofweb.com/4559?format=jpg)](https://fudge.design/share/pin-4559)
 
-[Features grid with six icon-accented cards on sage green background showing No Repeats, Precision Filters, and Interactive Listening](https://design.withfudge.com/share/pin-4559)
+[Features grid with six icon-accented cards on sage green background showing No Repeats, Precision Filters, and Interactive Listening](https://fudge.design/share/pin-4559)
 
-[![FAQ accordion section with sage green background, collapsed and expanded question rows with chevron indicators](https://pin.fontofweb.com/4560?format=jpg)](https://design.withfudge.com/share/pin-4560)
+[![FAQ accordion section with sage green background, collapsed and expanded question rows with chevron indicators](https://pin.fontofweb.com/4560?format=jpg)](https://fudge.design/share/pin-4560)
 
-[FAQ accordion section with sage green background, collapsed and expanded question rows with chevron indicators](https://design.withfudge.com/share/pin-4560)
+[FAQ accordion section with sage green background, collapsed and expanded question rows with chevron indicators](https://fudge.design/share/pin-4560)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The layout appears optimized for desktop viewing with substantial horizontal spa
 ## Scope note
 
 This guide covers the marketing homepage surface of Unheard.FM. The actual application interface visible in the phone mockup, authentication flows, playlist generation screens, and user account areas are not represented in the supplied images. Motion behavior, hover states, and mobile-specific layouts are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Muted chroma](/share/designs-with-color.chroma.muted)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

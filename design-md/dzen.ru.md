@@ -1,18 +1,18 @@
 # How dzen.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/dzen.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/dzen.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News article page with headline, body text, inline blue hyperlinks, source attribution, and horizontal image gallery with rounded thumbnails](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/share/pin-8996)
+[![News article page with headline, body text, inline blue hyperlinks, source attribution, and horizontal image gallery with rounded thumbnails](https://pin.fontofweb.com/8996?format=jpg)](https://fudge.design/share/pin-8996)
 
-[News article page with headline, body text, inline blue hyperlinks, source attribution, and horizontal image gallery with rounded thumbnails](https://design.withfudge.com/share/pin-8996)
+[News article page with headline, body text, inline blue hyperlinks, source attribution, and horizontal image gallery with rounded thumbnails](https://fudge.design/share/pin-8996)
 
-[![News feed index with search bar, multi-source article cards with thumbnails, publisher icons, and right-column headline list with colored source indicators](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/share/pin-8995)
+[![News feed index with search bar, multi-source article cards with thumbnails, publisher icons, and right-column headline list with colored source indicators](https://pin.fontofweb.com/8995?format=jpg)](https://fudge.design/share/pin-8995)
 
-[News feed index with search bar, multi-source article cards with thumbnails, publisher icons, and right-column headline list with colored source indicators](https://design.withfudge.com/share/pin-8995)
+[News feed index with search bar, multi-source article cards with thumbnails, publisher icons, and right-column headline list with colored source indicators](https://fudge.design/share/pin-8995)
 
 ## Overview
 
@@ -175,3 +175,18 @@ Typography scales down modestly on narrow screens: headline sizes may reduce fro
 ## Scope note
 
 This guide covers the news article and feed index surfaces visible in the supplied images. Measurements are practical adaptation targets. Unseen elements—mobile navigation, dark mode, video players, comment systems, search results pages, and interactive states such as hover, focus, active, and loading—are not represented. Verify licensing for Stella Sans Vf before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

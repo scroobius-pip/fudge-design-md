@@ -1,26 +1,26 @@
 # How flutter.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/flutter.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/flutter.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer area with Flutter logo, multi-column link groups, social icons, and Creative Commons license text on light gray background](https://pin.fontofweb.com/5409?format=jpg)](https://design.withfudge.com/share/pin-5409)
+[![Footer area with Flutter logo, multi-column link groups, social icons, and Creative Commons license text on light gray background](https://pin.fontofweb.com/5409?format=jpg)](https://fudge.design/share/pin-5409)
 
-[Footer area with Flutter logo, multi-column link groups, social icons, and Creative Commons license text on light gray background](https://design.withfudge.com/share/pin-5409)
+[Footer area with Flutter logo, multi-column link groups, social icons, and Creative Commons license text on light gray background](https://fudge.design/share/pin-5409)
 
-[![Newsletter signup section with large bold heading, email input field, and dark blue promotional card with geometric accent shapes](https://pin.fontofweb.com/5408?format=jpg)](https://design.withfudge.com/share/pin-5408)
+[![Newsletter signup section with large bold heading, email input field, and dark blue promotional card with geometric accent shapes](https://pin.fontofweb.com/5408?format=jpg)](https://fudge.design/share/pin-5408)
 
-[Newsletter signup section with large bold heading, email input field, and dark blue promotional card with geometric accent shapes](https://design.withfudge.com/share/pin-5408)
+[Newsletter signup section with large bold heading, email input field, and dark blue promotional card with geometric accent shapes](https://fudge.design/share/pin-5408)
 
-[![Latest news carousel with three white cards showing Flutter 3.35, Dart 3.9, and Google I/O 2025 announcements with thumbnail images](https://pin.fontofweb.com/5407?format=jpg)](https://design.withfudge.com/share/pin-5407)
+[![Latest news carousel with three white cards showing Flutter 3.35, Dart 3.9, and Google I/O 2025 announcements with thumbnail images](https://pin.fontofweb.com/5407?format=jpg)](https://fudge.design/share/pin-5407)
 
-[Latest news carousel with three white cards showing Flutter 3.35, Dart 3.9, and Google I/O 2025 announcements with thumbnail images](https://design.withfudge.com/share/pin-5407)
+[Latest news carousel with three white cards showing Flutter 3.35, Dart 3.9, and Google I/O 2025 announcements with thumbnail images](https://fudge.design/share/pin-5407)
 
-[![Hero section with centered tagline, pill-shaped tab selector, device mockup with purple UI cards, code snippet overlay, and Fast feature description](https://pin.fontofweb.com/5406?format=jpg)](https://design.withfudge.com/share/pin-5406)
+[![Hero section with centered tagline, pill-shaped tab selector, device mockup with purple UI cards, code snippet overlay, and Fast feature description](https://pin.fontofweb.com/5406?format=jpg)](https://fudge.design/share/pin-5406)
 
-[Hero section with centered tagline, pill-shaped tab selector, device mockup with purple UI cards, code snippet overlay, and Fast feature description](https://design.withfudge.com/share/pin-5406)
+[Hero section with centered tagline, pill-shaped tab selector, device mockup with purple UI cards, code snippet overlay, and Fast feature description](https://fudge.design/share/pin-5406)
 
 ## Overview
 
@@ -192,3 +192,18 @@ Typography scales should reduce by approximately 15-20% on mobile: hero-display 
 ## Scope note
 
 This guide covers the Flutter.dev homepage marketing surface including hero, feature showcase, news carousel, promotional card, and footer. Navigation header, interior documentation pages, code syntax highlighting details, and mobile-specific layouts are not represented in the supplied images. Measurements are practical adaptation targets derived from visual inspection of the desktop presentation.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

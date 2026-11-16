@@ -1,18 +1,18 @@
 # How qntm.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/qntm.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/qntm.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage with dark header, orange links, and structured content sections including latest updates and external links](https://pin.fontofweb.com/6490?format=jpg)](https://design.withfudge.com/share/pin-6490)
+[![Homepage with dark header, orange links, and structured content sections including latest updates and external links](https://pin.fontofweb.com/6490?format=jpg)](https://fudge.design/share/pin-6490)
 
-[Homepage with dark header, orange links, and structured content sections including latest updates and external links](https://design.withfudge.com/share/pin-6490)
+[Homepage with dark header, orange links, and structured content sections including latest updates and external links](https://fudge.design/share/pin-6490)
 
-[![Homepage showing full content flow from header through navigation categories to footer with search field](https://pin.fontofweb.com/5100?format=jpg)](https://design.withfudge.com/share/pin-5100)
+[![Homepage showing full content flow from header through navigation categories to footer with search field](https://pin.fontofweb.com/5100?format=jpg)](https://fudge.design/share/pin-5100)
 
-[Homepage showing full content flow from header through navigation categories to footer with search field](https://design.withfudge.com/share/pin-5100)
+[Homepage showing full content flow from header through navigation categories to footer with search field](https://fudge.design/share/pin-5100)
 
 ## Overview
 
@@ -167,3 +167,18 @@ No multi-column or sidebar-dependent layouts appear that would require significa
 ## Scope note
 
 This guide covers the qntm.org homepage as visible in the supplied captures. Interior pages, article layouts, and any dynamic states such as hover, focus, or active link styling are not represented. No mobile-specific layout or breakpoint behavior is documented. The design system assumes a single-page surface with linear content flow; more complex page types would require additional specification.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Content index](/share/designs-with-page.content.index)
+- [Footer](/share/designs-with-section.structural.footer)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How ferndesk.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ferndesk.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ferndesk.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog index page with dark theme, lime-green BLOG label, serif headlines, three-column article cards with pixel-art thumbnails, and multi-column footer](https://pin.fontofweb.com/3336?format=jpg)](https://design.withfudge.com/share/pin-3336)
+[![Blog index page with dark theme, lime-green BLOG label, serif headlines, three-column article cards with pixel-art thumbnails, and multi-column footer](https://pin.fontofweb.com/3336?format=jpg)](https://fudge.design/share/pin-3336)
 
-[Blog index page with dark theme, lime-green BLOG label, serif headlines, three-column article cards with pixel-art thumbnails, and multi-column footer](https://design.withfudge.com/share/pin-3336)
+[Blog index page with dark theme, lime-green BLOG label, serif headlines, three-column article cards with pixel-art thumbnails, and multi-column footer](https://fudge.design/share/pin-3336)
 
-[![Floating contact modal with bright lime-green header, circular avatar, white form fields, and rounded green send button over dark background](https://pin.fontofweb.com/3335?format=jpg)](https://design.withfudge.com/share/pin-3335)
+[![Floating contact modal with bright lime-green header, circular avatar, white form fields, and rounded green send button over dark background](https://pin.fontofweb.com/3335?format=jpg)](https://fudge.design/share/pin-3335)
 
-[Floating contact modal with bright lime-green header, circular avatar, white form fields, and rounded green send button over dark background](https://design.withfudge.com/share/pin-3335)
+[Floating contact modal with bright lime-green header, circular avatar, white form fields, and rounded green send button over dark background](https://fudge.design/share/pin-3335)
 
-[![Footer section with Ferndesk logo, tagline, five-column link grid, copyright bar, and floating lime-green chat bubble button](https://pin.fontofweb.com/3334?format=jpg)](https://design.withfudge.com/share/pin-3334)
+[![Footer section with Ferndesk logo, tagline, five-column link grid, copyright bar, and floating lime-green chat bubble button](https://pin.fontofweb.com/3334?format=jpg)](https://fudge.design/share/pin-3334)
 
-[Footer section with Ferndesk logo, tagline, five-column link grid, copyright bar, and floating lime-green chat bubble button](https://design.withfudge.com/share/pin-3334)
+[Footer section with Ferndesk logo, tagline, five-column link grid, copyright bar, and floating lime-green chat bubble button](https://fudge.design/share/pin-3334)
 
-[![Hero section with lime-green THE AI DOCS AGENT label, large serif headline with inline logo, green primary button, dark secondary button, and testimonial cards](https://pin.fontofweb.com/3333?format=jpg)](https://design.withfudge.com/share/pin-3333)
+[![Hero section with lime-green THE AI DOCS AGENT label, large serif headline with inline logo, green primary button, dark secondary button, and testimonial cards](https://pin.fontofweb.com/3333?format=jpg)](https://fudge.design/share/pin-3333)
 
-[Hero section with lime-green THE AI DOCS AGENT label, large serif headline with inline logo, green primary button, dark secondary button, and testimonial cards](https://design.withfudge.com/share/pin-3333)
+[Hero section with lime-green THE AI DOCS AGENT label, large serif headline with inline logo, green primary button, dark secondary button, and testimonial cards](https://fudge.design/share/pin-3333)
 
 ## Overview
 
@@ -196,3 +196,18 @@ Testimonial cards in horizontal scroll should remain swipeable on touch devices,
 ## Scope note
 
 This guide covers the Ferndesk marketing site and blog as visible in the supplied homepage and blog index screenshots. Pricing pages, dashboard interfaces, documentation reader, and mobile-specific layouts are not represented. Measurements are practical adaptation targets derived from visual inspection. Motion, loading states, and form validation feedback are not documented. Verify licensing for Erode Variable and Figtree before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

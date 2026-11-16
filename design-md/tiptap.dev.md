@@ -1,26 +1,26 @@
 # How tiptap.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tiptap.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/tiptap.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Customers page hero with gradient glow and dark customer logo grid cards](https://pin.fontofweb.com/1593?format=jpg)](https://design.withfudge.com/share/pin-1593)
+[![Customers page hero with gradient glow and dark customer logo grid cards](https://pin.fontofweb.com/1593?format=jpg)](https://fudge.design/share/pin-1593)
 
-[Customers page hero with gradient glow and dark customer logo grid cards](https://design.withfudge.com/share/pin-1593)
+[Customers page hero with gradient glow and dark customer logo grid cards](https://fudge.design/share/pin-1593)
 
-[![Release notes grid with rounded white cards and colorful editorial thumbnails](https://pin.fontofweb.com/1591?format=jpg)](https://design.withfudge.com/share/pin-1591)
+[![Release notes grid with rounded white cards and colorful editorial thumbnails](https://pin.fontofweb.com/1591?format=jpg)](https://fudge.design/share/pin-1591)
 
-[Release notes grid with rounded white cards and colorful editorial thumbnails](https://design.withfudge.com/share/pin-1591)
+[Release notes grid with rounded white cards and colorful editorial thumbnails](https://fudge.design/share/pin-1591)
 
-[![Blog spotlight section with category headers and mixed media card layouts](https://pin.fontofweb.com/1590?format=jpg)](https://design.withfudge.com/share/pin-1590)
+[![Blog spotlight section with category headers and mixed media card layouts](https://pin.fontofweb.com/1590?format=jpg)](https://fudge.design/share/pin-1590)
 
-[Blog spotlight section with category headers and mixed media card layouts](https://design.withfudge.com/share/pin-1590)
+[Blog spotlight section with category headers and mixed media card layouts](https://fudge.design/share/pin-1590)
 
-[![Pricing comparison table with tier columns and knowledge base cards below](https://pin.fontofweb.com/1588?format=jpg)](https://design.withfudge.com/share/pin-1588)
+[![Pricing comparison table with tier columns and knowledge base cards below](https://pin.fontofweb.com/1588?format=jpg)](https://fudge.design/share/pin-1588)
 
-[Pricing comparison table with tier columns and knowledge base cards below](https://design.withfudge.com/share/pin-1588)
+[Pricing comparison table with tier columns and knowledge base cards below](https://fudge.design/share/pin-1588)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Blog card thumbnails should maintain 16:9 or similar aspect ratio across breakpo
 ## Scope note
 
 This guide covers the marketing site surface including customers, blog, release notes, and pricing pages. It does not include the Tiptap editor interface itself, documentation code blocks, account dashboard, or mobile-native applications. Measurements are practical adaptation targets derived from visible page structures.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

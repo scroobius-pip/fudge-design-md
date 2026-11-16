@@ -1,26 +1,26 @@
 # How shop.ledger.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/shop.ledger.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/shop.ledger.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark footer with newsletter subscription, social icons, and multi-column link navigation on black background](https://pin.fontofweb.com/7808?format=jpg)](https://design.withfudge.com/share/pin-7808)
+[![Dark footer with newsletter subscription, social icons, and multi-column link navigation on black background](https://pin.fontofweb.com/7808?format=jpg)](https://fudge.design/share/pin-7808)
 
-[Dark footer with newsletter subscription, social icons, and multi-column link navigation on black background](https://design.withfudge.com/share/pin-7808)
+[Dark footer with newsletter subscription, social icons, and multi-column link navigation on black background](https://fudge.design/share/pin-7808)
 
-[![Product comparison grid with feature icons and tiered capability descriptions on white background](https://pin.fontofweb.com/7807?format=jpg)](https://design.withfudge.com/share/pin-7807)
+[![Product comparison grid with feature icons and tiered capability descriptions on white background](https://pin.fontofweb.com/7807?format=jpg)](https://fudge.design/share/pin-7807)
 
-[Product comparison grid with feature icons and tiered capability descriptions on white background](https://design.withfudge.com/share/pin-7807)
+[Product comparison grid with feature icons and tiered capability descriptions on white background](https://fudge.design/share/pin-7807)
 
-[![Customer reviews section with star ratings, filter pills, and support response cards on light gray background](https://pin.fontofweb.com/7806?format=jpg)](https://design.withfudge.com/share/pin-7806)
+[![Customer reviews section with star ratings, filter pills, and support response cards on light gray background](https://pin.fontofweb.com/7806?format=jpg)](https://fudge.design/share/pin-7806)
 
-[Customer reviews section with star ratings, filter pills, and support response cards on light gray background](https://design.withfudge.com/share/pin-7806)
+[Customer reviews section with star ratings, filter pills, and support response cards on light gray background](https://fudge.design/share/pin-7806)
 
-[![FAQ accordion with dark gradient background and expanded answer panel with white text](https://pin.fontofweb.com/7805?format=jpg)](https://design.withfudge.com/share/pin-7805)
+[![FAQ accordion with dark gradient background and expanded answer panel with white text](https://pin.fontofweb.com/7805?format=jpg)](https://fudge.design/share/pin-7805)
 
-[FAQ accordion with dark gradient background and expanded answer panel with white text](https://design.withfudge.com/share/pin-7805)
+[FAQ accordion with dark gradient background and expanded answer panel with white text](https://fudge.design/share/pin-7805)
 
 ## Overview
 
@@ -225,3 +225,18 @@ Footer link columns should stack to two-column then single-column grids, with ne
 ## Scope note
 
 This guide covers the Ledger shop product page surfaces visible in the supplied images: navigation, product comparison, customer reviews, FAQ accordion, and footer. Cart flows, checkout pages, account interfaces, and mobile layouts are not represented. Product imagery treatment and animation behaviors are not documented. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

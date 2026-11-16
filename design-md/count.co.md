@@ -1,26 +1,26 @@
 # How count.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/count.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/count.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Gallery page showing a grid of data-canvas previews with large section headings and blue arrow links](https://pin.fontofweb.com/1940?format=jpg)](https://design.withfudge.com/share/pin-1940)
+[![Gallery page showing a grid of data-canvas previews with large section headings and blue arrow links](https://pin.fontofweb.com/1940?format=jpg)](https://fudge.design/share/pin-1940)
 
-[Gallery page showing a grid of data-canvas previews with large section headings and blue arrow links](https://design.withfudge.com/share/pin-1940)
+[Gallery page showing a grid of data-canvas previews with large section headings and blue arrow links](https://fudge.design/share/pin-1940)
 
-[![FAQ section with a two-column layout featuring large display headings and bordered accordion items with blue text](https://pin.fontofweb.com/1939?format=jpg)](https://design.withfudge.com/share/pin-1939)
+[![FAQ section with a two-column layout featuring large display headings and bordered accordion items with blue text](https://pin.fontofweb.com/1939?format=jpg)](https://fudge.design/share/pin-1939)
 
-[FAQ section with a two-column layout featuring large display headings and bordered accordion items with blue text](https://design.withfudge.com/share/pin-1939)
+[FAQ section with a two-column layout featuring large display headings and bordered accordion items with blue text](https://fudge.design/share/pin-1939)
 
-[![Feature comparison table with tiered columns, checkmarks, and section headers with colored square icons](https://pin.fontofweb.com/1938?format=jpg)](https://design.withfudge.com/share/pin-1938)
+[![Feature comparison table with tiered columns, checkmarks, and section headers with colored square icons](https://pin.fontofweb.com/1938?format=jpg)](https://fudge.design/share/pin-1938)
 
-[Feature comparison table with tiered columns, checkmarks, and section headers with colored square icons](https://design.withfudge.com/share/pin-1938)
+[Feature comparison table with tiered columns, checkmarks, and section headers with colored square icons](https://fudge.design/share/pin-1938)
 
-[![Pricing page hero with large display typography and a detailed feature matrix comparing Pro, Team, Scale, and Enterprise tiers](https://pin.fontofweb.com/1937?format=jpg)](https://design.withfudge.com/share/pin-1937)
+[![Pricing page hero with large display typography and a detailed feature matrix comparing Pro, Team, Scale, and Enterprise tiers](https://pin.fontofweb.com/1937?format=jpg)](https://fudge.design/share/pin-1937)
 
-[Pricing page hero with large display typography and a detailed feature matrix comparing Pro, Team, Scale, and Enterprise tiers](https://design.withfudge.com/share/pin-1937)
+[Pricing page hero with large display typography and a detailed feature matrix comparing Pro, Team, Scale, and Enterprise tiers](https://fudge.design/share/pin-1937)
 
 ## Overview
 
@@ -168,3 +168,18 @@ The FAQ section's two-column layout stacks to single column, with the heading an
 ## Scope note
 
 This guide covers the marketing site surfaces visible in the supplied images: the homepage hero and feature sections, pricing page with tier comparison, gallery showcase, and FAQ accordion. Navigation, footer, authentication flows, and the actual product interface are not represented. Motion, hover states, and mobile-specific layouts are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

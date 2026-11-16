@@ -1,18 +1,18 @@
 # How drawabox.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/drawabox.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/drawabox.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Lesson page with orange navigation bar, left sidebar menu, purple section header, and illustrated content cards showing the full three-column layout with instructional imagery](https://pin.fontofweb.com/5906?format=jpg)](https://design.withfudge.com/share/pin-5906)
+[![Lesson page with orange navigation bar, left sidebar menu, purple section header, and illustrated content cards showing the full three-column layout with instructional imagery](https://pin.fontofweb.com/5906?format=jpg)](https://fudge.design/share/pin-5906)
 
-[Lesson page with orange navigation bar, left sidebar menu, purple section header, and illustrated content cards showing the full three-column layout with instructional imagery](https://design.withfudge.com/share/pin-5906)
+[Lesson page with orange navigation bar, left sidebar menu, purple section header, and illustrated content cards showing the full three-column layout with instructional imagery](https://fudge.design/share/pin-5906)
 
-[![Collapsed sponsor banner revealing the orange Drawabox logo bar with LESSONS navigation and LOGIN button, showing the header anatomy and dark promotional overlay](https://pin.fontofweb.com/5905?format=jpg)](https://design.withfudge.com/share/pin-5905)
+[![Collapsed sponsor banner revealing the orange Drawabox logo bar with LESSONS navigation and LOGIN button, showing the header anatomy and dark promotional overlay](https://pin.fontofweb.com/5905?format=jpg)](https://fudge.design/share/pin-5905)
 
-[Collapsed sponsor banner revealing the orange Drawabox logo bar with LESSONS navigation and LOGIN button, showing the header anatomy and dark promotional overlay](https://design.withfudge.com/share/pin-5905)
+[Collapsed sponsor banner revealing the orange Drawabox logo bar with LESSONS navigation and LOGIN button, showing the header anatomy and dark promotional overlay](https://fudge.design/share/pin-5905)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Audio player cards should stack vertically on narrow screens, with the character
 ## Scope note
 
 This guide covers the lesson page surface and header components visible in the supplied images. The complete mobile breakpoint behavior, form interactions for homework submission, video player styling, and user account interfaces are not represented. Measurements are practical adaptation targets. The full color system beyond the nine tokens identified, extended animation behavior, and icon font implementation details would require additional reference material.
+
+## Related design patterns
+
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Orange hue](/share/designs-with-color.hue.orange)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top and side navigation](/share/designs-with-layout.shell.top_and_side)
+- [Documentation article](/share/designs-with-page.documentation.article)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

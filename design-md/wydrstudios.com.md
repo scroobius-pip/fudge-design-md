@@ -1,18 +1,18 @@
 # How wydrstudios.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wydrstudios.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wydrstudios.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Fall collection editorial section with layered product photography, brown panel with cream serif headline, and autumn leaf imagery showing wide-width boots and loafers](https://pin.fontofweb.com/2200?format=jpg)](https://design.withfudge.com/share/pin-2200)
+[![Fall collection editorial section with layered product photography, brown panel with cream serif headline, and autumn leaf imagery showing wide-width boots and loafers](https://pin.fontofweb.com/2200?format=jpg)](https://fudge.design/share/pin-2200)
 
-[Fall collection editorial section with layered product photography, brown panel with cream serif headline, and autumn leaf imagery showing wide-width boots and loafers](https://design.withfudge.com/share/pin-2200)
+[Fall collection editorial section with layered product photography, brown panel with cream serif headline, and autumn leaf imagery showing wide-width boots and loafers](https://fudge.design/share/pin-2200)
 
-[![Press testimonial quote in dark serif type with light gray quotation mark, followed by six publication logos in muted grayscale](https://pin.fontofweb.com/2199?format=jpg)](https://design.withfudge.com/share/pin-2199)
+[![Press testimonial quote in dark serif type with light gray quotation mark, followed by six publication logos in muted grayscale](https://pin.fontofweb.com/2199?format=jpg)](https://fudge.design/share/pin-2199)
 
-[Press testimonial quote in dark serif type with light gray quotation mark, followed by six publication logos in muted grayscale](https://design.withfudge.com/share/pin-2199)
+[Press testimonial quote in dark serif type with light gray quotation mark, followed by six publication logos in muted grayscale](https://fudge.design/share/pin-2199)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Photography layering with shadows and rotations requires careful testing on touc
 ## Scope note
 
 This guide covers the homepage editorial and credibility sections visible in the supplied imagery. Product detail pages, category listings, cart functionality, checkout flows, and mobile-specific layouts are not represented. Footer content, navigation dropdowns, and search interfaces are also outside the current scope. Measurements are practical adaptation targets derived from visual analysis of the desktop presentation.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Retail and ecommerce](/share/designs-with-industry.retail_ecommerce)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Unknown page role](/share/designs-with-page.unknown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

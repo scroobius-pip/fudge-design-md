@@ -1,26 +1,26 @@
 # How x.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/x.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/x.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Onboarding modal with email verification code entry over dark background with X logo watermark](https://pin.fontofweb.com/10071?format=jpg)](https://design.withfudge.com/share/pin-10071)
+[![Onboarding modal with email verification code entry over dark background with X logo watermark](https://pin.fontofweb.com/10071?format=jpg)](https://fudge.design/share/pin-10071)
 
-[Onboarding modal with email verification code entry over dark background with X logo watermark](https://design.withfudge.com/share/pin-10071)
+[Onboarding modal with email verification code entry over dark background with X logo watermark](https://fudge.design/share/pin-10071)
 
-[![Premium subscription pricing page with tier cards and monthly toggle switch](https://pin.fontofweb.com/9971?format=jpg)](https://design.withfudge.com/share/pin-9971)
+[![Premium subscription pricing page with tier cards and monthly toggle switch](https://pin.fontofweb.com/9971?format=jpg)](https://fudge.design/share/pin-9971)
 
-[Premium subscription pricing page with tier cards and monthly toggle switch](https://design.withfudge.com/share/pin-9971)
+[Premium subscription pricing page with tier cards and monthly toggle switch](https://fudge.design/share/pin-9971)
 
-[![Annual premium upgrade page showing detailed feature comparison between tiers](https://pin.fontofweb.com/7333?format=jpg)](https://design.withfudge.com/share/pin-7333)
+[![Annual premium upgrade page showing detailed feature comparison between tiers](https://pin.fontofweb.com/7333?format=jpg)](https://fudge.design/share/pin-7333)
 
-[Annual premium upgrade page showing detailed feature comparison between tiers](https://design.withfudge.com/share/pin-7333)
+[Annual premium upgrade page showing detailed feature comparison between tiers](https://fudge.design/share/pin-7333)
 
-[![Vertical navigation sidebar with icon-label pairs and pill-shaped Post button](https://pin.fontofweb.com/5046?format=jpg)](https://design.withfudge.com/share/pin-5046)
+[![Vertical navigation sidebar with icon-label pairs and pill-shaped Post button](https://pin.fontofweb.com/5046?format=jpg)](https://fudge.design/share/pin-5046)
 
-[Vertical navigation sidebar with icon-label pairs and pill-shaped Post button](https://design.withfudge.com/share/pin-5046)
+[Vertical navigation sidebar with icon-label pairs and pill-shaped Post button](https://fudge.design/share/pin-5046)
 
 ## Overview
 
@@ -183,3 +183,18 @@ Touch targets maintain minimum 44px height throughout, with navigation items exp
 ## Scope note
 
 This guide covers the onboarding, premium subscription, and navigation surfaces of X. It does not include the main timeline feed, individual post components, media handling, search results, profile pages, direct messaging interfaces, or Grok conversational UI. Motion design, loading states, and error handling patterns are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

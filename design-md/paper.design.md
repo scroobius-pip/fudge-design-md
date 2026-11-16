@@ -1,26 +1,26 @@
 # How paper.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/paper.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/paper.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Documentation page with left sidebar navigation, monospace section labels, and a dark technical diagram showing MCP server architecture with connected app icons.](https://pin.fontofweb.com/7126?format=jpg)](https://design.withfudge.com/share/pin-7126)
+[![Documentation page with left sidebar navigation, monospace section labels, and a dark technical diagram showing MCP server architecture with connected app icons.](https://pin.fontofweb.com/7126?format=jpg)](https://fudge.design/share/pin-7126)
 
-[Documentation page with left sidebar navigation, monospace section labels, and a dark technical diagram showing MCP server architecture with connected app icons.](https://design.withfudge.com/share/pin-7126)
+[Documentation page with left sidebar navigation, monospace section labels, and a dark technical diagram showing MCP server architecture with connected app icons.](https://fudge.design/share/pin-7126)
 
-[![Homepage section featuring Paper Roadmap heading with abstract geometric pixel art, followed by a two-column layout with filtered photography and build log announcements.](https://pin.fontofweb.com/7125?format=jpg)](https://design.withfudge.com/share/pin-7125)
+[![Homepage section featuring Paper Roadmap heading with abstract geometric pixel art, followed by a two-column layout with filtered photography and build log announcements.](https://pin.fontofweb.com/7125?format=jpg)](https://fudge.design/share/pin-7125)
 
-[Homepage section featuring Paper Roadmap heading with abstract geometric pixel art, followed by a two-column layout with filtered photography and build log announcements.](https://design.withfudge.com/share/pin-7125)
+[Homepage section featuring Paper Roadmap heading with abstract geometric pixel art, followed by a two-column layout with filtered photography and build log announcements.](https://fudge.design/share/pin-7125)
 
-[![Hero section with centered large display type reading the full-circle anti-slop workflow, a subtle curved line graphic, and a light download button on pure black.](https://pin.fontofweb.com/7124?format=jpg)](https://design.withfudge.com/share/pin-7124)
+[![Hero section with centered large display type reading the full-circle anti-slop workflow, a subtle curved line graphic, and a light download button on pure black.](https://pin.fontofweb.com/7124?format=jpg)](https://fudge.design/share/pin-7124)
 
-[Hero section with centered large display type reading the full-circle anti-slop workflow, a subtle curved line graphic, and a light download button on pure black.](https://design.withfudge.com/share/pin-7124)
+[Hero section with centered large display type reading the full-circle anti-slop workflow, a subtle curved line graphic, and a light download button on pure black.](https://fudge.design/share/pin-7124)
 
-[![Feature section showing connected to real content with a Paper Desktop application screenshot displaying a layered playlist interface with component tree navigation.](https://pin.fontofweb.com/7123?format=jpg)](https://design.withfudge.com/share/pin-7123)
+[![Feature section showing connected to real content with a Paper Desktop application screenshot displaying a layered playlist interface with component tree navigation.](https://pin.fontofweb.com/7123?format=jpg)](https://fudge.design/share/pin-7123)
 
-[Feature section showing connected to real content with a Paper Desktop application screenshot displaying a layered playlist interface with component tree navigation.](https://design.withfudge.com/share/pin-7123)
+[Feature section showing connected to real content with a Paper Desktop application screenshot displaying a layered playlist interface with component tree navigation.](https://fudge.design/share/pin-7123)
 
 ## Overview
 
@@ -202,3 +202,18 @@ The system presents a desktop-first organization. For narrower viewports, the do
 ## Scope note
 
 This guide covers the homepage, documentation, and pricing surfaces visible in the supplied images. Mobile breakpoints, animation behavior, form validation states, and the full code syntax highlighting specification are not included. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

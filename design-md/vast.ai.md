@@ -1,26 +1,26 @@
 # How vast.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vast.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/vast.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![GPU cloud product page showing dark canvas with serif hero typography, teal and orange GPU architecture bars, and six-column feature grid](https://pin.fontofweb.com/3980?format=jpg)](https://design.withfudge.com/share/pin-3980)
+[![GPU cloud product page showing dark canvas with serif hero typography, teal and orange GPU architecture bars, and six-column feature grid](https://pin.fontofweb.com/3980?format=jpg)](https://fudge.design/share/pin-3980)
 
-[GPU cloud product page showing dark canvas with serif hero typography, teal and orange GPU architecture bars, and six-column feature grid](https://design.withfudge.com/share/pin-3980)
+[GPU cloud product page showing dark canvas with serif hero typography, teal and orange GPU architecture bars, and six-column feature grid](https://fudge.design/share/pin-3980)
 
-[![Light gray footer with email subscription field, multi-column link navigation, and oversized white vast.ai wordmark watermark](https://pin.fontofweb.com/3979?format=jpg)](https://design.withfudge.com/share/pin-3979)
+[![Light gray footer with email subscription field, multi-column link navigation, and oversized white vast.ai wordmark watermark](https://pin.fontofweb.com/3979?format=jpg)](https://fudge.design/share/pin-3979)
 
-[Light gray footer with email subscription field, multi-column link navigation, and oversized white vast.ai wordmark watermark](https://design.withfudge.com/share/pin-3979)
+[Light gray footer with email subscription field, multi-column link navigation, and oversized white vast.ai wordmark watermark](https://fudge.design/share/pin-3979)
 
-[![Hero section with cinematic teal-orange landscape photography, white display headline, and blue pill-shaped Get Started button](https://pin.fontofweb.com/3978?format=jpg)](https://design.withfudge.com/share/pin-3978)
+[![Hero section with cinematic teal-orange landscape photography, white display headline, and blue pill-shaped Get Started button](https://pin.fontofweb.com/3978?format=jpg)](https://fudge.design/share/pin-3978)
 
-[Hero section with cinematic teal-orange landscape photography, white display headline, and blue pill-shaped Get Started button](https://design.withfudge.com/share/pin-3978)
+[Hero section with cinematic teal-orange landscape photography, white display headline, and blue pill-shaped Get Started button](https://fudge.design/share/pin-3978)
 
-[![Developer-focused section with dark background, serif headline, teal checkmark icons, and white onboarding card with blue glow](https://pin.fontofweb.com/3977?format=jpg)](https://design.withfudge.com/share/pin-3977)
+[![Developer-focused section with dark background, serif headline, teal checkmark icons, and white onboarding card with blue glow](https://pin.fontofweb.com/3977?format=jpg)](https://fudge.design/share/pin-3977)
 
-[Developer-focused section with dark background, serif headline, teal checkmark icons, and white onboarding card with blue glow](https://design.withfudge.com/share/pin-3977)
+[Developer-focused section with dark background, serif headline, teal checkmark icons, and white onboarding card with blue glow](https://fudge.design/share/pin-3977)
 
 ## Overview
 
@@ -167,3 +167,18 @@ Touch targets for pill buttons should maintain minimum 44px height. The onboardi
 ## Scope note
 
 This guide covers the Vast.ai marketing site homepage and GPU cloud product page as captured. Dashboard interfaces, pricing calculators, account flows, and mobile-specific layouts are not represented. Motion, hover states, and loading behavior are not documented. Measurements are practical adaptation targets derived from visual inspection of the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

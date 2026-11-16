@@ -1,18 +1,18 @@
 # How agentation.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/agentation.dev-design)
+[Open the live Fudge conversation](https://fudge.design/share/agentation.dev-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Collapsed mobile navigation showing logo, path breadcrumb, and vertical menu with NEW badge](https://pin.fontofweb.com/6235?format=jpg)](https://design.withfudge.com/share/pin-6235)
+[![Collapsed mobile navigation showing logo, path breadcrumb, and vertical menu with NEW badge](https://pin.fontofweb.com/6235?format=jpg)](https://fudge.design/share/pin-6235)
 
-[Collapsed mobile navigation showing logo, path breadcrumb, and vertical menu with NEW badge](https://design.withfudge.com/share/pin-6235)
+[Collapsed mobile navigation showing logo, path breadcrumb, and vertical menu with NEW badge](https://fudge.design/share/pin-6235)
 
-[![Full desktop documentation page with sidebar navigation, hero screenshot, and floating action bar](https://pin.fontofweb.com/6234?format=jpg)](https://design.withfudge.com/share/pin-6234)
+[![Full desktop documentation page with sidebar navigation, hero screenshot, and floating action bar](https://pin.fontofweb.com/6234?format=jpg)](https://fudge.design/share/pin-6234)
 
-[Full desktop documentation page with sidebar navigation, hero screenshot, and floating action bar](https://design.withfudge.com/share/pin-6234)
+[Full desktop documentation page with sidebar navigation, hero screenshot, and floating action bar](https://fudge.design/share/pin-6234)
 
 ## Overview
 
@@ -176,3 +176,18 @@ When implementing responsive behavior, maintain the monochrome palette and typog
 ## Scope note
 
 This guide covers the documentation landing and overview page of agentation.dev. Motion, hover states, focus styles, loading indicators, error pages, and additional marketing pages are not represented in the supplied material. The dark floating bars and annotation interfaces shown are product screenshots rather than live page components. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

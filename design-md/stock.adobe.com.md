@@ -1,26 +1,26 @@
 # How stock.adobe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/stock.adobe.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/stock.adobe.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark-themed account creation modal with email input, social sign-in buttons, and pricing summary panel showing 7-day free trial details.](https://pin.fontofweb.com/9842?format=jpg)](https://design.withfudge.com/share/pin-9842)
+[![Dark-themed account creation modal with email input, social sign-in buttons, and pricing summary panel showing 7-day free trial details.](https://pin.fontofweb.com/9842?format=jpg)](https://fudge.design/share/pin-9842)
 
-[Dark-themed account creation modal with email input, social sign-in buttons, and pricing summary panel showing 7-day free trial details.](https://design.withfudge.com/share/pin-9842)
+[Dark-themed account creation modal with email input, social sign-in buttons, and pricing summary panel showing 7-day free trial details.](https://fudge.design/share/pin-9842)
 
-[![Illustrations category page hero with warm brown gradient header and masonry grid of diverse stock illustration thumbnails.](https://pin.fontofweb.com/2089?format=jpg)](https://design.withfudge.com/share/pin-2089)
+[![Illustrations category page hero with warm brown gradient header and masonry grid of diverse stock illustration thumbnails.](https://pin.fontofweb.com/2089?format=jpg)](https://fudge.design/share/pin-2089)
 
-[Illustrations category page hero with warm brown gradient header and masonry grid of diverse stock illustration thumbnails.](https://design.withfudge.com/share/pin-2089)
+[Illustrations category page hero with warm brown gradient header and masonry grid of diverse stock illustration thumbnails.](https://fudge.design/share/pin-2089)
 
-[![Full-bleed green abstract hero banner with centered search bar for royalty-free stock illustrations discovery.](https://pin.fontofweb.com/2088?format=jpg)](https://design.withfudge.com/share/pin-2088)
+[![Full-bleed green abstract hero banner with centered search bar for royalty-free stock illustrations discovery.](https://pin.fontofweb.com/2088?format=jpg)](https://fudge.design/share/pin-2088)
 
-[Full-bleed green abstract hero banner with centered search bar for royalty-free stock illustrations discovery.](https://design.withfudge.com/share/pin-2088)
+[Full-bleed green abstract hero banner with centered search bar for royalty-free stock illustrations discovery.](https://fudge.design/share/pin-2088)
 
-[![Illustrations landing page with green hero, blue promotional banner, curated carousel, and large featured artwork cards.](https://pin.fontofweb.com/2087?format=jpg)](https://design.withfudge.com/share/pin-2087)
+[![Illustrations landing page with green hero, blue promotional banner, curated carousel, and large featured artwork cards.](https://pin.fontofweb.com/2087?format=jpg)](https://fudge.design/share/pin-2087)
 
-[Illustrations landing page with green hero, blue promotional banner, curated carousel, and large featured artwork cards.](https://design.withfudge.com/share/pin-2087)
+[Illustrations landing page with green hero, blue promotional banner, curated carousel, and large featured artwork cards.](https://fudge.design/share/pin-2087)
 
 ## Overview
 
@@ -212,3 +212,18 @@ Touch targets for buttons and links should maintain minimum 44px height on mobil
 ## Scope note
 
 This guide covers the account creation flow, illustration category browsing, and search discovery surfaces visible in the supplied materials. Pricing page layouts, mobile navigation patterns, footer structures, and video-specific interfaces are not represented. Motion design, loading states, and error handling patterns were not captured and should be developed with standard Adobe design system conventions. Applesystem, Times, Adobeclean-300, and Cl 3 Iskicons are named in the type system but their specific roles beyond fallback and icon duties were not fully determined from the captured surfaces.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

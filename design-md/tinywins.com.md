@@ -1,26 +1,26 @@
 # How tinywins.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tinywins.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/tinywins.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Approach page hero with blurred photographic background and white serif headline overlay](https://pin.fontofweb.com/9781?format=jpg)](https://design.withfudge.com/share/pin-9781)
+[![Approach page hero with blurred photographic background and white serif headline overlay](https://pin.fontofweb.com/9781?format=jpg)](https://fudge.design/share/pin-9781)
 
-[Approach page hero with blurred photographic background and white serif headline overlay](https://design.withfudge.com/share/pin-9781)
+[Approach page hero with blurred photographic background and white serif headline overlay](https://fudge.design/share/pin-9781)
 
-[![About page team roster with orange background and black serif names in two columns](https://pin.fontofweb.com/9780?format=jpg)](https://design.withfudge.com/share/pin-9780)
+[![About page team roster with orange background and black serif names in two columns](https://pin.fontofweb.com/9780?format=jpg)](https://fudge.design/share/pin-9780)
 
-[About page team roster with orange background and black serif names in two columns](https://design.withfudge.com/share/pin-9780)
+[About page team roster with orange background and black serif names in two columns](https://fudge.design/share/pin-9780)
 
-[![About page with navigation bar showing logo and menu items over orange team section](https://pin.fontofweb.com/9779?format=jpg)](https://design.withfudge.com/share/pin-9779)
+[![About page with navigation bar showing logo and menu items over orange team section](https://pin.fontofweb.com/9779?format=jpg)](https://fudge.design/share/pin-9779)
 
-[About page with navigation bar showing logo and menu items over orange team section](https://design.withfudge.com/share/pin-9779)
+[About page with navigation bar showing logo and menu items over orange team section](https://fudge.design/share/pin-9779)
 
-[![Homepage Shipyard section with blue background and white typography layout](https://pin.fontofweb.com/9778?format=jpg)](https://design.withfudge.com/share/pin-9778)
+[![Homepage Shipyard section with blue background and white typography layout](https://pin.fontofweb.com/9778?format=jpg)](https://fudge.design/share/pin-9778)
 
-[Homepage Shipyard section with blue background and white typography layout](https://design.withfudge.com/share/pin-9778)
+[Homepage Shipyard section with blue background and white typography layout](https://fudge.design/share/pin-9778)
 
 ## Overview
 
@@ -179,3 +179,18 @@ The system maintains its bold character across viewport sizes through proportion
 ## Scope note
 
 This guide covers the homepage, About page, and Approach page surfaces visible in the supplied images. Mobile layouts, hover states, form interactions, and project detail pages are not represented. The spacing and radius values reflect the exact measurements from the desktop interface.
+
+## Related design patterns
+
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Agency](/share/designs-with-offering.agency)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

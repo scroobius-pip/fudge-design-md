@@ -1,26 +1,26 @@
 # How ruda-bureau.pro is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ruda-bureau.pro-design)
+[Open the live Fudge conversation](https://fudge.design/share/ruda-bureau.pro-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark contact section with large gray headline, email, phone, outlined button, social links, and a white architectural photograph of an arched doorway with steps.](https://pin.fontofweb.com/1118?format=jpg)](https://design.withfudge.com/share/pin-1118)
+[![Dark contact section with large gray headline, email, phone, outlined button, social links, and a white architectural photograph of an arched doorway with steps.](https://pin.fontofweb.com/1118?format=jpg)](https://fudge.design/share/pin-1118)
 
-[Dark contact section with large gray headline, email, phone, outlined button, social links, and a white architectural photograph of an arched doorway with steps.](https://design.withfudge.com/share/pin-1118)
+[Dark contact section with large gray headline, email, phone, outlined button, social links, and a white architectural photograph of an arched doorway with steps.](https://fudge.design/share/pin-1118)
 
-[![Light about section with black-and-white team photograph, large dark heading, and two team member profiles with names, titles, and education details.](https://pin.fontofweb.com/1117?format=jpg)](https://design.withfudge.com/share/pin-1117)
+[![Light about section with black-and-white team photograph, large dark heading, and two team member profiles with names, titles, and education details.](https://pin.fontofweb.com/1117?format=jpg)](https://fudge.design/share/pin-1117)
 
-[Light about section with black-and-white team photograph, large dark heading, and two team member profiles with names, titles, and education details.](https://design.withfudge.com/share/pin-1117)
+[Light about section with black-and-white team photograph, large dark heading, and two team member profiles with names, titles, and education details.](https://fudge.design/share/pin-1117)
 
-[![White process section with four numbered steps in a two-column grid and a large 3D-rendered spiral staircase image on the right.](https://pin.fontofweb.com/1116?format=jpg)](https://design.withfudge.com/share/pin-1116)
+[![White process section with four numbered steps in a two-column grid and a large 3D-rendered spiral staircase image on the right.](https://pin.fontofweb.com/1116?format=jpg)](https://fudge.design/share/pin-1116)
 
-[White process section with four numbered steps in a two-column grid and a large 3D-rendered spiral staircase image on the right.](https://design.withfudge.com/share/pin-1116)
+[White process section with four numbered steps in a two-column grid and a large 3D-rendered spiral staircase image on the right.](https://fudge.design/share/pin-1116)
 
-[![Services section with dark panel containing gray heading and outlined button, plus an expandable service row with bullet points and pricing.](https://pin.fontofweb.com/1115?format=jpg)](https://design.withfudge.com/share/pin-1115)
+[![Services section with dark panel containing gray heading and outlined button, plus an expandable service row with bullet points and pricing.](https://pin.fontofweb.com/1115?format=jpg)](https://fudge.design/share/pin-1115)
 
-[Services section with dark panel containing gray heading and outlined button, plus an expandable service row with bullet points and pricing.](https://design.withfudge.com/share/pin-1115)
+[Services section with dark panel containing gray heading and outlined button, plus an expandable service row with bullet points and pricing.](https://fudge.design/share/pin-1115)
 
 ## Overview
 
@@ -163,3 +163,18 @@ The desktop layouts visible in the source material employ a generous viewport wi
 ## Scope note
 
 This guide covers the landing page surface of ruda-bureau.pro, including the about, process, services, and contact sections. Navigation behavior, footer content, additional interior pages, mobile-specific layouts, hover and focus states, form validation, and loading sequences are not represented in the available material. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Agency](/share/designs-with-offering.agency)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

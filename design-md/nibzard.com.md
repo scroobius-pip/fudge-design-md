@@ -1,18 +1,18 @@
 # How nibzard.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nibzard.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/nibzard.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with four-column link grid, AI summary request prompt, and social platform icons in monochrome](https://pin.fontofweb.com/5950?format=jpg)](https://design.withfudge.com/share/pin-5950)
+[![Footer section with four-column link grid, AI summary request prompt, and social platform icons in monochrome](https://pin.fontofweb.com/5950?format=jpg)](https://fudge.design/share/pin-5950)
 
-[Footer section with four-column link grid, AI summary request prompt, and social platform icons in monochrome](https://design.withfudge.com/share/pin-5950)
+[Footer section with four-column link grid, AI summary request prompt, and social platform icons in monochrome](https://fudge.design/share/pin-5950)
 
-[![Homepage header with Nikola Balic wordmark, navigation, and multi-column article grid with colored left borders and category tags](https://pin.fontofweb.com/5949?format=jpg)](https://design.withfudge.com/share/pin-5949)
+[![Homepage header with Nikola Balic wordmark, navigation, and multi-column article grid with colored left borders and category tags](https://pin.fontofweb.com/5949?format=jpg)](https://fudge.design/share/pin-5949)
 
-[Homepage header with Nikola Balic wordmark, navigation, and multi-column article grid with colored left borders and category tags](https://design.withfudge.com/share/pin-5949)
+[Homepage header with Nikola Balic wordmark, navigation, and multi-column article grid with colored left borders and category tags](https://fudge.design/share/pin-5949)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The centered content container should maintain horizontal padding at all sizes, 
 ## Scope note
 
 This guide covers the homepage and footer surfaces visible in the supplied images. Interior article pages, mobile-specific layouts, hover and focus states, dark mode, and any animation or interaction patterns are not represented. The spacing and radius scales are derived from visible proportions against the 4px relative unit; exact measurements should be verified during implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Personal](/share/designs-with-industry.personal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

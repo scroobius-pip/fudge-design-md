@@ -1,26 +1,26 @@
 # How pinata.cloud is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/pinata.cloud-design)
+[Open the live Fudge conversation](https://fudge.design/share/pinata.cloud-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer with rounded purple panel, Pinata logo, social icons, and multi-column link grid on dark background](https://pin.fontofweb.com/4478?format=jpg)](https://design.withfudge.com/share/pin-4478)
+[![Footer with rounded purple panel, Pinata logo, social icons, and multi-column link grid on dark background](https://pin.fontofweb.com/4478?format=jpg)](https://fudge.design/share/pin-4478)
 
-[Footer with rounded purple panel, Pinata logo, social icons, and multi-column link grid on dark background](https://design.withfudge.com/share/pin-4478)
+[Footer with rounded purple panel, Pinata logo, social icons, and multi-column link grid on dark background](https://fudge.design/share/pin-4478)
 
-[![Hero section with bold display headline, colorful piñata mascot, checkmark feature list, and pill-shaped CTA buttons on dark background](https://pin.fontofweb.com/4477?format=jpg)](https://design.withfudge.com/share/pin-4477)
+[![Hero section with bold display headline, colorful piñata mascot, checkmark feature list, and pill-shaped CTA buttons on dark background](https://pin.fontofweb.com/4477?format=jpg)](https://fudge.design/share/pin-4477)
 
-[Hero section with bold display headline, colorful piñata mascot, checkmark feature list, and pill-shaped CTA buttons on dark background](https://design.withfudge.com/share/pin-4477)
+[Hero section with bold display headline, colorful piñata mascot, checkmark feature list, and pill-shaped CTA buttons on dark background](https://fudge.design/share/pin-4477)
 
-[![Developer testimonials in code-block cards with syntax highlighting, company logos, and dark rounded surfaces](https://pin.fontofweb.com/4476?format=jpg)](https://design.withfudge.com/share/pin-4476)
+[![Developer testimonials in code-block cards with syntax highlighting, company logos, and dark rounded surfaces](https://pin.fontofweb.com/4476?format=jpg)](https://fudge.design/share/pin-4476)
 
-[Developer testimonials in code-block cards with syntax highlighting, company logos, and dark rounded surfaces](https://design.withfudge.com/share/pin-4476)
+[Developer testimonials in code-block cards with syntax highlighting, company logos, and dark rounded surfaces](https://fudge.design/share/pin-4476)
 
-[![Blog section with vibrant abstract artwork, light content cards, orange pill buttons, and category labels](https://pin.fontofweb.com/4475?format=jpg)](https://design.withfudge.com/share/pin-4475)
+[![Blog section with vibrant abstract artwork, light content cards, orange pill buttons, and category labels](https://pin.fontofweb.com/4475?format=jpg)](https://fudge.design/share/pin-4475)
 
-[Blog section with vibrant abstract artwork, light content cards, orange pill buttons, and category labels](https://design.withfudge.com/share/pin-4475)
+[Blog section with vibrant abstract artwork, light content cards, orange pill buttons, and category labels](https://fudge.design/share/pin-4475)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Touch targets for buttons should maintain minimum 44px height. Code blocks in te
 ## Scope note
 
 This guide covers the Pinata marketing homepage visible in the supplied images, including hero, testimonials, blog preview, and footer sections. Navigation header, interior pages, dashboard interfaces, pricing tables, and mobile-specific layouts are not represented. Motion, hover states, loading sequences, and form interactions are not documented. Measurements are practical adaptation targets derived from visual inspection.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

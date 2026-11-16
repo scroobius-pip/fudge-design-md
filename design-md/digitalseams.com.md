@@ -1,18 +1,18 @@
 # How digitalseams.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/digitalseams.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/digitalseams.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage showing three-column article grid with pale blue header, serif titles, and date labels above each post card](https://pin.fontofweb.com/5764?format=jpg)](https://design.withfudge.com/share/pin-5764)
+[![Homepage showing three-column article grid with pale blue header, serif titles, and date labels above each post card](https://pin.fontofweb.com/5764?format=jpg)](https://fudge.design/share/pin-5764)
 
-[Homepage showing three-column article grid with pale blue header, serif titles, and date labels above each post card](https://design.withfudge.com/share/pin-5764)
+[Homepage showing three-column article grid with pale blue header, serif titles, and date labels above each post card](https://fudge.design/share/pin-5764)
 
-[![Homepage alternate view with identical grid structure showing longer article titles and consistent muted color palette](https://pin.fontofweb.com/5763?format=jpg)](https://design.withfudge.com/share/pin-5763)
+[![Homepage alternate view with identical grid structure showing longer article titles and consistent muted color palette](https://pin.fontofweb.com/5763?format=jpg)](https://fudge.design/share/pin-5763)
 
-[Homepage alternate view with identical grid structure showing longer article titles and consistent muted color palette](https://design.withfudge.com/share/pin-5763)
+[Homepage alternate view with identical grid structure showing longer article titles and consistent muted color palette](https://fudge.design/share/pin-5763)
 
 ## Overview
 
@@ -137,3 +137,18 @@ Font sizes should remain fixed rather than scaling with viewport, preserving the
 ## Scope note
 
 This guide covers the homepage grid and header of Digital Seams. Article pages, about page content, and any interactive states beyond the visible active navigation underline are not represented. Measurements are practical adaptation targets. No mobile, tablet, or breakpoint-specific layouts were available for analysis. Motion, loading states, form elements, and search functionality are outside the scope of this guide.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Personal](/share/designs-with-industry.personal)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How firehose.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/firehose.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/firehose.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with centered serif headline, pill-shaped CTA buttons, and abstract red-orange blob decorations in corners](https://pin.fontofweb.com/10675?format=jpg)](https://design.withfudge.com/share/pin-10675)
+[![Dark hero section with centered serif headline, pill-shaped CTA buttons, and abstract red-orange blob decorations in corners](https://pin.fontofweb.com/10675?format=jpg)](https://fudge.design/share/pin-10675)
 
-[Dark hero section with centered serif headline, pill-shaped CTA buttons, and abstract red-orange blob decorations in corners](https://design.withfudge.com/share/pin-10675)
+[Dark hero section with centered serif headline, pill-shaped CTA buttons, and abstract red-orange blob decorations in corners](https://fudge.design/share/pin-10675)
 
-[![Dark feature section with three-column layout showing human, code, and agent use cases with red accent labels and central abstract shape](https://pin.fontofweb.com/10674?format=jpg)](https://design.withfudge.com/share/pin-10674)
+[![Dark feature section with three-column layout showing human, code, and agent use cases with red accent labels and central abstract shape](https://pin.fontofweb.com/10674?format=jpg)](https://fudge.design/share/pin-10674)
 
-[Dark feature section with three-column layout showing human, code, and agent use cases with red accent labels and central abstract shape](https://design.withfudge.com/share/pin-10674)
+[Dark feature section with three-column layout showing human, code, and agent use cases with red accent labels and central abstract shape](https://fudge.design/share/pin-10674)
 
-[![Light feature section with search query card, results list with red indicators, and serif heading on gray background with red blob accents](https://pin.fontofweb.com/10673?format=jpg)](https://design.withfudge.com/share/pin-10673)
+[![Light feature section with search query card, results list with red indicators, and serif heading on gray background with red blob accents](https://pin.fontofweb.com/10673?format=jpg)](https://fudge.design/share/pin-10673)
 
-[Light feature section with search query card, results list with red indicators, and serif heading on gray background with red blob accents](https://design.withfudge.com/share/pin-10673)
+[Light feature section with search query card, results list with red indicators, and serif heading on gray background with red blob accents](https://fudge.design/share/pin-10673)
 
 ## Overview
 
@@ -182,3 +182,18 @@ The design appears optimized for desktop viewport widths. The three-column featu
 ## Scope note
 
 This guide covers the Firehose marketing landing page as captured: hero section, feature explanation blocks, search demonstration, and footer. Pricing pages, documentation, authenticated dashboard interfaces, and mobile-specific layouts are not represented. Motion behavior for the decorative blobs and any interactive hover states were not captured in still images. Measurements are derived from the supplied design facts and rounded to practical implementation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Light mode](/share/designs-with-color.mode.light)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

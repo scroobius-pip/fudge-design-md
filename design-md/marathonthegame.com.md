@@ -1,26 +1,26 @@
 # How marathonthegame.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/marathonthegame.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/marathonthegame.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Italian homepage hero with neon lime sidebar, alien face video backdrop, and platform purchase bar](https://pin.fontofweb.com/7792?format=jpg)](https://design.withfudge.com/share/pin-7792)
+[![Italian homepage hero with neon lime sidebar, alien face video backdrop, and platform purchase bar](https://pin.fontofweb.com/7792?format=jpg)](https://fudge.design/share/pin-7792)
 
-[Italian homepage hero with neon lime sidebar, alien face video backdrop, and platform purchase bar](https://design.withfudge.com/share/pin-7792)
+[Italian homepage hero with neon lime sidebar, alien face video backdrop, and platform purchase bar](https://fudge.design/share/pin-7792)
 
-[![Footer grid with social media links, legal navigation, diagonal hazard stripes, and ESRB rating](https://pin.fontofweb.com/6564?format=jpg)](https://design.withfudge.com/share/pin-6564)
+[![Footer grid with social media links, legal navigation, diagonal hazard stripes, and ESRB rating](https://pin.fontofweb.com/6564?format=jpg)](https://fudge.design/share/pin-6564)
 
-[Footer grid with social media links, legal navigation, diagonal hazard stripes, and ESRB rating](https://design.withfudge.com/share/pin-6564)
+[Footer grid with social media links, legal navigation, diagonal hazard stripes, and ESRB rating](https://fudge.design/share/pin-6564)
 
-[![Atmospheric hero section with purple planet, UESC facility, and dark info card with lime accent](https://pin.fontofweb.com/6563?format=jpg)](https://design.withfudge.com/share/pin-6563)
+[![Atmospheric hero section with purple planet, UESC facility, and dark info card with lime accent](https://pin.fontofweb.com/6563?format=jpg)](https://fudge.design/share/pin-6563)
 
-[Atmospheric hero section with purple planet, UESC facility, and dark info card with lime accent](https://design.withfudge.com/share/pin-6563)
+[Atmospheric hero section with purple planet, UESC facility, and dark info card with lime accent](https://fudge.design/share/pin-6563)
 
-[![Large display typography reading FROM THE CREATORS OF HALO AND DESTINY with split content layout](https://pin.fontofweb.com/6562?format=jpg)](https://design.withfudge.com/share/pin-6562)
+[![Large display typography reading FROM THE CREATORS OF HALO AND DESTINY with split content layout](https://pin.fontofweb.com/6562?format=jpg)](https://fudge.design/share/pin-6562)
 
-[Large display typography reading FROM THE CREATORS OF HALO AND DESTINY with split content layout](https://design.withfudge.com/share/pin-6562)
+[Large display typography reading FROM THE CREATORS OF HALO AND DESTINY with split content layout](https://fudge.design/share/pin-6562)
 
 ## Overview
 
@@ -190,3 +190,18 @@ Touch targets for buttons and links should maintain minimum 44px height even as 
 ## Scope note
 
 This guide covers the Marathon homepage and its primary marketing surfaces. Interior pages, checkout flows, account dashboards, and game-specific UI are not represented. Motion design, video behavior, and responsive breakpoints below desktop width are not documented. At Open Sans and Shapiro-55 Middle are present in the source but do not appear in visible interface elements in the supplied images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Home page](/share/designs-with-page.marketing.home)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

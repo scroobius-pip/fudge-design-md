@@ -1,22 +1,22 @@
 # How mcsweeneys.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mcsweeneys.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/mcsweeneys.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Article page header with McSweeney's logo, navigation bar, yellow promotional banner, and centered article title with social sharing icons](https://pin.fontofweb.com/4165?format=jpg)](https://design.withfudge.com/share/pin-4165)
+[![Article page header with McSweeney's logo, navigation bar, yellow promotional banner, and centered article title with social sharing icons](https://pin.fontofweb.com/4165?format=jpg)](https://fudge.design/share/pin-4165)
 
-[Article page header with McSweeney's logo, navigation bar, yellow promotional banner, and centered article title with social sharing icons](https://design.withfudge.com/share/pin-4165)
+[Article page header with McSweeney's logo, navigation bar, yellow promotional banner, and centered article title with social sharing icons](https://fudge.design/share/pin-4165)
 
-[![Footer section with italic body text, blue hyperlinks, multi-column navigation links, and small chair logo with copyright notice](https://pin.fontofweb.com/4164?format=jpg)](https://design.withfudge.com/share/pin-4164)
+[![Footer section with italic body text, blue hyperlinks, multi-column navigation links, and small chair logo with copyright notice](https://pin.fontofweb.com/4164?format=jpg)](https://fudge.design/share/pin-4164)
 
-[Footer section with italic body text, blue hyperlinks, multi-column navigation links, and small chair logo with copyright notice](https://design.withfudge.com/share/pin-4164)
+[Footer section with italic body text, blue hyperlinks, multi-column navigation links, and small chair logo with copyright notice](https://fudge.design/share/pin-4164)
 
-[![Article body with italic text and underlined links, plus purple promotional banner with gold italic text and circular subscription seal](https://pin.fontofweb.com/4163?format=jpg)](https://design.withfudge.com/share/pin-4163)
+[![Article body with italic text and underlined links, plus purple promotional banner with gold italic text and circular subscription seal](https://pin.fontofweb.com/4163?format=jpg)](https://fudge.design/share/pin-4163)
 
-[Article body with italic text and underlined links, plus purple promotional banner with gold italic text and circular subscription seal](https://design.withfudge.com/share/pin-4163)
+[Article body with italic text and underlined links, plus purple promotional banner with gold italic text and circular subscription seal](https://fudge.design/share/pin-4163)
 
 ## Overview
 
@@ -149,3 +149,18 @@ The narrow content column suggests the design was conceived for comfortable read
 ## Scope note
 
 This guide covers the article page and promotional surfaces visible in the supplied images. Navigation dropdown states, search functionality, subscription forms, and e-commerce flows are not represented. Measurements are practical adaptation targets. The McSweeney's Quarterly Concern and Books Division sub-brands, along with their distinct visual systems, fall outside this scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

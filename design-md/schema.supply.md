@@ -1,26 +1,26 @@
 # How schema.supply is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/schema.supply-design)
+[Open the live Fudge conversation](https://fudge.design/share/schema.supply-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Store page with masonry grid of product cards showing device mockups, editorial image sets, and portfolio templates with italic serif navigation](https://pin.fontofweb.com/3428?format=jpg)](https://design.withfudge.com/share/pin-3428)
+[![Store page with masonry grid of product cards showing device mockups, editorial image sets, and portfolio templates with italic serif navigation](https://pin.fontofweb.com/3428?format=jpg)](https://fudge.design/share/pin-3428)
 
-[Store page with masonry grid of product cards showing device mockups, editorial image sets, and portfolio templates with italic serif navigation](https://design.withfudge.com/share/pin-3428)
+[Store page with masonry grid of product cards showing device mockups, editorial image sets, and portfolio templates with italic serif navigation](https://fudge.design/share/pin-3428)
 
-[![Product detail page for Image Set 06 with grid of 20 editorial portrait thumbnails, purchase button, and arrow feature list](https://pin.fontofweb.com/3429?format=jpg)](https://design.withfudge.com/share/pin-3429)
+[![Product detail page for Image Set 06 with grid of 20 editorial portrait thumbnails, purchase button, and arrow feature list](https://pin.fontofweb.com/3429?format=jpg)](https://fudge.design/share/pin-3429)
 
-[Product detail page for Image Set 06 with grid of 20 editorial portrait thumbnails, purchase button, and arrow feature list](https://design.withfudge.com/share/pin-3429)
+[Product detail page for Image Set 06 with grid of 20 editorial portrait thumbnails, purchase button, and arrow feature list](https://fudge.design/share/pin-3429)
 
-[![Subscription pricing page with three-tier card layout showing quarterly, annual, and lifetime plans with checkmark feature lists](https://pin.fontofweb.com/3427?format=jpg)](https://design.withfudge.com/share/pin-3427)
+[![Subscription pricing page with three-tier card layout showing quarterly, annual, and lifetime plans with checkmark feature lists](https://pin.fontofweb.com/3427?format=jpg)](https://fudge.design/share/pin-3427)
 
-[Subscription pricing page with three-tier card layout showing quarterly, annual, and lifetime plans with checkmark feature lists](https://design.withfudge.com/share/pin-3427)
+[Subscription pricing page with three-tier card layout showing quarterly, annual, and lifetime plans with checkmark feature lists](https://fudge.design/share/pin-3427)
 
-[![Collection page hero with large serif body text and browser mockup showing dashboard interface with centered login state](https://pin.fontofweb.com/3426?format=jpg)](https://design.withfudge.com/share/pin-3426)
+[![Collection page hero with large serif body text and browser mockup showing dashboard interface with centered login state](https://pin.fontofweb.com/3426?format=jpg)](https://fudge.design/share/pin-3426)
 
-[Collection page hero with large serif body text and browser mockup showing dashboard interface with centered login state](https://design.withfudge.com/share/pin-3426)
+[Collection page hero with large serif body text and browser mockup showing dashboard interface with centered login state](https://fudge.design/share/pin-3426)
 
 ## Overview
 
@@ -164,3 +164,18 @@ Navigation should collapse to a minimal menu or hamburger on mobile, preserving 
 ## Scope note
 
 This guide covers the store index, product detail, subscription pricing, and collection overview surfaces visible in the supplied images. Measurements are practical adaptation targets. Mobile breakpoints, hover states, loading skeletons, checkout flow, and dark mode are not represented and should be designed to extend the established visual language.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

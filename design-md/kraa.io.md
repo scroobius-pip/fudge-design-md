@@ -1,26 +1,26 @@
 # How kraa.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kraa.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/kraa.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![User profile settings panel with email verification flow on light gray canvas background](https://pin.fontofweb.com/9874?format=jpg)](https://design.withfudge.com/share/pin-9874)
+[![User profile settings panel with email verification flow on light gray canvas background](https://pin.fontofweb.com/9874?format=jpg)](https://fudge.design/share/pin-9874)
 
-[User profile settings panel with email verification flow on light gray canvas background](https://design.withfudge.com/share/pin-9874)
+[User profile settings panel with email verification flow on light gray canvas background](https://fudge.design/share/pin-9874)
 
-[![Large editorial heading with body text and bullet list on off-white background](https://pin.fontofweb.com/9657?format=jpg)](https://design.withfudge.com/share/pin-9657)
+[![Large editorial heading with body text and bullet list on off-white background](https://pin.fontofweb.com/9657?format=jpg)](https://fudge.design/share/pin-9657)
 
-[Large editorial heading with body text and bullet list on off-white background](https://design.withfudge.com/share/pin-9657)
+[Large editorial heading with body text and bullet list on off-white background](https://fudge.design/share/pin-9657)
 
-[![Collapsed user profile card with avatar, color picker, and password field](https://pin.fontofweb.com/9615?format=jpg)](https://design.withfudge.com/share/pin-9615)
+[![Collapsed user profile card with avatar, color picker, and password field](https://pin.fontofweb.com/9615?format=jpg)](https://fudge.design/share/pin-9615)
 
-[Collapsed user profile card with avatar, color picker, and password field](https://design.withfudge.com/share/pin-9615)
+[Collapsed user profile card with avatar, color picker, and password field](https://fudge.design/share/pin-9615)
 
-[![Document sharing dropdown with invite button and permission roles list](https://pin.fontofweb.com/9614?format=jpg)](https://design.withfudge.com/share/pin-9614)
+[![Document sharing dropdown with invite button and permission roles list](https://pin.fontofweb.com/9614?format=jpg)](https://fudge.design/share/pin-9614)
 
-[Document sharing dropdown with invite button and permission roles list](https://design.withfudge.com/share/pin-9614)
+[Document sharing dropdown with invite button and permission roles list](https://fudge.design/share/pin-9614)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Dark mode toggling appears to be user-controlled rather than system-preference b
 ## Scope note
 
 This guide covers the light-mode workspace, profile management panels, editorial content pages, and sharing interfaces visible in the supplied images. Dark mode pages, motion behavior, mobile layouts, and additional interactive states such as loading or error conditions are not fully represented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

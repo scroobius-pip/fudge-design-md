@@ -1,18 +1,18 @@
 # How buildkite.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/buildkite.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/buildkite.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with ASCII-art butterfly, terminal-style navigation, and command prompt interface on deep navy canvas](https://pin.fontofweb.com/5480?format=jpg)](https://design.withfudge.com/share/pin-5480)
+[![Homepage hero with ASCII-art butterfly, terminal-style navigation, and command prompt interface on deep navy canvas](https://pin.fontofweb.com/5480?format=jpg)](https://fudge.design/share/pin-5480)
 
-[Homepage hero with ASCII-art butterfly, terminal-style navigation, and command prompt interface on deep navy canvas](https://design.withfudge.com/share/pin-5480)
+[Homepage hero with ASCII-art butterfly, terminal-style navigation, and command prompt interface on deep navy canvas](https://fudge.design/share/pin-5480)
 
-[![Capabilities page with section headings, dotted dividers, inline docs links, and terminal footer with build statistics](https://pin.fontofweb.com/5481?format=jpg)](https://design.withfudge.com/share/pin-5481)
+[![Capabilities page with section headings, dotted dividers, inline docs links, and terminal footer with build statistics](https://pin.fontofweb.com/5481?format=jpg)](https://fudge.design/share/pin-5481)
 
-[Capabilities page with section headings, dotted dividers, inline docs links, and terminal footer with build statistics](https://design.withfudge.com/share/pin-5481)
+[Capabilities page with section headings, dotted dividers, inline docs links, and terminal footer with build statistics](https://fudge.design/share/pin-5481)
 
 ## Overview
 
@@ -155,3 +155,18 @@ Line lengths for body text should remain constrained—monospace fonts at full v
 ## Scope note
 
 This guide covers the homepage and capabilities page surfaces visible in the supplied images. The design system appears to operate as a dark-mode-only terminal aesthetic with no light variant shown. Measurements are practical adaptation targets. Mobile layouts, interactive states beyond static presentation, form components, and animation behavior are not represented in the available material. The exact font family is unspecified in the source; implementers should select a suitable monospace stack and verify licensing before production use.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

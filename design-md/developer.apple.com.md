@@ -1,18 +1,18 @@
 # How developer.apple.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/developer.apple.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/developer.apple.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Apple Developer Program hero banner with purple gradient background, white iconography, and dark footer with multi-column navigation links](https://pin.fontofweb.com/1796?format=jpg)](https://design.withfudge.com/share/pin-1796)
+[![Apple Developer Program hero banner with purple gradient background, white iconography, and dark footer with multi-column navigation links](https://pin.fontofweb.com/1796?format=jpg)](https://fudge.design/share/pin-1796)
 
-[Apple Developer Program hero banner with purple gradient background, white iconography, and dark footer with multi-column navigation links](https://design.withfudge.com/share/pin-1796)
+[Apple Developer Program hero banner with purple gradient background, white iconography, and dark footer with multi-column navigation links](https://fudge.design/share/pin-1796)
 
-[![Get started with Pathways section featuring deep blue background, white headline, and two rows of light blue platform icons](https://pin.fontofweb.com/1795?format=jpg)](https://design.withfudge.com/share/pin-1795)
+[![Get started with Pathways section featuring deep blue background, white headline, and two rows of light blue platform icons](https://pin.fontofweb.com/1795?format=jpg)](https://fudge.design/share/pin-1795)
 
-[Get started with Pathways section featuring deep blue background, white headline, and two rows of light blue platform icons](https://design.withfudge.com/share/pin-1795)
+[Get started with Pathways section featuring deep blue background, white headline, and two rows of light blue platform icons](https://fudge.design/share/pin-1795)
 
 ## Overview
 
@@ -158,3 +158,18 @@ Pathways icon grid should reduce from fourteen items across to seven per row on 
 ## Scope note
 
 This guide covers the Apple Developer portal homepage visible in the supplied images, including hero banners, icon action grids, the Pathways discovery section, and footer navigation. Navigation bar, search functionality, interior documentation pages, and interactive states such as dropdown menus or modal dialogs are not represented. Measurements are practical adaptation targets derived from visible proportions rather than extracted specifications.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How vemula.me is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vemula.me-design)
+[Open the live Fudge conversation](https://fudge.design/share/vemula.me-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large serif headline, avatar inline with text, status indicator, and colorful project card strip at bottom](https://pin.fontofweb.com/4328?format=jpg)](https://design.withfudge.com/share/pin-4328)
+[![Hero section with large serif headline, avatar inline with text, status indicator, and colorful project card strip at bottom](https://pin.fontofweb.com/4328?format=jpg)](https://fudge.design/share/pin-4328)
 
-[Hero section with large serif headline, avatar inline with text, status indicator, and colorful project card strip at bottom](https://design.withfudge.com/share/pin-4328)
+[Hero section with large serif headline, avatar inline with text, status indicator, and colorful project card strip at bottom](https://fudge.design/share/pin-4328)
 
-[![Same hero layout showing full project card strip with cyan, dark teal, black, red, cream, orange, pink, blue, yellow, and gray cards](https://pin.fontofweb.com/4327?format=jpg)](https://design.withfudge.com/share/pin-4327)
+[![Same hero layout showing full project card strip with cyan, dark teal, black, red, cream, orange, pink, blue, yellow, and gray cards](https://pin.fontofweb.com/4327?format=jpg)](https://fudge.design/share/pin-4327)
 
-[Same hero layout showing full project card strip with cyan, dark teal, black, red, cream, orange, pink, blue, yellow, and gray cards](https://design.withfudge.com/share/pin-4327)
+[Same hero layout showing full project card strip with cyan, dark teal, black, red, cream, orange, pink, blue, yellow, and gray cards](https://fudge.design/share/pin-4327)
 
 ## Overview
 
@@ -137,3 +137,18 @@ The horizontal card strip should scroll horizontally on narrow viewports or refl
 ## Scope note
 
 This guide covers the homepage hero and project strip as visible in the supplied images. Navigation, interior pages, project detail views, contact forms, and footer content are not represented. Measurements are practical adaptation targets. Hover states, loading behavior, and mobile-specific layouts are not documented from the available material.
+
+## Related design patterns
+
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+- [Cyan hue](/share/designs-with-color.hue.cyan)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Personal](/share/designs-with-industry.personal)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

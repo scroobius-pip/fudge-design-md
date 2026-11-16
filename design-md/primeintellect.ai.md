@@ -1,26 +1,26 @@
 # How primeintellect.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/primeintellect.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/primeintellect.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dotted halftone hero text reading Be your own Lab, navigation columns, and START TRAINING button](https://pin.fontofweb.com/9967?format=jpg)](https://design.withfudge.com/share/pin-9967)
+[![Footer section with dotted halftone hero text reading Be your own Lab, navigation columns, and START TRAINING button](https://pin.fontofweb.com/9967?format=jpg)](https://fudge.design/share/pin-9967)
 
-[Footer section with dotted halftone hero text reading Be your own Lab, navigation columns, and START TRAINING button](https://design.withfudge.com/share/pin-9967)
+[Footer section with dotted halftone hero text reading Be your own Lab, navigation columns, and START TRAINING button](https://fudge.design/share/pin-9967)
 
-[![Hiring section with mosaic grid of team avatars and JOIN US button on dark background](https://pin.fontofweb.com/9966?format=jpg)](https://design.withfudge.com/share/pin-9966)
+[![Hiring section with mosaic grid of team avatars and JOIN US button on dark background](https://pin.fontofweb.com/9966?format=jpg)](https://fudge.design/share/pin-9966)
 
-[Hiring section with mosaic grid of team avatars and JOIN US button on dark background](https://design.withfudge.com/share/pin-9966)
+[Hiring section with mosaic grid of team avatars and JOIN US button on dark background](https://fudge.design/share/pin-9966)
 
-[![Zapier case study page with hero banner, statistics row, and sidebar with highlighted features](https://pin.fontofweb.com/9965?format=jpg)](https://design.withfudge.com/share/pin-9965)
+[![Zapier case study page with hero banner, statistics row, and sidebar with highlighted features](https://pin.fontofweb.com/9965?format=jpg)](https://fudge.design/share/pin-9965)
 
-[Zapier case study page with hero banner, statistics row, and sidebar with highlighted features](https://design.withfudge.com/share/pin-9965)
+[Zapier case study page with hero banner, statistics row, and sidebar with highlighted features](https://fudge.design/share/pin-9965)
 
-[![Latest Research section with three research cards featuring green-tinted abstract imagery and dates](https://pin.fontofweb.com/9964?format=jpg)](https://design.withfudge.com/share/pin-9964)
+[![Latest Research section with three research cards featuring green-tinted abstract imagery and dates](https://pin.fontofweb.com/9964?format=jpg)](https://fudge.design/share/pin-9964)
 
-[Latest Research section with three research cards featuring green-tinted abstract imagery and dates](https://design.withfudge.com/share/pin-9964)
+[Latest Research section with three research cards featuring green-tinted abstract imagery and dates](https://fudge.design/share/pin-9964)
 
 ## Overview
 
@@ -215,3 +215,18 @@ Touch targets for buttons and links should maintain minimum 44px height even as 
 ## Scope note
 
 This guide covers the homepage, case study page, and shared navigation/footer patterns visible in the supplied images. Mobile layouts, form interactions, loading states, and animation specifications are not included. The IBM Plex Sans typeface appears in case study subheadings but its full role in the system is not fully characterized. Applesystem and System-Uisansserif are detected system fallback families that do not require additional licensing.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Developer API](/share/designs-with-capability.developer_api)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

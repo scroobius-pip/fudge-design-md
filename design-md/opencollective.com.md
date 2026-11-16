@@ -1,22 +1,22 @@
 # How opencollective.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/opencollective.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/opencollective.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with pink watercolor background, newsletter subscription cards, and multi-column navigation links with social icons](https://pin.fontofweb.com/6777?format=jpg)](https://design.withfudge.com/share/pin-6777)
+[![Footer section with pink watercolor background, newsletter subscription cards, and multi-column navigation links with social icons](https://pin.fontofweb.com/6777?format=jpg)](https://fudge.design/share/pin-6777)
 
-[Footer section with pink watercolor background, newsletter subscription cards, and multi-column navigation links with social icons](https://design.withfudge.com/share/pin-6777)
+[Footer section with pink watercolor background, newsletter subscription cards, and multi-column navigation links with social icons](https://fudge.design/share/pin-6777)
 
-[![Dark navy network visualization with Fiscal Hosts statistics and connected collective logos in circular nodes](https://pin.fontofweb.com/6776?format=jpg)](https://design.withfudge.com/share/pin-6776)
+[![Dark navy network visualization with Fiscal Hosts statistics and connected collective logos in circular nodes](https://pin.fontofweb.com/6776?format=jpg)](https://fudge.design/share/pin-6776)
 
-[Dark navy network visualization with Fiscal Hosts statistics and connected collective logos in circular nodes](https://design.withfudge.com/share/pin-6776)
+[Dark navy network visualization with Fiscal Hosts statistics and connected collective logos in circular nodes](https://fudge.design/share/pin-6776)
 
-[![Hero section with large display headline, product dashboard preview with budget transparency UI, and watercolor illustration](https://pin.fontofweb.com/6775?format=jpg)](https://design.withfudge.com/share/pin-6775)
+[![Hero section with large display headline, product dashboard preview with budget transparency UI, and watercolor illustration](https://pin.fontofweb.com/6775?format=jpg)](https://fudge.design/share/pin-6775)
 
-[Hero section with large display headline, product dashboard preview with budget transparency UI, and watercolor illustration](https://design.withfudge.com/share/pin-6775)
+[Hero section with large display headline, product dashboard preview with budget transparency UI, and watercolor illustration](https://fudge.design/share/pin-6775)
 
 ## Overview
 
@@ -186,3 +186,18 @@ The design should maintain its centered content model across viewports, with hor
 ## Scope note
 
 This guide covers the Open Collective homepage marketing surface including hero, product preview, network visualization, engagement cards, and footer. Dashboard interface components shown in preview screenshots are representative of the actual product UI but are not fully specified here. Mobile breakpoints, form validation states, loading skeletons, and authenticated user interfaces are not included. Motion behavior for the network visualization and button interactions are not documented from still images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+- [Home page](/share/designs-with-page.marketing.home)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

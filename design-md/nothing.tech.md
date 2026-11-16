@@ -1,26 +1,26 @@
 # How nothing.tech is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nothing.tech-design)
+[Open the live Fudge conversation](https://fudge.design/share/nothing.tech-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with teal Nothing Phone (3a) community edition, pixel-art cursor avatars, and retro desktop UI metaphor with floating .ntg file icons](https://pin.fontofweb.com/5524?format=jpg)](https://design.withfudge.com/share/pin-5524)
+[![Homepage hero with teal Nothing Phone (3a) community edition, pixel-art cursor avatars, and retro desktop UI metaphor with floating .ntg file icons](https://pin.fontofweb.com/5524?format=jpg)](https://fudge.design/share/pin-5524)
 
-[Homepage hero with teal Nothing Phone (3a) community edition, pixel-art cursor avatars, and retro desktop UI metaphor with floating .ntg file icons](https://design.withfudge.com/share/pin-5524)
+[Homepage hero with teal Nothing Phone (3a) community edition, pixel-art cursor avatars, and retro desktop UI metaphor with floating .ntg file icons](https://fudge.design/share/pin-5524)
 
-[![Support Centre landing page with large serif heading, floating product photography of transparent phone and earbuds, and rounded search input](https://pin.fontofweb.com/3035?format=jpg)](https://design.withfudge.com/share/pin-3035)
+[![Support Centre landing page with large serif heading, floating product photography of transparent phone and earbuds, and rounded search input](https://pin.fontofweb.com/3035?format=jpg)](https://fudge.design/share/pin-3035)
 
-[Support Centre landing page with large serif heading, floating product photography of transparent phone and earbuds, and rounded search input](https://design.withfudge.com/share/pin-3035)
+[Support Centre landing page with large serif heading, floating product photography of transparent phone and earbuds, and rounded search input](https://fudge.design/share/pin-3035)
 
-[![Support category grid with six pill-shaped outline buttons labeled Product Guide, Troubleshooting, FAQs, After-Sales Service, Software Download, Product Status](https://pin.fontofweb.com/3034?format=jpg)](https://design.withfudge.com/share/pin-3034)
+[![Support category grid with six pill-shaped outline buttons labeled Product Guide, Troubleshooting, FAQs, After-Sales Service, Software Download, Product Status](https://pin.fontofweb.com/3034?format=jpg)](https://fudge.design/share/pin-3034)
 
-[Support category grid with six pill-shaped outline buttons labeled Product Guide, Troubleshooting, FAQs, After-Sales Service, Software Download, Product Status](https://design.withfudge.com/share/pin-3034)
+[Support category grid with six pill-shaped outline buttons labeled Product Guide, Troubleshooting, FAQs, After-Sales Service, Software Download, Product Status](https://fudge.design/share/pin-3034)
 
-[![Contact Us section with dotted horizontal rule, body text, and a solid dark pill-shaped SEND US A MESSAGE button on light gray background](https://pin.fontofweb.com/3033?format=jpg)](https://design.withfudge.com/share/pin-3033)
+[![Contact Us section with dotted horizontal rule, body text, and a solid dark pill-shaped SEND US A MESSAGE button on light gray background](https://pin.fontofweb.com/3033?format=jpg)](https://fudge.design/share/pin-3033)
 
-[Contact Us section with dotted horizontal rule, body text, and a solid dark pill-shaped SEND US A MESSAGE button on light gray background](https://design.withfudge.com/share/pin-3033)
+[Contact Us section with dotted horizontal rule, body text, and a solid dark pill-shaped SEND US A MESSAGE button on light gray background](https://fudge.design/share/pin-3033)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Typography should scale down proportionally, with hero display reducing to secti
 ## Scope note
 
 This guide covers the homepage desktop metaphor and Support Centre surfaces as captured. Product detail pages, checkout flows, account interfaces, and mobile-specific layouts are not represented. The CMF sub-brand pages with their warmer color palette and distinct photography treatment would require separate documentation. Motion behavior, hover states, and form validation patterns are not visible in still images and should be designed to match the system's restrained, precise character. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Physical product](/share/designs-with-offering.physical_product)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

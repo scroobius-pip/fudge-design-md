@@ -1,22 +1,22 @@
 # How unrealengine.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/unrealengine.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/unrealengine.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Developer Community section with gradient headline, five icon cards, and forums table on dark background](https://pin.fontofweb.com/7650?format=jpg)](https://design.withfudge.com/share/pin-7650)
+[![Developer Community section with gradient headline, five icon cards, and forums table on dark background](https://pin.fontofweb.com/7650?format=jpg)](https://fudge.design/share/pin-7650)
 
-[Developer Community section with gradient headline, five icon cards, and forums table on dark background](https://design.withfudge.com/share/pin-7650)
+[Developer Community section with gradient headline, five icon cards, and forums table on dark background](https://fudge.design/share/pin-7650)
 
-[![Getting started page with pill filters, tutorial cards, documentation sidebar, and sample projects grid](https://pin.fontofweb.com/7649?format=jpg)](https://design.withfudge.com/share/pin-7649)
+[![Getting started page with pill filters, tutorial cards, documentation sidebar, and sample projects grid](https://pin.fontofweb.com/7649?format=jpg)](https://fudge.design/share/pin-7649)
 
-[Getting started page with pill filters, tutorial cards, documentation sidebar, and sample projects grid](https://design.withfudge.com/share/pin-7649)
+[Getting started page with pill filters, tutorial cards, documentation sidebar, and sample projects grid](https://fudge.design/share/pin-7649)
 
-[![Article hero with cinematic game imagery, gradient overlay, tag pills, and studio info panel](https://pin.fontofweb.com/7648?format=jpg)](https://design.withfudge.com/share/pin-7648)
+[![Article hero with cinematic game imagery, gradient overlay, tag pills, and studio info panel](https://pin.fontofweb.com/7648?format=jpg)](https://fudge.design/share/pin-7648)
 
-[Article hero with cinematic game imagery, gradient overlay, tag pills, and studio info panel](https://design.withfudge.com/share/pin-7648)
+[Article hero with cinematic game imagery, gradient overlay, tag pills, and studio info panel](https://fudge.design/share/pin-7648)
 
 ## Overview
 
@@ -185,3 +185,18 @@ The design should maintain its dark cinematic character across viewport sizes wh
 ## Scope note
 
 This guide covers the Unreal Engine marketing site homepage, getting started page, and article template as visible in the supplied images. Mobile layouts, animation behavior, hover states, form validation, search result pages, and the documentation reader interface are not represented. The footer, additional marketing pages, and account management flows fall outside the current scope.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

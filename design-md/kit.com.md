@@ -1,26 +1,26 @@
 # How kit.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/kit.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/kit.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with cream background, bold Kit Sans headline, blue CTA button, and social proof grid with photography and dark stat cards showing subscriber metrics](https://pin.fontofweb.com/7488?format=jpg)](https://design.withfudge.com/share/pin-7488)
+[![Hero section with cream background, bold Kit Sans headline, blue CTA button, and social proof grid with photography and dark stat cards showing subscriber metrics](https://pin.fontofweb.com/7488?format=jpg)](https://fudge.design/share/pin-7488)
 
-[Hero section with cream background, bold Kit Sans headline, blue CTA button, and social proof grid with photography and dark stat cards showing subscriber metrics](https://design.withfudge.com/share/pin-7488)
+[Hero section with cream background, bold Kit Sans headline, blue CTA button, and social proof grid with photography and dark stat cards showing subscriber metrics](https://fudge.design/share/pin-7488)
 
-[![Feature grid section with centered Kit Sans display heading, blue primary action button, and six white rounded cards with icons for email marketing capabilities](https://pin.fontofweb.com/7487?format=jpg)](https://design.withfudge.com/share/pin-7487)
+[![Feature grid section with centered Kit Sans display heading, blue primary action button, and six white rounded cards with icons for email marketing capabilities](https://pin.fontofweb.com/7487?format=jpg)](https://fudge.design/share/pin-7487)
 
-[Feature grid section with centered Kit Sans display heading, blue primary action button, and six white rounded cards with icons for email marketing capabilities](https://design.withfudge.com/share/pin-7487)
+[Feature grid section with centered Kit Sans display heading, blue primary action button, and six white rounded cards with icons for email marketing capabilities](https://fudge.design/share/pin-7487)
 
-[![Product feature section with split layout showing email list growth headline, UI mockup with subscriber analytics, and automation workflow visualization on peach background](https://pin.fontofweb.com/7486?format=jpg)](https://design.withfudge.com/share/pin-7486)
+[![Product feature section with split layout showing email list growth headline, UI mockup with subscriber analytics, and automation workflow visualization on peach background](https://pin.fontofweb.com/7486?format=jpg)](https://fudge.design/share/pin-7486)
 
-[Product feature section with split layout showing email list growth headline, UI mockup with subscriber analytics, and automation workflow visualization on peach background](https://design.withfudge.com/share/pin-7486)
+[Product feature section with split layout showing email list growth headline, UI mockup with subscriber analytics, and automation workflow visualization on peach background](https://fudge.design/share/pin-7486)
 
-[![Homepage hero with asymmetric two-column layout featuring large Kit Sans headline on cream panel, James Clear testimonial portrait on dark background, and feature benefit cards](https://pin.fontofweb.com/7485?format=jpg)](https://design.withfudge.com/share/pin-7485)
+[![Homepage hero with asymmetric two-column layout featuring large Kit Sans headline on cream panel, James Clear testimonial portrait on dark background, and feature benefit cards](https://pin.fontofweb.com/7485?format=jpg)](https://fudge.design/share/pin-7485)
 
-[Homepage hero with asymmetric two-column layout featuring large Kit Sans headline on cream panel, James Clear testimonial portrait on dark background, and feature benefit cards](https://design.withfudge.com/share/pin-7485)
+[Homepage hero with asymmetric two-column layout featuring large Kit Sans headline on cream panel, James Clear testimonial portrait on dark background, and feature benefit cards](https://fudge.design/share/pin-7485)
 
 ## Overview
 
@@ -196,3 +196,18 @@ The design maintains its character across viewport sizes through considered adap
 ## Scope note
 
 This guide covers the Kit homepage and its core marketing components as visible in the supplied imagery. Pricing page surfaces, mobile-specific layouts, form validation states, and authenticated application interfaces are not represented. Footer content, detailed documentation pages, and blog templates fall outside the current scope.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

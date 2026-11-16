@@ -1,22 +1,22 @@
 # How id.elsevier.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/id.elsevier.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/id.elsevier.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Modal dialog showing Elsevier institutional login with orange-accented header, text input field, and disabled submit button](https://pin.fontofweb.com/4303?format=jpg)](https://design.withfudge.com/share/pin-4303)
+[![Modal dialog showing Elsevier institutional login with orange-accented header, text input field, and disabled submit button](https://pin.fontofweb.com/4303?format=jpg)](https://fudge.design/share/pin-4303)
 
-[Modal dialog showing Elsevier institutional login with orange-accented header, text input field, and disabled submit button](https://design.withfudge.com/share/pin-4303)
+[Modal dialog showing Elsevier institutional login with orange-accented header, text input field, and disabled submit button](https://fudge.design/share/pin-4303)
 
-[![Full page view with ScienceDirect header, vintage map background, centered login modal, and institutional footer with RELX branding](https://pin.fontofweb.com/4302?format=jpg)](https://design.withfudge.com/share/pin-4302)
+[![Full page view with ScienceDirect header, vintage map background, centered login modal, and institutional footer with RELX branding](https://pin.fontofweb.com/4302?format=jpg)](https://fudge.design/share/pin-4302)
 
-[Full page view with ScienceDirect header, vintage map background, centered login modal, and institutional footer with RELX branding](https://design.withfudge.com/share/pin-4302)
+[Full page view with ScienceDirect header, vintage map background, centered login modal, and institutional footer with RELX branding](https://fudge.design/share/pin-4302)
 
-[![Cookie consent banner with teal primary action button, white secondary button, and footer links on gray background](https://pin.fontofweb.com/4301?format=jpg)](https://design.withfudge.com/share/pin-4301)
+[![Cookie consent banner with teal primary action button, white secondary button, and footer links on gray background](https://pin.fontofweb.com/4301?format=jpg)](https://fudge.design/share/pin-4301)
 
-[Cookie consent banner with teal primary action button, white secondary button, and footer links on gray background](https://design.withfudge.com/share/pin-4301)
+[Cookie consent banner with teal primary action button, white secondary button, and footer links on gray background](https://fudge.design/share/pin-4301)
 
 ## Overview
 
@@ -180,3 +180,18 @@ The vintage map background should cover the viewport without distortion, using b
 ## Scope note
 
 This guide covers the institutional authentication page and cookie consent flow visible in the supplied images. Mobile breakpoints, hover and focus states, loading indicators, error messaging, and additional authentication steps are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Education and research](/share/designs-with-industry.education_research)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Authentication](/share/designs-with-page.account.authentication)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Form funnel](/share/designs-with-layout.archetype.form_funnel)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

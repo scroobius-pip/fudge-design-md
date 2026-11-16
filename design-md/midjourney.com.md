@@ -1,26 +1,26 @@
 # How midjourney.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/midjourney.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/midjourney.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Explore page with a dark modal overlay showing a colorful abstract artwork and subscription call-to-action over a grid of AI-generated images.](https://pin.fontofweb.com/7958?format=jpg)](https://design.withfudge.com/share/pin-7958)
+[![Explore page with a dark modal overlay showing a colorful abstract artwork and subscription call-to-action over a grid of AI-generated images.](https://pin.fontofweb.com/7958?format=jpg)](https://fudge.design/share/pin-7958)
 
-[Explore page with a dark modal overlay showing a colorful abstract artwork and subscription call-to-action over a grid of AI-generated images.](https://design.withfudge.com/share/pin-7958)
+[Explore page with a dark modal overlay showing a colorful abstract artwork and subscription call-to-action over a grid of AI-generated images.](https://fudge.design/share/pin-7958)
 
-[![Image detail lightbox view displaying a glowing blue and red skull artwork with metadata tags and thumbnail navigation rail on a near-black background.](https://pin.fontofweb.com/7957?format=jpg)](https://design.withfudge.com/share/pin-7957)
+[![Image detail lightbox view displaying a glowing blue and red skull artwork with metadata tags and thumbnail navigation rail on a near-black background.](https://pin.fontofweb.com/7957?format=jpg)](https://fudge.design/share/pin-7957)
 
-[Image detail lightbox view displaying a glowing blue and red skull artwork with metadata tags and thumbnail navigation rail on a near-black background.](https://design.withfudge.com/share/pin-7957)
+[Image detail lightbox view displaying a glowing blue and red skull artwork with metadata tags and thumbnail navigation rail on a near-black background.](https://fudge.design/share/pin-7957)
 
-[![Homepage hero with a large typographic sphere made of monospace text fragments, centered action buttons, and an About section below on a deep navy background.](https://pin.fontofweb.com/7956?format=jpg)](https://design.withfudge.com/share/pin-7956)
+[![Homepage hero with a large typographic sphere made of monospace text fragments, centered action buttons, and an About section below on a deep navy background.](https://pin.fontofweb.com/7956?format=jpg)](https://fudge.design/share/pin-7956)
 
-[Homepage hero with a large typographic sphere made of monospace text fragments, centered action buttons, and an About section below on a deep navy background.](https://design.withfudge.com/share/pin-7956)
+[Homepage hero with a large typographic sphere made of monospace text fragments, centered action buttons, and an About section below on a deep navy background.](https://fudge.design/share/pin-7956)
 
-[![Updates page with a timeline layout showing dated changelog entries, category filter tabs, and a vertical connector line on a dark background.](https://pin.fontofweb.com/4939?format=jpg)](https://design.withfudge.com/share/pin-4939)
+[![Updates page with a timeline layout showing dated changelog entries, category filter tabs, and a vertical connector line on a dark background.](https://pin.fontofweb.com/4939?format=jpg)](https://fudge.design/share/pin-4939)
 
-[Updates page with a timeline layout showing dated changelog entries, category filter tabs, and a vertical connector line on a dark background.](https://design.withfudge.com/share/pin-4939)
+[Updates page with a timeline layout showing dated changelog entries, category filter tabs, and a vertical connector line on a dark background.](https://fudge.design/share/pin-4939)
 
 ## Overview
 
@@ -161,3 +161,18 @@ The sidebar navigation collapses to icons or hides entirely on narrow viewports,
 ## Scope note
 
 This guide covers the public-facing homepage, Explore grid and lightbox, and Updates timeline as visible in the supplied materials. The Create and Edit workflows, Organize dashboard, Moodboards, Style Creator, and account management pages are not represented. Mobile breakpoint behavior, animation specifications, and dark/light mode switching logic are inferred from desktop layouts and should be verified against live implementation. Measurements are drawn from retained interface records where available.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How toools.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/toools.design-design)
+[Open the live Fudge conversation](https://fudge.design/share/toools.design-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sponsorship page with gradient hero background, rocket illustration, and editorial content sections with bullet lists](https://pin.fontofweb.com/7452?format=jpg)](https://design.withfudge.com/share/pin-7452)
+[![Sponsorship page with gradient hero background, rocket illustration, and editorial content sections with bullet lists](https://pin.fontofweb.com/7452?format=jpg)](https://fudge.design/share/pin-7452)
 
-[Sponsorship page with gradient hero background, rocket illustration, and editorial content sections with bullet lists](https://design.withfudge.com/share/pin-7452)
+[Sponsorship page with gradient hero background, rocket illustration, and editorial content sections with bullet lists](https://fudge.design/share/pin-7452)
 
-[![Homepage hero with floating tool icons, category grid of 18 white rounded cards, and navigation bar with search](https://pin.fontofweb.com/7451?format=jpg)](https://design.withfudge.com/share/pin-7451)
+[![Homepage hero with floating tool icons, category grid of 18 white rounded cards, and navigation bar with search](https://pin.fontofweb.com/7451?format=jpg)](https://fudge.design/share/pin-7451)
 
-[Homepage hero with floating tool icons, category grid of 18 white rounded cards, and navigation bar with search](https://design.withfudge.com/share/pin-7451)
+[Homepage hero with floating tool icons, category grid of 18 white rounded cards, and navigation bar with search](https://fudge.design/share/pin-7451)
 
-[![Homepage with featured design tools carousel showing Streamline, Blogie AI, and Pixelarticons cards with colorful thumbnails](https://pin.fontofweb.com/7450?format=jpg)](https://design.withfudge.com/share/pin-7450)
+[![Homepage with featured design tools carousel showing Streamline, Blogie AI, and Pixelarticons cards with colorful thumbnails](https://pin.fontofweb.com/7450?format=jpg)](https://fudge.design/share/pin-7450)
 
-[Homepage with featured design tools carousel showing Streamline, Blogie AI, and Pixelarticons cards with colorful thumbnails](https://design.withfudge.com/share/pin-7450)
+[Homepage with featured design tools carousel showing Streamline, Blogie AI, and Pixelarticons cards with colorful thumbnails](https://fudge.design/share/pin-7450)
 
 ## Overview
 
@@ -197,3 +197,18 @@ The sponsorship page's narrow reading column should expand to comfortable mobile
 ## Scope note
 
 This guide covers the homepage directory view and sponsorship page as visible in the supplied images. Mobile layouts, dark mode, loading states, form interactions, and search result pages are not represented. The footer, additional interior pages, and any authentication flows fall outside the current scope. Measurements derive from the desktop interface at the captured resolution.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Gradient background](/share/designs-with-visual.background.gradient)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

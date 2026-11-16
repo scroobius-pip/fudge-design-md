@@ -1,26 +1,26 @@
 # How thinknextdesign.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thinknextdesign.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/thinknextdesign.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with large red serif headline 'Purposeful design. Business Success.' on white canvas, black navigation bar with red wordmark, and laptop product photography below.](https://pin.fontofweb.com/5867?format=jpg)](https://design.withfudge.com/share/pin-5867)
+[![Homepage hero with large red serif headline 'Purposeful design. Business Success.' on white canvas, black navigation bar with red wordmark, and laptop product photography below.](https://pin.fontofweb.com/5867?format=jpg)](https://fudge.design/share/pin-5867)
 
-[Homepage hero with large red serif headline 'Purposeful design. Business Success.' on white canvas, black navigation bar with red wordmark, and laptop product photography below.](https://design.withfudge.com/share/pin-5867)
+[Homepage hero with large red serif headline 'Purposeful design. Business Success.' on white canvas, black navigation bar with red wordmark, and laptop product photography below.](https://fudge.design/share/pin-5867)
 
-[![Product case-study split layout showing Lenovo ThinkPad T25 with left-aligned dark text on light gray surface and right-aligned product photography on matching gray ground.](https://pin.fontofweb.com/5869?format=jpg)](https://design.withfudge.com/share/pin-5869)
+[![Product case-study split layout showing Lenovo ThinkPad T25 with left-aligned dark text on light gray surface and right-aligned product photography on matching gray ground.](https://pin.fontofweb.com/5869?format=jpg)](https://fudge.design/share/pin-5869)
 
-[Product case-study split layout showing Lenovo ThinkPad T25 with left-aligned dark text on light gray surface and right-aligned product photography on matching gray ground.](https://design.withfudge.com/share/pin-5869)
+[Product case-study split layout showing Lenovo ThinkPad T25 with left-aligned dark text on light gray surface and right-aligned product photography on matching gray ground.](https://fudge.design/share/pin-5869)
 
-[![Product case-study split layout for Lenovo ThinkStation P900 with year label, dark body text on light gray, and tall black workstation image on gray photographic ground.](https://pin.fontofweb.com/5868?format=jpg)](https://design.withfudge.com/share/pin-5868)
+[![Product case-study split layout for Lenovo ThinkStation P900 with year label, dark body text on light gray, and tall black workstation image on gray photographic ground.](https://pin.fontofweb.com/5868?format=jpg)](https://fudge.design/share/pin-5868)
 
-[Product case-study split layout for Lenovo ThinkStation P900 with year label, dark body text on light gray, and tall black workstation image on gray photographic ground.](https://design.withfudge.com/share/pin-5868)
+[Product case-study split layout for Lenovo ThinkStation P900 with year label, dark body text on light gray, and tall black workstation image on gray photographic ground.](https://fudge.design/share/pin-5868)
 
-[![Contact page with hand-drawn sketch illustration on left, red 'Contact' heading, gray body text, red action link, and credits footer on white background.](https://pin.fontofweb.com/5870?format=jpg)](https://design.withfudge.com/share/pin-5870)
+[![Contact page with hand-drawn sketch illustration on left, red 'Contact' heading, gray body text, red action link, and credits footer on white background.](https://pin.fontofweb.com/5870?format=jpg)](https://fudge.design/share/pin-5870)
 
-[Contact page with hand-drawn sketch illustration on left, red 'Contact' heading, gray body text, red action link, and credits footer on white background.](https://design.withfudge.com/share/pin-5870)
+[Contact page with hand-drawn sketch illustration on left, red 'Contact' heading, gray body text, red action link, and credits footer on white background.](https://fudge.design/share/pin-5870)
 
 ## Overview
 
@@ -173,3 +173,18 @@ No breakpoint-specific behavior is visible in the supplied images. These recomme
 ## Scope note
 
 This guide covers the homepage hero, product case-study sections, and contact page as visible in the supplied images. Footer behavior, additional interior pages, mobile layouts, form interactions, and motion design are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Split view](/share/designs-with-layout.archetype.split_view)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Creative and design](/share/designs-with-industry.creative_design)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

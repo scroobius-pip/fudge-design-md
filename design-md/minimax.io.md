@@ -1,18 +1,18 @@
 # How minimax.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/minimax.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/minimax.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section showcasing MiniMax M3 with coral-orange geometric illustration, feature pills, and dark navigation bar with Contact Us button](https://pin.fontofweb.com/9509?format=jpg)](https://design.withfudge.com/share/pin-9509)
+[![Hero section showcasing MiniMax M3 with coral-orange geometric illustration, feature pills, and dark navigation bar with Contact Us button](https://pin.fontofweb.com/9509?format=jpg)](https://fudge.design/share/pin-9509)
 
-[Hero section showcasing MiniMax M3 with coral-orange geometric illustration, feature pills, and dark navigation bar with Contact Us button](https://design.withfudge.com/share/pin-9509)
+[Hero section showcasing MiniMax M3 with coral-orange geometric illustration, feature pills, and dark navigation bar with Contact Us button](https://fudge.design/share/pin-9509)
 
-[![Hero section showcasing MiniMax Code with blue geometric illustration, feature pills, and matching dark navigation with Login button](https://pin.fontofweb.com/9508?format=jpg)](https://design.withfudge.com/share/pin-9508)
+[![Hero section showcasing MiniMax Code with blue geometric illustration, feature pills, and matching dark navigation with Login button](https://pin.fontofweb.com/9508?format=jpg)](https://fudge.design/share/pin-9508)
 
-[Hero section showcasing MiniMax Code with blue geometric illustration, feature pills, and matching dark navigation with Login button](https://design.withfudge.com/share/pin-9508)
+[Hero section showcasing MiniMax Code with blue geometric illustration, feature pills, and matching dark navigation with Login button](https://fudge.design/share/pin-9508)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The design appears optimized for a single desktop viewport in the supplied image
 ## Scope note
 
 This guide covers the MiniMax homepage landing experience as visible in the supplied desktop viewport images. Mobile layouts, additional interior pages, form interactions, motion design, and hover or focus states are not represented. The footer area and any content below the "Flagship Models" section are outside the current scope. Measurements reflect the exact values retained from the interface analysis.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Red hue](/share/designs-with-color.hue.red)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

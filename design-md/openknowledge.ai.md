@@ -1,26 +1,26 @@
 # How openknowledge.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/openknowledge.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/openknowledge.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark sidebar navigation with Open Knowledge logo, search field, and categorized doc links on near-black background](https://pin.fontofweb.com/9812?format=jpg)](https://design.withfudge.com/share/pin-9812)
+[![Dark sidebar navigation with Open Knowledge logo, search field, and categorized doc links on near-black background](https://pin.fontofweb.com/9812?format=jpg)](https://fudge.design/share/pin-9812)
 
-[Dark sidebar navigation with Open Knowledge logo, search field, and categorized doc links on near-black background](https://design.withfudge.com/share/pin-9812)
+[Dark sidebar navigation with Open Knowledge logo, search field, and categorized doc links on near-black background](https://fudge.design/share/pin-9812)
 
-[![Quickstart documentation page with three-column layout showing sidebar, numbered steps, and right-hand table of contents on dark theme](https://pin.fontofweb.com/9811?format=jpg)](https://design.withfudge.com/share/pin-9811)
+[![Quickstart documentation page with three-column layout showing sidebar, numbered steps, and right-hand table of contents on dark theme](https://pin.fontofweb.com/9811?format=jpg)](https://fudge.design/share/pin-9811)
 
-[Quickstart documentation page with three-column layout showing sidebar, numbered steps, and right-hand table of contents on dark theme](https://design.withfudge.com/share/pin-9811)
+[Quickstart documentation page with three-column layout showing sidebar, numbered steps, and right-hand table of contents on dark theme](https://fudge.design/share/pin-9811)
 
-[![Light hero section with soft blue gradient blob, 'Start building knowledge' headline, and blue pill download button](https://pin.fontofweb.com/9810?format=jpg)](https://design.withfudge.com/share/pin-9810)
+[![Light hero section with soft blue gradient blob, 'Start building knowledge' headline, and blue pill download button](https://pin.fontofweb.com/9810?format=jpg)](https://fudge.design/share/pin-9810)
 
-[Light hero section with soft blue gradient blob, 'Start building knowledge' headline, and blue pill download button](https://design.withfudge.com/share/pin-9810)
+[Light hero section with soft blue gradient blob, 'Start building knowledge' headline, and blue pill download button](https://fudge.design/share/pin-9810)
 
-[![Light feature section with 'Own your knowledge' heading, three-column icon grid, and privacy-first messaging](https://pin.fontofweb.com/9809?format=jpg)](https://design.withfudge.com/share/pin-9809)
+[![Light feature section with 'Own your knowledge' heading, three-column icon grid, and privacy-first messaging](https://pin.fontofweb.com/9809?format=jpg)](https://fudge.design/share/pin-9809)
 
-[Light feature section with 'Own your knowledge' heading, three-column icon grid, and privacy-first messaging](https://design.withfudge.com/share/pin-9809)
+[Light feature section with 'Own your knowledge' heading, three-column icon grid, and privacy-first messaging](https://fudge.design/share/pin-9809)
 
 ## Overview
 
@@ -208,3 +208,18 @@ Touch targets maintain minimum 2.75rem tap area. Font sizes do not scale below 1
 ## Scope note
 
 This guide covers the marketing homepage and documentation quickstart page as visible in the supplied materials. Mobile layouts, animation specifications, form validation states, and the in-app editor interface are not represented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

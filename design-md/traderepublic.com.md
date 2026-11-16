@@ -1,26 +1,26 @@
 # How traderepublic.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/traderepublic.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/traderepublic.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![About us page with dark hero section and white product modal overlay showing Interest, Current Account, and Spending Abroad features](https://pin.fontofweb.com/9943?format=jpg)](https://design.withfudge.com/share/pin-9943)
+[![About us page with dark hero section and white product modal overlay showing Interest, Current Account, and Spending Abroad features](https://pin.fontofweb.com/9943?format=jpg)](https://fudge.design/share/pin-9943)
 
-[About us page with dark hero section and white product modal overlay showing Interest, Current Account, and Spending Abroad features](https://design.withfudge.com/share/pin-9943)
+[About us page with dark hero section and white product modal overlay showing Interest, Current Account, and Spending Abroad features](https://fudge.design/share/pin-9943)
 
-[![Careers section with black investor logo banner and large bold heading over white space with right-aligned office photography](https://pin.fontofweb.com/9942?format=jpg)](https://design.withfudge.com/share/pin-9942)
+[![Careers section with black investor logo banner and large bold heading over white space with right-aligned office photography](https://pin.fontofweb.com/9942?format=jpg)](https://fudge.design/share/pin-9942)
 
-[Careers section with black investor logo banner and large bold heading over white space with right-aligned office photography](https://design.withfudge.com/share/pin-9942)
+[Careers section with black investor logo banner and large bold heading over white space with right-aligned office photography](https://fudge.design/share/pin-9942)
 
-[![Support page hero with person on phone in warm interior, white text overlay, and black contact QR code card](https://pin.fontofweb.com/9941?format=jpg)](https://design.withfudge.com/share/pin-9941)
+[![Support page hero with person on phone in warm interior, white text overlay, and black contact QR code card](https://pin.fontofweb.com/9941?format=jpg)](https://fudge.design/share/pin-9941)
 
-[Support page hero with person on phone in warm interior, white text overlay, and black contact QR code card](https://design.withfudge.com/share/pin-9941)
+[Support page hero with person on phone in warm interior, white text overlay, and black contact QR code card](https://fudge.design/share/pin-9941)
 
-[![Footer with multi-column link grid, social icons, risk disclaimer, and country selector with app download QR code](https://pin.fontofweb.com/9940?format=jpg)](https://design.withfudge.com/share/pin-9940)
+[![Footer with multi-column link grid, social icons, risk disclaimer, and country selector with app download QR code](https://pin.fontofweb.com/9940?format=jpg)](https://fudge.design/share/pin-9940)
 
-[Footer with multi-column link grid, social icons, risk disclaimer, and country selector with app download QR code](https://design.withfudge.com/share/pin-9940)
+[Footer with multi-column link grid, social icons, risk disclaimer, and country selector with app download QR code](https://fudge.design/share/pin-9940)
 
 ## Overview
 
@@ -145,3 +145,18 @@ Touch targets should maintain the 16px button padding minimum, with tap areas ex
 ## Scope note
 
 This guide covers the desktop marketing and support pages of traderepublic.com, including the About, Support, and homepage surfaces. Mobile breakpoints, interactive states beyond the static views, form components, account dashboard interfaces, and motion design are not represented in the supplied material. The 25.9056px type size seen in some body contexts has been normalized to practical rem values in this guide. The exact source families Trade Republic Sans-500 and Trade Republic Sans-740 are referenced in the Typography section; Applesystem and Times appear as fallback families in the supplied data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

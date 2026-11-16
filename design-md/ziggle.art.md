@@ -1,22 +1,22 @@
 # How ziggle.art is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ziggle.art-design)
+[Open the live Fudge conversation](https://fudge.design/share/ziggle.art-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Character showcase sections with horizontal card grids displaying animated mascots on dark background with pill-shaped category labels](https://pin.fontofweb.com/10553?format=jpg)](https://design.withfudge.com/share/pin-10553)
+[![Character showcase sections with horizontal card grids displaying animated mascots on dark background with pill-shaped category labels](https://pin.fontofweb.com/10553?format=jpg)](https://fudge.design/share/pin-10553)
 
-[Character showcase sections with horizontal card grids displaying animated mascots on dark background with pill-shaped category labels](https://design.withfudge.com/share/pin-10553)
+[Character showcase sections with horizontal card grids displaying animated mascots on dark background with pill-shaped category labels](https://fudge.design/share/pin-10553)
 
-[![Hero section featuring large display typography with black cat mascot and primary call-to-action button on near-black canvas](https://pin.fontofweb.com/10552?format=jpg)](https://design.withfudge.com/share/pin-10552)
+[![Hero section featuring large display typography with black cat mascot and primary call-to-action button on near-black canvas](https://pin.fontofweb.com/10552?format=jpg)](https://fudge.design/share/pin-10552)
 
-[Hero section featuring large display typography with black cat mascot and primary call-to-action button on near-black canvas](https://design.withfudge.com/share/pin-10552)
+[Hero section featuring large display typography with black cat mascot and primary call-to-action button on near-black canvas](https://fudge.design/share/pin-10552)
 
-[![Three-column pricing comparison with dark cards, white accent borders, and sleeping cat illustration above section heading](https://pin.fontofweb.com/10551?format=jpg)](https://design.withfudge.com/share/pin-10551)
+[![Three-column pricing comparison with dark cards, white accent borders, and sleeping cat illustration above section heading](https://pin.fontofweb.com/10551?format=jpg)](https://fudge.design/share/pin-10551)
 
-[Three-column pricing comparison with dark cards, white accent borders, and sleeping cat illustration above section heading](https://design.withfudge.com/share/pin-10551)
+[Three-column pricing comparison with dark cards, white accent borders, and sleeping cat illustration above section heading](https://fudge.design/share/pin-10551)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The design is documented from desktop viewport widths. The hero section's two-co
 ## Scope note
 
 This guide covers the landing page experience including hero, character showcase galleries, and pricing sections. Navigation dropdown states, mobile menu behavior, authentication flows, and character creation interface are not represented in the supplied materials. The footer area and any additional marketing pages beyond pricing are also outside the current scope. Poppins is present in the font stack but its specific applied roles are not fully detailed in the captured surfaces.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Single-family type system](/share/designs-with-typography.system_size.single_family)
+- [Solid background](/share/designs-with-visual.background.solid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

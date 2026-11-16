@@ -1,18 +1,18 @@
 # How prompts.voao.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/prompts.voao.co-design)
+[Open the live Fudge conversation](https://fudge.design/share/prompts.voao.co-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Gallery page showing filter tabs, promotional banner, and dense masonry grid of AI-generated artwork with dark UI chrome](https://pin.fontofweb.com/8541?format=jpg)](https://design.withfudge.com/share/pin-8541)
+[![Gallery page showing filter tabs, promotional banner, and dense masonry grid of AI-generated artwork with dark UI chrome](https://pin.fontofweb.com/8541?format=jpg)](https://fudge.design/share/pin-8541)
 
-[Gallery page showing filter tabs, promotional banner, and dense masonry grid of AI-generated artwork with dark UI chrome](https://design.withfudge.com/share/pin-8541)
+[Gallery page showing filter tabs, promotional banner, and dense masonry grid of AI-generated artwork with dark UI chrome](https://fudge.design/share/pin-8541)
 
-[![Landing page hero with centered Preview Gallery heading and sparse four-column grid of placeholder slots and vibrant AI artwork thumbnails](https://pin.fontofweb.com/8540?format=jpg)](https://design.withfudge.com/share/pin-8540)
+[![Landing page hero with centered Preview Gallery heading and sparse four-column grid of placeholder slots and vibrant AI artwork thumbnails](https://pin.fontofweb.com/8540?format=jpg)](https://fudge.design/share/pin-8540)
 
-[Landing page hero with centered Preview Gallery heading and sparse four-column grid of placeholder slots and vibrant AI artwork thumbnails](https://design.withfudge.com/share/pin-8540)
+[Landing page hero with centered Preview Gallery heading and sparse four-column grid of placeholder slots and vibrant AI artwork thumbnails](https://fudge.design/share/pin-8540)
 
 ## Overview
 
@@ -195,3 +195,18 @@ Typography scales should remain fixed; the display sizes are already restrained 
 ## Scope note
 
 This guide covers the gallery and landing page surfaces of prompts.voao.co as visible in desktop screenshots. Mobile layouts, breakpoint-specific behavior, loading skeletons, empty state messaging, checkout flows, and authenticated user features are not represented. Motion design, hover states, and focus styles are not visible in the provided images and should be validated in implementation.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Multicolor palette](/share/designs-with-color.palette_span.multicolor)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

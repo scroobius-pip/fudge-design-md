@@ -1,26 +1,26 @@
 # How ogilvy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/ogilvy.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/ogilvy.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Careers job posting page with clean white layout, black navigation, and structured two-column job details with red accent links](https://pin.fontofweb.com/9237?format=jpg)](https://design.withfudge.com/share/pin-9237)
+[![Careers job posting page with clean white layout, black navigation, and structured two-column job details with red accent links](https://pin.fontofweb.com/9237?format=jpg)](https://fudge.design/share/pin-9237)
 
-[Careers job posting page with clean white layout, black navigation, and structured two-column job details with red accent links](https://design.withfudge.com/share/pin-9237)
+[Careers job posting page with clean white layout, black navigation, and structured two-column job details with red accent links](https://fudge.design/share/pin-9237)
 
-[![Work With Us careers listing with massive outlined typography, filter dropdowns with italic red labels, and tabular job rows](https://pin.fontofweb.com/9236?format=jpg)](https://design.withfudge.com/share/pin-9236)
+[![Work With Us careers listing with massive outlined typography, filter dropdowns with italic red labels, and tabular job rows](https://pin.fontofweb.com/9236?format=jpg)](https://fudge.design/share/pin-9236)
 
-[Work With Us careers listing with massive outlined typography, filter dropdowns with italic red labels, and tabular job rows](https://design.withfudge.com/share/pin-9236)
+[Work With Us careers listing with massive outlined typography, filter dropdowns with italic red labels, and tabular job rows](https://fudge.design/share/pin-9236)
 
-[![Red background careers page with italic serif David Ogilvy quote, white Ogilvy wordmark, and employee photography](https://pin.fontofweb.com/9235?format=jpg)](https://design.withfudge.com/share/pin-9235)
+[![Red background careers page with italic serif David Ogilvy quote, white Ogilvy wordmark, and employee photography](https://pin.fontofweb.com/9235?format=jpg)](https://fudge.design/share/pin-9235)
 
-[Red background careers page with italic serif David Ogilvy quote, white Ogilvy wordmark, and employee photography](https://design.withfudge.com/share/pin-9235)
+[Red background careers page with italic serif David Ogilvy quote, white Ogilvy wordmark, and employee photography](https://fudge.design/share/pin-9235)
 
-[![Careers landing with oversized outlined CAREERS title on red, black and white portrait photo, and Who We Are text section](https://pin.fontofweb.com/9234?format=jpg)](https://design.withfudge.com/share/pin-9234)
+[![Careers landing with oversized outlined CAREERS title on red, black and white portrait photo, and Who We Are text section](https://pin.fontofweb.com/9234?format=jpg)](https://fudge.design/share/pin-9234)
 
-[Careers landing with oversized outlined CAREERS title on red, black and white portrait photo, and Who We Are text section](https://design.withfudge.com/share/pin-9234)
+[Careers landing with oversized outlined CAREERS title on red, black and white portrait photo, and Who We Are text section](https://fudge.design/share/pin-9234)
 
 ## Overview
 
@@ -182,3 +182,18 @@ Typography scales should maintain their rem relationships: body at 1rem, heading
 ## Scope note
 
 This guide covers the careers and about page surfaces visible in the supplied images, including job listings, brand storytelling sections, and navigation. It does not cover the work portfolio grid, team directory, ideas archive, contact form interactions, or mobile breakpoint layouts. Motion, hover states, and loading behavior are not documented from still images. Verify licensing for Ogilvy Sans and Ogilvy Serif before production use.
+
+## Related design patterns
+
+- [Professional services](/share/designs-with-industry.professional_services)
+- [Agency](/share/designs-with-offering.agency)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Brown hue](/share/designs-with-color.hue.brown)
+- [Red hue](/share/designs-with-color.hue.red)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

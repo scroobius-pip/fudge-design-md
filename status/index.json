@@ -1,38 +1,38 @@
 {
   "schemaVersion": 2,
-  "snapshotAt": "2026-08-11T09:54:04.694Z",
+  "snapshotAt": "2026-11-16T12:12:18.926Z",
   "collection": {
-    "publicGuides": 1160,
-    "readmeEntries": 1160,
-    "representativeImages": 1160,
-    "guideLinks": 1160,
-    "cloudAccepted": 893,
-    "cloudAcceptedInMirror": 893,
+    "publicGuides": 1161,
+    "readmeEntries": 1161,
+    "representativeImages": 1161,
+    "guideLinks": 1161,
+    "cloudAccepted": 894,
+    "cloudAcceptedInMirror": 894,
     "retainedPreCloudflare": 267
   },
   "reconciliation": {
-    "domainSitemapGuides": 1160,
+    "domainSitemapGuides": 1161,
     "sitemapOnly": [],
     "mirrorOnly": [],
     "aligned": true
   },
   "rollout": {
     "serviceState": "paused",
-    "dispatch": "paused",
+    "dispatch": "enabled",
     "publishing": false,
     "counts": {
       "queued": 0,
       "running": 0,
-      "passed": 0,
-      "blocked": 70,
-      "sharePublished": 0,
+      "passed": 1,
+      "blocked": 71,
+      "sharePublished": 1,
       "published": 893,
-      "total": 963
+      "total": 966
     },
-    "terminal": 963,
+    "terminal": 966,
     "completionPercent": 100,
-    "updatedAt": "2026-08-10T22:14:07.509Z",
-    "lastCompletedAt": "2026-08-10T22:14:07.509Z",
+    "updatedAt": "2026-10-28T11:03:35.078Z",
+    "lastCompletedAt": "2026-10-28T11:03:35.078Z",
     "blockedReasons": [
       {
         "qualityFailures": [
@@ -76,6 +76,13 @@
         "qualityFailures": [
           "colors.grounded",
           "typography.families"
+        ],
+        "errorCode": null,
+        "count": 2
+      },
+      {
+        "qualityFailures": [
+          "reader.capture-language"
         ],
         "errorCode": null,
         "count": 2
@@ -142,13 +149,6 @@
         "qualityFailures": [
           "frontmatter.description",
           "reader.extraction-language"
-        ],
-        "errorCode": null,
-        "count": 1
-      },
-      {
-        "qualityFailures": [
-          "reader.capture-language"
         ],
         "errorCode": null,
         "count": 1

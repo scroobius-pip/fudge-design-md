@@ -1,18 +1,18 @@
 # How vedomosti.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/vedomosti.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/vedomosti.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero news card with presidential photograph, gradient overlay, and headline in white text over dark image, followed by Главное section with article list on warm off-white](https://pin.fontofweb.com/9137?format=jpg)](https://design.withfudge.com/share/pin-9137)
+[![Hero news card with presidential photograph, gradient overlay, and headline in white text over dark image, followed by Главное section with article list on warm off-white](https://pin.fontofweb.com/9137?format=jpg)](https://fudge.design/share/pin-9137)
 
-[Hero news card with presidential photograph, gradient overlay, and headline in white text over dark image, followed by Главное section with article list on warm off-white](https://design.withfudge.com/share/pin-9137)
+[Hero news card with presidential photograph, gradient overlay, and headline in white text over dark image, followed by Главное section with article list on warm off-white](https://fudge.design/share/pin-9137)
 
-[![Minimal editorial illustration with hand-drawn fish in top hats and mechanical elements, section header #Технологии in bold black sans-serif on warm off-white canvas](https://pin.fontofweb.com/9090?format=jpg)](https://design.withfudge.com/share/pin-9090)
+[![Minimal editorial illustration with hand-drawn fish in top hats and mechanical elements, section header #Технологии in bold black sans-serif on warm off-white canvas](https://pin.fontofweb.com/9090?format=jpg)](https://fudge.design/share/pin-9090)
 
-[Minimal editorial illustration with hand-drawn fish in top hats and mechanical elements, section header #Технологии in bold black sans-serif on warm off-white canvas](https://design.withfudge.com/share/pin-9090)
+[Minimal editorial illustration with hand-drawn fish in top hats and mechanical elements, section header #Технологии in bold black sans-serif on warm off-white canvas](https://fudge.design/share/pin-9090)
 
 ## Overview
 
@@ -155,3 +155,18 @@ The supplied images show a single viewport state. Based on the visible structure
 ## Scope note
 
 This guide covers the Vedomosti homepage hero and article list surfaces visible in the supplied images. Navigation, footer, article detail pages, search, subscription flows, and interactive elements are not represented. Motion, hover states, and additional breakpoints were not captured.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Brown hue](/share/designs-with-color.hue.brown)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,26 +1,26 @@
 # How banjos.com.au is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/banjos.com.au-design)
+[Open the live Fudge conversation](https://fudge.design/share/banjos.com.au-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Donuts menu page showing product grid cards with item names, prices, availability times, star ratings, and gray ADD buttons alongside product photography on a clean white](https://pin.fontofweb.com/2133?format=jpg)](https://design.withfudge.com/share/pin-2133)
+[![Donuts menu page showing product grid cards with item names, prices, availability times, star ratings, and gray ADD buttons alongside product photography on a clean white](https://pin.fontofweb.com/2133?format=jpg)](https://fudge.design/share/pin-2133)
 
-[Donuts menu page showing product grid cards with item names, prices, availability times, star ratings, and gray ADD buttons alongside product photography on a clean white](https://design.withfudge.com/share/pin-2133)
+[Donuts menu page showing product grid cards with item names, prices, availability times, star ratings, and gray ADD buttons alongside product photography on a clean white](https://fudge.design/share/pin-2133)
 
-[![Empty cart modal with centered shopping bag icon, bold heading, muted subtext, and rounded white panel with soft shadow overlaying the page header.](https://pin.fontofweb.com/2132?format=jpg)](https://design.withfudge.com/share/pin-2132)
+[![Empty cart modal with centered shopping bag icon, bold heading, muted subtext, and rounded white panel with soft shadow overlaying the page header.](https://pin.fontofweb.com/2132?format=jpg)](https://fudge.design/share/pin-2132)
 
-[Empty cart modal with centered shopping bag icon, bold heading, muted subtext, and rounded white panel with soft shadow overlaying the page header.](https://design.withfudge.com/share/pin-2132)
+[Empty cart modal with centered shopping bag icon, bold heading, muted subtext, and rounded white panel with soft shadow overlaying the page header.](https://fudge.design/share/pin-2132)
 
-[![Sign-in modal featuring Banjo's green circular logo, email and password input fields, dark green CONTINUE button, light green mobile sign-in option, and centered OR divider.](https://pin.fontofweb.com/2131?format=jpg)](https://design.withfudge.com/share/pin-2131)
+[![Sign-in modal featuring Banjo's green circular logo, email and password input fields, dark green CONTINUE button, light green mobile sign-in option, and centered OR divider.](https://pin.fontofweb.com/2131?format=jpg)](https://fudge.design/share/pin-2131)
 
-[Sign-in modal featuring Banjo's green circular logo, email and password input fields, dark green CONTINUE button, light green mobile sign-in option, and centered OR divider.](https://design.withfudge.com/share/pin-2131)
+[Sign-in modal featuring Banjo's green circular logo, email and password input fields, dark green CONTINUE button, light green mobile sign-in option, and centered OR divider.](https://fudge.design/share/pin-2131)
 
-[![Homepage hero with colorful circular category icons in two rows, VALUE DEALS product cards with star ratings and ADD buttons, and a franchisee promotional banner with warm bakery](https://pin.fontofweb.com/2130?format=jpg)](https://design.withfudge.com/share/pin-2130)
+[![Homepage hero with colorful circular category icons in two rows, VALUE DEALS product cards with star ratings and ADD buttons, and a franchisee promotional banner with warm bakery](https://pin.fontofweb.com/2130?format=jpg)](https://fudge.design/share/pin-2130)
 
-[Homepage hero with colorful circular category icons in two rows, VALUE DEALS product cards with star ratings and ADD buttons, and a franchisee promotional banner with warm bakery](https://design.withfudge.com/share/pin-2130)
+[Homepage hero with colorful circular category icons in two rows, VALUE DEALS product cards with star ratings and ADD buttons, and a franchisee promotional banner with warm bakery](https://fudge.design/share/pin-2130)
 
 ## Overview
 
@@ -219,3 +219,18 @@ Search and utility actions in the header should collapse into a consolidated men
 ## Scope note
 
 This guide covers the online ordering interface for Banjo's Bakery Cafe as visible on the homepage and donuts menu page. It does not include checkout flow, account management beyond sign-in, nutritional detail pages, or store locator functionality. Motion, loading states, and mobile-specific layouts are not represented in the supplied material. Measurements are practical adaptation targets derived from visible interface proportions.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Food and beverage](/share/designs-with-industry.food_beverage)
+- [Ecommerce store](/share/designs-with-offering.ecommerce_store)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

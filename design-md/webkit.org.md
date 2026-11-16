@@ -1,22 +1,22 @@
 # How webkit.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/webkit.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/webkit.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Blog article page with dark charcoal background, white display typography, and blue hyperlink accents in the WebKit header and body content](https://pin.fontofweb.com/1960?format=jpg)](https://design.withfudge.com/share/pin-1960)
+[![Blog article page with dark charcoal background, white display typography, and blue hyperlink accents in the WebKit header and body content](https://pin.fontofweb.com/1960?format=jpg)](https://fudge.design/share/pin-1960)
 
-[Blog article page with dark charcoal background, white display typography, and blue hyperlink accents in the WebKit header and body content](https://design.withfudge.com/share/pin-1960)
+[Blog article page with dark charcoal background, white display typography, and blue hyperlink accents in the WebKit header and body content](https://fudge.design/share/pin-1960)
 
-[![Homepage article grid with dark cards, colorful hero imagery in coral and purple tones, and blue read-more links](https://pin.fontofweb.com/1959?format=jpg)](https://design.withfudge.com/share/pin-1959)
+[![Homepage article grid with dark cards, colorful hero imagery in coral and purple tones, and blue read-more links](https://pin.fontofweb.com/1959?format=jpg)](https://fudge.design/share/pin-1959)
 
-[Homepage article grid with dark cards, colorful hero imagery in coral and purple tones, and blue read-more links](https://design.withfudge.com/share/pin-1959)
+[Homepage article grid with dark cards, colorful hero imagery in coral and purple tones, and blue read-more links](https://fudge.design/share/pin-1959)
 
-[![Hero section with deep navy blue background, white centered headline, and light blue link text with geometric line pattern](https://pin.fontofweb.com/1958?format=jpg)](https://design.withfudge.com/share/pin-1958)
+[![Hero section with deep navy blue background, white centered headline, and light blue link text with geometric line pattern](https://pin.fontofweb.com/1958?format=jpg)](https://fudge.design/share/pin-1958)
 
-[Hero section with deep navy blue background, white centered headline, and light blue link text with geometric line pattern](https://design.withfudge.com/share/pin-1958)
+[Hero section with deep navy blue background, white centered headline, and light blue link text with geometric line pattern](https://fudge.design/share/pin-1958)
 
 ## Overview
 
@@ -177,3 +177,18 @@ Touch targets for navigation items and links should meet minimum 44×44 pixel re
 ## Scope note
 
 This guide covers the homepage hero, article grid, and blog content pages visible in the supplied images. Footer content, search functionality, navigation dropdown menus, mobile-specific layouts, and animation behavior are not represented. Measurements are practical adaptation targets derived from visual inspection of desktop viewport captures.
+
+## Related design patterns
+
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

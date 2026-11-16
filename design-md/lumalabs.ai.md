@@ -1,18 +1,18 @@
 # How lumalabs.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/lumalabs.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/lumalabs.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![News article hero with centered display headline, black text on white canvas, and pill-shaped Sign In button in the navigation bar.](https://pin.fontofweb.com/8579?format=jpg)](https://design.withfudge.com/share/pin-8579)
+[![News article hero with centered display headline, black text on white canvas, and pill-shaped Sign In button in the navigation bar.](https://pin.fontofweb.com/8579?format=jpg)](https://fudge.design/share/pin-8579)
 
-[News article hero with centered display headline, black text on white canvas, and pill-shaped Sign In button in the navigation bar.](https://design.withfudge.com/share/pin-8579)
+[News article hero with centered display headline, black text on white canvas, and pill-shaped Sign In button in the navigation bar.](https://fudge.design/share/pin-8579)
 
-[![Article body with muted gray paragraph text, generous vertical spacing, and horizontal rule separating navigation from content.](https://pin.fontofweb.com/8580?format=jpg)](https://design.withfudge.com/share/pin-8580)
+[![Article body with muted gray paragraph text, generous vertical spacing, and horizontal rule separating navigation from content.](https://pin.fontofweb.com/8580?format=jpg)](https://fudge.design/share/pin-8580)
 
-[Article body with muted gray paragraph text, generous vertical spacing, and horizontal rule separating navigation from content.](https://design.withfudge.com/share/pin-8580)
+[Article body with muted gray paragraph text, generous vertical spacing, and horizontal rule separating navigation from content.](https://fudge.design/share/pin-8580)
 
 ## Overview
 
@@ -159,3 +159,18 @@ Content padding should reduce from 2rem to 1rem or 1.25rem on mobile, reclaiming
 ## Scope note
 
 This guide covers the news article page surface, including navigation, hero headline, and body content. Footer components, mobile navigation patterns, form elements, interactive states, and motion behavior are not represented in the supplied material. The spacing and type scale derive directly from the design facts.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

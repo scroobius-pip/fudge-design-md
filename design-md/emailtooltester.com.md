@@ -1,26 +1,26 @@
 # How emailtooltester.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/emailtooltester.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/emailtooltester.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with cream background, large display headline, colorful line-art illustration, navigation bar, and four white action cards with arrow icons](https://pin.fontofweb.com/5166?format=jpg)](https://design.withfudge.com/share/pin-5166)
+[![Hero section with cream background, large display headline, colorful line-art illustration, navigation bar, and four white action cards with arrow icons](https://pin.fontofweb.com/5166?format=jpg)](https://fudge.design/share/pin-5166)
 
-[Hero section with cream background, large display headline, colorful line-art illustration, navigation bar, and four white action cards with arrow icons](https://design.withfudge.com/share/pin-5166)
+[Hero section with cream background, large display headline, colorful line-art illustration, navigation bar, and four white action cards with arrow icons](https://fudge.design/share/pin-5166)
 
-[![Three-column help section with playful illustrations, muted ink headings, gray body text, and outlined pill buttons on cream background](https://pin.fontofweb.com/5167?format=jpg)](https://design.withfudge.com/share/pin-5167)
+[![Three-column help section with playful illustrations, muted ink headings, gray body text, and outlined pill buttons on cream background](https://pin.fontofweb.com/5167?format=jpg)](https://fudge.design/share/pin-5167)
 
-[Three-column help section with playful illustrations, muted ink headings, gray body text, and outlined pill buttons on cream background](https://design.withfudge.com/share/pin-5167)
+[Three-column help section with playful illustrations, muted ink headings, gray body text, and outlined pill buttons on cream background](https://fudge.design/share/pin-5167)
 
-[![Dark testimonial carousel with portrait photography, yellow accent underline on name, and navigation arrows](https://pin.fontofweb.com/5168?format=jpg)](https://design.withfudge.com/share/pin-5168)
+[![Dark testimonial carousel with portrait photography, yellow accent underline on name, and navigation arrows](https://pin.fontofweb.com/5168?format=jpg)](https://fudge.design/share/pin-5168)
 
-[Dark testimonial carousel with portrait photography, yellow accent underline on name, and navigation arrows](https://design.withfudge.com/share/pin-5168)
+[Dark testimonial carousel with portrait photography, yellow accent underline on name, and navigation arrows](https://fudge.design/share/pin-5168)
 
-[![Dark footer with newsletter input field, colorful logo, social icons, and organized link columns with muted text](https://pin.fontofweb.com/5169?format=jpg)](https://design.withfudge.com/share/pin-5169)
+[![Dark footer with newsletter input field, colorful logo, social icons, and organized link columns with muted text](https://pin.fontofweb.com/5169?format=jpg)](https://fudge.design/share/pin-5169)
 
-[Dark footer with newsletter input field, colorful logo, social icons, and organized link columns with muted text](https://design.withfudge.com/share/pin-5169)
+[Dark footer with newsletter input field, colorful logo, social icons, and organized link columns with muted text](https://fudge.design/share/pin-5169)
 
 ## Overview
 
@@ -200,3 +200,18 @@ The navigation should collapse to a hamburger menu on smaller screens, with the 
 ## Scope note
 
 This guide covers the homepage surface including hero, tools section, help resources, testimonials, and footer. Interior pages, tool comparison interfaces, pricing calculator functionality, and mobile navigation patterns are not represented in the supplied images. Measurements are practical adaptation targets derived from visible proportions. Motion, hover states, loading behavior, and form validation states are not documented.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

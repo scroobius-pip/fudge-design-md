@@ -1,22 +1,22 @@
 # How twilio.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/twilio.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/twilio.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Expanded Products mega-menu with categorized navigation columns and red accent badges on a white dropdown surface.](https://pin.fontofweb.com/9465?format=jpg)](https://design.withfudge.com/share/pin-9465)
+[![Expanded Products mega-menu with categorized navigation columns and red accent badges on a white dropdown surface.](https://pin.fontofweb.com/9465?format=jpg)](https://fudge.design/share/pin-9465)
 
-[Expanded Products mega-menu with categorized navigation columns and red accent badges on a white dropdown surface.](https://design.withfudge.com/share/pin-9465)
+[Expanded Products mega-menu with categorized navigation columns and red accent badges on a white dropdown surface.](https://fudge.design/share/pin-9465)
 
-[![Hero section with dark navy background, large white headline, blue pill button, and embedded video thumbnail with play icon.](https://pin.fontofweb.com/9464?format=jpg)](https://design.withfudge.com/share/pin-9464)
+[![Hero section with dark navy background, large white headline, blue pill button, and embedded video thumbnail with play icon.](https://pin.fontofweb.com/9464?format=jpg)](https://fudge.design/share/pin-9464)
 
-[Hero section with dark navy background, large white headline, blue pill button, and embedded video thumbnail with play icon.](https://design.withfudge.com/share/pin-9464)
+[Hero section with dark navy background, large white headline, blue pill button, and embedded video thumbnail with play icon.](https://fudge.design/share/pin-9464)
 
-[![Pricing section with dark navy background, white typography, blue and white action buttons, and red geometric outline around portrait photography.](https://pin.fontofweb.com/9462?format=jpg)](https://design.withfudge.com/share/pin-9462)
+[![Pricing section with dark navy background, white typography, blue and white action buttons, and red geometric outline around portrait photography.](https://pin.fontofweb.com/9462?format=jpg)](https://fudge.design/share/pin-9462)
 
-[Pricing section with dark navy background, white typography, blue and white action buttons, and red geometric outline around portrait photography.](https://design.withfudge.com/share/pin-9462)
+[Pricing section with dark navy background, white typography, blue and white action buttons, and red geometric outline around portrait photography.](https://fudge.design/share/pin-9462)
 
 ## Overview
 
@@ -187,3 +187,18 @@ Touch targets should respect minimum 44px heights; the current 8px-16px button p
 ## Scope note
 
 This guide covers the Twilio homepage and Customer Engagement Platform page surfaces, including navigation, hero, product dropdown, pricing, and footer sections. Mobile breakpoints, form components, data tables, code blocks, and authenticated dashboard interfaces are not represented in the supplied material. Animation specifications, hover transitions, and loading states are not documented. Measurements reflect the extracted desktop interface values.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

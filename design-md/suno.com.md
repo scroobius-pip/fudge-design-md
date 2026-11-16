@@ -1,26 +1,26 @@
 # How suno.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/suno.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/suno.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Pricing page with three dark cards, pink accent border on Pro Plan, and white pill buttons against near-black background](https://pin.fontofweb.com/4866?format=jpg)](https://design.withfudge.com/share/pin-4866)
+[![Pricing page with three dark cards, pink accent border on Pro Plan, and white pill buttons against near-black background](https://pin.fontofweb.com/4866?format=jpg)](https://fudge.design/share/pin-4866)
 
-[Pricing page with three dark cards, pink accent border on Pro Plan, and white pill buttons against near-black background](https://design.withfudge.com/share/pin-4866)
+[Pricing page with three dark cards, pink accent border on Pro Plan, and white pill buttons against near-black background](https://fudge.design/share/pin-4866)
 
-[![Hero section with warm gradient glow, large display headline, and app store rating cards with white download buttons](https://pin.fontofweb.com/4865?format=jpg)](https://design.withfudge.com/share/pin-4865)
+[![Hero section with warm gradient glow, large display headline, and app store rating cards with white download buttons](https://pin.fontofweb.com/4865?format=jpg)](https://fudge.design/share/pin-4865)
 
-[Hero section with warm gradient glow, large display headline, and app store rating cards with white download buttons](https://design.withfudge.com/share/pin-4865)
+[Hero section with warm gradient glow, large display headline, and app store rating cards with white download buttons](https://fudge.design/share/pin-4865)
 
-[![Pricing page showing monthly/yearly toggle with checkmark icons and feature list hierarchy in dark theme](https://pin.fontofweb.com/4864?format=jpg)](https://design.withfudge.com/share/pin-4864)
+[![Pricing page showing monthly/yearly toggle with checkmark icons and feature list hierarchy in dark theme](https://pin.fontofweb.com/4864?format=jpg)](https://fudge.design/share/pin-4864)
 
-[Pricing page showing monthly/yearly toggle with checkmark icons and feature list hierarchy in dark theme](https://design.withfudge.com/share/pin-4864)
+[Pricing page showing monthly/yearly toggle with checkmark icons and feature list hierarchy in dark theme](https://fudge.design/share/pin-4864)
 
-[![Feature card with audio stem visualization using blue, orange, and green waveform blocks on dark surface](https://pin.fontofweb.com/4863?format=jpg)](https://design.withfudge.com/share/pin-4863)
+[![Feature card with audio stem visualization using blue, orange, and green waveform blocks on dark surface](https://pin.fontofweb.com/4863?format=jpg)](https://fudge.design/share/pin-4863)
 
-[Feature card with audio stem visualization using blue, orange, and green waveform blocks on dark surface](https://design.withfudge.com/share/pin-4863)
+[Feature card with audio stem visualization using blue, orange, and green waveform blocks on dark surface](https://fudge.design/share/pin-4863)
 
 ## Overview
 
@@ -207,3 +207,18 @@ Atmospheric gradient backgrounds should remain full-bleed and centered, with con
 ## Scope note
 
 This guide covers the Suno homepage and pricing surface as visible in the supplied images. Mobile layouts, navigation menus, footer content, audio player interfaces, account dashboards, and motion or sound design are not represented. Measurements are practical adaptation targets. Verify licensing for Pp Editorial New and Pp Neue Montreal before production use.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

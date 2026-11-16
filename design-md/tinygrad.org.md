@@ -1,26 +1,26 @@
 # How tinygrad.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tinygrad.org-design)
+[Open the live Fudge conversation](https://fudge.design/share/tinygrad.org-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Centered pixel-art "tiny" logo with pipe-delimited navigation and orange call-to-action accent on stark white canvas](https://pin.fontofweb.com/8220?format=jpg)](https://design.withfudge.com/share/pin-8220)
+[![Centered pixel-art "tiny" logo with pipe-delimited navigation and orange call-to-action accent on stark white canvas](https://pin.fontofweb.com/8220?format=jpg)](https://fudge.design/share/pin-8220)
 
-[Centered pixel-art "tiny" logo with pipe-delimited navigation and orange call-to-action accent on stark white canvas](https://design.withfudge.com/share/pin-8220)
+[Centered pixel-art "tiny" logo with pipe-delimited navigation and orange call-to-action accent on stark white canvas](https://fudge.design/share/pin-8220)
 
-[![Section headers in bold monospace with orange highlighted status text and dense technical body copy with blue hyperlinks](https://pin.fontofweb.com/8221?format=jpg)](https://design.withfudge.com/share/pin-8221)
+[![Section headers in bold monospace with orange highlighted status text and dense technical body copy with blue hyperlinks](https://pin.fontofweb.com/8221?format=jpg)](https://fudge.design/share/pin-8221)
 
-[Section headers in bold monospace with orange highlighted status text and dense technical body copy with blue hyperlinks](https://design.withfudge.com/share/pin-8221)
+[Section headers in bold monospace with orange highlighted status text and dense technical body copy with blue hyperlinks](https://fudge.design/share/pin-8221)
 
-[![Product comparison table with red and green column headers and centered tinybox hardware photograph on white background](https://pin.fontofweb.com/8222?format=jpg)](https://design.withfudge.com/share/pin-8222)
+[![Product comparison table with red and green column headers and centered tinybox hardware photograph on white background](https://pin.fontofweb.com/8222?format=jpg)](https://fudge.design/share/pin-8222)
 
-[Product comparison table with red and green column headers and centered tinybox hardware photograph on white background](https://design.withfudge.com/share/pin-8222)
+[Product comparison table with red and green column headers and centered tinybox hardware photograph on white background](https://fudge.design/share/pin-8222)
 
-[![FAQ section with italicized questions, blue underlined links, and horizontal rule separators in monospace typography](https://pin.fontofweb.com/8223?format=jpg)](https://design.withfudge.com/share/pin-8223)
+[![FAQ section with italicized questions, blue underlined links, and horizontal rule separators in monospace typography](https://pin.fontofweb.com/8223?format=jpg)](https://fudge.design/share/pin-8223)
 
-[FAQ section with italicized questions, blue underlined links, and horizontal rule separators in monospace typography](https://design.withfudge.com/share/pin-8223)
+[FAQ section with italicized questions, blue underlined links, and horizontal rule separators in monospace typography](https://fudge.design/share/pin-8223)
 
 ## Overview
 
@@ -175,3 +175,18 @@ The supplied images show only a desktop viewport. The narrow content column and 
 ## Scope note
 
 This guide covers the tinygrad.org homepage as a single-page, desktop-viewed experience. Mobile breakpoints, hover and focus states, form interactions, and any interior documentation pages are not represented in the supplied material. The spacing values derive from the retained pixel measurements; implementers should treat them as practical targets rather than exact specifications. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

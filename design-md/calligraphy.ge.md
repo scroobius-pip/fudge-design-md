@@ -1,18 +1,18 @@
 # How calligraphy.ge is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/calligraphy.ge-design)
+[Open the live Fudge conversation](https://fudge.design/share/calligraphy.ge-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with dark charcoal background, ornate Georgian calligraphy logo in white, search input field with orange button, and contact information in muted gray text](https://pin.fontofweb.com/1681?format=jpg)](https://design.withfudge.com/share/pin-1681)
+[![Footer section with dark charcoal background, ornate Georgian calligraphy logo in white, search input field with orange button, and contact information in muted gray text](https://pin.fontofweb.com/1681?format=jpg)](https://fudge.design/share/pin-1681)
 
-[Footer section with dark charcoal background, ornate Georgian calligraphy logo in white, search input field with orange button, and contact information in muted gray text](https://design.withfudge.com/share/pin-1681)
+[Footer section with dark charcoal background, ornate Georgian calligraphy logo in white, search input field with orange button, and contact information in muted gray text](https://fudge.design/share/pin-1681)
 
-[![Homepage hero with flowing black calligraphic signature on white canvas, minimal navigation with Georgian script menu items, and social media links at bottom](https://pin.fontofweb.com/1680?format=jpg)](https://design.withfudge.com/share/pin-1680)
+[![Homepage hero with flowing black calligraphic signature on white canvas, minimal navigation with Georgian script menu items, and social media links at bottom](https://pin.fontofweb.com/1680?format=jpg)](https://fudge.design/share/pin-1680)
 
-[Homepage hero with flowing black calligraphic signature on white canvas, minimal navigation with Georgian script menu items, and social media links at bottom](https://design.withfudge.com/share/pin-1680)
+[Homepage hero with flowing black calligraphic signature on white canvas, minimal navigation with Georgian script menu items, and social media links at bottom](https://fudge.design/share/pin-1680)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The language switcher should remain accessible, potentially moving into the coll
 ## Scope note
 
 This guide covers the homepage and footer surfaces visible in the supplied images. Interior pages, gallery grids, individual artwork pages, motion behavior, hover states, form validation, and mobile breakpoints are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Script or handwriting](/share/designs-with-typography.generic.script_handwriting)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

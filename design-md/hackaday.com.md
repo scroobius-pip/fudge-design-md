@@ -1,22 +1,22 @@
 # How hackaday.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/hackaday.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/hackaday.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hackaday article page with dark theme, yellow accent search button, skull logo, and navigation bar with article hero image of vintage BeOS computer setup](https://pin.fontofweb.com/3820?format=jpg)](https://design.withfudge.com/share/pin-3820)
+[![Hackaday article page with dark theme, yellow accent search button, skull logo, and navigation bar with article hero image of vintage BeOS computer setup](https://pin.fontofweb.com/3820?format=jpg)](https://fudge.design/share/pin-3820)
 
-[Hackaday article page with dark theme, yellow accent search button, skull logo, and navigation bar with article hero image of vintage BeOS computer setup](https://design.withfudge.com/share/pin-3820)
+[Hackaday article page with dark theme, yellow accent search button, skull logo, and navigation bar with article hero image of vintage BeOS computer setup](https://fudge.design/share/pin-3820)
 
-[![Nested comment thread on dark background with yellow author names, reply links, and indented comment boxes with subtle borders](https://pin.fontofweb.com/3346?format=jpg)](https://design.withfudge.com/share/pin-3346)
+[![Nested comment thread on dark background with yellow author names, reply links, and indented comment boxes with subtle borders](https://pin.fontofweb.com/3346?format=jpg)](https://fudge.design/share/pin-3346)
 
-[Nested comment thread on dark background with yellow author names, reply links, and indented comment boxes with subtle borders](https://design.withfudge.com/share/pin-3346)
+[Nested comment thread on dark background with yellow author names, reply links, and indented comment boxes with subtle borders](https://fudge.design/share/pin-3346)
 
-[![Privacy settings modal with dark grey surface, yellow Accept All button, toggle switches, and tab navigation with blue active state](https://pin.fontofweb.com/3821?format=jpg)](https://design.withfudge.com/share/pin-3821)
+[![Privacy settings modal with dark grey surface, yellow Accept All button, toggle switches, and tab navigation with blue active state](https://pin.fontofweb.com/3821?format=jpg)](https://fudge.design/share/pin-3821)
 
-[Privacy settings modal with dark grey surface, yellow Accept All button, toggle switches, and tab navigation with blue active state](https://design.withfudge.com/share/pin-3821)
+[Privacy settings modal with dark grey surface, yellow Accept All button, toggle switches, and tab navigation with blue active state](https://fudge.design/share/pin-3821)
 
 ## Overview
 
@@ -181,3 +181,18 @@ Touch targets for buttons and toggles should expand to minimum 44px height on mo
 ## Scope note
 
 This guide covers the article page, comment thread, and modal dialog surfaces visible in the supplied images. Header navigation, search functionality, and advertising modules are described as they appear. Footer content, homepage layout, archive listings, and mobile-specific adaptations are not represented. Measurements are practical adaptation targets based on visible proportions. Motion, animation, form validation states, and dark-mode toggle behavior are not addressed.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

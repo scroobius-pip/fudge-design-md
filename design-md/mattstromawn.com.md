@@ -1,18 +1,18 @@
 # How mattstromawn.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/mattstromawn.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/mattstromawn.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark theme article page with near-black background, warm light gray headline, and muted body text showing table of contents sidebar](https://pin.fontofweb.com/6300?format=jpg)](https://design.withfudge.com/share/pin-6300)
+[![Dark theme article page with near-black background, warm light gray headline, and muted body text showing table of contents sidebar](https://pin.fontofweb.com/6300?format=jpg)](https://fudge.design/share/pin-6300)
 
-[Dark theme article page with near-black background, warm light gray headline, and muted body text showing table of contents sidebar](https://design.withfudge.com/share/pin-6300)
+[Dark theme article page with near-black background, warm light gray headline, and muted body text showing table of contents sidebar](https://fudge.design/share/pin-6300)
 
-[![Light theme article page with white background, dark charcoal headline, and medium gray body text showing identical content layout](https://pin.fontofweb.com/6299?format=jpg)](https://design.withfudge.com/share/pin-6299)
+[![Light theme article page with white background, dark charcoal headline, and medium gray body text showing identical content layout](https://pin.fontofweb.com/6299?format=jpg)](https://fudge.design/share/pin-6299)
 
-[Light theme article page with white background, dark charcoal headline, and medium gray body text showing identical content layout](https://design.withfudge.com/share/pin-6299)
+[Light theme article page with white background, dark charcoal headline, and medium gray body text showing identical content layout](https://fudge.design/share/pin-6299)
 
 ## Overview
 
@@ -169,3 +169,18 @@ The design appears optimized for desktop reading widths, with a comfortable cent
 ## Scope note
 
 This guide covers the article page template as visible in the supplied images, including the light and dark theme variants, single-column reading layout, and table of contents component. Footer elements, article pagination, comment systems, search functionality, and mobile-specific layouts are not represented in the available material. All visible components use square corners with 0rem border radius.
+
+## Related design patterns
+
+- [Neutral chroma](/share/designs-with-color.chroma.neutral)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Article page](/share/designs-with-page.content.article)
+- [Serif](/share/designs-with-typography.generic.serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

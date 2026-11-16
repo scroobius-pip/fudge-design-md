@@ -1,26 +1,26 @@
 # How icelandreview.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/icelandreview.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/icelandreview.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Header with Iceland Review logo, navigation dropdowns, and folk music hero image with photo credit](https://pin.fontofweb.com/9128?format=jpg)](https://design.withfudge.com/share/pin-9128)
+[![Header with Iceland Review logo, navigation dropdowns, and folk music hero image with photo credit](https://pin.fontofweb.com/9128?format=jpg)](https://fudge.design/share/pin-9128)
 
-[Header with Iceland Review logo, navigation dropdowns, and folk music hero image with photo credit](https://design.withfudge.com/share/pin-9128)
+[Header with Iceland Review logo, navigation dropdowns, and folk music hero image with photo credit](https://fudge.design/share/pin-9128)
 
-[![Article body with red hyperlinks, What's the Story summary box with blue heading and bullet points](https://pin.fontofweb.com/9127?format=jpg)](https://design.withfudge.com/share/pin-9127)
+[![Article body with red hyperlinks, What's the Story summary box with blue heading and bullet points](https://pin.fontofweb.com/9127?format=jpg)](https://fudge.design/share/pin-9127)
 
-[Article body with red hyperlinks, What's the Story summary box with blue heading and bullet points](https://design.withfudge.com/share/pin-9127)
+[Article body with red hyperlinks, What's the Story summary box with blue heading and bullet points](https://fudge.design/share/pin-9127)
 
-[![Article with red hyperlinks, summary box, dark section heading, and bordered content block](https://pin.fontofweb.com/9126?format=jpg)](https://design.withfudge.com/share/pin-9126)
+[![Article with red hyperlinks, summary box, dark section heading, and bordered content block](https://pin.fontofweb.com/9126?format=jpg)](https://fudge.design/share/pin-9126)
 
-[Article with red hyperlinks, summary box, dark section heading, and bordered content block](https://design.withfudge.com/share/pin-9126)
+[Article with red hyperlinks, summary box, dark section heading, and bordered content block](https://fudge.design/share/pin-9126)
 
-[![Clean article body with generous line-height text and atmospheric landscape photography](https://pin.fontofweb.com/9129?format=jpg)](https://design.withfudge.com/share/pin-9129)
+[![Clean article body with generous line-height text and atmospheric landscape photography](https://pin.fontofweb.com/9129?format=jpg)](https://fudge.design/share/pin-9129)
 
-[Clean article body with generous line-height text and atmospheric landscape photography](https://design.withfudge.com/share/pin-9129)
+[Clean article body with generous line-height text and atmospheric landscape photography](https://fudge.design/share/pin-9129)
 
 ## Overview
 
@@ -158,3 +158,18 @@ No breakpoint-specific behavior is visible in the supplied material. Implement f
 ## Scope note
 
 This guide covers the article reading experience and header navigation as visible on news article pages. Footer content, archive listings, search results, comment systems, and subscription flows are not represented in the supplied material. Interactive states including hover, focus, active, and visited links are not documented from still images. System-Sansserif is recorded in the design facts but does not appear as a primary face in captured content.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Article page](/share/designs-with-page.content.article)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How gazeta.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gazeta.ru-design)
+[Open the live Fudge conversation](https://fudge.design/share/gazeta.ru-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage masthead with Газета.Ru logo, hamburger menu, navigation tabs, and three-column content grid featuring opinions, news digest, and sidebar recommendations](https://pin.fontofweb.com/9089?format=jpg)](https://design.withfudge.com/share/pin-9089)
+[![Homepage masthead with Газета.Ru logo, hamburger menu, navigation tabs, and three-column content grid featuring opinions, news digest, and sidebar recommendations](https://pin.fontofweb.com/9089?format=jpg)](https://fudge.design/share/pin-9089)
 
-[Homepage masthead with Газета.Ru logo, hamburger menu, navigation tabs, and three-column content grid featuring opinions, news digest, and sidebar recommendations](https://design.withfudge.com/share/pin-9089)
+[Homepage masthead with Газета.Ru logo, hamburger menu, navigation tabs, and three-column content grid featuring opinions, news digest, and sidebar recommendations](https://fudge.design/share/pin-9089)
 
-[![Article page with full-bleed weather photography, dark overlay header, body text on near-black background, red Telegram link, and cookie consent banner with red Ok button](https://pin.fontofweb.com/9101?format=jpg)](https://design.withfudge.com/share/pin-9101)
+[![Article page with full-bleed weather photography, dark overlay header, body text on near-black background, red Telegram link, and cookie consent banner with red Ok button](https://pin.fontofweb.com/9101?format=jpg)](https://fudge.design/share/pin-9101)
 
-[Article page with full-bleed weather photography, dark overlay header, body text on near-black background, red Telegram link, and cookie consent banner with red Ok button](https://design.withfudge.com/share/pin-9101)
+[Article page with full-bleed weather photography, dark overlay header, body text on near-black background, red Telegram link, and cookie consent banner with red Ok button](https://fudge.design/share/pin-9101)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The header bar should maintain its full-width layout with reduced horizontal pad
 ## Scope note
 
 This guide covers the homepage and article page surfaces visible in the supplied images. Mobile breakpoints, hover and focus states, loading skeletons, error pages, video embeds, and comment sections are not represented. The dark mode article implementation appears complete for text content but may have additional surrounding chrome not visible in the capture. Measurements are exact where retained and practical adaptation targets where derived from visible structure.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Single-column reading](/share/designs-with-layout.archetype.single_column_reading)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

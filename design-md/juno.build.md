@@ -1,26 +1,26 @@
 # How juno.build is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/juno.build-design)
+[Open the live Fudge conversation](https://fudge.design/share/juno.build-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with rocket-launch illustration, code-snippet block, and section heading in monospace type on white canvas](https://pin.fontofweb.com/7237?format=jpg)](https://design.withfudge.com/share/pin-7237)
+[![Hero section with rocket-launch illustration, code-snippet block, and section heading in monospace type on white canvas](https://pin.fontofweb.com/7237?format=jpg)](https://fudge.design/share/pin-7237)
 
-[Hero section with rocket-launch illustration, code-snippet block, and section heading in monospace type on white canvas](https://design.withfudge.com/share/pin-7237)
+[Hero section with rocket-launch illustration, code-snippet block, and section heading in monospace type on white canvas](https://fudge.design/share/pin-7237)
 
-[![Feature stack with astronaut illustration, service cards with icons, and syntax-highlighted code panel on dark surface](https://pin.fontofweb.com/7236?format=jpg)](https://design.withfudge.com/share/pin-7236)
+[![Feature stack with astronaut illustration, service cards with icons, and syntax-highlighted code panel on dark surface](https://pin.fontofweb.com/7236?format=jpg)](https://fudge.design/share/pin-7236)
 
-[Feature stack with astronaut illustration, service cards with icons, and syntax-highlighted code panel on dark surface](https://design.withfudge.com/share/pin-7236)
+[Feature stack with astronaut illustration, service cards with icons, and syntax-highlighted code panel on dark surface](https://fudge.design/share/pin-7236)
 
-[![Homepage hero with centered display type, product dashboard screenshot, and navigation with sign-in action](https://pin.fontofweb.com/7235?format=jpg)](https://design.withfudge.com/share/pin-7235)
+[![Homepage hero with centered display type, product dashboard screenshot, and navigation with sign-in action](https://pin.fontofweb.com/7235?format=jpg)](https://fudge.design/share/pin-7235)
 
-[Homepage hero with centered display type, product dashboard screenshot, and navigation with sign-in action](https://design.withfudge.com/share/pin-7235)
+[Homepage hero with centered display type, product dashboard screenshot, and navigation with sign-in action](https://fudge.design/share/pin-7235)
 
-[![Newsletter section with large bold heading, email input field, and lavender subscribe button with black offset shadow](https://pin.fontofweb.com/3436?format=jpg)](https://design.withfudge.com/share/pin-3436)
+[![Newsletter section with large bold heading, email input field, and lavender subscribe button with black offset shadow](https://pin.fontofweb.com/3436?format=jpg)](https://fudge.design/share/pin-3436)
 
-[Newsletter section with large bold heading, email input field, and lavender subscribe button with black offset shadow](https://design.withfudge.com/share/pin-3436)
+[Newsletter section with large bold heading, email input field, and lavender subscribe button with black offset shadow](https://fudge.design/share/pin-3436)
 
 ## Overview
 
@@ -186,3 +186,18 @@ Button pairs in the hero should stack vertically on narrow screens, with the pri
 ## Scope note
 
 This guide covers the marketing homepage and its visible components. Pricing pages, documentation layouts, authenticated dashboard interfaces, and mobile-specific adaptations are not represented in the supplied material. The console screenshot in the hero is illustrative of product capability but not documented as a component here. Measurements are exact where retained and practical adaptation targets where rounded to the 2px grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [API platform](/share/designs-with-offering.api_platform)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Developer API](/share/designs-with-capability.developer_api)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

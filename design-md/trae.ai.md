@@ -1,18 +1,18 @@
 # How trae.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trae.ai-design)
+[Open the live Fudge conversation](https://fudge.design/share/trae.ai-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Footer section with green TRAE wordmark, download button, and multi-column link grid on near-black background](https://pin.fontofweb.com/5775?format=jpg)](https://design.withfudge.com/share/pin-5775)
+[![Footer section with green TRAE wordmark, download button, and multi-column link grid on near-black background](https://pin.fontofweb.com/5775?format=jpg)](https://fudge.design/share/pin-5775)
 
-[Footer section with green TRAE wordmark, download button, and multi-column link grid on near-black background](https://design.withfudge.com/share/pin-5775)
+[Footer section with green TRAE wordmark, download button, and multi-column link grid on near-black background](https://fudge.design/share/pin-5775)
 
-[![Hero section with particle-field visualization, split headline, and paired action buttons on dark canvas](https://pin.fontofweb.com/5772?format=jpg)](https://design.withfudge.com/share/pin-5772)
+[![Hero section with particle-field visualization, split headline, and paired action buttons on dark canvas](https://pin.fontofweb.com/5772?format=jpg)](https://fudge.design/share/pin-5772)
 
-[Hero section with particle-field visualization, split headline, and paired action buttons on dark canvas](https://design.withfudge.com/share/pin-5772)
+[Hero section with particle-field visualization, split headline, and paired action buttons on dark canvas](https://fudge.design/share/pin-5772)
 
 ## Overview
 
@@ -161,3 +161,18 @@ Navigation links should collapse to a menu trigger at smaller breakpoints, prese
 ## Scope note
 
 This guide covers the TRAE homepage hero and footer surfaces visible in the supplied images. Interior pages, product documentation, pricing tables, and mobile-specific layouts are not represented. Motion behavior for the particle field, dropdown menus, and form interactions are not described. Measurements are practical adaptation targets derived from visual inspection against a 0.25rem base unit.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

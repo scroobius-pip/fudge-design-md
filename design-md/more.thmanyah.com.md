@@ -1,18 +1,18 @@
 # How more.thmanyah.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/more.thmanyah.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/more.thmanyah.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with dark green cinematic background, 3D footballer figure, white Arabic headline, and pill-shaped CTA button with Thmanyah logo in corner](https://pin.fontofweb.com/2950?format=jpg)](https://design.withfudge.com/share/pin-2950)
+[![Hero section with dark green cinematic background, 3D footballer figure, white Arabic headline, and pill-shaped CTA button with Thmanyah logo in corner](https://pin.fontofweb.com/2950?format=jpg)](https://fudge.design/share/pin-2950)
 
-[Hero section with dark green cinematic background, 3D footballer figure, white Arabic headline, and pill-shaped CTA button with Thmanyah logo in corner](https://design.withfudge.com/share/pin-2950)
+[Hero section with dark green cinematic background, 3D footballer figure, white Arabic headline, and pill-shaped CTA button with Thmanyah logo in corner](https://fudge.design/share/pin-2950)
 
-[![Dark black section with white Arabic display typography, device mockup showing football match video with playback controls and platform icons](https://pin.fontofweb.com/2949?format=jpg)](https://design.withfudge.com/share/pin-2949)
+[![Dark black section with white Arabic display typography, device mockup showing football match video with playback controls and platform icons](https://pin.fontofweb.com/2949?format=jpg)](https://fudge.design/share/pin-2949)
 
-[Dark black section with white Arabic display typography, device mockup showing football match video with playback controls and platform icons](https://design.withfudge.com/share/pin-2949)
+[Dark black section with white Arabic display typography, device mockup showing football match video with playback controls and platform icons](https://fudge.design/share/pin-2949)
 
 ## Overview
 
@@ -165,3 +165,18 @@ The save button and primary action should remain tappable at minimum 44px height
 ## Scope note
 
 This guide covers the landing page hero and feature presentation surfaces visible in the supplied imagery. Interior pages, video player controls beyond the mockup frame, subscription flows, and mobile-specific layouts are not represented. Motion behavior, hover states, and loading sequences are recommended but not documented from still images. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Entertainment and gaming](/share/designs-with-industry.entertainment_gaming)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Muted chroma](/share/designs-with-color.chroma.muted)
+- [Green hue](/share/designs-with-color.hue.green)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

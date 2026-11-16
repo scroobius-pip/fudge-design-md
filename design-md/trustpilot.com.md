@@ -1,26 +1,26 @@
 # How trustpilot.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trustpilot.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/trustpilot.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Recent reviews grid showing eight review cards with star ratings, reviewer initials, and company logos above an app promotion banner with App Store badge.](https://pin.fontofweb.com/7774?format=jpg)](https://design.withfudge.com/share/pin-7774)
+[![Recent reviews grid showing eight review cards with star ratings, reviewer initials, and company logos above an app promotion banner with App Store badge.](https://pin.fontofweb.com/7774?format=jpg)](https://fudge.design/share/pin-7774)
 
-[Recent reviews grid showing eight review cards with star ratings, reviewer initials, and company logos above an app promotion banner with App Store badge.](https://design.withfudge.com/share/pin-7774)
+[Recent reviews grid showing eight review cards with star ratings, reviewer initials, and company logos above an app promotion banner with App Store badge.](https://fudge.design/share/pin-7774)
 
-[![Warm cream-colored banner with bold heading, social login options, and three portrait photographs with rounded corners on the right side.](https://pin.fontofweb.com/7773?format=jpg)](https://design.withfudge.com/share/pin-7773)
+[![Warm cream-colored banner with bold heading, social login options, and three portrait photographs with rounded corners on the right side.](https://pin.fontofweb.com/7773?format=jpg)](https://fudge.design/share/pin-7773)
 
-[Warm cream-colored banner with bold heading, social login options, and three portrait photographs with rounded corners on the right side.](https://design.withfudge.com/share/pin-7773)
+[Warm cream-colored banner with bold heading, social login options, and three portrait photographs with rounded corners on the right side.](https://fudge.design/share/pin-7773)
 
-[![Homepage hero with dark navigation bar, large search field, yellow abstract shape, and company category icons in a horizontal row.](https://pin.fontofweb.com/7772?format=jpg)](https://design.withfudge.com/share/pin-7772)
+[![Homepage hero with dark navigation bar, large search field, yellow abstract shape, and company category icons in a horizontal row.](https://pin.fontofweb.com/7772?format=jpg)](https://fudge.design/share/pin-7772)
 
-[Homepage hero with dark navigation bar, large search field, yellow abstract shape, and company category icons in a horizontal row.](https://design.withfudge.com/share/pin-7772)
+[Homepage hero with dark navigation bar, large search field, yellow abstract shape, and company category icons in a horizontal row.](https://fudge.design/share/pin-7772)
 
-[![Review breakdown panel showing 4.0 star rating with green star, percentage bars for five rating levels, and write-a-review link.](https://pin.fontofweb.com/7771?format=jpg)](https://design.withfudge.com/share/pin-7771)
+[![Review breakdown panel showing 4.0 star rating with green star, percentage bars for five rating levels, and write-a-review link.](https://pin.fontofweb.com/7771?format=jpg)](https://fudge.design/share/pin-7771)
 
-[Review breakdown panel showing 4.0 star rating with green star, percentage bars for five rating levels, and write-a-review link.](https://design.withfudge.com/share/pin-7771)
+[Review breakdown panel showing 4.0 star rating with green star, percentage bars for five rating levels, and write-a-review link.](https://fudge.design/share/pin-7771)
 
 ## Overview
 
@@ -208,3 +208,18 @@ The design maintains its core character across viewport sizes while adapting den
 ## Scope note
 
 This guide covers the Trustpilot homepage, company review pages, and shared components visible in the supplied images. It does not include checkout flows, business dashboard interfaces, email templates, or mobile-native app designs. Animation specifications, dark mode implementations beyond the navigation bar, and form validation states are not documented here.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

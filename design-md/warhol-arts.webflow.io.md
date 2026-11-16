@@ -1,26 +1,26 @@
 # How warhol-arts.webflow.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/warhol-arts.webflow.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/warhol-arts.webflow.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Hero section with large black 'WARHOL' display type on vivid orange-red background, scattered painted dollar signs, and social links in left margin](https://pin.fontofweb.com/1267?format=jpg)](https://design.withfudge.com/share/pin-1267)
+[![Hero section with large black 'WARHOL' display type on vivid orange-red background, scattered painted dollar signs, and social links in left margin](https://pin.fontofweb.com/1267?format=jpg)](https://fudge.design/share/pin-1267)
 
-[Hero section with large black 'WARHOL' display type on vivid orange-red background, scattered painted dollar signs, and social links in left margin](https://design.withfudge.com/share/pin-1267)
+[Hero section with large black 'WARHOL' display type on vivid orange-red background, scattered painted dollar signs, and social links in left margin](https://fudge.design/share/pin-1267)
 
-[![Horizontal gallery of event tickets with animal photography, orange-red accents, and 'The Velvet Room' branding on black background](https://pin.fontofweb.com/1266?format=jpg)](https://design.withfudge.com/share/pin-1266)
+[![Horizontal gallery of event tickets with animal photography, orange-red accents, and 'The Velvet Room' branding on black background](https://pin.fontofweb.com/1266?format=jpg)](https://fudge.design/share/pin-1266)
 
-[Horizontal gallery of event tickets with animal photography, orange-red accents, and 'The Velvet Room' branding on black background](https://design.withfudge.com/share/pin-1266)
+[Horizontal gallery of event tickets with animal photography, orange-red accents, and 'The Velvet Room' branding on black background](https://fudge.design/share/pin-1266)
 
-[![Dark section with stacked 'UNLOCK EXPERIENCE' display typography, orange-red script 'the' overlay, keyword cloud, and 'BAG IT' buttons](https://pin.fontofweb.com/1265?format=jpg)](https://design.withfudge.com/share/pin-1265)
+[![Dark section with stacked 'UNLOCK EXPERIENCE' display typography, orange-red script 'the' overlay, keyword cloud, and 'BAG IT' buttons](https://pin.fontofweb.com/1265?format=jpg)](https://fudge.design/share/pin-1265)
 
-[Dark section with stacked 'UNLOCK EXPERIENCE' display typography, orange-red script 'the' overlay, keyword cloud, and 'BAG IT' buttons](https://design.withfudge.com/share/pin-1265)
+[Dark section with stacked 'UNLOCK EXPERIENCE' display typography, orange-red script 'the' overlay, keyword cloud, and 'BAG IT' buttons](https://fudge.design/share/pin-1265)
 
-[![Keyword cloud with staggered alignment showing art-related terms in light and muted tones on black background](https://pin.fontofweb.com/1264?format=jpg)](https://design.withfudge.com/share/pin-1264)
+[![Keyword cloud with staggered alignment showing art-related terms in light and muted tones on black background](https://pin.fontofweb.com/1264?format=jpg)](https://fudge.design/share/pin-1264)
 
-[Keyword cloud with staggered alignment showing art-related terms in light and muted tones on black background](https://design.withfudge.com/share/pin-1264)
+[Keyword cloud with staggered alignment showing art-related terms in light and muted tones on black background](https://fudge.design/share/pin-1264)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Navigation, visible only as social links in the supplied images, would benefit f
 ## Scope note
 
 This guide covers the homepage and landing experience visible in the supplied images. Interior pages, mobile-specific layouts, form states, loading conditions, and motion behavior are not represented. The ticket gallery's horizontal scroll mechanics and any hover transitions require additional specification. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

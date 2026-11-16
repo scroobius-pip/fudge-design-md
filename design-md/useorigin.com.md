@@ -1,26 +1,26 @@
 # How useorigin.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/useorigin.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/useorigin.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![AI Advisor portfolio dashboard with dark cards showing investment balance and performance metrics on black background](https://pin.fontofweb.com/8923?format=jpg)](https://design.withfudge.com/share/pin-8923)
+[![AI Advisor portfolio dashboard with dark cards showing investment balance and performance metrics on black background](https://pin.fontofweb.com/8923?format=jpg)](https://fudge.design/share/pin-8923)
 
-[AI Advisor portfolio dashboard with dark cards showing investment balance and performance metrics on black background](https://design.withfudge.com/share/pin-8923)
+[AI Advisor portfolio dashboard with dark cards showing investment balance and performance metrics on black background](https://fudge.design/share/pin-8923)
 
-[![Investment query interface with italic serif headline and stacked dark input pills on pure black canvas](https://pin.fontofweb.com/8922?format=jpg)](https://design.withfudge.com/share/pin-8922)
+[![Investment query interface with italic serif headline and stacked dark input pills on pure black canvas](https://pin.fontofweb.com/8922?format=jpg)](https://fudge.design/share/pin-8922)
 
-[Investment query interface with italic serif headline and stacked dark input pills on pure black canvas](https://design.withfudge.com/share/pin-8922)
+[Investment query interface with italic serif headline and stacked dark input pills on pure black canvas](https://fudge.design/share/pin-8922)
 
-[![Hero section with mountain photography, frosted navigation bar, and centered italic display typography](https://pin.fontofweb.com/8921?format=jpg)](https://design.withfudge.com/share/pin-8921)
+[![Hero section with mountain photography, frosted navigation bar, and centered italic display typography](https://pin.fontofweb.com/8921?format=jpg)](https://fudge.design/share/pin-8921)
 
-[Hero section with mountain photography, frosted navigation bar, and centered italic display typography](https://design.withfudge.com/share/pin-8921)
+[Hero section with mountain photography, frosted navigation bar, and centered italic display typography](https://fudge.design/share/pin-8921)
 
-[![Forecasting feature with blue gradient panel, net worth projection chart, and rounded data visualization card](https://pin.fontofweb.com/8920?format=jpg)](https://design.withfudge.com/share/pin-8920)
+[![Forecasting feature with blue gradient panel, net worth projection chart, and rounded data visualization card](https://pin.fontofweb.com/8920?format=jpg)](https://fudge.design/share/pin-8920)
 
-[Forecasting feature with blue gradient panel, net worth projection chart, and rounded data visualization card](https://design.withfudge.com/share/pin-8920)
+[Forecasting feature with blue gradient panel, net worth projection chart, and rounded data visualization card](https://fudge.design/share/pin-8920)
 
 ## Overview
 
@@ -218,3 +218,18 @@ The forecasting visualization requires careful handling: the chart and annotatio
 ## Scope note
 
 This guide covers the homepage and product page surfaces visible in the supplied images, including hero sections, feature demonstrations, data panels, and navigation. Mobile layouts, form validation states, loading skeletons, error pages, and account dashboard interfaces are not represented. Motion design, including gradient animations and scroll-triggered transitions, is not documented. Measurements are derived from the exact values supplied in the design facts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Analytics](/share/designs-with-capability.analytics)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

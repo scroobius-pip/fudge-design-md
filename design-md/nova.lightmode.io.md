@@ -1,26 +1,26 @@
 # How nova.lightmode.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/nova.lightmode.io-design)
+[Open the live Fudge conversation](https://fudge.design/share/nova.lightmode.io-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Testimonials section with three dark cards featuring user quotes and avatars against a near-black background with subtle dot-grid pattern.](https://pin.fontofweb.com/6696?format=jpg)](https://design.withfudge.com/share/pin-6696)
+[![Testimonials section with three dark cards featuring user quotes and avatars against a near-black background with subtle dot-grid pattern.](https://pin.fontofweb.com/6696?format=jpg)](https://fudge.design/share/pin-6696)
 
-[Testimonials section with three dark cards featuring user quotes and avatars against a near-black background with subtle dot-grid pattern.](https://design.withfudge.com/share/pin-6696)
+[Testimonials section with three dark cards featuring user quotes and avatars against a near-black background with subtle dot-grid pattern.](https://fudge.design/share/pin-6696)
 
-[![Feature showcase for AI cards and website cards with product screenshots, partner logos, and pill-shaped labels on dark canvas.](https://pin.fontofweb.com/6695?format=jpg)](https://design.withfudge.com/share/pin-6695)
+[![Feature showcase for AI cards and website cards with product screenshots, partner logos, and pill-shaped labels on dark canvas.](https://pin.fontofweb.com/6695?format=jpg)](https://fudge.design/share/pin-6695)
 
-[Feature showcase for AI cards and website cards with product screenshots, partner logos, and pill-shaped labels on dark canvas.](https://design.withfudge.com/share/pin-6695)
+[Feature showcase for AI cards and website cards with product screenshots, partner logos, and pill-shaped labels on dark canvas.](https://fudge.design/share/pin-6695)
 
-[![Grid and cards feature section with asymmetric layout showing product interface screenshots and descriptive text blocks.](https://pin.fontofweb.com/6694?format=jpg)](https://design.withfudge.com/share/pin-6694)
+[![Grid and cards feature section with asymmetric layout showing product interface screenshots and descriptive text blocks.](https://pin.fontofweb.com/6694?format=jpg)](https://fudge.design/share/pin-6694)
 
-[Grid and cards feature section with asymmetric layout showing product interface screenshots and descriptive text blocks.](https://design.withfudge.com/share/pin-6694)
+[Grid and cards feature section with asymmetric layout showing product interface screenshots and descriptive text blocks.](https://fudge.design/share/pin-6694)
 
-[![Hero section with centered Nova wordmark, gradient headline, download buttons, and floating product dashboard screenshot.](https://pin.fontofweb.com/6693?format=jpg)](https://design.withfudge.com/share/pin-6693)
+[![Hero section with centered Nova wordmark, gradient headline, download buttons, and floating product dashboard screenshot.](https://pin.fontofweb.com/6693?format=jpg)](https://fudge.design/share/pin-6693)
 
-[Hero section with centered Nova wordmark, gradient headline, download buttons, and floating product dashboard screenshot.](https://design.withfudge.com/share/pin-6693)
+[Hero section with centered Nova wordmark, gradient headline, download buttons, and floating product dashboard screenshot.](https://fudge.design/share/pin-6693)
 
 ## Overview
 
@@ -181,3 +181,18 @@ The dot-grid background pattern may become less visible or be removed on mobile 
 ## Scope note
 
 This guide covers the Nova marketing page as captured: hero, feature sections with product screenshots, testimonials, and download calls-to-action. The actual application interface shown within screenshots is not documented here. Mobile layouts, animation, hover states, and form interactions were not visible in the supplied material. Measurements are drawn from the exact values provided in the design facts.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

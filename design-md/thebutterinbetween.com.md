@@ -1,22 +1,22 @@
 # How thebutterinbetween.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/thebutterinbetween.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/thebutterinbetween.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Stories page with deep burgundy canvas, centered serif headline, and architectural photograph with green-lit columns](https://pin.fontofweb.com/3324?format=jpg)](https://design.withfudge.com/share/pin-3324)
+[![Stories page with deep burgundy canvas, centered serif headline, and architectural photograph with green-lit columns](https://pin.fontofweb.com/3324?format=jpg)](https://fudge.design/share/pin-3324)
 
-[Stories page with deep burgundy canvas, centered serif headline, and architectural photograph with green-lit columns](https://design.withfudge.com/share/pin-3324)
+[Stories page with deep burgundy canvas, centered serif headline, and architectural photograph with green-lit columns](https://fudge.design/share/pin-3324)
 
-[![About page with muted sage-green background, yellow italic introduction paragraph, and oversized yellow logotype at bottom](https://pin.fontofweb.com/3323?format=jpg)](https://design.withfudge.com/share/pin-3323)
+[![About page with muted sage-green background, yellow italic introduction paragraph, and oversized yellow logotype at bottom](https://pin.fontofweb.com/3323?format=jpg)](https://fudge.design/share/pin-3323)
 
-[About page with muted sage-green background, yellow italic introduction paragraph, and oversized yellow logotype at bottom](https://design.withfudge.com/share/pin-3323)
+[About page with muted sage-green background, yellow italic introduction paragraph, and oversized yellow logotype at bottom](https://fudge.design/share/pin-3323)
 
-[![Home page with full-bleed dark architectural photograph, yellow navigation and metadata, and massive yellow logotype overlay](https://pin.fontofweb.com/3322?format=jpg)](https://design.withfudge.com/share/pin-3322)
+[![Home page with full-bleed dark architectural photograph, yellow navigation and metadata, and massive yellow logotype overlay](https://pin.fontofweb.com/3322?format=jpg)](https://fudge.design/share/pin-3322)
 
-[Home page with full-bleed dark architectural photograph, yellow navigation and metadata, and massive yellow logotype overlay](https://design.withfudge.com/share/pin-3322)
+[Home page with full-bleed dark architectural photograph, yellow navigation and metadata, and massive yellow logotype overlay](https://fudge.design/share/pin-3322)
 
 ## Overview
 
@@ -159,3 +159,18 @@ The system is designed for desktop-first viewing given the extreme scale of the 
 ## Scope note
 
 This guide covers the home, stories, and about page surfaces visible in the supplied material. Mobile layouts, hover states, loading behavior, form elements, and additional content templates are not represented. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Top navigation](/share/designs-with-layout.shell.top_nav)
+- [Media publication](/share/designs-with-offering.media_publication)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Yellow hue](/share/designs-with-color.hue.yellow)
+- [Media and publishing](/share/designs-with-industry.media_publishing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,22 +1,22 @@
 # How trustmrr.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/trustmrr.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/trustmrr.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Marketing homepage with hero headline, search bar, startup listing cards, and revenue leaderboard table on dark background](https://pin.fontofweb.com/7516?format=jpg)](https://design.withfudge.com/share/pin-7516)
+[![Marketing homepage with hero headline, search bar, startup listing cards, and revenue leaderboard table on dark background](https://pin.fontofweb.com/7516?format=jpg)](https://fudge.design/share/pin-7516)
 
-[Marketing homepage with hero headline, search bar, startup listing cards, and revenue leaderboard table on dark background](https://design.withfudge.com/share/pin-7516)
+[Marketing homepage with hero headline, search bar, startup listing cards, and revenue leaderboard table on dark background](https://fudge.design/share/pin-7516)
 
-[![Startup profile form with green promotional banner, input fields, category selector, and analytics integration cards in dashboard layout](https://pin.fontofweb.com/7517?format=jpg)](https://design.withfudge.com/share/pin-7517)
+[![Startup profile form with green promotional banner, input fields, category selector, and analytics integration cards in dashboard layout](https://pin.fontofweb.com/7517?format=jpg)](https://fudge.design/share/pin-7517)
 
-[Startup profile form with green promotional banner, input fields, category selector, and analytics integration cards in dashboard layout](https://design.withfudge.com/share/pin-7517)
+[Startup profile form with green promotional banner, input fields, category selector, and analytics integration cards in dashboard layout](https://fudge.design/share/pin-7517)
 
-[![Three-panel inbox interface with sidebar navigation, empty conversation list, and acquisition details panel with floating task checklist](https://pin.fontofweb.com/7519?format=jpg)](https://design.withfudge.com/share/pin-7519)
+[![Three-panel inbox interface with sidebar navigation, empty conversation list, and acquisition details panel with floating task checklist](https://pin.fontofweb.com/7519?format=jpg)](https://fudge.design/share/pin-7519)
 
-[Three-panel inbox interface with sidebar navigation, empty conversation list, and acquisition details panel with floating task checklist](https://design.withfudge.com/share/pin-7519)
+[Three-panel inbox interface with sidebar navigation, empty conversation list, and acquisition details panel with floating task checklist](https://fudge.design/share/pin-7519)
 
 ## Overview
 
@@ -190,3 +190,18 @@ The dashboard sidebar should collapse to an icon-only rail or hamburger menu on 
 ## Scope note
 
 This guide covers the marketing homepage and authenticated seller dashboard surfaces visible in the supplied images. Mobile layouts, buyer-specific interfaces, payment flows, and animation behaviors are not represented. The System-Uimonospace family appears only in leaderboard data contexts; Crisp Noto Sans appears in limited button contexts at 11px. Verify licensing for these families before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Rounded corners](/share/designs-with-visual.corner.rounded)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Onboarding step](/share/designs-with-interaction.task_state.onboarding_step)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Marketplace](/share/designs-with-offering.marketplace)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

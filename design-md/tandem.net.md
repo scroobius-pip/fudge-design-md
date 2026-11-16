@@ -1,26 +1,26 @@
 # How tandem.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/tandem.net-design)
+[Open the live Fudge conversation](https://fudge.design/share/tandem.net-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark charcoal footer with multi-column link lists, App Store badges, social media icons, and office addresses on a near-black background.](https://pin.fontofweb.com/5334?format=jpg)](https://design.withfudge.com/share/pin-5334)
+[![Dark charcoal footer with multi-column link lists, App Store badges, social media icons, and office addresses on a near-black background.](https://pin.fontofweb.com/5334?format=jpg)](https://fudge.design/share/pin-5334)
 
-[Dark charcoal footer with multi-column link lists, App Store badges, social media icons, and office addresses on a near-black background.](https://design.withfudge.com/share/pin-5334)
+[Dark charcoal footer with multi-column link lists, App Store badges, social media icons, and office addresses on a near-black background.](https://fudge.design/share/pin-5334)
 
-[![Warm off-white testimonials section with six user reviews, orange star ratings, and centered dark text in a three-column grid.](https://pin.fontofweb.com/5333?format=jpg)](https://design.withfudge.com/share/pin-5333)
+[![Warm off-white testimonials section with six user reviews, orange star ratings, and centered dark text in a three-column grid.](https://pin.fontofweb.com/5333?format=jpg)](https://fudge.design/share/pin-5333)
 
-[Warm off-white testimonials section with six user reviews, orange star ratings, and centered dark text in a three-column grid.](https://design.withfudge.com/share/pin-5333)
+[Warm off-white testimonials section with six user reviews, orange star ratings, and centered dark text in a three-column grid.](https://fudge.design/share/pin-5333)
 
-[![App feature section showing a phone mockup with bilingual chat interface, numbered heading, and mint-green dotted decorative shapes on cream background.](https://pin.fontofweb.com/5332?format=jpg)](https://design.withfudge.com/share/pin-5332)
+[![App feature section showing a phone mockup with bilingual chat interface, numbered heading, and mint-green dotted decorative shapes on cream background.](https://pin.fontofweb.com/5332?format=jpg)](https://fudge.design/share/pin-5332)
 
-[App feature section showing a phone mockup with bilingual chat interface, numbered heading, and mint-green dotted decorative shapes on cream background.](https://design.withfudge.com/share/pin-5332)
+[App feature section showing a phone mockup with bilingual chat interface, numbered heading, and mint-green dotted decorative shapes on cream background.](https://fudge.design/share/pin-5332)
 
-[![Two-step onboarding explanation with stacked phone mockups, community profiles, filter screens, and playful mint and coral geometric decorations.](https://pin.fontofweb.com/5331?format=jpg)](https://design.withfudge.com/share/pin-5331)
+[![Two-step onboarding explanation with stacked phone mockups, community profiles, filter screens, and playful mint and coral geometric decorations.](https://pin.fontofweb.com/5331?format=jpg)](https://fudge.design/share/pin-5331)
 
-[Two-step onboarding explanation with stacked phone mockups, community profiles, filter screens, and playful mint and coral geometric decorations.](https://design.withfudge.com/share/pin-5331)
+[Two-step onboarding explanation with stacked phone mockups, community profiles, filter screens, and playful mint and coral geometric decorations.](https://fudge.design/share/pin-5331)
 
 ## Overview
 
@@ -188,3 +188,18 @@ Touch targets for footer links and social icons should meet minimum 44px height.
 ## Scope note
 
 This guide covers the Tandem marketing homepage including the footer, testimonials, and feature explanation sections with phone mockups. Mobile layouts, hover states, form interactions, motion design, and interior pages are not represented in the supplied material. Measurements are practical adaptation targets based on visible proportions in the provided images.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing page](/share/designs-with-page.marketing)
+- [Vivid chroma](/share/designs-with-color.chroma.vivid)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

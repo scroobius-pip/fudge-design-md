@@ -1,26 +1,26 @@
 # How q-industrial.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/q-industrial.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/q-industrial.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Global contact locations grid with white text on black background and a globe icon](https://pin.fontofweb.com/488?format=jpg)](https://design.withfudge.com/share/pin-488)
+[![Global contact locations grid with white text on black background and a globe icon](https://pin.fontofweb.com/488?format=jpg)](https://fudge.design/share/pin-488)
 
-[Global contact locations grid with white text on black background and a globe icon](https://design.withfudge.com/share/pin-488)
+[Global contact locations grid with white text on black background and a globe icon](https://fudge.design/share/pin-488)
 
-[![Contact form with red submit button, subject pill buttons, and checkbox agreement field](https://pin.fontofweb.com/487?format=jpg)](https://design.withfudge.com/share/pin-487)
+[![Contact form with red submit button, subject pill buttons, and checkbox agreement field](https://pin.fontofweb.com/487?format=jpg)](https://fudge.design/share/pin-487)
 
-[Contact form with red submit button, subject pill buttons, and checkbox agreement field](https://design.withfudge.com/share/pin-487)
+[Contact form with red submit button, subject pill buttons, and checkbox agreement field](https://fudge.design/share/pin-487)
 
-[![Contact form upper portion showing inline labels and underlined input fields on black](https://pin.fontofweb.com/486?format=jpg)](https://design.withfudge.com/share/pin-486)
+[![Contact form upper portion showing inline labels and underlined input fields on black](https://pin.fontofweb.com/486?format=jpg)](https://fudge.design/share/pin-486)
 
-[Contact form upper portion showing inline labels and underlined input fields on black](https://design.withfudge.com/share/pin-486)
+[Contact form upper portion showing inline labels and underlined input fields on black](https://fudge.design/share/pin-486)
 
-[![Split contact page layout with large left headline and right-aligned form on black background](https://pin.fontofweb.com/485?format=jpg)](https://design.withfudge.com/share/pin-485)
+[![Split contact page layout with large left headline and right-aligned form on black background](https://pin.fontofweb.com/485?format=jpg)](https://fudge.design/share/pin-485)
 
-[Split contact page layout with large left headline and right-aligned form on black background](https://design.withfudge.com/share/pin-485)
+[Split contact page layout with large left headline and right-aligned form on black background](https://fudge.design/share/pin-485)
 
 ## Overview
 
@@ -166,3 +166,18 @@ The split-layout composition seen on the contact page should stack vertically on
 ## Scope note
 
 This guide covers the contact page and its visible components as represented in the supplied images. Other site pages including services, about, surfaces, catalog, technologies, and the homepage are referenced in the domain structure but not visually represented here. Mobile layouts, breakpoint behaviors, hover states, focus states, loading indicators, error messaging, and form validation styling are not covered and should be designed to extend the established principles. Measurements are practical adaptation targets derived from the visible interface.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

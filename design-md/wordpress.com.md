@@ -1,26 +1,26 @@
 # How wordpress.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/wordpress.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/wordpress.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage themes showcase with serif headline 'Drag, drop, set it apart' and blue action button above a grid of colorful website preview cards](https://pin.fontofweb.com/4488?format=jpg)](https://design.withfudge.com/share/pin-4488)
+[![Homepage themes showcase with serif headline 'Drag, drop, set it apart' and blue action button above a grid of colorful website preview cards](https://pin.fontofweb.com/4488?format=jpg)](https://fudge.design/share/pin-4488)
 
-[Homepage themes showcase with serif headline 'Drag, drop, set it apart' and blue action button above a grid of colorful website preview cards](https://design.withfudge.com/share/pin-4488)
+[Homepage themes showcase with serif headline 'Drag, drop, set it apart' and blue action button above a grid of colorful website preview cards](https://fudge.design/share/pin-4488)
 
-[![About page network statistics section with large white numerals on dark background and serif heading with outlined button](https://pin.fontofweb.com/768?format=jpg)](https://design.withfudge.com/share/pin-768)
+[![About page network statistics section with large white numerals on dark background and serif heading with outlined button](https://pin.fontofweb.com/768?format=jpg)](https://fudge.design/share/pin-768)
 
-[About page network statistics section with large white numerals on dark background and serif heading with outlined button](https://design.withfudge.com/share/pin-768)
+[About page network statistics section with large white numerals on dark background and serif heading with outlined button](https://fudge.design/share/pin-768)
 
-[![About page hero with serif display heading 'We're as diverse as the websites our customers create' above a full-width team photograph](https://pin.fontofweb.com/767?format=jpg)](https://design.withfudge.com/share/pin-767)
+[![About page hero with serif display heading 'We're as diverse as the websites our customers create' above a full-width team photograph](https://pin.fontofweb.com/767?format=jpg)](https://fudge.design/share/pin-767)
 
-[About page hero with serif display heading 'We're as diverse as the websites our customers create' above a full-width team photograph](https://design.withfudge.com/share/pin-767)
+[About page hero with serif display heading 'We're as diverse as the websites our customers create' above a full-width team photograph](https://fudge.design/share/pin-767)
 
-[![About page values section with white text and icons on a solid blue background featuring two-column card layout with photographs](https://pin.fontofweb.com/766?format=jpg)](https://design.withfudge.com/share/pin-766)
+[![About page values section with white text and icons on a solid blue background featuring two-column card layout with photographs](https://pin.fontofweb.com/766?format=jpg)](https://fudge.design/share/pin-766)
 
-[About page values section with white text and icons on a solid blue background featuring two-column card layout with photographs](https://design.withfudge.com/share/pin-766)
+[About page values section with white text and icons on a solid blue background featuring two-column card layout with photographs](https://fudge.design/share/pin-766)
 
 ## Overview
 
@@ -171,3 +171,18 @@ The supplied images show desktop layouts exclusively. Based on these composition
 ## Scope note
 
 This guide covers the homepage and About page surfaces visible in the supplied images. Pricing page layouts, mobile breakpoints, navigation dropdown behavior, form interactions, and footer components are not represented. Motion, hover states, and loading patterns are not documented. The font files "By Jorge Cisterna-14066154350215534249" and "By Jorge Cisterna-18335614256516950002" both resolve to the same design attribution; production implementations should consolidate to a single Recoleta family reference. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How miraa.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/miraa.app-design)
+[Open the live Fudge conversation](https://fudge.design/share/miraa.app-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![AI Materials section with media format icons and Seamless Echoing feature showing iPhone mockup with bilingual subtitle interface on pale green background](https://pin.fontofweb.com/5676?format=jpg)](https://design.withfudge.com/share/pin-5676)
+[![AI Materials section with media format icons and Seamless Echoing feature showing iPhone mockup with bilingual subtitle interface on pale green background](https://pin.fontofweb.com/5676?format=jpg)](https://fudge.design/share/pin-5676)
 
-[AI Materials section with media format icons and Seamless Echoing feature showing iPhone mockup with bilingual subtitle interface on pale green background](https://design.withfudge.com/share/pin-5676)
+[AI Materials section with media format icons and Seamless Echoing feature showing iPhone mockup with bilingual subtitle interface on pale green background](https://fudge.design/share/pin-5676)
 
-[![Hero section with AI Bilingual Subtitles & Learning headline, App Store and Google Play download badges, and iPhone mockup displaying Japanese-English subtitle learning interface](https://pin.fontofweb.com/5675?format=jpg)](https://design.withfudge.com/share/pin-5675)
+[![Hero section with AI Bilingual Subtitles & Learning headline, App Store and Google Play download badges, and iPhone mockup displaying Japanese-English subtitle learning interface](https://pin.fontofweb.com/5675?format=jpg)](https://fudge.design/share/pin-5675)
 
-[Hero section with AI Bilingual Subtitles & Learning headline, App Store and Google Play download badges, and iPhone mockup displaying Japanese-English subtitle learning interface](https://design.withfudge.com/share/pin-5675)
+[Hero section with AI Bilingual Subtitles & Learning headline, App Store and Google Play download badges, and iPhone mockup displaying Japanese-English subtitle learning interface](https://fudge.design/share/pin-5675)
 
 ## Overview
 
@@ -156,3 +156,18 @@ The canvas background color should persist across all breakpoints, as it defines
 ## Scope note
 
 This guide covers the marketing page surface visible in the supplied images, including the hero section, media format support bar, and feature showcase with device mockups. Mobile breakpoints, additional interior pages, in-app interface states beyond those visible, motion design, form interactions, and dark mode variants are not represented in the available material. Measurements are practical adaptation targets.
+
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How datafa.st is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/datafa.st-design)
+[Open the live Fudge conversation](https://fudge.design/share/datafa.st-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Full landing page with dark hero, revenue analytics headline, coral CTA button, and interactive dashboard preview with chart and metrics](https://pin.fontofweb.com/4490?format=jpg)](https://design.withfudge.com/share/pin-4490)
+[![Full landing page with dark hero, revenue analytics headline, coral CTA button, and interactive dashboard preview with chart and metrics](https://pin.fontofweb.com/4490?format=jpg)](https://fudge.design/share/pin-4490)
 
-[Full landing page with dark hero, revenue analytics headline, coral CTA button, and interactive dashboard preview with chart and metrics](https://design.withfudge.com/share/pin-4490)
+[Full landing page with dark hero, revenue analytics headline, coral CTA button, and interactive dashboard preview with chart and metrics](https://fudge.design/share/pin-4490)
 
-[![Social proof section with overlapping user avatars and user count on dark background](https://pin.fontofweb.com/4491?format=jpg)](https://design.withfudge.com/share/pin-4491)
+[![Social proof section with overlapping user avatars and user count on dark background](https://pin.fontofweb.com/4491?format=jpg)](https://fudge.design/share/pin-4491)
 
-[Social proof section with overlapping user avatars and user count on dark background](https://design.withfudge.com/share/pin-4491)
+[Social proof section with overlapping user avatars and user count on dark background](https://fudge.design/share/pin-4491)
 
 ## Overview
 
@@ -179,3 +179,18 @@ Navigation links should collapse to a menu button below 768px, preserving the lo
 ## Scope note
 
 This guide covers the DataFast landing page hero and dashboard preview as visible in desktop viewport captures. Mobile breakpoints, interior pages, authentication flows, and actual chart interactivity are not represented. The Fuzzy Bubbles family attribution could not be verified against designer or vendor records. Measurements are practical adaptation targets derived from visible proportions.
+
+## Related design patterns
+
+- [Analytics](/share/designs-with-capability.analytics)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Marketing section](/share/designs-with-section.marketing)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

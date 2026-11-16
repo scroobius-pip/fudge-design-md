@@ -1,26 +1,26 @@
 # How type.lol is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/type.lol-design)
+[Open the live Fudge conversation](https://fudge.design/share/type.lol-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage with featured typefaces grid, newsletter banner, and sidebar navigation showing Discover and Collections sections](https://pin.fontofweb.com/7462?format=jpg)](https://design.withfudge.com/share/pin-7462)
+[![Homepage with featured typefaces grid, newsletter banner, and sidebar navigation showing Discover and Collections sections](https://pin.fontofweb.com/7462?format=jpg)](https://fudge.design/share/pin-7462)
 
-[Homepage with featured typefaces grid, newsletter banner, and sidebar navigation showing Discover and Collections sections](https://design.withfudge.com/share/pin-7462)
+[Homepage with featured typefaces grid, newsletter banner, and sidebar navigation showing Discover and Collections sections](https://fudge.design/share/pin-7462)
 
-[![Expanded horizontal scroll of featured typefaces with multiple specimen cards and new collections row](https://pin.fontofweb.com/7461?format=jpg)](https://design.withfudge.com/share/pin-7461)
+[![Expanded horizontal scroll of featured typefaces with multiple specimen cards and new collections row](https://pin.fontofweb.com/7461?format=jpg)](https://fudge.design/share/pin-7461)
 
-[Expanded horizontal scroll of featured typefaces with multiple specimen cards and new collections row](https://design.withfudge.com/share/pin-7461)
+[Expanded horizontal scroll of featured typefaces with multiple specimen cards and new collections row](https://fudge.design/share/pin-7461)
 
-[![Typeface browsing grid with large specimen previews, filter controls, and detailed type tester panel](https://pin.fontofweb.com/7460?format=jpg)](https://design.withfudge.com/share/pin-7460)
+[![Typeface browsing grid with large specimen previews, filter controls, and detailed type tester panel](https://pin.fontofweb.com/7460?format=jpg)](https://fudge.design/share/pin-7460)
 
-[Typeface browsing grid with large specimen previews, filter controls, and detailed type tester panel](https://design.withfudge.com/share/pin-7460)
+[Typeface browsing grid with large specimen previews, filter controls, and detailed type tester panel](https://fudge.design/share/pin-7460)
 
-[![Foundry showcase with vibrant specimen screenshots from multiple type foundries in a dense grid layout](https://pin.fontofweb.com/7459?format=jpg)](https://design.withfudge.com/share/pin-7459)
+[![Foundry showcase with vibrant specimen screenshots from multiple type foundries in a dense grid layout](https://pin.fontofweb.com/7459?format=jpg)](https://fudge.design/share/pin-7459)
 
-[Foundry showcase with vibrant specimen screenshots from multiple type foundries in a dense grid layout](https://design.withfudge.com/share/pin-7459)
+[Foundry showcase with vibrant specimen screenshots from multiple type foundries in a dense grid layout](https://fudge.design/share/pin-7459)
 
 ## Overview
 
@@ -206,3 +206,18 @@ The two-panel layout likely collapses to a single column on smaller viewports, w
 ## Scope note
 
 This guide covers the homepage, typeface browsing grid, and foundry showcase surfaces visible in the supplied images. Mobile layouts, user profile pages, checkout flows, and animation specifications are not included. The type tester panel's full interactive behavior and variable font axis ranges are partially visible but not completely documented. Measurements are exact values from the retained interface records.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+- [Unknown page role](/share/designs-with-page.unknown)
+- [Populated state](/share/designs-with-interaction.data_state.populated)
+- [Card grid](/share/designs-with-layout.archetype.card_grid)
+- [Right rail](/share/designs-with-layout.feature.right_rail)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

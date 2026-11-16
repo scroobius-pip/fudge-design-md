@@ -1,26 +1,26 @@
 # How createanything.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/createanything.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/createanything.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![FAQ accordion section with rounded bordered items and chevron expand icons on a clean white background](https://pin.fontofweb.com/5158?format=jpg)](https://design.withfudge.com/share/pin-5158)
+[![FAQ accordion section with rounded bordered items and chevron expand icons on a clean white background](https://pin.fontofweb.com/5158?format=jpg)](https://fudge.design/share/pin-5158)
 
-[FAQ accordion section with rounded bordered items and chevron expand icons on a clean white background](https://design.withfudge.com/share/pin-5158)
+[FAQ accordion section with rounded bordered items and chevron expand icons on a clean white background](https://fudge.design/share/pin-5158)
 
-[![Four-column pricing comparison table with tier headers, credit badges, and filled action buttons](https://pin.fontofweb.com/5157?format=jpg)](https://design.withfudge.com/share/pin-5157)
+[![Four-column pricing comparison table with tier headers, credit badges, and filled action buttons](https://pin.fontofweb.com/5157?format=jpg)](https://fudge.design/share/pin-5157)
 
-[Four-column pricing comparison table with tier headers, credit badges, and filled action buttons](https://design.withfudge.com/share/pin-5157)
+[Four-column pricing comparison table with tier headers, credit badges, and filled action buttons](https://fudge.design/share/pin-5157)
 
-[![Pricing card grid with Popular badge, monthly-yearly toggle, and feature checklists with outlined cards](https://pin.fontofweb.com/5156?format=jpg)](https://design.withfudge.com/share/pin-5156)
+[![Pricing card grid with Popular badge, monthly-yearly toggle, and feature checklists with outlined cards](https://pin.fontofweb.com/5156?format=jpg)](https://fudge.design/share/pin-5156)
 
-[Pricing card grid with Popular badge, monthly-yearly toggle, and feature checklists with outlined cards](https://design.withfudge.com/share/pin-5156)
+[Pricing card grid with Popular badge, monthly-yearly toggle, and feature checklists with outlined cards](https://fudge.design/share/pin-5156)
 
-[![Hero section with serif italic headline, device mockup showing messaging app interface, and Mobile-Web toggle](https://pin.fontofweb.com/5155?format=jpg)](https://design.withfudge.com/share/pin-5155)
+[![Hero section with serif italic headline, device mockup showing messaging app interface, and Mobile-Web toggle](https://pin.fontofweb.com/5155?format=jpg)](https://fudge.design/share/pin-5155)
 
-[Hero section with serif italic headline, device mockup showing messaging app interface, and Mobile-Web toggle](https://design.withfudge.com/share/pin-5155)
+[Hero section with serif italic headline, device mockup showing messaging app interface, and Mobile-Web toggle](https://fudge.design/share/pin-5155)
 
 ## Overview
 
@@ -212,3 +212,18 @@ Typography scales down by approximately 15-20% on mobile: hero-display to approx
 ## Scope note
 
 This guide covers the marketing and pricing surfaces visible in the supplied images, including the homepage hero with device mockup, pricing cards, feature comparison table, and FAQ accordion. Navigation, footer, authentication flows, and the actual application builder interface are not represented. Interactive states including hover, active, focus, loading, and disabled are not documented from the still images. Motion, animation, and mobile-specific layouts are not covered. Measurements are practical adaptation targets derived from visual inspection against a 4px base grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Contained layout](/share/designs-with-layout.feature.contained)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

@@ -1,18 +1,18 @@
 # How five-am.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/five-am.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/five-am.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Homepage hero with 5AM logo, navigation pill, studio location metadata, and large display headline 'WE BUILD STUNNING ONLINE EXPERIENCES' above a concrete-textured phone mockup](https://pin.fontofweb.com/8238?format=jpg)](https://design.withfudge.com/share/pin-8238)
+[![Homepage hero with 5AM logo, navigation pill, studio location metadata, and large display headline 'WE BUILD STUNNING ONLINE EXPERIENCES' above a concrete-textured phone mockup](https://pin.fontofweb.com/8238?format=jpg)](https://fudge.design/share/pin-8238)
 
-[Homepage hero with 5AM logo, navigation pill, studio location metadata, and large display headline 'WE BUILD STUNNING ONLINE EXPERIENCES' above a concrete-textured phone mockup](https://design.withfudge.com/share/pin-8238)
+[Homepage hero with 5AM logo, navigation pill, studio location metadata, and large display headline 'WE BUILD STUNNING ONLINE EXPERIENCES' above a concrete-textured phone mockup](https://fudge.design/share/pin-8238)
 
-[![Full-bleed project showcase featuring a LANCH app phone mockup on dark concrete with 'OPEN PROJECT' link, pagination indicator, and slide counter](https://pin.fontofweb.com/8237?format=jpg)](https://design.withfudge.com/share/pin-8237)
+[![Full-bleed project showcase featuring a LANCH app phone mockup on dark concrete with 'OPEN PROJECT' link, pagination indicator, and slide counter](https://pin.fontofweb.com/8237?format=jpg)](https://fudge.design/share/pin-8237)
 
-[Full-bleed project showcase featuring a LANCH app phone mockup on dark concrete with 'OPEN PROJECT' link, pagination indicator, and slide counter](https://design.withfudge.com/share/pin-8237)
+[Full-bleed project showcase featuring a LANCH app phone mockup on dark concrete with 'OPEN PROJECT' link, pagination indicator, and slide counter](https://fudge.design/share/pin-8237)
 
 ## Overview
 
@@ -173,3 +173,18 @@ The generous section spacing (approximately 7rem) should compress to 4rem on tab
 ## Scope note
 
 This guide covers the 5AM homepage including header, hero section with studio metadata, and project showcase presentation. Interior pages, mobile breakpoints, hover states, loading behavior, and motion design are not represented in the supplied material. The contact form, career listings, and studio detail pages are outside the current scope. Verify licensing for Satoshi through Indian Type Foundry before production use.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Normal state](/share/designs-with-interaction.data_state.normal)
+- [Agency](/share/designs-with-offering.agency)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Monochrome palette](/share/designs-with-color.palette_span.monochrome)
+- [Creative and design](/share/designs-with-industry.creative_design)
+- [Selection active](/share/designs-with-interaction.task_state.selection_active)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

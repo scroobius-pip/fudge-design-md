@@ -1,26 +1,26 @@
 # How gaio.club is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/gaio.club-design)
+[Open the live Fudge conversation](https://fudge.design/share/gaio.club-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Restaurant section with food photography background, cream menu cards for Starters, Main Course, and Cocktails, and a Reserve a table floating button](https://pin.fontofweb.com/8016?format=jpg)](https://design.withfudge.com/share/pin-8016)
+[![Restaurant section with food photography background, cream menu cards for Starters, Main Course, and Cocktails, and a Reserve a table floating button](https://pin.fontofweb.com/8016?format=jpg)](https://fudge.design/share/pin-8016)
 
-[Restaurant section with food photography background, cream menu cards for Starters, Main Course, and Cocktails, and a Reserve a table floating button](https://design.withfudge.com/share/pin-8016)
+[Restaurant section with food photography background, cream menu cards for Starters, Main Course, and Cocktails, and a Reserve a table floating button](https://fudge.design/share/pin-8016)
 
-[![Hero section with large Bethany Elingston display type reading ENJOY AN UNFORGETTABLE FOOD & SERVICE against black background with radiating sunburst motif and Greek key border](https://pin.fontofweb.com/8015?format=jpg)](https://design.withfudge.com/share/pin-8015)
+[![Hero section with large Bethany Elingston display type reading ENJOY AN UNFORGETTABLE FOOD & SERVICE against black background with radiating sunburst motif and Greek key border](https://pin.fontofweb.com/8015?format=jpg)](https://fudge.design/share/pin-8015)
 
-[Hero section with large Bethany Elingston display type reading ENJOY AN UNFORGETTABLE FOOD & SERVICE against black background with radiating sunburst motif and Greek key border](https://design.withfudge.com/share/pin-8015)
+[Hero section with large Bethany Elingston display type reading ENJOY AN UNFORGETTABLE FOOD & SERVICE against black background with radiating sunburst motif and Greek key border](https://fudge.design/share/pin-8015)
 
-[![Hero section showing the GAÏO logo centered above SAINT-TROPEZ — FRANCE label with decorative sunburst and bottom Greek key ornamental border](https://pin.fontofweb.com/8014?format=jpg)](https://design.withfudge.com/share/pin-8014)
+[![Hero section showing the GAÏO logo centered above SAINT-TROPEZ — FRANCE label with decorative sunburst and bottom Greek key ornamental border](https://pin.fontofweb.com/8014?format=jpg)](https://fudge.design/share/pin-8014)
 
-[Hero section showing the GAÏO logo centered above SAINT-TROPEZ — FRANCE label with decorative sunburst and bottom Greek key ornamental border](https://design.withfudge.com/share/pin-8014)
+[Hero section showing the GAÏO logo centered above SAINT-TROPEZ — FRANCE label with decorative sunburst and bottom Greek key ornamental border](https://fudge.design/share/pin-8014)
 
-[![Reservation modal panel in warm bronze with guest count, date, and time selection fields, and Reserve button with Zenchef attribution](https://pin.fontofweb.com/4554?format=jpg)](https://design.withfudge.com/share/pin-4554)
+[![Reservation modal panel in warm bronze with guest count, date, and time selection fields, and Reserve button with Zenchef attribution](https://pin.fontofweb.com/4554?format=jpg)](https://fudge.design/share/pin-4554)
 
-[Reservation modal panel in warm bronze with guest count, date, and time selection fields, and Reserve button with Zenchef attribution](https://design.withfudge.com/share/pin-4554)
+[Reservation modal panel in warm bronze with guest count, date, and time selection fields, and Reserve button with Zenchef attribution](https://fudge.design/share/pin-4554)
 
 ## Overview
 
@@ -166,3 +166,18 @@ Typography should maintain its proportional relationships across breakpoints: Be
 ## Scope note
 
 This guide covers the landing page experience for GAÏO including the hero section, navigation, menu presentation, and reservation interface. Interior pages, event listings, gallery layouts, and mobile-specific navigation patterns are not represented in the available material. Motion design, hover states, loading sequences, and sound design are not documented. The spacing values reflect the site's tight 2px modular grid.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Serif](/share/designs-with-typography.generic.serif)
+- [Dark mode](/share/designs-with-color.mode.dark)
+- [Large type](/share/designs-with-visual.trait.large_type)
+- [No navigation shell](/share/designs-with-layout.shell.none)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Square corners](/share/designs-with-visual.corner.square)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

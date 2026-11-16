@@ -1,26 +1,26 @@
 # How typographer.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/typographer.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/typographer.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Sign-up page with split layout: left panel shows large blue typographic specimen with serif headline, right panel contains pricing form with email input and feature checklist](https://pin.fontofweb.com/10430?format=jpg)](https://design.withfudge.com/share/pin-10430)
+[![Sign-up page with split layout: left panel shows large blue typographic specimen with serif headline, right panel contains pricing form with email input and feature checklist](https://pin.fontofweb.com/10430?format=jpg)](https://fudge.design/share/pin-10430)
 
-[Sign-up page with split layout: left panel shows large blue typographic specimen with serif headline, right panel contains pricing form with email input and feature checklist](https://design.withfudge.com/share/pin-10430)
+[Sign-up page with split layout: left panel shows large blue typographic specimen with serif headline, right panel contains pricing form with email input and feature checklist](https://fudge.design/share/pin-10430)
 
-[![Minimal footer with Typographer logo, three-column link grid for navigation and legal pages, and copyright notice on light gray background](https://pin.fontofweb.com/10423?format=jpg)](https://design.withfudge.com/share/pin-10423)
+[![Minimal footer with Typographer logo, three-column link grid for navigation and legal pages, and copyright notice on light gray background](https://pin.fontofweb.com/10423?format=jpg)](https://fudge.design/share/pin-10423)
 
-[Minimal footer with Typographer logo, three-column link grid for navigation and legal pages, and copyright notice on light gray background](https://design.withfudge.com/share/pin-10423)
+[Minimal footer with Typographer logo, three-column link grid for navigation and legal pages, and copyright notice on light gray background](https://fudge.design/share/pin-10423)
 
-[![About section with large serif heading 'Built by The Type Founders', body copy, and three-column foundry directory with underlined links](https://pin.fontofweb.com/10422?format=jpg)](https://design.withfudge.com/share/pin-10422)
+[![About section with large serif heading 'Built by The Type Founders', body copy, and three-column foundry directory with underlined links](https://pin.fontofweb.com/10422?format=jpg)](https://fudge.design/share/pin-10422)
 
-[About section with large serif heading 'Built by The Type Founders', body copy, and three-column foundry directory with underlined links](https://design.withfudge.com/share/pin-10422)
+[About section with large serif heading 'Built by The Type Founders', body copy, and three-column foundry directory with underlined links](https://fudge.design/share/pin-10422)
 
-[![Pricing cards overlay on vibrant orange and green typographic photography: three dark translucent panels for Monthly, Students, and Enterprise tiers](https://pin.fontofweb.com/10421?format=jpg)](https://design.withfudge.com/share/pin-10421)
+[![Pricing cards overlay on vibrant orange and green typographic photography: three dark translucent panels for Monthly, Students, and Enterprise tiers](https://pin.fontofweb.com/10421?format=jpg)](https://fudge.design/share/pin-10421)
 
-[Pricing cards overlay on vibrant orange and green typographic photography: three dark translucent panels for Monthly, Students, and Enterprise tiers](https://design.withfudge.com/share/pin-10421)
+[Pricing cards overlay on vibrant orange and green typographic photography: three dark translucent panels for Monthly, Students, and Enterprise tiers](https://fudge.design/share/pin-10421)
 
 ## Overview
 
@@ -185,3 +185,18 @@ Button touch targets should maintain minimum 44px height regardless of viewport.
 ## Scope note
 
 This guide covers the homepage, about section, pricing presentation, sign-up flow, and footer as visible in the supplied captures. Mobile layouts, hover and focus states, loading indicators, error handling, and account dashboard interfaces are not represented. The Mania family is delivered as Mania-300, Mania-600, and Mania-Regular files; implementers should map these to the appropriate weight axes. Applesystem appears as a system fallback and does not require web font loading.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Square corners](/share/designs-with-visual.corner.square)
+- [Software SaaS](/share/designs-with-offering.software_saas)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Features section](/share/designs-with-section.marketing.features)
+- [Large type](/share/designs-with-visual.trait.large_type)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).

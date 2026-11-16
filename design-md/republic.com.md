@@ -1,26 +1,26 @@
 # How republic.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/share/republic.com-design)
+[Open the live Fudge conversation](https://fudge.design/share/republic.com-design)
 
 Last updated: 2026-08-10
 
-## Captured pages
+## References
 
-[![Dark hero section with large white display type reading Innovation through tokenization, blue primary button, and three-column footer navigation on navy background](https://pin.fontofweb.com/6981?format=jpg)](https://design.withfudge.com/share/pin-6981)
+[![Dark hero section with large white display type reading Innovation through tokenization, blue primary button, and three-column footer navigation on navy background](https://pin.fontofweb.com/6981?format=jpg)](https://fudge.design/share/pin-6981)
 
-[Dark hero section with large white display type reading Innovation through tokenization, blue primary button, and three-column footer navigation on navy background](https://design.withfudge.com/share/pin-6981)
+[Dark hero section with large white display type reading Innovation through tokenization, blue primary button, and three-column footer navigation on navy background](https://fudge.design/share/pin-6981)
 
-[![Light hero with bold headline Your community wants to invest, blue CTA button, investor logos, and colorful company raise cards in a masonry grid on the right](https://pin.fontofweb.com/6982?format=jpg)](https://design.withfudge.com/share/pin-6982)
+[![Light hero with bold headline Your community wants to invest, blue CTA button, investor logos, and colorful company raise cards in a masonry grid on the right](https://pin.fontofweb.com/6982?format=jpg)](https://fudge.design/share/pin-6982)
 
-[Light hero with bold headline Your community wants to invest, blue CTA button, investor logos, and colorful company raise cards in a masonry grid on the right](https://design.withfudge.com/share/pin-6982)
+[Light hero with bold headline Your community wants to invest, blue CTA button, investor logos, and colorful company raise cards in a masonry grid on the right](https://fudge.design/share/pin-6982)
 
-[![Social proof section with founder testimonials, green accent metrics, category filter pills, and blue Discover your worth CTA button](https://pin.fontofweb.com/6983?format=jpg)](https://design.withfudge.com/share/pin-6983)
+[![Social proof section with founder testimonials, green accent metrics, category filter pills, and blue Discover your worth CTA button](https://pin.fontofweb.com/6983?format=jpg)](https://fudge.design/share/pin-6983)
 
-[Social proof section with founder testimonials, green accent metrics, category filter pills, and blue Discover your worth CTA button](https://design.withfudge.com/share/pin-6983)
+[Social proof section with founder testimonials, green accent metrics, category filter pills, and blue Discover your worth CTA button](https://fudge.design/share/pin-6983)
 
-[![Product feature grid with four outlined cards for raise options and trust section with checkmark icons on clean white background](https://pin.fontofweb.com/6984?format=jpg)](https://design.withfudge.com/share/pin-6984)
+[![Product feature grid with four outlined cards for raise options and trust section with checkmark icons on clean white background](https://pin.fontofweb.com/6984?format=jpg)](https://fudge.design/share/pin-6984)
 
-[Product feature grid with four outlined cards for raise options and trust section with checkmark icons on clean white background](https://design.withfudge.com/share/pin-6984)
+[Product feature grid with four outlined cards for raise options and trust section with checkmark icons on clean white background](https://fudge.design/share/pin-6984)
 
 ## Overview
 
@@ -216,3 +216,18 @@ The design shows desktop-first composition with clear adaptation paths. The hero
 ## Scope note
 
 This guide covers the raise page and tokenization landing page visible in the supplied images. Mobile breakpoints, form interactions, investment flows, and account dashboard interfaces are not represented. Motion design, loading states, and error handling are not described. Measurements are exact values from the retained interface data.
+
+## Related design patterns
+
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Finance and insurance](/share/designs-with-industry.finance_insurance)
+- [Marketing section](/share/designs-with-section.marketing)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Light mode](/share/designs-with-color.mode.light)
+- [Blue hue](/share/designs-with-color.hue.blue)
+- [Stacked sections](/share/designs-with-layout.archetype.stacked_sections)
+
+## More website design guides
+
+[Browse website design guides by pattern and website](/design-guides).
