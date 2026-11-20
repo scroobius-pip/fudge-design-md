@@ -216,17 +216,6 @@ Terminal blocks should remain horizontally scrollable rather than wrapping, pres
 
 This guide covers the landing page and documentation surfaces of impeccable.style as visible in the supplied captures. The dark theme's full feature catalog, interactive command demonstrations, and any motion behaviors are not represented. The light theme's complete FAQ and changelog entries are partially shown. Measurements derive from the retained interface data with font sizes snapped to the 2px base grid where exact values were not recorded.
 
-## Related design patterns
-
-- [AI enabled](/share/designs-with-capability.ai_enabled)
-- [Neutral hue](/share/designs-with-color.hue.neutral)
-- [No navigation shell](/share/designs-with-layout.shell.none)
-- [Technology and software](/share/designs-with-industry.technology_software)
-- [Solid background](/share/designs-with-visual.background.solid)
-- [Generative AI](/share/designs-with-capability.generative_ai)
-- [Light mode](/share/designs-with-color.mode.light)
-- [Serif](/share/designs-with-typography.generic.serif)
-
 ## More website design guides
 
 [Browse website design guides by pattern and website](/design-guides).

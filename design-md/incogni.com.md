@@ -171,17 +171,6 @@ Button widths should expand to full container on smallest viewports for touch ac
 
 This guide covers the economics and proof sections of the Incogni marketing site as visible in desktop layouts. Mobile layouts, navigation header, footer, form interactions, and checkout flows are not represented. Motion behavior, hover states, and dark mode variants were not documented. Measurements are practical adaptation targets.
 
-## Related design patterns
-
-- [Neutral hue](/share/designs-with-color.hue.neutral)
-- [Technology and software](/share/designs-with-industry.technology_software)
-- [Sans serif](/share/designs-with-typography.generic.sans_serif)
-- [Paired type system](/share/designs-with-typography.system_size.paired)
-- [Light mode](/share/designs-with-color.mode.light)
-- [Rounded corners](/share/designs-with-visual.corner.rounded)
-- [Solid background](/share/designs-with-visual.background.solid)
-- [Contained layout](/share/designs-with-layout.feature.contained)
-
 ## More website design guides
 
 [Browse website design guides by pattern and website](/design-guides).
