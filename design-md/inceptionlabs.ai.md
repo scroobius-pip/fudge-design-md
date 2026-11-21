@@ -232,6 +232,17 @@ Button padding remains consistent across breakpoints, but button groups may stac
 
 This guide covers the marketing site surfaces visible in the supplied images: homepage, model pages, about page, and enterprise page. It does not include documentation interfaces, console or dashboard designs, mobile applications, or email templates. Motion behavior, loading states, and form validation patterns are not documented. System-Sansserif is named as a material family in the type system. Measurements reflect the extracted interface values and should be verified against live implementation before production use.
 
+## Related design patterns
+
+- [AI enabled](/share/designs-with-capability.ai_enabled)
+- [Generative AI](/share/designs-with-capability.generative_ai)
+- [Neutral hue](/share/designs-with-color.hue.neutral)
+- [Technology and software](/share/designs-with-industry.technology_software)
+- [Sans serif](/share/designs-with-typography.generic.sans_serif)
+- [Full bleed layout](/share/designs-with-layout.feature.full_bleed)
+- [Solid background](/share/designs-with-visual.background.solid)
+- [Dark mode](/share/designs-with-color.mode.dark)
+
 ## More website design guides
 
 [Browse website design guides by pattern and website](/design-guides).
